@@ -10,7 +10,7 @@ function createPluginList() {
   console.log(files)
   const list = files.map((file) => {
     const config = require(file)
-    return only(config, 'plugin icon name desc version')
+    return only(config, 'plugin icon name desc version config')
   })
   fs.writeFileSync(
     join(PLUGINS_DIR, 'list.json'),
