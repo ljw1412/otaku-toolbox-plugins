@@ -1,9 +1,12 @@
 {
   "name": "otaku-toolbox-plugins",
   "version": "1.0.0",
+  "private": true,
   "description": "",
-  "main": "index.js",
   "scripts": {
+    "start": "node bin/www",
+    "dev": "./node_modules/.bin/nodemon bin/www",
+    "prd": "pm2 start bin/www",
     "build": "node ./build.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,6 +22,18 @@
   "homepage": "https://github.com/ljw1412/otaku-toolbox-plugins#readme",
   "dependencies": {
     "glob": "^7.2.0",
-    "only": "^0.0.2"
+    "only": "^0.0.2",
+    "debug": "^4.1.1",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-convert": "^1.2.0",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^3.2.0",
+    "koa-onerror": "^4.1.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
   }
 }

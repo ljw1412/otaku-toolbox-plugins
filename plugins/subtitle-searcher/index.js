@@ -2,7 +2,7 @@ const { Vue, appUse, appMount, appUnMount, DataCenter } = window.usePlugin()
 
 const { createApp, defineComponent, toRaw } = Vue
 
-ruleList = [
+const ruleList = [
   {
     name: '射手网(伪)',
     namespace: 'assrt',
