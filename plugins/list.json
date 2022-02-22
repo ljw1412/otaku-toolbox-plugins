@@ -1,5 +1,15 @@
 [
   {
+    "plugin": "ac-trace",
+    "icon": "icon-search",
+    "name": "动漫图片搜索",
+    "desc": "检索图片对应的动漫或相似原图所在。",
+    "version": 0,
+    "config": {
+      "width": 960
+    }
+  },
+  {
     "plugin": "subtitle-searcher",
     "icon": "icon-language",
     "name": "字幕搜索",
