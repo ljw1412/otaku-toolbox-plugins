@@ -4,10 +4,11 @@
     "icon": "icon-search",
     "name": "动漫图片搜索",
     "desc": "检索图片对应的动漫或相似原图所在。",
-    "version": 0,
+    "version": 1,
     "config": {
-      "width": 960
-    }
+      "width": 800
+    },
+    "css": true
   },
   {
     "plugin": "subtitle-searcher",

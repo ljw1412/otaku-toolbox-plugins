@@ -11,7 +11,7 @@ module.exports = {
     console.log(files)
     const list = files.map((file) => {
       const config = require(file)
-      return only(config, 'plugin icon name desc version config')
+      return only(config, 'plugin icon name desc version config css')
     })
     fs.writeFileSync(
       join(PLUGINS_DIR, 'list.json'),

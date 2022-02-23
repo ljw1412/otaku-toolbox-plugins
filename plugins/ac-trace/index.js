@@ -1,9 +1,22 @@
 const { Vue, appUse, appMount, appUnMount, DataCenter } = window.usePlugin()
 
-const { createApp, defineComponent, ref } = Vue
+const { createApp, defineComponent, ref, reactive } = Vue
+
+const store = reactive({
+  loading: false,
+  currentImageUrl: '',
+  list: [],
+  currentItem: {},
+  animeMediaList: [],
+  searchState: {
+    frames: 0,
+    startTime: 0,
+    endTime: 0,
+  },
+})
 
 const loading = ref(false)
-const current = ref({})
+const currentItem = ref({})
 const animeMedia = ref([])
 
 const animeQuery = `query ($ids: [Int]) {
@@ -69,41 +82,99 @@ function formatDuration(duration) {
   return list.filter((item, index) => item > 0 || index >= 1).join(':')
 }
 
+function updateResult(data) {
+  const ids = Array.from(new Set(data.result.map((item) => item.anilist)))
+  fetchAniList(ids)
+
+  data.result.forEach((item) => {
+    item.selected = false
+  })
+  store.list = data.result
+  store.searchState.frames = data.frameCount
+  if (store.list.length) {
+    store.currentItem = store.list[0]
+    store.list.forEach((el) => {
+      el.selected = el === store.list[0]
+    })
+  }
+}
+
+async function uploadImage(imageBlob) {
+  store.currentItem = {}
+  store.searchState = {
+    frames: 0,
+    startTime: performance.now(),
+    endTime: 0,
+  }
+  store.loading = true
+  const formData = new FormData()
+  formData.append('image', imageBlob)
+  const data = await fetch('https://api.trace.moe/search?cutBorders', {
+    method: 'POST',
+    body: formData,
+  }).then((e) => e.json())
+  store.loading = false
+  store.searchState.endTime = performance.now()
+  store.currentImageUrl = URL.createObjectURL(imageBlob)
+  updateResult(data)
+}
+
+async function fetchBangumi(imageUrl) {
+  if (imageUrl) {
+    store.currentItem = {}
+    store.searchState = {
+      frames: 0,
+      startTime: performance.now(),
+      endTime: 0,
+    }
+    store.loading = true
+    try {
+      const resp = await fetch(
+        `https://api.trace.moe/search?url=${encodeURIComponent(imageUrl)}`
+      )
+      const data = await resp.json()
+      updateResult(data)
+    } catch (error) {}
+    store.loading = false
+    store.searchState.endTime = performance.now()
+    store.currentImageUrl = imageUrl
+  }
+}
+
+// 根据id获取动漫详情
+async function fetchAniList(ids) {
+  const resp = await fetch('https://trace.moe/anilist/', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Accept: 'application/json',
+    },
+    body: JSON.stringify({
+      query: animeQuery,
+      variables: { ids },
+    }),
+  })
+  const json = await resp.json()
+  store.animeMediaList = json.data.Page.media
+}
+
 const startPage = defineComponent({
   name: 'AcTraceStartPage',
   template: `<div class="start-page">
   <div class="sticky-t bg-app pb-8" style="z-index: 1;">
-    <a-upload draggable
-      action="https://api.trace.moe/search?cutBorders"
-      method="POST"
-      enctype="multipart/form-data"
-      name="image"
-      style="width: calc(100% - 2px);--color-fill-1: rgba(255, 255, 255, 0.04);"
-      :show-file-list="false"
-      :on-before-upload="handleBeforeUpload"
-      @success="handleUploadSuccess"
-      @error="handleUploadError"/>    
-    <acg-ratio-div
-      v-if="currentImageUrl"
-      :ratio="[16,9]"
-      class="flex-grow-1 position-absolute w-100"
-      style="top: 0; z-index: -1;">
-      <img loading="lazy" :src="currentImageUrl">
+    <a-input-search v-model="imageUrl" allow-clear placeholder="也可以输入网络图片地址" @search="fetchBangumi" @press-enter="fetchBangumi"/>
+    <acg-ratio-div v-if="store.currentImageUrl"
+      :ratio="[16,9]">
+      <img loading="lazy" :src="store.currentImageUrl">
     </acg-ratio-div>
-    <a-input v-model="imageUrl" allow-clear placeholder="也可以输入网络图片地址"/>
-    <a-space fill class="mt-8 justify-content-center">
-      <a-button @click="fetchBangumi">番剧搜索</a-button>
-      <a-button>搜索相似</a-button>
-    </a-space>
+    <div v-show="store.searchState.frames"
+      class="px-6 pt-6"
+      style="opacity: 0.8;">耗时 {{ usedTime }} 秒，搜索了 {{ store.searchState.frames }} 帧</div>
   </div>
-  <span v-show="frames"
-    class="px-4 pt-4"
-    style="opacity: 0.8;">耗时{{ usedTime }}秒，搜索了{{ frames }}帧</span>
   <a-space fill direction="vertical" class="py-8 px-4">
-    <a-card v-for="item of list"
+    <a-card v-for="item of store.list"
       size="small"
       class="result-card cursor-pointer"
-      :bordered="false"
       :class="{selected: item.selected}"
       :title="item.filename"
       :body-style="{padding: 0}"
@@ -126,102 +197,75 @@ const startPage = defineComponent({
 
   data() {
     return {
+      store,
       imageUrl: '',
-      currentImageUrl: '',
-      list: [],
-      frames: 0,
-      startTime: 0,
-      endTime: 0,
     }
   },
 
   computed: {
     usedTime() {
-      return ((this.endTime - this.startTime) / 1000).toFixed(2)
-    },
-    ids() {
-      return Array.from(new Set(this.list.map((item) => item.anilist)))
+      return (
+        (store.searchState.endTime - store.searchState.startTime) /
+        1000
+      ).toFixed(2)
     },
   },
 
   methods: {
     formatDuration,
-    updateResult(data) {
-      data.result.forEach((item) => {
-        item.selected = false
-      })
-      this.list = data.result
-      this.frames = data.frameCount
-      this.currentImageUrl = this.imageUrl
-      if (this.list.length) {
-        this.handleItemClick(this.list[0])
-      }
-    },
 
-    async fetchBangumi() {
-      if (this.imageUrl) {
-        current.value = {}
-        this.frames = 0
-        this.startTime = performance.now()
-        loading.value = true
-        try {
-          const resp = await fetch(
-            `https://api.trace.moe/search?url=${encodeURIComponent(
-              this.imageUrl
-            )}`
-          )
-          const data = await resp.json()
-          this.updateResult(data)
-          this.fetchAniList()
-        } catch (error) {}
-        loading.value = false
-        this.endTime = performance.now()
-      }
-    },
-
-    async fetchAniList() {
-      const resp = await fetch('https://trace.moe/anilist/', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          Accept: 'application/json',
-        },
-        body: JSON.stringify({
-          query: animeQuery,
-          variables: { ids: this.ids },
-        }),
-      })
-
-      const json = await resp.json()
-      animeMedia.value = json.data.Page.media
-    },
-
-    handleBeforeUpload() {
-      this.frames = 0
-      this.startTime = performance.now()
-      loading.value = true
-      current.value = {}
-      return Promise.resolve(true)
-    },
-
-    handleUploadSuccess(file) {
-      this.endTime = performance.now()
-      loading.value = false
-      const { response: data } = file
-      this.updateResult(data)
-      this.currentImageUrl = file.url
-      this.fetchAniList()
-    },
-
-    handleUploadError(file) {
-      console.error(file)
+    fetchBangumi() {
+      fetchBangumi(this.imageUrl)
     },
 
     handleItemClick(item) {
-      current.value = item
-      this.list.forEach((el) => {
+      store.currentItem = item
+      store.list.forEach((el) => {
         el.selected = el === item
       })
+    },
+  },
+})
+
+const fullScreenUpload = defineComponent({
+  name: 'AcTraceFullScreenUpload',
+  template: `<div v-show="visible"
+    class="full-screen-upload"
+    @dragleave="handleDragleave"
+    @dragover.prevent
+    @drop="handleDrop">
+    <div class="tips m-auto">
+      <icon-upload style="font-size: 80px;" />
+      <div class="mt-8">松手以上传(仅限图片格式)</div>
+    </div>
+  </div>`,
+
+  props: { visible: Boolean },
+
+  emits: ['update:visible'],
+
+  data() {
+    return {}
+  },
+
+  methods: {
+    handleDragleave(e) {
+      this.$emit('update:visible', false)
+      console.log('Dragleave', e)
+    },
+    handleDrop(e) {
+      console.log('Drop', e)
+      console.log(event.dataTransfer.files)
+      const file = event.dataTransfer.files[0]
+      if (file) {
+        if (!file.type.startsWith('image')) {
+        } else {
+          uploadImage(file)
+        }
+      } else {
+        console.log(Vue)
+      }
+      this.$emit('update:visible', false)
     },
   },
 })
@@ -229,9 +273,9 @@ const startPage = defineComponent({
 const contentNode = defineComponent({
   name: 'AcTraceContentNode',
   template: `<div v-if="data.filename" class="px-8 py-8">
-  <a-card :bordered="false" :title="data.filename">
+  <a-card :title="data.filename">
     <template #cover>
-      <video :src="data.video"
+      <video :src="videoBlob"
         :poster="data.image"
         class="w-100"
         volume="0"
@@ -241,14 +285,21 @@ const contentNode = defineComponent({
     <a-card-meta>
       <template #description>
         <div class="d-flex">
-          <a-slider :default-value="50" disabled/>
-          <span class="ml-8 flex-shrink-0">{{ formatDuration(data.from) }}</span>
+          <a-slider disabled
+          :model-value="data.from"
+          :max="duration"
+          :format-tooltip="formatDuration"/>
+          <div class="ml-8 flex-shrink-0">          
+            <span>{{ formatDuration(data.from) }}</span>
+            <span class="mx-2">/</span>
+            <span>{{ formatedDuration }}</span>
+          </div>
         </div>
       </template>
     </a-card-meta>
   </a-card>
 
-  <a-card v-if="info.id" class="mt-12" :bordered="false">
+  <a-card v-if="info && info.id" class="mt-12">
     <template #title>
       <p v-if="info.title && info.title.native"
         class="title-native">{{ info.title.native }}</p>
@@ -264,17 +315,43 @@ const contentNode = defineComponent({
   </a-card>
 </div>`,
 
+  data() {
+    return {
+      videoBlob: '',
+      duration: 0,
+    }
+  },
+
   computed: {
     data() {
-      return current.value
+      return store.currentItem
     },
     info() {
-      return animeMedia.value.find((item) => item.id === this.data.anilist)
+      return store.animeMediaList.find((item) => item.id === this.data.anilist)
+    },
+    formatedDuration() {
+      return this.formatDuration(this.duration)
+    },
+  },
+
+  watch: {
+    data() {
+      this.loadVideoInfo()
     },
   },
 
   methods: {
     formatDuration,
+
+    async loadVideoInfo() {
+      this.videoBlob = ''
+      if (this.data.video) {
+        const resp = await fetch(this.data.video)
+        const blob = await resp.blob()
+        this.duration = parseFloat(resp.headers.get('x-video-duration'))
+        this.videoBlob = URL.createObjectURL(blob)
+      }
+    },
   },
 })
 
@@ -282,25 +359,12 @@ const contentNode = defineComponent({
   const app = createApp({
     name: 'ToolAcTrace',
 
-    components: {
-      startPage,
-      contentNode,
-    },
-
-    data() {
-      return {}
-    },
-
-    computed: {
-      loading() {
-        return loading.value
-      },
-    },
-
-    methods: {},
-
-    template: `<a-spin :loading="loading" class="w-100 h-100">
-    <a-layout class="tool-ac-trace h-100">
+    template: `<a-spin class="tool-ac-trace w-100 h-100"
+      :loading="store.loading"
+      :class="{dragging}"
+      @dragenter="handleDragenter">
+    <full-screen-upload v-model:visible="dragging"></full-screen-upload>
+    <a-layout class="h-100">
       <a-layout-sider :width="300">
         <start-page></start-page>
       </a-layout-sider>
@@ -308,14 +372,26 @@ const contentNode = defineComponent({
         <content-node></content-node>
       </a-layout-content>
     </a-layout>
-  </a-spin>`,
+</a-spin>`,
+
+    components: {
+      startPage,
+      contentNode,
+      fullScreenUpload,
+    },
+
+    data() {
+      return { store, dragging: false }
+    },
+
+    methods: {
+      handleDragenter(e) {
+        if (store.loading) return
+        this.dragging = true
+        console.log('Dragenter', e)
+      },
+    },
   })
   appUse(app)
   appMount(app)
-
-  const style = document.createElement('style')
-  style.innerHTML = `.tool-ac-trace .result-card.selected{
-    box-shadow: 0 0 10px var(--app-color-common);
-  }`
-  document.body.appendChild(style)
 })()
