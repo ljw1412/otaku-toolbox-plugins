@@ -383,11 +383,12 @@
     </div>
 
     <div class="d-flex my-8 align-items-start">
-      <a-descriptions :data="descriptions" 
-        :column="1" 
-        :label-style="{'padding-left': '8px'}"
+      <a-descriptions bordered
         class="flex-grow-1"
-        size="small">
+        size="small"
+        :data="descriptions" 
+        :column="1" 
+        :label-style="{'padding-left': '8px'}">
         <template #value="{value, data}">
           <span v-if="data.type === 'string'">{{ value }}</span>
           <div v-else-if="data.type === 'arrayString'">
