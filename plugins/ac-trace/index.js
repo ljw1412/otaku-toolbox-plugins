@@ -179,7 +179,7 @@
     name: 'AcTraceSidebar',
     template: `<div class="start-page">
   <div class="sticky-t bg-app pb-8" style="z-index: 1;box-shadow: 0 0 5px var(--color-fill-4);">
-    <a-input-search v-model="imageUrl" allow-clear placeholder="也可以输入网络图片地址" @search="fetchBangumi" @press-enter="fetchBangumi"/>
+    <a-input-search v-model="imageUrl" allow-clear placeholder="拖入图片或输入网络图片地址" @search="fetchBangumi" @press-enter="fetchBangumi"/>
     <acg-ratio-div v-if="store.currentImageUrl"
       class="origin-image-preview"
       :ratio="[16,9]">
