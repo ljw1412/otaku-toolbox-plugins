@@ -18,7 +18,7 @@
   width: 100%;
   height: 100%;
   box-sizing: border-box;
-  z-index: 100;
+  z-index: 5000;
   display: flex;
   color: #fff;
   text-align: center;
@@ -26,4 +26,8 @@
 
 .full-screen-upload .tips {
   pointer-events: none;
+}
+
+.origin-image-preview img {
+  object-fit: contain !important;
 }
