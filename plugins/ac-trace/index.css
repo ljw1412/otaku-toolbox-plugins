@@ -2,6 +2,11 @@
   position: relative;
 }
 
+.tool-ac-trace .arco-layout-sider-children,
+.tool-ac-trace .arco-layout-content {
+  overflow-y: scroll;
+}
+
 .tool-ac-trace .result-card.selected {
   box-shadow: 0 0 10px var(--app-color-common);
 }
@@ -9,6 +14,14 @@
 .tool-ac-trace.dragging .full-screen-upload {
   border: 4px dashed var(--app-color-common);
   background-color: rgba(0, 0, 0, 0.5);
+}
+
+.quick-player.none {
+  opacity: 0.5;
+}
+
+.result-card .arco-card-header-title {
+  font-size: 13px !important;
 }
 
 .full-screen-upload {
@@ -28,6 +41,25 @@
   pointer-events: none;
 }
 
+.origin-image-preview {
+  border-bottom: 1px solid var(--color-border);
+}
+
 .origin-image-preview img {
   object-fit: contain !important;
+}
+
+.plugin-rightcopy {
+  user-select: none;
+  text-align: center;
+  color: var(--color-text-4, #999999);
+}
+
+.tool-ac-trace .details video {
+  background-color: #000;
+}
+
+.anime-info-header {
+  border-left: 4px double var(--app-color-common);
+  border-bottom: 1px dashed var(--app-color-common);
 }

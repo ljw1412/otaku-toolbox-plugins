@@ -175,10 +175,10 @@
     }
   }
 
-  const startPage = defineComponent({
-    name: 'AcTraceStartPage',
+  const sidebar = defineComponent({
+    name: 'AcTraceSidebar',
     template: `<div class="start-page">
-  <div class="sticky-t bg-app pb-8" style="z-index: 1;">
+  <div class="sticky-t bg-app pb-8" style="z-index: 1;box-shadow: 0 0 5px var(--color-fill-4);">
     <a-input-search v-model="imageUrl" allow-clear placeholder="也可以输入网络图片地址" @search="fetchBangumi" @press-enter="fetchBangumi"/>
     <acg-ratio-div v-if="store.currentImageUrl"
       class="origin-image-preview"
@@ -196,6 +196,7 @@
       :class="{selected: item.selected}"
       :title="item.filename"
       :body-style="{padding: 0}"
+      :header-style="{ padding: '4px 8px' }"
       @click="handleItemClick(item)">
       <div class="layout-lr">
         <a-space direction="vertical" 
@@ -210,6 +211,7 @@
         </acg-ratio-div>
       </div>
     </a-card>
+    <div class="plugin-rightcopy text-center">本插件技术源于 trace.moe</div>
   </a-space>
 </div>`,
 
@@ -308,10 +310,10 @@
     },
   })
 
-  const contentNode = defineComponent({
-    name: 'AcTraceContentNode',
-    template: `<div v-if="data.filename" class="px-8 py-8">
-  <a-card :title="data.filename">
+  const quickPlayer = defineComponent({
+    name: 'AcTraceQuickPlayer',
+    template: `<a-card :title="data.filename || '番剧标题'"
+      class="quick-player" :class="{none: !data.filename}">
     <template #cover>
       <video :src="videoBlob"
         :poster="data.image"
@@ -328,46 +330,22 @@
           :max="duration"
           :format-tooltip="formatDuration"/>
           <div class="ml-8 flex-shrink-0">          
-            <span>{{ formatDuration(data.from) }}</span>
+            <span>{{ formatDuration(data.from || 0) }}</span>
             <span class="mx-2">/</span>
             <span>{{ formatedDuration }}</span>
           </div>
         </div>
       </template>
     </a-card-meta>
-  </a-card>
-
-  <a-card v-if="info && info.id" class="mt-12">
-    <template #title>
-      <p v-if="info.title && info.title.native"
-        class="title-native">{{ info.title.native }}</p>
-      <p v-if="info.title && info.title.romaji"
-        class="title-romaji">{{ info.title.romaji }}</p>
-    </template>
-
-    <p v-if="info.synonyms">{{ info.synonyms.join(' / ') }}</p>
-    <p v-if="info.title && info.title.chinese"
-      class="title-english">{{ info.title.chinese }}</p>
-    <p v-if="info.title && info.title.english"
-      class="title-english">{{ info.title.english }}</p>
-  </a-card>
-</div>`,
+  </a-card>`,
 
     data() {
-      return {
-        videoBlob: '',
-        duration: 0,
-      }
+      return { videoBlob: '', duration: 0 }
     },
 
     computed: {
       data() {
         return store.currentItem
-      },
-      info() {
-        return store.animeMediaList.find(
-          (item) => item.id === this.data.anilist
-        )
       },
       formatedDuration() {
         return this.formatDuration(this.duration)
@@ -395,6 +373,120 @@
     },
   })
 
+  const animeInfo = defineComponent({
+    name: 'AcTraceAnimeInfo',
+    template: `<a-card v-if="info && info.id" 
+  class="anime-info mt-12" :body-style="{padding: 0}">
+    <div v-if="info.title" class="anime-info-header py-4 px-8">
+      <p class="title-native fs-22 lh-24">{{ info.title.native }}</p>
+      <p class="title-romaji fs-13 lh-15">{{ info.title.romaji }}</p>
+    </div>
+
+    <div class="d-flex my-8 align-items-start">
+      <a-descriptions :data="descriptions" 
+        :column="1" 
+        :label-style="{'padding-left': '8px'}"
+        class="flex-grow-1"
+        size="small">
+        <template #value="{value, data}">
+          <span v-if="data.type === 'string'">{{ value }}</span>
+          <div v-else-if="data.type === 'arrayString'">
+            <div v-for="item of value">{{ item }}</div>
+          </div>
+          <div v-else-if="data.type === 'arrayLink'">
+            <div v-for="item of value">
+              <a-link target="_blank"
+                :href="item.url"
+                :status="item.status">{{ item.name }}</a-link>
+            </div>
+          </div>
+        </template>
+      </a-descriptions>
+      <img :src="info.coverImage.large" 
+        loading="lazy"
+        style="width:200px; object-fit: contain;"
+        class="flex-shrink-0">
+    </div>
+  </a-card>`,
+
+    computed: {
+      info() {
+        return store.animeMediaList.find(
+          (item) => item.id === store.currentItem.anilist
+        )
+      },
+      alias() {
+        if (!this.info) return []
+        return Array.from(
+          new Set(
+            []
+              .concat(this.info.synonyms || [], [
+                this.info.title.chinese,
+                this.info.title.english,
+              ])
+              .filter((i) => i)
+          )
+        )
+      },
+      studios() {
+        if (!this.info) return []
+        return this.info.studios.edges.map((item) => {
+          return {
+            isMain: item.isMain,
+            status: item.isMain ? 'warning' : undefined,
+            id: item.node.id,
+            name: item.node.name,
+            url: item.node.siteUrl,
+          }
+        })
+      },
+      externalLinks() {
+        if (!this.info) return []
+        return this.info.externalLinks.map((item) => {
+          return { ...item, name: item.site }
+        })
+      },
+      descriptions() {
+        if (!this.info) return []
+        return [
+          {
+            label: '放送时间',
+            type: 'string',
+            value: `${this.formatDateObject(
+              this.info.startDate
+            )} ~ ${this.formatDateObject(this.info.endDate)}`,
+          },
+          {
+            label: '别称',
+            type: 'arrayString',
+            value: this.alias,
+          },
+          {
+            label: '类型',
+            type: 'string',
+            value: this.info.genres.join(', '),
+          },
+          {
+            label: '制作',
+            type: 'arrayLink',
+            value: this.studios,
+          },
+          {
+            label: '相关网站',
+            type: 'arrayLink',
+            value: this.externalLinks,
+          },
+        ]
+      },
+    },
+
+    methods: {
+      formatDateObject(obj) {
+        return `${obj.year}-${obj.month}-${obj.day}`
+      },
+    },
+  })
+
   const app = createApp({
     name: 'ToolAcTrace',
 
@@ -405,18 +497,22 @@
     <full-screen-upload v-model:visible="dragging"></full-screen-upload>
     <a-layout class="h-100">
       <a-layout-sider :width="300">
-        <start-page></start-page>
+        <sidebar></sidebar>
       </a-layout-sider>
       <a-layout-content>
-        <content-node></content-node>
+        <div class="details p-8">
+          <quick-player></quick-player>
+          <anime-info></anime-info>
+        </div>
       </a-layout-content>
     </a-layout>
 </a-spin>`,
 
     components: {
-      startPage,
-      contentNode,
       fullScreenUpload,
+      sidebar,
+      quickPlayer,
+      animeInfo,
     },
 
     data() {
