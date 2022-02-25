@@ -126,7 +126,7 @@ const ruleList = [
       },
 
       open(href) {
-        window.open(href)
+        window.open(href, '_self')
       },
     },
 
