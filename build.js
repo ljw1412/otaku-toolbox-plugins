@@ -3,7 +3,7 @@ const { join } = require('path')
 const fs = require('fs')
 const only = require('only')
 
-const PLUGINS_DIR = join(__dirname, 'plugins')
+const PLUGINS_DIR = join(__dirname, 'release', 'plugins')
 
 function createPluginList() {
   const files = glob.sync(`${PLUGINS_DIR}/**/config.json`)

@@ -6,8 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-/dev/plugins/*
-!/dev/plugins/.gitkeep
+/dev/*/*
+!/dev/*/.gitkeep
 
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
