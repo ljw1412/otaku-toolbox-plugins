@@ -322,21 +322,17 @@
         autoplay
         loop></video>
     </template>      
-    <a-card-meta>
-      <template #description>
-        <div class="d-flex">
-          <a-slider disabled
-          :model-value="data.from"
-          :max="duration"
-          :format-tooltip="formatDuration"/>
-          <div class="ml-8 flex-shrink-0">          
-            <span>{{ formatDuration(data.from || 0) }}</span>
-            <span class="mx-2">/</span>
-            <span>{{ formatedDuration }}</span>
-          </div>
-        </div>
-      </template>
-    </a-card-meta>
+    <div class="d-flex progress-bar">
+      <div class="mr-12 flex-shrink-0">          
+        <span>{{ formatDuration(data.from || 0) }}</span>
+        <span class="mx-2">/</span>
+        <span>{{ formatedDuration }}</span>
+      </div>
+      <a-slider
+      :model-value="data.from"
+      :max="duration"
+      :format-tooltip="formatDuration"/>
+    </div>
   </a-card>`,
 
     data() {
@@ -384,7 +380,7 @@
 
     <div class="d-flex my-8 align-items-start">
       <a-descriptions bordered
-        class="flex-grow-1"
+        class="flex-grow-1 ml-n1"
         size="small"
         :data="descriptions" 
         :column="1" 
@@ -403,10 +399,12 @@
           </div>
         </template>
       </a-descriptions>
-      <img :src="info.coverImage.large" 
+      <a :href="info.siteUrl" target="_blank">
+        <img :src="info.coverImage.large" 
         loading="lazy"
         style="width:200px; object-fit: contain;"
         class="flex-shrink-0">
+      </a>
     </div>
   </a-card>`,
 

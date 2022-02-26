@@ -63,3 +63,8 @@
   border-left: 4px double var(--app-color-common);
   border-bottom: 1px dashed var(--app-color-common);
 }
+
+.quick-player .progress-bar {
+  user-select: none;
+  -webkit-user-drag: none;
+}
