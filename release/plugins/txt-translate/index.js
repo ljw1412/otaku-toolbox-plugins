@@ -117,7 +117,7 @@
   fullscreen>
     <template #title>
       <div class="layout-lr w-100" style="height: 28px">
-        <span>校对保存</span>
+        <span>预览保存</span>
         <div>
           <a-switch type="round" v-model="revision.isVertical">
             <template #checked>上下</template>
@@ -270,7 +270,6 @@
       },
 
       async onSaveBeforeOk(done) {
-        this.$message.info('保存！')
         const content = this.revision.list
           .map((item) => item.translateText || item.text)
           .join('\n')
@@ -279,8 +278,12 @@
           filters: [{ name: '文本文件', extensions: ['txt'] }],
         })
 
-        done(!result.err)
-        if (result.err) {
+        console.log(result)
+
+        done(!result.canceled)
+        if (result.canceled) {
+          this.$message.warning('未保存成功！')
+        } else if (result.err) {
           this.$message.error('保存失败！')
         } else {
           this.$message.success(`保存成功：${result.filePath}`)
