@@ -59,6 +59,38 @@
     </a-layout-sider>
     <a-layout-content class="px-12 py-8">
       <div class="pb-8 fs-18">{{ curIndex + 1 }} / {{ mList.length }}</div>
+
+      <div class="net-translate mb-8">
+        <h5 class="mb-8">翻译参考</h5>
+        <div class="net-translate-result">
+          <div class="translate-item translate-1">
+            <a-textarea v-model="store.translate.youdao"
+              readonly :auto-size="{minRows:6,maxRows:6}"></a-textarea>
+            <div class="title mb-4 layout-lr">
+              <div>
+                <span class="mr-4">有道翻译</span>
+                <a-tag size="small" 
+                  :color="store.loaded.youdao?'green':'red'">{{store.loaded.youdao ? '已加载':'未加载' }}</a-tag>
+              </div>
+              <a-button size="small" :disabled="!store.translate.youdao"
+                @click="handleUseResult('youdao')">采用</a-button>
+            </div>
+          </div>
+          <div class="translate-item translate-2">
+            <a-textarea v-model="store.translate.baidu" 
+              readonly :auto-size="{minRows:6,maxRows:6}"></a-textarea>
+            <div class="title mb-4 layout-lr">
+              <div>
+                <span class="mr-4">百度翻译</span>
+                <a-tag size="small" 
+                  :color="store.loaded.baidu?'green':'red'">{{store.loaded.baidu ? '已加载':'未加载' }}</a-tag>
+              </div>
+              <a-button size="small" :disabled="!store.translate.baidu" @click="handleUseResult('baidu')">采用</a-button>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <a-form :model="store" layout="vertical">
         <a-form-item label="原文">
           <a-textarea v-model="store.text" :auto-size="{minRows:3,maxRows:6}"></a-textarea>
@@ -75,34 +107,6 @@
         </a-button-group>
       </div>
 
-      <div class="net-translate">
-        <h5 class="mb-8">翻译参考</h5>
-        <div class="net-translate-result">
-          <div class="translate-item translate-1">
-            <div class="title mb-4 layout-lr">
-              <div>
-                <span class="mr-4">有道翻译</span>
-                <a-tag size="small" 
-                  :color="store.loaded.youdao?'green':'red'">{{store.loaded.youdao ? '已加载':'未加载' }}</a-tag>
-              </div>
-              <a-button size="mini" :disabled="!store.translate.youdao"
-                @click="handleUseResult('youdao')">采用</a-button>
-            </div>
-            <a-textarea v-model="store.translate.youdao" readonly :auto-size="{minRows:8,maxRows:8}"></a-textarea>
-          </div>
-          <div class="translate-item translate-2">
-            <div class="title mb-4 layout-lr">
-              <div>
-                <span class="mr-4">百度翻译</span>
-                <a-tag size="small" 
-                  :color="store.loaded.baidu?'green':'red'">{{store.loaded.baidu ? '已加载':'未加载' }}</a-tag>
-              </div>
-              <a-button size="mini" :disabled="!store.translate.baidu" @click="handleUseResult('baidu')">采用</a-button>
-            </div>
-            <a-textarea v-model="store.translate.baidu" readonly :auto-size="{minRows:8,maxRows:8}"></a-textarea>
-          </div>
-        </div>
-      </div>
       <webview ref="youdao" src="https://fanyi.youdao.com/" @dom-ready="handleYouDaoDomReady"></webview>
       <webview ref="baidu" src="https://fanyi.baidu.com/"  @dom-ready="handleBaiduDomReady"></webview>
     </a-layout-content>
@@ -318,13 +322,13 @@
         if (store.loaded.youdao) {
           store.translate.youdao = await this.youdao.executeJavaScript(
             `var el = document.querySelector('#transTarget');
-           el? el.textContent : ''`
+           el? el.innerText : ''`
           )
         }
         if (store.loaded.baidu) {
           store.translate.baidu = await this.baidu.executeJavaScript(
             `var el = document.querySelector('.trans-right .target-output');
-           el? el.textContent : ''`
+           el? el.innerText : ''`
           )
         }
       },
