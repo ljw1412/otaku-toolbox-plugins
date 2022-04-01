@@ -274,8 +274,8 @@
         console.log('Dragleave', e)
       },
 
-      async handleDrop(e) {
-        console.log('Drop', e)
+      async handleDrop(event) {
+        console.log('Drop', event)
         const file = event.dataTransfer.files[0]
         if (file) {
           console.log('上传文件', file)
