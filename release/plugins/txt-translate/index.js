@@ -360,7 +360,7 @@
       async onSaveBeforeOk(done) {
         const content = this.revision.list
           .map((item) => item.translateText || item.text)
-          .join('\n')
+          .join('\r\n')
         const result = await ipcInvoke('shell', 'saveFile', {
           content,
           filters: [{ name: '文本文件', extensions: ['txt'] }],
