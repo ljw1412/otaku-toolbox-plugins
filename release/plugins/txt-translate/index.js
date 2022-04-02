@@ -57,41 +57,41 @@
         </div>
       </div>
     </a-layout-sider>
-    <a-layout-content class="px-12 py-8">
-      <div class="pb-8 fs-18">{{ curIndex + 1 }} / {{ mList.length }}</div>
-
-      <div class="net-translate mb-8">
+    <a-layout-content>
+      <div class="net-translate px-16 py-12 mb-12">
         <h5 class="mb-8">翻译参考</h5>
         <div class="net-translate-result">
           <div class="translate-item translate-1">
             <a-textarea v-model="store.translate.youdao"
               readonly :auto-size="{minRows:6,maxRows:6}"></a-textarea>
-            <div class="title mb-4 layout-lr">
+            <div class="title mt-4 layout-lr">
               <div>
                 <span class="mr-4">有道翻译</span>
                 <a-tag size="small" 
                   :color="store.loaded.youdao?'green':'red'">{{store.loaded.youdao ? '已加载':'未加载' }}</a-tag>
               </div>
-              <a-button size="small" :disabled="!store.translate.youdao"
+              <a-button size="mini" :disabled="!store.translate.youdao"
                 @click="handleUseResult('youdao')">采用</a-button>
             </div>
           </div>
           <div class="translate-item translate-2">
             <a-textarea v-model="store.translate.baidu" 
               readonly :auto-size="{minRows:6,maxRows:6}"></a-textarea>
-            <div class="title mb-4 layout-lr">
+            <div class="title mt-4 layout-lr">
               <div>
                 <span class="mr-4">百度翻译</span>
                 <a-tag size="small" 
                   :color="store.loaded.baidu?'green':'red'">{{store.loaded.baidu ? '已加载':'未加载' }}</a-tag>
               </div>
-              <a-button size="small" :disabled="!store.translate.baidu" @click="handleUseResult('baidu')">采用</a-button>
+              <a-button size="mini" :disabled="!store.translate.baidu" @click="handleUseResult('baidu')">采用</a-button>
             </div>
           </div>
         </div>
       </div>
 
-      <a-form :model="store" layout="vertical">
+      <a-form :model="store" 
+        layout="vertical" 
+        class="px-16 txt-translate-form">
         <a-form-item label="原文">
           <a-textarea v-model="store.text" :auto-size="{minRows:6,maxRows:6}"></a-textarea>
         </a-form-item>
@@ -100,7 +100,8 @@
         </a-form-item>
       </a-form>
 
-      <div class="txt-translate-action mb-12 text-right">
+      <div class="txt-translate-action layout-lr px-16">
+        <div class="fs-18 font-weight-bold">{{ curIndex + 1 }} / {{ mList.length }}</div>
         <a-button-group>
           <a-button @click="handleSave">保存</a-button>
           <a-button :disabled="curIndex >= 0 && curIndex + 1 >= mList.length" @click="handleSaveAndNext">保存并下一条</a-button>
