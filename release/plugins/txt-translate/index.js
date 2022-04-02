@@ -93,10 +93,10 @@
 
       <a-form :model="store" layout="vertical">
         <a-form-item label="原文">
-          <a-textarea v-model="store.text" :auto-size="{minRows:3,maxRows:6}"></a-textarea>
+          <a-textarea v-model="store.text" :auto-size="{minRows:6,maxRows:6}"></a-textarea>
         </a-form-item>
         <a-form-item label="译文">
-          <a-textarea v-model="store.translateText" :auto-size="{minRows:3,maxRows:6}"></a-textarea>
+          <a-textarea v-model="store.translateText" :auto-size="{minRows:6,maxRows:6}"></a-textarea>
         </a-form-item>
       </a-form>
 
@@ -237,8 +237,28 @@
         }
       },
 
-      handleTextItemClick(item) {
+      async handleTextItemClick(item) {
         if (item === store.cur) return
+        if (store.cur.id && store.cur.translateText !== store.translateText) {
+          const result = await new Promise((resolve, reject) => {
+            this.$modal.confirm({
+              title: '警告',
+              content: '你当前的译文未保存？',
+              okText: '保存',
+              cancelText: '舍弃',
+              onOk: () => {
+                resolve('save')
+              },
+              onCancel: () => {
+                resolve('clean')
+              },
+            })
+          })
+          if (result === 'save') {
+            store.cur.text = store.text
+            store.cur.translateText = store.translateText
+          }
+        }
         store.cur = item
         store.text = item.text
         store.translateText = item.translateText
