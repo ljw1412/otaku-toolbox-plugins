@@ -3,7 +3,6 @@
   const { createApp, defineComponent, ref, reactive } = Vue
   const { watchDebounced, useFileSystemAccess } = VueUse
   const { ipcInvoke } = electron
-  console.log(electron)
 
   const store = reactive({
     text: '',
@@ -49,6 +48,7 @@
         <div v-for="item of mList" 
           :key="item.id" 
           class="text-item mb-4 px-2 py-4"
+          :data-id="item.id"
           :class="{selected: item.id === store.cur.id}"
           :title="item.text + '\\n' + item.translateText"
           @click="handleTextItemClick(item)">
@@ -101,7 +101,9 @@
       </a-form>
 
       <div class="txt-translate-action layout-lr px-16">
-        <div class="fs-18 font-weight-bold">{{ curIndex + 1 }} / {{ mList.length }}</div>
+        <div class="fs-18 font-weight-bold">
+          <span v-show="mList.length">{{ curIndex + 1 }} / {{ mList.length }}</span>
+        </div>
         <a-button-group>
           <a-button @click="handleSave">保存</a-button>
           <a-button :disabled="curIndex >= 0 && curIndex + 1 >= mList.length" @click="handleSaveAndNext">保存并下一条</a-button>
@@ -160,12 +162,12 @@
         },
         actions: [
           { name: '新建', icon: 'icon-drive-file', action: 'new' },
-          // { name: '打开项目', icon: 'icon-folder', action: 'open' },
-          // {
-          //   name: '保存项目',
-          //   icon: 'icon-share-external',
-          //   action: 'saveProject',
-          // },
+          { name: '打开项目', icon: 'icon-folder', action: 'openProject' },
+          {
+            name: '保存项目',
+            icon: 'icon-share-external',
+            action: 'saveProject',
+          },
           { name: '导入', icon: 'icon-import', action: 'import' },
           { name: '保存', icon: 'icon-save', action: 'save' },
         ],
@@ -216,9 +218,67 @@
               store.translateText = ''
             },
           })
+        } else if (action === 'openProject') {
+          try {
+            await fs.open({
+              types: [
+                {
+                  description: '御宅工具箱翻译项目',
+                  accept: { 'json/plain': ['.otakufyprj'] },
+                },
+              ],
+            })
+            const json = JSON.parse(fs.data.value)
+            if (json.type !== 'otaku-tools-text-translate') {
+              this.$message.error('不正确的项目文件！')
+              return
+            }
+            if (Array.isArray(json.data)) {
+              const result = await new Promise((resolve, reject) => {
+                this.$modal.confirm({
+                  title: '警告',
+                  content: '打开新项目，将会清空当前项目的所有内容？',
+                  okText: '清空并打开',
+                  cancelText: '取消',
+                  onOk: () => {
+                    resolve('save')
+                  },
+                  onCancel: () => {
+                    resolve('clean')
+                  },
+                })
+              })
+              if (result === 'save') {
+                store.list = json.data
+              }
+            }
+          } catch (error) {
+            console.error(error)
+          }
+        } else if (action === 'saveProject') {
+          const result = await ipcInvoke('shell', 'saveFile', {
+            content: JSON.stringify({
+              type: 'otaku-tools-text-translate',
+              data: store.list,
+            }),
+            filters: [
+              { name: '御宅工具箱翻译项目', extensions: ['otakufyprj'] },
+            ],
+          })
+          if (result.canceled) {
+            this.$message.warning('项目未保存成功！')
+          } else if (result.err) {
+            this.$message.error('项目保存失败！')
+          } else {
+            this.$message.success(`项目保存成功：${result.filePath}`)
+          }
         } else if (action === 'import') {
           try {
-            await fs.open()
+            await fs.open({
+              types: [
+                { description: '文本', accept: { 'text/plain': ['.txt'] } },
+              ],
+            })
             const list = fs.data.value.split('\n').map((item, i) => {
               return {
                 id: +new Date() + '-' + i,
@@ -290,7 +350,10 @@
       handleSaveAndNext() {
         this.handleSave()
         if (this.curIndex + 1 < this.mList.length) {
-          this.handleTextItemClick(this.mList[this.curIndex + 1])
+          const nextItem = this.mList[this.curIndex + 1]
+          this.handleTextItemClick(nextItem)
+          const el = document.querySelector(`[data-id='${nextItem.id}']`)
+          if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' })
         }
       },
 
