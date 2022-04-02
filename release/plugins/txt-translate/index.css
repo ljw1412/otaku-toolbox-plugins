@@ -3,8 +3,24 @@
   height: 300px;
 }
 
+.txt-translate-form {
+  box-sizing: border-box;
+}
+
+.txt-translate .arco-layout-content {
+  overflow: hidden;
+}
+
+.txt-translate .net-translate {
+  background-color: var(--color-bg-2);
+}
+
 .txt-translate .net-translate-result {
   display: flex;
+}
+
+.txt-translate .net-translate-result .arco-textarea {
+  font-size: 15px;
 }
 
 .txt-translate .net-translate-result .translate-item {
@@ -94,14 +110,15 @@
 .txt-translate-revision .revision-item .translated-text {
   min-height: 20px;
   flex: 1 0 50%;
+  word-break: break-all;
 }
 
 .txt-translate-revision .revision-item .origin-text {
-  background-color: rgba(216, 0, 0, 0.5);
+  background-color: rgba(216, 0, 0, 0.2);
 }
 
 .txt-translate-revision .revision-item .translated-text {
-  background-color: rgba(0, 216, 11, 0.5);
+  background-color: rgba(0, 216, 11, 0.2);
 }
 
 .txt-translate-revision .revision-item .wrap-text {
