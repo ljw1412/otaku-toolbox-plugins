@@ -306,7 +306,7 @@
         store.baidu.language = language
         store.baidu.targetLanguage = targetLanguage
         console.log('Baidu is Ready')
-        this.baidu.openDevTools()
+        // this.baidu.openDevTools()
       },
 
       async handleYouDaoLanguageChange(lang) {
