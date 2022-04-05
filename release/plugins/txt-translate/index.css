@@ -1,6 +1,14 @@
+.txt-translate .webviews {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: 100;
+  border: 1px solid var(--color-border);
+}
+
 .txt-translate webview {
-  display: none;
-  height: 300px;
+  height: 213px;
 }
 
 .txt-translate-form {
@@ -13,6 +21,7 @@
 
 .txt-translate .net-translate {
   background-color: var(--color-bg-2);
+  border-bottom: 1px solid var(--color-border);
 }
 
 .txt-translate .net-translate-result {
@@ -20,15 +29,27 @@
 }
 
 .txt-translate .net-translate-result .arco-textarea {
-  font-size: 15px;
+  font-size: 13px;
 }
 
 .txt-translate .net-translate-result .translate-item {
   flex: 1 0 auto;
+  width: 50%;
 }
 
 .txt-translate .net-translate-result .translate-item:not(:last-child) {
   margin-right: 12px;
+}
+
+.txt-translate .core-textarea .arco-textarea {
+  font-size: 17px;
+}
+
+.txt-translate .origin-textarea {
+  color: #d80000;
+}
+.txt-translate .translated-textarea {
+  color: #00d80b;
 }
 
 .txt-translate-side .action {
