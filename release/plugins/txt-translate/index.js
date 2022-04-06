@@ -33,6 +33,15 @@
     },
   })
 
+  function clearStore() {
+    store.text = ''
+    store.translateText = ''
+    store.youdao.targetText = ''
+    store.baidu.targetText = ''
+    store.list = []
+    store.cur = { id: 0, text: '', translateText: '' }
+  }
+
   const fs = useFileSystemAccess({
     dataType: 'Text',
     types: [{ description: '文本', accept: { 'text/plain': ['.txt'] } }],
@@ -269,7 +278,9 @@
       watchDebounced(
         () => store.text,
         () => {
-          this.translate(store.text)
+          if (store.text) {
+            this.translate(store.text)
+          }
         },
         { debounce: 1000 }
       )
@@ -356,9 +367,7 @@
             title: '新建',
             content: '注意！新建项目会清空现在工作区内的内容！是否继续？',
             onOk: () => {
-              store.list = []
-              store.text = ''
-              store.translateText = ''
+              clearStore()
             },
           })
         } else if (action === 'openProject') {
@@ -377,23 +386,24 @@
               return
             }
             if (Array.isArray(json.data) && json.data.length) {
-              const result = await new Promise((resolve, reject) => {
-                this.$modal.confirm({
-                  title: '警告',
-                  content: '打开新项目，将会清空当前项目的所有内容？',
-                  okText: '清空并打开',
-                  cancelText: '取消',
-                  onOk: () => {
-                    resolve('save')
-                  },
-                  onCancel: () => {
-                    resolve('clean')
-                  },
-                })
-              })
-              if (result === 'save') {
+              if (store.list.length) {
+                clearStore()
                 store.list = json.data
+                return
               }
+              this.$modal.confirm({
+                title: '警告',
+                content: '打开新项目，将会清空当前项目的所有内容？',
+                okText: '清空并打开',
+                cancelText: '取消',
+                onOk: () => {
+                  clearStore()
+                  store.list = json.data
+                },
+                onCancel: () => {},
+              })
+            } else {
+              this.$message.error('未在项目文件中找到文本项')
             }
           } catch (error) {
             console.error(error)
@@ -425,6 +435,7 @@
               ],
             })
             this.appendItemByText(fs.data.value)
+            this.isDisplayImport = false
           } catch (error) {
             console.error(error)
           }
