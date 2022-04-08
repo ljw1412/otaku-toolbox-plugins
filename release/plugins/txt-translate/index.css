@@ -35,10 +35,7 @@
 .txt-translate .net-translate-result .translate-item {
   flex: 1 0 auto;
   width: 50%;
-}
-
-.txt-translate .net-translate-result .translate-item:not(:last-child) {
-  margin-right: 12px;
+  box-sizing: border-box;
 }
 
 .txt-translate .core-textarea .arco-textarea {
@@ -71,8 +68,14 @@
   align-items: center;
 }
 
+.txt-translate-side .quick-btns {
+  border-bottom: 1px solid var(--color-border);
+  height: 30px;
+  box-sizing: border-box;
+}
+
 .txt-translate-side .text-list {
-  height: calc(100% - 41px);
+  height: calc(100% - 41px - 33px);
   box-sizing: border-box;
   overflow-y: scroll;
   padding-left: var(--scroll-bar-width);

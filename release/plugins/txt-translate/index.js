@@ -1,20 +1,23 @@
 ;(function () {
   const { Vue, VueUse, appUse, appMount, electron } = window.usePlugin()
   const { createApp, defineComponent, ref, reactive } = Vue
-  const { watchDebounced, useFileSystemAccess } = VueUse
+  const { watchDebounced, useFileSystemAccess, useClipboard } = VueUse
   const { ipcInvoke } = electron
   const baiduLanguageList = getBaiduLanguageList()
   window.debugTxtTranslate = ref(false)
 
+  const engines = ['youdao', 'baidu']
   const store = reactive({
     text: '',
     translateText: '',
     youdao: {
+      default: false,
       targetText: '',
       languageList: [],
       language: '',
     },
     baidu: {
+      default: false,
       targetText: '',
       languageList: baiduLanguageList,
       language: '',
@@ -32,6 +35,8 @@
       translateText: '',
     },
   })
+
+  const clipboard = useClipboard()
 
   function clearStore() {
     store.text = ''
@@ -66,7 +71,10 @@
           <component :is="item.icon" :size="20"></component>
         </acg-ratio-div>
       </div>
-       <div class="text-list pt-4">
+      <div v-if="hasNoTranslated" class="quick-btns">
+        <a-button long size="small" @click="handleShowTranslateDialog">一键机翻</a-button>
+      </div>
+      <div class="text-list pt-4">
         <div v-for="item of mList" 
           :key="item.id" 
           class="text-item mb-4 px-2 py-4"
@@ -74,9 +82,9 @@
           :class="{selected: item.id === store.cur.id}"
           :title="item.text + '\\n' + item.translateText"
           @click="handleTextItemClick(item)">
-          <div class="text text-truncate">{{ item.text }}</div>
-          <div class="text translated text-truncate">{{ item.translateText }}</div>
-        </div>
+            <div class="text text-truncate">{{ item.text }}</div>
+            <div class="text translated text-truncate">{{ item.translateText }}</div>
+          </div>
       </div>
     </a-layout-sider>
     <a-layout-content>
@@ -90,7 +98,7 @@
           </component>
         </h5>
         <div class="net-translate-result">
-          <div class="translate-item translate-1">
+          <div class="translate-item translate-1 pr-6">
             <div class="mb-4">
               <a-select v-model="store.youdao.language"
                 allow-search
@@ -109,13 +117,19 @@
                 <span class="mr-4">有道翻译</span>
                 <a-tag size="small" 
                 :color="store.loaded.youdao?'green':'red'">{{store.loaded.youdao ? '已加载':'未加载' }}</a-tag>
+                <a-divider direction="vertical" />
+                <a-tag checkable 
+                  size="small"
+                  color="arcoblue"
+                  :checked="store.youdao.default" 
+                  @check="hadnleChangeDefaultUse('youdao')">默认采用</a-tag>
               </div>
               <a-button size="mini" :disabled="!store.youdao.targetText"
                 @click="handleUseResult('youdao')">采用</a-button>
             </div>
           </div>
-          <div class="translate-item translate-2">
-            <div class="mb-4">
+          <div class="translate-item translate-2 pl-6">
+            <div class="layout-lr mb-4">
               <a-select v-model="store.baidu.language"
                 allow-search
                 size="mini" 
@@ -145,6 +159,12 @@
                 <span class="mr-4">百度翻译</span>
                 <a-tag size="small" 
                   :color="store.loaded.baidu?'green':'red'">{{store.loaded.baidu ? '已加载':'未加载' }}</a-tag>
+                  <a-divider direction="vertical" />
+                  <a-tag checkable 
+                    size="small"
+                    color="arcoblue"
+                    :checked="store.baidu.default"
+                    @check="hadnleChangeDefaultUse('baidu')">默认采用</a-tag>
               </div>
               <a-button size="mini" :disabled="!store.baidu.targetText" @click="handleUseResult('baidu')">采用</a-button>
             </div>
@@ -160,7 +180,15 @@
       <a-form :model="store" 
         layout="vertical" 
         class="px-16 txt-translate-form">
-        <a-form-item label="原文">
+        <a-form-item :label-attrs="{class: 'w-100'}" label-component="div">
+          <template #label>
+            <div class="layout-lr">
+              <span>原文</span>
+              <a-button size="mini" @click="handleTextCopyClick">
+                {{textCopied?'已复制':'复制'}}
+              </a-button>
+            </div>  
+          </template>
           <a-textarea v-model="store.text"
             :auto-size="{minRows:5,maxRows:5}"
             class="core-textarea origin-textarea"></a-textarea>
@@ -198,6 +226,44 @@
       </a-button>
     </div>
   </template>
+</a-modal>
+
+<a-modal v-model:visible="machineTranslation.isDisplay"
+  simple
+  title="一键机翻"
+  :mask-closable="false"
+  :footer="false">
+    <a-form v-if="!machineTranslation.isTranslating" :model="machineTranslation" 
+      :label-col-props="{ span:8 }"
+      :wrapper-col-props="{ span:16 }">
+      <a-form-item label="未翻译的文本数">
+        <div>{{ machineTranslation.list.length }}条</div>
+      </a-form-item>
+      <a-form-item label="翻译引擎">
+        <a-radio-group v-model="machineTranslation.engine" type="button">
+          <a-radio value="youdao">有道</a-radio>
+          <a-radio value="baidu">百度</a-radio>
+        </a-radio-group>
+      </a-form-item>
+      <a-form-item label="翻译延迟">
+        <a-input-number v-model="machineTranslation.during" 
+          style="width: 100px;"
+          :default-value="500" 
+          :step="100"/>
+      </a-form-item>
+      <a-space class="justify-content-center">
+        <a-button @click="machineTranslation.isDisplay = false">取消</a-button>
+        <a-button type="primary" @click="handleStartTranslateClick">开始</a-button>
+      </a-space>
+    </a-form>
+      <div v-else class="text-center">
+        <a-spin :size="32"></a-spin>
+        <div class="text-truncate">
+          {{machineTranslation.current.text}}
+        </div>
+        <div class="fs-32">{{ machineTranslation.index }}/{{ machineTranslation.list.length }}</div>
+        <a-button type="outline" status="danger" @click="stopStepTranslate">取消</a-button>
+      </div>
 </a-modal>
 
 <a-modal v-model:visible="revision.isDisplay" 
@@ -258,6 +324,16 @@
         ],
         isDisplayWebview: true,
         isDisplayImport: false,
+        machineTranslation: {
+          isDisplay: false,
+          isTranslating: false,
+          index: 1,
+          engine: 'youdao',
+          current: {},
+          list: [],
+          timer: null,
+          during: 1000,
+        },
         importText: '',
       }
     },
@@ -272,6 +348,12 @@
       debugTxtTranslate() {
         return window.debugTxtTranslate.value
       },
+      textCopied() {
+        return clipboard.copied.value
+      },
+      hasNoTranslated() {
+        return this.mList.some((item) => !item.translateText)
+      },
     },
 
     mounted() {
@@ -280,6 +362,9 @@
         () => {
           if (store.text) {
             this.translate(store.text)
+          } else {
+            this.store.youdao.targetText = ''
+            this.store.baidu.targetText = ''
           }
         },
         { debounce: 1000 }
@@ -343,9 +428,9 @@
             var langItem = Array.from(document.querySelectorAll(".lang-panel .lang-item")).find(el=>el.innerHTML === '${item.name}');
             console.log(langItem);
             langItem && (langItem.click());
-          },100);`
+          },300);`
         )
-        setTimeout(this.getTransTargetBaidu, 1000)
+        setTimeout(this.getTransTargetBaidu, 1300)
       },
 
       appendItemByText(text) {
@@ -452,6 +537,53 @@
         this.isDisplayImport = false
       },
 
+      handleShowTranslateDialog() {
+        this.machineTranslation.list = this.mList.filter(
+          (item) => !item.translateText
+        )
+        this.machineTranslation.isDisplay = true
+      },
+
+      stopStepTranslate() {
+        this.machineTranslation.isDisplay = false
+        this.machineTranslation.isTranslating = false
+        this.machineTranslation.current = {}
+        clearInterval(this.machineTranslation.timer)
+        this.machineTranslation.timer = null
+      },
+
+      async stepTranslate() {
+        const list = this.machineTranslation.list
+        if (this.machineTranslation.current.translateText === '') {
+          return
+        } else {
+          this.machineTranslation.index++
+        }
+        if (this.machineTranslation.index > list.length) {
+          return this.stopStepTranslate()
+        }
+
+        const { engine, index } = this.machineTranslation
+        this.machineTranslation.current = list[index - 1]
+        const text = this.machineTranslation.current.text
+        console.log('一键翻译', `[${index}/${list.length}]`, text)
+        if (engine === 'youdao') {
+          await this.translateYoudao(text)
+        } else if (engine === 'baidu') {
+          await this.translateBaidu(text)
+        }
+      },
+
+      async handleStartTranslateClick() {
+        this.machineTranslation.isTranslating = true
+        this.machineTranslation.index = 0
+        await this.stepTranslate()
+        this.machineTranslation.timer = setInterval(
+          this.stepTranslate,
+          this.machineTranslation.during
+        )
+      },
+
       async handleTextItemClick(item) {
         if (item === store.cur) return
         if (store.cur.id && store.cur.translateText !== store.translateText) {
@@ -481,8 +613,24 @@
         store.baidu.targetText = ''
       },
 
+      hadnleChangeDefaultUse(who) {
+        if (!engines.includes(who)) return
+        if (store[who].default) {
+          store[who].default = false
+          return
+        }
+        engines.forEach((name) => {
+          store[name].default = name === who
+        })
+      },
+
       handleUseResult(who) {
         store.translateText = store[who].targetText || ''
+      },
+
+      handleTextCopyClick() {
+        clipboard.copy(store.text)
+        console.log(clipboard)
       },
 
       handleSave() {
@@ -560,19 +708,37 @@
 
       async getTransTargetYoudao() {
         if (store.loaded.youdao) {
-          store.youdao.targetText = await this.youdao.executeJavaScript(
+          const result = await this.youdao.executeJavaScript(
             `var el = document.querySelector('#transTarget');
            el? el.innerText : ''`
           )
+
+          if (this.machineTranslation.isTranslating) {
+            this.machineTranslation.current.translateText = result
+            return
+          }
+          store.youdao.targetText = result
+          if (store.youdao.default && !store.translateText) {
+            store.translateText = store.youdao.targetText
+          }
         }
       },
 
       async getTransTargetBaidu() {
         if (store.loaded.baidu) {
-          store.baidu.targetText = await this.baidu.executeJavaScript(
+          const result = await this.baidu.executeJavaScript(
             `var el = document.querySelector('.trans-right .target-output');
            el? el.innerText : ''`
           )
+
+          if (this.machineTranslation.isTranslating) {
+            this.machineTranslation.current.translateText = result
+            return
+          }
+          store.baidu.targetText = result
+          if (store.baidu.default && !store.translateText) {
+            store.translateText = store.baidu.targetText
+          }
         }
       },
 
