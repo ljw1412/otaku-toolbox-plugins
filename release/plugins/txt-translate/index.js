@@ -87,11 +87,44 @@
           </div>
       </div>
     </a-layout-sider>
-    <a-layout-content>
-      <div class="net-translate px-16 py-12 mb-12">
+
+    <a-layout-content class="d-flex flex-column">
+      <a-form :model="store" 
+        layout="vertical" 
+        class="txt-translate-form px-16 mt-12 flex-grow-1">
+        <a-form-item :label-attrs="{class: 'w-100'}" label-component="div">
+          <template #label>
+            <div class="layout-lr">
+              <span>原文</span>
+              <a-button size="mini" @click="handleTextCopyClick">
+                {{textCopied?'已复制':'复制'}}
+              </a-button>
+            </div>  
+          </template>
+          <a-textarea v-model="store.text"
+            :auto-size="{minRows:5,maxRows:5}"
+            class="core-textarea origin-textarea"></a-textarea>
+        </a-form-item>
+        <a-form-item label="译文">
+          <a-textarea v-model="store.translateText"
+            :auto-size="{minRows:5,maxRows:5}"
+            class="core-textarea translated-textarea"></a-textarea>
+        </a-form-item>
+        <div class="txt-translate-action layout-lr px-16">
+          <div class="fs-18 font-weight-bold">
+            <span v-show="mList.length">{{ curIndex + 1 }} / {{ mList.length }}</span>
+          </div>
+          <a-button-group>
+            <a-button @click="handleSave">保存</a-button>
+            <a-button :disabled="curIndex >= 0 && curIndex + 1 >= mList.length" @click="handleSaveAndNext">保存并下一条</a-button>
+          </a-button-group>
+        </div>
+      </a-form>
+
+      <div class="net-translate px-16 py-12 mt-12 flex-shrink-0">
         <h5 class="mb-8">
           <span>翻译参考</span>
-          <component  v-if="debugTxtTranslate" 
+          <component v-if="debugTxtTranslate" 
             class="ml-4 cursor-pointer"
             :is="isDisplayWebview ? 'icon-eye' : 'icon-eye-invisible'"
             @click="isDisplayWebview = !isDisplayWebview">
@@ -99,20 +132,7 @@
         </h5>
         <div class="net-translate-result">
           <div class="translate-item translate-1 pr-6">
-            <div class="mb-4">
-              <a-select v-model="store.youdao.language"
-                allow-search
-                size="mini" 
-                style="width: 160px;"
-                @change="handleYouDaoLanguageChange">
-                <a-option v-for="item of store.youdao.languageList"
-                  :key="item.value" :label="item.name" :value="item.value">
-                </a-option>
-              </a-select>
-            </div>
-            <a-textarea v-model="store.youdao.targetText"
-              readonly :auto-size="{minRows:6,maxRows:6}"></a-textarea>
-            <div class="title mt-4 layout-lr">
+            <div class="title mb-4 layout-lr">
               <div>
                 <span class="mr-4">有道翻译</span>
                 <a-tag size="small" 
@@ -127,9 +147,37 @@
               <a-button size="mini" :disabled="!store.youdao.targetText"
                 @click="handleUseResult('youdao')">采用</a-button>
             </div>
+            <a-textarea v-model="store.youdao.targetText"
+              readonly :auto-size="{minRows:6,maxRows:6}"></a-textarea>
+            <div class="mt-4">
+              <a-select v-model="store.youdao.language"
+                allow-search
+                size="mini" 
+                @change="handleYouDaoLanguageChange">
+                <a-option v-for="item of store.youdao.languageList"
+                  :key="item.value" :label="item.name" :value="item.value">
+                </a-option>
+              </a-select>
+            </div>
           </div>
           <div class="translate-item translate-2 pl-6">
-            <div class="layout-lr mb-4">
+            <div class="title mb-4 layout-lr">
+              <div>
+                <span class="mr-4">百度翻译</span>
+                <a-tag size="small" 
+                  :color="store.loaded.baidu?'green':'red'">{{store.loaded.baidu ? '已加载':'未加载' }}</a-tag>
+                  <a-divider direction="vertical" />
+                  <a-tag checkable 
+                    size="small"
+                    color="arcoblue"
+                    :checked="store.baidu.default"
+                    @check="hadnleChangeDefaultUse('baidu')">默认采用</a-tag>
+              </div>
+              <a-button size="mini" :disabled="!store.baidu.targetText" @click="handleUseResult('baidu')">采用</a-button>
+            </div>
+            <a-textarea v-model="store.baidu.targetText" 
+              readonly :auto-size="{minRows:6,maxRows:6}"></a-textarea>
+              <div class="layout-lr mt-4">
               <a-select v-model="store.baidu.language"
                 allow-search
                 size="mini" 
@@ -152,62 +200,13 @@
                 </a-option>
               </a-select>
             </div>
-            <a-textarea v-model="store.baidu.targetText" 
-              readonly :auto-size="{minRows:6,maxRows:6}"></a-textarea>
-            <div class="title mt-4 layout-lr">
-              <div>
-                <span class="mr-4">百度翻译</span>
-                <a-tag size="small" 
-                  :color="store.loaded.baidu?'green':'red'">{{store.loaded.baidu ? '已加载':'未加载' }}</a-tag>
-                  <a-divider direction="vertical" />
-                  <a-tag checkable 
-                    size="small"
-                    color="arcoblue"
-                    :checked="store.baidu.default"
-                    @check="hadnleChangeDefaultUse('baidu')">默认采用</a-tag>
-              </div>
-              <a-button size="mini" :disabled="!store.baidu.targetText" @click="handleUseResult('baidu')">采用</a-button>
-            </div>
           </div>
         </div>
       </div>
 
       <div v-show="debugTxtTranslate && isDisplayWebview" class="webviews">
         <webview ref="youdao" src="https://fanyi.youdao.com/" @dom-ready="handleYouDaoDomReady"></webview>
-        <webview ref="baidu" src="https://fanyi.baidu.com/"  @dom-ready="handleBaiduDomReady"></webview>
-      </div>
-
-      <a-form :model="store" 
-        layout="vertical" 
-        class="px-16 txt-translate-form">
-        <a-form-item :label-attrs="{class: 'w-100'}" label-component="div">
-          <template #label>
-            <div class="layout-lr">
-              <span>原文</span>
-              <a-button size="mini" @click="handleTextCopyClick">
-                {{textCopied?'已复制':'复制'}}
-              </a-button>
-            </div>  
-          </template>
-          <a-textarea v-model="store.text"
-            :auto-size="{minRows:5,maxRows:5}"
-            class="core-textarea origin-textarea"></a-textarea>
-        </a-form-item>
-        <a-form-item label="译文">
-          <a-textarea v-model="store.translateText"
-            :auto-size="{minRows:5,maxRows:5}"
-            class="core-textarea translated-textarea"></a-textarea>
-        </a-form-item>
-      </a-form>
-
-      <div class="txt-translate-action layout-lr px-16">
-        <div class="fs-18 font-weight-bold">
-          <span v-show="mList.length">{{ curIndex + 1 }} / {{ mList.length }}</span>
-        </div>
-        <a-button-group>
-          <a-button @click="handleSave">保存</a-button>
-          <a-button :disabled="curIndex >= 0 && curIndex + 1 >= mList.length" @click="handleSaveAndNext">保存并下一条</a-button>
-        </a-button-group>
+        <webview ref="baidu" src="https://fanyi.baidu.com/#zh/jp/"  @dom-ready="handleBaiduDomReady"></webview>
       </div>
     </a-layout-content>
 </a-layout>
@@ -277,20 +276,29 @@
       <div class="layout-lr w-100" style="height: 28px">
         <span>预览保存</span>
         <div>
-          <a-switch type="round" v-model="revision.isVertical">
+          <a-switch v-if="revision.isCompare" 
+            v-model="revision.isVertical"
+            type="round" size="small">
             <template #checked>上下</template>
             <template #unchecked>左右</template>
           </a-switch>
+          <a-checkbox v-model="revision.isCompare">对比模式</a-checkbox>
         </div>
       </div>
     </template>
     <div class="txt-translate-revision" :class="{vertical: revision.isVertical}">
       <div v-for="item of revision.list" class="revision-item my-4">
-        <template v-if="item.text">
+        <template v-if="!revision.isCompare">
+          <div class="px-4 w-100" 
+            :class="item.translateText ? 'translated-text' : 'origin-text'">
+            {{ item.translateText || item.text}}
+          </div>
+        </template>
+        <template v-else-if="item.text">
           <div class="origin-text px-4">{{ item.text }}</div>
           <div class="translated-text px-4">{{ item.translateText }}</div>
         </template>
-        <div v-else class="wrap-text">·</div>
+        <div v-else class="wrap-text"></div>
       </div>
     </div>
 </a-modal>`,
@@ -326,6 +334,7 @@
         isDisplayImport: false,
         machineTranslation: {
           isDisplay: false,
+          isCompare: false,
           isTranslating: false,
           index: 1,
           engine: 'youdao',
@@ -471,7 +480,7 @@
               return
             }
             if (Array.isArray(json.data) && json.data.length) {
-              if (store.list.length) {
+              if (!store.list.length) {
                 clearStore()
                 store.list = json.data
                 return
@@ -494,6 +503,7 @@
             console.error(error)
           }
         } else if (action === 'saveProject') {
+          if (!store.list.length) return
           const result = await ipcInvoke('shell', 'saveFile', {
             content: JSON.stringify({
               type: 'otaku-tools-text-translate',

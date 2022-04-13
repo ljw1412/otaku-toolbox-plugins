@@ -21,7 +21,7 @@
 
 .txt-translate .net-translate {
   background-color: var(--color-bg-2);
-  border-bottom: 1px solid var(--color-border);
+  border-top: 1px solid var(--color-border);
 }
 
 .txt-translate .net-translate-result {
