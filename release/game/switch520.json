@@ -1,0 +1,27 @@
+{
+  "name": "switch520",
+  "namespace": "switch520",
+  "icon": "https://css99tel.cdndm5.com/v202111301550/dm5/images/dm5.ico",
+  "url": "https://switch520.com/",
+  "type": "game-resource",
+  "version": 0,
+  "pages": [
+    {
+      "name": "首页",
+      "url": "https://switch520.com/page/{:page}",
+      "mode": "html",
+      "data": {
+        "pageTotal": ".numeric-pagination > ul .page-numbers:last-child|text"
+      },
+      "items": ".posts-wrapper .post",
+      "itemData": {
+        "id": ".entry-wrapper .entry-title a|@href|match#\\d+.html",
+        "url": ".entry-wrapper .entry-title a|@href",
+        "title": ".entry-wrapper .entry-title a|@title",
+        "cover": ".entry-media img|@data-src"
+      }
+    }
+  ],
+  "details": {},
+  "download": {}
+}
