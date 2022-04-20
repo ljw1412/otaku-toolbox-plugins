@@ -1,0 +1,87 @@
+{
+  "id": 51019,
+  "islong": 2,
+  "direction": 1,
+  "title": "CHAOS;CHILD混沌之子同人漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/hdzztr20191110.jpg",
+  "description": "CHAOS;CHILD混沌之子的同人作品集。 Close to you：尾上世莉架和宫代拓留度过的平凡一天。",
+  "last_updatetime": 1573354180,
+  "last_update_chapter_name": "Close to you",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chaoschildhundunzhizitongrenmanhua",
+  "hidden": 0,
+  "hot_num": 149100,
+  "hit_num": 24212,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91047,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18240,
+      "tag_name": "ひねもす もつ"
+    }
+  ],
+  "subscribe_num": 705,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91047,
+          "chapter_title": "1话",
+          "updatetime": 1573354180,
+          "filesize": 4088990,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 24730044,
+        "uid": 109613070,
+        "content": "这波啊，这波是吃糖啦啊哈哈哈哈哈哈哈",
+        "createtime": 1583059345,
+        "nickname": "成蹊disjointed",
+        "avatar": "https://avatar.dmzj.com/52/ef/52efef2db8bb09532b6fb9c910a8a8d4.png"
+      },
+      {
+        "comment_id": 22128204,
+        "uid": 107058252,
+        "content": "这个居然还有漫画",
+        "createtime": 1573831875,
+        "nickname": "dmzj_107058252",
+        "avatar": "https://avatar.dmzj.com/b0/4c/b04c1d72666501d2501e2cb4b1a0862d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

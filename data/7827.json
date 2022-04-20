@@ -1,0 +1,98 @@
+{
+  "id": 7827,
+  "islong": 2,
+  "direction": 1,
+  "title": "传说学院",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/chuanshuoxueyuan20111007.jpg",
+  "description": "经典RPG游戏传说系列角色齐聚一堂的学园四格漫画！第一话是来自于《圣恩传说》的圣恩小组之章。",
+  "last_updatetime": 1325299503,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chuanshuoxueyuan",
+  "hidden": 0,
+  "hot_num": 34239,
+  "hit_num": 88159,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 18390,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4187,
+      "tag_name": "石川沙绘"
+    }
+  ],
+  "subscribe_num": 185,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 18390,
+          "chapter_title": "2话",
+          "updatetime": 1325299503,
+          "filesize": 1295529,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 17670,
+          "chapter_title": "1话",
+          "updatetime": 1317973446,
+          "filesize": 1065661,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 26946610,
+        "uid": 106061335,
+        "content": "惊了 挖个坟555",
+        "createtime": 1588099144,
+        "nickname": "池下酒也",
+        "avatar": "https://avatar.dmzj.com/9a/a8/9aa8f3a5791b72f2e69093e64929e781.png"
+      },
+      {
+        "comment_id": 210313,
+        "uid": 25103042,
+        "content": "四格",
+        "createtime": 1393472850,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

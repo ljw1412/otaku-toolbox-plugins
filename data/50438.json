@@ -1,0 +1,87 @@
+{
+  "id": 50438,
+  "islong": 2,
+  "direction": 1,
+  "title": "晚安古明地",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/191004wagmd.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1570156861,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wanangumingdi",
+  "hidden": 0,
+  "hot_num": 111586,
+  "hit_num": 10672,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 88846,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14832,
+      "tag_name": "くまだ"
+    }
+  ],
+  "subscribe_num": 510,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88846,
+          "chapter_title": "1话",
+          "updatetime": 1570156861,
+          "filesize": 3552439,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 21025472,
+        "uid": 102165854,
+        "content": "一起来睡觉叭(￣▽￣)ノ",
+        "createtime": 1570424662,
+        "nickname": "最凶最悪の极贫不幸神",
+        "avatar": "https://avatar.dmzj.com/62/61/62612a9776636a5438b2572ecfa51866.png"
+      },
+      {
+        "comment_id": 20927532,
+        "uid": 105517710,
+        "content": "送恋恋去你家大冒险",
+        "createtime": 1570245908,
+        "nickname": "原初之音",
+        "avatar": "https://avatar.dmzj.com/3d/ee/3dee6d288de9f17053d9c2aa99cf6ab1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

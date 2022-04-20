@@ -1,0 +1,87 @@
+{
+  "id": 7397,
+  "islong": 2,
+  "direction": 2,
+  "title": "小超人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/xiaochaoren.jpg",
+  "description": "有时候我不禁好奇，假如我有一个平凡的童年会怎样。。。。。。或者随便有一个童年就行，你懂的。我会变成什么样的小孩事实上，无论我多努力地试图去想象，我永远不会知道变成羊的孩子会怎样。",
+  "last_updatetime": 1306552414,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaochaoren",
+  "hidden": 0,
+  "hot_num": 1735062,
+  "hit_num": 219698,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 15191,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 8299,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 15191,
+          "chapter_title": "1卷",
+          "updatetime": 1306552414,
+          "filesize": 3566511,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 21285656,
+        "uid": 108872644,
+        "content": "然后就没了QAQ",
+        "createtime": 1570992351,
+        "nickname": "Rustin",
+        "avatar": "https://avatar.dmzj.com/79/48/7948ceb566f9ad4410738ac451d98ca5.png"
+      },
+      {
+        "comment_id": 20568510,
+        "uid": 109620208,
+        "content": "kon！！！",
+        "createtime": 1569256163,
+        "nickname": "Harriety",
+        "avatar": "https://avatar.dmzj.com/64/59/6459898cdad7af6d0066dacf2bee3baa.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

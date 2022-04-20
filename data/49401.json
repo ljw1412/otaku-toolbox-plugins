@@ -1,0 +1,91 @@
+{
+  "id": 49401,
+  "islong": 2,
+  "direction": 1,
+  "title": "吉祥寺少年",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/jixiangshishaonian0727.jpg",
+  "description": "这是一个关于数十年前，吉祥寺的岁月更替，以及几个小伙伴们之间发生的昭和故事。\n",
+  "last_updatetime": 1564217338,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jixiangshishaonian",
+  "hidden": 0,
+  "hot_num": 155836,
+  "hit_num": 8164,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90955,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 683,
+      "tag_name": "松江名俊"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1465,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90955,
+          "chapter_title": "1话",
+          "updatetime": 1564217338,
+          "filesize": 4231689,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 37,
+    "latest_comment": [
+      {
+        "comment_id": 24465370,
+        "uid": 101827777,
+        "content": "欸，是这样的吗？",
+        "createtime": 1582477811,
+        "nickname": "RE刃下心",
+        "avatar": "https://avatar.dmzj.com/3f/1a/3f1af6d006456264bdf02dafb385495f.png"
+      },
+      {
+        "comment_id": 19808493,
+        "uid": 106402352,
+        "content": "我喜欢这部",
+        "createtime": 1566838751,
+        "nickname": "最终降临的魔王",
+        "avatar": "https://avatar.dmzj.com/98/97/9897a2170b477c9a9796330560f25c54.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

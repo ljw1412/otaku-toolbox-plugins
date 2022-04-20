@@ -1,0 +1,105 @@
+{
+  "id": 50803,
+  "islong": 2,
+  "direction": 1,
+  "title": "言语关系",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/pixivxmh1026.jpg",
+  "description": "pixiv最新系列的小漫画！",
+  "last_updatetime": 1587113736,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "pixivxiaomanhua",
+  "hidden": 0,
+  "hot_num": 657674,
+  "hit_num": 23654,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96469,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18159,
+      "tag_name": "辻柚那"
+    }
+  ],
+  "subscribe_num": 2697,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96469,
+          "chapter_title": "3话",
+          "updatetime": 1587113736,
+          "filesize": 1972190,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 96409,
+          "chapter_title": "2话",
+          "updatetime": 1587015687,
+          "filesize": 602137,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 89601,
+          "chapter_title": "1话",
+          "updatetime": 1572061603,
+          "filesize": 190126,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 83,
+    "latest_comment": [
+      {
+        "comment_id": 27004920,
+        "uid": 106080458,
+        "content": "看评论说steam上有，我赶紧去搜~结果怎么搜都搜不到~后来百度才看到steam上译名是恋语........然后就发现这东西居然早躺在我愿望单里，诶一切都是缘分",
+        "createtime": 1588325529,
+        "nickname": "你看不到我看不到我",
+        "avatar": "https://avatar.dmzj.com/82/45/8245fca4df4decfc0a06204c5ec5e54a.png"
+      },
+      {
+        "comment_id": 26926074,
+        "uid": 108024463,
+        "content": "甜呐，都不知道机智的我当年什么时候订阅的",
+        "createtime": 1588079397,
+        "nickname": "少司命zw",
+        "avatar": "https://avatar.dmzj.com/32/67/3267e510e59650052df023d7904c8ed8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

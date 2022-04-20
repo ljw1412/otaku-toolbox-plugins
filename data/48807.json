@@ -1,0 +1,94 @@
+{
+  "id": 48807,
+  "islong": 1,
+  "direction": 2,
+  "title": "土味方舟",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/190612twfz.jpg",
+  "description": "明日方舟×土味段子，我没有理智，寄个烧鸡摸摸哒",
+  "last_updatetime": 1560598083,
+  "last_update_chapter_name": "扣扣哒哟",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tuweifangzhou",
+  "hidden": 0,
+  "hot_num": 1568786,
+  "hit_num": 3912,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 89362,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17206,
+      "tag_name": "污妹抖"
+    }
+  ],
+  "subscribe_num": 7597,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89362,
+          "chapter_title": "2话",
+          "updatetime": 1560598083,
+          "filesize": 71619,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 89282,
+          "chapter_title": "1话",
+          "updatetime": 1560354625,
+          "filesize": 82838,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 231,
+    "latest_comment": [
+      {
+        "comment_id": 25916658,
+        "uid": 106169779,
+        "content": "扣扣打油草",
+        "createtime": 1585701008,
+        "nickname": "dmzj_106169779",
+        "avatar": "https://avatar.dmzj.com/67/01/6701fe8af51c435b2f86951396c02cb8.png"
+      },
+      {
+        "comment_id": 24715426,
+        "uid": 106513611,
+        "content": "有声漫画",
+        "createtime": 1583014072,
+        "nickname": "我腋下有毛",
+        "avatar": "https://avatar.dmzj.com/58/85/5885a0baeb68a0ccc5901121b88f492f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

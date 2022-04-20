@@ -1,0 +1,94 @@
+{
+  "id": 6984,
+  "islong": 2,
+  "direction": 1,
+  "title": "少年的思春",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/shaoniandesichun.jpg",
+  "description": "烦恼多多的准考生—佐藤敦士在图书馆与半年不见的山王满再次相遇。",
+  "last_updatetime": 1292472681,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shaoniandesichun",
+  "hidden": 0,
+  "hot_num": 63510,
+  "hit_num": 494549,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13193,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1565,
+      "tag_name": "西炯子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 356,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13193,
+          "chapter_title": "2卷",
+          "updatetime": 1292472681,
+          "filesize": 15647905,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13192,
+          "chapter_title": "1卷",
+          "updatetime": 1292472674,
+          "filesize": 15273953,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 298802,
+        "uid": 17463767,
+        "content": "好喜欢小满，清新与淡定。",
+        "createtime": 1412328832,
+        "nickname": "小直接",
+        "avatar": "https://avatar.dmzj.com/ca/4d/ca4d5599f7e6e9cec0d29943c5e871cf.png"
+      },
+      {
+        "comment_id": 67730,
+        "uid": 15403977,
+        "content": "思春，这名字。。。。。。。。。。。。。。。。。。。",
+        "createtime": 1340856402,
+        "nickname": "tjhtjb",
+        "avatar": "https://avatar.dmzj.com/c4/7f/c47ff3b14680d8db23406af9911acb9b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

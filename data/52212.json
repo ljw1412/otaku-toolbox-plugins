@@ -1,0 +1,89 @@
+{
+  "id": 52212,
+  "islong": 2,
+  "direction": 2,
+  "title": "无聊的前半生",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1098251681580992163.jpg",
+  "description": "总结一下我无聊的前半生都做了什么……",
+  "last_updatetime": 1580994320,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "w",
+  "comic_py": "wuliaodeqianbansheng",
+  "hidden": 0,
+  "hot_num": 27167,
+  "hit_num": 2053,
+  "uid": 109825168,
+  "is_lock": 0,
+  "last_update_chapter_id": 96949,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18847,
+      "tag_name": "阿渺"
+    }
+  ],
+  "subscribe_num": 122,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96949,
+          "chapter_title": "1话",
+          "updatetime": 1580994320,
+          "filesize": 3042261,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 23894019,
+        "uid": 100837378,
+        "content": "画的很好啊！（字有点小是真的……",
+        "createtime": 1581103028,
+        "nickname": "biubiu说",
+        "avatar": "https://avatar.dmzj.com/72/18/7218efc93280c0b802f3517bec141c03.png"
+      },
+      {
+        "comment_id": 23889054,
+        "uid": 102783870,
+        "content": "字太小了而且太多了，一眼看过去有点影响观感",
+        "createtime": 1581095513,
+        "nickname": "honorary",
+        "avatar": "https://avatar.dmzj.com/37/99/3799a0584e3c67bebf848894baaccba0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

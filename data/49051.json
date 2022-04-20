@@ -1,0 +1,91 @@
+{
+  "id": 49051,
+  "islong": 2,
+  "direction": 1,
+  "title": "第一次夏天",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/dycxt704.jpg",
+  "description": "夏天到了 准备开始新的启程之旅",
+  "last_updatetime": 1562220312,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "diyicixiatian",
+  "hidden": 0,
+  "hot_num": 71560,
+  "hit_num": 2155,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90006,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5694,
+      "tag_name": "十夜（悠久机关车）"
+    }
+  ],
+  "subscribe_num": 343,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90006,
+          "chapter_title": "1话",
+          "updatetime": 1562220312,
+          "filesize": 6535457,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 19095014,
+        "uid": 102592132,
+        "content": "直到你庞大的未来粉碎你庞大的过去",
+        "createtime": 1565098900,
+        "nickname": "LLYlly",
+        "avatar": "https://avatar.dmzj.com/69/98/6998fea773a8034d53d5d6c2581b417a.png"
+      },
+      {
+        "comment_id": 17905129,
+        "uid": 100859445,
+        "content": "最近传的千年组数这篇最好",
+        "createtime": 1562432252,
+        "nickname": "岚飏",
+        "avatar": "https://avatar.dmzj.com/4a/d1/4ad125d0d818687267b4527714da6c63.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

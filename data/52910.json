@@ -1,0 +1,87 @@
+{
+  "id": 52910,
+  "islong": 2,
+  "direction": 1,
+  "title": "温柔的女人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/200311wenroudenvren.jpg",
+  "description": "其实，也不是那么的温柔呢……",
+  "last_updatetime": 1583941693,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wenroudenvren",
+  "hidden": 0,
+  "hot_num": 370080,
+  "hit_num": 11396,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99288,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15053,
+      "tag_name": "ぐあびえんく"
+    }
+  ],
+  "subscribe_num": 1615,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99288,
+          "chapter_title": "1话",
+          "updatetime": 1583941693,
+          "filesize": 989376,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 213,
+    "latest_comment": [
+      {
+        "comment_id": 26830981,
+        "uid": 106053014,
+        "content": "欺骗老实人感情",
+        "createtime": 1587823364,
+        "nickname": "dmzj_106053014",
+        "avatar": "https://avatar.dmzj.com/d7/8e/d78e4e8fa5cc195ba446fbc3673575d3.png"
+      },
+      {
+        "comment_id": 26721198,
+        "uid": 103496297,
+        "content": "大快人心",
+        "createtime": 1587542483,
+        "nickname": "destiny__残破的翅膀",
+        "avatar": "https://avatar.dmzj.com/8f/92/8f9210a03228077ce0977c1d451d1b35.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

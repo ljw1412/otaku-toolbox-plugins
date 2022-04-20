@@ -1,0 +1,105 @@
+{
+  "id": 53330,
+  "islong": 2,
+  "direction": 1,
+  "title": "NightS",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/nights20200330.jpg",
+  "description": "一旦爱上某个人，就会簡単的遭到背叛；\n即使被谁爱上，也能簡単的背叛他。\n这就是黑道，黑社会的恋爱作风。",
+  "last_updatetime": 1585556523,
+  "last_update_chapter_name": "番外02",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "nights20",
+  "hidden": 0,
+  "hot_num": 171198,
+  "hit_num": 40866,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100155,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9899,
+      "tag_name": "ヨネダコウ"
+    }
+  ],
+  "subscribe_num": 601,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100155,
+          "chapter_title": "番外02",
+          "updatetime": 1585556523,
+          "filesize": 4537700,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 100154,
+          "chapter_title": "番外01",
+          "updatetime": 1585556505,
+          "filesize": 1977076,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 100153,
+          "chapter_title": "1话",
+          "updatetime": 1585556493,
+          "filesize": 10966751,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 26490192,
+        "uid": 102479149,
+        "content": "kswl",
+        "createtime": 1586887969,
+        "nickname": "贱虫一生推",
+        "avatar": "https://avatar.dmzj.com/9d/57/9d5710a0659a4f8256abae074fdc9373.png"
+      },
+      {
+        "comment_id": 26433877,
+        "uid": 101997883,
+        "content": "呜呜呜，是大叔受呀",
+        "createtime": 1586777311,
+        "nickname": "摸你狗手",
+        "avatar": "https://avatar.dmzj.com/37/05/3705b3d06fc328951973f2b61326a5a5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

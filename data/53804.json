@@ -1,0 +1,115 @@
+{
+  "id": 53804,
+  "islong": 2,
+  "direction": 2,
+  "title": "古墓丽影11配套漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/200421gmly11.jpg",
+  "description": "目前推出的是《生还者的圣战》和《地狱火》两部前传，后续内容我们一起拭目以待",
+  "last_updatetime": 1588596836,
+  "last_update_chapter_name": "第05卷",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gumuliying11peitaomanhua",
+  "hidden": 0,
+  "hot_num": 35070,
+  "hit_num": 6666,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97791,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 161,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97791,
+          "chapter_title": "5卷",
+          "updatetime": 1588596836,
+          "filesize": 6027252,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 97790,
+          "chapter_title": "4卷",
+          "updatetime": 1588596806,
+          "filesize": 2781439,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 97640,
+          "chapter_title": "3卷",
+          "updatetime": 1588330853,
+          "filesize": 5247601,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 97469,
+          "chapter_title": "2话",
+          "updatetime": 1588086310,
+          "filesize": 6142200,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 97467,
+          "chapter_title": "1卷",
+          "updatetime": 1588085745,
+          "filesize": 3742333,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 26700787,
+        "uid": 106974998,
+        "content": "哇",
+        "createtime": 1587480842,
+        "nickname": "路人不会恋爱",
+        "avatar": "https://avatar.dmzj.com/0c/4e/0c4e618eb80cb2bebea85602ef8d8eea.png"
+      },
+      {
+        "comment_id": 26700431,
+        "uid": 107926650,
+        "content": "生命就像一条无尽的河流……",
+        "createtime": 1587480341,
+        "nickname": "半载",
+        "avatar": "https://avatar.dmzj.com/71/63/71637cdc8655d42f0bf658d49474272d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

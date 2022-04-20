@@ -1,0 +1,87 @@
+{
+  "id": 53648,
+  "islong": 2,
+  "direction": 1,
+  "title": "Sepia",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/sepia0414.jpg",
+  "description": "东方新短篇~",
+  "last_updatetime": 1586830256,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sepia",
+  "hidden": 0,
+  "hot_num": 26506,
+  "hit_num": 2290,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96311,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6123,
+      "tag_name": "鸟居すみ"
+    }
+  ],
+  "subscribe_num": 124,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96311,
+          "chapter_title": "1话",
+          "updatetime": 1586830256,
+          "filesize": 6316162,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 26494285,
+        "uid": 108784283,
+        "content": "wow",
+        "createtime": 1586909740,
+        "nickname": "alicepc98",
+        "avatar": "https://avatar.dmzj.com/77/13/7713fad3e19fe4ec12cc1ce7b7080b74.png"
+      },
+      {
+        "comment_id": 26487299,
+        "uid": 101910133,
+        "content": "是千年！awsl！！！",
+        "createtime": 1586883673,
+        "nickname": "加菲猫zxc",
+        "avatar": "https://avatar.dmzj.com/45/32/4532955e3ee7aedb40161492d2719627.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

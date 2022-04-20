@@ -1,0 +1,91 @@
+{
+  "id": 49929,
+  "islong": 2,
+  "direction": 1,
+  "title": "爱的证明",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/100902adzn.jpg",
+  "description": "为了爱能为你付出生命",
+  "last_updatetime": 1567428350,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "aidezhengming",
+  "hidden": 0,
+  "hot_num": 1126495,
+  "hit_num": 88955,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 88425,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17747,
+      "tag_name": "青柳征树"
+    }
+  ],
+  "subscribe_num": 4151,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88425,
+          "chapter_title": "1话",
+          "updatetime": 1567428350,
+          "filesize": 3003020,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 436,
+    "latest_comment": [
+      {
+        "comment_id": 26645995,
+        "uid": 108552381,
+        "content": "没删减的给个名字？",
+        "createtime": 1587317242,
+        "nickname": "Normako",
+        "avatar": "https://avatar.dmzj.com/26/23/2623789f5e01677fd0f68e1067d00a29.png"
+      },
+      {
+        "comment_id": 26612078,
+        "uid": 106186080,
+        "content": "找不到未删的版本，有没有好心人告知下删了啥",
+        "createtime": 1587225278,
+        "nickname": "dmzj_106186080",
+        "avatar": "https://avatar.dmzj.com/85/f2/85f24ec5e0e5478dfdedee0c9816544c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

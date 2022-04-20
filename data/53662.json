@@ -1,0 +1,87 @@
+{
+  "id": 53662,
+  "islong": 2,
+  "direction": 1,
+  "title": "比光更快！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/biguanggengkuai.jpg",
+  "description": "东方同人",
+  "last_updatetime": 1586879238,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "biguanggengkuai",
+  "hidden": 0,
+  "hot_num": 39305,
+  "hit_num": 17340,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100148,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5247,
+      "tag_name": "氷川翔(さくsaku亭)"
+    }
+  ],
+  "subscribe_num": 177,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100148,
+          "chapter_title": "1话",
+          "updatetime": 1586879238,
+          "filesize": 5804749,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 32,
+    "latest_comment": [
+      {
+        "comment_id": 26995209,
+        "uid": 109719170,
+        "content": "妖梦：输了比赛，赢了人生",
+        "createtime": 1588294114,
+        "nickname": "dmzj_109719170",
+        "avatar": "https://avatar.dmzj.com/56/77/567713cdd5dc288a4e4ce6a4ddb563d2.png"
+      },
+      {
+        "comment_id": 26660447,
+        "uid": 108368233,
+        "content": "第三十一页是什么情况？怎么一直是加载中？",
+        "createtime": 1587370737,
+        "nickname": "dmzj_108368233",
+        "avatar": "https://avatar.dmzj.com/59/59/595991baf5e6beac823b446d383e752a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

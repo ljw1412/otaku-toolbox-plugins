@@ -1,0 +1,91 @@
+{
+  "id": 49175,
+  "islong": 2,
+  "direction": 1,
+  "title": "电影万岁",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/dianyingwansui0712.jpg",
+  "description": "仅以此漫画献给那些为卡通动画辛苦奋斗、永不懈怠的年轻朋友。",
+  "last_updatetime": 1562933194,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dianyingwansui",
+  "hidden": 0,
+  "hot_num": 123296,
+  "hit_num": 9384,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91102,
+  "authors": [
+    {
+      "tag_id": 904,
+      "tag_name": "手冢治虫"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "subscribe_num": 543,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91102,
+          "chapter_title": "1卷",
+          "updatetime": 1562933194,
+          "filesize": 8681802,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 26477132,
+        "uid": 102425200,
+        "content": "电影万岁。",
+        "createtime": 1586873250,
+        "nickname": "阿潘还是有一点理想的",
+        "avatar": "https://avatar.dmzj.com/5a/f9/5af9903ce76dab944fc2b76bbb2bd9aa.png"
+      },
+      {
+        "comment_id": 18142042,
+        "uid": 108021276,
+        "content": "为什么突然更新这个",
+        "createtime": 1562959434,
+        "nickname": "狐狸箱子",
+        "avatar": "https://avatar.dmzj.com/93/81/9381f75bfa2cf3e7c7ca57afbe8acf49.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 52636,
+  "islong": 2,
+  "direction": 1,
+  "title": "不眠之夜",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/200229bumianzhiye.jpg",
+  "description": "这是在烦恼缠身无法入眠的、凌晨两点发生的事。",
+  "last_updatetime": 1582959394,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bumianzhiye",
+  "hidden": 0,
+  "hot_num": 279235,
+  "hit_num": 46290,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99781,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19080,
+      "tag_name": "Fiok Lee"
+    }
+  ],
+  "subscribe_num": 1282,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99781,
+          "chapter_title": "1话",
+          "updatetime": 1582959394,
+          "filesize": 4893331,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 48,
+    "latest_comment": [
+      {
+        "comment_id": 27058722,
+        "uid": 104793627,
+        "content": "好看的短篇",
+        "createtime": 1588477578,
+        "nickname": "雛罂粟",
+        "avatar": "https://avatar.dmzj.com/45/69/45692b34194e0918e929f2632d49e649.png"
+      },
+      {
+        "comment_id": 24743908,
+        "uid": 104792371,
+        "content": "看完感觉就是  女朋友没在的夜里，想她……_(:з」∠)_",
+        "createtime": 1583076294,
+        "nickname": "simo0",
+        "avatar": "https://avatar.dmzj.com/ae/15/ae151b11eb52a5aae1c12be78f2e46bb.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

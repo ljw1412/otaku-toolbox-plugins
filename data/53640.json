@@ -1,0 +1,119 @@
+{
+  "id": 53640,
+  "islong": 2,
+  "direction": 1,
+  "title": "nueco的舰娘漫画集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/nuecodjnmhj200504.jpg",
+  "description": "画完偶像活动的nueco又把可爱的画笔伸向舰娘啦，本次会带来什么可爱的故事呢~",
+  "last_updatetime": 1588510980,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "nuecodejianniangmanhuaji",
+  "hidden": 0,
+  "hot_num": 791445,
+  "hit_num": 41238,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 101826,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19551,
+      "tag_name": "nueco"
+    }
+  ],
+  "subscribe_num": 2519,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101826,
+          "chapter_title": "5话",
+          "updatetime": 1588510980,
+          "filesize": 1123609,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 101770,
+          "chapter_title": "4话",
+          "updatetime": 1588413351,
+          "filesize": 772991,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 101591,
+          "chapter_title": "3话",
+          "updatetime": 1588144435,
+          "filesize": 791646,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 101001,
+          "chapter_title": "2话",
+          "updatetime": 1587048577,
+          "filesize": 754766,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 100843,
+          "chapter_title": "1话",
+          "updatetime": 1586777027,
+          "filesize": 916252,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 89,
+    "latest_comment": [
+      {
+        "comment_id": 27092253,
+        "uid": 102090976,
+        "content": "七霞传安排",
+        "createtime": 1588572674,
+        "nickname": "玖条可怜",
+        "avatar": "https://avatar.dmzj.com/61/58/6158139a665d46f6b5d8f0086b1c466d.png"
+      },
+      {
+        "comment_id": 27081945,
+        "uid": 105069380,
+        "content": "怎么，这个提督怎么没死的，隔壁不都死了好几次？",
+        "createtime": 1588528430,
+        "nickname": "LastSmile",
+        "avatar": "https://avatar.dmzj.com/79/98/79988330d600cb080b3fc71d7b11af53.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

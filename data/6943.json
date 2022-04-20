@@ -1,0 +1,79 @@
+{
+  "id": 6943,
+  "islong": 2,
+  "direction": 2,
+  "title": "云端寄语99",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/000001_5d0d43c5_6d35517355ae4c361edde12ac1ca0d29.jpg",
+  "description": "经典短篇漫画",
+  "last_updatetime": 1290511994,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yunduanjiyu99",
+  "hidden": 0,
+  "hot_num": 13101,
+  "hit_num": 34940,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13335,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3545,
+      "tag_name": "未知"
+    }
+  ],
+  "subscribe_num": 64,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13335,
+          "chapter_title": "1话",
+          "updatetime": 1291116794,
+          "filesize": 1506005,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1742998,
+        "uid": 101160907,
+        "content": "没啦？",
+        "createtime": 1485879513,
+        "nickname": "ProfJack",
+        "avatar": "https://avatar.dmzj.com/51/60/51600c04b0551831752b068f64165838.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

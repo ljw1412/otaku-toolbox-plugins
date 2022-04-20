@@ -1,0 +1,130 @@
+{
+  "id": 50362,
+  "islong": 2,
+  "direction": 1,
+  "title": "假面骑士913",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/190929jmqs913.jpg",
+  "description": "月刊《假面骑士KAIXA（913）》，以草加雅人为主角的全新故事。",
+  "last_updatetime": 1585570697,
+  "last_update_chapter_name": "第06话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jiamianqishi913",
+  "hidden": 0,
+  "hot_num": 2767333,
+  "hit_num": 1682329,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99439,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1509,
+      "tag_name": "石之森章太郎"
+    },
+    {
+      "tag_id": 17958,
+      "tag_name": "かのえゆうし"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 11762,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99439,
+          "chapter_title": "6话",
+          "updatetime": 1585570697,
+          "filesize": 3954267,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 97920,
+          "chapter_title": "5话",
+          "updatetime": 1582891874,
+          "filesize": 5348530,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 95638,
+          "chapter_title": "4话",
+          "updatetime": 1577707734,
+          "filesize": 2486856,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 94697,
+          "chapter_title": "3话",
+          "updatetime": 1575121670,
+          "filesize": 2907469,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 93714,
+          "chapter_title": "2话",
+          "updatetime": 1572357260,
+          "filesize": 5622079,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 92712,
+          "chapter_title": "1话",
+          "updatetime": 1569753243,
+          "filesize": 6643024,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1057,
+    "latest_comment": [
+      {
+        "comment_id": 27040796,
+        "uid": 105319320,
+        "content": "今月份的茄人传捏？",
+        "createtime": 1588428739,
+        "nickname": "幻想乡乡长28771",
+        "avatar": "https://avatar.dmzj.com/e0/4f/e04f51b062db4b370cf98f32f912dc29.png"
+      },
+      {
+        "comment_id": 27015352,
+        "uid": 108016544,
+        "content": "这个月是停刊？",
+        "createtime": 1588348671,
+        "nickname": "学友不骂人",
+        "avatar": "https://avatar.dmzj.com/75/a4/75a4a877bc7b5e3aede260654ac9219f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

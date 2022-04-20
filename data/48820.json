@@ -1,0 +1,91 @@
+{
+  "id": 48820,
+  "islong": 2,
+  "direction": 1,
+  "title": "Love me tender",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/love201900613.jpg",
+  "description": "我的英雄学院性逆本",
+  "last_updatetime": 1560442720,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lovemetender",
+  "hidden": 0,
+  "hot_num": 603744,
+  "hit_num": 114579,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90312,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15736,
+      "tag_name": "ちかや"
+    }
+  ],
+  "subscribe_num": 2689,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90312,
+          "chapter_title": "1话",
+          "updatetime": 1560442720,
+          "filesize": 7556478,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 200,
+    "latest_comment": [
+      {
+        "comment_id": 25932077,
+        "uid": 110624188,
+        "content": "太甜了太甜了",
+        "createtime": 1585740938,
+        "nickname": "dmzj_110624188",
+        "avatar": "https://avatar.dmzj.com/39/66/39666e10f09e2a8b1147340ad53d830f.png"
+      },
+      {
+        "comment_id": 24992092,
+        "uid": 110459904,
+        "content": "我求求各位zz不要在同人区找事",
+        "createtime": 1583588923,
+        "nickname": "dmzj_110459904",
+        "avatar": "https://avatar.dmzj.com/f0/0e/f00ed541ebb4effa0037d7366719617b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

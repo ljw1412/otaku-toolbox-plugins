@@ -1,0 +1,87 @@
+{
+  "id": 50931,
+  "islong": 2,
+  "direction": 1,
+  "title": "献君一阕卡农曲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/00klq104.jpg",
+  "description": "这是你还未出生前，发生的故事。",
+  "last_updatetime": 1572832340,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xianjunyiquekanongqu",
+  "hidden": 0,
+  "hot_num": 31997,
+  "hit_num": 3912,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94505,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18207,
+      "tag_name": "ホットドッグチャック"
+    }
+  ],
+  "subscribe_num": 144,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94505,
+          "chapter_title": "1话",
+          "updatetime": 1572832340,
+          "filesize": 4392392,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 24790318,
+        "uid": 105877380,
+        "content": "上古老本啊，在贴吧看过，有后续的。",
+        "createtime": 1583167421,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      },
+      {
+        "comment_id": 24670803,
+        "uid": 105251235,
+        "content": "果然想看有乡长的啊",
+        "createtime": 1582952668,
+        "nickname": "盘泠",
+        "avatar": "https://avatar.dmzj.com/34/0d/340dda77241db75bcb6ac53187df3f9d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

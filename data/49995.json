@@ -1,0 +1,91 @@
+{
+  "id": 49995,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C96)Rock Days",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/rockdays.jpg",
+  "description": "へーべー 与宫部真琴老师带来的,偶像大师的三篇小故事",
+  "last_updatetime": 1567755240,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "rockdays",
+  "hidden": 0,
+  "hot_num": 72932,
+  "hit_num": 2870,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 92925,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17780,
+      "tag_name": "へーべー"
+    },
+    {
+      "tag_id": 17781,
+      "tag_name": "宫部真琴"
+    }
+  ],
+  "subscribe_num": 335,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92925,
+          "chapter_title": "1话",
+          "updatetime": 1567755240,
+          "filesize": 4285917,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 25290542,
+        "uid": 104480640,
+        "content": "666",
+        "createtime": 1584278646,
+        "nickname": "干物之路",
+        "avatar": "https://avatar.dmzj.com/72/43/7243777ce87da0811117f748c8a5b8e5.png"
+      },
+      {
+        "comment_id": 20115754,
+        "uid": 24779160,
+        "content": "梦见璃亚梦挺可爱啊，为什么会有一堆奇怪的称呼和恶堕本子",
+        "createtime": 1567883170,
+        "nickname": "洛克零",
+        "avatar": "https://avatar.dmzj.com/d2/2f/d22f7b8cd9d002483670776ee695b1a2.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

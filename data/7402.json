@@ -1,0 +1,101 @@
+{
+  "id": 7402,
+  "islong": 2,
+  "direction": 1,
+  "title": "Fate/stay night 漫画选集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/fatemanhuaxuanji20110530.jpg",
+  "description": "由多位作者绘制的Fate/stay night同人漫画选集，Fate/stay night爱好者不可错过！",
+  "last_updatetime": 1306741793,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fatemanhuaxuanji",
+  "hidden": 0,
+  "hot_num": 491002,
+  "hit_num": 7323428,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 15209,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 2596,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 15209,
+          "chapter_title": "3卷",
+          "updatetime": 1306741793,
+          "filesize": 22098654,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 15208,
+          "chapter_title": "2卷",
+          "updatetime": 1306741775,
+          "filesize": 19279454,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 15207,
+          "chapter_title": "1卷",
+          "updatetime": 1306741760,
+          "filesize": 15872892,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 77,
+    "latest_comment": [
+      {
+        "comment_id": 27011182,
+        "uid": 110713794,
+        "content": "fate入坑漫，漫画必须补",
+        "createtime": 1588342560,
+        "nickname": "0202❤️❤️❤️",
+        "avatar": "https://avatar.dmzj.com/5a/0a/5a0a867bedca4696453597f763c0b963.png"
+      },
+      {
+        "comment_id": 27002755,
+        "uid": 109428483,
+        "content": "廉颇",
+        "createtime": 1588318303,
+        "nickname": "繁繁喵",
+        "avatar": "https://avatar.dmzj.com/16/61/16610711b338f29965b4e60e405fac59.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

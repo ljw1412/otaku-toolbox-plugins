@@ -1,0 +1,87 @@
+{
+  "id": 52453,
+  "islong": 2,
+  "direction": 1,
+  "title": "花的颜色",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/huadeyanse200221.jpg",
+  "description": "偶像们，在打牌，唱歌中，表现自己，靠近彼此。",
+  "last_updatetime": 1582290754,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huadeyanse",
+  "hidden": 0,
+  "hot_num": 194059,
+  "hit_num": 41547,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93771,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6042,
+      "tag_name": "徒步二分(茶户)"
+    }
+  ],
+  "subscribe_num": 870,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93771,
+          "chapter_title": "1话",
+          "updatetime": 1582290754,
+          "filesize": 5987779,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 40,
+    "latest_comment": [
+      {
+        "comment_id": 25445291,
+        "uid": 107595523,
+        "content": "古德",
+        "createtime": 1584605859,
+        "nickname": "ヘヘヘヘ",
+        "avatar": "https://avatar.dmzj.com/27/58/27584e143d6d02910efd1b0fbe43c170.png"
+      },
+      {
+        "comment_id": 25299708,
+        "uid": 109697116,
+        "content": "看看",
+        "createtime": 1584289751,
+        "nickname": "终将成为你a",
+        "avatar": "https://avatar.dmzj.com/82/91/8291b18a8f155a2b347ddfce17aff047.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

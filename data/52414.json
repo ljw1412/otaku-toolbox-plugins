@@ -1,0 +1,87 @@
+{
+  "id": 52414,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C97)萌妹收集2019冬、祭",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/200219mmhjj.jpg",
+  "description": "发布于C97的萌妹画集",
+  "last_updatetime": 1582102381,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mengmeishouji2019dongji",
+  "hidden": 0,
+  "hot_num": 2483803,
+  "hit_num": 62296,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94395,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15564,
+      "tag_name": "メロンブックス"
+    }
+  ],
+  "subscribe_num": 8975,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94395,
+          "chapter_title": "1卷",
+          "updatetime": 1582102381,
+          "filesize": 1560131,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 89,
+    "latest_comment": [
+      {
+        "comment_id": 26474845,
+        "uid": 110095549,
+        "content": "111111111",
+        "createtime": 1586869872,
+        "nickname": "dmzj_110095549",
+        "avatar": "https://avatar.dmzj.com/0c/1d/0c1d023356f0f6b23fb56d12a88cd8de.png"
+      },
+      {
+        "comment_id": 26413722,
+        "uid": 106069705,
+        "content": "啊我好了",
+        "createtime": 1586715724,
+        "nickname": "阿子椋",
+        "avatar": "https://avatar.dmzj.com/17/14/1714d535c75b22802639e17402e8ba57.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,97 @@
+{
+  "id": 53150,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔法三便士",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1016848271584457140.jpg",
+  "description": "黄逗与京寻野合作，魔法少女的激战莫名其妙地开始了？",
+  "last_updatetime": 1584458039,
+  "last_update_chapter_name": "第01话 激斗！",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "mofasanbianshi",
+  "hidden": 0,
+  "hot_num": 3466,
+  "hit_num": 1346,
+  "uid": 101684827,
+  "is_lock": 0,
+  "last_update_chapter_id": 99809,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19312,
+      "tag_name": "黄逗京寻野"
+    }
+  ],
+  "subscribe_num": 16,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99809,
+          "chapter_title": "1话",
+          "updatetime": 1584458039,
+          "filesize": 3076466,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 25582862,
+        "uid": 104310324,
+        "content": "有点东西",
+        "createtime": 1584926816,
+        "nickname": "透明へ",
+        "avatar": "https://avatar.dmzj.com/93/1e/931e1b74993a642775812fb58d2387f4.png"
+      },
+      {
+        "comment_id": 25581170,
+        "uid": 110017896,
+        "content": "？？？",
+        "createtime": 1584920599,
+        "nickname": "寂寞的萝尔",
+        "avatar": "https://avatar.dmzj.com/58/40/5840fbb8c4e7f1a593aa1fe860499f8f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

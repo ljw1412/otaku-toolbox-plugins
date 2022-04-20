@@ -1,0 +1,108 @@
+{
+  "id": 9043,
+  "islong": 2,
+  "direction": 2,
+  "title": "守望者前传 夜枭",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/yexiao.jpg",
+  "description": "守望者前传 夜枭，讲述夜枭部分的故事。",
+  "last_updatetime": 1362024030,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yexiao",
+  "hidden": 0,
+  "hot_num": 2054928,
+  "hit_num": 1057721,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20851,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 9695,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20851,
+          "chapter_title": "4卷",
+          "updatetime": 1362024030,
+          "filesize": 4979032,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 20850,
+          "chapter_title": "3卷",
+          "updatetime": 1362024025,
+          "filesize": 5350829,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 18719,
+          "chapter_title": "2卷",
+          "updatetime": 1344246202,
+          "filesize": 6187874,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 18358,
+          "chapter_title": "1卷",
+          "updatetime": 1341382372,
+          "filesize": 6547197,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 31,
+    "latest_comment": [
+      {
+        "comment_id": 23072458,
+        "uid": 100807219,
+        "content": "半本罗夏传，",
+        "createtime": 1578170437,
+        "nickname": "银03018",
+        "avatar": "https://avatar.dmzj.com/53/c7/53c7f523269b7563a99f7748ef41c396.png"
+      },
+      {
+        "comment_id": 21672071,
+        "uid": 105346988,
+        "content": "好看！",
+        "createtime": 1572079892,
+        "nickname": "Anesthesian",
+        "avatar": "https://avatar.dmzj.com/16/70/1670072827036d81a3990b8f18421ba6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

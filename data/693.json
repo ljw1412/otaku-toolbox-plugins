@@ -1,0 +1,101 @@
+{
+  "id": 693,
+  "islong": 2,
+  "direction": 1,
+  "title": "恶魔的心",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/emodexinx.jpg",
+  "description": "国中男生时土反了来到异世界~六门世界，他在六门世界遇见了剑之侯爵亚斯摩迪斯这个被封印了千年的恶魔。拥有相同灵魂的恶魔与少年，即将改变世界的命运。",
+  "last_updatetime": 1178197680,
+  "last_update_chapter_name": "vol_03",
+  "copyright": 0,
+  "first_letter": "e",
+  "comic_py": "emdx",
+  "hidden": 1,
+  "hot_num": 38815,
+  "hit_num": 1900164,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 962,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 823,
+      "tag_name": "西川秀明"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 162,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 962,
+          "chapter_title": "3卷",
+          "updatetime": 1178197680,
+          "filesize": 11484744,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 961,
+          "chapter_title": "2卷",
+          "updatetime": 1178197680,
+          "filesize": 12328262,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 960,
+          "chapter_title": "1卷",
+          "updatetime": 1178197680,
+          "filesize": 12447766,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 26819179,
+        "uid": 100242498,
+        "content": "老漫画了",
+        "createtime": 1587793369,
+        "nickname": "四月吟火怜",
+        "avatar": "https://avatar.dmzj.com/86/70/8670b80352054f3a86d8bd14036c7974.png"
+      },
+      {
+        "comment_id": 26091520,
+        "uid": 9896099,
+        "content": "好像有第五卷",
+        "createtime": 1586052709,
+        "nickname": "真·太刀",
+        "avatar": "https://avatar.dmzj.com/4c/c5/4cc52db62b7008ec4a70af48b0ac10e7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

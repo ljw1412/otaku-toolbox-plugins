@@ -1,0 +1,105 @@
+{
+  "id": 53832,
+  "islong": 1,
+  "direction": 1,
+  "title": "斯萨克诺奇谈",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/ssknqt20200423.jpg",
+  "description": "原创世界的某个肉盾王子的传记",
+  "last_updatetime": 1587697902,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sisakenuoqitan",
+  "hidden": 0,
+  "hot_num": 34262,
+  "hit_num": 15810,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100578,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 18522,
+      "tag_name": "AA"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19446,
+      "tag_name": "恶行易释"
+    }
+  ],
+  "subscribe_num": 148,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100578,
+          "chapter_title": "2话",
+          "updatetime": 1587697902,
+          "filesize": 1258844,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 100556,
+          "chapter_title": "1话",
+          "updatetime": 1587639793,
+          "filesize": 1023714,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 100517,
+          "chapter_title": "0话",
+          "updatetime": 1587612286,
+          "filesize": 801878,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 26993822,
+        "uid": 108682039,
+        "content": "不更了吗？",
+        "createtime": 1588285800,
+        "nickname": "dmzj_108682039",
+        "avatar": "https://avatar.dmzj.com/17/c6/17c663e0bd59811bc0d1d6c2a13a9fdb.png"
+      },
+      {
+        "comment_id": 26914540,
+        "uid": 109568833,
+        "content": "。。。。。。",
+        "createtime": 1588054567,
+        "nickname": "琥珀木星",
+        "avatar": "https://avatar.dmzj.com/64/66/646646c47bfb568d84a8431ba9e218de.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

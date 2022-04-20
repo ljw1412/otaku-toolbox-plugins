@@ -1,0 +1,87 @@
+{
+  "id": 50687,
+  "islong": 2,
+  "direction": 1,
+  "title": "RGB-A",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/rgba20191018.jpg",
+  "description": "这是东方星莲船的体验版本「RGB」的再录并追加16页的搞笑漫画本。带点儿简单的非想天则捏他。",
+  "last_updatetime": 1571368347,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "rgba",
+  "hidden": 0,
+  "hot_num": 46050,
+  "hit_num": 11917,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93343,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5955,
+      "tag_name": "アンニュイ赤蛸 "
+    }
+  ],
+  "subscribe_num": 198,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93343,
+          "chapter_title": "1话",
+          "updatetime": 1571368347,
+          "filesize": 11927636,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 21662140,
+        "uid": 105037218,
+        "content": "这个画风真可爱啊",
+        "createtime": 1572033604,
+        "nickname": "恐龙70909",
+        "avatar": "https://avatar.dmzj.com/18/93/18936006a968094c71b9affff0325593.png"
+      },
+      {
+        "comment_id": 21453571,
+        "uid": 106418032,
+        "content": "蟹工船可还行，你还说你不是红色势力漫画家？",
+        "createtime": 1571446618,
+        "nickname": "dmzj_106418032",
+        "avatar": "https://avatar.dmzj.com/df/5e/df5ee07d7ee4c05454b86c628b0cdf2d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

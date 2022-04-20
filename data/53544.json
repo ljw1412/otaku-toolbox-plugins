@@ -1,0 +1,101 @@
+{
+  "id": 53544,
+  "islong": 2,
+  "direction": 1,
+  "title": "隔壁的玉藻前辈",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/gbdyzqb20200409.jpg",
+  "description": "玉藻前辈的出场方式,我觉得我可以",
+  "last_updatetime": 1588591348,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gebideyuzaoqianbei",
+  "hidden": 0,
+  "hot_num": 2410030,
+  "hit_num": 62916,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97786,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19509,
+      "tag_name": "ワイズスピ一ク"
+    }
+  ],
+  "subscribe_num": 7003,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97786,
+          "chapter_title": "3话",
+          "updatetime": 1588591348,
+          "filesize": 352354,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 97504,
+          "chapter_title": "2话",
+          "updatetime": 1588144389,
+          "filesize": 420122,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 96529,
+          "chapter_title": "1话",
+          "updatetime": 1586420108,
+          "filesize": 522803,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 224,
+    "latest_comment": [
+      {
+        "comment_id": 27099534,
+        "uid": 9826502,
+        "content": "这个没有百合标签？",
+        "createtime": 1588595153,
+        "nickname": "尹梦林",
+        "avatar": "https://avatar.dmzj.com/67/c7/67c75c6e8c0bbfe522d2199b6b74d137.png"
+      },
+      {
+        "comment_id": 27099527,
+        "uid": 102400420,
+        "content": "好快的车车",
+        "createtime": 1588595130,
+        "nickname": "Bryan",
+        "avatar": "https://avatar.dmzj.com/93/27/9327749b0df5d9dbdffa6491d5a4cf63.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

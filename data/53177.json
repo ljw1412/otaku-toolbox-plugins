@@ -1,0 +1,111 @@
+{
+  "id": 53177,
+  "islong": 2,
+  "direction": 2,
+  "title": "黑夜的眼睛",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1006119031585013093.jpg",
+  "description": "一个克苏鲁向的短篇故事集，慢慢画吧，有情绪的时候再画。相信没台词你们也看得懂。。",
+  "last_updatetime": 1585013827,
+  "last_update_chapter_name": "寻猎3",
+  "copyright": 1,
+  "first_letter": "h",
+  "comic_py": "heiyedeyanjing",
+  "hidden": 0,
+  "hot_num": 6483,
+  "hit_num": 3251,
+  "uid": 100611903,
+  "is_lock": 0,
+  "last_update_chapter_id": 99143,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11073,
+      "tag_name": "桔五味"
+    }
+  ],
+  "subscribe_num": 27,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99143,
+          "chapter_title": "3话",
+          "updatetime": 1585013827,
+          "filesize": 572943,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 99142,
+          "chapter_title": "2话",
+          "updatetime": 1585013721,
+          "filesize": 676654,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 99141,
+          "chapter_title": "1话",
+          "updatetime": 1585013546,
+          "filesize": 652480,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 25716225,
+        "uid": 110634280,
+        "content": "上色了！8⃣️错",
+        "createtime": 1585228806,
+        "nickname": "戒色吧官方",
+        "avatar": "https://avatar.dmzj.com/38/14/38145a9dec03ae1f0cbf3f701712ea02.png"
+      },
+      {
+        "comment_id": 25658929,
+        "uid": 100611903,
+        "content": "第一个故事情节很简单的，猎魔之人反被魔神吞噬，或者换个说法，勇者斗恶龙却最终成为了恶龙。果然后面还是得加台词啊/b凌乱",
+        "createtime": 1585098828,
+        "nickname": "桔五味",
+        "avatar": "https://avatar.dmzj.com/98/95/9895b1b10e9f29139f900d750ec6088a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

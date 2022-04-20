@@ -1,0 +1,87 @@
+{
+  "id": 53200,
+  "islong": 2,
+  "direction": 1,
+  "title": "苹果虫的传闻",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/pgcdcw20200325.jpg",
+  "description": "わすきい太太在P站上的剑盾小故事",
+  "last_updatetime": 1585105610,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "p",
+  "comic_py": "pingguochongdechuanwen",
+  "hidden": 0,
+  "hot_num": 250896,
+  "hit_num": 10836,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99922,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19333,
+      "tag_name": "わすきい"
+    }
+  ],
+  "subscribe_num": 1167,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99922,
+          "chapter_title": "1话",
+          "updatetime": 1585105610,
+          "filesize": 779860,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 77,
+    "latest_comment": [
+      {
+        "comment_id": 25814090,
+        "uid": 105677043,
+        "content": "哎哟？你脸红啦？",
+        "createtime": 1585466714,
+        "nickname": "Theurgistメ",
+        "avatar": "https://avatar.dmzj.com/34/78/34781c7bd06fd9c37a824f7874fff014.png"
+      },
+      {
+        "comment_id": 25731450,
+        "uid": 104281035,
+        "content": "前两天刚看了一本女主不了解含义的情况下送了马小姐一只苹果虫，得知含义后跑去道歉结果吃干抹净的本",
+        "createtime": 1585247467,
+        "nickname": "日本語苦手なスズキ",
+        "avatar": "https://avatar.dmzj.com/86/32/8632fd0d8f38947b178ce018f49d533a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,102 @@
+{
+  "id": 50555,
+  "islong": 2,
+  "direction": 1,
+  "title": "驯汉记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/xhj20191009.jpg",
+  "description": "改编自台湾小说家典心的作品《驯汉记》",
+  "last_updatetime": 1571190322,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xunhanji",
+  "hidden": 0,
+  "hot_num": 156457,
+  "hit_num": 222333,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94077,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 6316,
+      "tag_name": "轻小说"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 943,
+      "tag_name": "游圭秀"
+    },
+    {
+      "tag_id": 18049,
+      "tag_name": "典心"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 674,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94077,
+          "chapter_title": "2卷",
+          "updatetime": 1571190322,
+          "filesize": 33857063,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 93898,
+          "chapter_title": "1卷",
+          "updatetime": 1570626576,
+          "filesize": 16594352,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 26593153,
+        "uid": 100378600,
+        "content": "刚好停到了最要紧的时候，话说小说里面好像没有秦不换对女主有意的情节啊？难道是改编了吗？",
+        "createtime": 1587176869,
+        "nickname": "夏铃娜娜",
+        "avatar": "https://avatar.dmzj.com/db/bc/dbbcc208be3b1578f29f3fe63989e5ef.png"
+      },
+      {
+        "comment_id": 26590706,
+        "uid": 100378600,
+        "content": "这。。。后续赶紧出啊，我都想买小说了！！！",
+        "createtime": 1587164790,
+        "nickname": "夏铃娜娜",
+        "avatar": "https://avatar.dmzj.com/db/bc/dbbcc208be3b1578f29f3fe63989e5ef.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

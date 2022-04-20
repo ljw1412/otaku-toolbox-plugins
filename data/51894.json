@@ -1,0 +1,101 @@
+{
+  "id": 51894,
+  "islong": 2,
+  "direction": 1,
+  "title": "沼王和布偶",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/zhaowanghebuou0120.jpg",
+  "description": "沼王的小短篇",
+  "last_updatetime": 1583208392,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhaowanghebuou",
+  "hidden": 0,
+  "hot_num": 702520,
+  "hit_num": 99783,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94897,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18363,
+      "tag_name": "ぬ"
+    }
+  ],
+  "subscribe_num": 3023,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94897,
+          "chapter_title": "3话",
+          "updatetime": 1583208392,
+          "filesize": 1156516,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 94896,
+          "chapter_title": "2话",
+          "updatetime": 1583208346,
+          "filesize": 3337566,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 93264,
+          "chapter_title": "1话",
+          "updatetime": 1579487768,
+          "filesize": 1108871,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 152,
+    "latest_comment": [
+      {
+        "comment_id": 27074843,
+        "uid": 105339086,
+        "content": "沼王挺可爱的，",
+        "createtime": 1588518398,
+        "nickname": "季牧染",
+        "avatar": "https://avatar.dmzj.com/db/6f/db6f9535d53f96baf919e98020bbeb24.png"
+      },
+      {
+        "comment_id": 27002591,
+        "uid": 104771526,
+        "content": "沼王眉头一皱，发现事情并不简单.jpg",
+        "createtime": 1588317754,
+        "nickname": "肉食者鄙",
+        "avatar": "https://avatar.dmzj.com/74/66/7466c440097f8e91c78c9156160b4d92.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

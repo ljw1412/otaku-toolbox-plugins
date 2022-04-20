@@ -1,0 +1,127 @@
+{
+  "id": 48959,
+  "islong": 2,
+  "direction": 1,
+  "title": "贤者之孙SP",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/szzssp626.jpg",
+  "description": "贤者之孙的续作系列 主角将会遇到新的冒险之旅\n一路上会遇到什么呢 我们将等待发展~",
+  "last_updatetime": 1586176653,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xianzhezhisunsp",
+  "hidden": 0,
+  "hot_num": 1308083,
+  "hit_num": 136534,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96381,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 6316,
+      "tag_name": "轻小说"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11764,
+      "tag_name": "吉冈刚"
+    },
+    {
+      "tag_id": 17286,
+      "tag_name": "西沢秀二"
+    }
+  ],
+  "subscribe_num": 5999,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96381,
+          "chapter_title": "4话",
+          "updatetime": 1586176653,
+          "filesize": 4769969,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 95441,
+          "chapter_title": "3话",
+          "updatetime": 1584278999,
+          "filesize": 4222407,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 95157,
+          "chapter_title": "2话",
+          "updatetime": 1583738822,
+          "filesize": 4823010,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 91435,
+          "chapter_title": "1话",
+          "updatetime": 1574396143,
+          "filesize": 5238391,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 86316,
+          "chapter_title": "0话",
+          "updatetime": 1561526055,
+          "filesize": 789325,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 75,
+    "latest_comment": [
+      {
+        "comment_id": 26483760,
+        "uid": 110429368,
+        "content": "好看",
+        "createtime": 1586880225,
+        "nickname": "dmzj_110429368",
+        "avatar": "https://avatar.dmzj.com/79/1a/791a8716c6599fb334976c9473b86b12.png"
+      },
+      {
+        "comment_id": 26198228,
+        "uid": 100825550,
+        "content": "呃呃呃",
+        "createtime": 1586272043,
+        "nickname": "随处荡漾",
+        "avatar": "https://avatar.dmzj.com/70/1b/701b5e2d68fa956ed248e5308805aa5c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

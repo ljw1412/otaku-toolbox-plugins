@@ -1,0 +1,94 @@
+{
+  "id": 9187,
+  "islong": 2,
+  "direction": 2,
+  "title": "黑亚当",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/heiyadang.jpg",
+  "description": "故事承接52，黑亚当失去力量，寻求复活妻子的故事 \n",
+  "last_updatetime": 1357787008,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "heiyadang",
+  "hidden": 0,
+  "hot_num": 1725402,
+  "hit_num": 240730,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22385,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 7990,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22385,
+          "chapter_title": "2卷",
+          "updatetime": 1357787008,
+          "filesize": 3010025,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 20572,
+          "chapter_title": "1卷",
+          "updatetime": 1343721046,
+          "filesize": 2990513,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 17565598,
+        "uid": 101019952,
+        "content": "后续在哪看啊",
+        "createtime": 1561703345,
+        "nickname": "K塔洛斯",
+        "avatar": "https://avatar.dmzj.com/20/84/20841f900cdcb80e39fd736aed5c3bdf.png"
+      },
+      {
+        "comment_id": 1502064,
+        "uid": 102293593,
+        "content": "他的力量怎么失去的？",
+        "createtime": 1480048819,
+        "nickname": "Drunvalo Melchizedek",
+        "avatar": "https://avatar.dmzj.com/35/d9/35d958e8b7a17db2f3c61a3e6f30540d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

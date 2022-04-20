@@ -1,0 +1,87 @@
+{
+  "id": 52752,
+  "islong": 2,
+  "direction": 1,
+  "title": "甜甜圈星球",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/200304ttqxq.jpg",
+  "description": "熟悉的梦幻冒险风格~",
+  "last_updatetime": 1583287090,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tiantianquanxingqiu",
+  "hidden": 0,
+  "hot_num": 52708,
+  "hit_num": 3712,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 98165,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6123,
+      "tag_name": "鸟居すみ"
+    }
+  ],
+  "subscribe_num": 188,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98165,
+          "chapter_title": "1话",
+          "updatetime": 1583287090,
+          "filesize": 6473082,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 24917750,
+        "uid": 106494798,
+        "content": "这个作者刀子很多，话说秘封组是刀子最多的cp了吧",
+        "createtime": 1583421924,
+        "nickname": "天河彼端",
+        "avatar": "https://avatar.dmzj.com/47/47/4747d8a9d0a95f3fd22b00710a122f10.png"
+      },
+      {
+        "comment_id": 24871446,
+        "uid": 108837506,
+        "content": "糖 刀 糖\n鸟居老师的秘封本总是这样介于糖与刀的境界",
+        "createtime": 1583335027,
+        "nickname": "dmzj_108837506",
+        "avatar": "https://avatar.dmzj.com/06/36/0636a0741f3d56c9e2a9d7d5a48b0c19.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 8003,
+  "islong": 2,
+  "direction": 1,
+  "title": "伪装",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/weizhuang.jpg",
+  "description": "我演奏的音色，会怎样传达给你呢？心怦怦跳，紧张激动的爱情故事登场——",
+  "last_updatetime": 1322211658,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "weizhuang",
+  "hidden": 0,
+  "hot_num": 83764,
+  "hit_num": 518150,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 16173,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 602,
+      "tag_name": "松本友(マツモトトモ)"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 440,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 16173,
+          "chapter_title": "1话",
+          "updatetime": 1322211658,
+          "filesize": 3139824,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 17822189,
+        "uid": 106925732,
+        "content": "很棒耶！我想起了赤石老师的《替身天使》",
+        "createtime": 1562260442,
+        "nickname": "透丫",
+        "avatar": "https://avatar.dmzj.com/fa/11/fa11940676f2b2969a598bebbec0fbd4.png"
+      },
+      {
+        "comment_id": 2462207,
+        "uid": 101473720,
+        "content": "每个人都是假的，只有女主是真的，超悲剧，大家都变得不再是从前模样",
+        "createtime": 1499740653,
+        "nickname": "精分少女的日常",
+        "avatar": "https://avatar.dmzj.com/ab/6f/ab6f70a5b8bd076c15f48a0dc8bf6505.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

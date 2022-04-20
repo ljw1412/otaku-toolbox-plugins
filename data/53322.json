@@ -1,0 +1,87 @@
+{
+  "id": 53322,
+  "islong": 2,
+  "direction": 1,
+  "title": "幻想游戏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/hxyx2020330.jpg",
+  "description": "幻想乡的日常。",
+  "last_updatetime": 1585535481,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huanxiangyouxi",
+  "hidden": 0,
+  "hot_num": 29048,
+  "hit_num": 14595,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99408,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11017,
+      "tag_name": "菊一文字"
+    }
+  ],
+  "subscribe_num": 119,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99408,
+          "chapter_title": "1话",
+          "updatetime": 1585535481,
+          "filesize": 10439533,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 25880024,
+        "uid": 108905440,
+        "content": "智斗混沌恶GM",
+        "createtime": 1585615349,
+        "nickname": "dmzj_108905440",
+        "avatar": "https://avatar.dmzj.com/84/85/848533ed34439522176f05ebf574711f.png"
+      },
+      {
+        "comment_id": 25874428,
+        "uid": 106001094,
+        "content": "和蕾咪跑团完全没有乐趣啊!",
+        "createtime": 1585591474,
+        "nickname": "愉悦的凯森猫",
+        "avatar": "https://avatar.dmzj.com/72/9f/729ff3a3d228541b9ab6280b49036126.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 52943,
+  "islong": 2,
+  "direction": 1,
+  "title": "ON AIR'S",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/onairs20200313.jpg",
+  "description": "第一次直播失败却还有人打赏了30w的巧克酱,发现打赏人是同班的金城同学,她到底带着什么目的呢?",
+  "last_updatetime": 1584084224,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "o",
+  "comic_py": "onairs",
+  "hidden": 0,
+  "hot_num": 1045454,
+  "hit_num": 242633,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94753,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19201,
+      "tag_name": "嘉村田逸名"
+    }
+  ],
+  "subscribe_num": 4833,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94753,
+          "chapter_title": "1话",
+          "updatetime": 1584084224,
+          "filesize": 5008573,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 247,
+    "latest_comment": [
+      {
+        "comment_id": 26735371,
+        "uid": 108856445,
+        "content": "这是有价值的评论544",
+        "createtime": 1587570527,
+        "nickname": "墨羽华",
+        "avatar": "https://avatar.dmzj.com/2c/bf/2cbf7e8dcf01bda74c54719f539078e5.png"
+      },
+      {
+        "comment_id": 26681577,
+        "uid": 100532271,
+        "content": "这个老师还挺眼熟的",
+        "createtime": 1587423101,
+        "nickname": "百合真眼",
+        "avatar": "https://avatar.dmzj.com/75/64/7564542b473f826cd9468ab80e01f142.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

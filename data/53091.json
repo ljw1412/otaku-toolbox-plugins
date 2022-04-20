@@ -1,0 +1,98 @@
+{
+  "id": 53091,
+  "islong": 2,
+  "direction": 1,
+  "title": "爆宴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/200320by.jpg",
+  "description": "【进击的巨人 Before the fall】作者士贵智志与【XBLADE】作者イダタツヒコと合作新作！水浒传x异世界的震撼幻想谭！",
+  "last_updatetime": 1586148286,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "baoyan",
+  "hidden": 0,
+  "hot_num": 1224416,
+  "hit_num": 487970,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 101541,
+  "authors": [
+    {
+      "tag_id": 474,
+      "tag_name": "士贵智志"
+    },
+    {
+      "tag_id": 19279,
+      "tag_name": "イダタツヒコと"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "subscribe_num": 4050,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101541,
+          "chapter_title": "2话",
+          "updatetime": 1586148286,
+          "filesize": 9533402,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 100727,
+          "chapter_title": "1话",
+          "updatetime": 1584674394,
+          "filesize": 11669388,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 407,
+    "latest_comment": [
+      {
+        "comment_id": 27090069,
+        "uid": 106121479,
+        "content": "你也来假更",
+        "createtime": 1588566338,
+        "nickname": "dmzj_106121479",
+        "avatar": "https://avatar.dmzj.com/dd/49/dd496caade5a5cdffdf6ac6fae12392a.png"
+      },
+      {
+        "comment_id": 27062271,
+        "uid": 109103513,
+        "content": "呃呃",
+        "createtime": 1588488418,
+        "nickname": "洋良秋鸶",
+        "avatar": "https://avatar.dmzj.com/86/84/8684ca64f4de456b4c8c1ffecdf7a193.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,105 @@
+{
+  "id": 6127,
+  "islong": 2,
+  "direction": 2,
+  "title": "绿巨人世界大战：X战警",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/wwxman.jpg",
+  "description": "MARVEL最新作品，绿巨人VS X战警。",
+  "last_updatetime": 1409299500,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "worldwarhulkxmen",
+  "hidden": 0,
+  "hot_num": 4236513,
+  "hit_num": 1025855,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 33922,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 21512,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33922,
+          "chapter_title": "3卷",
+          "updatetime": 1409299500,
+          "filesize": 3071175,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 12776,
+          "chapter_title": "2卷",
+          "updatetime": 1284435057,
+          "filesize": 3427166,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 12775,
+          "chapter_title": "1卷",
+          "updatetime": 1284435052,
+          "filesize": 3496085,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 22896685,
+        "uid": 104339243,
+        "content": "这是绿殇宇宙后面的剧情吧",
+        "createtime": 1577507293,
+        "nickname": "诙谐の语",
+        "avatar": "https://avatar.dmzj.com/38/35/38356e1c2e2aa698e7fddfa74192d2dc.png"
+      },
+      {
+        "comment_id": 21673474,
+        "uid": 109687762,
+        "content": "这战斗人员实力差距是不是有点大啊，与其把这些没用的新角色叫出来，不如让万磁王，秘客，天谴博士，快银，女巫出来打架，女巫说一声再无绿巨人不就完了么，再不行也能削弱绿胖一部分实力吧",
+        "createtime": 1572084530,
+        "nickname": "dmzj_109687762",
+        "avatar": "https://avatar.dmzj.com/ef/aa/efaae5b70a387703445295f376149b13.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,112 @@
+{
+  "id": 51410,
+  "islong": 2,
+  "direction": 1,
+  "title": "未来channel",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/weilai20191210.jpg",
+  "description": "常盘未来，小学六年级生。 平凡而普通的她，因为姐姐突然的心血来潮，化身为男性偶像“ミライ君”开展演艺活动！？想看佛系中性偶像的活动，请点击这里关注频道！",
+  "last_updatetime": 1579156662,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "weilaichannel",
+  "hidden": 0,
+  "hot_num": 1081595,
+  "hit_num": 119181,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96867,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18430,
+      "tag_name": "migchip"
+    }
+  ],
+  "subscribe_num": 4260,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96867,
+          "chapter_title": "3话",
+          "updatetime": 1579156662,
+          "filesize": 4836259,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 96774,
+          "chapter_title": "2话",
+          "updatetime": 1578931789,
+          "filesize": 4479292,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 96511,
+          "chapter_title": "1话",
+          "updatetime": 1578232328,
+          "filesize": 2118390,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 95732,
+          "chapter_title": "0话",
+          "updatetime": 1575992508,
+          "filesize": 1212976,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 113,
+    "latest_comment": [
+      {
+        "comment_id": 25895943,
+        "uid": 104210551,
+        "content": "炼铜，不分性别",
+        "createtime": 1585656961,
+        "nickname": "赤银凩",
+        "avatar": "https://avatar.dmzj.com/61/22/612261486ce0945550fc811834f5915a.png"
+      },
+      {
+        "comment_id": 25815584,
+        "uid": 102315407,
+        "content": "懂了这就让弟弟去直播",
+        "createtime": 1585471184,
+        "nickname": "甲斐之猛虎",
+        "avatar": "https://avatar.dmzj.com/d8/cb/d8cb5b38b94fddf9ad71a4fbab635d4c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

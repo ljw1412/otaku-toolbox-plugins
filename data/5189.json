@@ -1,0 +1,94 @@
+{
+  "id": 5189,
+  "islong": 2,
+  "direction": 2,
+  "title": "青蜂侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/qingfengxia20100812.jpg",
+  "description": "随着2011年新版青蜂侠电影即将问世，漫画亦抢先而出，周杰伦将取代周星驰扮演多年前由李小龙饰演的角色。那么看看漫画中的人物像不像周呢？",
+  "last_updatetime": 1284775331,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qingfengxia",
+  "hidden": 0,
+  "hot_num": 31993,
+  "hit_num": 165578,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12076,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2926,
+      "tag_name": "Dynamite"
+    }
+  ],
+  "subscribe_num": 137,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12076,
+          "chapter_title": "2卷",
+          "updatetime": 1284775331,
+          "filesize": 3086463,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 10504,
+          "chapter_title": "1卷",
+          "updatetime": 1281602445,
+          "filesize": 3854726,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1092597,
+        "uid": 101671593,
+        "content": "喜欢这画风",
+        "createtime": 1469981194,
+        "nickname": "神知道答案",
+        "avatar": "https://avatar.dmzj.com/90/fe/90feab1192b565a29bb583d4762e6553.png"
+      },
+      {
+        "comment_id": 722760,
+        "uid": 100906972,
+        "content": "看了电影再来看的",
+        "createtime": 1460259212,
+        "nickname": "deadpool kid",
+        "avatar": "https://avatar.dmzj.com/65/2e/652e3e8723a7cb95d44084a7812224a8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

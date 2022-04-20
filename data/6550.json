@@ -1,0 +1,108 @@
+{
+  "id": 6550,
+  "islong": 2,
+  "direction": 2,
+  "title": "蜘蛛侠-民间传说",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/000001_b29c83b2_31befaf98cdc01a7d4fd1b7a7997bd94.jpg",
+  "description": "该系列是Marvel推出的蜘蛛侠外传性质漫画,结合各个国家的民间传说，各个故事独立成章，互不关联，与蜘蛛侠原作无关",
+  "last_updatetime": 1423721198,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhizhuxiaminjianchuanshuo",
+  "hidden": 0,
+  "hot_num": 4239079,
+  "hit_num": 757472,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13687,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 21422,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13690,
+          "chapter_title": "4话",
+          "updatetime": 1288620424,
+          "filesize": 3034206,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 13689,
+          "chapter_title": "3话",
+          "updatetime": 1288620424,
+          "filesize": 2264917,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 13688,
+          "chapter_title": "2话",
+          "updatetime": 1288620424,
+          "filesize": 3994661,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13687,
+          "chapter_title": "1话",
+          "updatetime": 1423721198,
+          "filesize": 2061228,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 17603731,
+        "uid": 107599414,
+        "content": "好强",
+        "createtime": 1561792546,
+        "nickname": "某萝莉的蓝白条胖次君",
+        "avatar": "https://avatar.dmzj.com/93/77/93778aeedbae29905a01740fa8e5d7a8.png"
+      },
+      {
+        "comment_id": 8596128,
+        "uid": 107107419,
+        "content": "第四话的mj啊，童话有时并不美好",
+        "createtime": 1543741532,
+        "nickname": "半年一次好麻烦",
+        "avatar": "https://avatar.dmzj.com/43/16/4316b62fda246c3dfe8c465dc0f0a3d8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

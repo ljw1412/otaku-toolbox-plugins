@@ -1,0 +1,101 @@
+{
+  "id": 50834,
+  "islong": 2,
+  "direction": 2,
+  "title": "星球大战：抵抗时代",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/191028xqdzdksd.jpg",
+  "description": "“如果追随我的不是你而是你舅舅，银河系早就是我的囊中之物了。”",
+  "last_updatetime": 1582520237,
+  "last_update_chapter_name": "特刊",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xingqiudazhandikangshidai",
+  "hidden": 0,
+  "hot_num": 56435,
+  "hit_num": 35228,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94580,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 237,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94580,
+          "chapter_title": "3卷",
+          "updatetime": 1582520237,
+          "filesize": 6548839,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 90625,
+          "chapter_title": "2卷",
+          "updatetime": 1572232491,
+          "filesize": 4687302,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 90624,
+          "chapter_title": "1卷",
+          "updatetime": 1572232446,
+          "filesize": 5472565,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 24489724,
+        "uid": 107753086,
+        "content": "所以这谁？ppt师傅？（我就记得这一个脸长的）",
+        "createtime": 1582546967,
+        "nickname": "只眼姬真棒：｜",
+        "avatar": "https://avatar.dmzj.com/74/34/74345ffee928a199af4cfd2e6c103169.png"
+      },
+      {
+        "comment_id": 24487454,
+        "uid": 105005071,
+        "content": "其实也没说错，当年卢克要是追随皇帝说不定真能改写历史",
+        "createtime": 1582541337,
+        "nickname": "yuukiyuna",
+        "avatar": "https://avatar.dmzj.com/26/28/2628b6e7cdd593d1467478235543191d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

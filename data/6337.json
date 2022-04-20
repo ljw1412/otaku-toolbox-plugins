@@ -1,0 +1,122 @@
+{
+  "id": 6337,
+  "islong": 2,
+  "direction": 1,
+  "title": "歌姬",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/002_8056e5e0702cd506646f6c1c32335fa9.jpg",
+  "description": "暂无介绍",
+  "last_updatetime": 1286522907,
+  "last_update_chapter_name": "CH06",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "geji",
+  "hidden": 0,
+  "hot_num": 20093,
+  "hit_num": 249017,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13072,
+  "authors": [
+    {
+      "tag_id": 270,
+      "tag_name": "住吉文子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "subscribe_num": 88,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13072,
+          "chapter_title": "6话",
+          "updatetime": 1287127707,
+          "filesize": 3844214,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 13071,
+          "chapter_title": "5话",
+          "updatetime": 1287127707,
+          "filesize": 443696,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 13070,
+          "chapter_title": "4话",
+          "updatetime": 1287127707,
+          "filesize": 3698231,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 13069,
+          "chapter_title": "3话",
+          "updatetime": 1287127707,
+          "filesize": 2981755,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 13068,
+          "chapter_title": "2话",
+          "updatetime": 1287127707,
+          "filesize": 4288392,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13067,
+          "chapter_title": "1话",
+          "updatetime": 1287127707,
+          "filesize": 6400748,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 27016793,
+        "uid": 104965600,
+        "content": "哇这个画风的确很老啊",
+        "createtime": 1588350887,
+        "nickname": "布鲁塞尔松饼的天空",
+        "avatar": "https://avatar.dmzj.com/97/44/9744d4ab211b60786ea75377426554d3.png"
+      },
+      {
+        "comment_id": 19052376,
+        "uid": 106103400,
+        "content": "等等，居然有人在我之后订阅了",
+        "createtime": 1565003868,
+        "nickname": "scp——000",
+        "avatar": "https://avatar.dmzj.com/51/31/5131a066ffcae4b5ae69f1d00360245a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

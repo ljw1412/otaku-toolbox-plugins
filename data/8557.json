@@ -1,0 +1,87 @@
+{
+  "id": 8557,
+  "islong": 2,
+  "direction": 1,
+  "title": "情书",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/qingshu.jpg",
+  "description": "在这座被科学掩埋了的城市，有这样的一种信，可以偷偷的传达自己的心意，可以悄悄地说着知心话，这种信就是——情书。就好像是被施了魔法一样的让人温暖。",
+  "last_updatetime": 1333183747,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qingshu",
+  "hidden": 0,
+  "hot_num": 240543,
+  "hit_num": 566914,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 19236,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3545,
+      "tag_name": "未知"
+    }
+  ],
+  "subscribe_num": 1188,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19236,
+          "chapter_title": "1话",
+          "updatetime": 1333183747,
+          "filesize": 3201537,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 48,
+    "latest_comment": [
+      {
+        "comment_id": 24983203,
+        "uid": 100523304,
+        "content": "第三季白翼那个场景真的是世界名画啊",
+        "createtime": 1583570916,
+        "nickname": "Diesdeclarabit",
+        "avatar": "https://avatar.dmzj.com/e7/17/e71796c20f7e3dd8257a0a83cae8de30.png"
+      },
+      {
+        "comment_id": 24825603,
+        "uid": 109427926,
+        "content": "一方通行，性别不明的话，这一对搞不好是百合～(￣▽￣～)~",
+        "createtime": 1583248851,
+        "nickname": "dmzj_109427926",
+        "avatar": "https://avatar.dmzj.com/ea/7b/ea7b19af0bce01be2f798e6572a13d75.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

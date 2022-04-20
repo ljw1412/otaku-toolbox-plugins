@@ -1,0 +1,87 @@
+{
+  "id": 52751,
+  "islong": 2,
+  "direction": 1,
+  "title": "Haunted holiday",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/200304hauntedholiday.jpg",
+  "description": "老朋友金成老师。莲子梅莉鬼屋大冒险！",
+  "last_updatetime": 1583286747,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hauntedholiday",
+  "hidden": 0,
+  "hot_num": 35872,
+  "hit_num": 2943,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99928,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14748,
+      "tag_name": "金成(四方山)"
+    }
+  ],
+  "subscribe_num": 150,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99928,
+          "chapter_title": "1话",
+          "updatetime": 1583286747,
+          "filesize": 9608777,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 26622482,
+        "uid": 105109335,
+        "content": "一开始还在想为什么秘封俱乐部那时候还有昭和的人活着",
+        "createtime": 1587261791,
+        "nickname": "秋桜满咲",
+        "avatar": "https://avatar.dmzj.com/03/e4/03e4544d5f3493bf0685ba2b4286c2d1.png"
+      },
+      {
+        "comment_id": 25086373,
+        "uid": 100443754,
+        "content": "吃糖真开心",
+        "createtime": 1583777389,
+        "nickname": "KUJOzE",
+        "avatar": "https://avatar.dmzj.com/49/93/49932b99fc3c1864a6fb0556ed7ba60a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

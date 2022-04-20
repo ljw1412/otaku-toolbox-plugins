@@ -1,0 +1,87 @@
+{
+  "id": 7276,
+  "islong": 2,
+  "direction": 1,
+  "title": "东京的孩子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/dongjingdehaizi.jpg",
+  "description": "人群症候群、割腕自残.....我们的生活方式是这么不被热允许的吗？ ",
+  "last_updatetime": 1302855358,
+  "last_update_chapter_name": "第一卷",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongjingdehaizi",
+  "hidden": 0,
+  "hot_num": 13265,
+  "hit_num": 356768,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13136,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3883,
+      "tag_name": "三森多惠子"
+    }
+  ],
+  "subscribe_num": 62,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13136,
+          "chapter_title": "1卷",
+          "updatetime": 1302855358,
+          "filesize": 16252384,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 3914477,
+        "uid": 100515981,
+        "content": "谁有东京80年代这部吗？",
+        "createtime": 1519038326,
+        "nickname": "hkwangc",
+        "avatar": "https://avatar.dmzj.com/a0/5a/a05a29c7b2aaba7855466627de8a5edd.png"
+      },
+      {
+        "comment_id": 3073333,
+        "uid": 102102638,
+        "content": "吼",
+        "createtime": 1507676006,
+        "nickname": "parachutes2147",
+        "avatar": "https://avatar.dmzj.com/bb/99/bb99e11cb0e9776fd4f840bcb503bd49.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

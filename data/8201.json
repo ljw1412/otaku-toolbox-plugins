@@ -1,0 +1,151 @@
+{
+  "id": 8201,
+  "islong": 2,
+  "direction": 1,
+  "title": "Drc2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/drc2.jpg",
+  "description": "　　 现今的社会，越来越多青少年，有了“中2病”，这时候就需要专门的医师来解救他们。前所未有的医疗漫画，月刊COMIC BLADE 12月号 开始连载。",
+  "last_updatetime": 1468654392,
+  "last_update_chapter_name": "第09话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "drc2",
+  "hidden": 0,
+  "hot_num": 331019,
+  "hit_num": 5700993,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 54892,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4358,
+      "tag_name": "伊藤仁"
+    },
+    {
+      "tag_id": 4359,
+      "tag_name": "枫月诚"
+    }
+  ],
+  "subscribe_num": 2833,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54892,
+          "chapter_title": "9话",
+          "updatetime": 1468654392,
+          "filesize": 2920996,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 54891,
+          "chapter_title": "8话",
+          "updatetime": 1468654336,
+          "filesize": 3088518,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 16979,
+          "chapter_title": "7话",
+          "updatetime": 1337133418,
+          "filesize": 3874409,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 17087,
+          "chapter_title": "6话",
+          "updatetime": 1338104539,
+          "filesize": 5017652,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 16406,
+          "chapter_title": "5话",
+          "updatetime": 1332813677,
+          "filesize": 5671615,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 15964,
+          "chapter_title": "4话",
+          "updatetime": 1329666821,
+          "filesize": 5397669,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 15697,
+          "chapter_title": "3话",
+          "updatetime": 1327940740,
+          "filesize": 5475220,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 15545,
+          "chapter_title": "2话",
+          "updatetime": 1326561665,
+          "filesize": 3808923,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 15509,
+          "chapter_title": "1话",
+          "updatetime": 1326259187,
+          "filesize": 7184518,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 103,
+    "latest_comment": [
+      {
+        "comment_id": 19802127,
+        "uid": 10091703,
+        "content": "这个居然更新了，感谢汉化组！",
+        "createtime": 1566829954,
+        "nickname": "xjq_holmes",
+        "avatar": "https://avatar.dmzj.com/0c/05/0c05ff02256080197599909e7cd8c491.png"
+      },
+      {
+        "comment_id": 19612936,
+        "uid": 104583279,
+        "content": "中二病好可怕",
+        "createtime": 1566358148,
+        "nickname": "正宗秀才",
+        "avatar": "https://avatar.dmzj.com/8b/53/8b534f644a78a17dd65fe4767bfe59f9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

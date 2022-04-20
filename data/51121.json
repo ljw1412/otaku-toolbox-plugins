@@ -1,0 +1,91 @@
+{
+  "id": 51121,
+  "islong": 2,
+  "direction": 1,
+  "title": "首次所看之物",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/191118scskzw.jpg",
+  "description": "和后辈一起去看电影",
+  "last_updatetime": 1574047362,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shoucisuokanzhiwu",
+  "hidden": 0,
+  "hot_num": 1096789,
+  "hit_num": 33073,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94916,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6028,
+      "tag_name": "藤近小梅"
+    }
+  ],
+  "subscribe_num": 4316,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94916,
+          "chapter_title": "1话",
+          "updatetime": 1574047362,
+          "filesize": 960524,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 58,
+    "latest_comment": [
+      {
+        "comment_id": 24193286,
+        "uid": 110084918,
+        "content": "没了？这么短？",
+        "createtime": 1581817694,
+        "nickname": "轟洋介",
+        "avatar": "https://avatar.dmzj.com/13/96/1396b1cff64058c55533f031b6f399b9.png"
+      },
+      {
+        "comment_id": 23921201,
+        "uid": 11712620,
+        "content": "看看",
+        "createtime": 1581179328,
+        "nickname": "oO星期九",
+        "avatar": "https://avatar.dmzj.com/21/86/2186d21c79fc53eb16258d82f368a609.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

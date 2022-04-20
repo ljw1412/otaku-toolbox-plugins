@@ -1,0 +1,91 @@
+{
+  "id": 9181,
+  "islong": 2,
+  "direction": 1,
+  "title": "学生会战争",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/xueshenghuizhanzheng.jpg",
+  "description": "学生会战争为尊严而战。",
+  "last_updatetime": 1343633742,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xueshenghuizhanzheng",
+  "hidden": 0,
+  "hot_num": 99427,
+  "hit_num": 261747,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 17750,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4860,
+      "tag_name": "安田刚助"
+    }
+  ],
+  "subscribe_num": 468,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 17750,
+          "chapter_title": "短篇",
+          "updatetime": 1343633742,
+          "filesize": 4687497,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 26366705,
+        "uid": 101684057,
+        "content": "这都是什么鬼JPG",
+        "createtime": 1586616804,
+        "nickname": "愛新覚罗毓琊",
+        "avatar": "https://avatar.dmzj.com/96/23/9623647ba59440e378eb4143244c8c85.png"
+      },
+      {
+        "comment_id": 25813275,
+        "uid": 108424794,
+        "content": "……",
+        "createtime": 1585464585,
+        "nickname": "柊の",
+        "avatar": "https://avatar.dmzj.com/16/42/16421f77507a8f596e8a98c635fde1bb.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

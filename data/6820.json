@@ -1,0 +1,112 @@
+{
+  "id": 6820,
+  "islong": 2,
+  "direction": 1,
+  "title": "雾",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/wu.jpg",
+  "description": "人气广播剧CD的精彩世界终于开始漫画化！围绕着不团结的成员“世界”和“少女”之间所展开的不可思议的故事！\n",
+  "last_updatetime": 1295429539,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wu",
+  "hidden": 0,
+  "hot_num": 26192,
+  "hit_num": 285799,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 14400,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 564,
+      "tag_name": "二宫爱"
+    },
+    {
+      "tag_id": 3653,
+      "tag_name": "蚁田蜂子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 176,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 14400,
+          "chapter_title": "4话",
+          "updatetime": 1295429539,
+          "filesize": 2623754,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 14005,
+          "chapter_title": "3话",
+          "updatetime": 1290501931,
+          "filesize": 3829987,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 14004,
+          "chapter_title": "2话",
+          "updatetime": 1290501921,
+          "filesize": 4645241,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 14003,
+          "chapter_title": "1话",
+          "updatetime": 1290501910,
+          "filesize": 5263560,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 987834,
+        "uid": 101469995,
+        "content": "籠中之鳥",
+        "createtime": 1467915506,
+        "nickname": "AyuBB88983",
+        "avatar": "https://avatar.dmzj.com/c2/94/c2946d64c34664a42533fa8743f0ff88.png"
+      },
+      {
+        "comment_id": 199144,
+        "uid": 25103042,
+        "content": "信息量很大",
+        "createtime": 1390733800,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

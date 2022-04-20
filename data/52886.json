@@ -1,0 +1,87 @@
+{
+  "id": 52886,
+  "islong": 2,
+  "direction": 1,
+  "title": "和平的每日",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/hpdmr200310.jpg",
+  "description": "永远的和平......怎样才能做到呢？",
+  "last_updatetime": 1583844192,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hepingdemeiri",
+  "hidden": 0,
+  "hot_num": 121841,
+  "hit_num": 14311,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100247,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12850,
+      "tag_name": "山うた"
+    }
+  ],
+  "subscribe_num": 478,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100247,
+          "chapter_title": "1话",
+          "updatetime": 1583844192,
+          "filesize": 1511266,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 49,
+    "latest_comment": [
+      {
+        "comment_id": 25599180,
+        "uid": 101277836,
+        "content": "我来了  为了那些来不了的人",
+        "createtime": 1584968167,
+        "nickname": "会飞的固多拉",
+        "avatar": "https://avatar.dmzj.com/48/91/4891f7c2d6d88afb4f8a300297dd08ac.png"
+      },
+      {
+        "comment_id": 25143863,
+        "uid": 104573011,
+        "content": "看看",
+        "createtime": 1583927584,
+        "nickname": "如意坊熊",
+        "avatar": "https://avatar.dmzj.com/97/bc/97bc54d492e5beec6aa0adfe8f4920a9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,101 @@
+{
+  "id": 50323,
+  "islong": 2,
+  "direction": 1,
+  "title": "缤纷百合2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/191102bfbh.jpg",
+  "description": "ゆりゆり: 2 (百合姫コミックス) 水母老师（なもり）时隔多年的短篇集第二弹！",
+  "last_updatetime": 1573375757,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "binfenbaiheer",
+  "hidden": 0,
+  "hot_num": 2163989,
+  "hit_num": 378800,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90106,
+  "authors": [
+    {
+      "tag_id": 1170,
+      "tag_name": "なもり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "subscribe_num": 9037,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89886,
+          "chapter_title": "4话",
+          "updatetime": 1572756689,
+          "filesize": 2655685,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 90106,
+          "chapter_title": "2话",
+          "updatetime": 1573375757,
+          "filesize": 3836535,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 89885,
+          "chapter_title": "1话",
+          "updatetime": 1572756642,
+          "filesize": 2963080,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 453,
+    "latest_comment": [
+      {
+        "comment_id": 26971957,
+        "uid": 103455631,
+        "content": "想起初三我也超喜欢拔头发，简直到了欲罢不能的境界，一边拔头发一边做题……\n结果中考结束后，头顶秃了一小块，高中长出一小撮呆毛，按都按不下去-.-",
+        "createtime": 1588239667,
+        "nickname": "Tsuki",
+        "avatar": "https://avatar.dmzj.com/ee/4f/ee4fe7cc5cb05e27e5b97a23397f25ce.png"
+      },
+      {
+        "comment_id": 26957685,
+        "uid": 104732321,
+        "content": "咋没第三话",
+        "createtime": 1588144207,
+        "nickname": "二次元的恐怖片",
+        "avatar": "https://avatar.dmzj.com/59/87/5987d0c54ae3600ac113b167b17f4454.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

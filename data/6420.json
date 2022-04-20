@@ -1,0 +1,87 @@
+{
+  "id": 6420,
+  "islong": 2,
+  "direction": 1,
+  "title": "街头霸王2009",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/00_f34ed5a4ac433b2055753915bd8cd4c5.jpg",
+  "description": "capcom经典游戏改编而成的漫画！！！",
+  "last_updatetime": 1287829713,
+  "last_update_chapter_name": "年新作预告集",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jietoubawang2009",
+  "hidden": 0,
+  "hot_num": 71394,
+  "hit_num": 44656,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13579,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1586,
+      "tag_name": "capcom"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 363,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13579,
+          "chapter_title": "年新作预告集",
+          "updatetime": 1288434514,
+          "filesize": 2264350,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 25806179,
+        "uid": 108157490,
+        "content": "Orange Arms",
+        "createtime": 1585440514,
+        "nickname": "柳丁橙",
+        "avatar": "https://avatar.dmzj.com/7b/5e/7b5e1a84683137709f6f86cc3aae505e.png"
+      },
+      {
+        "comment_id": 194864,
+        "uid": 25103042,
+        "content": " 噢呀",
+        "createtime": 1389770604,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

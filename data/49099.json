@@ -1,0 +1,83 @@
+{
+  "id": 49099,
+  "islong": 2,
+  "direction": 1,
+  "title": "CyanBlue",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/cb708.gif",
+  "description": "成人两人的生活",
+  "last_updatetime": 1562561337,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "cyanblue",
+  "hidden": 1,
+  "hot_num": 1003,
+  "hit_num": 24,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86633,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7592,
+      "tag_name": "片仓アコ"
+    },
+    {
+      "tag_id": 17353,
+      "tag_name": "tMnR"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86633,
+          "chapter_title": "短篇",
+          "updatetime": 1562561337,
+          "filesize": 5363765,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 21646637,
+        "uid": 106040867,
+        "content": "还没开始就已结束",
+        "createtime": 1571996283,
+        "nickname": "你好hello",
+        "avatar": "https://avatar.dmzj.com/56/74/5674d851a5768428e217891d6bfcf038.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 5303,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔法少女初音",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/180804mfsncy.jpg",
+  "description": "我铃木初音、是个极为平凡的17岁少女。但是，爸爸的身份居然是……阴阳师！？据说还是日本第一！？不过这和我一点关系也没有！？突然有一天，爸爸丢了一道难题给我！他要我和两个男生同居，并分辨出其中谁是『鬼』。这是身为一位父亲……不、身为人类该有的行为吗！？",
+  "last_updatetime": 1282098972,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mfsncy",
+  "hidden": 0,
+  "hot_num": 17214,
+  "hit_num": 392217,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 11054,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2971,
+      "tag_name": "那州雪绘"
+    }
+  ],
+  "subscribe_num": 82,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 11054,
+          "chapter_title": "1卷",
+          "updatetime": 1282098972,
+          "filesize": 12455367,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 7488702,
+        "uid": 102102638,
+        "content": "老师？？",
+        "createtime": 1539878429,
+        "nickname": "parachutes2147",
+        "avatar": "https://avatar.dmzj.com/bb/99/bb99e11cb0e9776fd4f840bcb503bd49.png"
+      },
+      {
+        "comment_id": 201501,
+        "uid": 25103042,
+        "content": "魔法少女初音",
+        "createtime": 1391317823,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,108 @@
+{
+  "id": 9112,
+  "islong": 2,
+  "direction": 1,
+  "title": "便当 三角形",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/bdsjx.jpg",
+  "description": "本漫画是无视《便当》原作设定的恶搞作品。看的时候不要太认真。",
+  "last_updatetime": 1345003016,
+  "last_update_chapter_name": "第4话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bdsjx",
+  "hidden": 0,
+  "hot_num": 98193,
+  "hit_num": 333078,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20737,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1760,
+      "tag_name": "サンカクヘッド"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 396,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20737,
+          "chapter_title": "4话",
+          "updatetime": 1345003016,
+          "filesize": 799638,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 20691,
+          "chapter_title": "3话",
+          "updatetime": 1344654448,
+          "filesize": 662537,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 20527,
+          "chapter_title": "2话",
+          "updatetime": 1343187959,
+          "filesize": 728174,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 20454,
+          "chapter_title": "1话",
+          "updatetime": 1342544385,
+          "filesize": 816366,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 3012427,
+        "uid": 103420366,
+        "content": "封面好痛啊！！！！！",
+        "createtime": 1506925223,
+        "nickname": "青·鋒",
+        "avatar": "https://avatar.dmzj.com/4d/38/4d383d3e190b82522aada2c9f68cce3a.png"
+      },
+      {
+        "comment_id": 1083213,
+        "uid": 101604117,
+        "content": "这部和书法社的画风怎么这么差，是不是三角头精力都在画埋酱上了😓",
+        "createtime": 1469806324,
+        "nickname": "SABER皓月AE小佐",
+        "avatar": "https://avatar.dmzj.com/16/08/1608d0e38dfc716b6c5259cfea84be91.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

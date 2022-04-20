@@ -1,0 +1,91 @@
+{
+  "id": 52157,
+  "islong": 2,
+  "direction": 1,
+  "title": "天锥",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/200204tianzhui.jpg",
+  "description": "第一次确认到那个神秘的物体是三年前，不知是从宇宙的什么地方来的，但它总是以人类为目标在移动，一但被锁定一定会被它灭掉……",
+  "last_updatetime": 1580831012,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tianzhui",
+  "hidden": 0,
+  "hot_num": 440825,
+  "hit_num": 91064,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96839,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18615,
+      "tag_name": "氏贺Y太"
+    }
+  ],
+  "subscribe_num": 1700,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96839,
+          "chapter_title": "1话",
+          "updatetime": 1580831012,
+          "filesize": 6908253,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 182,
+    "latest_comment": [
+      {
+        "comment_id": 27093228,
+        "uid": 106344279,
+        "content": "这到底是想说什么，我看有人说网络暴力，这肯定不是，或者说孤独症患者？或者绝症患者？很模糊的感觉，像是单纯的讲个故事而已的感觉。",
+        "createtime": 1588575754,
+        "nickname": "天野由乃",
+        "avatar": "https://avatar.dmzj.com/1d/44/1d4404df5819a5982a7a45477a992209.png"
+      },
+      {
+        "comment_id": 27074582,
+        "uid": 105608437,
+        "content": "晚期癌症就这个感觉……我太熟悉了",
+        "createtime": 1588518020,
+        "nickname": "moda",
+        "avatar": "https://avatar.dmzj.com/25/95/259527ba68f66f34092ed49967c718d4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

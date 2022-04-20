@@ -1,0 +1,91 @@
+{
+  "id": 52950,
+  "islong": 2,
+  "direction": 1,
+  "title": "葬列",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/200313zanglie.jpg",
+  "description": "根据小川胜己在2000年第二十届“横沟正史推理小说大奖”的作品《葬列》改编漫画",
+  "last_updatetime": 1584104827,
+  "last_update_chapter_name": "第0话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zanglie",
+  "hidden": 0,
+  "hot_num": 195028,
+  "hit_num": 5027,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99393,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19205,
+      "tag_name": "细川忠孝"
+    },
+    {
+      "tag_id": 19206,
+      "tag_name": "小川胜己"
+    }
+  ],
+  "subscribe_num": 941,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99393,
+          "chapter_title": "0话",
+          "updatetime": 1584104827,
+          "filesize": 856386,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 26800284,
+        "uid": 105460447,
+        "content": "免费送，全白给快来接盘啊",
+        "createtime": 1587741557,
+        "nickname": "Joder",
+        "avatar": "https://avatar.dmzj.com/33/24/3324ec10adc99a1da08c3b0af44ef84a.png"
+      },
+      {
+        "comment_id": 26461607,
+        "uid": 105460447,
+        "content": "第一卷我买完了。画成这个德行我真不想做了。有兴趣的私我。我免费提供图源。6月前没人接我慢慢来。",
+        "createtime": 1586836462,
+        "nickname": "Joder",
+        "avatar": "https://avatar.dmzj.com/33/24/3324ec10adc99a1da08c3b0af44ef84a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

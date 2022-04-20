@@ -1,0 +1,91 @@
+{
+  "id": 53505,
+  "islong": 2,
+  "direction": 2,
+  "title": "死亡:浅谈生命",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/siwnagqiantanshengmingfm.jpg",
+  "description": "关于死亡的简单科普",
+  "last_updatetime": 1586263363,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "siwnagqiantanshenming",
+  "hidden": 0,
+  "hot_num": 111890,
+  "hit_num": 4416,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100595,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    },
+    {
+      "tag_id": 4167,
+      "tag_name": "VERTIGO"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 282,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100595,
+          "chapter_title": "1卷",
+          "updatetime": 1586263363,
+          "filesize": 881804,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 21,
+    "latest_comment": [
+      {
+        "comment_id": 26306774,
+        "uid": 105442214,
+        "content": "感谢二姐的科普，到时候可以骄傲地说是她教的",
+        "createtime": 1586509205,
+        "nickname": "平安哥谭",
+        "avatar": "https://avatar.dmzj.com/58/43/584367afeb7ba721d8678db4454e3bea.png"
+      },
+      {
+        "comment_id": 26217360,
+        "uid": 108716824,
+        "content": "虽然是科普，但这个姐姐好酷",
+        "createtime": 1586318335,
+        "nickname": "dmzj_108716824",
+        "avatar": "https://avatar.dmzj.com/cc/26/cc2661f147b92db7dc88aa789eee3f35.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 49028,
+  "islong": 2,
+  "direction": 1,
+  "title": "樱之雨",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/190703yzy.jpg",
+  "description": "东方同人漫画。",
+  "last_updatetime": 1562160308,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yingzhiyu",
+  "hidden": 0,
+  "hot_num": 43638,
+  "hit_num": 1369,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 85629,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5844,
+      "tag_name": "うにゃ吉"
+    }
+  ],
+  "subscribe_num": 205,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85629,
+          "chapter_title": "1话",
+          "updatetime": 1562160308,
+          "filesize": 7525246,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 17796639,
+        "uid": 106049667,
+        "content": "今天这更新量怎么回事",
+        "createtime": 1562212669,
+        "nickname": "枫＆落叶",
+        "avatar": "https://avatar.dmzj.com/62/ea/62ea4e20ad953f3c8f9f7f72bbd5ce93.png"
+      },
+      {
+        "comment_id": 17792257,
+        "uid": 101699325,
+        "content": "啊！是千年组！我死了！",
+        "createtime": 1562201638,
+        "nickname": "不笑的人",
+        "avatar": "https://avatar.dmzj.com/17/34/173477c7262c51a6ecabcbda66704673.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,139 @@
+{
+  "id": 53070,
+  "islong": 2,
+  "direction": 2,
+  "title": "SCP中国异常物品纪录",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1104662191584579586.jpg",
+  "description": "SCP在中国的异常物品记录",
+  "last_updatetime": 1586412704,
+  "last_update_chapter_name": "ge",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "scpzhongguoyichangwupinjilu",
+  "hidden": 0,
+  "hot_num": 650021,
+  "hit_num": 75278,
+  "uid": 110466219,
+  "is_lock": 0,
+  "last_update_chapter_id": 100670,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19019,
+      "tag_name": "Max_Cross"
+    }
+  ],
+  "subscribe_num": 2231,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100670,
+          "chapter_title": "7话",
+          "updatetime": 1586412704,
+          "filesize": 57953,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 100287,
+          "chapter_title": "6话",
+          "updatetime": 1585788976,
+          "filesize": 644327,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 100190,
+          "chapter_title": "5话",
+          "updatetime": 1585617244,
+          "filesize": 429698,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 99971,
+          "chapter_title": "4话",
+          "updatetime": 1585184007,
+          "filesize": 576059,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 99837,
+          "chapter_title": "3话",
+          "updatetime": 1584935351,
+          "filesize": 789893,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 99715,
+          "chapter_title": "2话",
+          "updatetime": 1584617470,
+          "filesize": 673153,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 99686,
+          "chapter_title": "1话",
+          "updatetime": 1584579896,
+          "filesize": 610058,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "呵呵呵",
+  "comment": {
+    "comment_count": 147,
+    "latest_comment": [
+      {
+        "comment_id": 26711215,
+        "uid": 109448525,
+        "content": "？",
+        "createtime": 1587502219,
+        "nickname": "一望原来是林某",
+        "avatar": "https://avatar.dmzj.com/78/5e/785e9678fe30181da108fba9b0cad9a0.png"
+      },
+      {
+        "comment_id": 26634307,
+        "uid": 105398024,
+        "content": "我？我是真的搞不懂你们为什么要在官方底下一直刷咕nsjsjx，，，，，\n咕咕咕咕咕咕姑姑",
+        "createtime": 1587299066,
+        "nickname": "小编不知道",
+        "avatar": "https://avatar.dmzj.com/72/11/72111c0eda614a36bbb34edd89f7e184.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

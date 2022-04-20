@@ -1,0 +1,91 @@
+{
+  "id": 9600,
+  "islong": 2,
+  "direction": 1,
+  "title": "四海演武",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/sihaiyanwu.jpg",
+  "description": "17世纪中国——国际大武术会“四海演武”，追求天下无敌之名。血战的舞台位于中华大地，超弩级的剑戟战斗即将揭开战幕！",
+  "last_updatetime": 1351362936,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sihaiyanwu",
+  "hidden": 0,
+  "hot_num": 44917,
+  "hit_num": 581163,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20462,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 471,
+      "tag_name": "松本直也"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 220,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20462,
+          "chapter_title": "1话",
+          "updatetime": 1351362936,
+          "filesize": 6992810,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 23352661,
+        "uid": 101812214,
+        "content": "还可以",
+        "createtime": 1579336766,
+        "nickname": "Metatron43006",
+        "avatar": "https://avatar.dmzj.com/d7/53/d7534e4534d0033198427b5aaf919786.png"
+      },
+      {
+        "comment_id": 3620423,
+        "uid": 29115,
+        "content": "这漫画确实有黑 但是论黑外国我没见过能比的上起点的",
+        "createtime": 1514995727,
+        "nickname": "白頭人",
+        "avatar": "https://avatar.dmzj.com/71/92/7192fba476e40e1f5d918485babfd5e0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,98 @@
+{
+  "id": 50327,
+  "islong": 2,
+  "direction": 1,
+  "title": "ORANGEMARY Side",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/osr20190927.jpg",
+  "description": "被锁在龙中的鸟,也向往外面的天空",
+  "last_updatetime": 1569568016,
+  "last_update_chapter_name": "YELLOW",
+  "copyright": 0,
+  "first_letter": "o",
+  "comic_py": "orangemarysidered",
+  "hidden": 0,
+  "hot_num": 44631,
+  "hit_num": 19844,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 92662,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6086,
+      "tag_name": "KFC"
+    },
+    {
+      "tag_id": 15494,
+      "tag_name": "YU"
+    }
+  ],
+  "subscribe_num": 177,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92662,
+          "chapter_title": "2话",
+          "updatetime": 1569568016,
+          "filesize": 10412345,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 92661,
+          "chapter_title": "1话",
+          "updatetime": 1569567988,
+          "filesize": 9130166,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 23785552,
+        "uid": 108053800,
+        "content": "笼中鸟。。",
+        "createtime": 1580831523,
+        "nickname": "琉璃月神社",
+        "avatar": "https://avatar.dmzj.com/73/42/7342539340e85d8a3f876245cc16aacf.png"
+      },
+      {
+        "comment_id": 22853017,
+        "uid": 107496565,
+        "content": "因为红师傅，红师傅说红魔馆守门人，芙兰被关在红魔馆里，所以是龙中鸟",
+        "createtime": 1577326154,
+        "nickname": "春江星雨花月夜",
+        "avatar": "https://avatar.dmzj.com/ae/65/ae650fa045a4c06b71eac9a4f683a2c6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

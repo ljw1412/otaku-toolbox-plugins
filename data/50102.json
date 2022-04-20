@@ -1,0 +1,87 @@
+{
+  "id": 50102,
+  "islong": 2,
+  "direction": 1,
+  "title": "纯白",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/chunbai20190913.jpg",
+  "description": "今天的你是纯白色的吗？",
+  "last_updatetime": 1568388134,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chunbai",
+  "hidden": 0,
+  "hot_num": 873079,
+  "hit_num": 114014,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 92252,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14433,
+      "tag_name": "SeNMU "
+    }
+  ],
+  "subscribe_num": 3275,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92252,
+          "chapter_title": "1话",
+          "updatetime": 1568388134,
+          "filesize": 4875291,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 142,
+    "latest_comment": [
+      {
+        "comment_id": 26983318,
+        "uid": 110770076,
+        "content": "怎么这么像肖战讽刺漫画(゜ロ゜)",
+        "createtime": 1588260608,
+        "nickname": "dmzj_110770076",
+        "avatar": "https://avatar.dmzj.com/40/75/4075c8fe448211856087b892bcb1125e.png"
+      },
+      {
+        "comment_id": 26723239,
+        "uid": 109876344,
+        "content": "这可不是普通的霸凌，是讽刺现代绝大部分的“圣母”",
+        "createtime": 1587548760,
+        "nickname": "dmzj_109876344",
+        "avatar": "https://avatar.dmzj.com/86/42/86429d9d1dc0ded4f44c859805ebbbc0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

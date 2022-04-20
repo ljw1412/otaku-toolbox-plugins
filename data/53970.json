@@ -1,0 +1,79 @@
+{
+  "id": 53970,
+  "islong": 2,
+  "direction": 1,
+  "title": "绿意的世界 -Yama in Green-",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/lydsj0428.jpg",
+  "description": "东方短篇",
+  "last_updatetime": 1588210177,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lvyideshijieyamaingreen",
+  "hidden": 0,
+  "hot_num": 16673,
+  "hit_num": 2416,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 101613,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4904,
+      "tag_name": "滝太郎"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 75,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101613,
+          "chapter_title": "1话",
+          "updatetime": 1588210177,
+          "filesize": 7389896,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 26990973,
+        "uid": 101085970,
+        "content": "文文总是想弄个大新闻",
+        "createtime": 1588270678,
+        "nickname": "时钟嘀嗒作响",
+        "avatar": "https://avatar.dmzj.com/46/60/466096014002471ad130ffb3783ee5dd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,183 @@
+{
+  "id": 48790,
+  "islong": 2,
+  "direction": 1,
+  "title": "学园BASARA",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/190611basar.jpg",
+  "description": "《战国BASARA》中活跃的武将们，在现代高中再次展开了激烈的战斗：前任学生会长“丰臣秀吉”遭到停学处分，学园内群雄割据，为争夺新会长之位成为乱世。足球社的王牌“真田幸村”、棒球部的王牌“伊达政宗”，高呼着团结就是力量的“德川家康”，矢志打倒家康的“石田三成”等人纷纷参战——这个混乱的学园，还会有明天吗？",
+  "last_updatetime": 0,
+  "last_update_chapter_name": null,
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xueyuanbasara",
+  "hidden": 0,
+  "hot_num": 199938,
+  "hit_num": 36,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 17192,
+      "tag_name": "动画"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1586,
+      "tag_name": "capcom"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 958,
+  "chapters": [
+    {
+      "title": "动画",
+      "data": [
+        {
+          "chapter_id": 90480,
+          "chapter_title": "第12集",
+          "updatetime": 1561003097,
+          "filesize": 0,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 90479,
+          "chapter_title": "第11集",
+          "updatetime": 1561003095,
+          "filesize": 0,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 90478,
+          "chapter_title": "第10集",
+          "updatetime": 1561003093,
+          "filesize": 0,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 90477,
+          "chapter_title": "第09集",
+          "updatetime": 1561003090,
+          "filesize": 0,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 90476,
+          "chapter_title": "第08集",
+          "updatetime": 1561003088,
+          "filesize": 0,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 90475,
+          "chapter_title": "第07集",
+          "updatetime": 1561003086,
+          "filesize": 0,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 90474,
+          "chapter_title": "第06集",
+          "updatetime": 1561003083,
+          "filesize": 0,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 90473,
+          "chapter_title": "第05集",
+          "updatetime": 1561003081,
+          "filesize": 0,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 90472,
+          "chapter_title": "第04集",
+          "updatetime": 1561003079,
+          "filesize": 0,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 90471,
+          "chapter_title": "第03集",
+          "updatetime": 1561003077,
+          "filesize": 0,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 90470,
+          "chapter_title": "第02集",
+          "updatetime": 1561003074,
+          "filesize": 0,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 90469,
+          "chapter_title": "第01集",
+          "updatetime": 1561003070,
+          "filesize": 0,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 43,
+    "latest_comment": [
+      {
+        "comment_id": 27087859,
+        "uid": 101421187,
+        "content": "打不开",
+        "createtime": 1588559389,
+        "nickname": "新会酒仓",
+        "avatar": "https://avatar.dmzj.com/a0/1e/a01e0a85665e5f824566da015aa57a4c.png"
+      },
+      {
+        "comment_id": 24577062,
+        "uid": 108844154,
+        "content": "澳洲笔头:Let's go to school !",
+        "createtime": 1582747706,
+        "nickname": "冰箱承太郎",
+        "avatar": "https://avatar.dmzj.com/82/04/8204e393263b5dfd5ede783ac27ebd5d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": [
+        {
+          "id": 232,
+          "btype": 2,
+          "title": "AcFun",
+          "url": "acfun://detail/bangumi/5022160",
+          "r_type": "动画观看",
+          "i_con": "https://xs.dmzj.com/icon/8-15610021942417.png",
+          "package_name": "tv.acfundanmaku.video",
+          "d_url": "https://cdn.aixifan.com/dotnet/20130418/apk/AcFun_dongmzj.apk"
+        }
+      ]
+    }
+  ],
+  "is_dot": "0"
+}

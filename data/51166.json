@@ -1,0 +1,94 @@
+{
+  "id": 51166,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔女与魔法使",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/monv20191122.jpg",
+  "description": "这是一个帕秋莉与爱丽丝之间的故事",
+  "last_updatetime": 1574383751,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "monvyumofashi",
+  "hidden": 0,
+  "hot_num": 55997,
+  "hit_num": 10502,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 95025,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18312,
+      "tag_name": "もここ"
+    }
+  ],
+  "subscribe_num": 257,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95025,
+          "chapter_title": "2话",
+          "updatetime": 1574383751,
+          "filesize": 5975795,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 95024,
+          "chapter_title": "1话",
+          "updatetime": 1574383748,
+          "filesize": 6009807,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 22552928,
+        "uid": 105347743,
+        "content": "双七真好啊",
+        "createtime": 1575993238,
+        "nickname": "随风翌",
+        "avatar": "https://avatar.dmzj.com/77/e8/77e868f07860fcaa1a67ab4556147ac5.png"
+      },
+      {
+        "comment_id": 22499706,
+        "uid": 107706616,
+        "content": "这爱丽丝实在是太软了有没有(づ￣ ³￣)づ",
+        "createtime": 1575699756,
+        "nickname": "蝉藻城",
+        "avatar": "https://avatar.dmzj.com/55/03/5503283f3cd946c5a52bb9dbf09bd4ea.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

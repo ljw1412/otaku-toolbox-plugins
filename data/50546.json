@@ -1,0 +1,98 @@
+{
+  "id": 50546,
+  "islong": 2,
+  "direction": 1,
+  "title": "水神祈绘卷",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/shuishenqihuijuan.jpg",
+  "description": "以河伯娶妻这个古老民间传说为蓝本，绘制出浪漫奇幻恋情。",
+  "last_updatetime": 1571127999,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shuishenqihuijuan",
+  "hidden": 0,
+  "hot_num": 354650,
+  "hit_num": 675108,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93841,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4875,
+      "tag_name": "飘缇亚"
+    }
+  ],
+  "subscribe_num": 1522,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93841,
+          "chapter_title": "2卷",
+          "updatetime": 1571127999,
+          "filesize": 27063943,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 93639,
+          "chapter_title": "1卷",
+          "updatetime": 1570607088,
+          "filesize": 15288830,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 27074820,
+        "uid": 105857473,
+        "content": "冲一冲",
+        "createtime": 1588518373,
+        "nickname": "仙人阿泰",
+        "avatar": "https://avatar.dmzj.com/df/57/df57a7a37d3d4a0d95b2dbfb1467522b.png"
+      },
+      {
+        "comment_id": 26781303,
+        "uid": 100410319,
+        "content": "好喜欢侍从啊哈哈哈",
+        "createtime": 1587694889,
+        "nickname": "bobo ✨",
+        "avatar": "https://avatar.dmzj.com/0b/45/0b457c0e327963886c94802ccacca462.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

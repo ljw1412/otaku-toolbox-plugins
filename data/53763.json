@@ -1,0 +1,91 @@
+{
+  "id": 53763,
+  "islong": 2,
+  "direction": 1,
+  "title": "我·月不惑·红魔狂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/woyuebumeihongmokuang20200420.jpg",
+  "description": "蕾米莉亚与咲月的初遇,在那天咲月找到了生命中的原点",
+  "last_updatetime": 1587353551,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "woyuebumeihongmokuang",
+  "hidden": 0,
+  "hot_num": 23759,
+  "hit_num": 6285,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96592,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5480,
+      "tag_name": "如月亮"
+    }
+  ],
+  "subscribe_num": 111,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96592,
+          "chapter_title": "1话",
+          "updatetime": 1587353551,
+          "filesize": 8816493,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 26720121,
+        "uid": 101066775,
+        "content": "没想到最后还是破功了",
+        "createtime": 1587538969,
+        "nickname": "来ケ谷唯湖",
+        "avatar": "https://avatar.dmzj.com/7d/83/7d839131a6a362b835e183b2310d83da.png"
+      },
+      {
+        "comment_id": 26661151,
+        "uid": 110495664,
+        "content": "简介写错了，是咲夜不是咲月",
+        "createtime": 1587372862,
+        "nickname": "大图书馆一动不动",
+        "avatar": "https://avatar.dmzj.com/88/6d/886daad3df8b91ad24e626275ef5ee21.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,101 @@
+{
+  "id": 8717,
+  "islong": 2,
+  "direction": 1,
+  "title": "混血男孩",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/zajiaosn.jpg",
+  "description": "最近，有些事情一直困扰着我……",
+  "last_updatetime": 1335884313,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "zajiaosn",
+  "hidden": 0,
+  "hot_num": 538141,
+  "hit_num": 3247386,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 19528,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4633,
+      "tag_name": "みずのもと"
+    }
+  ],
+  "subscribe_num": 2607,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19528,
+          "chapter_title": "2话",
+          "updatetime": 1335884313,
+          "filesize": 1534802,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 19527,
+          "chapter_title": "第01话小叶版",
+          "updatetime": 1335884305,
+          "filesize": 1682798,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 19514,
+          "chapter_title": "1话",
+          "updatetime": 1335750222,
+          "filesize": 1757854,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 170,
+    "latest_comment": [
+      {
+        "comment_id": 27080680,
+        "uid": 101734115,
+        "content": "第三话看过了，那现在有第四画吗",
+        "createtime": 1588526142,
+        "nickname": "来到欧洲的亚洲提督",
+        "avatar": "https://avatar.dmzj.com/01/aa/01aa4d503693c1ed04f66807c92ccad0.png"
+      },
+      {
+        "comment_id": 25727688,
+        "uid": 102326898,
+        "content": "哪里还能看到第三话呢，贴吧是搜不到了",
+        "createtime": 1585242316,
+        "nickname": "夢見るように",
+        "avatar": "https://avatar.dmzj.com/32/30/32306e56b05a58c1f67df4d55b017808.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

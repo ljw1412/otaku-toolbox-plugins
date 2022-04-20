@@ -1,0 +1,87 @@
+{
+  "id": 54038,
+  "islong": 2,
+  "direction": 1,
+  "title": "璨々幻想乡",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/cchxx0503.jpg",
+  "description": "东方短篇",
+  "last_updatetime": 1588473447,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "canhuanxiangxiang",
+  "hidden": 0,
+  "hot_num": 22888,
+  "hit_num": 3196,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97183,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5514,
+      "tag_name": "水炊き"
+    }
+  ],
+  "subscribe_num": 112,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97183,
+          "chapter_title": "1话",
+          "updatetime": 1588473447,
+          "filesize": 6727265,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 27080475,
+        "uid": 107522293,
+        "content": "留",
+        "createtime": 1588525784,
+        "nickname": "dmzj_107522293",
+        "avatar": "https://avatar.dmzj.com/18/06/1806da63255d818d4040891d4edb2115.png"
+      },
+      {
+        "comment_id": 27074267,
+        "uid": 110539479,
+        "content": "对不起明明是这么文艺的本子，我却boki了",
+        "createtime": 1588517607,
+        "nickname": "恋恋天下第一啊",
+        "avatar": "https://avatar.dmzj.com/06/10/0610b9706e73e3ac9d1b3aa240192f46.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

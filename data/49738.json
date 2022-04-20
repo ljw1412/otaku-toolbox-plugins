@@ -1,0 +1,91 @@
+{
+  "id": 49738,
+  "islong": 2,
+  "direction": 1,
+  "title": "The Art of H.P. Lovecraft's Cthulhu Mythos",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/taohplcm20190820.jpg",
+  "description": "The Art of H.P. Lovecraft's Cthulhu Mythos全一册。",
+  "last_updatetime": 1566295467,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "theartofhplovecraftscthulhumyhos",
+  "hidden": 0,
+  "hot_num": 916725,
+  "hit_num": 447877,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 87400,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 4994,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87400,
+          "chapter_title": "1卷",
+          "updatetime": 1566295467,
+          "filesize": 14478951,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 138,
+    "latest_comment": [
+      {
+        "comment_id": 26588489,
+        "uid": 104152820,
+        "content": "留",
+        "createtime": 1587148566,
+        "nickname": "qzuser89735834",
+        "avatar": "https://avatar.dmzj.com/f3/bf/f3bf68d2751c554ea70c38fad0098ce6.png"
+      },
+      {
+        "comment_id": 26454679,
+        "uid": 107274049,
+        "content": "同码",
+        "createtime": 1586808358,
+        "nickname": "miniVictory",
+        "avatar": "https://avatar.dmzj.com/02/d4/02d46c6473ad6569171e7ffffdd9ef89.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

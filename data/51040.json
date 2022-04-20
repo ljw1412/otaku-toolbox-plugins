@@ -1,0 +1,87 @@
+{
+  "id": 51040,
+  "islong": 2,
+  "direction": 1,
+  "title": "SUMMER！！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/191112summer.jpg",
+  "description": "夏天就应该做一些夏天该做的事呢！",
+  "last_updatetime": 1573524318,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "summerdf",
+  "hidden": 0,
+  "hot_num": 40652,
+  "hit_num": 8513,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94954,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14656,
+      "tag_name": "ヘラダミツル(ヤゴの穴)"
+    }
+  ],
+  "subscribe_num": 178,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94954,
+          "chapter_title": "1话",
+          "updatetime": 1573524318,
+          "filesize": 7546253,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 22826492,
+        "uid": 100683994,
+        "content": "从thbwiki上的资料来看，这个画师在2008年画了这一本后隔了4年没画东方，直至2012年又开始画东方本了，而且画风改变巨大。",
+        "createtime": 1577207806,
+        "nickname": "楠哥BRONAN",
+        "avatar": "https://avatar.dmzj.com/76/05/7605af076c18c962a629583d35e5bf1b.png"
+      },
+      {
+        "comment_id": 22091979,
+        "uid": 102540298,
+        "content": "键山雏",
+        "createtime": 1573658066,
+        "nickname": "西兰花道友",
+        "avatar": "https://avatar.dmzj.com/f0/58/f058415db99de3f3eaefc143ec4414d8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

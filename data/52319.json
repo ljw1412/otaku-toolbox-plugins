@@ -1,0 +1,115 @@
+{
+  "id": 52319,
+  "islong": 2,
+  "direction": 1,
+  "title": "布吉猫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/bjm20200214.jpg",
+  "description": "家里来了一只能带来幸福(?)的猫",
+  "last_updatetime": 1583053622,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bujimao",
+  "hidden": 0,
+  "hot_num": 191314,
+  "hit_num": 17039,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94838,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 826,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94838,
+          "chapter_title": "5话",
+          "updatetime": 1583053622,
+          "filesize": 1137006,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 94837,
+          "chapter_title": "4话",
+          "updatetime": 1583053603,
+          "filesize": 1097240,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 94836,
+          "chapter_title": "3话",
+          "updatetime": 1583053584,
+          "filesize": 1072795,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 94835,
+          "chapter_title": "2话",
+          "updatetime": 1583053564,
+          "filesize": 1059318,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94158,
+          "chapter_title": "1话",
+          "updatetime": 1581650458,
+          "filesize": 1176011,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 25194046,
+        "uid": 101141931,
+        "content": "这猫会说话就没人在意?",
+        "createtime": 1584033389,
+        "nickname": "月魅月陌",
+        "avatar": "https://avatar.dmzj.com/4a/fd/4afd914bfcb4f7ed549b7b1af63b2df9.png"
+      },
+      {
+        "comment_id": 24945943,
+        "uid": 100308511,
+        "content": "这是布吉岛上来的布吉猫？",
+        "createtime": 1583486723,
+        "nickname": "癫狂骷髅",
+        "avatar": "https://avatar.dmzj.com/33/26/3326b519f0fb04ca8cd5f5ed1be513e8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

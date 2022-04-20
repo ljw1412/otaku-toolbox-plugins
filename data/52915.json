@@ -1,0 +1,91 @@
+{
+  "id": 52915,
+  "islong": 2,
+  "direction": 1,
+  "title": "小小世界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/xiaoxiaoshijie0312.jpg",
+  "description": "15岁的冬天，我的世界全部都是你。",
+  "last_updatetime": 1583982364,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaoxiaoshijie",
+  "hidden": 0,
+  "hot_num": 314680,
+  "hit_num": 145875,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99296,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4110,
+      "tag_name": "村田真优"
+    }
+  ],
+  "subscribe_num": 1346,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99296,
+          "chapter_title": "1话",
+          "updatetime": 1583982364,
+          "filesize": 7801547,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 60,
+    "latest_comment": [
+      {
+        "comment_id": 26898415,
+        "uid": 110415913,
+        "content": "我已经失去了可以早恋的机会了o(╥﹏╥)o",
+        "createtime": 1588001346,
+        "nickname": "沈娇娇0403",
+        "avatar": "https://avatar.dmzj.com/14/51/1451879866788244f6b6da50549dcb01.png"
+      },
+      {
+        "comment_id": 26654078,
+        "uid": 109207625,
+        "content": "美雪哈哈哈哈御幸！！（不好意思）",
+        "createtime": 1587352559,
+        "nickname": "xiwenxww",
+        "avatar": "https://avatar.dmzj.com/44/59/4459ae32092d399d3f59c3ad7cd25f72.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

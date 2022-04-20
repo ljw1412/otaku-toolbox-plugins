@@ -1,0 +1,91 @@
+{
+  "id": 48647,
+  "islong": 2,
+  "direction": 1,
+  "title": "黑色忍者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/hyrz0529.jpg",
+  "description": "追逐着黑夜的忍者高中生！来自坂野旭的现代忍者动作漫画！",
+  "last_updatetime": 1559109700,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "heiserenzhe",
+  "hidden": 0,
+  "hot_num": 2465927,
+  "hit_num": 31701,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 88774,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17126,
+      "tag_name": "坂野旭"
+    }
+  ],
+  "subscribe_num": 11691,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88774,
+          "chapter_title": "1话",
+          "updatetime": 1559109700,
+          "filesize": 5840811,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 197,
+    "latest_comment": [
+      {
+        "comment_id": 24096710,
+        "uid": 110292609,
+        "content": "额????",
+        "createtime": 1581612789,
+        "nickname": "07Shintaro",
+        "avatar": "https://avatar.dmzj.com/70/00/7000751858fe1ab8c6748a52c3556530.png"
+      },
+      {
+        "comment_id": 23813016,
+        "uid": 105045439,
+        "content": "这个作者开新连载了，，，所以这个没戏了吧，，？",
+        "createtime": 1580912438,
+        "nickname": "赤火红炎",
+        "avatar": "https://avatar.dmzj.com/16/66/166636ebbba1e0dc959cff3ab2b6427b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

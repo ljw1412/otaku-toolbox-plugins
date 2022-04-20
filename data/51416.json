@@ -1,0 +1,108 @@
+{
+  "id": 51416,
+  "islong": 2,
+  "direction": 1,
+  "title": "浅子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/191211qianzi.jpg",
+  "description": "《稻荷恋之歌》的作者带来的豪华新连载！神秘的大姐姐X11岁的小男孩~是玩弄还是……？",
+  "last_updatetime": 1585888194,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qianzi",
+  "hidden": 0,
+  "hot_num": 5588369,
+  "hit_num": 1625377,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 101424,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3378,
+      "tag_name": "よしだもろへ"
+    }
+  ],
+  "subscribe_num": 22534,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101424,
+          "chapter_title": "4话",
+          "updatetime": 1585888194,
+          "filesize": 7760467,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 99285,
+          "chapter_title": "3话",
+          "updatetime": 1581921545,
+          "filesize": 7071113,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 98462,
+          "chapter_title": "2话",
+          "updatetime": 1580441053,
+          "filesize": 6688615,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 95632,
+          "chapter_title": "1话",
+          "updatetime": 1576056703,
+          "filesize": 11200458,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1181,
+    "latest_comment": [
+      {
+        "comment_id": 27083753,
+        "uid": 104755335,
+        "content": "6",
+        "createtime": 1588533308,
+        "nickname": "死ぬ47021",
+        "avatar": "https://avatar.dmzj.com/24/69/24693e882d1137aa5e91bab4af8e3f41.png"
+      },
+      {
+        "comment_id": 27082048,
+        "uid": 100882077,
+        "content": "啊？怎么刀了啊",
+        "createtime": 1588528656,
+        "nickname": "Lizzie",
+        "avatar": "https://avatar.dmzj.com/4a/03/4a0382ffa5bbcb4fa6df18b3919a3eb5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

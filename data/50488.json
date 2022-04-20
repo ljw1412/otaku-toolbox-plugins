@@ -1,0 +1,91 @@
+{
+  "id": 50488,
+  "islong": 2,
+  "direction": 1,
+  "title": "Merry·Khristmas",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/191007merrykhristmas.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1570416800,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "merrykhristmas",
+  "hidden": 0,
+  "hot_num": 24078,
+  "hit_num": 4497,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 88947,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14074,
+      "tag_name": "海运"
+    },
+    {
+      "tag_id": 18012,
+      "tag_name": "こうば"
+    }
+  ],
+  "subscribe_num": 101,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88947,
+          "chapter_title": "1话",
+          "updatetime": 1570416800,
+          "filesize": 11895038,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 21064477,
+        "uid": 153597,
+        "content": "爷爷在外面打工要撑住啊...",
+        "createtime": 1570491699,
+        "nickname": "syuusaku",
+        "avatar": "https://avatar.dmzj.com/58/b3/58b39e493c4107e9949c4f4c1984a878.png"
+      },
+      {
+        "comment_id": 21042374,
+        "uid": 101299116,
+        "content": "很棒啊  这个",
+        "createtime": 1570451238,
+        "nickname": "F.G",
+        "avatar": "https://avatar.dmzj.com/50/55/5055fbcb082afc4f6ead3b895bede3ba.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

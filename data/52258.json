@@ -1,0 +1,119 @@
+{
+  "id": 52258,
+  "islong": 2,
+  "direction": 1,
+  "title": "美术同好会",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/msthh20200211.jpg",
+  "description": "美术同好会里小学妹与学长的日常欢乐故事",
+  "last_updatetime": 1587035705,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "meishutonghaohui",
+  "hidden": 0,
+  "hot_num": 2154725,
+  "hit_num": 214946,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96425,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18873,
+      "tag_name": "砂场すずめ"
+    }
+  ],
+  "subscribe_num": 9999,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96425,
+          "chapter_title": "5话",
+          "updatetime": 1587035705,
+          "filesize": 1198324,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 93909,
+          "chapter_title": "4话",
+          "updatetime": 1582618135,
+          "filesize": 606824,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 93667,
+          "chapter_title": "3话",
+          "updatetime": 1582080504,
+          "filesize": 919760,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 93286,
+          "chapter_title": "2话",
+          "updatetime": 1581413416,
+          "filesize": 812189,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 93285,
+          "chapter_title": "1话",
+          "updatetime": 1581413394,
+          "filesize": 715015,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 470,
+    "latest_comment": [
+      {
+        "comment_id": 27067313,
+        "uid": 108861819,
+        "content": "高伤害，好帅哦！",
+        "createtime": 1588502802,
+        "nickname": "紫东遥",
+        "avatar": "https://avatar.dmzj.com/15/68/15685cb33dc70b49698d7f4f6775fa7d.png"
+      },
+      {
+        "comment_id": 27021262,
+        "uid": 108514697,
+        "content": "额",
+        "createtime": 1588358487,
+        "nickname": "DFAI",
+        "avatar": "https://avatar.dmzj.com/66/81/66811766bcdf0d4c777b0715c1b58730.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 51295,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方醉生梦死记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/191201dfzsmsj.jpg",
+  "description": "大家一起吃除夕火锅",
+  "last_updatetime": 1575176176,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongfangzuishengmengsiji",
+  "hidden": 0,
+  "hot_num": 90133,
+  "hit_num": 6745,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 95472,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5068,
+      "tag_name": "比良坂真琴"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 358,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95472,
+          "chapter_title": "1话",
+          "updatetime": 1575176176,
+          "filesize": 4668342,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 25856784,
+        "uid": 110081035,
+        "content": "命莲寺:未探索的地形",
+        "createtime": 1585568173,
+        "nickname": "dmzj_110081035",
+        "avatar": "https://avatar.dmzj.com/b7/e9/b7e9401326ffcb18f4ff2902c8c3c17e.png"
+      },
+      {
+        "comment_id": 22653779,
+        "uid": 101183992,
+        "content": "这时候还没有命莲寺",
+        "createtime": 1576539784,
+        "nickname": "本猛男",
+        "avatar": "https://avatar.dmzj.com/35/96/3596d3a226065c72eda29f318835c308.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

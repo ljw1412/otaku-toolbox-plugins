@@ -1,0 +1,91 @@
+{
+  "id": 51222,
+  "islong": 2,
+  "direction": 1,
+  "title": "马鹿本",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/dongfangmaluben1126.jpg",
+  "description": "琪露诺和其他人大战三百回合。",
+  "last_updatetime": 1574735639,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "maluben1126",
+  "hidden": 0,
+  "hot_num": 34152,
+  "hit_num": 6144,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94554,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5532,
+      "tag_name": "ろく"
+    }
+  ],
+  "subscribe_num": 138,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94554,
+          "chapter_title": "1话",
+          "updatetime": 1574735639,
+          "filesize": 3221640,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 23904516,
+        "uid": 108746467,
+        "content": "星星倒是挺可爱的\u0014ª\u0014ª\u0014ª\u0014ª",
+        "createtime": 1581146252,
+        "nickname": "霧雨魔梨沙",
+        "avatar": "https://avatar.dmzj.com/38/00/380054fd4de7443cf00d9bed1b9ec4f7.png"
+      },
+      {
+        "comment_id": 22349682,
+        "uid": 102570698,
+        "content": "死库水啊，，，我死了。。。",
+        "createtime": 1574860501,
+        "nickname": "某神萝",
+        "avatar": "https://avatar.dmzj.com/74/90/7490fa1f0fd6379a026204f99d80fe7e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

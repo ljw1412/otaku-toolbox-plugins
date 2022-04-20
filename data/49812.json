@@ -1,0 +1,87 @@
+{
+  "id": 49812,
+  "islong": 2,
+  "direction": 1,
+  "title": "最后的武士",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/190824zhdws.jpg",
+  "description": "一个沉重的故事",
+  "last_updatetime": 1566615198,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zuihoudewushi",
+  "hidden": 0,
+  "hot_num": 554266,
+  "hit_num": 34179,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91627,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17222,
+      "tag_name": "大嶋宏和"
+    }
+  ],
+  "subscribe_num": 2145,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91627,
+          "chapter_title": "1话",
+          "updatetime": 1566615198,
+          "filesize": 2719430,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 56,
+    "latest_comment": [
+      {
+        "comment_id": 25466584,
+        "uid": 101219495,
+        "content": "原来是从左往右看的啊。。",
+        "createtime": 1584638410,
+        "nickname": "SORAAA",
+        "avatar": "https://avatar.dmzj.com/21/24/2124d2fbcc814264143c08673a26cca9.png"
+      },
+      {
+        "comment_id": 24000098,
+        "uid": 110003221,
+        "content": "哪位大佬有悲惨世界呀",
+        "createtime": 1581388847,
+        "nickname": "dmzj_110003221",
+        "avatar": "https://avatar.dmzj.com/f6/dd/f6dd7687f5a4b34869fbd6833cf39378.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

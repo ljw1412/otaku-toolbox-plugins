@@ -1,0 +1,91 @@
+{
+  "id": 50744,
+  "islong": 2,
+  "direction": 1,
+  "title": "RESONANCE",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/191022resonance.jpg",
+  "description": "芙兰喝了萃香的酒后发生的故事",
+  "last_updatetime": 1571739016,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "resonance",
+  "hidden": 0,
+  "hot_num": 34229,
+  "hit_num": 8705,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90420,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18116,
+      "tag_name": "ながなさゆい"
+    },
+    {
+      "tag_id": 18117,
+      "tag_name": "I'm"
+    }
+  ],
+  "subscribe_num": 154,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90420,
+          "chapter_title": "1话",
+          "updatetime": 1571739016,
+          "filesize": 8509760,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 22747872,
+        "uid": 107858749,
+        "content": "两只loli",
+        "createtime": 1576916005,
+        "nickname": "幻梦浮光",
+        "avatar": "https://avatar.dmzj.com/61/02/610227c151ad7016bc72d82bf34bd14b.png"
+      },
+      {
+        "comment_id": 21579009,
+        "uid": 107393098,
+        "content": "真是一对意想不到的组合",
+        "createtime": 1571767418,
+        "nickname": "澪絵",
+        "avatar": "https://avatar.dmzj.com/83/62/83624188e8b4b39fe32f0d45aa3aba13.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

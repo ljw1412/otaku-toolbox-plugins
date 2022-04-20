@@ -1,0 +1,87 @@
+{
+  "id": 52831,
+  "islong": 2,
+  "direction": 1,
+  "title": "星雨降临之地",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/xyjlzd202038.jpg",
+  "description": "幻想乡的日常。",
+  "last_updatetime": 1583633218,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xingyujianglinzhidi",
+  "hidden": 0,
+  "hot_num": 25544,
+  "hit_num": 1572,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100117,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18929,
+      "tag_name": "まるぐ屋.exe (钝色玄)"
+    }
+  ],
+  "subscribe_num": 115,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100117,
+          "chapter_title": "1话",
+          "updatetime": 1583633218,
+          "filesize": 2184517,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 25584493,
+        "uid": 107162232,
+        "content": "好看",
+        "createtime": 1584931389,
+        "nickname": "西红柿鸡蛋",
+        "avatar": "https://avatar.dmzj.com/90/08/900801c4e84a7f7adeaa3ad454b9a1c3.png"
+      },
+      {
+        "comment_id": 25017495,
+        "uid": 102238251,
+        "content": "妹妹组是正义！",
+        "createtime": 1583642939,
+        "nickname": "邪域",
+        "avatar": "https://avatar.dmzj.com/78/41/78413a51a73372d843d95b2084914eca.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

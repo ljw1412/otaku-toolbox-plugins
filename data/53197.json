@@ -1,0 +1,87 @@
+{
+  "id": 53197,
+  "islong": 2,
+  "direction": 1,
+  "title": "庭园哲学",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/tyzx20200325.jpg",
+  "description": "只有彼此两人存在的庭院,本来应是如此",
+  "last_updatetime": 1585102833,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tinyuanzhexue",
+  "hidden": 0,
+  "hot_num": 28950,
+  "hit_num": 2825,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99184,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19332,
+      "tag_name": "黑濑"
+    }
+  ],
+  "subscribe_num": 133,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99184,
+          "chapter_title": "1话",
+          "updatetime": 1585102833,
+          "filesize": 3815534,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 25834491,
+        "uid": 102290859,
+        "content": "庭院摔跤（無端）",
+        "createtime": 1585501408,
+        "nickname": "Αλέξιος",
+        "avatar": "https://avatar.dmzj.com/81/ae/81aeadfdc449e248225bceefe639db89.png"
+      },
+      {
+        "comment_id": 25740184,
+        "uid": 108403252,
+        "content": "意犹未尽",
+        "createtime": 1585281151,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

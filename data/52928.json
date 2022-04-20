@@ -1,0 +1,129 @@
+{
+  "id": 52928,
+  "islong": 2,
+  "direction": 1,
+  "title": "短篇巴里基奥斯",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/shawanyia0312.jpg",
+  "description": "狂气或不安，总之这是个病态的世界。",
+  "last_updatetime": 1584670274,
+  "last_update_chapter_name": "贽树",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "duanpianbalijiaosi",
+  "hidden": 0,
+  "hot_num": 659295,
+  "hit_num": 111553,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 95144,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19194,
+      "tag_name": "バリキオス"
+    }
+  ],
+  "subscribe_num": 3020,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95144,
+          "chapter_title": "7话",
+          "updatetime": 1584670274,
+          "filesize": 4408163,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 94925,
+          "chapter_title": "6话",
+          "updatetime": 1584333680,
+          "filesize": 582900,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 94862,
+          "chapter_title": "5话",
+          "updatetime": 1584249849,
+          "filesize": 668018,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 94815,
+          "chapter_title": "4话",
+          "updatetime": 1584166899,
+          "filesize": 564677,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 94788,
+          "chapter_title": "3话",
+          "updatetime": 1584107629,
+          "filesize": 799901,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 94745,
+          "chapter_title": "2话",
+          "updatetime": 1584078186,
+          "filesize": 1294135,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94722,
+          "chapter_title": "1话",
+          "updatetime": 1584021163,
+          "filesize": 657368,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 256,
+    "latest_comment": [
+      {
+        "comment_id": 26827952,
+        "uid": 110077302,
+        "content": "可怕",
+        "createtime": 1587816760,
+        "nickname": "YJKulumey",
+        "avatar": "https://avatar.dmzj.com/68/47/6847d315465b5d042655102231ab1e88.png"
+      },
+      {
+        "comment_id": 26613192,
+        "uid": 100367969,
+        "content": "不太好评论",
+        "createtime": 1587226846,
+        "nickname": "丶雲之彼端丶",
+        "avatar": "https://avatar.dmzj.com/63/50/63500d6a388f17214ef90cb730da494c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

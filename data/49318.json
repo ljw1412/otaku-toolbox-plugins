@@ -1,0 +1,82 @@
+{
+  "id": 49318,
+  "islong": 2,
+  "direction": 1,
+  "title": "欢迎点播",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/hydb20191008.jpg",
+  "description": "声音乘上电波翱翔\n直达心房\n成为你呼吸的节拍器",
+  "last_updatetime": 0,
+  "last_update_chapter_name": null,
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huanyingdianbo",
+  "hidden": 0,
+  "hot_num": 508202,
+  "hit_num": 0,
+  "uid": null,
+  "is_lock": 1,
+  "last_update_chapter_id": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4601,
+      "tag_name": "河内遥"
+    }
+  ],
+  "subscribe_num": 1849,
+  "chapters": [],
+  "comment": {
+    "comment_count": 45,
+    "latest_comment": [
+      {
+        "comment_id": 27097919,
+        "uid": 105658868,
+        "content": "为啥没了啊啊啊啊",
+        "createtime": 1588590577,
+        "nickname": "鱼2k",
+        "avatar": "https://avatar.dmzj.com/71/41/7141bf6f56045987420e8ea7beb75460.png"
+      },
+      {
+        "comment_id": 26559276,
+        "uid": 105978597,
+        "content": "还有老师的其他作品吗",
+        "createtime": 1587060182,
+        "nickname": "dmzj_105978597",
+        "avatar": "https://avatar.dmzj.com/f1/fc/f1fc60029b74d0a4f56ed5264e18411a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "1",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

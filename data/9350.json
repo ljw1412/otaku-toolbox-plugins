@@ -1,0 +1,91 @@
+{
+  "id": 9350,
+  "islong": 2,
+  "direction": 1,
+  "title": "QUALIA",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/qualia.jpg",
+  "description": "三个妹子在学校体验漫画社团活动的有趣短篇故事",
+  "last_updatetime": 1346169360,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qualia",
+  "hidden": 0,
+  "hot_num": 80809,
+  "hit_num": 360146,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 19857,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4957,
+      "tag_name": "こころけ"
+    }
+  ],
+  "subscribe_num": 387,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19857,
+          "chapter_title": "1话",
+          "updatetime": 1346169360,
+          "filesize": 1528319,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 25875334,
+        "uid": 103508744,
+        "content": "这个很好看",
+        "createtime": 1585593139,
+        "nickname": "夕晨lzc",
+        "avatar": "https://avatar.dmzj.com/65/23/6523114f603c8ddd4fcb7f1a60db9471.png"
+      },
+      {
+        "comment_id": 25108999,
+        "uid": 109046511,
+        "content": "这就没了？太短了吧",
+        "createtime": 1583845097,
+        "nickname": "星期病菌kame",
+        "avatar": "https://avatar.dmzj.com/27/90/27904a222dbe9ac721c333a0df780ed5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

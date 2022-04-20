@@ -1,0 +1,91 @@
+{
+  "id": 6408,
+  "islong": 2,
+  "direction": 1,
+  "title": "漫研部",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/manyanbu.jpg",
+  "description": "超短篇小漫画",
+  "last_updatetime": 1287649958,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "manyanbu",
+  "hidden": 0,
+  "hot_num": 78161,
+  "hit_num": 19569,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12758,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3474,
+      "tag_name": "笠野なつみ "
+    }
+  ],
+  "subscribe_num": 368,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12758,
+          "chapter_title": "1话",
+          "updatetime": 1288254758,
+          "filesize": 396772,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 25790937,
+        "uid": 108682428,
+        "content": "我想要的是那个无厘头的漫研部啊，这个短片是什么。。",
+        "createtime": 1585405535,
+        "nickname": "手机随时上mc",
+        "avatar": "https://avatar.dmzj.com/90/39/90394ad8bfa5cf7a6e7dfc98c836b281.png"
+      },
+      {
+        "comment_id": 10788257,
+        "uid": 102004969,
+        "content": "？",
+        "createtime": 1549009840,
+        "nickname": "未    郁",
+        "avatar": "https://avatar.dmzj.com/8e/88/8e886f5c90c1f11e927a9f2c28e34431.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

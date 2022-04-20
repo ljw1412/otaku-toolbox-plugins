@@ -1,0 +1,91 @@
+{
+  "id": 6975,
+  "islong": 2,
+  "direction": 2,
+  "title": "星期三漫画超人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/xingqisanmanhuachaoren.jpg",
+  "description": "超人短篇精彩漫画",
+  "last_updatetime": 1291965282,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xqsmhcr",
+  "hidden": 0,
+  "hot_num": 3749193,
+  "hit_num": 97500,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 14193,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 19386,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 14193,
+          "chapter_title": "短篇",
+          "updatetime": 1291965282,
+          "filesize": 2552275,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 6561463,
+        "uid": 102305934,
+        "content": "这个是dc啊……",
+        "createtime": 1535547644,
+        "nickname": "木言之yzd",
+        "avatar": "https://avatar.dmzj.com/71/27/712775d09c17cb2c287a774600d6346d.png"
+      },
+      {
+        "comment_id": 1705496,
+        "uid": 102759998,
+        "content": "好迷啊……漫威哈哈哈哈哈",
+        "createtime": 1485075913,
+        "nickname": " 天将雨",
+        "avatar": "https://avatar.dmzj.com/ea/65/ea656e275600b72f639770d6bb6dc36f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

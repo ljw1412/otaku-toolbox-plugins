@@ -1,0 +1,89 @@
+{
+  "id": 51883,
+  "islong": 2,
+  "direction": 1,
+  "title": "斗",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1080722941579002112.jpg",
+  "description": "纯打斗无内容",
+  "last_updatetime": 1578921948,
+  "last_update_chapter_name": "战斗",
+  "copyright": 1,
+  "first_letter": "d",
+  "comic_py": "dou",
+  "hidden": 0,
+  "hot_num": 19490,
+  "hit_num": 6954,
+  "uid": 108072294,
+  "is_lock": 0,
+  "last_update_chapter_id": 92337,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18662,
+      "tag_name": "闇十七"
+    }
+  ],
+  "subscribe_num": 42,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92337,
+          "chapter_title": "1话",
+          "updatetime": 1578921948,
+          "filesize": 2204858,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "练分镜的，不用在意",
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 23387267,
+        "uid": 107085538,
+        "content": "作者不懂人体格斗技",
+        "createtime": 1579484422,
+        "nickname": "dmzj_107085538",
+        "avatar": "https://avatar.dmzj.com/81/0e/810e7548ea4d54ed5191231b01c7de80.png"
+      },
+      {
+        "comment_id": 23387157,
+        "uid": 104611821,
+        "content": "ん？",
+        "createtime": 1579483736,
+        "nickname": "邪王真邪",
+        "avatar": "https://avatar.dmzj.com/53/81/53817db2ec5ec9ba9b5312c43d54eadd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

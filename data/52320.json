@@ -1,0 +1,91 @@
+{
+  "id": 52320,
+  "islong": 2,
+  "direction": 1,
+  "title": "神明猫猫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/smmm20200214.jpg",
+  "description": "如果神明是一只猫",
+  "last_updatetime": 1581651333,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shenmingmaomao",
+  "hidden": 0,
+  "hot_num": 178572,
+  "hit_num": 4467,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 98053,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16531,
+      "tag_name": "清水めりぃ"
+    }
+  ],
+  "subscribe_num": 771,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98053,
+          "chapter_title": "1话",
+          "updatetime": 1581651333,
+          "filesize": 567060,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 27067091,
+        "uid": 110855066,
+        "content": "猫这玩意儿着实牛逼！",
+        "createtime": 1588502266,
+        "nickname": "绫小路最爱的工具人",
+        "avatar": "https://avatar.dmzj.com/41/26/41264c0061b5f0534233dfc93fc3060f.png"
+      },
+      {
+        "comment_id": 27064185,
+        "uid": 100801361,
+        "content": "升入天堂之后可以撸神明猫猫吗（期待）",
+        "createtime": 1588494235,
+        "nickname": "炑魑",
+        "avatar": "https://avatar.dmzj.com/b1/e4/b1e42f5e6e4b81864a7715fb243027c1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

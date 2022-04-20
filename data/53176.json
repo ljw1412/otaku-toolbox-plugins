@@ -1,0 +1,87 @@
+{
+  "id": 53176,
+  "islong": 2,
+  "direction": 1,
+  "title": "Treatment Time",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/timea2020324.jpg",
+  "description": "もずくず老师的百合短篇~",
+  "last_updatetime": 1585025587,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "treatmenttime",
+  "hidden": 0,
+  "hot_num": 474882,
+  "hit_num": 83914,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100907,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14570,
+      "tag_name": "もずくず"
+    }
+  ],
+  "subscribe_num": 2142,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100907,
+          "chapter_title": "1话",
+          "updatetime": 1585025587,
+          "filesize": 2240651,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 125,
+    "latest_comment": [
+      {
+        "comment_id": 27057877,
+        "uid": 105935284,
+        "content": "百合380",
+        "createtime": 1588475176,
+        "nickname": "天倒海",
+        "avatar": "https://avatar.dmzj.com/86/46/864624881ff024fc8df9194ea685ffd2.png"
+      },
+      {
+        "comment_id": 26425022,
+        "uid": 104801517,
+        "content": "两个月一次，一年才六次，我了个天啦，，，请快告白好吗，，，，！",
+        "createtime": 1586755892,
+        "nickname": "川村玲緒",
+        "avatar": "https://avatar.dmzj.com/97/65/9765c9412b0d221f0a1e096d6c161ef8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

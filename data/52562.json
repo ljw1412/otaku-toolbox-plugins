@@ -1,0 +1,116 @@
+{
+  "id": 52562,
+  "islong": 2,
+  "direction": 1,
+  "title": "进展怎么样了？",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/200226jzzmyl.jpg",
+  "description": "大龄女漫画家（♀）与17岁美少年编辑（♂）～",
+  "last_updatetime": 1586869290,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jinzhanzenmeyangle",
+  "hidden": 0,
+  "hot_num": 1719454,
+  "hit_num": 597630,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100130,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19049,
+      "tag_name": "绀野ぱる"
+    },
+    {
+      "tag_id": 19050,
+      "tag_name": "みやお"
+    }
+  ],
+  "subscribe_num": 7874,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100130,
+          "chapter_title": "4话",
+          "updatetime": 1586869290,
+          "filesize": 5946840,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 99254,
+          "chapter_title": "3话",
+          "updatetime": 1585215019,
+          "filesize": 6196296,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 98589,
+          "chapter_title": "2话",
+          "updatetime": 1584067724,
+          "filesize": 6244055,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 97837,
+          "chapter_title": "1话",
+          "updatetime": 1582722835,
+          "filesize": 4645032,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 326,
+    "latest_comment": [
+      {
+        "comment_id": 27007107,
+        "uid": 105114438,
+        "content": "突然觉得两个主编是有潜力的一对cp",
+        "createtime": 1588332676,
+        "nickname": "古三原清",
+        "avatar": "https://avatar.dmzj.com/96/24/96249562497b6e0091ab21fb5a42305f.png"
+      },
+      {
+        "comment_id": 27000365,
+        "uid": 104236405,
+        "content": "我发现漫画里有美少年设定的男生就仅仅是把脸画得偏女性化些……并没有觉得很惊艳（个人观点）",
+        "createtime": 1588310901,
+        "nickname": "JerryCuty",
+        "avatar": "https://avatar.dmzj.com/34/79/3479b4db40a662a0988bf976ec4e122c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

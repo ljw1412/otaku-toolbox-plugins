@@ -1,0 +1,121 @@
+{
+  "id": 53375,
+  "islong": 2,
+  "direction": 2,
+  "title": "安眠曲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1092222131585652386.jpg",
+  "description": "一些说不清楚的情绪，恐惧，焦虑，悲伤，还有爱",
+  "last_updatetime": 1586854492,
+  "last_update_chapter_name": "风的故事",
+  "copyright": 1,
+  "first_letter": "a",
+  "comic_py": "anmianqu",
+  "hidden": 0,
+  "hot_num": 122204,
+  "hit_num": 9448,
+  "uid": 109222213,
+  "is_lock": 0,
+  "last_update_chapter_id": 100881,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19117,
+      "tag_name": "汉谟拉比炒面"
+    }
+  ],
+  "subscribe_num": 506,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100881,
+          "chapter_title": "6话",
+          "updatetime": 1586854492,
+          "filesize": 745522,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 100879,
+          "chapter_title": "4话",
+          "updatetime": 1586851508,
+          "filesize": 515994,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 100245,
+          "chapter_title": "3话",
+          "updatetime": 1585652609,
+          "filesize": 303229,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 100244,
+          "chapter_title": "2话",
+          "updatetime": 1585652511,
+          "filesize": 262869,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 100243,
+          "chapter_title": "1话",
+          "updatetime": 1585652422,
+          "filesize": 410648,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "请文明发表观点，请不要攻击我",
+  "comment": {
+    "comment_count": 59,
+    "latest_comment": [
+      {
+        "comment_id": 26722635,
+        "uid": 105125295,
+        "content": "啊，今天才发现老师把另一部漫画删了......只想说，很简单的道理，每个人的爱好都不尽相同，不喜欢出门左转就好，因为不喜欢就贬低和攻击别人是毫无道理的没有礼貌的",
+        "createtime": 1587546912,
+        "nickname": "阿喃＿",
+        "avatar": "https://avatar.dmzj.com/99/58/99583e58d632364ec0ca0aa56baceb44.png"
+      },
+      {
+        "comment_id": 26578053,
+        "uid": 110527022,
+        "content": "超棒哒！！！！！！！",
+        "createtime": 1587128102,
+        "nickname": "dmzj_110527022",
+        "avatar": "https://avatar.dmzj.com/73/1b/731b0f4b639fb12d86c4a453070ba422.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

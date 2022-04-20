@@ -1,0 +1,126 @@
+{
+  "id": 6826,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方龙",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/03-1_3ff66eb96656cc5182ae0ba3530c2190.jpg",
+  "description": "彩色清晰版,挺不错的一部漫画!!!",
+  "last_updatetime": 1290041361,
+  "last_update_chapter_name": "CH09",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongfanglong",
+  "hidden": 1,
+  "hot_num": 3092,
+  "hit_num": 74361,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 11969,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3324,
+      "tag_name": "武侠"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3659,
+      "tag_name": "邝彬强"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 11969,
+          "chapter_title": "9话",
+          "updatetime": 1290646161,
+          "filesize": 5533781,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 11968,
+          "chapter_title": "8话",
+          "updatetime": 1290646161,
+          "filesize": 5502245,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 11967,
+          "chapter_title": "7话",
+          "updatetime": 1290646161,
+          "filesize": 5872012,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 11966,
+          "chapter_title": "6话",
+          "updatetime": 1290646161,
+          "filesize": 5396950,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 11965,
+          "chapter_title": "5话",
+          "updatetime": 1290646161,
+          "filesize": 4380429,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 11964,
+          "chapter_title": "4话",
+          "updatetime": 1290646161,
+          "filesize": 4771916,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 11963,
+          "chapter_title": "3话",
+          "updatetime": 1290646161,
+          "filesize": 5527778,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 11962,
+          "chapter_title": "2话",
+          "updatetime": 1290646161,
+          "filesize": 5212255,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 11961,
+          "chapter_title": "1话",
+          "updatetime": 1290646161,
+          "filesize": 7240336,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

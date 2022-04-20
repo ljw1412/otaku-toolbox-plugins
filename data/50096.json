@@ -1,0 +1,91 @@
+{
+  "id": 50096,
+  "islong": 2,
+  "direction": 1,
+  "title": "温度偏低",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/wdpd20190913.jpg",
+  "description": "电波カオス所作的,东方系列短篇,⑨真可爱",
+  "last_updatetime": 1568350070,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wendupiandi",
+  "hidden": 0,
+  "hot_num": 39817,
+  "hit_num": 5822,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 92709,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17828,
+      "tag_name": "电波カオス"
+    }
+  ],
+  "subscribe_num": 185,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92709,
+          "chapter_title": "1话",
+          "updatetime": 1568350070,
+          "filesize": 4483710,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 20273086,
+        "uid": 107015998,
+        "content": "可爱",
+        "createtime": 1568377216,
+        "nickname": "Aivicil",
+        "avatar": "https://avatar.dmzj.com/66/22/66221d11c09531f2992861bae9e273d3.png"
+      },
+      {
+        "comment_id": 20271768,
+        "uid": 100975659,
+        "content": "我这个人很好哄，只要你画蕾迪和⑨的互动我就很满足了",
+        "createtime": 1568373723,
+        "nickname": "有“病”的子徐",
+        "avatar": "https://avatar.dmzj.com/6e/57/6e573f0356903151f2697b49dd59c76a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,94 @@
+{
+  "id": 6628,
+  "islong": 2,
+  "direction": 1,
+  "title": "UBUNCHU(乌邦啾!)",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/UBUNCHU0101_22e944f01b2ce5b2ab456952ca702d4c.jpg",
+  "description": "UBUNCHU！是一部关于UBUNTU的校园喜剧漫画（至少官方说明上是这样）。讲述了系统管理员俱乐部里三位同学（命令行控部长、H Game大湿副部长即一个天然呆级别的loli部员）一起学习UBUNTU的故事。",
+  "last_updatetime": 1288450907,
+  "last_update_chapter_name": "CH02",
+  "copyright": 0,
+  "first_letter": "u",
+  "comic_py": "ubunchu",
+  "hidden": 0,
+  "hot_num": 5425,
+  "hit_num": 37428,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12985,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3562,
+      "tag_name": "濑尾浩史"
+    }
+  ],
+  "subscribe_num": 26,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12985,
+          "chapter_title": "2话",
+          "updatetime": 1289055707,
+          "filesize": 990794,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 12984,
+          "chapter_title": "1话",
+          "updatetime": 1289055707,
+          "filesize": 1349416,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 201572,
+        "uid": 25103042,
+        "content": "至少官方说明上是这样",
+        "createtime": 1391319750,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      },
+      {
+        "comment_id": 99692,
+        "uid": 20894264,
+        "content": "最新收录：\t\nCH02 \n2010-10-30\n作者……汉化组……",
+        "createtime": 1359279906,
+        "nickname": "空中麦田",
+        "avatar": "https://avatar.dmzj.com/ba/10/ba1093fe737d496072985e81b417cbe7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

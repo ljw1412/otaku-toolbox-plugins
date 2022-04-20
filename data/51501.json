@@ -1,0 +1,87 @@
+{
+  "id": 51501,
+  "islong": 2,
+  "direction": 1,
+  "title": "Yumeiro Friend",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/191217yumeirof.jpg",
+  "description": "桃子第一次到星梨花的家里玩耍，度过了愉快的一天~",
+  "last_updatetime": 1576589913,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yumeirofriend",
+  "hidden": 0,
+  "hot_num": 89565,
+  "hit_num": 7671,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 95845,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18300,
+      "tag_name": "木漏"
+    }
+  ],
+  "subscribe_num": 388,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95845,
+          "chapter_title": "1话",
+          "updatetime": 1576589913,
+          "filesize": 4300523,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 23160822,
+        "uid": 107429772,
+        "content": "育:那我呢",
+        "createtime": 1578509678,
+        "nickname": "TotokoP",
+        "avatar": "https://avatar.dmzj.com/16/51/16516a990d9562070fccf8a6006ea57e.png"
+      },
+      {
+        "comment_id": 22674707,
+        "uid": 105924426,
+        "content": "百合标签呢？",
+        "createtime": 1576649364,
+        "nickname": "我是内鬼",
+        "avatar": "https://avatar.dmzj.com/69/89/6989c0c8b9968f5bef107d195725fb6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

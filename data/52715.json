@@ -1,0 +1,87 @@
+{
+  "id": 52715,
+  "islong": 2,
+  "direction": 1,
+  "title": "科学世纪的月曜日",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/200303kxsjdyyr.jpg",
+  "description": "秘封组平淡的日常~",
+  "last_updatetime": 1583201007,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "k",
+  "comic_py": "kexueshijideyueyaori",
+  "hidden": 0,
+  "hot_num": 34504,
+  "hit_num": 2251,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 98864,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19111,
+      "tag_name": "まるはち"
+    }
+  ],
+  "subscribe_num": 149,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98864,
+          "chapter_title": "1话",
+          "updatetime": 1583201007,
+          "filesize": 4350998,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 24826271,
+        "uid": 106028007,
+        "content": "这样完全够看一个月了啊...",
+        "createtime": 1583249481,
+        "nickname": "Cezyph",
+        "avatar": "https://avatar.dmzj.com/42/75/42755c2e06a797f35a6acc4b96c53b4a.png"
+      },
+      {
+        "comment_id": 24815488,
+        "uid": 108802800,
+        "content": "饭店叫夜雀轩？",
+        "createtime": 1583236158,
+        "nickname": "linerror",
+        "avatar": "https://avatar.dmzj.com/68/a8/68a8204aff2fed731fcbf4268c8453b5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

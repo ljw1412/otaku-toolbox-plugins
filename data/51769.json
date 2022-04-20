@@ -1,0 +1,87 @@
+{
+  "id": 51769,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C97)AQUART ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/aqcartc97.jpg",
+  "description": "虚拟主播阿库娅画集。",
+  "last_updatetime": 1578539344,
+  "last_update_chapter_name": "全一册",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "aquartc97",
+  "hidden": 0,
+  "hot_num": 4147768,
+  "hit_num": 169435,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 92878,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16362,
+      "tag_name": "がおう"
+    }
+  ],
+  "subscribe_num": 16984,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92878,
+          "chapter_title": "1卷",
+          "updatetime": 1578539344,
+          "filesize": 915328,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 760,
+    "latest_comment": [
+      {
+        "comment_id": 26758434,
+        "uid": 108466253,
+        "content": "啊，血槽已空",
+        "createtime": 1587636425,
+        "nickname": "月芽amber",
+        "avatar": "https://avatar.dmzj.com/42/56/425667ca8334c2c9ed7cb48f72ce4bd1.png"
+      },
+      {
+        "comment_id": 26755506,
+        "uid": 106216667,
+        "content": "美",
+        "createtime": 1587626737,
+        "nickname": "纯现篱笆",
+        "avatar": "https://avatar.dmzj.com/1b/86/1b865f50e3add30cb3b870a7126acee1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

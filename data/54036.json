@@ -1,0 +1,87 @@
+{
+  "id": 54036,
+  "islong": 2,
+  "direction": 1,
+  "title": "懒散小町",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/lansanxiaoding0503.jpg",
+  "description": "东方短篇",
+  "last_updatetime": 1588473171,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lansanxiaoding",
+  "hidden": 0,
+  "hot_num": 16131,
+  "hit_num": 2710,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 103035,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5514,
+      "tag_name": "水炊き"
+    }
+  ],
+  "subscribe_num": 73,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 103035,
+          "chapter_title": "1话",
+          "updatetime": 1588473171,
+          "filesize": 5194570,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 27062631,
+        "uid": 108134260,
+        "content": "蝴蝶梦丸wwwwww",
+        "createtime": 1588489505,
+        "nickname": "摸鱼大师浩二酱",
+        "avatar": "https://avatar.dmzj.com/36/70/36709b7fb7f7d0ac9fd19a4cd126045e.png"
+      },
+      {
+        "comment_id": 27060142,
+        "uid": 106117482,
+        "content": "旗鼓相当的对手www",
+        "createtime": 1588481886,
+        "nickname": "芳轻萩",
+        "avatar": "https://avatar.dmzj.com/37/50/3750614eed0af9100c213c8f991690b4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 6059,
+  "islong": 2,
+  "direction": 1,
+  "title": "青马",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/01_2e32a2823c02a33ace2c1cfe61c88077.jpg",
+  "description": "少女侦探之怪奇事件-青马",
+  "last_updatetime": 1283665832,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qingma",
+  "hidden": 0,
+  "hot_num": 74876,
+  "hit_num": 650909,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 11920,
+  "types": [
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3310,
+      "tag_name": "诸星大二郎"
+    }
+  ],
+  "subscribe_num": 379,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 11920,
+          "chapter_title": "1卷",
+          "updatetime": 1284270632,
+          "filesize": 27736002,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 24504662,
+        "uid": 107996304,
+        "content": "哈哈哈怎么回事有点可爱",
+        "createtime": 1582566567,
+        "nickname": "dmzj_107996304",
+        "avatar": "https://avatar.dmzj.com/a6/62/a662c6a5ce991b691bfcce816be8228c.png"
+      },
+      {
+        "comment_id": 24276138,
+        "uid": 109471302,
+        "content": "诸星大二郎绝赞！",
+        "createtime": 1582030825,
+        "nickname": "冬季63668",
+        "avatar": "https://avatar.dmzj.com/e0/7d/e07d88edc878b2cc62c2761fcf7c9366.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

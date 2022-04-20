@@ -1,0 +1,112 @@
+{
+  "id": 53331,
+  "islong": 2,
+  "direction": 1,
+  "title": "Reply",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/replay20200330.jpg",
+  "description": "即使是成年人，也并非不会为情所困。",
+  "last_updatetime": 1585556755,
+  "last_update_chapter_name": "番外02",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "reply2020",
+  "hidden": 0,
+  "hot_num": 186176,
+  "hit_num": 71683,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 101242,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9899,
+      "tag_name": "ヨネダコウ"
+    }
+  ],
+  "subscribe_num": 634,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101242,
+          "chapter_title": "番外02",
+          "updatetime": 1585556755,
+          "filesize": 1971307,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 101241,
+          "chapter_title": "番外01",
+          "updatetime": 1585556742,
+          "filesize": 406630,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 101240,
+          "chapter_title": "2话",
+          "updatetime": 1585556718,
+          "filesize": 9072601,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 101239,
+          "chapter_title": "1话",
+          "updatetime": 1585556703,
+          "filesize": 14930072,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 26114307,
+        "uid": 110028979,
+        "content": "神隐订阅1323( ↷ ㉨ ↷）",
+        "createtime": 1586098241,
+        "nickname": "御医戟",
+        "avatar": "https://avatar.dmzj.com/95/28/9528fa00bb5ec62c237b89126b97b5de.png"
+      },
+      {
+        "comment_id": 26006718,
+        "uid": 110454648,
+        "content": "嗷",
+        "createtime": 1585897457,
+        "nickname": "dmzj_110454648",
+        "avatar": "https://avatar.dmzj.com/46/88/46882507c071f4f3ed517232238cde47.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

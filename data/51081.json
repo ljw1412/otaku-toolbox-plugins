@@ -1,0 +1,87 @@
+{
+  "id": 51081,
+  "islong": 2,
+  "direction": 1,
+  "title": "My better half",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/191115mybetterhalf.jpg",
+  "description": "偶像大师灰姑娘女孩响子同人作品",
+  "last_updatetime": 1573807824,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mybetterhalf",
+  "hidden": 0,
+  "hot_num": 95770,
+  "hit_num": 19486,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94837,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18269,
+      "tag_name": "にじょ"
+    }
+  ],
+  "subscribe_num": 428,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94837,
+          "chapter_title": "1话",
+          "updatetime": 1573807824,
+          "filesize": 5373861,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 25290765,
+        "uid": 105776628,
+        "content": "很棒",
+        "createtime": 1584278997,
+        "nickname": "Deep丶cherry丿波",
+        "avatar": "https://avatar.dmzj.com/68/24/6824fa0496f735b7bd1f6f78646a0cbd.png"
+      },
+      {
+        "comment_id": 23059424,
+        "uid": 108700790,
+        "content": "是京都脸吧？",
+        "createtime": 1578135808,
+        "nickname": "dmzj_108700790",
+        "avatar": "https://avatar.dmzj.com/21/ec/21ecc3526bc6b32591c74b188e7fe530.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 50370,
+  "islong": 2,
+  "direction": 1,
+  "title": "藤原随想",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/tysx20190930.jpg",
+  "description": "魔理沙夜半偷竹笋,真正原因是??",
+  "last_updatetime": 1569809114,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tenyuansuixiang",
+  "hidden": 0,
+  "hot_num": 52180,
+  "hit_num": 18179,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93596,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6182,
+      "tag_name": "うそねこ"
+    },
+    {
+      "tag_id": 17962,
+      "tag_name": "柊唯"
+    }
+  ],
+  "subscribe_num": 235,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93596,
+          "chapter_title": "1话",
+          "updatetime": 1569809114,
+          "filesize": 8976135,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 22017123,
+        "uid": 109577917,
+        "content": "这cp好好磕。",
+        "createtime": 1573306212,
+        "nickname": "花饱真人β",
+        "avatar": "https://avatar.dmzj.com/50/76/507673156c2c87111999cd535867cd8d.png"
+      },
+      {
+        "comment_id": 20842438,
+        "uid": 106242639,
+        "content": "每年因寿命论而死的金发小女孩可绕地球三圈",
+        "createtime": 1570043610,
+        "nickname": "届かなぃ火…",
+        "avatar": "https://avatar.dmzj.com/74/54/7454d64c27159aab7e9db20361c91fee.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

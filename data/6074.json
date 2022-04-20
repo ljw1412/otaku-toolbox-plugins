@@ -1,0 +1,91 @@
+{
+  "id": 6074,
+  "islong": 2,
+  "direction": 1,
+  "title": "灭神密码",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/msmm01-01_fd4a2da84c457b91ebb7224b967dae76.jpg",
+  "description": "暂无介绍",
+  "last_updatetime": 1283753159,
+  "last_update_chapter_name": "VOL04",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "miesmm",
+  "hidden": 1,
+  "hot_num": 4012,
+  "hit_num": 78664,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 11933,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1484,
+      "tag_name": "海洋二号"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 11933,
+          "chapter_title": "4卷",
+          "updatetime": 1284357959,
+          "filesize": 6335567,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 11932,
+          "chapter_title": "3卷",
+          "updatetime": 1284357959,
+          "filesize": 5925977,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 11931,
+          "chapter_title": "2卷",
+          "updatetime": 1284357959,
+          "filesize": 5379740,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 11930,
+          "chapter_title": "1卷",
+          "updatetime": 1284357959,
+          "filesize": 6000978,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

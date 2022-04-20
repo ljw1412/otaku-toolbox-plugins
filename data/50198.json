@@ -1,0 +1,87 @@
+{
+  "id": 50198,
+  "islong": 2,
+  "direction": 1,
+  "title": "丧尸皮皮",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/191025sspipi.jpg",
+  "description": "人类变成丧尸之后。《星屑与妮娜》作者福岛聪的新短篇",
+  "last_updatetime": 1568823328,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sangshipipi",
+  "hidden": 0,
+  "hot_num": 916430,
+  "hit_num": 98153,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 88336,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6354,
+      "tag_name": "福岛聪"
+    }
+  ],
+  "subscribe_num": 3727,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88336,
+          "chapter_title": "1话",
+          "updatetime": 1568823328,
+          "filesize": 2148617,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 45,
+    "latest_comment": [
+      {
+        "comment_id": 24185679,
+        "uid": 100931109,
+        "content": "留下记录防丢失型094",
+        "createtime": 1581789011,
+        "nickname": "愚蠢的聖杯",
+        "avatar": "https://avatar.dmzj.com/70/15/7015759f7d05d6321c92c74c861376eb.png"
+      },
+      {
+        "comment_id": 24132384,
+        "uid": 100256556,
+        "content": "11111111111",
+        "createtime": 1581685209,
+        "nickname": "mdoefko",
+        "avatar": "https://avatar.dmzj.com/55/82/55824a33a7bca95b6e238cb23fa16c03.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

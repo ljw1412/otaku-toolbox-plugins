@@ -1,0 +1,87 @@
+{
+  "id": 51656,
+  "islong": 2,
+  "direction": 1,
+  "title": "OVER.",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/191230over.jpg",
+  "description": "三位病友，三间房间，一个简单游戏。",
+  "last_updatetime": 1577694034,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "o",
+  "comic_py": "overym",
+  "hidden": 0,
+  "hot_num": 484031,
+  "hit_num": 74309,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96246,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18549,
+      "tag_name": "影猫"
+    }
+  ],
+  "subscribe_num": 1200,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96246,
+          "chapter_title": "1话",
+          "updatetime": 1577694034,
+          "filesize": 6107462,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 35,
+    "latest_comment": [
+      {
+        "comment_id": 26643502,
+        "uid": 107172833,
+        "content": "看到病友以为进来开饭的结果是高质量智斗，不好意思打扰了...",
+        "createtime": 1587313816,
+        "nickname": "百合追漫机器",
+        "avatar": "https://avatar.dmzj.com/94/17/9417352a7044d9ed4d03eb7a0088ba02.png"
+      },
+      {
+        "comment_id": 26364503,
+        "uid": 106271047,
+        "content": "这不是计算，是博弈游戏",
+        "createtime": 1586614343,
+        "nickname": "芙尔兰札",
+        "avatar": "https://avatar.dmzj.com/58/41/584199bec4c732147acae477222ce0c2.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

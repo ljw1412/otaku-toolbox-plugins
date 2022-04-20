@@ -1,0 +1,94 @@
+{
+  "id": 51543,
+  "islong": 2,
+  "direction": 1,
+  "title": "千氏夜漫画集~高中生篇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/sgzshsh1220.jpg",
+  "description": "主角是高中生们的狗粮漫画短篇集",
+  "last_updatetime": 1585878522,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qianshiyemanhuajigaozhongshengpian",
+  "hidden": 0,
+  "hot_num": 1780855,
+  "hit_num": 58733,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 95785,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17483,
+      "tag_name": "千氏夜"
+    }
+  ],
+  "subscribe_num": 6488,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95785,
+          "chapter_title": "2话",
+          "updatetime": 1585878522,
+          "filesize": 1997432,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 91351,
+          "chapter_title": "1话",
+          "updatetime": 1576808902,
+          "filesize": 1670341,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 124,
+    "latest_comment": [
+      {
+        "comment_id": 26936540,
+        "uid": 104926418,
+        "content": "天地无极 万里追踪",
+        "createtime": 1588089449,
+        "nickname": "曾经de年华",
+        "avatar": "https://avatar.dmzj.com/85/16/8516925ee7589e7068c3644a9da82f19.png"
+      },
+      {
+        "comment_id": 26935376,
+        "uid": 109465472,
+        "content": "留一手",
+        "createtime": 1588088538,
+        "nickname": "超高校级的绝望与幸运",
+        "avatar": "https://avatar.dmzj.com/71/38/7138b8219fbc1a5ff696f88c0ab88558.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

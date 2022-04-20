@@ -1,0 +1,94 @@
+{
+  "id": 7518,
+  "islong": 2,
+  "direction": 1,
+  "title": "ETOILE三剑侠星罗",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/etolie.jpg",
+  "description": "时间为17世纪──法国加斯科尼村一名青年查理?达太安，他最爱的是剑与女人！一直过著这种浪荡生活的他，有一天邂逅了一名少女，令他的命运改写！ 新「三剑侠」传说，在这裡揭幕!! \n",
+  "last_updatetime": 1310355489,
+  "last_update_chapter_name": "第2卷",
+  "copyright": 0,
+  "first_letter": "e",
+  "comic_py": "etolie",
+  "hidden": 1,
+  "hot_num": 13382,
+  "hit_num": 613916,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 15023,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 499,
+      "tag_name": "山田孝太郎"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 127,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 15023,
+          "chapter_title": "2卷",
+          "updatetime": 1310355489,
+          "filesize": 17693221,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 15022,
+          "chapter_title": "1卷",
+          "updatetime": 1310355481,
+          "filesize": 17791334,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 23920798,
+        "uid": 110227191,
+        "content": "不错，很好看",
+        "createtime": 1581178881,
+        "nickname": "dmzj_110227191",
+        "avatar": "https://avatar.dmzj.com/d3/06/d3065d1b64bbf24f3246da3067a43033.png"
+      },
+      {
+        "comment_id": 20498448,
+        "uid": 109166606,
+        "content": "就这么少？",
+        "createtime": 1569059148,
+        "nickname": "1无",
+        "avatar": "https://avatar.dmzj.com/da/37/da371aa9a9bea55ed848a10c0da1ca5f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

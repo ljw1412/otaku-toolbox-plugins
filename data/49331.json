@@ -1,0 +1,94 @@
+{
+  "id": 49331,
+  "islong": 2,
+  "direction": 1,
+  "title": "笨蛋酱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/bendanjiang0722.jpg",
+  "description": "ぎうにう老师带来的笨蛋女孩。",
+  "last_updatetime": 1563893450,
+  "last_update_chapter_name": "角色原型",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bendanjiang",
+  "hidden": 0,
+  "hot_num": 5606584,
+  "hit_num": 186268,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90808,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17459,
+      "tag_name": "ぎうにう"
+    }
+  ],
+  "subscribe_num": 33689,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90808,
+          "chapter_title": "角色原型",
+          "updatetime": 1563893450,
+          "filesize": 2262209,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 90787,
+          "chapter_title": "1话",
+          "updatetime": 1563849029,
+          "filesize": 3793366,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2281,
+    "latest_comment": [
+      {
+        "comment_id": 27054995,
+        "uid": 110021940,
+        "content": "喂喂喂，超速了啊",
+        "createtime": 1588464300,
+        "nickname": "米粥2",
+        "avatar": "https://avatar.dmzj.com/98/ab/98ab1359bc0ce3f358c1c04b969ded87.png"
+      },
+      {
+        "comment_id": 27004806,
+        "uid": 100945130,
+        "content": "确实删页了，别问我怎么知道的",
+        "createtime": 1588325148,
+        "nickname": "我尼玛2333",
+        "avatar": "https://avatar.dmzj.com/0e/fb/0efbf8ee71aa9a508dc10fc535fd5faf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

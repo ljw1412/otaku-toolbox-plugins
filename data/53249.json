@@ -1,0 +1,133 @@
+{
+  "id": 53249,
+  "islong": 1,
+  "direction": 1,
+  "title": "AA原创短篇集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/200327aaycdpj.jpg",
+  "description": "这里是国内AA创作者们上传自己所创作的短篇AA的地方。除了漫画名相连的章节，基本上都是不同人物、不同时空、不同性格。请勿搞混。",
+  "last_updatetime": 1585967758,
+  "last_update_chapter_name": "骑士",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "aayuanchuangduanpianji",
+  "hidden": 0,
+  "hot_num": 60337,
+  "hit_num": 19644,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96277,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 18522,
+      "tag_name": "AA"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19357,
+      "tag_name": "AA同好会"
+    }
+  ],
+  "subscribe_num": 194,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96277,
+          "chapter_title": "骑士",
+          "updatetime": 1585967758,
+          "filesize": 1433314,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 96248,
+          "chapter_title": "亚鲁囗似乎无法告白的样子",
+          "updatetime": 1585889071,
+          "filesize": 2112255,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 95957,
+          "chapter_title": "亚拉那意欧-酒保行动 02",
+          "updatetime": 1585374573,
+          "filesize": 1043574,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 95910,
+          "chapter_title": "激斗！牧莉栖前辈与NHK的辩论之战",
+          "updatetime": 1585294234,
+          "filesize": 941465,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 95917,
+          "chapter_title": "给予你的礼物",
+          "updatetime": 1585304018,
+          "filesize": 3666577,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 95907,
+          "chapter_title": "樱野玖璃梦抽不出卡",
+          "updatetime": 1585288864,
+          "filesize": 1036027,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 95906,
+          "chapter_title": "亚拉那意欧—酒保行动",
+          "updatetime": 1585288842,
+          "filesize": 1236627,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 26090763,
+        "uid": 107883613,
+        "content": "骑士这篇就像唐吉阿德一样令人深思啊……",
+        "createtime": 1586050215,
+        "nickname": "魅魔女儿真可爱",
+        "avatar": "https://avatar.dmzj.com/38/94/3894c82ea4c147d10ad0d602461f6891.png"
+      },
+      {
+        "comment_id": 26042877,
+        "uid": 101972772,
+        "content": "英雄的落幕啊……",
+        "createtime": 1585969941,
+        "nickname": "白色恶魔-エリザベス",
+        "avatar": "https://avatar.dmzj.com/93/98/9398f289b97da55b2fb673ab7e9fb2eb.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

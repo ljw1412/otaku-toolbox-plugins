@@ -1,0 +1,91 @@
+{
+  "id": 49265,
+  "islong": 2,
+  "direction": 1,
+  "title": "sweet scarlet",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/ss717.jpg",
+  "description": "东方新短篇集",
+  "last_updatetime": 1563376292,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sweetscarlet",
+  "hidden": 0,
+  "hot_num": 165504,
+  "hit_num": 3263,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91255,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5068,
+      "tag_name": "比良坂真琴"
+    }
+  ],
+  "subscribe_num": 749,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91255,
+          "chapter_title": "1话",
+          "updatetime": 1563376292,
+          "filesize": 3003368,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 39,
+    "latest_comment": [
+      {
+        "comment_id": 20604128,
+        "uid": 101454329,
+        "content": "第12页:“無断転載は495年の波紋”",
+        "createtime": 1569378816,
+        "nickname": "攻城狮果然是油漆工",
+        "avatar": "https://avatar.dmzj.com/68/04/6804799a2309550ba408e163353ae499.png"
+      },
+      {
+        "comment_id": 19399834,
+        "uid": 105927021,
+        "content": "哦⊙ω⊙",
+        "createtime": 1565801530,
+        "nickname": "贪婪的白白",
+        "avatar": "https://avatar.dmzj.com/86/87/86875e0881bd83c88abcadb506e059de.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

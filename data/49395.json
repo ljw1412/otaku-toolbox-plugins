@@ -1,0 +1,94 @@
+{
+  "id": 49395,
+  "islong": 2,
+  "direction": 1,
+  "title": "萌！妖怪全书 传说篇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/mcsyg20190727.jpg",
+  "description": "用简单易懂的方式配合萌萌的说明图片,介绍了日本各种鬼神妖怪",
+  "last_updatetime": 1564365225,
+  "last_update_chapter_name": "妖怪资料馆",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mengyaoguaiquanshuchuangshuopian",
+  "hidden": 1,
+  "hot_num": 54026,
+  "hit_num": 84901,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91700,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11229,
+      "tag_name": "TEAS事务所"
+    }
+  ],
+  "subscribe_num": 4997,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91700,
+          "chapter_title": "妖怪资料馆",
+          "updatetime": 1564365225,
+          "filesize": 6393205,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 91661,
+          "chapter_title": "1卷",
+          "updatetime": 1564217948,
+          "filesize": 17781839,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 435,
+    "latest_comment": [
+      {
+        "comment_id": 26647619,
+        "uid": 104794767,
+        "content": "可以",
+        "createtime": 1587320292,
+        "nickname": "Cothurnus、♚",
+        "avatar": "https://avatar.dmzj.com/22/1c/221c29172e03ab368a9219921d5abc83.png"
+      },
+      {
+        "comment_id": 26317134,
+        "uid": 108367655,
+        "content": "空间信标已投放，不论走到哪里，愿我们终能找到回家的路",
+        "createtime": 1586526850,
+        "nickname": "EXDaLao",
+        "avatar": "https://avatar.dmzj.com/98/02/9802101909fadfbf5d46b865878fcaed.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

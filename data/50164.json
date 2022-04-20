@@ -1,0 +1,87 @@
+{
+  "id": 50164,
+  "islong": 2,
+  "direction": 1,
+  "title": "Taylor Alice",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/190917tayloralice.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1568686249,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tayloralice",
+  "hidden": 0,
+  "hot_num": 27630,
+  "hit_num": 4119,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 88853,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17869,
+      "tag_name": "mocoya"
+    }
+  ],
+  "subscribe_num": 130,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88853,
+          "chapter_title": "1话",
+          "updatetime": 1568686249,
+          "filesize": 4208880,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 20403222,
+        "uid": 108403252,
+        "content": "最近的老本有点多啊",
+        "createtime": 1568767882,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      },
+      {
+        "comment_id": 20380252,
+        "uid": 107861461,
+        "content": "哇，08年的本了",
+        "createtime": 1568696671,
+        "nickname": "业余砌墙师",
+        "avatar": "https://avatar.dmzj.com/34/77/34772916d361081453559f8757c1b7d9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

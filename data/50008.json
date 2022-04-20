@@ -1,0 +1,87 @@
+{
+  "id": 50008,
+  "islong": 2,
+  "direction": 1,
+  "title": "新一代香霖堂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/190907xydxlt.jpg",
+  "description": "合同志系列第一本",
+  "last_updatetime": 1567856493,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xinyidaixianglintang",
+  "hidden": 0,
+  "hot_num": 238215,
+  "hit_num": 7088,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 87970,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5640,
+      "tag_name": "恶饿鬼"
+    }
+  ],
+  "subscribe_num": 839,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87970,
+          "chapter_title": "1话",
+          "updatetime": 1567856493,
+          "filesize": 1572550,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 47,
+    "latest_comment": [
+      {
+        "comment_id": 24512771,
+        "uid": 101539677,
+        "content": "最后一页是什么游戏啊？",
+        "createtime": 1582597775,
+        "nickname": "白露皇女",
+        "avatar": "https://avatar.dmzj.com/78/49/7849c8a6ef82e88376a94ac065538204.png"
+      },
+      {
+        "comment_id": 22116431,
+        "uid": 105164406,
+        "content": "居然不是，张 口 闭 目 霖",
+        "createtime": 1573780382,
+        "nickname": "kokura asahi",
+        "avatar": "https://avatar.dmzj.com/89/44/8944f4c5d7d88b9e53753210dc598d8f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

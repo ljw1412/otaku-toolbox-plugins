@@ -1,0 +1,87 @@
+{
+  "id": 49118,
+  "islong": 2,
+  "direction": 1,
+  "title": "滴溜溜 滴溜溜",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/mj20190808.jpg",
+  "description": "麻将少女百合同人本",
+  "last_updatetime": 1562601849,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "diliuliudiliuliu",
+  "hidden": 0,
+  "hot_num": 299593,
+  "hit_num": 4878,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 85797,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6339,
+      "tag_name": "薄荷屋"
+    }
+  ],
+  "subscribe_num": 1349,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85797,
+          "chapter_title": "1话",
+          "updatetime": 1562601849,
+          "filesize": 1842486,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 92,
+    "latest_comment": [
+      {
+        "comment_id": 26384905,
+        "uid": 107293022,
+        "content": "短篇啊",
+        "createtime": 1586660606,
+        "nickname": "猛男中的锰",
+        "avatar": "https://avatar.dmzj.com/90/18/901812e3afeb78479bca34fea4c45690.png"
+      },
+      {
+        "comment_id": 24106085,
+        "uid": 108121328,
+        "content": "看到这名字的一瞬间就……",
+        "createtime": 1581636232,
+        "nickname": "dmzj_108121328",
+        "avatar": "https://avatar.dmzj.com/24/27/2427bede8ddf31d2522d4eac8b68110b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

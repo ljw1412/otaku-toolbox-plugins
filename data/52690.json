@@ -1,0 +1,87 @@
+{
+  "id": 52690,
+  "islong": 2,
+  "direction": 1,
+  "title": "幻想MELT",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/200302hxlimt.jpg",
+  "description": "来自紫的祝福：我的梅莉送给你了哦 所以，欢迎回来，梅莉！",
+  "last_updatetime": 1583136285,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huanxiangmelt",
+  "hidden": 0,
+  "hot_num": 93686,
+  "hit_num": 10802,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 98819,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6109,
+      "tag_name": "仲谷鳰(仲谷)"
+    }
+  ],
+  "subscribe_num": 372,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98819,
+          "chapter_title": "1话",
+          "updatetime": 1583136285,
+          "filesize": 8878898,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 27023224,
+        "uid": 110463031,
+        "content": "爷麻了，咱知道终将是火，但你在老师的秘封组下面刷终将不太好吧....",
+        "createtime": 1588370555,
+        "nickname": "秘封控",
+        "avatar": "https://avatar.dmzj.com/77/18/7718eb530cfe858287b0220358946f8d.png"
+      },
+      {
+        "comment_id": 26455056,
+        "uid": 108754341,
+        "content": "欢迎回来，梅莉！(இдஇ; )",
+        "createtime": 1586810929,
+        "nickname": "SCP官方",
+        "avatar": "https://avatar.dmzj.com/85/45/854534952429b18ade2feb6549b1cace.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

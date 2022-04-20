@@ -1,0 +1,98 @@
+{
+  "id": 52672,
+  "islong": 2,
+  "direction": 1,
+  "title": "笔仙魔女审判",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/monvshengpan0301.jpg",
+  "description": "螺旋卷和赌徒游行作者新作开始连载",
+  "last_updatetime": 1584945074,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bixianmonvshenpan",
+  "hidden": 0,
+  "hot_num": 627564,
+  "hit_num": 136226,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99082,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4516,
+      "tag_name": "中山敦支"
+    },
+    {
+      "tag_id": 19094,
+      "tag_name": "amphibian"
+    }
+  ],
+  "subscribe_num": 2828,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99082,
+          "chapter_title": "2话",
+          "updatetime": 1584945074,
+          "filesize": 5485573,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 98055,
+          "chapter_title": "1话",
+          "updatetime": 1583073051,
+          "filesize": 10714800,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 134,
+    "latest_comment": [
+      {
+        "comment_id": 27040658,
+        "uid": 104449984,
+        "content": "可惜啊就4话",
+        "createtime": 1588428488,
+        "nickname": "晚安、小怪兽",
+        "avatar": "https://avatar.dmzj.com/28/1d/281d266e9681d34a3d109db24a85bd79.png"
+      },
+      {
+        "comment_id": 27006996,
+        "uid": 100709804,
+        "content": "赌徒游行也隐了，还好已经看完了",
+        "createtime": 1588332343,
+        "nickname": "亚撒索",
+        "avatar": "https://avatar.dmzj.com/80/43/8043ae7a10206bf3f1e84f0e2b6cf97a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

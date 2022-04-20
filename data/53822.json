@@ -1,0 +1,87 @@
+{
+  "id": 53822,
+  "islong": 2,
+  "direction": 1,
+  "title": "勇者系列设定集DX",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/200422yzxlsdj.jpg",
+  "description": "勇者系列的设定集",
+  "last_updatetime": 1587555734,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yongzhexilieshedingjidx",
+  "hidden": 0,
+  "hot_num": 85550,
+  "hit_num": 173238,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100471,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3325,
+      "tag_name": "机战"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 410,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100471,
+          "chapter_title": "1卷",
+          "updatetime": 1587555734,
+          "filesize": 70964811,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 26795363,
+        "uid": 102087889,
+        "content": "勇者系列啊。真是童年。特别是gaogaiga。现在机战番都没这味了，剩下的给我用勇气补足啊",
+        "createtime": 1587733389,
+        "nickname": "orz累了看漫画",
+        "avatar": "https://avatar.dmzj.com/90/41/904158288f4fbc9f575d0966380bc73c.png"
+      },
+      {
+        "comment_id": 26752275,
+        "uid": 105817471,
+        "content": "玩具要是有这个水平就好了",
+        "createtime": 1587618069,
+        "nickname": "TeLa",
+        "avatar": "https://avatar.dmzj.com/34/43/3443457cb6b2ff644c78415b8cdbd6de.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

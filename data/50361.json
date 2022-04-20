@@ -1,0 +1,93 @@
+{
+  "id": 50361,
+  "islong": 2,
+  "direction": 2,
+  "title": "漱石枕流",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1097396661569598899.jpg",
+  "description": "一把刀的故事，一个侠客的故事。",
+  "last_updatetime": 1569599827,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "shushizhenliu",
+  "hidden": 0,
+  "hot_num": 22042,
+  "hit_num": 7845,
+  "uid": 109739666,
+  "is_lock": 0,
+  "last_update_chapter_id": 93297,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3324,
+      "tag_name": "武侠"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17957,
+      "tag_name": "祖菲zuffi"
+    }
+  ],
+  "subscribe_num": 97,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93297,
+          "chapter_title": "1话",
+          "updatetime": 1569599827,
+          "filesize": 4825963,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "我是作者祖菲。",
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 22544274,
+        "uid": 103639491,
+        "content": "订阅从未停止，阅读从未开始",
+        "createtime": 1575948289,
+        "nickname": "渣烧酒",
+        "avatar": "https://avatar.dmzj.com/21/a3/21a30eb01a20e424fa0ea9984d8d2d93.png"
+      },
+      {
+        "comment_id": 21799006,
+        "uid": 100743449,
+        "content": "作者有没有社交账号，好想关注一波。两部漫画都太棒了！",
+        "createtime": 1572514116,
+        "nickname": "圭璋",
+        "avatar": "https://avatar.dmzj.com/20/64/20641147d945f3a99aeda2aa93380ba7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

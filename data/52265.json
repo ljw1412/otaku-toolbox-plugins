@@ -1,0 +1,97 @@
+{
+  "id": 52265,
+  "islong": 2,
+  "direction": 2,
+  "title": "三言碎语",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1048977341581144746.jpg",
+  "description": "《三言碎语》短篇漫画集，如果您有空，不妨听我几句三言碎语吧。",
+  "last_updatetime": 1581139875,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "sanyansuiyu",
+  "hidden": 0,
+  "hot_num": 17879,
+  "hit_num": 628,
+  "uid": 104897734,
+  "is_lock": 0,
+  "last_update_chapter_id": 97927,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17724,
+      "tag_name": "Klaro"
+    }
+  ],
+  "subscribe_num": 85,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97927,
+          "chapter_title": "1话",
+          "updatetime": 1581139875,
+          "filesize": 699773,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 24007870,
+        "uid": 106931617,
+        "content": "原来是四页半作者。难怪画风这么熟",
+        "createtime": 1581411543,
+        "nickname": "线数菌",
+        "avatar": "https://avatar.dmzj.com/9e/5e/9e5e048728d89b81eeb2c82b8358fb36.png"
+      },
+      {
+        "comment_id": 24007854,
+        "uid": 103504724,
+        "content": "喜欢",
+        "createtime": 1581411499,
+        "nickname": "二傻了",
+        "avatar": "https://avatar.dmzj.com/87/94/8794b23c029f11172b22270b64ac2e4f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

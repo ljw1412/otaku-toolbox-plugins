@@ -1,0 +1,87 @@
+{
+  "id": 53933,
+  "islong": 2,
+  "direction": 1,
+  "title": "向阳处",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/xiangyangchu0428.jpg",
+  "description": "东方短篇",
+  "last_updatetime": 1588038442,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiangyangchu",
+  "hidden": 0,
+  "hot_num": 14715,
+  "hit_num": 2493,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96937,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19675,
+      "tag_name": "双"
+    }
+  ],
+  "subscribe_num": 70,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96937,
+          "chapter_title": "1话",
+          "updatetime": 1588038442,
+          "filesize": 3734102,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 26932561,
+        "uid": 105345065,
+        "content": "紫妈算奶奶吗？",
+        "createtime": 1588086198,
+        "nickname": "可爱有顶天的可爱天子",
+        "avatar": "https://avatar.dmzj.com/15/51/155105608ff218563edbb664ddd828a1.png"
+      },
+      {
+        "comment_id": 26925900,
+        "uid": 105345065,
+        "content": "Aching just to blow aside, aching just to blow aside...难以压抑的痛感  一直在我身体里/Step in front of a runaway train, just to feel alive again.犹如加速火车般前进的步伐  只想再一次真真切切的体验活着/Pushing forward through the night, aching just blow aside.一路疼痛相伴  冲刺着挣脱出暗夜/Aching just to blow aside, aching just to blow aside...即使再痛  也只会推着我攀上顶峰，",
+        "createtime": 1588079187,
+        "nickname": "可爱有顶天的可爱天子",
+        "avatar": "https://avatar.dmzj.com/15/51/155105608ff218563edbb664ddd828a1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

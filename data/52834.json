@@ -1,0 +1,87 @@
+{
+  "id": 52834,
+  "islong": 2,
+  "direction": 1,
+  "title": "美食三人行",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/mssrx20200308.jpg",
+  "description": "由三位不同风格的型男带你感受日本风土人情与美食的纪录题材作品",
+  "last_updatetime": 1583639736,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "meishisanrenxing",
+  "hidden": 0,
+  "hot_num": 173096,
+  "hit_num": 60436,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 95110,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3327,
+      "tag_name": "美食"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19151,
+      "tag_name": "来钝"
+    }
+  ],
+  "subscribe_num": 744,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95110,
+          "chapter_title": "1话",
+          "updatetime": 1583639736,
+          "filesize": 7109662,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 251,
+    "latest_comment": [
+      {
+        "comment_id": 25904041,
+        "uid": 104781345,
+        "content": "哈哈哈哈哈，还好我看过完整的，差点就被骗了",
+        "createtime": 1585667673,
+        "nickname": "甘露寺蜜琉",
+        "avatar": "https://avatar.dmzj.com/15/47/15478c12f0c7651566989249d87b84c4.png"
+      },
+      {
+        "comment_id": 25678335,
+        "uid": 105514197,
+        "content": "本子就叫这个名字吗",
+        "createtime": 1585145431,
+        "nickname": "纯洁的肖某。",
+        "avatar": "https://avatar.dmzj.com/3f/c2/3fc24acff46f774c19aecf2101943c94.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

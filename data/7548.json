@@ -1,0 +1,119 @@
+{
+  "id": 7548,
+  "islong": 2,
+  "direction": 2,
+  "title": "flashopoint闪点",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/flashopointshandian.jpg",
+  "description": "我是一个对生活毫无留恋的人，直到我约到闪电侠的那天起。",
+  "last_updatetime": 1315208278,
+  "last_update_chapter_name": "第05卷",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "flashopointshandian",
+  "hidden": 0,
+  "hot_num": 2345927,
+  "hit_num": 2276672,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 15460,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 10982,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 15460,
+          "chapter_title": "5卷",
+          "updatetime": 1315208278,
+          "filesize": 4489017,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 15281,
+          "chapter_title": "4卷",
+          "updatetime": 1313302791,
+          "filesize": 3388335,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 15147,
+          "chapter_title": "3卷",
+          "updatetime": 1311749020,
+          "filesize": 4259093,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 15104,
+          "chapter_title": "2卷",
+          "updatetime": 1311474247,
+          "filesize": 3456531,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 15080,
+          "chapter_title": "1卷",
+          "updatetime": 1311058795,
+          "filesize": 5277367,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 64,
+    "latest_comment": [
+      {
+        "comment_id": 26514898,
+        "uid": 110639943,
+        "content": "这都有！",
+        "createtime": 1586961390,
+        "nickname": "webhead",
+        "avatar": "https://avatar.dmzj.com/49/54/495421a5de99c1faca006b820a0049bf.png"
+      },
+      {
+        "comment_id": 25494886,
+        "uid": 110234628,
+        "content": "ftk",
+        "createtime": 1584712449,
+        "nickname": "dmzj_110234628",
+        "avatar": "https://avatar.dmzj.com/e1/0f/e10f8fcf3ff7ae84dbf5686425235268.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

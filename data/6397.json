@@ -1,0 +1,108 @@
+{
+  "id": 6397,
+  "islong": 2,
+  "direction": 1,
+  "title": "仙剑奇侠传2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/xianjian2.jpg",
+  "description": "《仙剑奇侠传》一代的主旨是在于“宿命”，而二代的中心主旨则是“宽恕”",
+  "last_updatetime": 1287635923,
+  "last_update_chapter_name": "VOL04",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xianjianqixiazhuan2",
+  "hidden": 1,
+  "hot_num": 10730,
+  "hit_num": 708927,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13163,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3463,
+      "tag_name": "陈志隆"
+    }
+  ],
+  "subscribe_num": 41,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13163,
+          "chapter_title": "4卷",
+          "updatetime": 1288240723,
+          "filesize": 7476150,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 13162,
+          "chapter_title": "3卷",
+          "updatetime": 1288240723,
+          "filesize": 7348918,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 13161,
+          "chapter_title": "2卷",
+          "updatetime": 1288240723,
+          "filesize": 7948089,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13160,
+          "chapter_title": "1卷",
+          "updatetime": 1288240723,
+          "filesize": 7724146,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 24789095,
+        "uid": 26861825,
+        "content": "在吗",
+        "createtime": 1583166156,
+        "nickname": "zsttsz",
+        "avatar": "https://avatar.dmzj.com/83/7b/837b4469ff8cd04a4876255a0ae13eeb.png"
+      },
+      {
+        "comment_id": 62438,
+        "uid": 17208873,
+        "content": "作者，你搞好点纸质画不行吗？你个*垃圾！看得老子蛋疼",
+        "createtime": 1337909824,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 9353,
+  "islong": 2,
+  "direction": 1,
+  "title": "御伽之槛",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/yujiazhi.jpg",
+  "description": "有点蛋疼的男子高中生和有点可爱的女高中生妹子的爱情喜剧。激萌！而又温馨？",
+  "last_updatetime": 1346220800,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yujiazhi",
+  "hidden": 0,
+  "hot_num": 8738,
+  "hit_num": 152378,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 18983,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4958,
+      "tag_name": "しぐま太郎 "
+    }
+  ],
+  "subscribe_num": 59,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 18983,
+          "chapter_title": "1话",
+          "updatetime": 1346220800,
+          "filesize": 3359998,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 198594,
+        "uid": 25103042,
+        "content": "中二的剧情",
+        "createtime": 1390647527,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      },
+      {
+        "comment_id": 79060,
+        "uid": 15436760,
+        "content": "好",
+        "createtime": 1346231339,
+        "nickname": "鬼智谋正",
+        "avatar": "https://avatar.dmzj.com/60/50/6050d3024a968555f0d439270586e75b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

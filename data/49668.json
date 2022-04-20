@@ -1,0 +1,94 @@
+{
+  "id": 49668,
+  "islong": 2,
+  "direction": 1,
+  "title": "数码宝贝ART BOOK Ver.1～5＆20th",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/smbbart20190816.jpg",
+  "description": "《数码宝贝ART BOOK Ver.1～5＆20th》设定集，共两册。",
+  "last_updatetime": 1565970544,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shumabaobeiartbookver1520th",
+  "hidden": 0,
+  "hot_num": 117214,
+  "hit_num": 348089,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 87208,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14480,
+      "tag_name": "BANDAI NAMCO"
+    }
+  ],
+  "subscribe_num": 1755,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87208,
+          "chapter_title": "2卷",
+          "updatetime": 1565970544,
+          "filesize": 26657439,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 87202,
+          "chapter_title": "1卷",
+          "updatetime": 1565938708,
+          "filesize": 15983412,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 104,
+    "latest_comment": [
+      {
+        "comment_id": 26906915,
+        "uid": 108867909,
+        "content": "童年回忆……",
+        "createtime": 1588025924,
+        "nickname": "犬夜叉有把铁碎牙",
+        "avatar": "https://avatar.dmzj.com/70/57/7057556ae95f11ad7e2a1cb3eb523554.png"
+      },
+      {
+        "comment_id": 25810276,
+        "uid": 101551138,
+        "content": "第三部驯兽师真的很好看，第四部独特的进化系统也非常有意思，大伙儿也不要总被束缚在第一二部",
+        "createtime": 1585455210,
+        "nickname": "爱的传教士",
+        "avatar": "https://avatar.dmzj.com/e7/a8/e7a826208cd0910b46aae0e909c9f77d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

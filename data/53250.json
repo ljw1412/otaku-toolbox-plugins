@@ -1,0 +1,91 @@
+{
+  "id": 53250,
+  "islong": 2,
+  "direction": 1,
+  "title": "到你身旁",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/znsp037.jpg",
+  "description": "Flowers夏组同人",
+  "last_updatetime": 1585292613,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "daonishenpang",
+  "hidden": 0,
+  "hot_num": 120441,
+  "hit_num": 10568,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100020,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19358,
+      "tag_name": "MEDALDA"
+    }
+  ],
+  "subscribe_num": 533,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100020,
+          "chapter_title": "1话",
+          "updatetime": 1585292613,
+          "filesize": 2378248,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 54,
+    "latest_comment": [
+      {
+        "comment_id": 27058069,
+        "uid": 105935284,
+        "content": "百合390\n夏组是光！",
+        "createtime": 1588475692,
+        "nickname": "天倒海",
+        "avatar": "https://avatar.dmzj.com/86/46/864624881ff024fc8df9194ea685ffd2.png"
+      },
+      {
+        "comment_id": 26261537,
+        "uid": 110448002,
+        "content": "留۹(･༥･´)و ̑̑",
+        "createtime": 1586414959,
+        "nickname": "西幻白鹤",
+        "avatar": "https://avatar.dmzj.com/42/bd/42bd3eb6627e837a6b0b9538d56db949.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

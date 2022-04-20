@@ -1,0 +1,91 @@
+{
+  "id": 9340,
+  "islong": 2,
+  "direction": 1,
+  "title": "放学后Idol",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/fangkehou.jpg",
+  "description": "不良少女 呆头少年的音乐冒险之旅。",
+  "last_updatetime": 1346034744,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fangxuehouidol",
+  "hidden": 0,
+  "hot_num": 50347,
+  "hit_num": 1325410,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 19830,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3326,
+      "tag_name": "音乐舞蹈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4949,
+      "tag_name": "今日和老"
+    }
+  ],
+  "subscribe_num": 303,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19830,
+          "chapter_title": "1话",
+          "updatetime": 1346034744,
+          "filesize": 5869341,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 619430,
+        "uid": 26044561,
+        "content": "短篇不錯，現在去看連載那篇了。。。",
+        "createtime": 1455428165,
+        "nickname": "京子flo",
+        "avatar": "https://avatar.dmzj.com/f2/c2/f2c23c3e9ca3d57ccfb7b2d1c442c12c.png"
+      },
+      {
+        "comment_id": 429863,
+        "uid": 25872630,
+        "content": "我与jump有不共戴天之仇！！",
+        "createtime": 1436947697,
+        "nickname": "五月雨丶夜",
+        "avatar": "https://avatar.dmzj.com/97/54/9754ef6c90e8762e9599a903707050a1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

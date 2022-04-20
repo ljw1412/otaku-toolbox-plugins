@@ -1,0 +1,115 @@
+{
+  "id": 7015,
+  "islong": 2,
+  "direction": 1,
+  "title": "F.S.球胜之路",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/qiushengzhilu.jpg",
+  "description": "球胜之路",
+  "last_updatetime": 1292567119,
+  "last_update_chapter_name": "CH05",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fsqiushengzhilu",
+  "hidden": 0,
+  "hot_num": 14962,
+  "hit_num": 238326,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 14267,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3746,
+      "tag_name": "sphinx工作室"
+    }
+  ],
+  "subscribe_num": 41,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 14267,
+          "chapter_title": "5话",
+          "updatetime": 1293171919,
+          "filesize": 1985603,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 14266,
+          "chapter_title": "4话",
+          "updatetime": 1293171919,
+          "filesize": 3847395,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 14265,
+          "chapter_title": "3话",
+          "updatetime": 1293171919,
+          "filesize": 3132111,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 14264,
+          "chapter_title": "2话",
+          "updatetime": 1293171919,
+          "filesize": 1359452,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 14263,
+          "chapter_title": "1话",
+          "updatetime": 1293171919,
+          "filesize": 2301848,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 770053,
+        "uid": 101188994,
+        "content": "多更新点",
+        "createtime": 1462065897,
+        "nickname": "㉨ﾉ♡(๑•̌㉨•̑๑)੭",
+        "avatar": "https://avatar.dmzj.com/17/d1/17d111bde1214626276d18735b9d817e.png"
+      },
+      {
+        "comment_id": 115608,
+        "uid": 22488037,
+        "content": "国产的 支持一下",
+        "createtime": 1366905927,
+        "nickname": "愤怒之萨麦尔",
+        "avatar": "https://avatar.dmzj.com/c8/88/c888a1cc2b65c112473ff20e590a83cb.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

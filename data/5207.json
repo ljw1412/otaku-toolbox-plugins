@@ -1,0 +1,87 @@
+{
+  "id": 5207,
+  "islong": 2,
+  "direction": 1,
+  "title": "顽皮爱丽丝",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/wpals.jpg",
+  "description": "顽皮爱丽丝",
+  "last_updatetime": 1281084549,
+  "last_update_chapter_name": "1",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wpals",
+  "hidden": 0,
+  "hot_num": 17031,
+  "hit_num": 302520,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 11193,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 829,
+      "tag_name": "长沢智"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 75,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 11193,
+          "chapter_title": "1卷",
+          "updatetime": 1281689349,
+          "filesize": 7920201,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 19640243,
+        "uid": 102220036,
+        "content": "碼",
+        "createtime": 1566423422,
+        "nickname": "一Evangeline",
+        "avatar": "https://avatar.dmzj.com/66/53/6653de70043251feb86a01ce114d1f34.png"
+      },
+      {
+        "comment_id": 282455,
+        "uid": 26044561,
+        "content": "噢，這樣就完了？？。。。真像兒童遊戲一樣。。。原本是蠻好看的，劇情及節奏都應該要有後聞。。。可惜！",
+        "createtime": 1409271905,
+        "nickname": "京子flo",
+        "avatar": "https://avatar.dmzj.com/f2/c2/f2c23c3e9ca3d57ccfb7b2d1c442c12c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

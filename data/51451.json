@@ -1,0 +1,87 @@
+{
+  "id": 51451,
+  "islong": 2,
+  "direction": 1,
+  "title": "图书馆里的幽灵",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/tsgldyl191213.jpg",
+  "description": "星期五午后、五点半左右的图书馆——…",
+  "last_updatetime": 1576238114,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tushuguanlideyouling",
+  "hidden": 0,
+  "hot_num": 633657,
+  "hit_num": 31993,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 95717,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18450,
+      "tag_name": "洼田マル"
+    }
+  ],
+  "subscribe_num": 2277,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95717,
+          "chapter_title": "1话",
+          "updatetime": 1576238114,
+          "filesize": 2803777,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 75,
+    "latest_comment": [
+      {
+        "comment_id": 27074532,
+        "uid": 106015148,
+        "content": "图书馆里的幽灵",
+        "createtime": 1588517943,
+        "nickname": "暴走的小兔兔",
+        "avatar": "https://avatar.dmzj.com/a6/c7/a6c7a4d422b0a671f1e2ce387471e131.png"
+      },
+      {
+        "comment_id": 26752767,
+        "uid": 110887224,
+        "content": "这么快就要上车了吗？我…我还没有准备好…来吧！",
+        "createtime": 1587619201,
+        "nickname": "dmzj_110887224",
+        "avatar": "https://avatar.dmzj.com/dd/65/dd65782328a64a3e41b394de8f0e14e2.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

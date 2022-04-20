@@ -1,0 +1,87 @@
+{
+  "id": 49702,
+  "islong": 2,
+  "direction": 1,
+  "title": "大张正己-机魂-画册",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/dazhangzhengyi20190819.jpg",
+  "description": "大张正己的机魂画册",
+  "last_updatetime": 1566146658,
+  "last_update_chapter_name": "全一册",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dzzjjhhc",
+  "hidden": 0,
+  "hot_num": 8378,
+  "hit_num": 10949,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91458,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17653,
+      "tag_name": "大张正己"
+    }
+  ],
+  "subscribe_num": 648,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91458,
+          "chapter_title": "1卷",
+          "updatetime": 1566146658,
+          "filesize": 10147693,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 47,
+    "latest_comment": [
+      {
+        "comment_id": 26294229,
+        "uid": 106173517,
+        "content": "空间信标已投放，不论走到哪里，愿我们终能找到回家的路",
+        "createtime": 1586487210,
+        "nickname": "我叫LI",
+        "avatar": "https://avatar.dmzj.com/30/ed/30ed1e02825ffdbc73354b167a713c65.png"
+      },
+      {
+        "comment_id": 23223015,
+        "uid": 108620087,
+        "content": "断空我唉",
+        "createtime": 1578763826,
+        "nickname": "MMQMK",
+        "avatar": "https://avatar.dmzj.com/28/a8/28a8c040ec80f4915de1ada8f58074d5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

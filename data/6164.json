@@ -1,0 +1,95 @@
+{
+  "id": 6164,
+  "islong": 2,
+  "direction": 1,
+  "title": "MAO",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/mao20101027.jpg",
+  "description": "稍许奇怪的书店店员的故事，宅物商店里糟糕又欢乐的日常开始了！ ",
+  "last_updatetime": 1283923826,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mao",
+  "hidden": 0,
+  "hot_num": 11027,
+  "hit_num": 38611,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12022,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3253,
+      "tag_name": "宅系"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3353,
+      "tag_name": "大富寺航"
+    }
+  ],
+  "subscribe_num": 61,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12022,
+          "chapter_title": "1话",
+          "updatetime": 1284528626,
+          "filesize": 1743344,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 25622357,
+        "uid": 101053368,
+        "content": "看画风感觉是个有点老的漫画，但是却只有一话评论也不多，。太冷了吧。。",
+        "createtime": 1585016547,
+        "nickname": "文月酱",
+        "avatar": "https://avatar.dmzj.com/87/64/8764c506e091e07d2ff57c0b01fd802e.png"
+      },
+      {
+        "comment_id": 209387,
+        "uid": 25103042,
+        "content": "宅物商店里糟糕又欢乐的日常开始了！",
+        "createtime": 1393242558,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

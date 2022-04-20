@@ -1,0 +1,87 @@
+{
+  "id": 51097,
+  "islong": 2,
+  "direction": 1,
+  "title": "P→MA",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/191117pma.jpg",
+  "description": "爱丽丝和帕秋莉的魔理沙争夺战",
+  "last_updatetime": 1573954991,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "p",
+  "comic_py": "pmadf",
+  "hidden": 0,
+  "hot_num": 51629,
+  "hit_num": 9743,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94295,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4030,
+      "tag_name": "みずせ希跡"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 236,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94295,
+          "chapter_title": "1话",
+          "updatetime": 1573954991,
+          "filesize": 7187400,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 23040868,
+        "uid": 101922943,
+        "content": "双七内核的咏唱组糖？",
+        "createtime": 1578052070,
+        "nickname": "丿L",
+        "avatar": "https://avatar.dmzj.com/52/30/52309fbff8e382b074894dea3b458aa3.png"
+      },
+      {
+        "comment_id": 22160782,
+        "uid": 102553553,
+        "content": "帕秋莉:你以为我喜欢魔理沙，我其实是喜欢爱丽丝你哒！",
+        "createtime": 1573983285,
+        "nickname": "高坂真那",
+        "avatar": "https://avatar.dmzj.com/74/05/7405d9a87f25e175aed622bafa4b1358.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

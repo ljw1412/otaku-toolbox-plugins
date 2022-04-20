@@ -1,0 +1,87 @@
+{
+  "id": 49223,
+  "islong": 2,
+  "direction": 1,
+  "title": "我们的恋曲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/190715wmdlq.jpg",
+  "description": "只属于我们的恋爱物语",
+  "last_updatetime": 1563165078,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "womendelianqu",
+  "hidden": 0,
+  "hot_num": 81991,
+  "hit_num": 1448,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86003,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17306,
+      "tag_name": "ねこんそ"
+    }
+  ],
+  "subscribe_num": 391,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86003,
+          "chapter_title": "1话",
+          "updatetime": 1563165078,
+          "filesize": 3051846,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 18345779,
+        "uid": 105543686,
+        "content": "啊啊啊啊啊海姬啊啊啊啊啊！！！！我死了",
+        "createtime": 1563383370,
+        "nickname": "晨枫未曦",
+        "avatar": "https://avatar.dmzj.com/54/d6/54d635fb7568b5831cb319864ecf5ed8.png"
+      },
+      {
+        "comment_id": 18340287,
+        "uid": 102287099,
+        "content": "邪教？？？？我吃！！！！",
+        "createtime": 1563376151,
+        "nickname": "Re影熏",
+        "avatar": "https://avatar.dmzj.com/0b/9c/0b9c88517f88bd415842aa5baa3899ce.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

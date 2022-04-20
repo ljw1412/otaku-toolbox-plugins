@@ -1,0 +1,112 @@
+{
+  "id": 9568,
+  "islong": 2,
+  "direction": 1,
+  "title": "新世界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/xinshijiepian.jpg",
+  "description": "2012年，距离现在遥远的未来，人类正处于灭亡，我们穿越时空来到了这个时代，开始解开地球灭亡谜团的旅途······",
+  "last_updatetime": 1353314353,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xinshijie",
+  "hidden": 0,
+  "hot_num": 439639,
+  "hit_num": 3642858,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 19787,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 478,
+      "tag_name": "大岩ケンヂ"
+    },
+    {
+      "tag_id": 3209,
+      "tag_name": "入间人间"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 2566,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19787,
+          "chapter_title": "4话",
+          "updatetime": 1353314353,
+          "filesize": 3208873,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 19673,
+          "chapter_title": "3话",
+          "updatetime": 1352382963,
+          "filesize": 3201115,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 19619,
+          "chapter_title": "2话",
+          "updatetime": 1351957875,
+          "filesize": 2599895,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 19519,
+          "chapter_title": "1话",
+          "updatetime": 1350840194,
+          "filesize": 2948549,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 59,
+    "latest_comment": [
+      {
+        "comment_id": 26466394,
+        "uid": 101849051,
+        "content": "没有了？？",
+        "createtime": 1586849338,
+        "nickname": "123456ybbf",
+        "avatar": "https://avatar.dmzj.com/10/15/1015a8d33f044e63ca13f4cc86b7daad.png"
+      },
+      {
+        "comment_id": 26398516,
+        "uid": 100821542,
+        "content": "这个有动漫的",
+        "createtime": 1586697326,
+        "nickname": "九曜道长",
+        "avatar": "https://avatar.dmzj.com/0b/8c/0b8cc2ba6c4fcfc10d9bfbc45d9f7beb.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

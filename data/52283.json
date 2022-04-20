@@ -1,0 +1,87 @@
+{
+  "id": 52283,
+  "islong": 2,
+  "direction": 1,
+  "title": "Lily Valentine",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/huatongren2020212.jpg",
+  "description": "flowers同人漫画，冬篇后的故事，即使没玩过冬篇的朋友也看得懂（恰糖就完事了）",
+  "last_updatetime": 1581470969,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lilyvalentine",
+  "hidden": 0,
+  "hot_num": 534164,
+  "hit_num": 87535,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93303,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17507,
+      "tag_name": "寝路"
+    }
+  ],
+  "subscribe_num": 2263,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93303,
+          "chapter_title": "1话",
+          "updatetime": 1581470969,
+          "filesize": 4088903,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 141,
+    "latest_comment": [
+      {
+        "comment_id": 26883541,
+        "uid": 110844327,
+        "content": "寝路老师太棒了",
+        "createtime": 1587967750,
+        "nickname": "Delisa",
+        "avatar": "https://avatar.dmzj.com/85/03/850369bf21be3cb5524c7d03fcd778ba.png"
+      },
+      {
+        "comment_id": 26814130,
+        "uid": 110656067,
+        "content": "啦啦啦啦",
+        "createtime": 1587780140,
+        "nickname": "柚子还是蓝原的好",
+        "avatar": "https://avatar.dmzj.com/6d/e8/6de83968d890df5bb1c3d857bfb8ae71.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,101 @@
+{
+  "id": 7694,
+  "islong": 2,
+  "direction": 2,
+  "title": "X时代.异界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/xtime.jpg",
+  "description": "十六年前Marvel推出了Age of Apocalypse，那是一个X-Men的跨刊故事，当时将八本X-Men漫画改名出版四期的短故事，讲述一个假设的平行世界。DC最近也有类似的故事Flashpoint（虽然Flashpoint并非平行世界），也是将时空人物改写，作为一个短暂的改变，的而且确是会给读者带来新意的。X-Men也有重施故技，这次故事名称为Age of X，出版规模较小，只在X-Men Legacy和New Mutants两本书中刊载，而故事也增加了新意，并非没关係的平行世界",
+  "last_updatetime": 1314782031,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xtime",
+  "hidden": 0,
+  "hot_num": 4064610,
+  "hit_num": 605810,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 15032,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 20589,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 15032,
+          "chapter_title": "2卷",
+          "updatetime": 1314782058,
+          "filesize": 5063011,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 15031,
+          "chapter_title": "1卷",
+          "updatetime": 1314782031,
+          "filesize": 4404267,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 15050,
+          "chapter_title": "0卷",
+          "updatetime": 1314953248,
+          "filesize": 6499898,
+          "chapter_order": 0
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 5693233,
+        "uid": 106080382,
+        "content": "fvvv",
+        "createtime": 1531921501,
+        "nickname": "dmzj_106080382",
+        "avatar": "https://avatar.dmzj.com/73/8e/738e1dc88e5643506809fccce3ff201c.png"
+      },
+      {
+        "comment_id": 25563,
+        "uid": 9494035,
+        "content": "好残酷的漫画,变种人真是悲催啊",
+        "createtime": 1314962577,
+        "nickname": "KODDD",
+        "avatar": "https://avatar.dmzj.com/9a/01/9a01e6174c6cbfa6a52005e28bff14b8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

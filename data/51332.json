@@ -1,0 +1,97 @@
+{
+  "id": 51332,
+  "islong": 1,
+  "direction": 2,
+  "title": "一百零一夜",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1056626631575365003.jpg",
+  "description": "短篇漫画《101夜》，6个脑洞短篇",
+  "last_updatetime": 1575365485,
+  "last_update_chapter_name": "月宫料理",
+  "copyright": 1,
+  "first_letter": "y",
+  "comic_py": "yibailingyiye",
+  "hidden": 0,
+  "hot_num": 57649,
+  "hit_num": 1795,
+  "uid": 105662663,
+  "is_lock": 0,
+  "last_update_chapter_id": 94797,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18394,
+      "tag_name": "大發Dafa"
+    }
+  ],
+  "subscribe_num": 263,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94797,
+          "chapter_title": "1话",
+          "updatetime": 1575365485,
+          "filesize": 270965,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "画画速度非常慢，更新时间不定。",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 22457526,
+        "uid": 101637480,
+        "content": "爱情？悬疑？",
+        "createtime": 1575440834,
+        "nickname": "又开始饿了",
+        "avatar": "https://avatar.dmzj.com/11/b5/11b5f65b010d7bc42e4ef3ac973149d0.png"
+      },
+      {
+        "comment_id": 22456831,
+        "uid": 106692365,
+        "content": "看饿了",
+        "createtime": 1575437092,
+        "nickname": "鸣言屹语",
+        "avatar": "https://avatar.dmzj.com/58/87/58875f215ef3c081157f5b5cdcdf90c3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

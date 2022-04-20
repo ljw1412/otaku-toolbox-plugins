@@ -1,0 +1,109 @@
+{
+  "id": 53272,
+  "islong": 2,
+  "direction": 1,
+  "title": "佐伯家的黑猫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/zuobojiadeheimao.jpg",
+  "description": "23岁的黑心公司社员佐伯遥某日超负荷工作回家后居然发现自家的黑猫变成了人！",
+  "last_updatetime": 1587738211,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zuobojiadeheimao",
+  "hidden": 0,
+  "hot_num": 556890,
+  "hit_num": 50300,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100605,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12869,
+      "tag_name": "ユウキレイ"
+    }
+  ],
+  "subscribe_num": 2499,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100605,
+          "chapter_title": "3话",
+          "updatetime": 1587738211,
+          "filesize": 2242867,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 99786,
+          "chapter_title": "2话",
+          "updatetime": 1586339579,
+          "filesize": 777942,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 99321,
+          "chapter_title": "1话",
+          "updatetime": 1585375299,
+          "filesize": 1231505,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 118,
+    "latest_comment": [
+      {
+        "comment_id": 27071417,
+        "uid": 107913796,
+        "content": "封面是致敬某执事嘛哈哈哈哈哈哈",
+        "createtime": 1588512881,
+        "nickname": "dmzj_107913796",
+        "avatar": "https://avatar.dmzj.com/e7/00/e70029f15d508163efc34490888a3393.png"
+      },
+      {
+        "comment_id": 26913877,
+        "uid": 101464019,
+        "content": "想看尾页的地狱犬，岩飞猫的作品真戳我的xp( ˙-˙=͟͟͞͞)",
+        "createtime": 1588052439,
+        "nickname": "霹雳霹雳叽咕叽咕",
+        "avatar": "https://avatar.dmzj.com/83/07/83070deab08a5d2ccb0b63e67fc0a730.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

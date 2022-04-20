@@ -1,0 +1,87 @@
+{
+  "id": 5493,
+  "islong": 2,
+  "direction": 1,
+  "title": "仙木的果实",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/8_1aea0402f6a3bd973399e96ea453ce18.jpg",
+  "description": "他的身世以及经历等等全都是个谜......",
+  "last_updatetime": 1281939256,
+  "last_update_chapter_name": "VOL_01",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xmdgs",
+  "hidden": 0,
+  "hot_num": 29534,
+  "hit_num": 445385,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 11479,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2258,
+      "tag_name": "八房龙之助"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 170,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 11479,
+          "chapter_title": "1卷",
+          "updatetime": 1282544056,
+          "filesize": 17364577,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 17280964,
+        "uid": 13753892,
+        "content": "这种棱角分明的画风还是更适合作者画的机战系列",
+        "createtime": 1560875789,
+        "nickname": "deathdante",
+        "avatar": "https://avatar.dmzj.com/c7/17/c71786b9d3c0151e6a00cd99a3b4924d.png"
+      },
+      {
+        "comment_id": 14048409,
+        "uid": 101141621,
+        "content": "话说有宵暗眩灯草纸的存在吗……",
+        "createtime": 1554871334,
+        "nickname": "钦若昊天",
+        "avatar": "https://avatar.dmzj.com/af/2d/af2dffd25f678942b52bc27e95ce53c4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

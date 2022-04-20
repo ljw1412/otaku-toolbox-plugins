@@ -1,0 +1,87 @@
+{
+  "id": 50734,
+  "islong": 2,
+  "direction": 1,
+  "title": "Capricieuse",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/191021capricieuse.jpg",
+  "description": "来自画师ももこ老师的超治愈超可爱同人画集",
+  "last_updatetime": 1571648599,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "capricieuse",
+  "hidden": 0,
+  "hot_num": 3949369,
+  "hit_num": 259833,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90366,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17983,
+      "tag_name": "ももこ"
+    }
+  ],
+  "subscribe_num": 16799,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90366,
+          "chapter_title": "1话",
+          "updatetime": 1571648599,
+          "filesize": 2153009,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 342,
+    "latest_comment": [
+      {
+        "comment_id": 26603587,
+        "uid": 107529693,
+        "content": "好康",
+        "createtime": 1587209778,
+        "nickname": "太宰莫得治",
+        "avatar": "https://avatar.dmzj.com/74/06/7406ec4365425493614a428b28b5a27f.png"
+      },
+      {
+        "comment_id": 26502526,
+        "uid": 110837123,
+        "content": "一眼认出藤原佬",
+        "createtime": 1586933129,
+        "nickname": "dmzj_110837123",
+        "avatar": "https://avatar.dmzj.com/9f/8f/9f8f978a3f743b95c279ac5d5ff0067f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

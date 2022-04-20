@@ -1,0 +1,87 @@
+{
+  "id": 50636,
+  "islong": 2,
+  "direction": 1,
+  "title": "沉眠的天球",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/tianqiu20191013.jpg",
+  "description": "魔理沙同人",
+  "last_updatetime": 1570975984,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chenshuidetianqiu",
+  "hidden": 0,
+  "hot_num": 155750,
+  "hit_num": 19418,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93780,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5172,
+      "tag_name": "樱庭友纪"
+    }
+  ],
+  "subscribe_num": 618,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93780,
+          "chapter_title": "1话",
+          "updatetime": 1570975984,
+          "filesize": 7209178,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 21763411,
+        "uid": 105861339,
+        "content": "最后一句对白太厉害了，真的是让人兴味无穷的作品",
+        "createtime": 1572376154,
+        "nickname": "中国的Seia桑",
+        "avatar": "https://avatar.dmzj.com/52/27/52274903571db050d7734ed1f370a3fe.png"
+      },
+      {
+        "comment_id": 21606101,
+        "uid": 101477497,
+        "content": "真是浪漫啊～",
+        "createtime": 1571852578,
+        "nickname": "幻怜の无果",
+        "avatar": "https://avatar.dmzj.com/73/45/7345602fb61807536359ea8c5888d6f5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

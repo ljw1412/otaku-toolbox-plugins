@@ -1,0 +1,115 @@
+{
+  "id": 9388,
+  "islong": 2,
+  "direction": 2,
+  "title": "Zero Hour",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/lingshi.jpg",
+  "description": "dc公司的漫画，悬疑的故事，要倒序观看。",
+  "last_updatetime": 1496919748,
+  "last_update_chapter_name": "第00卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zerohour",
+  "hidden": 0,
+  "hot_num": 1977646,
+  "hit_num": 447290,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 60278,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 8847,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19041,
+          "chapter_title": "4卷",
+          "updatetime": 1346743536,
+          "filesize": 5163004,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 19040,
+          "chapter_title": "3卷",
+          "updatetime": 1346743528,
+          "filesize": 5672050,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 19039,
+          "chapter_title": "2卷",
+          "updatetime": 1346743308,
+          "filesize": 8248131,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 36027,
+          "chapter_title": "1卷",
+          "updatetime": 1428805586,
+          "filesize": 3966629,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 60278,
+          "chapter_title": "0卷",
+          "updatetime": 1496919748,
+          "filesize": 5700826,
+          "chapter_order": 0
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 26045086,
+        "uid": 110348095,
+        "content": "哪位大佬知道零时是不是重启？是哪一次重启？p52、n52和重生顺序是什么？刚入坑，有点晕……求大佬解答",
+        "createtime": 1585974508,
+        "nickname": "泠师小阔耐",
+        "avatar": "https://avatar.dmzj.com/66/6c/666c9b7955bff4c42b71646ff570860a.png"
+      },
+      {
+        "comment_id": 22818617,
+        "uid": 106008041,
+        "content": "JSA真是让人惋惜",
+        "createtime": 1577190318,
+        "nickname": "吃蛋挞赛高、",
+        "avatar": "https://avatar.dmzj.com/97/58/9758fc45971471f56a46b55f1f5aa6c4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

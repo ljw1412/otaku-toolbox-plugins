@@ -1,0 +1,95 @@
+{
+  "id": 53244,
+  "islong": 2,
+  "direction": 1,
+  "title": "咲-Saki- re:KING’S TILE DRAW",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/xckltcmjsn2020327.jpg",
+  "description": "天才麻将少年。",
+  "last_updatetime": 1585278684,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaosakirekingstiledraw",
+  "hidden": 0,
+  "hot_num": 251411,
+  "hit_num": 53765,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 95895,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    },
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 279,
+      "tag_name": "极乐院樱子"
+    },
+    {
+      "tag_id": 364,
+      "tag_name": "小林立"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1079,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95895,
+          "chapter_title": "1话",
+          "updatetime": 1585278684,
+          "filesize": 9201979,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 108,
+    "latest_comment": [
+      {
+        "comment_id": 26871758,
+        "uid": 106584455,
+        "content": "天才麻将少年，话说京太郎怎么没变京子？",
+        "createtime": 1587921861,
+        "nickname": "非著名up主小洛",
+        "avatar": "https://avatar.dmzj.com/93/2a/932a97f4306c65364eb59f718d90d472.png"
+      },
+      {
+        "comment_id": 26817274,
+        "uid": 102184049,
+        "content": "接下来应该是有个前辈会在第二话出场，然后咲基的哥会在第三话出场（现在还不能确定他们的姓名）",
+        "createtime": 1587788479,
+        "nickname": "장함",
+        "avatar": "https://avatar.dmzj.com/87/02/870216fb481d8703bfe78c938f318781.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

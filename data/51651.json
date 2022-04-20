@@ -1,0 +1,94 @@
+{
+  "id": 51651,
+  "islong": 2,
+  "direction": 1,
+  "title": "滴答",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/dida1229.jpg",
+  "description": "来,干了这杯柠檬饮料",
+  "last_updatetime": 1577718023,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "didaa",
+  "hidden": 0,
+  "hot_num": 500289,
+  "hit_num": 14610,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96266,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18545,
+      "tag_name": "choebab"
+    }
+  ],
+  "subscribe_num": 1273,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96266,
+          "chapter_title": "2话",
+          "updatetime": 1577718023,
+          "filesize": 1341606,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 96221,
+          "chapter_title": "1话",
+          "updatetime": 1577626456,
+          "filesize": 1471690,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 26627685,
+        "uid": 104224562,
+        "content": "有点哀伤。",
+        "createtime": 1587278672,
+        "nickname": "卢卡斯叔叔_鳄鱼",
+        "avatar": "https://avatar.dmzj.com/93/23/9323b3408416def10fa5a565574c544d.png"
+      },
+      {
+        "comment_id": 22971667,
+        "uid": 101872143,
+        "content": "好甜，我学会了，那么女朋友哪里领",
+        "createtime": 1577769800,
+        "nickname": "迷之主人翁",
+        "avatar": "https://avatar.dmzj.com/22/62/226219a5f805fd33bd2bfe907104b6b4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

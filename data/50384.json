@@ -1,0 +1,87 @@
+{
+  "id": 50384,
+  "islong": 2,
+  "direction": 1,
+  "title": "Christmas With You",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/cwy20190930.jpg",
+  "description": "想不出该画什么内容的时候——虐爱丽丝√。爱丽丝好惨。",
+  "last_updatetime": 1569860795,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "christmaswithyou",
+  "hidden": 0,
+  "hot_num": 54481,
+  "hit_num": 12751,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 89259,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16204,
+      "tag_name": "TTT"
+    }
+  ],
+  "subscribe_num": 245,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89259,
+          "chapter_title": "1话",
+          "updatetime": 1569860795,
+          "filesize": 2416177,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 46,
+    "latest_comment": [
+      {
+        "comment_id": 25449658,
+        "uid": 107547232,
+        "content": "求求你做个人吧",
+        "createtime": 1584617207,
+        "nickname": "沉迷学习的某作",
+        "avatar": "https://avatar.dmzj.com/72/0e/720ed3d772bbbc7024ead59e8172b416.png"
+      },
+      {
+        "comment_id": 21632365,
+        "uid": 100275848,
+        "content": "求求你做做人吧！",
+        "createtime": 1571936359,
+        "nickname": "顾辞烟晚北城溟",
+        "avatar": "https://avatar.dmzj.com/57/21/5721aa9b846eff78580fd65b2d2ab8b8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

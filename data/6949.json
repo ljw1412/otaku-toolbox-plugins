@@ -1,0 +1,79 @@
+{
+  "id": 6949,
+  "islong": 2,
+  "direction": 2,
+  "title": "星球大战-绝地之路",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/xqdzjdzlnx.jpg",
+  "description": "星球大战系列漫画之一",
+  "last_updatetime": 1290561210,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xqdzjdzl",
+  "hidden": 0,
+  "hot_num": 290015,
+  "hit_num": 96422,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13107,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1627,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13107,
+          "chapter_title": "1话",
+          "updatetime": 1291166010,
+          "filesize": 2786356,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 2149573,
+        "uid": 101740840,
+        "content": "这篇的王老师还没留胡子诶……表白Master",
+        "createtime": 1494169992,
+        "nickname": "虾球_G_Pace",
+        "avatar": "https://avatar.dmzj.com/37/3f/373f58715a4b4954611156366cdff4eb.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

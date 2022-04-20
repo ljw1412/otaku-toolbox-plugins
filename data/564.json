@@ -1,0 +1,94 @@
+{
+  "id": 564,
+  "islong": 2,
+  "direction": 1,
+  "title": "暗之双生",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/azss.jpg",
+  "description": "秋月贵也，平常的高中生，但是一遇到不好的事就会变成“不吉波普”\n---为了消除疯狂的节拍而浮现于世界的特殊人群，他以消灭世界之敌也就是疯狂节拍的制造者为最终目的。",
+  "last_updatetime": 1178197680,
+  "last_update_chapter_name": "vol_02",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "azss",
+  "hidden": 0,
+  "hot_num": 354904,
+  "hit_num": 2688527,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 918,
+  "authors": [
+    {
+      "tag_id": 751,
+      "tag_name": "高野真之"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "subscribe_num": 1784,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 918,
+          "chapter_title": "2卷",
+          "updatetime": 1178197680,
+          "filesize": 16939131,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 917,
+          "chapter_title": "1卷",
+          "updatetime": 1178197680,
+          "filesize": 16886869,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 74,
+    "latest_comment": [
+      {
+        "comment_id": 26609467,
+        "uid": 106313535,
+        "content": "是很熟",
+        "createtime": 1587221554,
+        "nickname": "ginchan",
+        "avatar": "https://avatar.dmzj.com/65/14/6514f50c2c593488ab6e33e3e11d648e.png"
+      },
+      {
+        "comment_id": 26315249,
+        "uid": 100502088,
+        "content": "这个不吉波普好熟啊。",
+        "createtime": 1586524258,
+        "nickname": "五鼎食",
+        "avatar": "https://avatar.dmzj.com/c0/81/c0815bfeed1ecdf1e55d44edbfad3169.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

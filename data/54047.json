@@ -1,0 +1,87 @@
+{
+  "id": 54047,
+  "islong": 2,
+  "direction": 1,
+  "title": "公主连接！Re：Dive 公式Artworks Vol.1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/200503gzlj.jpg",
+  "description": "游戏《公主连接！Re：Dive》的插图设定集",
+  "last_updatetime": 1588504798,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gongzhulianjieredivegongshia1",
+  "hidden": 0,
+  "hot_num": 828861,
+  "hit_num": 2030996,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 101002,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12121,
+      "tag_name": "Cygames"
+    }
+  ],
+  "subscribe_num": 3962,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101002,
+          "chapter_title": "1卷",
+          "updatetime": 1588504798,
+          "filesize": 90060468,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 168,
+    "latest_comment": [
+      {
+        "comment_id": 27101192,
+        "uid": 100564657,
+        "content": "好可爱啊",
+        "createtime": 1588598882,
+        "nickname": "(＾･ ω ･＾)",
+        "avatar": "https://avatar.dmzj.com/33/56/3356d9d5468b87f2f55a6a2211c2cb0e.png"
+      },
+      {
+        "comment_id": 27100278,
+        "uid": 105236009,
+        "content": "好东西啊",
+        "createtime": 1588596932,
+        "nickname": "锦83928",
+        "avatar": "https://avatar.dmzj.com/d8/e0/d8e0ff20a6b6a6ff2bd81f3d9567f9bf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

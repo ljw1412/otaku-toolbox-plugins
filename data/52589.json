@@ -1,0 +1,125 @@
+{
+  "id": 52589,
+  "islong": 2,
+  "direction": 2,
+  "title": "灿烂黑影：群青色漫画集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1073021081585024475.jpg",
+  "description": "只是一些个人漫画的集合，不定期更新。",
+  "last_updatetime": 1587531206,
+  "last_update_chapter_name": "生日（3）",
+  "copyright": 1,
+  "first_letter": "c",
+  "comic_py": "canlanheiying",
+  "hidden": 0,
+  "hot_num": 203153,
+  "hit_num": 53171,
+  "uid": 107302108,
+  "is_lock": 0,
+  "last_update_chapter_id": 97115,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19062,
+      "tag_name": "群青色"
+    }
+  ],
+  "subscribe_num": 843,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97115,
+          "chapter_title": "4话",
+          "updatetime": 1587531206,
+          "filesize": 2549901,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 96439,
+          "chapter_title": "3话",
+          "updatetime": 1586229243,
+          "filesize": 2894172,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 95784,
+          "chapter_title": "2话",
+          "updatetime": 1585025470,
+          "filesize": 3157770,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 95210,
+          "chapter_title": "《灿烂黑影》后记&后续预告",
+          "updatetime": 1583826654,
+          "filesize": 2602687,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 94721,
+          "chapter_title": "1话",
+          "updatetime": 1582773132,
+          "filesize": 10165953,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "第一次发表作品，两天居然有近百个订阅，谢谢大家。\n\n本人是业余时间画漫画，可能会很慢，但一定会有新作品，再次谢谢大家关注。",
+  "comic_notice": "非常开心，作品发布后收到了一些好评。我目前没有尝试投稿，因为我不知道该选“少年向”还是“少女向”。",
+  "comment": {
+    "comment_count": 77,
+    "latest_comment": [
+      {
+        "comment_id": 26933311,
+        "uid": 109791044,
+        "content": "夸夸就能被作者回复？那我",
+        "createtime": 1588086824,
+        "nickname": "fxxkthiscar",
+        "avatar": "https://avatar.dmzj.com/33/76/33768e47d7de04adf00873bf633925a1.png"
+      },
+      {
+        "comment_id": 26854553,
+        "uid": 105159752,
+        "content": "作者可能会看到，所以我要使劲夸",
+        "createtime": 1587885711,
+        "nickname": "散人11532",
+        "avatar": "https://avatar.dmzj.com/37/97/3797e545f21c2c5b2795cd7fe7b05490.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

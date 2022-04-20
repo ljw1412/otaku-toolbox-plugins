@@ -1,0 +1,124 @@
+{
+  "id": 7098,
+  "islong": 2,
+  "direction": 1,
+  "title": "浪漫三重奏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/langmansczou222220180125222233.png",
+  "description": "不要被这少女漫画一样的标题骗了~！这是讲述打着浪漫社旗号的中二女生三人组和变态们英勇抗争可歌可泣的铁血篇章（大雾） ",
+  "last_updatetime": 1515552934,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lmscz",
+  "hidden": 0,
+  "hot_num": 780633,
+  "hit_num": 870481,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 66709,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3782,
+      "tag_name": "あわ箱"
+    }
+  ],
+  "subscribe_num": 3832,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66709,
+          "chapter_title": "4卷",
+          "updatetime": 1515552934,
+          "filesize": 30724660,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 66708,
+          "chapter_title": "3卷",
+          "updatetime": 1515552899,
+          "filesize": 29291216,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 66707,
+          "chapter_title": "2卷",
+          "updatetime": 1515552859,
+          "filesize": 30606595,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 66706,
+          "chapter_title": "1卷",
+          "updatetime": 1515552816,
+          "filesize": 32106377,
+          "chapter_order": 20
+        }
+      ]
+    },
+    {
+      "title": "汉化版",
+      "data": [
+        {
+          "chapter_id": 13731,
+          "chapter_title": "1话",
+          "updatetime": 1296666782,
+          "filesize": 3582349,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 212,
+    "latest_comment": [
+      {
+        "comment_id": 26075229,
+        "uid": 105991393,
+        "content": "hhhh",
+        "createtime": 1586014192,
+        "nickname": "李白似李并不白",
+        "avatar": "https://avatar.dmzj.com/0a/16/0a1687febf61ef5a566a00e5ef13b4c5.png"
+      },
+      {
+        "comment_id": 25639241,
+        "uid": 104929191,
+        "content": "经典老番",
+        "createtime": 1585056731,
+        "nickname": "六十行",
+        "avatar": "https://avatar.dmzj.com/38/36/3836b90fdd8c6264205236b8c2f76685.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,124 @@
+{
+  "id": 53522,
+  "islong": 2,
+  "direction": 2,
+  "title": "来画漫画吧",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1082375921586416231.jpg",
+  "description": "想画漫画...",
+  "last_updatetime": 1588243723,
+  "last_update_chapter_name": "对哦",
+  "copyright": 1,
+  "first_letter": "l",
+  "comic_py": "laihuamanhuaba",
+  "hidden": 0,
+  "hot_num": 59086,
+  "hit_num": 2508,
+  "uid": 108237592,
+  "is_lock": 0,
+  "last_update_chapter_id": 100913,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19497,
+      "tag_name": "半圆屁股"
+    }
+  ],
+  "subscribe_num": 172,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100913,
+          "chapter_title": "6话",
+          "updatetime": 1588243723,
+          "filesize": 149804,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 100170,
+          "chapter_title": "5话",
+          "updatetime": 1586943863,
+          "filesize": 136311,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 99959,
+          "chapter_title": "4话",
+          "updatetime": 1586586923,
+          "filesize": 70881,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 99887,
+          "chapter_title": "3话",
+          "updatetime": 1586501027,
+          "filesize": 86469,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 99849,
+          "chapter_title": "2话",
+          "updatetime": 1586415543,
+          "filesize": 128931,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 99784,
+          "chapter_title": "1话",
+          "updatetime": 1586334522,
+          "filesize": 51696,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 49,
+    "latest_comment": [
+      {
+        "comment_id": 27016657,
+        "uid": 106155560,
+        "content": "搞～",
+        "createtime": 1588350717,
+        "nickname": "加留多斐尔斯",
+        "avatar": "https://avatar.dmzj.com/51/90/519008b3ec144798965a7238085458f5.png"
+      },
+      {
+        "comment_id": 27014562,
+        "uid": 110348706,
+        "content": "忘画了可还行",
+        "createtime": 1588347613,
+        "nickname": "Wa酱赛高",
+        "avatar": "https://avatar.dmzj.com/11/63/1163c2c285c7b4ac25ba813640210a95.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

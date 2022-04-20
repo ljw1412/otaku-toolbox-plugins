@@ -1,0 +1,87 @@
+{
+  "id": 9213,
+  "islong": 2,
+  "direction": 1,
+  "title": "妖怪六九",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/yaoliujiu.jpg",
+  "description": "某个神社里有个神使，要是与他们邂逅一定会变得幸福，是关于这样狐狸的故事.",
+  "last_updatetime": 1344098338,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yaoguailiujiu",
+  "hidden": 0,
+  "hot_num": 12436,
+  "hit_num": 197783,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 18706,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4880,
+      "tag_name": "新城一"
+    }
+  ],
+  "subscribe_num": 45,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 18706,
+          "chapter_title": "1话",
+          "updatetime": 1344098338,
+          "filesize": 4171160,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 73572,
+        "uid": 4624870,
+        "content": "这画风....实在无爱",
+        "createtime": 1344130571,
+        "nickname": "未知物种",
+        "avatar": "https://avatar.dmzj.com/54/42/54429122ea785a1ed055a5d508704087.png"
+      },
+      {
+        "comment_id": 73559,
+        "uid": 501118,
+        "content": "寫作69, 讀作百合",
+        "createtime": 1344109915,
+        "nickname": "kaman1980",
+        "avatar": "https://avatar.dmzj.com/b7/e7/b7e79091690b4096017815b0bfc21d85.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

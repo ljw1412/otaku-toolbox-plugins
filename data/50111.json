@@ -1,0 +1,87 @@
+{
+  "id": 50111,
+  "islong": 2,
+  "direction": 1,
+  "title": "攻略！妖妖梦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/190914glyym.jpg",
+  "description": "这不是攻略本",
+  "last_updatetime": 1568432484,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gonglueyaoyaomeng",
+  "hidden": 0,
+  "hot_num": 21838,
+  "hit_num": 14903,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 92740,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17837,
+      "tag_name": "44DX"
+    }
+  ],
+  "subscribe_num": 101,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92740,
+          "chapter_title": "1话",
+          "updatetime": 1568432484,
+          "filesize": 10650128,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 25540963,
+        "uid": 109402708,
+        "content": "单是讲剧情的话挺有意思的，但是估计大多数可能因为画风劝退，后面整整一页的抱歉，估计作者也可能算较良心的。",
+        "createtime": 1584811127,
+        "nickname": "dmzj_109402708",
+        "avatar": "https://avatar.dmzj.com/9d/3d/9d3d090e8509abc449233e0a180e5065.png"
+      },
+      {
+        "comment_id": 20330728,
+        "uid": 102053048,
+        "content": "哈哈，乡长风评日常被害，我都已经习惯了",
+        "createtime": 1568547156,
+        "nickname": "Godon.Freeman",
+        "avatar": "https://avatar.dmzj.com/3c/29/3c2959bc6b720836f90176a20552f3ea.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

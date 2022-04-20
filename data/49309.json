@@ -1,0 +1,95 @@
+{
+  "id": 49309,
+  "islong": 2,
+  "direction": 1,
+  "title": "DRAGON CIRCUS",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/190721dragoncircus.jpg",
+  "description": "那是令人悲悯的机械小丑。那是从天而降的伟大神兽。两种仇恨交织之时，世界正开始猛烈转动——。",
+  "last_updatetime": 1563695090,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dragoncircus",
+  "hidden": 0,
+  "hot_num": 579506,
+  "hit_num": 46598,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 87036,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 228,
+      "tag_name": "下口智裕"
+    },
+    {
+      "tag_id": 229,
+      "tag_name": "清水荣一"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 8765,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87036,
+          "chapter_title": "1话",
+          "updatetime": 1563695090,
+          "filesize": 4145936,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 197,
+    "latest_comment": [
+      {
+        "comment_id": 24128337,
+        "uid": 108470373,
+        "content": "闲来无事  留个标记",
+        "createtime": 1581678596,
+        "nickname": "TheViolet",
+        "avatar": "https://avatar.dmzj.com/15/76/157670370e4b2d3acdbf4d1f3aee5fef.png"
+      },
+      {
+        "comment_id": 24124645,
+        "uid": 107563978,
+        "content": "有意思",
+        "createtime": 1581672055,
+        "nickname": "dmzj_107563978",
+        "avatar": "https://avatar.dmzj.com/ca/ad/caad9f41073a38d4f0a6969d8f46e48d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

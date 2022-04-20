@@ -1,0 +1,87 @@
+{
+  "id": 52473,
+  "islong": 2,
+  "direction": 1,
+  "title": "放学后的朋友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/200222fxhdpy.jpg",
+  "description": "让我们一直是朋友吧！",
+  "last_updatetime": 1582376724,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fangxuehoudepengyou",
+  "hidden": 0,
+  "hot_num": 156699,
+  "hit_num": 43529,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93808,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19001,
+      "tag_name": "鲛岛和人"
+    }
+  ],
+  "subscribe_num": 724,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93808,
+          "chapter_title": "1话",
+          "updatetime": 1582376724,
+          "filesize": 6607383,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 36,
+    "latest_comment": [
+      {
+        "comment_id": 26379366,
+        "uid": 102436584,
+        "content": "哈",
+        "createtime": 1586633433,
+        "nickname": "自闭症",
+        "avatar": "https://avatar.dmzj.com/8f/18/8f18d7940412ca48c434dbbf8ce91c8d.png"
+      },
+      {
+        "comment_id": 26357107,
+        "uid": 107305926,
+        "content": "我愿将双眼化作灯塔，照亮百合伟大的前程！",
+        "createtime": 1586602425,
+        "nickname": "屑老橘",
+        "avatar": "https://avatar.dmzj.com/32/04/320498b430aa8abb0154d26071ddba8c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

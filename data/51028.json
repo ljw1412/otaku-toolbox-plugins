@@ -1,0 +1,95 @@
+{
+  "id": 51028,
+  "islong": 2,
+  "direction": 1,
+  "title": "初梦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/191111chumeng.jpg",
+  "description": "幻想乡众人们的初梦",
+  "last_updatetime": 1573439467,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chumeng",
+  "hidden": 0,
+  "hot_num": 34192,
+  "hit_num": 1532,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90139,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14656,
+      "tag_name": "ヘラダミツル(ヤゴの穴)"
+    }
+  ],
+  "subscribe_num": 148,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90139,
+          "chapter_title": "1话",
+          "updatetime": 1573439467,
+          "filesize": 811359,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 22057522,
+        "uid": 102025280,
+        "content": "那明天呢 \n神社闭店之日(有端)",
+        "createtime": 1573494490,
+        "nickname": "羽！",
+        "avatar": "https://avatar.dmzj.com/38/01/38017800701fb3f04a66b664e7f76228.png"
+      },
+      {
+        "comment_id": 22045324,
+        "uid": 104599547,
+        "content": "穷醒",
+        "createtime": 1573450171,
+        "nickname": "se2230202",
+        "avatar": "https://avatar.dmzj.com/d8/56/d856a952e11c72a25c558e7599c0fae8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

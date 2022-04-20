@@ -1,0 +1,87 @@
+{
+  "id": 54037,
+  "islong": 2,
+  "direction": 1,
+  "title": "望月之刻",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/wangyuezhike0503.jpg",
+  "description": "东方短篇",
+  "last_updatetime": 1588473321,
+  "last_update_chapter_name": "前篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wangyuezhike",
+  "hidden": 0,
+  "hot_num": 18646,
+  "hit_num": 2245,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100963,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5514,
+      "tag_name": "水炊き"
+    }
+  ],
+  "subscribe_num": 87,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100963,
+          "chapter_title": "1话",
+          "updatetime": 1588473321,
+          "filesize": 10190465,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 27082044,
+        "uid": 100975659,
+        "content": "嗯?有没有懂的解释呀一下，是不是老师挖坑不填了?",
+        "createtime": 1588528640,
+        "nickname": "有“病”的子徐",
+        "avatar": "https://avatar.dmzj.com/6e/57/6e573f0356903151f2697b49dd59c76a.png"
+      },
+      {
+        "comment_id": 27076569,
+        "uid": 101979015,
+        "content": "说实话没看懂，望大佬解释下",
+        "createtime": 1588520589,
+        "nickname": "本人以换号，",
+        "avatar": "https://avatar.dmzj.com/76/11/7611e399512fd18def82308cc675fca3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

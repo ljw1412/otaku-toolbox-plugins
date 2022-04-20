@@ -1,0 +1,87 @@
+{
+  "id": 6939,
+  "islong": 2,
+  "direction": 1,
+  "title": "圣龙战将",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/01001_e335aaf0afe7d788aa6516b6051816a3.jpg",
+  "description": "又是一套类似罗德岛战记的漫画，吉富昭仁漫画风格越来越硬朗，喜欢这类风格的朋友不能错过了！",
+  "last_updatetime": 1290511382,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shenglongzhanjiang",
+  "hidden": 0,
+  "hot_num": 218962,
+  "hit_num": 481039,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13103,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1022,
+      "tag_name": "吉富昭仁"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1011,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13103,
+          "chapter_title": "1卷",
+          "updatetime": 1291116182,
+          "filesize": 25649029,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 23503938,
+        "uid": 108936272,
+        "content": "画风改变好大",
+        "createtime": 1579962984,
+        "nickname": "佩索阿",
+        "avatar": "https://avatar.dmzj.com/92/4d/924d8a9c19b537a2751e49b86beb442e.png"
+      },
+      {
+        "comment_id": 19862419,
+        "uid": 105073905,
+        "content": "罗德岛(ಥ_ಥ)",
+        "createtime": 1566986775,
+        "nickname": "教练08946",
+        "avatar": "https://avatar.dmzj.com/57/e1/57e10d0ea15aea8df4dbae6cd850edd5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

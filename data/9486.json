@@ -1,0 +1,91 @@
+{
+  "id": 9486,
+  "islong": 2,
+  "direction": 1,
+  "title": "访问者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/fangwenzhe20120930.jpg",
+  "description": "一部心理恐怖漫画，工作了一天累的要死，半夜回到家刚睡下，这时候门铃却响了起来！？门外的是谁！",
+  "last_updatetime": 1349012206,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fangwenzhe",
+  "hidden": 0,
+  "hot_num": 27411,
+  "hit_num": 159884,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 18488,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5016,
+      "tag_name": "タカヲヨシノブ"
+    }
+  ],
+  "subscribe_num": 89,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 18488,
+          "chapter_title": "1话",
+          "updatetime": 1349012206,
+          "filesize": 1070378,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 22576261,
+        "uid": 109979339,
+        "content": "美团外卖",
+        "createtime": 1576132592,
+        "nickname": "高速公路上的阻车带",
+        "avatar": "https://avatar.dmzj.com/87/49/874970814452ae67169799e294e170fc.png"
+      },
+      {
+        "comment_id": 17172773,
+        "uid": 102373197,
+        "content": "迁坟",
+        "createtime": 1560624605,
+        "nickname": "lourre",
+        "avatar": "https://avatar.dmzj.com/b1/00/b1008f932fdf30f2544a65612472434e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

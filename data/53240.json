@@ -1,0 +1,91 @@
+{
+  "id": 53240,
+  "islong": 2,
+  "direction": 1,
+  "title": "怒之庭",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/nzt2020327.jpg",
+  "description": "怒りの庭。C97新刊。",
+  "last_updatetime": 1585274652,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "nuzhiting",
+  "hidden": 0,
+  "hot_num": 110351,
+  "hit_num": 33443,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100004,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19352,
+      "tag_name": "昼夜"
+    },
+    {
+      "tag_id": 19353,
+      "tag_name": "中原"
+    }
+  ],
+  "subscribe_num": 509,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100004,
+          "chapter_title": "1话",
+          "updatetime": 1585274652,
+          "filesize": 1650025,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 44,
+    "latest_comment": [
+      {
+        "comment_id": 26775099,
+        "uid": 104665070,
+        "content": "好厉害啊",
+        "createtime": 1587665236,
+        "nickname": "名 のない かみ",
+        "avatar": "https://avatar.dmzj.com/37/34/37347a69f1eeee6c915bdab47e6e5f31.png"
+      },
+      {
+        "comment_id": 26194508,
+        "uid": 109551293,
+        "content": "有意思",
+        "createtime": 1586268073,
+        "nickname": "雪绘梨花衣戏凤",
+        "avatar": "https://avatar.dmzj.com/5e/48/5e48c796747f1833d1a02aaa557bf211.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

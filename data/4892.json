@@ -1,0 +1,94 @@
+{
+  "id": 4892,
+  "islong": 2,
+  "direction": 1,
+  "title": "BATMAN-CHILD_OF-DREAMS",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/batman01_0a7f4f8ef5ca4cec025a2a88bbb12d40.jpg",
+  "description": "日版蝙蝠侠",
+  "last_updatetime": 1280224353,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "batmanchildofdreams",
+  "hidden": 0,
+  "hot_num": 55136,
+  "hit_num": 719840,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 10611,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 697,
+      "tag_name": "麻宫骑亚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 253,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10611,
+          "chapter_title": "2卷",
+          "updatetime": 1280829153,
+          "filesize": 21586834,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 10610,
+          "chapter_title": "1卷",
+          "updatetime": 1280829153,
+          "filesize": 21783986,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 14754524,
+        "uid": 105131187,
+        "content": "日式画风真的不适合",
+        "createtime": 1555958401,
+        "nickname": "尢玅",
+        "avatar": "https://avatar.dmzj.com/b3/03/b303815b52e7842e166c11d2dcc75f48.png"
+      },
+      {
+        "comment_id": 14726511,
+        "uid": 105131187,
+        "content": "还行",
+        "createtime": 1555923048,
+        "nickname": "尢玅",
+        "avatar": "https://avatar.dmzj.com/b3/03/b303815b52e7842e166c11d2dcc75f48.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

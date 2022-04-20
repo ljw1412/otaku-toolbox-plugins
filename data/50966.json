@@ -1,0 +1,115 @@
+{
+  "id": 50966,
+  "islong": 2,
+  "direction": 1,
+  "title": "みつなら咏唱组短篇集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/191106yczdp.jpg",
+  "description": "魔理沙最近时不时地就会呆住，发生了什么吗？",
+  "last_updatetime": 1573483377,
+  "last_update_chapter_name": "短篇04",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "yongchangzuduanpian",
+  "hidden": 0,
+  "hot_num": 230871,
+  "hit_num": 65374,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94722,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16132,
+      "tag_name": "みつなら"
+    }
+  ],
+  "subscribe_num": 997,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94722,
+          "chapter_title": "4话",
+          "updatetime": 1573483377,
+          "filesize": 604339,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 94646,
+          "chapter_title": "3话",
+          "updatetime": 1573310121,
+          "filesize": 625548,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 94596,
+          "chapter_title": "推特图",
+          "updatetime": 1573134738,
+          "filesize": 8542631,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 94582,
+          "chapter_title": "2话",
+          "updatetime": 1573097769,
+          "filesize": 312078,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94560,
+          "chapter_title": "1话",
+          "updatetime": 1573017651,
+          "filesize": 170315,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 63,
+    "latest_comment": [
+      {
+        "comment_id": 25310264,
+        "uid": 103523889,
+        "content": "只用一页就让我好了。",
+        "createtime": 1584321931,
+        "nickname": "咏唱大好哟",
+        "avatar": "https://avatar.dmzj.com/92/54/9254d190f3e05b090ae4f8c46c586852.png"
+      },
+      {
+        "comment_id": 25204327,
+        "uid": 106043299,
+        "content": "咏唱太甜了",
+        "createtime": 1584070904,
+        "nickname": "KODmzj",
+        "avatar": "https://avatar.dmzj.com/11/32/11321dc013019469a45a7f7ac5078661.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

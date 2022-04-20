@@ -1,0 +1,100 @@
+{
+  "id": 53516,
+  "islong": 2,
+  "direction": 2,
+  "title": "命运",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1087948101587112404.jpg",
+  "description": "刚刚要毕业的米娜与小伙伴被一场突如其来的事件卷入了一场未知的世界是命运的安排还是偶然？",
+  "last_updatetime": 1586282634,
+  "last_update_chapter_name": "命运二",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "mingyun",
+  "hidden": 0,
+  "hot_num": 2427,
+  "hit_num": 509,
+  "uid": 108794810,
+  "is_lock": 0,
+  "last_update_chapter_id": 101679,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19492,
+      "tag_name": "啊飞"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101679,
+          "chapter_title": "2话",
+          "updatetime": 1586282634,
+          "filesize": 6049129,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 101678,
+          "chapter_title": "1话",
+          "updatetime": 1586281069,
+          "filesize": 1487326,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "命运是我最新一部长篇漫画，一直在努力更近，我一直在改进，欢迎多多指点。",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 27021303,
+        "uid": 108794810,
+        "content": "各位亲们，大家好????命运第三章的剧本基本完成了，我们将会在这一章里，看到命运的最初，剧情里会讲述一些神话以及从天主教的三体归一论来研究人类的发展已经命运的真实之初。希望大家喜欢。",
+        "createtime": 1588358573,
+        "nickname": "阿飞DMZJ",
+        "avatar": "https://avatar.dmzj.com/57/07/57077c13fbcf0b2e66d6947116b8130a.png"
+      },
+      {
+        "comment_id": 26760786,
+        "uid": 108794810,
+        "content": "此公益漫画！免版权！",
+        "createtime": 1587643150,
+        "nickname": "阿飞DMZJ",
+        "avatar": "https://avatar.dmzj.com/57/07/57077c13fbcf0b2e66d6947116b8130a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

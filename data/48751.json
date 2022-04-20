@@ -1,0 +1,108 @@
+{
+  "id": 48751,
+  "islong": 2,
+  "direction": 1,
+  "title": "隔壁的Helvetica",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/gebide20190116.jpg",
+  "description": "这是个小小的设计师事务所 某一天，所有设计师都失踪了。营业负责人丸栖只好亲自接下一个标志的设计案。 就在完全不具备字体知识的她正抱头烦恼时……。 新锐漫画家芦谷国一老师所创作的，有些奇妙的西文字体入门漫画，现在开始连载！",
+  "last_updatetime": 1563804342,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gebidehelvetica",
+  "hidden": 0,
+  "hot_num": 599917,
+  "hit_num": 1417,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90777,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17175,
+      "tag_name": "芦谷国一"
+    }
+  ],
+  "subscribe_num": 2959,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90777,
+          "chapter_title": "4话",
+          "updatetime": 1563804342,
+          "filesize": 699872,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 90561,
+          "chapter_title": "3话",
+          "updatetime": 1563262386,
+          "filesize": 946819,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 90560,
+          "chapter_title": "2话",
+          "updatetime": 1563262152,
+          "filesize": 1148467,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 89137,
+          "chapter_title": "1话",
+          "updatetime": 1559973599,
+          "filesize": 2821589,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 61,
+    "latest_comment": [
+      {
+        "comment_id": 27072777,
+        "uid": 108035231,
+        "content": "xc",
+        "createtime": 1588515392,
+        "nickname": "龙须不如面",
+        "avatar": "https://avatar.dmzj.com/13/06/1306f1c0be44fb71e4fb7f223cb7041f.png"
+      },
+      {
+        "comment_id": 27072767,
+        "uid": 108035231,
+        "content": "x",
+        "createtime": 1588515368,
+        "nickname": "龙须不如面",
+        "avatar": "https://avatar.dmzj.com/13/06/1306f1c0be44fb71e4fb7f223cb7041f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,94 @@
+{
+  "id": 6833,
+  "islong": 2,
+  "direction": 1,
+  "title": ".hack//XXXX",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/001_4c09aa7c827c979ebf63e53ca258dff5.jpg",
+  "description": "在进行世界最大的网路游戏「THE WORLD」时，朋友突然昏迷了……为了拯救挺身保护自己而成为未归还者的学校友人欧卡，主人公凯特再次登入游戏之中。作为一切故事原点的新译「.hack」，众所期盼",
+  "last_updatetime": 1290042591,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hackxxxx",
+  "hidden": 0,
+  "hot_num": 65114,
+  "hit_num": 2564613,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13225,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2066,
+      "tag_name": "喜久屋めがね"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 219,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13225,
+          "chapter_title": "2卷",
+          "updatetime": 1290647391,
+          "filesize": 16894169,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13224,
+          "chapter_title": "1卷",
+          "updatetime": 1290647391,
+          "filesize": 17515505,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 12745524,
+        "uid": 108286134,
+        "content": "1",
+        "createtime": 1552315954,
+        "nickname": "二寒",
+        "avatar": "https://avatar.dmzj.com/3c/78/3c78ab98729d948a97a780f5772fbfd3.png"
+      },
+      {
+        "comment_id": 11680463,
+        "uid": 101275008,
+        "content": "哇",
+        "createtime": 1550596710,
+        "nickname": "啊～哈哈哈哈哈",
+        "avatar": "https://avatar.dmzj.com/3c/98/3c9835862a2fc61afa1ccc0ec5f5ca3c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

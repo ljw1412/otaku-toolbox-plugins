@@ -1,0 +1,87 @@
+{
+  "id": 48637,
+  "islong": 2,
+  "direction": 1,
+  "title": "KISS MY FRIENDZ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/shouniangdongwuyuan0528.jpg",
+  "description": "欢迎来到加帕里公园",
+  "last_updatetime": 1558975289,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "k",
+  "comic_py": "kissmyfriendz",
+  "hidden": 0,
+  "hot_num": 1234459,
+  "hit_num": 28818,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 88749,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17121,
+      "tag_name": "ろん"
+    }
+  ],
+  "subscribe_num": 5772,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88749,
+          "chapter_title": "1话",
+          "updatetime": 1558975289,
+          "filesize": 5364721,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1088,
+    "latest_comment": [
+      {
+        "comment_id": 27050467,
+        "uid": 107143528,
+        "content": "绝了，好东西啊",
+        "createtime": 1588442489,
+        "nickname": "hurria233",
+        "avatar": "https://avatar.dmzj.com/91/23/912338c071363de51a20018183dac7fc.png"
+      },
+      {
+        "comment_id": 26896641,
+        "uid": 107533396,
+        "content": "传送点准备投放，代号303，投放完毕。",
+        "createtime": 1587998924,
+        "nickname": "dmzj_107533396",
+        "avatar": "https://avatar.dmzj.com/48/42/4842f44b0411bf8c01389c3518a15f09.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

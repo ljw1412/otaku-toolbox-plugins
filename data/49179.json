@@ -1,0 +1,91 @@
+{
+  "id": 49179,
+  "islong": 2,
+  "direction": 1,
+  "title": "纸堡",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/zhibao0712.jpg",
+  "description": "“漫画之神”的心路历程。",
+  "last_updatetime": 1562934237,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhibao",
+  "hidden": 0,
+  "hot_num": 208827,
+  "hit_num": 42531,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86781,
+  "authors": [
+    {
+      "tag_id": 904,
+      "tag_name": "手冢治虫"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "subscribe_num": 946,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86781,
+          "chapter_title": "1卷",
+          "updatetime": 1562934237,
+          "filesize": 18886771,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 46,
+    "latest_comment": [
+      {
+        "comment_id": 26287166,
+        "uid": 109684784,
+        "content": ",",
+        "createtime": 1586460174,
+        "nickname": "dmzj_109684784",
+        "avatar": "https://avatar.dmzj.com/23/31/23313b9c519284662bde741dbead2414.png"
+      },
+      {
+        "comment_id": 25950492,
+        "uid": 106105440,
+        "content": "自传啊。。",
+        "createtime": 1585763934,
+        "nickname": "狗蜇子",
+        "avatar": "https://avatar.dmzj.com/99/17/99171ab6703ee68c973942708993d58a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

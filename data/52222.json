@@ -1,0 +1,91 @@
+{
+  "id": 52222,
+  "islong": 2,
+  "direction": 1,
+  "title": "Golden Unlucky",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/200208goldenulucky.jpg",
+  "description": "稀松平常的一天，恋恋与秦心玩了一午分离之后，背后突然传来挥砍的响声，那究竟是......",
+  "last_updatetime": 1581146387,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "goldenulucky",
+  "hidden": 0,
+  "hot_num": 117346,
+  "hit_num": 26667,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96978,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16395,
+      "tag_name": "古河おどろ"
+    }
+  ],
+  "subscribe_num": 505,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96978,
+          "chapter_title": "1话",
+          "updatetime": 1581146387,
+          "filesize": 4893343,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 25962888,
+        "uid": 105813366,
+        "content": "以外的符合一设 感觉好棒",
+        "createtime": 1585804244,
+        "nickname": "kuroktn",
+        "avatar": "https://avatar.dmzj.com/25/71/257169cb4f96cd1530185c63a04e9812.png"
+      },
+      {
+        "comment_id": 24910741,
+        "uid": 102162920,
+        "content": "好喜欢这位老师的画风和剧情",
+        "createtime": 1583414514,
+        "nickname": "八千慧大姐的水獭灵",
+        "avatar": "https://avatar.dmzj.com/41/22/41220f6dfda3466ddd6f74a44538ae8b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

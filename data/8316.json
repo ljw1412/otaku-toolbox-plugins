@@ -1,0 +1,122 @@
+{
+  "id": 8316,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔力家族",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/180627moli.jpg",
+  "description": "万众瞩目的乙女游戏漫画化大型新连载。这是一个小小的守护交易之岛。累加罗德自卫组织。他们保护岛民不受外界的影响，拥有与领主评分权力的实力。",
+  "last_updatetime": 1339226122,
+  "last_update_chapter_name": "第06话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "molijiazu",
+  "hidden": 0,
+  "hot_num": 207327,
+  "hit_num": 1633596,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 17201,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 417,
+      "tag_name": "RURU"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1047,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 17201,
+          "chapter_title": "6话",
+          "updatetime": 1339226122,
+          "filesize": 3132192,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 17200,
+          "chapter_title": "5话",
+          "updatetime": 1339225859,
+          "filesize": 3354358,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 17199,
+          "chapter_title": "4话",
+          "updatetime": 1339225690,
+          "filesize": 2383293,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 17198,
+          "chapter_title": "3话",
+          "updatetime": 1339225682,
+          "filesize": 3653796,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 15833,
+          "chapter_title": "2话",
+          "updatetime": 1328812007,
+          "filesize": 3479777,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 15832,
+          "chapter_title": "1话",
+          "updatetime": 1328811904,
+          "filesize": 5129596,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 26594577,
+        "uid": 105121712,
+        "content": "游戏真的好玩",
+        "createtime": 1587181424,
+        "nickname": "北川KiraKira",
+        "avatar": "https://avatar.dmzj.com/62/73/6273e4741b25eeb7dfc44b06e4a1d053.png"
+      },
+      {
+        "comment_id": 26593957,
+        "uid": 109536734,
+        "content": "2020了。。",
+        "createtime": 1587179534,
+        "nickname": "空空的花酱",
+        "avatar": "https://avatar.dmzj.com/75/22/7522f518c78e3296c96d2d35a5072983.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

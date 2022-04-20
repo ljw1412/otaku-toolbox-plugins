@@ -1,0 +1,87 @@
+{
+  "id": 52405,
+  "islong": 2,
+  "direction": 2,
+  "title": "The Art of Clint Langley",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/200219theartofclintlangley.jpg",
+  "description": "Clint Langley的战锤画集",
+  "last_updatetime": 1582076302,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "theartofclintlangley",
+  "hidden": 0,
+  "hot_num": 108328,
+  "hit_num": 105497,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 98261,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18960,
+      "tag_name": "Clint Langley"
+    }
+  ],
+  "subscribe_num": 504,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98261,
+          "chapter_title": "1卷",
+          "updatetime": 1582076302,
+          "filesize": 23125945,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 25330109,
+        "uid": 109896933,
+        "content": "nb",
+        "createtime": 1584367790,
+        "nickname": "dmzj_109896933",
+        "avatar": "https://avatar.dmzj.com/6a/39/6a39422a87997953f29229171c152ae1.png"
+      },
+      {
+        "comment_id": 24332257,
+        "uid": 100355266,
+        "content": "散了，没钱买模型的",
+        "createtime": 1582164811,
+        "nickname": "Green 就是这样",
+        "avatar": "https://avatar.dmzj.com/13/38/13387c896e826f48b3677907b9b28ff4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 7462,
+  "islong": 2,
+  "direction": 1,
+  "title": "篠房六郎短篇集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/snshwq.jpg",
+  "description": "篠房六郎短篇集的內容，收錄了商業誌上的出道作品「乖小孩的製作方法」、「生化武器鈴木」、以及在日本雜誌連載的《空談師》的前身「空談師前篇與後篇」等精彩短篇故事。",
+  "last_updatetime": 1308553447,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lldpj",
+  "hidden": 0,
+  "hot_num": 75025,
+  "hit_num": 622100,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 15380,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2625,
+      "tag_name": "篠房六郎"
+    }
+  ],
+  "subscribe_num": 373,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 15380,
+          "chapter_title": "1卷",
+          "updatetime": 1308553447,
+          "filesize": 16826534,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 25529944,
+        "uid": 101753563,
+        "content": "有趣。",
+        "createtime": 1584797718,
+        "nickname": "云中超人",
+        "avatar": "https://avatar.dmzj.com/92/02/9202c7a2886ae7640a340e2195198565.png"
+      },
+      {
+        "comment_id": 24303447,
+        "uid": 106373958,
+        "content": "斯巴拉西",
+        "createtime": 1582097277,
+        "nickname": "丸子子",
+        "avatar": "https://avatar.dmzj.com/55/48/5548341602f3e10317e29c967f2c2525.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

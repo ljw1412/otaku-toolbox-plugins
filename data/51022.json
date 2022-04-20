@@ -1,0 +1,109 @@
+{
+  "id": 51022,
+  "islong": 2,
+  "direction": 2,
+  "title": "死山",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/sishan20191110.jpg",
+  "description": "人气恐怖游戏《乌拉尔山（Kholat）》改编,由游戏第二幕的日志开始讲述这个不为人知的神秘故事,一封充满歉疚的信件拉开的无尽遐想,寻找事实的真相",
+  "last_updatetime": 1583598463,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sishan",
+  "hidden": 0,
+  "hot_num": 880039,
+  "hit_num": 86939,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 98313,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18241,
+      "tag_name": "luksz kubiak"
+    },
+    {
+      "tag_id": 18242,
+      "tag_name": "marcin jedrzejek"
+    }
+  ],
+  "subscribe_num": 3242,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98313,
+          "chapter_title": "3卷",
+          "updatetime": 1583598463,
+          "filesize": 2206015,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 95211,
+          "chapter_title": "2卷",
+          "updatetime": 1576507939,
+          "filesize": 2398875,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94092,
+          "chapter_title": "1卷",
+          "updatetime": 1573369526,
+          "filesize": 1662259,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 49,
+    "latest_comment": [
+      {
+        "comment_id": 25141653,
+        "uid": 106305874,
+        "content": "萌军空历 害人不浅啊",
+        "createtime": 1583921873,
+        "nickname": "咸到不能再咸的阿鱼",
+        "avatar": "https://avatar.dmzj.com/33/68/33685f6242259928113ff1785b4c1bab.png"
+      },
+      {
+        "comment_id": 25015362,
+        "uid": 109350393,
+        "content": "翻译看样子是战争雷霆上瘾233333",
+        "createtime": 1583637355,
+        "nickname": "Ilyn1918",
+        "avatar": "https://avatar.dmzj.com/23/b0/23b01b84df84c9c568efe41d12229224.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

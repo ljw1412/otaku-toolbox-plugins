@@ -1,0 +1,87 @@
+{
+  "id": 48827,
+  "islong": 2,
+  "direction": 1,
+  "title": "帝咿哟！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/190614dongf.jpg",
+  "description": "东方同人漫画，永琳做了某些奇怪的药然后坑了帝的故事……",
+  "last_updatetime": 1560497938,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "diyiyo",
+  "hidden": 0,
+  "hot_num": 71602,
+  "hit_num": 1021,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 89334,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17218,
+      "tag_name": "真菜(まな)"
+    }
+  ],
+  "subscribe_num": 346,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89334,
+          "chapter_title": "1话",
+          "updatetime": 1560497938,
+          "filesize": 4785103,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 31,
+    "latest_comment": [
+      {
+        "comment_id": 25015793,
+        "uid": 107838194,
+        "content": "破案了，永琳叛月果然是馋辉夜身子",
+        "createtime": 1583638485,
+        "nickname": "thinklive",
+        "avatar": "https://avatar.dmzj.com/31/13/31137d6e53c075727d93cda91fe9e366.png"
+      },
+      {
+        "comment_id": 19540393,
+        "uid": 107708527,
+        "content": "√",
+        "createtime": 1566171169,
+        "nickname": "蝶恋花ling",
+        "avatar": "https://avatar.dmzj.com/20/4d/204d6241a643be8d94b7426af63cb7fd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

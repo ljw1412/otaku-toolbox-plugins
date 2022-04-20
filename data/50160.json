@@ -1,0 +1,87 @@
+{
+  "id": 50160,
+  "islong": 2,
+  "direction": 1,
+  "title": "朝潮失格",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/190917ccsg.jpg",
+  "description": "舰娘同人漫画",
+  "last_updatetime": 1568684797,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chaochaoshige",
+  "hidden": 0,
+  "hot_num": 90673,
+  "hit_num": 14793,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93225,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15344,
+      "tag_name": "海老ブルー"
+    }
+  ],
+  "subscribe_num": 397,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93225,
+          "chapter_title": "1话",
+          "updatetime": 1568684797,
+          "filesize": 2502997,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 22378162,
+        "uid": 100415748,
+        "content": "朝潮失格（指溜边不占点撒随缘雷）",
+        "createtime": 1574998734,
+        "nickname": "高地蛞蝓",
+        "avatar": "https://avatar.dmzj.com/83/32/8332da602057be39b3cea1be2803fc82.png"
+      },
+      {
+        "comment_id": 20410559,
+        "uid": 6601569,
+        "content": "作为一位提督，作为一位热爱着忠犬朝潮的提督！awsl\n其实后面那段意思就是作为“不正常的朝潮”问提督为什么不把这个“普通”朝潮做掉，因为怕普通朝潮给上级汇报这里的“异样”。但懂朝潮的提督们都知道，这姑娘“指正常普通朝潮”没那个心思，一心只有：忠与恪尽职守",
+        "createtime": 1568787448,
+        "nickname": "秦剑悠悠",
+        "avatar": "https://avatar.dmzj.com/88/63/88630d27151f5848acb90f8a1ffab9c0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

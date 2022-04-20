@@ -1,0 +1,87 @@
+{
+  "id": 53125,
+  "islong": 2,
+  "direction": 1,
+  "title": "与玛丽相遇的故事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/ymlxydgs0321.jpg",
+  "description": "与她相遇 故事就开始了",
+  "last_updatetime": 1584766341,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yumalixiangyudegushi",
+  "hidden": 0,
+  "hot_num": 687701,
+  "hit_num": 12329,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99755,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19297,
+      "tag_name": "真广吏希"
+    }
+  ],
+  "subscribe_num": 2839,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99755,
+          "chapter_title": "1话",
+          "updatetime": 1584766341,
+          "filesize": 986221,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 104,
+    "latest_comment": [
+      {
+        "comment_id": 26719587,
+        "uid": 109269180,
+        "content": "什么时候更新(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)",
+        "createtime": 1587537167,
+        "nickname": "莺店",
+        "avatar": "https://avatar.dmzj.com/32/24/32240073ea941f7ee49bcfa5e0ce3005.png"
+      },
+      {
+        "comment_id": 26674744,
+        "uid": 107044346,
+        "content": "血腥玛丽\n横滨玛丽\n玛丽的都市传说真不少啊",
+        "createtime": 1587399709,
+        "nickname": "铀公爵",
+        "avatar": "https://avatar.dmzj.com/50/03/5003062dd6caa766002041ccb6fe2d0b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

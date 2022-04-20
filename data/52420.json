@@ -1,0 +1,87 @@
+{
+  "id": 52420,
+  "islong": 2,
+  "direction": 1,
+  "title": "致如今、身在此处的你",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/ni20200219.jpg",
+  "description": "唯心的魔法和唯物的你",
+  "last_updatetime": 1582168734,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhirujinshenzaicichudeni",
+  "hidden": 0,
+  "hot_num": 101614,
+  "hit_num": 21114,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 98314,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18967,
+      "tag_name": "キハナ"
+    }
+  ],
+  "subscribe_num": 458,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98314,
+          "chapter_title": "1话",
+          "updatetime": 1582168734,
+          "filesize": 6345178,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 35,
+    "latest_comment": [
+      {
+        "comment_id": 24486127,
+        "uid": 105803803,
+        "content": "初发布。。。。新人都是怪物系列",
+        "createtime": 1582537473,
+        "nickname": "雾雨猫理沙",
+        "avatar": "https://avatar.dmzj.com/65/75/65759a550dea66c1c2d9adb576a48de5.png"
+      },
+      {
+        "comment_id": 24486115,
+        "uid": 105803803,
+        "content": "爽啦，又是我第一喜欢的主角组寿命论",
+        "createtime": 1582537447,
+        "nickname": "雾雨猫理沙",
+        "avatar": "https://avatar.dmzj.com/65/75/65759a550dea66c1c2d9adb576a48de5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

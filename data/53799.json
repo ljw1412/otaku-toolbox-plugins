@@ -1,0 +1,104 @@
+{
+  "id": 53799,
+  "islong": 1,
+  "direction": 2,
+  "title": "墨与影",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1109119971587462901.jpg",
+  "description": "父女生活爆笑琐记",
+  "last_updatetime": 1587903162,
+  "last_update_chapter_name": "第02话 网课",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "moyuying",
+  "hidden": 0,
+  "hot_num": 8718,
+  "hit_num": 484,
+  "uid": 110911997,
+  "is_lock": 0,
+  "last_update_chapter_id": 97423,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3253,
+      "tag_name": "宅系"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19631,
+      "tag_name": "芷淑君"
+    }
+  ],
+  "subscribe_num": 39,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97423,
+          "chapter_title": "2话",
+          "updatetime": 1587903162,
+          "filesize": 262624,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 97062,
+          "chapter_title": "1话",
+          "updatetime": 1587463868,
+          "filesize": 117196,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 26779502,
+        "uid": 100209004,
+        "content": "氛围好评，加油(ง •̀_•́)ง",
+        "createtime": 1587689273,
+        "nickname": "陌上轩∝墨上萱",
+        "avatar": "https://avatar.dmzj.com/1b/c8/1bc820030f0422f72b26a52c6fc835d3.png"
+      },
+      {
+        "comment_id": 26698015,
+        "uid": 101394217,
+        "content": "好",
+        "createtime": 1587476611,
+        "nickname": "qzuser60485488",
+        "avatar": "https://avatar.dmzj.com/bf/ac/bfacfe9c8624ef1e63e8cfe2054eeb33.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

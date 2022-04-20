@@ -1,0 +1,87 @@
+{
+  "id": 52264,
+  "islong": 2,
+  "direction": 1,
+  "title": "湖",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/hu2020211.jpg",
+  "description": "与疏远的儿时伙伴和解的故事。",
+  "last_updatetime": 1581405657,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huyi",
+  "hidden": 0,
+  "hot_num": 52624,
+  "hit_num": 27484,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94017,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16318,
+      "tag_name": "森田るい"
+    }
+  ],
+  "subscribe_num": 240,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94017,
+          "chapter_title": "1话",
+          "updatetime": 1581405657,
+          "filesize": 6103549,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 24041509,
+        "uid": 106442556,
+        "content": "女主月经还一直骑车吗...那也太难受了吧，我第一天只能躺床上",
+        "createtime": 1581493482,
+        "nickname": "呐——",
+        "avatar": "https://avatar.dmzj.com/90/07/9007b8a33619414ed52af5cb32db8afd.png"
+      },
+      {
+        "comment_id": 24033648,
+        "uid": 104915306,
+        "content": "不可能了…？",
+        "createtime": 1581467989,
+        "nickname": "西野淳平",
+        "avatar": "https://avatar.dmzj.com/17/94/1794425a07e9ad6a96ccd2ae9aae4d69.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 6449,
+  "islong": 2,
+  "direction": 1,
+  "title": "风之抄",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/fzc265467l.jpg",
+  "description": "闲谈的追忆，历史的讲述，政治的斡旋，柳生十兵卫的一生......",
+  "last_updatetime": 1497416353,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fengzhichao",
+  "hidden": 0,
+  "hot_num": 164718,
+  "hit_num": 697720,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12402,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1398,
+      "tag_name": "谷口治郎"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 882,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12402,
+          "chapter_title": "1卷",
+          "updatetime": 1497416354,
+          "filesize": 35661530,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 17904801,
+        "uid": 106328015,
+        "content": "写实的魅力",
+        "createtime": 1562431821,
+        "nickname": "城与尘",
+        "avatar": "https://avatar.dmzj.com/d4/76/d47649572a755f89c73348b9cd20bf88.png"
+      },
+      {
+        "comment_id": 7675883,
+        "uid": 100130186,
+        "content": "皇帝要造将军的反。。。",
+        "createtime": 1540624939,
+        "nickname": "饲养师",
+        "avatar": "https://avatar.dmzj.com/a2/1c/a21c1bbfd611a36768468e7b61b83457.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

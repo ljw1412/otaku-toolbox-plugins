@@ -1,0 +1,87 @@
+{
+  "id": 53687,
+  "islong": 2,
+  "direction": 1,
+  "title": "一触·即变",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/lmmlsaaa2020416.jpg",
+  "description": "幻想乡的日常。",
+  "last_updatetime": 1587005130,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yichujibian",
+  "hidden": 0,
+  "hot_num": 34761,
+  "hit_num": 3664,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100181,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4447,
+      "tag_name": "秋★枝"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 158,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100181,
+          "chapter_title": "1话",
+          "updatetime": 1587005130,
+          "filesize": 3640632,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 26914845,
+        "uid": 105967206,
+        "content": "主角组留眼2",
+        "createtime": 1588055589,
+        "nickname": "苹果苹果苹果糖",
+        "avatar": "https://avatar.dmzj.com/73/46/73467e5e883fc7d997fc516922bb9314.png"
+      },
+      {
+        "comment_id": 26775069,
+        "uid": 105803803,
+        "content": "后面雪染白魔理沙那段灵梦的独白非常刀子啊有木有QAQ",
+        "createtime": 1587665174,
+        "nickname": "雾雨猫理沙",
+        "avatar": "https://avatar.dmzj.com/65/75/65759a550dea66c1c2d9adb576a48de5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

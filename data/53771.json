@@ -1,0 +1,81 @@
+{
+  "id": 53771,
+  "islong": 2,
+  "direction": 1,
+  "title": "铁马冰河",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1085364681587261626.jpg",
+  "description": "我自己也不知道在画些什么。。。",
+  "last_updatetime": 1587262796,
+  "last_update_chapter_name": "第01章",
+  "copyright": 1,
+  "first_letter": "t",
+  "comic_py": "tiemabinghe",
+  "hidden": 0,
+  "hot_num": 1030,
+  "hit_num": 312,
+  "uid": 108536468,
+  "is_lock": 0,
+  "last_update_chapter_id": 102285,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16242,
+      "tag_name": "好随意"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102285,
+          "chapter_title": "1话",
+          "updatetime": 1587262796,
+          "filesize": 1222981,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 26665680,
+        "uid": 108636694,
+        "content": "感觉会很好看",
+        "createtime": 1587385210,
+        "nickname": "ente·ylds",
+        "avatar": "https://avatar.dmzj.com/d0/86/d086d2bee77c96528479a346baea0e13.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

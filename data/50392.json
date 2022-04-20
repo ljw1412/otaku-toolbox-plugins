@@ -1,0 +1,91 @@
+{
+  "id": 50392,
+  "islong": 2,
+  "direction": 1,
+  "title": "我的东西",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/191001wddx.jpg",
+  "description": "今天开始你是我的东西了",
+  "last_updatetime": 1569897765,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wodedongxi",
+  "hidden": 0,
+  "hot_num": 483415,
+  "hit_num": 4299,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 92767,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17973,
+      "tag_name": "あゆ"
+    }
+  ],
+  "subscribe_num": 1710,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92767,
+          "chapter_title": "1话",
+          "updatetime": 1569897765,
+          "filesize": 660365,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 23586226,
+        "uid": 101997883,
+        "content": "真短",
+        "createtime": 1580251735,
+        "nickname": "摸你狗手",
+        "avatar": "https://avatar.dmzj.com/37/05/3705b3d06fc328951973f2b61326a5a5.png"
+      },
+      {
+        "comment_id": 21421210,
+        "uid": 106964909,
+        "content": "啊哈？原来是男孩子！",
+        "createtime": 1571343929,
+        "nickname": "吾辈是hina",
+        "avatar": "https://avatar.dmzj.com/99/59/99597fada9947593ac0d295f5940454c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

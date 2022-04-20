@@ -1,0 +1,94 @@
+{
+  "id": 6189,
+  "islong": 2,
+  "direction": 1,
+  "title": "剑客仇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/sw01_001_875bc7f78e475cff4e4b1147572f5d3b.jpg",
+  "description": "武士服，勾玉项链，还有一把长达七尺五寸的武士刀，这是蛮罪获救后身上仅有的东西，而他已经丧失了所有的记忆。为了寻找真相，他与救命恩人沙都离开了村子...",
+  "last_updatetime": 1284012520,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jiankechou",
+  "hidden": 1,
+  "hot_num": 3685,
+  "hit_num": 203159,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12043,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3366,
+      "tag_name": "铃木大"
+    }
+  ],
+  "subscribe_num": 13,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12043,
+          "chapter_title": "2卷",
+          "updatetime": 1284617320,
+          "filesize": 18923276,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 12042,
+          "chapter_title": "1卷",
+          "updatetime": 1284617320,
+          "filesize": 18529186,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 25851150,
+        "uid": 110573268,
+        "content": "看看",
+        "createtime": 1585553705,
+        "nickname": "dmzj_110573268",
+        "avatar": "https://avatar.dmzj.com/ef/50/ef50f28f276c32ef5767c6fbf96094e5.png"
+      },
+      {
+        "comment_id": 17338672,
+        "uid": 107297967,
+        "content": "剑客仇",
+        "createtime": 1561031239,
+        "nickname": "御辛",
+        "avatar": "https://avatar.dmzj.com/31/23/3123adf8a4f228da6f86cb0a394a212c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

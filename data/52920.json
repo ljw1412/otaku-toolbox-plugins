@@ -1,0 +1,113 @@
+{
+  "id": 52920,
+  "islong": 2,
+  "direction": 2,
+  "title": "猫缘",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1006119031583942553.jpg",
+  "description": "一个关于猫的短篇故事，也算是我的作品中真正意义上的第一个完整短篇，我的漫画之旅就此开始。比起人来，我果然还是更喜欢动物啊。。那样的单纯时光还是值得怀念的，并不是它很差劲，而是在一个拜金主义时代它显得太另类了。",
+  "last_updatetime": 1583943389,
+  "last_update_chapter_name": "第05话",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "maoyuan",
+  "hidden": 0,
+  "hot_num": 6085,
+  "hit_num": 737,
+  "uid": 100611903,
+  "is_lock": 0,
+  "last_update_chapter_id": 99305,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11073,
+      "tag_name": "桔五味"
+    }
+  ],
+  "subscribe_num": 25,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99305,
+          "chapter_title": "5话",
+          "updatetime": 1583943389,
+          "filesize": 911782,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 99304,
+          "chapter_title": "4话",
+          "updatetime": 1583943107,
+          "filesize": 855614,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 99303,
+          "chapter_title": "3话",
+          "updatetime": 1583943023,
+          "filesize": 831304,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 99302,
+          "chapter_title": "2话",
+          "updatetime": 1583942911,
+          "filesize": 1040422,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 99301,
+          "chapter_title": "1话",
+          "updatetime": 1583942764,
+          "filesize": 992341,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 25181312,
+        "uid": 108396312,
+        "content": "竖着排字的时候还是从右往左排吧 毕竟古文也是这样排的，也是中国文化的一部分",
+        "createtime": 1584017501,
+        "nickname": "maybehappyforever",
+        "avatar": "https://avatar.dmzj.com/67/35/67357d475df6e6f04bf564f5ecffe41e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

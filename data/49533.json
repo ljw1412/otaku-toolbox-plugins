@@ -1,0 +1,91 @@
+{
+  "id": 49533,
+  "islong": 2,
+  "direction": 1,
+  "title": "细数那些话",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/xsnxh807.jpg",
+  "description": "对于他们而言 什么样的交流方式才适合于他们",
+  "last_updatetime": 1565146156,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xishunaxiehua",
+  "hidden": 1,
+  "hot_num": 164695,
+  "hit_num": 14246,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86819,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15829,
+      "tag_name": "ロー"
+    }
+  ],
+  "subscribe_num": 729,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86819,
+          "chapter_title": "1话",
+          "updatetime": 1565146156,
+          "filesize": 11607100,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 23239310,
+        "uid": 106423789,
+        "content": "这个也没了",
+        "createtime": 1578836821,
+        "nickname": "dmzj_106423789",
+        "avatar": "https://avatar.dmzj.com/84/07/8407c662bcd8e1bd5845ed1008eed235.png"
+      },
+      {
+        "comment_id": 23145183,
+        "uid": 107340408,
+        "content": "吓坏我了，赶紧插旗子",
+        "createtime": 1578462548,
+        "nickname": "幻风焰",
+        "avatar": "https://avatar.dmzj.com/87/28/87283b02c338745d2972530bc7a7cc32.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

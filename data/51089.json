@@ -1,0 +1,91 @@
+{
+  "id": 51089,
+  "islong": 2,
+  "direction": 1,
+  "title": "Cor do inverno",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/191116sntj.jpg",
+  "description": "灵魔理啾啾",
+  "last_updatetime": 1573893323,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "cordoinverno",
+  "hidden": 0,
+  "hot_num": 81817,
+  "hit_num": 12345,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91279,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18272,
+      "tag_name": "少女头巾"
+    }
+  ],
+  "subscribe_num": 376,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91279,
+          "chapter_title": "1话",
+          "updatetime": 1573893323,
+          "filesize": 3243052,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 22437686,
+        "uid": 106262574,
+        "content": "我缺那几页的流量吗！",
+        "createtime": 1575309677,
+        "nickname": "蜡笔小新也有梦",
+        "avatar": "https://avatar.dmzj.com/2a/21/2a214471fc9d437a55cd4b94e947af96.png"
+      },
+      {
+        "comment_id": 22166263,
+        "uid": 104213892,
+        "content": "说实话删了几页",
+        "createtime": 1574003743,
+        "nickname": "没看过",
+        "avatar": "https://avatar.dmzj.com/45/10/451022d4161459151cb9391b8839a0ae.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

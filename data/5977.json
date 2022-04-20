@@ -1,0 +1,91 @@
+{
+  "id": 5977,
+  "islong": 2,
+  "direction": 1,
+  "title": "姬太郎",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/姬太郎_全一本_0001_c8262162eacc5e3d8e128e24410be0d9.jpg",
+  "description": "一个打架高手中学生出了车祸,结果被整容成一张女生的脸开始新的生活......",
+  "last_updatetime": 1283409566,
+  "last_update_chapter_name": "全一本",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jitailang",
+  "hidden": 0,
+  "hot_num": 81008,
+  "hit_num": 3111913,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12549,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3273,
+      "tag_name": "大本鸡"
+    }
+  ],
+  "subscribe_num": 290,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12549,
+          "chapter_title": "1卷",
+          "updatetime": 1284014366,
+          "filesize": 10028961,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 35,
+    "latest_comment": [
+      {
+        "comment_id": 26641390,
+        "uid": 104740617,
+        "content": "有点像漂亮脸蛋的展开",
+        "createtime": 1587310917,
+        "nickname": "有点丿小情绪",
+        "avatar": "https://avatar.dmzj.com/83/f2/83f2df232906d15db2445fae5f6688e2.png"
+      },
+      {
+        "comment_id": 26487079,
+        "uid": 110250538,
+        "content": "嘿嘿嘿",
+        "createtime": 1586883431,
+        "nickname": "你说说你还是人吗",
+        "avatar": "https://avatar.dmzj.com/46/69/4669971e65989f94e6393a13fec8e300.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

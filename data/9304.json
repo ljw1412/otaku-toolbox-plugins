@@ -1,0 +1,87 @@
+{
+  "id": 9304,
+  "islong": 2,
+  "direction": 1,
+  "title": "成为彼女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/chengweibinv.jpg",
+  "description": "这么可爱肯定是男孩子/这么帅肯定是女孩子！",
+  "last_updatetime": 1345521468,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chengweibinv",
+  "hidden": 0,
+  "hot_num": 152602,
+  "hit_num": 1709950,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 18713,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4930,
+      "tag_name": "koyomi fuji"
+    }
+  ],
+  "subscribe_num": 373,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 18713,
+          "chapter_title": "1话",
+          "updatetime": 1345521468,
+          "filesize": 2154908,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 16134594,
+        "uid": 108132996,
+        "content": "哇",
+        "createtime": 1558279570,
+        "nickname": "dmzj_108132996",
+        "avatar": "https://avatar.dmzj.com/22/13/221322e45ddb3fc25c2afc5a61ca14e3.png"
+      },
+      {
+        "comment_id": 11716119,
+        "uid": 108798201,
+        "content": "yom书店谁有",
+        "createtime": 1550663098,
+        "nickname": "dmzj_108798201",
+        "avatar": "https://avatar.dmzj.com/19/b2/19b265efc52e718bb4a98b42ce6f5d12.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

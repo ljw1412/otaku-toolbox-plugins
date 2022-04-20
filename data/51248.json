@@ -1,0 +1,137 @@
+{
+  "id": 51248,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方智灵奇传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/dfzlqz20191127.jpg",
+  "description": "用弹幕来战斗已经过时了?!在此之后,敏锐的推理才是最强的武器!",
+  "last_updatetime": 1588141231,
+  "last_update_chapter_name": "第二章 第01话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongfangzhilingqizhuan",
+  "hidden": 0,
+  "hot_num": 1357710,
+  "hit_num": 140057,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97012,
+  "types": [
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1879,
+      "tag_name": "ZUN"
+    },
+    {
+      "tag_id": 18355,
+      "tag_name": "银木犀"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 4900,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97012,
+          "chapter_title": "1话",
+          "updatetime": 1588141231,
+          "filesize": 3629116,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 96917,
+          "chapter_title": "4话",
+          "updatetime": 1587959016,
+          "filesize": 3196768,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 94579,
+          "chapter_title": "4.1话",
+          "updatetime": 1583804687,
+          "filesize": 3523273,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 94578,
+          "chapter_title": "3.2话",
+          "updatetime": 1583804557,
+          "filesize": 3355018,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 94577,
+          "chapter_title": "3.1话",
+          "updatetime": 1583804493,
+          "filesize": 2867844,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 94576,
+          "chapter_title": "2话",
+          "updatetime": 1583804444,
+          "filesize": 5014537,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 90651,
+          "chapter_title": "1话",
+          "updatetime": 1574845846,
+          "filesize": 8026370,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 440,
+    "latest_comment": [
+      {
+        "comment_id": 27095655,
+        "uid": 100980219,
+        "content": "我去，这就是传说中的志玲砌砖吗",
+        "createtime": 1588583343,
+        "nickname": "Doriki",
+        "avatar": "https://avatar.dmzj.com/f1/26/f12695663a0cf056839b0fbdcd8dea20.png"
+      },
+      {
+        "comment_id": 27093655,
+        "uid": 101936759,
+        "content": "志玲砌砖",
+        "createtime": 1588577004,
+        "nickname": "好人milkiway",
+        "avatar": "https://avatar.dmzj.com/35/31/353147d60cc8c943aeccf2e991c70f66.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

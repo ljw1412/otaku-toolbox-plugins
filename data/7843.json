@@ -1,0 +1,661 @@
+{
+  "id": 7843,
+  "islong": 2,
+  "direction": 2,
+  "title": "新52蝙蝠侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/bianfuxia20111010.jpg",
+  "description": "蝙蝠侠(Batman)是美国家喻户晓的漫画英雄，蝙蝠侠的创造灵感来自于佐罗和蝙蝠，一个是家喻户晓的大英雄，一个充满神秘感的生物，二者的完美结合便诞生了蝙蝠侠这个角色，在1939年一本叫“Detective Comics”的书里面，蝙蝠侠首度亮相，起初他与恶人交手曾经试过开枪杀人，但后来变成一个绝不杀生的的正义之士。同期的好多漫画都是讲一些超自然力量，而蝙蝠侠漫画就将超能力同侦探结合，利用智慧、科技去对付罪恶，这就是蝙蝠侠成为经典的原因。和“超人”一样，蝙蝠侠已经成为了著名的DC漫画公司旗下的经典人物之一，其设定在人气上完全可以与超人抗衡。",
+  "last_updatetime": 1466130927,
+  "last_update_chapter_name": "第52卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bianfuxianew52",
+  "hidden": 0,
+  "hot_num": 9427147,
+  "hit_num": 69327370,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 50468,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 40530,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50468,
+          "chapter_title": "52卷",
+          "updatetime": 1466130927,
+          "filesize": 3485617,
+          "chapter_order": 630
+        },
+        {
+          "chapter_id": 49433,
+          "chapter_title": "51卷",
+          "updatetime": 1464009578,
+          "filesize": 3725816,
+          "chapter_order": 620
+        },
+        {
+          "chapter_id": 48371,
+          "chapter_title": "50卷",
+          "updatetime": 1461147639,
+          "filesize": 6831951,
+          "chapter_order": 610
+        },
+        {
+          "chapter_id": 46939,
+          "chapter_title": "49卷",
+          "updatetime": 1457422627,
+          "filesize": 3896505,
+          "chapter_order": 600
+        },
+        {
+          "chapter_id": 45844,
+          "chapter_title": "48卷",
+          "updatetime": 1454413460,
+          "filesize": 3029206,
+          "chapter_order": 590
+        },
+        {
+          "chapter_id": 45092,
+          "chapter_title": "年刊4",
+          "updatetime": 1452671992,
+          "filesize": 4375245,
+          "chapter_order": 580
+        },
+        {
+          "chapter_id": 44637,
+          "chapter_title": "47卷",
+          "updatetime": 1451359930,
+          "filesize": 2818891,
+          "chapter_order": 570
+        },
+        {
+          "chapter_id": 43834,
+          "chapter_title": "46卷",
+          "updatetime": 1449116535,
+          "filesize": 2826028,
+          "chapter_order": 560
+        },
+        {
+          "chapter_id": 42996,
+          "chapter_title": "年刊3",
+          "updatetime": 1446803431,
+          "filesize": 4105231,
+          "chapter_order": 550
+        },
+        {
+          "chapter_id": 42296,
+          "chapter_title": "45话",
+          "updatetime": 1445754814,
+          "filesize": 3303097,
+          "chapter_order": 540
+        },
+        {
+          "chapter_id": 41592,
+          "chapter_title": "44卷",
+          "updatetime": 1443320705,
+          "filesize": 3982015,
+          "chapter_order": 530
+        },
+        {
+          "chapter_id": 41331,
+          "chapter_title": "43卷",
+          "updatetime": 1442369531,
+          "filesize": 2731442,
+          "chapter_order": 520
+        },
+        {
+          "chapter_id": 39258,
+          "chapter_title": "42卷",
+          "updatetime": 1437232404,
+          "filesize": 3082655,
+          "chapter_order": 510
+        },
+        {
+          "chapter_id": 38940,
+          "chapter_title": "41卷",
+          "updatetime": 1436509634,
+          "filesize": 3092850,
+          "chapter_order": 500
+        },
+        {
+          "chapter_id": 37904,
+          "chapter_title": "40卷",
+          "updatetime": 1433912030,
+          "filesize": 3471965,
+          "chapter_order": 490
+        },
+        {
+          "chapter_id": 35928,
+          "chapter_title": "39卷",
+          "updatetime": 1428557049,
+          "filesize": 3896849,
+          "chapter_order": 480
+        },
+        {
+          "chapter_id": 35632,
+          "chapter_title": "38卷",
+          "updatetime": 1427788207,
+          "filesize": 3518775,
+          "chapter_order": 470
+        },
+        {
+          "chapter_id": 34005,
+          "chapter_title": "37卷",
+          "updatetime": 1423053120,
+          "filesize": 4156187,
+          "chapter_order": 460
+        },
+        {
+          "chapter_id": 32947,
+          "chapter_title": "36卷",
+          "updatetime": 1419389591,
+          "filesize": 3430741,
+          "chapter_order": 450
+        },
+        {
+          "chapter_id": 31554,
+          "chapter_title": "未来末日01",
+          "updatetime": 1414294155,
+          "filesize": 2711935,
+          "chapter_order": 440
+        },
+        {
+          "chapter_id": 31457,
+          "chapter_title": "35卷",
+          "updatetime": 1413805103,
+          "filesize": 4968042,
+          "chapter_order": 430
+        },
+        {
+          "chapter_id": 30900,
+          "chapter_title": "34卷",
+          "updatetime": 1411007245,
+          "filesize": 3270849,
+          "chapter_order": 420
+        },
+        {
+          "chapter_id": 29689,
+          "chapter_title": "33卷",
+          "updatetime": 1408123394,
+          "filesize": 4346811,
+          "chapter_order": 410
+        },
+        {
+          "chapter_id": 29001,
+          "chapter_title": "32卷",
+          "updatetime": 1405261670,
+          "filesize": 2788855,
+          "chapter_order": 400
+        },
+        {
+          "chapter_id": 28675,
+          "chapter_title": "31卷",
+          "updatetime": 1402800676,
+          "filesize": 3055640,
+          "chapter_order": 390
+        },
+        {
+          "chapter_id": 27988,
+          "chapter_title": "30卷",
+          "updatetime": 1399043588,
+          "filesize": 3195153,
+          "chapter_order": 380
+        },
+        {
+          "chapter_id": 27285,
+          "chapter_title": "29卷",
+          "updatetime": 1395199396,
+          "filesize": 5551860,
+          "chapter_order": 370
+        },
+        {
+          "chapter_id": 26755,
+          "chapter_title": "28卷",
+          "updatetime": 1392460123,
+          "filesize": 2483621,
+          "chapter_order": 360
+        },
+        {
+          "chapter_id": 26784,
+          "chapter_title": "27卷",
+          "updatetime": 1392615892,
+          "filesize": 2900501,
+          "chapter_order": 351
+        },
+        {
+          "chapter_id": 26375,
+          "chapter_title": "26卷",
+          "updatetime": 1390411925,
+          "filesize": 3284137,
+          "chapter_order": 350
+        },
+        {
+          "chapter_id": 25171,
+          "chapter_title": "25卷",
+          "updatetime": 1387723980,
+          "filesize": 3626684,
+          "chapter_order": 340
+        },
+        {
+          "chapter_id": 24614,
+          "chapter_title": "24卷",
+          "updatetime": 1382016827,
+          "filesize": 6301155,
+          "chapter_order": 330
+        },
+        {
+          "chapter_id": 26921,
+          "chapter_title": "23.2卷",
+          "updatetime": 1393384577,
+          "filesize": 2250494,
+          "chapter_order": 321
+        },
+        {
+          "chapter_id": 24157,
+          "chapter_title": "23.1卷",
+          "updatetime": 1379295538,
+          "filesize": 3446481,
+          "chapter_order": 320
+        },
+        {
+          "chapter_id": 23839,
+          "chapter_title": "年刊2",
+          "updatetime": 1378035237,
+          "filesize": 4196274,
+          "chapter_order": 310
+        },
+        {
+          "chapter_id": 23582,
+          "chapter_title": "23卷",
+          "updatetime": 1376729806,
+          "filesize": 2559790,
+          "chapter_order": 300
+        },
+        {
+          "chapter_id": 22988,
+          "chapter_title": "22卷",
+          "updatetime": 1373558217,
+          "filesize": 2961646,
+          "chapter_order": 290
+        },
+        {
+          "chapter_id": 22617,
+          "chapter_title": "21卷",
+          "updatetime": 1371224355,
+          "filesize": 3556120,
+          "chapter_order": 280
+        },
+        {
+          "chapter_id": 27037,
+          "chapter_title": "20卷",
+          "updatetime": 1394004327,
+          "filesize": 4143884,
+          "chapter_order": 272
+        },
+        {
+          "chapter_id": 23669,
+          "chapter_title": "19卷",
+          "updatetime": 1377268906,
+          "filesize": 3546582,
+          "chapter_order": 271
+        },
+        {
+          "chapter_id": 21962,
+          "chapter_title": "支线蝙蝠女郎18",
+          "updatetime": 1368377757,
+          "filesize": 2924849,
+          "chapter_order": 270
+        },
+        {
+          "chapter_id": 21739,
+          "chapter_title": "18卷",
+          "updatetime": 1367052418,
+          "filesize": 3510716,
+          "chapter_order": 260
+        },
+        {
+          "chapter_id": 21769,
+          "chapter_title": "支线红头罩与法外者17",
+          "updatetime": 1367250495,
+          "filesize": 2879806,
+          "chapter_order": 251
+        },
+        {
+          "chapter_id": 21272,
+          "chapter_title": "支线蝙蝠女郎17",
+          "updatetime": 1364835876,
+          "filesize": 3174304,
+          "chapter_order": 250
+        },
+        {
+          "chapter_id": 21189,
+          "chapter_title": "17卷",
+          "updatetime": 1364015999,
+          "filesize": 3757323,
+          "chapter_order": 240
+        },
+        {
+          "chapter_id": 27094,
+          "chapter_title": "支线少年泰坦16",
+          "updatetime": 1394250085,
+          "filesize": 3170172,
+          "chapter_order": 198
+        },
+        {
+          "chapter_id": 27093,
+          "chapter_title": "支线红头罩与法外者16",
+          "updatetime": 1394250002,
+          "filesize": 2758185,
+          "chapter_order": 197
+        },
+        {
+          "chapter_id": 20762,
+          "chapter_title": "支线夜翼16",
+          "updatetime": 1361522383,
+          "filesize": 2797141,
+          "chapter_order": 196
+        },
+        {
+          "chapter_id": 27092,
+          "chapter_title": "支线猫女16",
+          "updatetime": 1394249912,
+          "filesize": 5067989,
+          "chapter_order": 195
+        },
+        {
+          "chapter_id": 27089,
+          "chapter_title": "支线侦探漫画16",
+          "updatetime": 1394249510,
+          "filesize": 3595033,
+          "chapter_order": 194
+        },
+        {
+          "chapter_id": 27088,
+          "chapter_title": "支线蝙蝠侠与罗宾16",
+          "updatetime": 1394249451,
+          "filesize": 2641437,
+          "chapter_order": 193
+        },
+        {
+          "chapter_id": 27091,
+          "chapter_title": "支线蝙蝠女郎16",
+          "updatetime": 1394249711,
+          "filesize": 3072332,
+          "chapter_order": 192
+        },
+        {
+          "chapter_id": 24473,
+          "chapter_title": "16卷",
+          "updatetime": 1381289667,
+          "filesize": 3566050,
+          "chapter_order": 191
+        },
+        {
+          "chapter_id": 27087,
+          "chapter_title": "支线少年泰坦15",
+          "updatetime": 1394249387,
+          "filesize": 3299907,
+          "chapter_order": 188
+        },
+        {
+          "chapter_id": 27086,
+          "chapter_title": "支线敢死队15",
+          "updatetime": 1394249313,
+          "filesize": 2702797,
+          "chapter_order": 187
+        },
+        {
+          "chapter_id": 20744,
+          "chapter_title": "支线红头罩与法外者15",
+          "updatetime": 1361364270,
+          "filesize": 2660135,
+          "chapter_order": 186
+        },
+        {
+          "chapter_id": 20297,
+          "chapter_title": "支线夜翼15",
+          "updatetime": 1357925575,
+          "filesize": 2880989,
+          "chapter_order": 185
+        },
+        {
+          "chapter_id": 27085,
+          "chapter_title": "支线猫女15",
+          "updatetime": 1394249248,
+          "filesize": 3849999,
+          "chapter_order": 183
+        },
+        {
+          "chapter_id": 27084,
+          "chapter_title": "支线侦探漫画15",
+          "updatetime": 1394249164,
+          "filesize": 3755176,
+          "chapter_order": 182
+        },
+        {
+          "chapter_id": 27083,
+          "chapter_title": "支线蝙蝠侠与罗宾15",
+          "updatetime": 1394248983,
+          "filesize": 2702650,
+          "chapter_order": 181
+        },
+        {
+          "chapter_id": 27090,
+          "chapter_title": "支线蝙蝠女郎15",
+          "updatetime": 1394249654,
+          "filesize": 3236058,
+          "chapter_order": 180
+        },
+        {
+          "chapter_id": 20233,
+          "chapter_title": "15卷",
+          "updatetime": 1357318545,
+          "filesize": 3237936,
+          "chapter_order": 179
+        },
+        {
+          "chapter_id": 27082,
+          "chapter_title": "支线敢死队14",
+          "updatetime": 1394248893,
+          "filesize": 2823858,
+          "chapter_order": 172
+        },
+        {
+          "chapter_id": 27081,
+          "chapter_title": "支线猫女14",
+          "updatetime": 1394248847,
+          "filesize": 2742456,
+          "chapter_order": 171
+        },
+        {
+          "chapter_id": 19926,
+          "chapter_title": "支线蝙蝠女郎14卷",
+          "updatetime": 1354614156,
+          "filesize": 3317422,
+          "chapter_order": 170
+        },
+        {
+          "chapter_id": 19866,
+          "chapter_title": "14卷",
+          "updatetime": 1354071503,
+          "filesize": 3675595,
+          "chapter_order": 160
+        },
+        {
+          "chapter_id": 27080,
+          "chapter_title": "支线猫女13",
+          "updatetime": 1394248763,
+          "filesize": 3579755,
+          "chapter_order": 151
+        },
+        {
+          "chapter_id": 19793,
+          "chapter_title": "支线蝙蝠女郎13",
+          "updatetime": 1353325138,
+          "filesize": 3638554,
+          "chapter_order": 150
+        },
+        {
+          "chapter_id": 19685,
+          "chapter_title": "13卷",
+          "updatetime": 1352456707,
+          "filesize": 5847418,
+          "chapter_order": 140
+        },
+        {
+          "chapter_id": 19021,
+          "chapter_title": "12卷",
+          "updatetime": 1346558505,
+          "filesize": 4699275,
+          "chapter_order": 130
+        },
+        {
+          "chapter_id": 18793,
+          "chapter_title": "11卷",
+          "updatetime": 1344938606,
+          "filesize": 4422398,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 18384,
+          "chapter_title": "10卷",
+          "updatetime": 1341555432,
+          "filesize": 3976514,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 18270,
+          "chapter_title": "急冻人之痛第01卷",
+          "updatetime": 1340596356,
+          "filesize": 5124672,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 17912,
+          "chapter_title": "9卷",
+          "updatetime": 1337580449,
+          "filesize": 3563310,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 17722,
+          "chapter_title": "8卷",
+          "updatetime": 1335625335,
+          "filesize": 3884572,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 17512,
+          "chapter_title": "7卷",
+          "updatetime": 1333885329,
+          "filesize": 2147854,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 17245,
+          "chapter_title": "6卷",
+          "updatetime": 1331358106,
+          "filesize": 3887209,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 16879,
+          "chapter_title": "5卷",
+          "updatetime": 1328983923,
+          "filesize": 3595702,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 16681,
+          "chapter_title": "4卷",
+          "updatetime": 1327078087,
+          "filesize": 2485628,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 16480,
+          "chapter_title": "3卷",
+          "updatetime": 1325233977,
+          "filesize": 2205899,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 16354,
+          "chapter_title": "2卷",
+          "updatetime": 1324091813,
+          "filesize": 2928960,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 15789,
+          "chapter_title": "1卷",
+          "updatetime": 1318234318,
+          "filesize": 3503900,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 27035,
+          "chapter_title": "0卷",
+          "updatetime": 1394003990,
+          "filesize": 4368568,
+          "chapter_order": 0
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 625,
+    "latest_comment": [
+      {
+        "comment_id": 27092923,
+        "uid": 110639943,
+        "content": "请问《蝙蝠侠：终局》是哪刊第几话到第几话？",
+        "createtime": 1588574839,
+        "nickname": "webhead",
+        "avatar": "https://avatar.dmzj.com/49/54/495421a5de99c1faca006b820a0049bf.png"
+      },
+      {
+        "comment_id": 26964883,
+        "uid": 110552153,
+        "content": "蝙蝠侠的新刊在哪看啊",
+        "createtime": 1588183586,
+        "nickname": "dmzj_110552153",
+        "avatar": "https://avatar.dmzj.com/a5/1d/a51d0c4be157f85311b93b567a41eed8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

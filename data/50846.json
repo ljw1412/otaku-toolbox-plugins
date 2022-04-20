@@ -1,0 +1,91 @@
+{
+  "id": 50846,
+  "islong": 2,
+  "direction": 1,
+  "title": "REINCARNATION",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/REINCARNATION20191029.jpg",
+  "description": "拥有神秘力量的眼镜,戴上后到底能看到什么呢?",
+  "last_updatetime": 1572313975,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "reincarnation",
+  "hidden": 0,
+  "hot_num": 32888,
+  "hit_num": 5765,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94306,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18165,
+      "tag_name": "のり"
+    }
+  ],
+  "subscribe_num": 153,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94306,
+          "chapter_title": "1话",
+          "updatetime": 1572313975,
+          "filesize": 5348959,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 21941115,
+        "uid": 107178959,
+        "content": "不敢()同。。。",
+        "createtime": 1572970583,
+        "nickname": "dmzj_107178959",
+        "avatar": "https://avatar.dmzj.com/66/98/6698d8c64b7511ca7b8aa29117ea5271.png"
+      },
+      {
+        "comment_id": 21838362,
+        "uid": 105984157,
+        "content": "眼镜，寿命……",
+        "createtime": 1572655240,
+        "nickname": "平板_垫脑",
+        "avatar": "https://avatar.dmzj.com/63/53/63534e712900356d79397a003e655f04.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

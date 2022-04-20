@@ -1,0 +1,87 @@
+{
+  "id": 9115,
+  "islong": 2,
+  "direction": 1,
+  "title": "我是",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/woshi.jpg",
+  "description": "中学的时候我去了村里举行的照片展.....",
+  "last_updatetime": 1342596331,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "woshi",
+  "hidden": 0,
+  "hot_num": 222196,
+  "hit_num": 649460,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 19399,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 651,
+      "tag_name": "藤原可可亚(藤原ここあ)"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2817,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19399,
+          "chapter_title": "1话",
+          "updatetime": 1342596331,
+          "filesize": 3541183,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 25616472,
+        "uid": 109543201,
+        "content": "我应该说什么呢，虽然说要说很多话，但是实际上我也不知道说什么，那么干脆随便扯扯吧，但是扯什么好呢也是个问题，总之先试着讲两句吧，啊，好像已经说了很多了呢，原来我还是很能扯的嘛，但是似乎字数也够了呢，那么干脆就这样吧，嗯，就这样吧",
+        "createtime": 1584988972,
+        "nickname": "dmzj_109543201",
+        "avatar": "https://avatar.dmzj.com/e1/1d/e11d451771ca8095e992af92463801a4.png"
+      },
+      {
+        "comment_id": 24928865,
+        "uid": 104275633,
+        "content": "好温柔哦……",
+        "createtime": 1583433189,
+        "nickname": "ou9black",
+        "avatar": "https://avatar.dmzj.com/17/9b/179b282a78ee9b807ac2058b6dbd6deb.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

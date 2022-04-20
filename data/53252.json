@@ -1,0 +1,104 @@
+{
+  "id": 53252,
+  "islong": 2,
+  "direction": 2,
+  "title": "西游记开花版",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1086914821585219014.jpg",
+  "description": "西游记开花版",
+  "last_updatetime": 1587467257,
+  "last_update_chapter_name": "第02话",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiyoujikaihuaban",
+  "hidden": 0,
+  "hot_num": 57194,
+  "hit_num": 20161,
+  "uid": 108691482,
+  "is_lock": 0,
+  "last_update_chapter_id": 100459,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16483,
+      "tag_name": "神奇大虾"
+    }
+  ],
+  "subscribe_num": 244,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100459,
+          "chapter_title": "2话",
+          "updatetime": 1587467257,
+          "filesize": 5766790,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 99283,
+          "chapter_title": "1话",
+          "updatetime": 1585219099,
+          "filesize": 6232970,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 45,
+    "latest_comment": [
+      {
+        "comment_id": 26821968,
+        "uid": 105924487,
+        "content": "十分草",
+        "createtime": 1587800466,
+        "nickname": "dmzj_105924487",
+        "avatar": "https://avatar.dmzj.com/fe/18/fe18255d5bef7d4b7b91a4a5b9576e1a.png"
+      },
+      {
+        "comment_id": 26771896,
+        "uid": 109749369,
+        "content": "有当初u17上大学生丧尸生存手册 潘师傅的那个感觉",
+        "createtime": 1587659977,
+        "nickname": "dmzj_109749369",
+        "avatar": "https://avatar.dmzj.com/bd/da/bdda2a68b14b8dd9e5120cc9175c8674.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

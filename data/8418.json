@@ -1,0 +1,87 @@
+{
+  "id": 8418,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠：魅影之惑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/batmanmeiying.jpg",
+  "description": "仿照《歌剧魅影》来设定的故事情节，很古早的作品 。",
+  "last_updatetime": 1330919057,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bianfuxiameiying",
+  "hidden": 0,
+  "hot_num": 1893493,
+  "hit_num": 227732,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 17196,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 8682,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 17196,
+          "chapter_title": "1卷",
+          "updatetime": 1330919057,
+          "filesize": 8407185,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 24523433,
+        "uid": 110421734,
+        "content": "那时候有新浪微博？",
+        "createtime": 1582626763,
+        "nickname": "dmzj_110421734",
+        "avatar": "https://avatar.dmzj.com/59/f8/59f853444b818170971c22a23d6720a0.png"
+      },
+      {
+        "comment_id": 20521650,
+        "uid": 109740412,
+        "content": "emm这是... 蝙蝠侠歌剧魅影au的同人？",
+        "createtime": 1569129599,
+        "nickname": "Ming-Collin",
+        "avatar": "https://avatar.dmzj.com/97/5e/975e8d420484e360ff9465e9492f5101.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

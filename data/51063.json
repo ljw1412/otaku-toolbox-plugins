@@ -1,0 +1,87 @@
+{
+  "id": 51063,
+  "islong": 2,
+  "direction": 1,
+  "title": "桜野いつき百合短篇集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/wnsbha1212.jpg",
+  "description": "甜甜的百合短篇集",
+  "last_updatetime": 1573700174,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yingyeikibaiheduanpianji",
+  "hidden": 0,
+  "hot_num": 2047202,
+  "hit_num": 36704,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90245,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18258,
+      "tag_name": "桜野いつき"
+    }
+  ],
+  "subscribe_num": 8353,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90245,
+          "chapter_title": "1话",
+          "updatetime": 1573700174,
+          "filesize": 607545,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 120,
+    "latest_comment": [
+      {
+        "comment_id": 27090981,
+        "uid": 104856390,
+        "content": "百合35",
+        "createtime": 1588569102,
+        "nickname": "楼兰",
+        "avatar": "https://avatar.dmzj.com/ab/2d/ab2deb88536759a621fee5274a94e6be.png"
+      },
+      {
+        "comment_id": 27010589,
+        "uid": 109642192,
+        "content": "太妙了，可惜啊只有这么一点。留下痕迹",
+        "createtime": 1588341446,
+        "nickname": "SSY吉樱",
+        "avatar": "https://avatar.dmzj.com/97/17/971720afdd89179d396586ae44e4f8b8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

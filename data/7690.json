@@ -1,0 +1,98 @@
+{
+  "id": 7690,
+  "islong": 2,
+  "direction": 1,
+  "title": "OMEGA7",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/omega7.jpg",
+  "description": "處於泡沫經濟崩潰時代的日本， \n有一群負債無力償還的前自衛隊隊員， \n簽下了加入極機密特種部隊「奧美加」的賣身契",
+  "last_updatetime": 1314607210,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "o",
+  "comic_py": "omega7",
+  "hidden": 1,
+  "hot_num": 33670,
+  "hit_num": 2244404,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 16267,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1688,
+      "tag_name": "小林源文"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 222,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 16267,
+          "chapter_title": "2卷",
+          "updatetime": 1314607210,
+          "filesize": 21147381,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 16266,
+          "chapter_title": "1卷",
+          "updatetime": 1314605883,
+          "filesize": 21920309,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 31,
+    "latest_comment": [
+      {
+        "comment_id": 24610789,
+        "uid": 108644647,
+        "content": "12345",
+        "createtime": 1582840704,
+        "nickname": "恶魔猎手dh",
+        "avatar": "https://avatar.dmzj.com/24/91/249127db82fcc13a58aa1fb5d79ab2c7.png"
+      },
+      {
+        "comment_id": 24523260,
+        "uid": 105024806,
+        "content": "阿",
+        "createtime": 1582626212,
+        "nickname": "qzuser40271521",
+        "avatar": "https://avatar.dmzj.com/e4/2d/e42d8b68f8cb770d20ff15580693b207.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

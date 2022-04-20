@@ -1,0 +1,87 @@
+{
+  "id": 53776,
+  "islong": 2,
+  "direction": 1,
+  "title": "公主连接：贪吃佩可",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/200420gzljtcpk.jpg",
+  "description": "吃货公主的贪吃日常",
+  "last_updatetime": 1587379313,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gongzhulianjietanchipeike",
+  "hidden": 0,
+  "hot_num": 139303,
+  "hit_num": 21207,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 102287,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 608,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102287,
+          "chapter_title": "1话",
+          "updatetime": 1587379313,
+          "filesize": 2591100,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 91,
+    "latest_comment": [
+      {
+        "comment_id": 27048013,
+        "uid": 110058153,
+        "content": "这也确实像吃货会做的事呢",
+        "createtime": 1588438647,
+        "nickname": "dmzj_110058153",
+        "avatar": "https://avatar.dmzj.com/3f/54/3f5421312591f87125fbfcb8c752c54d.png"
+      },
+      {
+        "comment_id": 26999491,
+        "uid": 102384078,
+        "content": "反向丸吞过于致命",
+        "createtime": 1588308124,
+        "nickname": "磁暴蚂蚁",
+        "avatar": "https://avatar.dmzj.com/77/31/773197ca91bf736e5c8b02f17856269a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

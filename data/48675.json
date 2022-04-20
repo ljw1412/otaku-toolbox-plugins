@@ -1,0 +1,108 @@
+{
+  "id": 48675,
+  "islong": 2,
+  "direction": 1,
+  "title": "Miku的故事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/miku201905311.jpg",
+  "description": "日本画师白雪とわ在推特持续连载的超感动miku同人漫画 汉化已获授权 推特：https://twitter.com/ShirayukiTowa P站：https://www.pixiv.net/member.php？",
+  "last_updatetime": 1561186632,
+  "last_update_chapter_name": "第04章：miku和琴叶酱的故事",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mikudegushi",
+  "hidden": 0,
+  "hot_num": 1170446,
+  "hit_num": 7666,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90541,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17139,
+      "tag_name": "白雪とわ"
+    }
+  ],
+  "subscribe_num": 5709,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90541,
+          "chapter_title": "4话",
+          "updatetime": 1561186632,
+          "filesize": 1264181,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 90048,
+          "chapter_title": "3话",
+          "updatetime": 1559631287,
+          "filesize": 981359,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 90047,
+          "chapter_title": "2话",
+          "updatetime": 1559631267,
+          "filesize": 756737,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 89952,
+          "chapter_title": "1话",
+          "updatetime": 1559304938,
+          "filesize": 1722243,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 307,
+    "latest_comment": [
+      {
+        "comment_id": 26630183,
+        "uid": 104364175,
+        "content": "B站上看的，这竟然也有。。。",
+        "createtime": 1587286533,
+        "nickname": "骷髅王113",
+        "avatar": "https://avatar.dmzj.com/35/75/3575cebfb278faaa2adfcc82731669f2.png"
+      },
+      {
+        "comment_id": 26630005,
+        "uid": 110785421,
+        "content": "........",
+        "createtime": 1587285967,
+        "nickname": "dmzj_110785421",
+        "avatar": "https://avatar.dmzj.com/45/2e/452e3977349f237d12d8b0310d828bbd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

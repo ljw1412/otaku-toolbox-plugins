@@ -1,0 +1,91 @@
+{
+  "id": 6576,
+  "islong": 2,
+  "direction": 1,
+  "title": "萌战食堂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/01_e9d87c4b702a52eb738c92e8822baa82.jpg",
+  "description": "有着超萌的板娘的食堂，简直就是小院里的天堂",
+  "last_updatetime": 1288087369,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mengzhanshitang",
+  "hidden": 0,
+  "hot_num": 9707,
+  "hit_num": 50470,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 11663,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3542,
+      "tag_name": "五十岚七海"
+    }
+  ],
+  "subscribe_num": 44,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 11663,
+          "chapter_title": "1卷",
+          "updatetime": 1288692169,
+          "filesize": 881095,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 18868216,
+        "uid": 107978393,
+        "content": "，，热热，没买。kmor\n，",
+        "createtime": 1564633072,
+        "nickname": "某个阿姆斯特lang炮",
+        "avatar": "https://avatar.dmzj.com/6e/e7/6ee701dff94adea68b94848378ccd77d.png"
+      },
+      {
+        "comment_id": 3972125,
+        "uid": 100677288,
+        "content": "8年深坑",
+        "createtime": 1519703454,
+        "nickname": "Zaffiro",
+        "avatar": "https://avatar.dmzj.com/74/40/74400b16eb6834c40dde23e64caa708c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

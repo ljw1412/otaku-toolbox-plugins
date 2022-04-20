@@ -1,0 +1,95 @@
+{
+  "id": 53738,
+  "islong": 2,
+  "direction": 1,
+  "title": "未来color",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/200418wlc.jpg",
+  "description": "少女们所编织的、有些不可思议的故事。",
+  "last_updatetime": 1587225528,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "weilaicolor",
+  "hidden": 0,
+  "hot_num": 220824,
+  "hit_num": 12038,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96536,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19608,
+      "tag_name": "0Kp4r"
+    }
+  ],
+  "subscribe_num": 1069,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96536,
+          "chapter_title": "1话",
+          "updatetime": 1587225528,
+          "filesize": 1421288,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 26635447,
+        "uid": 104809830,
+        "content": "有以前那种老四格的感觉了",
+        "createtime": 1587301449,
+        "nickname": "幻想之上",
+        "avatar": "https://avatar.dmzj.com/2f/d1/2fd1bda6580591e71d6cecdd114c48ce.png"
+      },
+      {
+        "comment_id": 26628962,
+        "uid": 101634893,
+        "content": "爆裂吧，现实！粉碎吧，精神！放逐这个世界！",
+        "createtime": 1587282738,
+        "nickname": "追番姬",
+        "avatar": "https://avatar.dmzj.com/53/15/5315e7d478b67063afc8c720fa2654fb.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

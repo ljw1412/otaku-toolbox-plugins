@@ -1,0 +1,101 @@
+{
+  "id": 7545,
+  "islong": 2,
+  "direction": 2,
+  "title": "闪点 哈尔乔丹",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/shandianheqd.jpg",
+  "description": "这次哈尔还是在结尾碰到了阿宾...制服还是电影版啊啊... \n",
+  "last_updatetime": 1316424203,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shandianheqd",
+  "hidden": 0,
+  "hot_num": 1914856,
+  "hit_num": 214341,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 16480,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 8940,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 16480,
+          "chapter_title": "3卷",
+          "updatetime": 1316424203,
+          "filesize": 2251111,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 16044,
+          "chapter_title": "2卷",
+          "updatetime": 1312853005,
+          "filesize": 2030881,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 15822,
+          "chapter_title": "1卷",
+          "updatetime": 1310978939,
+          "filesize": 2283688,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 23846176,
+        "uid": 110320945,
+        "content": "哈尔真就是我心头好……头一次这么喜欢一个角色",
+        "createtime": 1580997071,
+        "nickname": "dmzj_110320945",
+        "avatar": "https://avatar.dmzj.com/a8/dc/a8dc8ff802e95e4928ad6fb80db01a35.png"
+      },
+      {
+        "comment_id": 22330868,
+        "uid": 108828920,
+        "content": "绿灯长明，永放光芒！",
+        "createtime": 1574778053,
+        "nickname": "电子龙次代星",
+        "avatar": "https://avatar.dmzj.com/96/41/964138afb329253ba03f014cd22f4aab.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

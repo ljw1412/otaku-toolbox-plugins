@@ -1,0 +1,115 @@
+{
+  "id": 6187,
+  "islong": 2,
+  "direction": 1,
+  "title": "恶棍老大",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/egld0907vv.jpg",
+  "description": "被称为日本英雄本色的漫画，弹丸！一个亦正亦邪的男人的冒险故事！",
+  "last_updatetime": 1536319810,
+  "last_update_chapter_name": "VOL05",
+  "copyright": 0,
+  "first_letter": "e",
+  "comic_py": "egunlaoda",
+  "hidden": 0,
+  "hot_num": 153060,
+  "hit_num": 2049021,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12836,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1261,
+      "tag_name": "猿渡哲也"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 716,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12836,
+          "chapter_title": "5卷",
+          "updatetime": 1536319810,
+          "filesize": 55691030,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 12835,
+          "chapter_title": "4卷",
+          "updatetime": 1536318128,
+          "filesize": 49754725,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 12834,
+          "chapter_title": "3卷",
+          "updatetime": 1536318416,
+          "filesize": 50841494,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 12833,
+          "chapter_title": "2卷",
+          "updatetime": 1536319626,
+          "filesize": 42521994,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 12832,
+          "chapter_title": "1卷",
+          "updatetime": 1536319353,
+          "filesize": 43360543,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 22978318,
+        "uid": 108791500,
+        "content": "再来亿遍",
+        "createtime": 1577798544,
+        "nickname": "凌木空",
+        "avatar": "https://avatar.dmzj.com/64/10/6410e4d73e9a9a8fe6b23842b22a5ba5.png"
+      },
+      {
+        "comment_id": 21381996,
+        "uid": 105922007,
+        "content": "评论保护",
+        "createtime": 1571241258,
+        "nickname": "正义的朋友R",
+        "avatar": "https://avatar.dmzj.com/1d/ec/1decf4b5dd04739426c3162e0c8b9360.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

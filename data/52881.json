@@ -1,0 +1,87 @@
+{
+  "id": 52881,
+  "islong": 2,
+  "direction": 1,
+  "title": "完美无暇十七驱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/200310wmwxsqq.jpg",
+  "description": "十七驱的几位都改造后所发生的故事",
+  "last_updatetime": 1583820706,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wanmeiwuxiashiqiqu",
+  "hidden": 0,
+  "hot_num": 62558,
+  "hit_num": 8223,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100231,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3174,
+      "tag_name": "オダワラハコネ"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "subscribe_num": 289,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100231,
+          "chapter_title": "1话",
+          "updatetime": 1583820706,
+          "filesize": 4160949,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 25125131,
+        "uid": 108875963,
+        "content": "？",
+        "createtime": 1583866414,
+        "nickname": "dmzj_108875963",
+        "avatar": "https://avatar.dmzj.com/93/9f/939f92de056e0db66d086a1a96b461b6.png"
+      },
+      {
+        "comment_id": 25115821,
+        "uid": 101263303,
+        "content": "十七驱三人组太可爱了",
+        "createtime": 1583854240,
+        "nickname": "伊库塔亚",
+        "avatar": "https://avatar.dmzj.com/58/12/581253ae8ecb5867bfdce6784bede263.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

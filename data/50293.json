@@ -1,0 +1,87 @@
+{
+  "id": 50293,
+  "islong": 2,
+  "direction": 1,
+  "title": "新秋猫猫秀",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/xqmmx20190925.jpg",
+  "description": "与新来的猫抢夺地盘??",
+  "last_updatetime": 1569380486,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xinqiumaomaoxiu",
+  "hidden": 0,
+  "hot_num": 52388,
+  "hit_num": 10445,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 88596,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15494,
+      "tag_name": "YU"
+    }
+  ],
+  "subscribe_num": 221,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88596,
+          "chapter_title": "1话",
+          "updatetime": 1569380486,
+          "filesize": 6216271,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 20615801,
+        "uid": 153597,
+        "content": "受兔你可是月战老兵....",
+        "createtime": 1569412388,
+        "nickname": "syuusaku",
+        "avatar": "https://avatar.dmzj.com/58/b3/58b39e493c4107e9949c4f4c1984a878.png"
+      },
+      {
+        "comment_id": 20608974,
+        "uid": 104221265,
+        "content": "喵喵秀",
+        "createtime": 1569392117,
+        "nickname": "火焰猫~燐",
+        "avatar": "https://avatar.dmzj.com/12/37/1237e308e078d76008ef08a2064a55c6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

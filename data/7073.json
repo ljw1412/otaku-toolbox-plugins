@@ -1,0 +1,101 @@
+{
+  "id": 7073,
+  "islong": 2,
+  "direction": 1,
+  "title": "老夫子之水虎传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/lfzshz20191027.jpg",
+  "description": "曾经风靡一时的超搞笑的香港漫画！\n",
+  "last_updatetime": 1572165923,
+  "last_update_chapter_name": "下篇",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lfzzshz",
+  "hidden": 1,
+  "hot_num": 125558,
+  "hit_num": 485680,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 89658,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2879,
+      "tag_name": "王泽"
+    }
+  ],
+  "subscribe_num": 562,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89658,
+          "chapter_title": "3卷",
+          "updatetime": 1572165923,
+          "filesize": 28523867,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 89657,
+          "chapter_title": "2卷",
+          "updatetime": 1572165855,
+          "filesize": 26824221,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 89656,
+          "chapter_title": "1卷",
+          "updatetime": 1572165810,
+          "filesize": 25050261,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 51,
+    "latest_comment": [
+      {
+        "comment_id": 26866949,
+        "uid": 100527860,
+        "content": "6666",
+        "createtime": 1587915422,
+        "nickname": "落日ロマンス",
+        "avatar": "https://avatar.dmzj.com/77/51/7751232b826c9fd0f34c0181179de8c1.png"
+      },
+      {
+        "comment_id": 26232746,
+        "uid": 106223669,
+        "content": "都是好漫画",
+        "createtime": 1586352874,
+        "nickname": "弗里德",
+        "avatar": "https://avatar.dmzj.com/30/25/30252eef46c94734fa6a125310952b20.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

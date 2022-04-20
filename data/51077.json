@@ -1,0 +1,87 @@
+{
+  "id": 51077,
+  "islong": 2,
+  "direction": 1,
+  "title": "Missing of Red",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/191115missingofred.jpg",
+  "description": "你要去哪里呢？\n丢下我一个人——",
+  "last_updatetime": 1573782380,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "missingofred",
+  "hidden": 0,
+  "hot_num": 63906,
+  "hit_num": 7930,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94257,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15438,
+      "tag_name": "ほのかん"
+    }
+  ],
+  "subscribe_num": 290,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94257,
+          "chapter_title": "1话",
+          "updatetime": 1573782380,
+          "filesize": 5491070,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 25105476,
+        "uid": 100523603,
+        "content": "最后的车开得太好了，我没了",
+        "createtime": 1583836683,
+        "nickname": "LSAN",
+        "avatar": "https://avatar.dmzj.com/19/90/19906b3b982027f09c15c8ad3ed33c0d.png"
+      },
+      {
+        "comment_id": 22334398,
+        "uid": 107728305,
+        "content": "蕾米在模拟灵梦去世后的场景？",
+        "createtime": 1574786527,
+        "nickname": "天生我材2015",
+        "avatar": "https://avatar.dmzj.com/82/89/828963ac0b51747ddd09b6f6871b4382.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

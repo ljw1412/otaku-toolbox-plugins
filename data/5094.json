@@ -1,0 +1,98 @@
+{
+  "id": 5094,
+  "islong": 2,
+  "direction": 1,
+  "title": "Life Error死亡任务",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/le01s_4cf4bbdf3022e97763283f940f7ca06b.jpg",
+  "description": "人机作者另一作品",
+  "last_updatetime": 1280902347,
+  "last_update_chapter_name": "Life Error 死亡任务VOL2",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lifeerror",
+  "hidden": 0,
+  "hot_num": 71529,
+  "hit_num": 771513,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 10405,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1229,
+      "tag_name": "纲岛志朗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 322,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10405,
+          "chapter_title": "2卷",
+          "updatetime": 1281507185,
+          "filesize": 16443764,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 10404,
+          "chapter_title": "1卷",
+          "updatetime": 1281507181,
+          "filesize": 17409364,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 26671274,
+        "uid": 105147690,
+        "content": "没人",
+        "createtime": 1587394942,
+        "nickname": "沉默的黑曜石",
+        "avatar": "https://avatar.dmzj.com/16/48/164891fb0a25b8c7c42bf9d81b45e42f.png"
+      },
+      {
+        "comment_id": 25244926,
+        "uid": 105218845,
+        "content": "纲岛画的女性还是一绝",
+        "createtime": 1584168576,
+        "nickname": "綾波 レイ",
+        "avatar": "https://avatar.dmzj.com/6c/97/6c97aaae119101ba43696f27e5b0beaf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

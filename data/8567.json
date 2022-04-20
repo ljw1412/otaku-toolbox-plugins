@@ -1,0 +1,112 @@
+{
+  "id": 8567,
+  "islong": 2,
+  "direction": 1,
+  "title": "猎巫神影",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/liewushenying20120402.jpg",
+  "description": "当兄控杀人魔女妹妹遇上恋妹猎巫士哥哥，一座一座的城市就不停的开始被炸飞……",
+  "last_updatetime": 1370237598,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "liewushenying",
+  "hidden": 0,
+  "hot_num": 38958,
+  "hit_num": 1967127,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24662,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4527,
+      "tag_name": "赵廷晚"
+    }
+  ],
+  "subscribe_num": 203,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19247,
+          "chapter_title": "4卷",
+          "updatetime": 1333300686,
+          "filesize": 23591316,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 24662,
+          "chapter_title": "3卷",
+          "updatetime": 1370237598,
+          "filesize": 13504735,
+          "chapter_order": 12
+        },
+        {
+          "chapter_id": 24661,
+          "chapter_title": "2卷",
+          "updatetime": 1370237569,
+          "filesize": 12855075,
+          "chapter_order": 11
+        },
+        {
+          "chapter_id": 19245,
+          "chapter_title": "1卷",
+          "updatetime": 1333300664,
+          "filesize": 19784745,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 26042758,
+        "uid": 108176131,
+        "content": "康康",
+        "createtime": 1585969725,
+        "nickname": "dmzj_108176131",
+        "avatar": "https://avatar.dmzj.com/12/16/1216d6a92bf464fc5ce0350bd4be30fd.png"
+      },
+      {
+        "comment_id": 13199680,
+        "uid": 108804453,
+        "content": "1",
+        "createtime": 1553087114,
+        "nickname": "希伯特－让－昂热",
+        "avatar": "https://avatar.dmzj.com/e2/c4/e2c4f991491954aa5926aee334eccc7a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

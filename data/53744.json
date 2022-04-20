@@ -1,0 +1,87 @@
+{
+  "id": 53744,
+  "islong": 2,
+  "direction": 1,
+  "title": "大正野兽附身记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/dazhenyeshoufushengji.jpg",
+  "description": "人类被野兽附身的故事",
+  "last_updatetime": 1587276776,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dazhengyeshoufushengji",
+  "hidden": 0,
+  "hot_num": 155112,
+  "hit_num": 56285,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96953,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19611,
+      "tag_name": "robo"
+    }
+  ],
+  "subscribe_num": 728,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96953,
+          "chapter_title": "1话",
+          "updatetime": 1587276776,
+          "filesize": 2166902,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 35,
+    "latest_comment": [
+      {
+        "comment_id": 27071423,
+        "uid": 107780491,
+        "content": "希望能长连载",
+        "createtime": 1588512894,
+        "nickname": "洋葱碎叶",
+        "avatar": "https://avatar.dmzj.com/fb/cd/fbcdbe188dd4a4bd4d47a62e73fa69ae.png"
+      },
+      {
+        "comment_id": 26651761,
+        "uid": 103201043,
+        "content": "毛绒绒啊啊啊啊",
+        "createtime": 1587345160,
+        "nickname": "猫宁子",
+        "avatar": "https://avatar.dmzj.com/59/14/5914cb9ccde2d9fe0a3c82240233c9d9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

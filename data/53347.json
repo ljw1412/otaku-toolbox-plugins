@@ -1,0 +1,87 @@
+{
+  "id": 53347,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔馆女仆",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/mgnp2020331.jpg",
+  "description": "幻想乡的日常。",
+  "last_updatetime": 1585621469,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "moguannvpu",
+  "hidden": 0,
+  "hot_num": 38854,
+  "hit_num": 7953,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99464,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11017,
+      "tag_name": "菊一文字"
+    }
+  ],
+  "subscribe_num": 157,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99464,
+          "chapter_title": "1话",
+          "updatetime": 1585621469,
+          "filesize": 6553841,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 25923494,
+        "uid": 107032626,
+        "content": "即使爆不了你的头！",
+        "createtime": 1585719109,
+        "nickname": "君无嬉颜",
+        "avatar": "https://avatar.dmzj.com/d3/af/d3afed6d0c9823b6c7a3a2fabd276a73.png"
+      },
+      {
+        "comment_id": 25891861,
+        "uid": 110640371,
+        "content": "又是恶搞Commando, 日本是有多爱州长啊",
+        "createtime": 1585646554,
+        "nickname": "dmzj_110640371",
+        "avatar": "https://avatar.dmzj.com/a8/bd/a8bd1f8338154c92a36484e262507c93.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 48801,
+  "islong": 2,
+  "direction": 1,
+  "title": "作家与猫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/zjm20190612.jpg",
+  "description": "夏目漱石与猫的故事",
+  "last_updatetime": 1560328270,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zuojiayumao",
+  "hidden": 0,
+  "hot_num": 510738,
+  "hit_num": 913,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 89304,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17201,
+      "tag_name": "寺岛らて"
+    }
+  ],
+  "subscribe_num": 2596,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89304,
+          "chapter_title": "1话",
+          "updatetime": 1560328270,
+          "filesize": 791482,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 50,
+    "latest_comment": [
+      {
+        "comment_id": 18503841,
+        "uid": 107506359,
+        "content": "太太好可爱hhh",
+        "createtime": 1563764132,
+        "nickname": "ealka",
+        "avatar": "https://avatar.dmzj.com/40/c1/40c1def2253529b101f683615ace0498.png"
+      },
+      {
+        "comment_id": 18431979,
+        "uid": 100681205,
+        "content": "太短了",
+        "createtime": 1563587807,
+        "nickname": "人比狗多",
+        "avatar": "https://avatar.dmzj.com/84/52/8452d14d04dfb0bdf3621d0230c131ee.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

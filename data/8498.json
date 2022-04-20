@@ -1,0 +1,115 @@
+{
+  "id": 8498,
+  "islong": 2,
+  "direction": 1,
+  "title": "飙",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/biaozi.jpg",
+  "description": "海洋二号的最新作品，讲赛车比赛的漫画。",
+  "last_updatetime": 1333962298,
+  "last_update_chapter_name": "第05卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "biao",
+  "hidden": 1,
+  "hot_num": 3769,
+  "hit_num": 114622,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 17524,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1484,
+      "tag_name": "海洋二号"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 11,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 17524,
+          "chapter_title": "5卷",
+          "updatetime": 1333962298,
+          "filesize": 7600230,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 17465,
+          "chapter_title": "4卷",
+          "updatetime": 1333427152,
+          "filesize": 6800435,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 17398,
+          "chapter_title": "3卷",
+          "updatetime": 1332737436,
+          "filesize": 6473733,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 17351,
+          "chapter_title": "2卷",
+          "updatetime": 1332141897,
+          "filesize": 6843719,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 17350,
+          "chapter_title": "1卷",
+          "updatetime": 1332141431,
+          "filesize": 7435435,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 51713,
+        "uid": 1633835,
+        "content": "肥良老了啊老了",
+        "createtime": 1332162913,
+        "nickname": "xman2003",
+        "avatar": "https://avatar.dmzj.com/b6/f6/b6f613be23818d5e0cca648632e08319.png"
+      },
+      {
+        "comment_id": 51708,
+        "uid": 12667826,
+        "content": "嘛，没兴趣。",
+        "createtime": 1332161349,
+        "nickname": "MoSer97",
+        "avatar": "https://avatar.dmzj.com/13/c7/13c7f4cccf872efbac4ad629963bc006.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

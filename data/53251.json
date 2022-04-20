@@ -1,0 +1,93 @@
+{
+  "id": 53251,
+  "islong": 2,
+  "direction": 2,
+  "title": "红魔馆听雨录",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1051256991584018865.jpg",
+  "description": "東方红魔乡之前的故事",
+  "last_updatetime": 1584019077,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "h",
+  "comic_py": "hongmoguantingyulu",
+  "hidden": 0,
+  "hot_num": 12656,
+  "hit_num": 868,
+  "uid": 105125699,
+  "is_lock": 0,
+  "last_update_chapter_id": 101055,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19359,
+      "tag_name": "Jack_A1"
+    }
+  ],
+  "subscribe_num": 56,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101055,
+          "chapter_title": "1话",
+          "updatetime": 1584019077,
+          "filesize": 1237884,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 25753860,
+        "uid": 100753050,
+        "content": "封面这姿势",
+        "createtime": 1585315181,
+        "nickname": "星星灯火ai-yy",
+        "avatar": "https://avatar.dmzj.com/a8/81/a881bdb38fc8834c4a16e2af750377f8.png"
+      },
+      {
+        "comment_id": 25748660,
+        "uid": 110010673,
+        "content": "DIO女儿实锤了（滑稽）",
+        "createtime": 1585303987,
+        "nickname": "evolit",
+        "avatar": "https://avatar.dmzj.com/96/0f/960f1cbea5970d39ed51190d091c19f9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

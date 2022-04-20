@@ -1,0 +1,87 @@
+{
+  "id": 50266,
+  "islong": 2,
+  "direction": 1,
+  "title": "S.I.C.超级收藏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/190923sic.jpg",
+  "description": "画集",
+  "last_updatetime": 1569206961,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sicchaojishoucang",
+  "hidden": 0,
+  "hot_num": 173753,
+  "hit_num": 129533,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93058,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17911,
+      "tag_name": "BANDAI"
+    }
+  ],
+  "subscribe_num": 793,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93058,
+          "chapter_title": "1卷",
+          "updatetime": 1569206961,
+          "filesize": 27782354,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 25842290,
+        "uid": 108765939,
+        "content": "昭和帅炸",
+        "createtime": 1585529435,
+        "nickname": "dmzj_108765939",
+        "avatar": "https://avatar.dmzj.com/77/f5/77f5aa69f3940d4fca841c8da623eca1.png"
+      },
+      {
+        "comment_id": 20768282,
+        "uid": 108027638,
+        "content": "？",
+        "createtime": 1569856192,
+        "nickname": "dmzj_108027638",
+        "avatar": "https://avatar.dmzj.com/24/fb/24fbc90fba3131cd8fbd859ff0b2a7b0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

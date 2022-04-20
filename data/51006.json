@@ -1,0 +1,95 @@
+{
+  "id": 51006,
+  "islong": 2,
+  "direction": 1,
+  "title": "gen:LOCK",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/genlock1109.jpg",
+  "description": "DC Comics与Rooster Teeth联合出品的gen:LOCK官方漫画。\n讲述了围绕纳米科技引发的战争。\nGen:LOCK是RoosterTeeth动画部最新的3D动画主打，主角Julian Chase的配音演员Michael B. Jordan（黑豹、华氏451度）的Outlier Productions也会协同制作。2019年1月开播。\n",
+  "last_updatetime": 1573267122,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "genlock",
+  "hidden": 0,
+  "hot_num": 54972,
+  "hit_num": 8529,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94630,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    },
+    {
+      "tag_id": 17729,
+      "tag_name": "Rooster teeth"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 246,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94630,
+          "chapter_title": "1卷",
+          "updatetime": 1573267122,
+          "filesize": 4611748,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 22017825,
+        "uid": 101107453,
+        "content": "总之先来一个瓜",
+        "createtime": 1573308482,
+        "nickname": "三月末下",
+        "avatar": "https://avatar.dmzj.com/bd/5b/bd5bab34f5c6d80f4b229416e8b275e9.png"
+      },
+      {
+        "comment_id": 22017191,
+        "uid": 108374199,
+        "content": "人生苦短，及时行乐",
+        "createtime": 1573306449,
+        "nickname": "繁星之雪☆星之悠久",
+        "avatar": "https://avatar.dmzj.com/34/3b/343bc77797caacab351a66d005433e40.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

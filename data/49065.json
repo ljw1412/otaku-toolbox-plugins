@@ -1,0 +1,91 @@
+{
+  "id": 49065,
+  "islong": 2,
+  "direction": 1,
+  "title": "思念之花",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/silianzhihua.jpg",
+  "description": "思念之花",
+  "last_updatetime": 1562248766,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "silianzhihua",
+  "hidden": 0,
+  "hot_num": 56957,
+  "hit_num": 1578,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90894,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17334,
+      "tag_name": "ばじ"
+    }
+  ],
+  "subscribe_num": 279,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90894,
+          "chapter_title": "1话",
+          "updatetime": 1562248766,
+          "filesize": 7252558,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 18718657,
+        "uid": 104492719,
+        "content": "封面的紫妈好幼啊",
+        "createtime": 1564270861,
+        "nickname": "Rints",
+        "avatar": "https://avatar.dmzj.com/87/00/8700b44c1c02504e5a408370ece57837.png"
+      },
+      {
+        "comment_id": 18554403,
+        "uid": 105090019,
+        "content": "思念之花（x）\n希望之花（√）",
+        "createtime": 1563864237,
+        "nickname": "蕾米莉亚同学",
+        "avatar": "https://avatar.dmzj.com/88/99/88999944af6d215d9423eb2359d1a20b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

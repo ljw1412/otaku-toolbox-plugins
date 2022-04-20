@@ -1,0 +1,87 @@
+{
+  "id": 53300,
+  "islong": 2,
+  "direction": 1,
+  "title": "Happy Go Lucky",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/200329happygolucky.jpg",
+  "description": "爱丽丝清晨去看望魔理沙却发现灵梦和魔理沙在同一张床上...",
+  "last_updatetime": 1585447173,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "happygolucky",
+  "hidden": 0,
+  "hot_num": 32133,
+  "hit_num": 7609,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100086,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6052,
+      "tag_name": "オムチキン"
+    }
+  ],
+  "subscribe_num": 133,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100086,
+          "chapter_title": "1话",
+          "updatetime": 1585447173,
+          "filesize": 6038210,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 26013180,
+        "uid": 107861461,
+        "content": "看完后那个针插进指甲里的画面还历历在目，好痛啊！",
+        "createtime": 1585914461,
+        "nickname": "业余砌墙师",
+        "avatar": "https://avatar.dmzj.com/34/77/34772916d361081453559f8757c1b7d9.png"
+      },
+      {
+        "comment_id": 25833294,
+        "uid": 102290859,
+        "content": "詠唱組雙元後宮",
+        "createtime": 1585500137,
+        "nickname": "Αλέξιος",
+        "avatar": "https://avatar.dmzj.com/81/ae/81aeadfdc449e248225bceefe639db89.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

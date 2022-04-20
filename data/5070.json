@@ -1,0 +1,86 @@
+{
+  "id": 5070,
+  "islong": 2,
+  "direction": 1,
+  "title": "侍魂新章",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/0215052020_35585.jpg",
+  "description": "宿命的两把大刀隔着时空再度相会。只能存活在战斗中的武士们的死斗即将开始。以平常心决胜负!",
+  "last_updatetime": 1280848415,
+  "last_update_chapter_name": "2",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shihunxinzhang",
+  "hidden": 0,
+  "hot_num": 21137,
+  "hit_num": 365378,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 11524,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2794,
+      "tag_name": "矢口岳"
+    }
+  ],
+  "subscribe_num": 87,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 11524,
+          "chapter_title": "2卷",
+          "updatetime": 1281453215,
+          "filesize": 17105917,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 11523,
+          "chapter_title": "1卷",
+          "updatetime": 1281453215,
+          "filesize": 16601161,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 15505301,
+        "uid": 104688468,
+        "content": "第一",
+        "createtime": 1557217816,
+        "nickname": "天长梦短无限恨",
+        "avatar": "https://avatar.dmzj.com/74/52/7452630a92f967f48a8bd70dd186077f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

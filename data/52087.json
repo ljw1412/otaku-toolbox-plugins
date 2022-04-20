@@ -1,0 +1,87 @@
+{
+  "id": 52087,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C97)キラキラモンスターズ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/ssfgdgw200131.jpg",
+  "description": "闪闪发光的怪物。",
+  "last_updatetime": 1580475713,
+  "last_update_chapter_name": "全一册",
+  "copyright": 0,
+  "first_letter": "k",
+  "comic_py": "kirakiramonsutazu",
+  "hidden": 0,
+  "hot_num": 1677726,
+  "hit_num": 49352,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96644,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18629,
+      "tag_name": "まさよ"
+    }
+  ],
+  "subscribe_num": 6516,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96644,
+          "chapter_title": "1话",
+          "updatetime": 1580475713,
+          "filesize": 2540923,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 78,
+    "latest_comment": [
+      {
+        "comment_id": 26061828,
+        "uid": 108994709,
+        "content": "……",
+        "createtime": 1586003804,
+        "nickname": "dmzj_108994709",
+        "avatar": "https://avatar.dmzj.com/4b/38/4b389eef93cdc0210453f513a8530dee.png"
+      },
+      {
+        "comment_id": 25840738,
+        "uid": 104792579,
+        "content": "不是我说，你要说这个是miku我都能接受",
+        "createtime": 1585518429,
+        "nickname": "姬丝秀忒·雅赛劳拉莉昂·43488",
+        "avatar": "https://avatar.dmzj.com/60/18/6018432e550738945419a57c819e5e6f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

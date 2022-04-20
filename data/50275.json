@@ -1,0 +1,131 @@
+{
+  "id": 50275,
+  "islong": 1,
+  "direction": 2,
+  "title": "KATAOMOI",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1046170811569217314.jpg",
+  "description": "单相思少女的日常故事与独白。",
+  "last_updatetime": 1580645534,
+  "last_update_chapter_name": "第07话",
+  "copyright": 1,
+  "first_letter": "k",
+  "comic_py": "kataomoi",
+  "hidden": 0,
+  "hot_num": 162959,
+  "hit_num": 20234,
+  "uid": 104617081,
+  "is_lock": 0,
+  "last_update_chapter_id": 97499,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17916,
+      "tag_name": "荒逝"
+    }
+  ],
+  "subscribe_num": 734,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97499,
+          "chapter_title": "7话",
+          "updatetime": 1580645534,
+          "filesize": 696601,
+          "chapter_order": 9
+        },
+        {
+          "chapter_id": 97389,
+          "chapter_title": "6话",
+          "updatetime": 1580303208,
+          "filesize": 385861,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 95115,
+          "chapter_title": "5话",
+          "updatetime": 1573922655,
+          "filesize": 737532,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 93609,
+          "chapter_title": "4话",
+          "updatetime": 1569811654,
+          "filesize": 662997,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 93442,
+          "chapter_title": "3话",
+          "updatetime": 1569218183,
+          "filesize": 286829,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 93441,
+          "chapter_title": "2话",
+          "updatetime": 1569218109,
+          "filesize": 561107,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 93440,
+          "chapter_title": "1话",
+          "updatetime": 1569217640,
+          "filesize": 389604,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 58,
+    "latest_comment": [
+      {
+        "comment_id": 23760868,
+        "uid": 107769714,
+        "content": "哭了，太难受了，像极了自己。",
+        "createtime": 1580753069,
+        "nickname": "风中逝去的十年",
+        "avatar": "https://avatar.dmzj.com/57/69/57695554b7bbeb41ba3062143f8f61a1.png"
+      },
+      {
+        "comment_id": 23752166,
+        "uid": 107803224,
+        "content": "好喜欢....!!",
+        "createtime": 1580742301,
+        "nickname": "可爱女主痴女发言bot",
+        "avatar": "https://avatar.dmzj.com/80/28/802841741b1d4a1e4977c1871284f3bd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

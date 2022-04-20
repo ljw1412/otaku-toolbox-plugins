@@ -1,0 +1,87 @@
+{
+  "id": 6422,
+  "islong": 2,
+  "direction": 1,
+  "title": "BLUST",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/JOJO_004-005_5b1f0cb4217569ffca7bd15258f98473.jpg",
+  "description": "光速畫師_村田雄介新短篇",
+  "last_updatetime": 1287830681,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "blust",
+  "hidden": 0,
+  "hot_num": 370179,
+  "hit_num": 1989439,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13181,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18,
+      "tag_name": "村田雄介"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1875,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13181,
+          "chapter_title": "1话",
+          "updatetime": 1288435481,
+          "filesize": 6217385,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 26010193,
+        "uid": 109452250,
+        "content": "眼一定要留长才能长存。然而我也不知道要留多长才行，只能尽量码字保命了，现在应该差不多可以了吧？希望复制这么多能管用。\n我插！(●—●) 定点成功(๑˙ー˙๑) 光标启动～(￣▽￣～)~ 启动完成———(´▽｀)ノ♪",
+        "createtime": 1585906670,
+        "nickname": "蜂蜜柠檬酒",
+        "avatar": "https://avatar.dmzj.com/97/56/97560b5ead9ada16a5a305a642537adb.png"
+      },
+      {
+        "comment_id": 25890558,
+        "uid": 110086194,
+        "content": "地球的怪兽。？在上面啊～",
+        "createtime": 1585643288,
+        "nickname": "Anlian",
+        "avatar": "https://avatar.dmzj.com/73/24/73243a04b4f273180763884150344d86.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

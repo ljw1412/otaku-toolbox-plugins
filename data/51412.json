@@ -1,0 +1,122 @@
+{
+  "id": 51412,
+  "islong": 2,
+  "direction": 2,
+  "title": "超级宠物人物角色百科全书",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/cjcwbkqs20191211.jpg",
+  "description": "超级宠物里出场人物角色的详细介绍",
+  "last_updatetime": 1582537419,
+  "last_update_chapter_name": "反派/不明立场人物",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chaojichongwurenwujuesebaikequanshu",
+  "hidden": 0,
+  "hot_num": 78651,
+  "hit_num": 23821,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97739,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 330,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97739,
+          "chapter_title": "反派/不明立场人物",
+          "updatetime": 1582537419,
+          "filesize": 925044,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 96278,
+          "chapter_title": "1卷",
+          "updatetime": 1579449638,
+          "filesize": 823769,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 95156,
+          "chapter_title": "神奇女侠",
+          "updatetime": 1576327212,
+          "filesize": 669688,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 95080,
+          "chapter_title": "3卷",
+          "updatetime": 1576121335,
+          "filesize": 408320,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 95030,
+          "chapter_title": "超级少女",
+          "updatetime": 1576036353,
+          "filesize": 494324,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 95032,
+          "chapter_title": "大超家族",
+          "updatetime": 1576042972,
+          "filesize": 1166069,
+          "chapter_order": 5
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 39,
+    "latest_comment": [
+      {
+        "comment_id": 24547813,
+        "uid": 101437053,
+        "content": "贝恩的宠物奥西托意外的可爱",
+        "createtime": 1582684409,
+        "nickname": "烁三目",
+        "avatar": "https://avatar.dmzj.com/39/62/3962e48ab234d015e19bdf3fed642ef5.png"
+      },
+      {
+        "comment_id": 23479884,
+        "uid": 107728305,
+        "content": "lobo和红灯军团首领我记得也有宠物的，红灯军团首领的宠物是一只猫",
+        "createtime": 1579867369,
+        "nickname": "天生我材2015",
+        "avatar": "https://avatar.dmzj.com/82/89/828963ac0b51747ddd09b6f6871b4382.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

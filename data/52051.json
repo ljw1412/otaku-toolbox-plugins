@@ -1,0 +1,87 @@
+{
+  "id": 52051,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C97)Azurenno插画集2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/12325djgiellg.jpg",
+  "description": "来自日本画师ねめ猫⑥（Nemeneko⑥）的一本超萌《碧蓝航线》同人画集。",
+  "last_updatetime": 1580351862,
+  "last_update_chapter_name": "全一册",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "azurennoirasutobon",
+  "hidden": 0,
+  "hot_num": 1622923,
+  "hit_num": 38098,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 98410,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18749,
+      "tag_name": "ねめ猫⑥"
+    }
+  ],
+  "subscribe_num": 6338,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98410,
+          "chapter_title": "1话",
+          "updatetime": 1580351862,
+          "filesize": 1214192,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 45,
+    "latest_comment": [
+      {
+        "comment_id": 26755411,
+        "uid": 106216667,
+        "content": "真好",
+        "createtime": 1587626500,
+        "nickname": "纯现篱笆",
+        "avatar": "https://avatar.dmzj.com/1b/86/1b865f50e3add30cb3b870a7126acee1.png"
+      },
+      {
+        "comment_id": 26197909,
+        "uid": 102488640,
+        "content": "可爱",
+        "createtime": 1586271719,
+        "nickname": "woshuia",
+        "avatar": "https://avatar.dmzj.com/82/93/8293e335a83b5cf5a942e90d6829ca85.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,101 @@
+{
+  "id": 50896,
+  "islong": 2,
+  "direction": 1,
+  "title": "白猫的报恩",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/191101bmdbe.jpg",
+  "description": "捡来的猫变成了美少女",
+  "last_updatetime": 1576565154,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "baimaodebaoen",
+  "hidden": 0,
+  "hot_num": 3091008,
+  "hit_num": 403953,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 95829,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17664,
+      "tag_name": "ざんか"
+    }
+  ],
+  "subscribe_num": 13207,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95517,
+          "chapter_title": "3话",
+          "updatetime": 1575703328,
+          "filesize": 2623272,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 95829,
+          "chapter_title": "2话",
+          "updatetime": 1576565154,
+          "filesize": 1771873,
+          "chapter_order": 15
+        },
+        {
+          "chapter_id": 94429,
+          "chapter_title": "1话",
+          "updatetime": 1572615329,
+          "filesize": 2023569,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 554,
+    "latest_comment": [
+      {
+        "comment_id": 27025142,
+        "uid": 105935284,
+        "content": "百合271\n羡慕了（给我变！）",
+        "createtime": 1588383094,
+        "nickname": "天倒海",
+        "avatar": "https://avatar.dmzj.com/86/46/864624881ff024fc8df9194ea685ffd2.png"
+      },
+      {
+        "comment_id": 26617822,
+        "uid": 109618889,
+        "content": "猫耳少女，啊我死了",
+        "createtime": 1587234543,
+        "nickname": "谁不喜欢百合萝莉呢",
+        "avatar": "https://avatar.dmzj.com/95/12/951200177c4d7161dc472849460d0b68.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

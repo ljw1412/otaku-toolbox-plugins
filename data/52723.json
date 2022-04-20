@@ -1,0 +1,87 @@
+{
+  "id": 52723,
+  "islong": 2,
+  "direction": 1,
+  "title": "永远的希望",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/yydhxq202033.jpg",
+  "description": "你也想要永恒，对吧？我想要我们永远年轻下去。。",
+  "last_updatetime": 1583203123,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yongyuandexiwang",
+  "hidden": 0,
+  "hot_num": 39096,
+  "hit_num": 3672,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94260,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6057,
+      "tag_name": "あとがき"
+    }
+  ],
+  "subscribe_num": 179,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94260,
+          "chapter_title": "1话",
+          "updatetime": 1583203123,
+          "filesize": 7948621,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 25683033,
+        "uid": 109483270,
+        "content": "妹红心情复杂",
+        "createtime": 1585150373,
+        "nickname": "十望",
+        "avatar": "https://avatar.dmzj.com/98/25/98250ca9981f99a76fca969a092159e5.png"
+      },
+      {
+        "comment_id": 25170327,
+        "uid": 100919066,
+        "content": "请给我来一瓶",
+        "createtime": 1583989420,
+        "nickname": "铭记堕落之时",
+        "avatar": "https://avatar.dmzj.com/54/de/54de39a14cbf3e9b8fe8301385c7a7ce.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 53685,
+  "islong": 1,
+  "direction": 1,
+  "title": "街角魔族小剧场",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/jjmzxjc20200416.jpg",
+  "description": "美夏和桃请原地结婚?",
+  "last_updatetime": 1587004686,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jiejiaomozuxiaojuchang",
+  "hidden": 0,
+  "hot_num": 179093,
+  "hit_num": 48760,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100960,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19582,
+      "tag_name": "しなぁと"
+    }
+  ],
+  "subscribe_num": 834,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100960,
+          "chapter_title": "1话",
+          "updatetime": 1587004686,
+          "filesize": 4390756,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 42,
+    "latest_comment": [
+      {
+        "comment_id": 26788717,
+        "uid": 107014471,
+        "content": "好啊！",
+        "createtime": 1587716858,
+        "nickname": "dmzj_107014471",
+        "avatar": "https://avatar.dmzj.com/81/58/8158cf5f628cd979785a1bbae755f952.png"
+      },
+      {
+        "comment_id": 26744347,
+        "uid": 109068351,
+        "content": "vjvovl",
+        "createtime": 1587594463,
+        "nickname": "dmzj_109068351",
+        "avatar": "https://avatar.dmzj.com/84/00/84006a228ecd47bde2225a00c33a33ca.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

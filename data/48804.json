@@ -1,0 +1,104 @@
+{
+  "id": 48804,
+  "islong": 1,
+  "direction": 2,
+  "title": "自由国度",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1092121921560267188.jpg",
+  "description": "咕姆咕姆咕姆",
+  "last_updatetime": 1560268838,
+  "last_update_chapter_name": "第02话",
+  "copyright": 1,
+  "first_letter": "z",
+  "comic_py": "ziyouguodu",
+  "hidden": 0,
+  "hot_num": 20435,
+  "hit_num": 150681,
+  "uid": 109212192,
+  "is_lock": 0,
+  "last_update_chapter_id": 85884,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17203,
+      "tag_name": "源华"
+    }
+  ],
+  "subscribe_num": 94,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85884,
+          "chapter_title": "2话",
+          "updatetime": 1560268838,
+          "filesize": 141851,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 85883,
+          "chapter_title": "1话",
+          "updatetime": 1560268731,
+          "filesize": 587965,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 17124436,
+        "uid": 107439866,
+        "content": "剧情向画师，发展好就是下一个ONE",
+        "createtime": 1560498568,
+        "nickname": "青桔笺页",
+        "avatar": "https://avatar.dmzj.com/26/66/2666e888a21571527a58197af1078d5a.png"
+      },
+      {
+        "comment_id": 17071552,
+        "uid": 104494349,
+        "content": "自♂由",
+        "createtime": 1560354820,
+        "nickname": "空想白晝",
+        "avatar": "https://avatar.dmzj.com/13/41/1341425b0b7fbda782b5bc9200d53590.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

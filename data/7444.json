@@ -1,0 +1,91 @@
+{
+  "id": 7444,
+  "islong": 2,
+  "direction": 1,
+  "title": "蒲公英",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/pugongying.jpg",
+  "description": "不曾屈服的狮子心，磨亮与神纷争的獠牙。两年前一次意外车祸，一个奇幻的故事就此展开。",
+  "last_updatetime": 1308173007,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dandelion",
+  "hidden": 0,
+  "hot_num": 12383,
+  "hit_num": 440769,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 14430,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3983,
+      "tag_name": "赤星夕"
+    }
+  ],
+  "subscribe_num": 42,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 14430,
+          "chapter_title": "1话",
+          "updatetime": 1308173007,
+          "filesize": 6912809,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 2535239,
+        "uid": 104698799,
+        "content": "真的只有一话？\n/c不爽",
+        "createtime": 1500668450,
+        "nickname": "瓴誉",
+        "avatar": "https://avatar.dmzj.com/58/72/58724b6c8c09b6f74318e3ece1286b5d.png"
+      },
+      {
+        "comment_id": 14027,
+        "uid": 7548530,
+        "content": "里面的校服真有趣，个个都穿连衣帽",
+        "createtime": 1308189957,
+        "nickname": "黑火浮云",
+        "avatar": "https://avatar.dmzj.com/14/6c/146ca024dbacd5985bf5d916de239676.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,112 @@
+{
+  "id": 5441,
+  "islong": 2,
+  "direction": 1,
+  "title": "天翼炼金",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/63_ff00e8e51141bb43ae5d1be89c17f67c.jpg",
+  "description": "充满了魔幻气息的冒险故事…… \n",
+  "last_updatetime": 1281681964,
+  "last_update_chapter_name": "VOL04",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tylj",
+  "hidden": 0,
+  "hot_num": 15521,
+  "hit_num": 631188,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 9696,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3027,
+      "tag_name": "桂承希"
+    }
+  ],
+  "subscribe_num": 68,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9696,
+          "chapter_title": "4卷",
+          "updatetime": 1282286764,
+          "filesize": 14595430,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 9695,
+          "chapter_title": "3卷",
+          "updatetime": 1282286764,
+          "filesize": 14977311,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 9694,
+          "chapter_title": "2卷",
+          "updatetime": 1282286764,
+          "filesize": 23843009,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9693,
+          "chapter_title": "1卷",
+          "updatetime": 1282286764,
+          "filesize": 23397426,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 276968,
+        "uid": 25951204,
+        "content": " /外星人 ",
+        "createtime": 1408287544,
+        "nickname": "我承认我想歪了",
+        "avatar": "https://avatar.dmzj.com/b8/c0/b8c0dba1407d445715f2c740e0701b9b.png"
+      },
+      {
+        "comment_id": 76186,
+        "uid": 15455840,
+        "content": "坑爹吧",
+        "createtime": 1345272775,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

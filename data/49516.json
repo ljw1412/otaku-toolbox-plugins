@@ -1,0 +1,87 @@
+{
+  "id": 49516,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C95) ご注文は○秘ミルクのラテアートですか",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/dttr0806.jpg",
+  "description": "c95同人",
+  "last_updatetime": 1565023078,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "u",
+  "comic_py": "utsurauraraka",
+  "hidden": 0,
+  "hot_num": 40557,
+  "hit_num": 9128,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91276,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1751,
+      "tag_name": "えれっと"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1409,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91276,
+          "chapter_title": "0话",
+          "updatetime": 1565023078,
+          "filesize": 5722269,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 53,
+    "latest_comment": [
+      {
+        "comment_id": 24040516,
+        "uid": 107877864,
+        "content": "GOOD",
+        "createtime": 1581490478,
+        "nickname": "dmzj_107877864",
+        "avatar": "https://avatar.dmzj.com/20/79/2079f93a2edc66dac9e7aecb26dd7720.png"
+      },
+      {
+        "comment_id": 22776219,
+        "uid": 108466270,
+        "content": "awsl",
+        "createtime": 1577027010,
+        "nickname": "阿伟不会输",
+        "avatar": "https://avatar.dmzj.com/10/07/10078a36d2e488168c65b3f7dd4b23c3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

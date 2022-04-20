@@ -1,0 +1,87 @@
+{
+  "id": 50217,
+  "islong": 2,
+  "direction": 1,
+  "title": "八云式～零之二～",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/lzer20190920.jpg",
+  "description": "天狗好强……！",
+  "last_updatetime": 1568912884,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bayunshilingzhier",
+  "hidden": 0,
+  "hot_num": 35360,
+  "hit_num": 4592,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 92452,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5475,
+      "tag_name": "SASUKE"
+    }
+  ],
+  "subscribe_num": 155,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92452,
+          "chapter_title": "1话",
+          "updatetime": 1568912884,
+          "filesize": 4446648,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 20824318,
+        "uid": 101075919,
+        "content": "画照片太草了",
+        "createtime": 1570007966,
+        "nickname": "芥末胖次",
+        "avatar": "https://avatar.dmzj.com/5b/3e/5b3e12356bbf5aacf166fed5ad79c26b.png"
+      },
+      {
+        "comment_id": 20616070,
+        "uid": 107570802,
+        "content": "有事式神干，没事干式神",
+        "createtime": 1569413136,
+        "nickname": "dmzj_107570802",
+        "avatar": "https://avatar.dmzj.com/68/52/68520f053662edef655657b40e409c9d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

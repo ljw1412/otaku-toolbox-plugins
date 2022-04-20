@@ -1,0 +1,119 @@
+{
+  "id": 51242,
+  "islong": 2,
+  "direction": 1,
+  "title": "Pon!Pon!Pon!",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/wflabh1115.jpg",
+  "description": "女子高中生们的秘密日常，窥探试试？",
+  "last_updatetime": 1586056834,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "p",
+  "comic_py": "ponponpon",
+  "hidden": 0,
+  "hot_num": 6508549,
+  "hit_num": 985459,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99644,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10571,
+      "tag_name": "emily"
+    }
+  ],
+  "subscribe_num": 26493,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99644,
+          "chapter_title": "5话",
+          "updatetime": 1586056834,
+          "filesize": 4075721,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 98451,
+          "chapter_title": "4话",
+          "updatetime": 1583818600,
+          "filesize": 3152556,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 97224,
+          "chapter_title": "3话",
+          "updatetime": 1581652542,
+          "filesize": 4008191,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 95963,
+          "chapter_title": "2话",
+          "updatetime": 1578665909,
+          "filesize": 4620168,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94634,
+          "chapter_title": "1话",
+          "updatetime": 1574946471,
+          "filesize": 4908792,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1074,
+    "latest_comment": [
+      {
+        "comment_id": 27057538,
+        "uid": 107159802,
+        "content": "留眼。",
+        "createtime": 1588474153,
+        "nickname": "晴沐澄",
+        "avatar": "https://avatar.dmzj.com/f3/5d/f35d710274eea6927f874967534b1aea.png"
+      },
+      {
+        "comment_id": 27015102,
+        "uid": 105935284,
+        "content": "百合265",
+        "createtime": 1588348335,
+        "nickname": "天倒海",
+        "avatar": "https://avatar.dmzj.com/86/46/864624881ff024fc8df9194ea685ffd2.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

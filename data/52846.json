@@ -1,0 +1,95 @@
+{
+  "id": 52846,
+  "islong": 2,
+  "direction": 2,
+  "title": "神勇猫咪",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/shenyongmaomi200308.jpg",
+  "description": "恒星市里，一群超能猫咪的英雄故事。",
+  "last_updatetime": 1583671148,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shenyongmaomi",
+  "hidden": 0,
+  "hot_num": 25706,
+  "hit_num": 944,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100143,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19157,
+      "tag_name": "Kyle Puttkammer"
+    },
+    {
+      "tag_id": 19158,
+      "tag_name": "Ryan Sellers"
+    },
+    {
+      "tag_id": 19159,
+      "tag_name": "Marcus Williams"
+    }
+  ],
+  "subscribe_num": 117,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100143,
+          "chapter_title": "1话",
+          "updatetime": 1583671148,
+          "filesize": 1245768,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 25076488,
+        "uid": 108893288,
+        "content": "提个建议，按期刊一期期的发比从合订本里抽页要好，而且一期美漫起步20+页，现在这样其实只有半期????",
+        "createtime": 1583766252,
+        "nickname": "暗杀组—逢日光音",
+        "avatar": "https://avatar.dmzj.com/95/33/95331934e394619230ce8058a2096ffb.png"
+      },
+      {
+        "comment_id": 25064213,
+        "uid": 107368603,
+        "content": "（吸猫吸憨了",
+        "createtime": 1583744331,
+        "nickname": "不明透明物",
+        "avatar": "https://avatar.dmzj.com/22/14/221475d1489c486f44d4a8d80c73062f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

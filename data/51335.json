@@ -1,0 +1,87 @@
+{
+  "id": 51335,
+  "islong": 2,
+  "direction": 1,
+  "title": "深夜之太阳",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/szty955.jpg",
+  "description": "大小姐与咲夜~",
+  "last_updatetime": 1575421137,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shenyezhitaiyang",
+  "hidden": 0,
+  "hot_num": 52530,
+  "hit_num": 1539,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 95544,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5247,
+      "tag_name": "氷川翔(さくsaku亭)"
+    }
+  ],
+  "subscribe_num": 165,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95544,
+          "chapter_title": "1话",
+          "updatetime": 1575421137,
+          "filesize": 2097668,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 25475290,
+        "uid": 100324793,
+        "content": "没看懂，有没有课代表，请指导我",
+        "createtime": 1584669113,
+        "nickname": "凌☪乱",
+        "avatar": "https://avatar.dmzj.com/31/ab/31ab3eae73584061346ddeafcf8750f2.png"
+      },
+      {
+        "comment_id": 23467837,
+        "uid": 106373374,
+        "content": "咲夜为什么会落泪呢，，有大佬来做下阅读理解么，没看懂",
+        "createtime": 1579803607,
+        "nickname": "灰色明月",
+        "avatar": "https://avatar.dmzj.com/25/5f/255f6c9c076b63b885417feaa3cf10de.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

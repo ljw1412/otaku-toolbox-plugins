@@ -1,0 +1,88 @@
+{
+  "id": 6052,
+  "islong": 2,
+  "direction": 1,
+  "title": "装甲兵天使",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/11_ca7773388d18bb509180c077f0a96890.jpg",
+  "description": "西历2045年,身穿超次元装甲的英雄——装甲兵天使出现在充满邪恶的东京上空......",
+  "last_updatetime": 1283664903,
+  "last_update_chapter_name": "VOL03",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zjbts",
+  "hidden": 1,
+  "hot_num": 5108,
+  "hit_num": 252827,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12689,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1710,
+      "tag_name": "伊藤伸平"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 31,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12689,
+          "chapter_title": "3卷",
+          "updatetime": 1284269703,
+          "filesize": 19486738,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 12688,
+          "chapter_title": "2卷",
+          "updatetime": 1284269703,
+          "filesize": 18267847,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 12687,
+          "chapter_title": "1卷",
+          "updatetime": 1284269703,
+          "filesize": 18198314,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

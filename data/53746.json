@@ -1,0 +1,104 @@
+{
+  "id": 53746,
+  "islong": 1,
+  "direction": 2,
+  "title": "我是一只猫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1108990071587273073.jpg",
+  "description": "一只神秘退役猎手的热血故事~",
+  "last_updatetime": 1588071414,
+  "last_update_chapter_name": "第02话",
+  "copyright": 1,
+  "first_letter": "w",
+  "comic_py": "woshiyizhimao",
+  "hidden": 0,
+  "hot_num": 28098,
+  "hit_num": 2224,
+  "uid": 110899007,
+  "is_lock": 0,
+  "last_update_chapter_id": 102747,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19613,
+      "tag_name": "没有猫"
+    }
+  ],
+  "subscribe_num": 135,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102747,
+          "chapter_title": "2话",
+          "updatetime": 1588071414,
+          "filesize": 799048,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 102232,
+          "chapter_title": "1话",
+          "updatetime": 1587273184,
+          "filesize": 1350934,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "期望周更，但一切以实物为准_(:зゝ∠)_",
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 26659204,
+        "uid": 104217714,
+        "content": "不，不要唱那首歌啊(颅内循环",
+        "createtime": 1587366958,
+        "nickname": "矫揉造作的光与影",
+        "avatar": "https://avatar.dmzj.com/95/90/95907ce3ec5773611ff250a5bd5e19f7.png"
+      },
+      {
+        "comment_id": 26641981,
+        "uid": 105726227,
+        "content": "脑袋里开始了那首音乐的循环……",
+        "createtime": 1587311800,
+        "nickname": "鹿鹿哲",
+        "avatar": "https://avatar.dmzj.com/83/b8/83b8b8dcd467bdc81d77b0cb8f194053.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

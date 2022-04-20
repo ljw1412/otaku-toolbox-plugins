@@ -1,0 +1,91 @@
+{
+  "id": 49787,
+  "islong": 2,
+  "direction": 1,
+  "title": "彩云国物语小说插图",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/cygwyxsct823.jpg",
+  "description": "彩云国物语小说插图画册 全一册",
+  "last_updatetime": 1566524939,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "caiyunwuyuxiaoshuochatu",
+  "hidden": 0,
+  "hot_num": 57838,
+  "hit_num": 56254,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91584,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 6316,
+      "tag_name": "轻小说"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 673,
+      "tag_name": "由罗カイリ"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 588,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91584,
+          "chapter_title": "1话",
+          "updatetime": 1566524939,
+          "filesize": 23831588,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 47,
+    "latest_comment": [
+      {
+        "comment_id": 25909838,
+        "uid": 105820290,
+        "content": "姐妹在吗",
+        "createtime": 1585674219,
+        "nickname": "魏琪瑶",
+        "avatar": "https://avatar.dmzj.com/29/37/293751ca4b51ab378662162f6b84c3fb.png"
+      },
+      {
+        "comment_id": 23542226,
+        "uid": 110294120,
+        "content": "小说在哪里可以看的",
+        "createtime": 1580122333,
+        "nickname": "阿秋玖",
+        "avatar": "https://avatar.dmzj.com/35/67/356748edd7651ef3a8707639fec62b7a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

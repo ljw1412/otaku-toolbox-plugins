@@ -1,0 +1,105 @@
+{
+  "id": 51897,
+  "islong": 2,
+  "direction": 1,
+  "title": "女校之星",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/nxzx2020120.jpg",
+  "description": "这是发生在女校，没营养的故事。",
+  "last_updatetime": 1585810220,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "nvxiaozhixing",
+  "hidden": 0,
+  "hot_num": 1014550,
+  "hit_num": 214993,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99550,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17860,
+      "tag_name": "和山やま"
+    }
+  ],
+  "subscribe_num": 3505,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99550,
+          "chapter_title": "3话",
+          "updatetime": 1585810220,
+          "filesize": 7270974,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 97895,
+          "chapter_title": "2话",
+          "updatetime": 1582817156,
+          "filesize": 8154560,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 96304,
+          "chapter_title": "1话",
+          "updatetime": 1579507539,
+          "filesize": 5745674,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 140,
+    "latest_comment": [
+      {
+        "comment_id": 27061026,
+        "uid": 100567591,
+        "content": "哈哈哈哈哈，太好笑了，这作者我爱了",
+        "createtime": 1588484500,
+        "nickname": "夏小雅君",
+        "avatar": "https://avatar.dmzj.com/3b/6a/3b6a80c72432487d051a9f056b4b0cb6.png"
+      },
+      {
+        "comment_id": 26955137,
+        "uid": 107856451,
+        "content": "老师好可爱—！",
+        "createtime": 1588126476,
+        "nickname": "关节的panic",
+        "avatar": "https://avatar.dmzj.com/bf/89/bf89c81cc7e0201a0c8a02d810b214b1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

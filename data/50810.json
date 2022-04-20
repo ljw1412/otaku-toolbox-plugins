@@ -1,0 +1,98 @@
+{
+  "id": 50810,
+  "islong": 2,
+  "direction": 1,
+  "title": "青梅竹马巨大化了",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/191026qmzm.jpg",
+  "description": "就算你变得这么巨大，也还是我的小可爱啊",
+  "last_updatetime": 1581174871,
+  "last_update_chapter_name": "上天了",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qingmeizhumajudahuanle",
+  "hidden": 0,
+  "hot_num": 1528717,
+  "hit_num": 150805,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97750,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15138,
+      "tag_name": "右腹"
+    }
+  ],
+  "subscribe_num": 6925,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97750,
+          "chapter_title": "上天了",
+          "updatetime": 1581174871,
+          "filesize": 727023,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94455,
+          "chapter_title": "1话",
+          "updatetime": 1572092221,
+          "filesize": 1076331,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 234,
+    "latest_comment": [
+      {
+        "comment_id": 27059200,
+        "uid": 110402567,
+        "content": "马里奥",
+        "createtime": 1588479107,
+        "nickname": "外黑内白的甜甘蔗",
+        "avatar": "https://avatar.dmzj.com/b7/c1/b7c14ab8b3fe7bc57cfe0a590cb36edd.png"
+      },
+      {
+        "comment_id": 26884942,
+        "uid": 100078011,
+        "content": "很喜欢作者",
+        "createtime": 1587972076,
+        "nickname": "怪兽嗷",
+        "avatar": "https://avatar.dmzj.com/e8/bd/e8bd299eed7c46c9c37c75f38f7cbbda.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

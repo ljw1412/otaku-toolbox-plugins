@@ -1,0 +1,87 @@
+{
+  "id": 9452,
+  "islong": 2,
+  "direction": 2,
+  "title": "罗伯斯特-约翰逊",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/luobote.jpg",
+  "description": "“大虾”约翰逊，在HELLBOY漫画某集里出现，类似美队的存在，二战时就跟纳粹神棍干上了，似乎也是掉落雪山封存了好久。标志就是那个大虾钳。\n",
+  "last_updatetime": 1348083833,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "luobositeyuehanxun",
+  "hidden": 0,
+  "hot_num": 214181,
+  "hit_num": 141266,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21123,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 860,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21123,
+          "chapter_title": "1卷",
+          "updatetime": 1348083833,
+          "filesize": 2533793,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 13120643,
+        "uid": 104243255,
+        "content": "bprd没了呀！",
+        "createtime": 1552923878,
+        "nickname": "龙炎侍",
+        "avatar": "https://avatar.dmzj.com/94/37/9437267e08291f6f24f24093122160fa.png"
+      },
+      {
+        "comment_id": 395495,
+        "uid": 1701866,
+        "content": "大螯虾。龙虾强生",
+        "createtime": 1431776651,
+        "nickname": "dndssss",
+        "avatar": "https://avatar.dmzj.com/a8/20/a8204554b09d77501a8613220c17f2f1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

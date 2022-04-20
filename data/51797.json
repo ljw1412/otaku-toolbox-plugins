@@ -1,0 +1,87 @@
+{
+  "id": 51797,
+  "islong": 2,
+  "direction": 1,
+  "title": "外面很危险哦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/wmhwyo200111.jpg",
+  "description": "为了安全请不要出去哦。",
+  "last_updatetime": 1578743736,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "waimianhenweixiano",
+  "hidden": 1,
+  "hot_num": 238818,
+  "hit_num": 98877,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 95987,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18615,
+      "tag_name": "氏贺Y太"
+    }
+  ],
+  "subscribe_num": 1008,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95987,
+          "chapter_title": "1话",
+          "updatetime": 1578743736,
+          "filesize": 6860174,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 580,
+    "latest_comment": [
+      {
+        "comment_id": 27048907,
+        "uid": 100536597,
+        "content": "够刺激",
+        "createtime": 1588439894,
+        "nickname": "贱圣",
+        "avatar": "https://avatar.dmzj.com/b2/4c/b24c5a148ec2ea1f9b47a1c6c7a325b2.png"
+      },
+      {
+        "comment_id": 26821950,
+        "uid": 106001415,
+        "content": "有点好奇，留一个♾",
+        "createtime": 1587800411,
+        "nickname": "池芥",
+        "avatar": "https://avatar.dmzj.com/13/94/13944c749853b3b76cf944f544d3dd65.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

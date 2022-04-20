@@ -1,0 +1,87 @@
+{
+  "id": 53740,
+  "islong": 2,
+  "direction": 1,
+  "title": "赏月一酌",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/syyz20200419.jpg",
+  "description": "喜欢和大家聚在一起的时候",
+  "last_updatetime": 1587264364,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shangyueyizhuo",
+  "hidden": 0,
+  "hot_num": 22897,
+  "hit_num": 762,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 101104,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4447,
+      "tag_name": "秋★枝"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 107,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101104,
+          "chapter_title": "1话",
+          "updatetime": 1587264364,
+          "filesize": 1121277,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 26653547,
+        "uid": 100412848,
+        "content": "首页动漫渔场？这还真是时代的眼泪了",
+        "createtime": 1587351039,
+        "nickname": "天谴少年Scourge_Juvenile",
+        "avatar": "https://avatar.dmzj.com/20/62/206207ad825217251406f88f4cd5db7f.png"
+      },
+      {
+        "comment_id": 26625171,
+        "uid": 101088645,
+        "content": "危 美铃 危",
+        "createtime": 1587271133,
+        "nickname": "某科学的xxx",
+        "avatar": "https://avatar.dmzj.com/87/63/87635544f139b8294a1ac11fcca4723e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

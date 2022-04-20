@@ -1,0 +1,91 @@
+{
+  "id": 52940,
+  "islong": 2,
+  "direction": 1,
+  "title": "LAWLESS KID",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/lawlesskid20200313.jpg",
+  "description": "在渴望的尽头，能收入掌中的究竟为何物------",
+  "last_updatetime": 1584072036,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lawlesskid",
+  "hidden": 0,
+  "hot_num": 255157,
+  "hit_num": 80397,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99349,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18834,
+      "tag_name": "佐乃夕斗"
+    }
+  ],
+  "subscribe_num": 1141,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99349,
+          "chapter_title": "1话",
+          "updatetime": 1584072036,
+          "filesize": 12369241,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 45,
+    "latest_comment": [
+      {
+        "comment_id": 27033343,
+        "uid": 106015148,
+        "content": "LAWLESS KID",
+        "createtime": 1588409609,
+        "nickname": "暴走的小兔兔",
+        "avatar": "https://avatar.dmzj.com/a6/c7/a6c7a4d422b0a671f1e2ce387471e131.png"
+      },
+      {
+        "comment_id": 26914850,
+        "uid": 101773548,
+        "content": "太喜欢这个老师的画风了",
+        "createtime": 1588055609,
+        "nickname": "ciyuko",
+        "avatar": "https://avatar.dmzj.com/91/a9/91a91682d92966f8eea1e7f82aa95886.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

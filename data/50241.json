@@ -1,0 +1,87 @@
+{
+  "id": 50241,
+  "islong": 2,
+  "direction": 1,
+  "title": "午后的杰基尔与海德",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/190921whdjjehhd.jpg",
+  "description": "金发的小女孩……哎。",
+  "last_updatetime": 1569060277,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wuhoudejiejieryuhaide",
+  "hidden": 0,
+  "hot_num": 50832,
+  "hit_num": 20238,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93008,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17897,
+      "tag_name": "STR"
+    }
+  ],
+  "subscribe_num": 225,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93008,
+          "chapter_title": "1话",
+          "updatetime": 1569060277,
+          "filesize": 7770934,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 34,
+    "latest_comment": [
+      {
+        "comment_id": 22767772,
+        "uid": 105286058,
+        "content": "作者一瞬幻视sdr",
+        "createtime": 1576994392,
+        "nickname": "MOT姐贵",
+        "avatar": "https://avatar.dmzj.com/28/56/2856d6311ac0dd992aeac64487e383ec.png"
+      },
+      {
+        "comment_id": 20672358,
+        "uid": 102078391,
+        "content": "看完后记的我发现主角其实是永远亭组",
+        "createtime": 1569583383,
+        "nickname": "起重机驾驶中",
+        "avatar": "https://avatar.dmzj.com/53/44/5344391879ccee81bb94f8c2bbd3bbaf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

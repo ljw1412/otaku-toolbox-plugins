@@ -1,0 +1,87 @@
+{
+  "id": 6947,
+  "islong": 2,
+  "direction": 2,
+  "title": "星球大战-黑暗帝国",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/xqdzhadgx.jpg",
+  "description": "星球大战-帝国阴影-重生",
+  "last_updatetime": 1290560954,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xqdzhadg",
+  "hidden": 0,
+  "hot_num": 285508,
+  "hit_num": 93823,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13751,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1614,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13751,
+          "chapter_title": "1话",
+          "updatetime": 1291165754,
+          "filesize": 2621224,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 24512851,
+        "uid": 106409511,
+        "content": "这个丘巴卡的昵称翻译成猪儿我也是醉了······",
+        "createtime": 1582597972,
+        "nickname": "天行者星环",
+        "avatar": "https://avatar.dmzj.com/62/58/6258449650c8006e5fb97fb6d96985de.png"
+      },
+      {
+        "comment_id": 2437715,
+        "uid": 104792484,
+        "content": "没有后面的了吗",
+        "createtime": 1499401068,
+        "nickname": "Thanaya",
+        "avatar": "https://avatar.dmzj.com/7e/88/7e88b88cb1c496e3bd9c9f945e550e4f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 8477,
+  "islong": 2,
+  "direction": 1,
+  "title": "雪町巴士",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/xuetbs.jpg",
+  "description": "就快要毕业了，两个人在回家的路上，感到一天一天越变越短—— ",
+  "last_updatetime": 1331829251,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xuetbs",
+  "hidden": 0,
+  "hot_num": 49000,
+  "hit_num": 413772,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 19106,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4481,
+      "tag_name": "熊冈冬夕"
+    }
+  ],
+  "subscribe_num": 303,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19106,
+          "chapter_title": "1话",
+          "updatetime": 1331829251,
+          "filesize": 5858959,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 24839192,
+        "uid": 100378600,
+        "content": "挺不错的！",
+        "createtime": 1583265162,
+        "nickname": "夏铃娜娜",
+        "avatar": "https://avatar.dmzj.com/db/bc/dbbcc208be3b1578f29f3fe63989e5ef.png"
+      },
+      {
+        "comment_id": 22793018,
+        "uid": 101241546,
+        "content": "这也太文艺了吧，感觉还差一点",
+        "createtime": 1577098180,
+        "nickname": "雷翔龍翼",
+        "avatar": "https://avatar.dmzj.com/e2/e4/e2e49199e5024f8f9d8548b1f260d120.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

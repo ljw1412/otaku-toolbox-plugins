@@ -1,0 +1,108 @@
+{
+  "id": 51299,
+  "islong": 2,
+  "direction": 1,
+  "title": "与猫随行",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/ymsx191213.jpg",
+  "description": "一人一猫的终末之旅——…",
+  "last_updatetime": 1577427431,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "walkingcat",
+  "hidden": 0,
+  "hot_num": 1777974,
+  "hit_num": 228661,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 92498,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18380,
+      "tag_name": "北冈朋"
+    }
+  ],
+  "subscribe_num": 7434,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92498,
+          "chapter_title": "4话",
+          "updatetime": 1577427431,
+          "filesize": 2107132,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 92247,
+          "chapter_title": "3话",
+          "updatetime": 1576805010,
+          "filesize": 2454335,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 92246,
+          "chapter_title": "2话",
+          "updatetime": 1576804987,
+          "filesize": 2281118,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 92317,
+          "chapter_title": "1话",
+          "updatetime": 1577083136,
+          "filesize": 2826951,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 99,
+    "latest_comment": [
+      {
+        "comment_id": 26672379,
+        "uid": 108255324,
+        "content": "好可爱啊啊啊不知道还会更新吗",
+        "createtime": 1587396563,
+        "nickname": "opes258",
+        "avatar": "https://avatar.dmzj.com/83/91/8391e1d5c2f9e02a213ffb5d35abff9f.png"
+      },
+      {
+        "comment_id": 26217670,
+        "uid": 105518721,
+        "content": "这个相处方式和欧维和他捡到的猫猫的相处模式好像哈哈哈哈",
+        "createtime": 1586319056,
+        "nickname": "Erik83829",
+        "avatar": "https://avatar.dmzj.com/44/34/44343a27cfde612febadea2726f7a7db.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

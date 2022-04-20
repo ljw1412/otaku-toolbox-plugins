@@ -1,0 +1,87 @@
+{
+  "id": 51832,
+  "islong": 2,
+  "direction": 1,
+  "title": "想让你听到的歌",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/200114xrntddg.jpg",
+  "description": "拼命挣扎、\n放声大吼、\n坚信可以传达。",
+  "last_updatetime": 1578989625,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiangrangnitingdaodege",
+  "hidden": 0,
+  "hot_num": 776777,
+  "hit_num": 52942,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96080,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18620,
+      "tag_name": "くわばらたもつ"
+    }
+  ],
+  "subscribe_num": 2439,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96080,
+          "chapter_title": "1话",
+          "updatetime": 1578989625,
+          "filesize": 8219781,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 57,
+    "latest_comment": [
+      {
+        "comment_id": 27001061,
+        "uid": 10143213,
+        "content": "生命中的过客，希望她们有缘再相见",
+        "createtime": 1588313105,
+        "nickname": "狮子花",
+        "avatar": "https://avatar.dmzj.com/d0/a9/d0a9e76e9a3f63f94f9170b636516610.png"
+      },
+      {
+        "comment_id": 26735766,
+        "uid": 100842795,
+        "content": "一定还有余地的，一定TT^TT",
+        "createtime": 1587570952,
+        "nickname": "zyxl",
+        "avatar": "https://avatar.dmzj.com/b7/cf/b7cfe5eeed499f84c63510e2299d0b1e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

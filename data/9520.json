@@ -1,0 +1,91 @@
+{
+  "id": 9520,
+  "islong": 2,
+  "direction": 1,
+  "title": "绵梦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/mianmeng.jpg",
+  "description": "抱着梦和期待和些许的不安踏入北方的大地！？\n",
+  "last_updatetime": 1349861887,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mianmeng",
+  "hidden": 0,
+  "hot_num": 86243,
+  "hit_num": 956948,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20289,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5038,
+      "tag_name": "おたゆめ"
+    }
+  ],
+  "subscribe_num": 415,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20289,
+          "chapter_title": "1话",
+          "updatetime": 1349861887,
+          "filesize": 3028665,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 26968377,
+        "uid": 107520550,
+        "content": "开心的宿舍生活开始了，也就完结了",
+        "createtime": 1588223607,
+        "nickname": "百合什么的最棒不是吗",
+        "avatar": "https://avatar.dmzj.com/8e/97/8e976fbc5888e9340d402cf7b64a980f.png"
+      },
+      {
+        "comment_id": 26424544,
+        "uid": 101346595,
+        "content": "完结。。。",
+        "createtime": 1586754878,
+        "nickname": "素描赛高",
+        "avatar": "https://avatar.dmzj.com/78/13/781390aec530daef0758ba9fc1487602.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

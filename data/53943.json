@@ -1,0 +1,87 @@
+{
+  "id": 53943,
+  "islong": 2,
+  "direction": 1,
+  "title": "绚绽舞台！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/huajubu0428.jpg",
+  "description": "武断做出决定的我加入话剧部的故事",
+  "last_updatetime": 1588062002,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xuanzhanwutai",
+  "hidden": 0,
+  "hot_num": 180701,
+  "hit_num": 14985,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96956,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12404,
+      "tag_name": "春园ショウ"
+    }
+  ],
+  "subscribe_num": 869,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96956,
+          "chapter_title": "1话",
+          "updatetime": 1588062002,
+          "filesize": 7190771,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 27076832,
+        "uid": 104580875,
+        "content": "太太我吹爆！！",
+        "createtime": 1588520922,
+        "nickname": "西红柿炒鸡蛋加蛋",
+        "avatar": "https://avatar.dmzj.com/38/06/38062e00f18834976b1e0e1dc42314e6.png"
+      },
+      {
+        "comment_id": 27072914,
+        "uid": 109552367,
+        "content": "春园老师我一辈子的爱",
+        "createtime": 1588515606,
+        "nickname": "pfct",
+        "avatar": "https://avatar.dmzj.com/f0/05/f00575b5548cd4f5c9036c9f2e88d202.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

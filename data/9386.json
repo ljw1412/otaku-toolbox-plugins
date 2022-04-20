@@ -1,0 +1,87 @@
+{
+  "id": 9386,
+  "islong": 2,
+  "direction": 1,
+  "title": "耶和华",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/yehehua.jpg",
+  "description": "恐怖的三角是真实存在的？一切还是谜团。",
+  "last_updatetime": 1346683715,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yehehua",
+  "hidden": 0,
+  "hot_num": 115743,
+  "hit_num": 485339,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 18197,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 495,
+      "tag_name": "武井宏之"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 612,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 18197,
+          "chapter_title": "1话",
+          "updatetime": 1346683715,
+          "filesize": 5672592,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 1666695,
+        "uid": 102123008,
+        "content": "比尔乱入……",
+        "createtime": 1484302599,
+        "nickname": "夏麦麦的小西瓜",
+        "avatar": "https://avatar.dmzj.com/ff/60/ff6067bde6f57d57ef0e30c2a747e6ba.png"
+      },
+      {
+        "comment_id": 1607614,
+        "uid": 100814324,
+        "content": "这个黄色的三角形好像在哪里见过",
+        "createtime": 1482934789,
+        "nickname": "螺旋の天空树",
+        "avatar": "https://avatar.dmzj.com/65/91/6591de7fe71ffdd7aa2939c92ef3ad46.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

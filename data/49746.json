@@ -1,0 +1,87 @@
+{
+  "id": 49746,
+  "islong": 2,
+  "direction": 1,
+  "title": "变形金刚 设定资料 画册",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/bxjg20190821.jpg",
+  "description": "变形金刚,设定资料,画册",
+  "last_updatetime": 1566378896,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bianxingjingangshedingziliaohuaji",
+  "hidden": 1,
+  "hot_num": 161333,
+  "hit_num": 45030,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91959,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 823,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91959,
+          "chapter_title": "1卷",
+          "updatetime": 1566378896,
+          "filesize": 20061721,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 26190301,
+        "uid": 107982356,
+        "content": "好东西。",
+        "createtime": 1586262378,
+        "nickname": "UltronXX",
+        "avatar": "https://avatar.dmzj.com/1e/57/1e5786220878accdf018e52f89a83a72.png"
+      },
+      {
+        "comment_id": 19637762,
+        "uid": 101754483,
+        "content": "这是开始搬运某站的资源吗？各个平台都有，到底还是没能挺过去啊。",
+        "createtime": 1566409940,
+        "nickname": "呐～～～",
+        "avatar": "https://avatar.dmzj.com/32/8d/328d503c5271f9304bd443d213be56aa.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

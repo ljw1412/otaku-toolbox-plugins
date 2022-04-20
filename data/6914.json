@@ -1,0 +1,79 @@
+{
+  "id": 6914,
+  "islong": 2,
+  "direction": 1,
+  "title": "Cloth_Weaver",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/02_0e70ac9d412e783a0fdb14e83825e547.jpg",
+  "description": "兩人交織，拯救世界的故事",
+  "last_updatetime": 1290410839,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "clothweaver",
+  "hidden": 0,
+  "hot_num": 7473,
+  "hit_num": 146779,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13079,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3700,
+      "tag_name": "赤井圣雪"
+    }
+  ],
+  "subscribe_num": 37,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13079,
+          "chapter_title": "1话",
+          "updatetime": 1291015639,
+          "filesize": 9626543,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 195081,
+        "uid": 25103042,
+        "content": "这时只要微笑就可以了",
+        "createtime": 1389798472,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

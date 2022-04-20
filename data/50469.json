@@ -1,0 +1,112 @@
+{
+  "id": 50469,
+  "islong": 2,
+  "direction": 1,
+  "title": "跷板游戏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/191102qiaobanyouxi.jpg",
+  "description": "爱情的跷跷板，我在这头，你在那头，时而你比我高，时而我比你高 ",
+  "last_updatetime": 1570930345,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qiaobanyouxi",
+  "hidden": 0,
+  "hot_num": 2503919,
+  "hit_num": 174914,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 89675,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17231,
+      "tag_name": "神地あたる"
+    }
+  ],
+  "subscribe_num": 11018,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89675,
+          "chapter_title": "4话",
+          "updatetime": 1570930345,
+          "filesize": 771580,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 89516,
+          "chapter_title": "3话",
+          "updatetime": 1570543432,
+          "filesize": 405351,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 89517,
+          "chapter_title": "2话",
+          "updatetime": 1570543444,
+          "filesize": 959325,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 89418,
+          "chapter_title": "1话",
+          "updatetime": 1570325186,
+          "filesize": 827726,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 346,
+    "latest_comment": [
+      {
+        "comment_id": 27096151,
+        "uid": 110848243,
+        "content": "也腰斩了吗",
+        "createtime": 1588584783,
+        "nickname": "是肆柠啊",
+        "avatar": "https://avatar.dmzj.com/7e/7e/7e7eb7a226470d4920d4b28ad3b87b40.png"
+      },
+      {
+        "comment_id": 26904527,
+        "uid": 108421043,
+        "content": "真实的脑回路",
+        "createtime": 1588011127,
+        "nickname": "三千扉",
+        "avatar": "https://avatar.dmzj.com/90/09/9009e50bcc37d5020c98e760fc8933a3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

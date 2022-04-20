@@ -1,0 +1,87 @@
+{
+  "id": 50386,
+  "islong": 2,
+  "direction": 1,
+  "title": "太阳的叙事曲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/191001tydxsq.jpg",
+  "description": "孩子们与猫咪们的故事",
+  "last_updatetime": 1569894804,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "taiyangdexushiqu",
+  "hidden": 0,
+  "hot_num": 367062,
+  "hit_num": 18728,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93343,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17969,
+      "tag_name": "植田辽太郎 "
+    }
+  ],
+  "subscribe_num": 1244,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93343,
+          "chapter_title": "1话",
+          "updatetime": 1569894804,
+          "filesize": 8315197,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 23769952,
+        "uid": 107766804,
+        "content": "猫吃了个寡妇。",
+        "createtime": 1580793165,
+        "nickname": "冥间蒸发",
+        "avatar": "https://avatar.dmzj.com/28/21/2821d717bb29230d5506fb31ad7bbd5a.png"
+      },
+      {
+        "comment_id": 21895849,
+        "uid": 104771494,
+        "content": "应该不是猫吃的吧，不然为什么门是关着的，猫应该不会拉门",
+        "createtime": 1572829350,
+        "nickname": "小熊65285",
+        "avatar": "https://avatar.dmzj.com/a0/af/a0afa4bf32c84e5501075d0fa30ff66a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

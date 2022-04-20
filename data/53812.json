@@ -1,0 +1,87 @@
+{
+  "id": 53812,
+  "islong": 2,
+  "direction": 1,
+  "title": "Strawberry tart",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/Strawberry2020422.jpg",
+  "description": "红魔馆的日常。",
+  "last_updatetime": 1587522933,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "strawnerrytart",
+  "hidden": 0,
+  "hot_num": 34924,
+  "hit_num": 6557,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100445,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6502,
+      "tag_name": "三轮フタバ"
+    }
+  ],
+  "subscribe_num": 157,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100445,
+          "chapter_title": "1话",
+          "updatetime": 1587522933,
+          "filesize": 3637158,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 26733985,
+        "uid": 110721727,
+        "content": "好棒……",
+        "createtime": 1587568968,
+        "nickname": "珊珊超爱锐锐",
+        "avatar": "https://avatar.dmzj.com/de/54/de54771632506f123140afbcf9e33b8f.png"
+      },
+      {
+        "comment_id": 26729672,
+        "uid": 108832654,
+        "content": "画风好少（幼）女哦，这是好的。",
+        "createtime": 1587563712,
+        "nickname": "蓬莱岛的王半仙",
+        "avatar": "https://avatar.dmzj.com/5d/95/5d9572c279b865b862892de55fa09abd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

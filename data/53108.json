@@ -1,0 +1,95 @@
+{
+  "id": 53108,
+  "islong": 2,
+  "direction": 1,
+  "title": "Touhou Rockstar",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/TouhouRockstar200320.jpg",
+  "description": "纯白的雪，令我回想起，那对照鲜明的血腥之红。那一天，假如----过去，相逢以后。此时，我的心里莫名地涌起了，要坚强地生存下去的信念。",
+  "last_updatetime": 1584708243,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "touhourockstar",
+  "hidden": 0,
+  "hot_num": 70256,
+  "hit_num": 12557,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 95174,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19287,
+      "tag_name": "twinklesnows"
+    },
+    {
+      "tag_id": 19288,
+      "tag_name": "EL2"
+    }
+  ],
+  "subscribe_num": 313,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95174,
+          "chapter_title": "1话",
+          "updatetime": 1584708243,
+          "filesize": 6052082,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 25535149,
+        "uid": 107192665,
+        "content": "还以为是东方X GTA......",
+        "createtime": 1584804620,
+        "nickname": "dmzj_107192665",
+        "avatar": "https://avatar.dmzj.com/91/77/9177d9419e1154c1b1bd6790856e4d1c.png"
+      },
+      {
+        "comment_id": 25512554,
+        "uid": 109458667,
+        "content": "人怎么这么少？越共呢？",
+        "createtime": 1584752995,
+        "nickname": "PROJECTお",
+        "avatar": "https://avatar.dmzj.com/70/81/7081325717f66fd736d4f9d8470adc8d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 6414,
+  "islong": 2,
+  "direction": 1,
+  "title": "徒花",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/01_33f0e7044c1206a35d1c0be5c2c87aeb.jpg",
+  "description": "讲述一位浪客的短篇故事",
+  "last_updatetime": 1287821253,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tuhua",
+  "hidden": 0,
+  "hot_num": 7458,
+  "hit_num": 138406,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12387,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3451,
+      "tag_name": "山田樱子"
+    }
+  ],
+  "subscribe_num": 31,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12387,
+          "chapter_title": "1话",
+          "updatetime": 1288426054,
+          "filesize": 4155662,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 11736691,
+        "uid": 105270144,
+        "content": "好帅气",
+        "createtime": 1550685889,
+        "nickname": "xaxs最高",
+        "avatar": "https://avatar.dmzj.com/db/ba/dbbad5a5ea4fda3731c5d685e638d7b4.png"
+      },
+      {
+        "comment_id": 550144,
+        "uid": 12130495,
+        "content": "。。。。。。。。。。。。。",
+        "createtime": 1450857537,
+        "nickname": "阿萨德W",
+        "avatar": "https://avatar.dmzj.com/7c/4e/7c4e8693d06c97c87595a168df33314a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

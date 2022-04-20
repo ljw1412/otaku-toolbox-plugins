@@ -1,0 +1,83 @@
+{
+  "id": 7009,
+  "islong": 2,
+  "direction": 1,
+  "title": "少年侦探Q",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/shaonianzhentanQ.jpg",
+  "description": "所有杀人放火、作奸犯科的歹徒们倒霉了！少年侦探Q凭著超强的推理能力，将一一揭发你的犯行，将你绳之以法！\n",
+  "last_updatetime": 1292985071,
+  "last_update_chapter_name": "第01卷（模糊）",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shaonianzhentanq",
+  "hidden": 0,
+  "hot_num": 19428,
+  "hit_num": 625633,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13228,
+  "types": [
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3742,
+      "tag_name": "神贺银"
+    }
+  ],
+  "subscribe_num": 91,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13228,
+          "chapter_title": "1卷",
+          "updatetime": 1292985072,
+          "filesize": 21988932,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 3782082,
+        "uid": 104833195,
+        "content": "没人？",
+        "createtime": 1517329274,
+        "nickname": "不可食用慕斯",
+        "avatar": "https://avatar.dmzj.com/8f/14/8f142ca9cb25fbf3d3d25c48c8d2a575.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

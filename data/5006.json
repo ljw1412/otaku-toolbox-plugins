@@ -1,0 +1,98 @@
+{
+  "id": 5006,
+  "islong": 2,
+  "direction": 1,
+  "title": "妙不可言",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/1_2f5e754dca51f6ad50ee511763d3ee5a.jpg",
+  "description": "臼井仪人是谁就不多废话了。这2本短篇和前阵子动漫日推荐过的《疯狂世界》等5本臼井作品一样是四格荤段路线。轻松有趣变态恶搞 ",
+  "last_updatetime": 1280732793,
+  "last_update_chapter_name": "VOL2",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "miaobukeyan",
+  "hidden": 1,
+  "hot_num": 46165,
+  "hit_num": 1225182,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 9004,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3383,
+      "tag_name": "臼井仪人"
+    }
+  ],
+  "subscribe_num": 290,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9004,
+          "chapter_title": "2卷",
+          "updatetime": 1281337593,
+          "filesize": 13392666,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9003,
+          "chapter_title": "1卷",
+          "updatetime": 1281337593,
+          "filesize": 13834759,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 38,
+    "latest_comment": [
+      {
+        "comment_id": 27087142,
+        "uid": 106341675,
+        "content": "妙不可言",
+        "createtime": 1588557013,
+        "nickname": "乱00570",
+        "avatar": "https://avatar.dmzj.com/52/51/525193ff07327ac4a02dcdfc470d5cb2.png"
+      },
+      {
+        "comment_id": 23015781,
+        "uid": 104268349,
+        "content": "从此世间再无黑暗",
+        "createtime": 1577945431,
+        "nickname": "testtary",
+        "avatar": "https://avatar.dmzj.com/58/53/5853eb256a216b189758967d115cc14a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

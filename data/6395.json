@@ -1,0 +1,84 @@
+{
+  "id": 6395,
+  "islong": 2,
+  "direction": 2,
+  "title": "行会",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/xinghui.jpg",
+  "description": "由美女宅女费莉希娅·戴伊（Felicia Day）自编自导自演的网络视频连续剧，她曾经沉迷于《魔兽世界》",
+  "last_updatetime": 1290998864,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xinghui",
+  "hidden": 0,
+  "hot_num": 9110,
+  "hit_num": 130328,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 14105,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3462,
+      "tag_name": "Felicia Day Jim Rugg"
+    }
+  ],
+  "subscribe_num": 44,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 14105,
+          "chapter_title": "3话",
+          "updatetime": 1290998864,
+          "filesize": 3678187,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 13762,
+          "chapter_title": "2话",
+          "updatetime": 1288943502,
+          "filesize": 4767152,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13551,
+          "chapter_title": "1话",
+          "updatetime": 1288237591,
+          "filesize": 3290632,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

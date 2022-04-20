@@ -1,0 +1,119 @@
+{
+  "id": 7258,
+  "islong": 2,
+  "direction": 2,
+  "title": "五浪人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/5langren.jpg",
+  "description": "公元1600年，东西部氏部会战于关原。此役之后，皆不复存。如今的天下已变得简单，纯粹，徵战，伐戮。或生，或死。或荣，或辱。",
+  "last_updatetime": 1311044571,
+  "last_update_chapter_name": "第05卷",
+  "copyright": 0,
+  "first_letter": "5",
+  "comic_py": "5langren",
+  "hidden": 0,
+  "hot_num": 55900,
+  "hit_num": 375284,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 15079,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3534,
+      "tag_name": "DC MARVEL"
+    }
+  ],
+  "subscribe_num": 225,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 15079,
+          "chapter_title": "5卷",
+          "updatetime": 1311044571,
+          "filesize": 3298280,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 15028,
+          "chapter_title": "4卷",
+          "updatetime": 1310379791,
+          "filesize": 3032068,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 14980,
+          "chapter_title": "3卷",
+          "updatetime": 1309921352,
+          "filesize": 2943855,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 14342,
+          "chapter_title": "2卷",
+          "updatetime": 1302944108,
+          "filesize": 4030223,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 14192,
+          "chapter_title": "1卷",
+          "updatetime": 1302502312,
+          "filesize": 3105038,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 7683844,
+        "uid": 105766575,
+        "content": "五浪人",
+        "createtime": 1540653151,
+        "nickname": "我是Pam",
+        "avatar": "https://avatar.dmzj.com/20/f7/20f75d6bfdad1a0332422dc07bd01685.png"
+      },
+      {
+        "comment_id": 5964722,
+        "uid": 105955550,
+        "content": "所以，德川家康挂了？",
+        "createtime": 1532994365,
+        "nickname": "卡坦四星神",
+        "avatar": "https://avatar.dmzj.com/75/69/75698016499208175a7514fd86f3ab3b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

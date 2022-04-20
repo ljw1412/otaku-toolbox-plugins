@@ -1,0 +1,124 @@
+{
+  "id": 67,
+  "islong": 2,
+  "direction": 1,
+  "title": "漫画同人会",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj1.com/webpic/7/comicparty.jpg",
+  "description": "男主角千堂和树在刚升入高三，因为就读的高校采用保送大学制，所以生活非常平静悠闲。一日，在朋友大志的诱骗下他偶然参加了一次Comic Party(漫画同人会)，他在会场中不但见识到了漫画同人的魅力也巧遇了多个美丽少女！然后男主角就自称为同人志所感动，以成为一个优秀同人作家为目标而努力…… \n",
+  "last_updatetime": 1307953937,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mhpd",
+  "hidden": 0,
+  "hot_num": 638275,
+  "hit_num": 7438577,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 610,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3249,
+      "tag_name": "后宫"
+    },
+    {
+      "tag_id": 3253,
+      "tag_name": "宅系"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 73,
+      "tag_name": "犬威赤彦"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 3233,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 613,
+          "chapter_title": "5卷",
+          "updatetime": 1178197680,
+          "filesize": 14000785,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 612,
+          "chapter_title": "4卷",
+          "updatetime": 1178197680,
+          "filesize": 8286711,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 611,
+          "chapter_title": "3卷",
+          "updatetime": 1178197680,
+          "filesize": 6856113,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 610,
+          "chapter_title": "2卷",
+          "updatetime": 1307953937,
+          "filesize": 10139859,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 609,
+          "chapter_title": "1卷",
+          "updatetime": 1178197680,
+          "filesize": 12952449,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 92,
+    "latest_comment": [
+      {
+        "comment_id": 30424385,
+        "uid": 100320509,
+        "content": "....",
+        "createtime": 1600449838,
+        "nickname": "〃番组 ヅ",
+        "avatar": "http://avatar.dmzj1.com/3f/4a/3f4aa068bd366717e28982f4a10234d2.png"
+      },
+      {
+        "comment_id": 30084968,
+        "uid": 107297956,
+        "content": "很棒很棒",
+        "createtime": 1598972141,
+        "nickname": "dmzj_107297956",
+        "avatar": "http://avatar.dmzj1.com/d0/48/d048eddf2c5f193f944fd490d5dce9de.png"
+      }
+    ]
+  },
+  "is_need_login": 0,
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 49785,
+  "islong": 2,
+  "direction": 1,
+  "title": "MS开发计划",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/MSkfjh823.jpg",
+  "description": "MS开发计划 设定画册",
+  "last_updatetime": 1566524390,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mskaifajihua",
+  "hidden": 0,
+  "hot_num": 14557,
+  "hit_num": 9856,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 92461,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17686,
+      "tag_name": "Hideki Hoshino"
+    }
+  ],
+  "subscribe_num": 534,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92461,
+          "chapter_title": "1话",
+          "updatetime": 1566524390,
+          "filesize": 6047543,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 20379273,
+        "uid": 100284937,
+        "content": "这玩意怎么看都是个同人志，各种意义上",
+        "createtime": 1568694447,
+        "nickname": "露西華•M•黛",
+        "avatar": "https://avatar.dmzj.com/70/93/7093515e405868bfc3c18a5adc7765c2.png"
+      },
+      {
+        "comment_id": 19797340,
+        "uid": 101176616,
+        "content": "原来铁球高达的万恶之源是你啊！",
+        "createtime": 1566820594,
+        "nickname": "ıunʎn",
+        "avatar": "https://avatar.dmzj.com/85/52/85524982e4e973a3fa25434dfc5bd1a9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

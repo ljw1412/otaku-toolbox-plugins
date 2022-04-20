@@ -1,0 +1,161 @@
+{
+  "id": 51226,
+  "islong": 2,
+  "direction": 1,
+  "title": "toufu宝可梦漫画集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/toufubaokemengmanhuaji.jpg",
+  "description": "toufu老师绘制的，以小光和她的哥达鸭故事为主线的宝可梦漫画。欢乐日常中附带热血战斗，最棒了。\n",
+  "last_updatetime": 1588481095,
+  "last_update_chapter_name": "阿驯讲座",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "toufubaokemengmanhuaji",
+  "hidden": 0,
+  "hot_num": 938007,
+  "hit_num": 907111,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 103045,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18344,
+      "tag_name": "toufu"
+    }
+  ],
+  "subscribe_num": 4064,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 103045,
+          "chapter_title": "9话",
+          "updatetime": 1588481095,
+          "filesize": 5045957,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 102276,
+          "chapter_title": "8话",
+          "updatetime": 1587361700,
+          "filesize": 10328749,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 101225,
+          "chapter_title": "7话",
+          "updatetime": 1585545003,
+          "filesize": 5314996,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 100574,
+          "chapter_title": "6话",
+          "updatetime": 1584418511,
+          "filesize": 2608412,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 99895,
+          "chapter_title": "5话",
+          "updatetime": 1583207343,
+          "filesize": 4987774,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 98920,
+          "chapter_title": "4话",
+          "updatetime": 1581401382,
+          "filesize": 2007453,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 97973,
+          "chapter_title": "3话",
+          "updatetime": 1579239106,
+          "filesize": 5924716,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 96240,
+          "chapter_title": "2话",
+          "updatetime": 1577680779,
+          "filesize": 1578076,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 95742,
+          "chapter_title": "1话",
+          "updatetime": 1576323833,
+          "filesize": 7404890,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 95472,
+          "chapter_title": "0.5话",
+          "updatetime": 1575548743,
+          "filesize": 4627371,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 95206,
+          "chapter_title": "0话",
+          "updatetime": 1574742307,
+          "filesize": 3259310,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 465,
+    "latest_comment": [
+      {
+        "comment_id": 27096368,
+        "uid": 102014087,
+        "content": "小光使出粗腿踹击",
+        "createtime": 1588585436,
+        "nickname": "leisvv",
+        "avatar": "https://avatar.dmzj.com/56/2a/562a52f1e7ffff8ca36bbcecb0948cc7.png"
+      },
+      {
+        "comment_id": 27086353,
+        "uid": 101478325,
+        "content": "虽然表情和语气脑补过来可能欠揍，但是很有道理。",
+        "createtime": 1588553914,
+        "nickname": "╰﹀背叛旳青春",
+        "avatar": "https://avatar.dmzj.com/34/95/34959837ff6b84c79daa5d2ee9849e74.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

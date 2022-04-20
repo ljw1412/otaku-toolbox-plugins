@@ -1,0 +1,87 @@
+{
+  "id": 6409,
+  "islong": 2,
+  "direction": 1,
+  "title": "一击杀虫小惠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/yijishachongxiaohui.jpg",
+  "description": "杀虫机器人",
+  "last_updatetime": 1287653922,
+  "last_update_chapter_name": "CH00",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yijishachongxiaohui",
+  "hidden": 0,
+  "hot_num": 50972,
+  "hit_num": 30201,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12378,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2408,
+      "tag_name": "田中久仁彦"
+    }
+  ],
+  "subscribe_num": 309,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12378,
+          "chapter_title": "0话",
+          "updatetime": 1288258722,
+          "filesize": 648470,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 15242789,
+        "uid": 106301597,
+        "content": "挺好看的",
+        "createtime": 1556775164,
+        "nickname": "尤里安",
+        "avatar": "https://avatar.dmzj.com/f6/92/f692ea5e3ec4d12097583985babe709c.png"
+      },
+      {
+        "comment_id": 13835747,
+        "uid": 101796005,
+        "content": "1",
+        "createtime": 1554513566,
+        "nickname": "fiatluv",
+        "avatar": "https://avatar.dmzj.com/ba/75/ba753a9592f9402608c7e10358dc996f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 50660,
+  "islong": 2,
+  "direction": 1,
+  "title": "在那之后某日的有顶天",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/znzhmrdydt20191016.jpg",
+  "description": "打发无聊的日子,当然是要和朋友在一起啦!",
+  "last_updatetime": 1571191496,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zainazhihoumourideyoudingtian",
+  "hidden": 0,
+  "hot_num": 29934,
+  "hit_num": 2651,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94079,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18085,
+      "tag_name": "そるち"
+    }
+  ],
+  "subscribe_num": 139,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94079,
+          "chapter_title": "1话",
+          "updatetime": 1571191496,
+          "filesize": 2049131,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 21363527,
+        "uid": 102290859,
+        "content": "東方屠榜",
+        "createtime": 1571202400,
+        "nickname": "Αλέξιος",
+        "avatar": "https://avatar.dmzj.com/81/ae/81aeadfdc449e248225bceefe639db89.png"
+      },
+      {
+        "comment_id": 21359596,
+        "uid": 109659223,
+        "content": "沙发",
+        "createtime": 1571193775,
+        "nickname": "新路人甲",
+        "avatar": "https://avatar.dmzj.com/82/31/8231e55452546ac0ddff69a641458037.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

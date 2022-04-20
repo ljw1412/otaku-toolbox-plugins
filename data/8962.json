@@ -1,0 +1,87 @@
+{
+  "id": 8962,
+  "islong": 2,
+  "direction": 1,
+  "title": "士道SUNRISE",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/shidaosunrise.jpg",
+  "description": "士道SUNRISE全一卷，武士之魂再次燃烧！！",
+  "last_updatetime": 1340016519,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shidaosunrise",
+  "hidden": 0,
+  "hot_num": 239921,
+  "hit_num": 1307747,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20119,
+  "authors": [
+    {
+      "tag_id": 92,
+      "tag_name": "高桥努(高桥ツトム)"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3324,
+      "tag_name": "武侠"
+    }
+  ],
+  "subscribe_num": 2068,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20119,
+          "chapter_title": "1卷",
+          "updatetime": 1340016519,
+          "filesize": 34637720,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 52,
+    "latest_comment": [
+      {
+        "comment_id": 24867165,
+        "uid": 105738232,
+        "content": "wryyyyyyy",
+        "createtime": 1583331402,
+        "nickname": "Real alive",
+        "avatar": "https://avatar.dmzj.com/69/9b/699b545e25666ffa334e811daa19eabf.png"
+      },
+      {
+        "comment_id": 24857646,
+        "uid": 107057533,
+        "content": "Aaaaaa",
+        "createtime": 1583318934,
+        "nickname": "dmzj_107057533",
+        "avatar": "https://avatar.dmzj.com/e9/7f/e97f9bfe49e015528877db2d5988af2c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

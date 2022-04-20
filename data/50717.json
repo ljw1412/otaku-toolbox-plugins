@@ -1,0 +1,87 @@
+{
+  "id": 50717,
+  "islong": 2,
+  "direction": 1,
+  "title": "雪中偶拾",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/xzos20191020.jpg",
+  "description": "下雪天,你会捡到什么呢?",
+  "last_updatetime": 1571538401,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xuezhonoushi",
+  "hidden": 0,
+  "hot_num": 75578,
+  "hit_num": 8536,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93410,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5650,
+      "tag_name": "チャりん"
+    }
+  ],
+  "subscribe_num": 340,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93410,
+          "chapter_title": "1话",
+          "updatetime": 1571538401,
+          "filesize": 1011332,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 25296729,
+        "uid": 105877380,
+        "content": "有点寿命论的味道。",
+        "createtime": 1584286642,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      },
+      {
+        "comment_id": 22329295,
+        "uid": 101904193,
+        "content": "被官作伤害了，回来看看美咲本",
+        "createtime": 1574772383,
+        "nickname": "秘匿的四季",
+        "avatar": "https://avatar.dmzj.com/78/58/7858cec1f35e0fc57cd9814bc46260e9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

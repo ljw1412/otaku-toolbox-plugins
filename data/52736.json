@@ -1,0 +1,104 @@
+{
+  "id": 52736,
+  "islong": 2,
+  "direction": 2,
+  "title": "青春什么的才不需要！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1059334411583064515.jpg",
+  "description": "青春什么的爷才不需要啊！",
+  "last_updatetime": 1583683057,
+  "last_update_chapter_name": "第1.2话",
+  "copyright": 1,
+  "first_letter": "q",
+  "comic_py": "qingchunshenmedecaibuxuyao",
+  "hidden": 0,
+  "hot_num": 14448,
+  "hit_num": 227,
+  "uid": 105933441,
+  "is_lock": 0,
+  "last_update_chapter_id": 100195,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3253,
+      "tag_name": "宅系"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14652,
+      "tag_name": "江雄"
+    }
+  ],
+  "subscribe_num": 57,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100195,
+          "chapter_title": "1.2话",
+          "updatetime": 1583683057,
+          "filesize": 637484,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 99913,
+          "chapter_title": "1.1话",
+          "updatetime": 1583064820,
+          "filesize": 851776,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "漫画练习作品，很多都是实验性质的就别太认真啦~欢迎留言",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 25372187,
+        "uid": 105081196,
+        "content": "果然是套路，大冒险",
+        "createtime": 1584451583,
+        "nickname": "qzuser55119508",
+        "avatar": "https://avatar.dmzj.com/be/56/be561ca7c95a62bb3d8ebeb9c2ce5a2c.png"
+      },
+      {
+        "comment_id": 24813764,
+        "uid": 108735332,
+        "content": "扣弄西北老汉最喜欢做的事就是对那些自以为是随意告白的庸俗女人说no来拒绝他们……",
+        "createtime": 1583231824,
+        "nickname": "泉浅",
+        "avatar": "https://avatar.dmzj.com/8a/8b/8a8bb1a12f06895be5814309a21fbc2b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 49062,
+  "islong": 2,
+  "direction": 1,
+  "title": "华丽礼服图鉴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/190704huaji.jpg",
+  "description": "中世纪欧洲贵妇女的衣著资料，当然是用画的，主要是黑白稿。",
+  "last_updatetime": 1562242230,
+  "last_update_chapter_name": "画集",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hualilifutujian",
+  "hidden": 0,
+  "hot_num": 690082,
+  "hit_num": 82176,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 89951,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17330,
+      "tag_name": "花园あずき"
+    },
+    {
+      "tag_id": 17331,
+      "tag_name": "德井淑子"
+    }
+  ],
+  "subscribe_num": 4738,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89951,
+          "chapter_title": "1卷",
+          "updatetime": 1562242230,
+          "filesize": 13725430,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 127,
+    "latest_comment": [
+      {
+        "comment_id": 27033304,
+        "uid": 100850325,
+        "content": "好可爱呀",
+        "createtime": 1588409503,
+        "nickname": "苍露曦",
+        "avatar": "https://avatar.dmzj.com/27/82/2782e9b10172a2f3974a7cf8206746c1.png"
+      },
+      {
+        "comment_id": 26830747,
+        "uid": 101400885,
+        "content": "哇，谢谢太棒了吧⊙▽⊙",
+        "createtime": 1587822883,
+        "nickname": "喋研",
+        "avatar": "https://avatar.dmzj.com/36/85/36853baf1cc43bdf24dbfbcc8119e672.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

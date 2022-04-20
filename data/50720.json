@@ -1,0 +1,108 @@
+{
+  "id": 50720,
+  "islong": 2,
+  "direction": 1,
+  "title": "没有玛丽亚的小镇-卡洛奇拉故事-",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/storyofcarocheila20191020.jpg",
+  "description": "以虚构的小镇卡洛奇拉为舞台，全四篇悲伤罪恶与希望的杰作故事。",
+  "last_updatetime": 1587887564,
+  "last_update_chapter_name": "剪子",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "meiyoumaliyadexiaozhenkaluoqilagushi",
+  "hidden": 0,
+  "hot_num": 1436953,
+  "hit_num": 314159,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 101461,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4451,
+      "tag_name": "笠井スイ"
+    }
+  ],
+  "subscribe_num": 5763,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101461,
+          "chapter_title": "剪子",
+          "updatetime": 1587887564,
+          "filesize": 18653236,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 101049,
+          "chapter_title": "落发",
+          "updatetime": 1587139140,
+          "filesize": 20710364,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 94515,
+          "chapter_title": "金雀枝",
+          "updatetime": 1572271192,
+          "filesize": 12773063,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94253,
+          "chapter_title": "Solitude",
+          "updatetime": 1571561838,
+          "filesize": 11697421,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 82,
+    "latest_comment": [
+      {
+        "comment_id": 27070870,
+        "uid": 108035231,
+        "content": "粗",
+        "createtime": 1588511838,
+        "nickname": "龙须不如面",
+        "avatar": "https://avatar.dmzj.com/13/06/1306f1c0be44fb71e4fb7f223cb7041f.png"
+      },
+      {
+        "comment_id": 26950577,
+        "uid": 102382562,
+        "content": "故事还蛮赞的。",
+        "createtime": 1588115541,
+        "nickname": "画画的小雪人",
+        "avatar": "https://avatar.dmzj.com/56/be/56beb5f23cab7346cb2cc037c39b18b7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 7560,
+  "islong": 2,
+  "direction": 1,
+  "title": "Blind Doll",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/bjdro.jpg",
+  "description": "酒井真由最新短篇「Blind Doll」（意为“看不见的人偶小姐“），酒井难得的悲情作品，感人忧伤直达你心底！",
+  "last_updatetime": 1311416837,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "blinddoll",
+  "hidden": 0,
+  "hot_num": 130852,
+  "hit_num": 465471,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 15865,
+  "authors": [
+    {
+      "tag_id": 184,
+      "tag_name": "酒井真由"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "subscribe_num": 846,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 15865,
+          "chapter_title": "1话",
+          "updatetime": 1311416837,
+          "filesize": 4583928,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 6568437,
+        "uid": 107489251,
+        "content": "只为悲伤而悲伤",
+        "createtime": 1535576701,
+        "nickname": "三十石moon",
+        "avatar": "https://avatar.dmzj.com/74/38/74387eab673e33d6558217d1370e342d.png"
+      },
+      {
+        "comment_id": 4487610,
+        "uid": 100142163,
+        "content": "男主为啥要死啊",
+        "createtime": 1524674611,
+        "nickname": "真梨江",
+        "avatar": "https://avatar.dmzj.com/74/80/7480b9916df2fba23ee3d742fe7344bc.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

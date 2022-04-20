@@ -1,0 +1,91 @@
+{
+  "id": 48742,
+  "islong": 2,
+  "direction": 1,
+  "title": "几时几事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/jishijishi111.jpg",
+  "description": "由四篇小故事组成的结界组日常琐事",
+  "last_updatetime": 1559870438,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jishijishi",
+  "hidden": 0,
+  "hot_num": 1060447,
+  "hit_num": 45319,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 89009,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12825,
+      "tag_name": "shnva"
+    }
+  ],
+  "subscribe_num": 4714,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89009,
+          "chapter_title": "1话",
+          "updatetime": 1559870438,
+          "filesize": 4236284,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 275,
+    "latest_comment": [
+      {
+        "comment_id": 26968637,
+        "uid": 102047534,
+        "content": "shnva老师，永远滴神！！！",
+        "createtime": 1588226015,
+        "nickname": "ZJX959",
+        "avatar": "https://avatar.dmzj.com/21/46/2146599fa898ea515ebe59cea01f32e0.png"
+      },
+      {
+        "comment_id": 26796839,
+        "uid": 108856445,
+        "content": "这是有价值的评论624",
+        "createtime": 1587736098,
+        "nickname": "墨羽华",
+        "avatar": "https://avatar.dmzj.com/2c/bf/2cbf7e8dcf01bda74c54719f539078e5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

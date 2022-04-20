@@ -1,0 +1,119 @@
+{
+  "id": 53846,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔神Z：重燃之火",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/200423mszcrzh.jpg",
+  "description": "本作品为魔神Z无限剧场上映前连载的两部漫画之一，由衣谷游所绘。本作明确了原作（东映版）中暧昧不清的兜十藏和地狱博士的关系，重新讲述魔神传奇的起源。",
+  "last_updatetime": 1588248808,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "moshenzchongranzhihuo",
+  "hidden": 0,
+  "hot_num": 160615,
+  "hit_num": 107936,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 102914,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 230,
+      "tag_name": "永井豪"
+    },
+    {
+      "tag_id": 944,
+      "tag_name": "衣谷游"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 753,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102914,
+          "chapter_title": "5话",
+          "updatetime": 1588248808,
+          "filesize": 2419811,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 102854,
+          "chapter_title": "4话",
+          "updatetime": 1588225590,
+          "filesize": 3385644,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 102645,
+          "chapter_title": "3话",
+          "updatetime": 1587967972,
+          "filesize": 2646707,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 102644,
+          "chapter_title": "2话",
+          "updatetime": 1587967757,
+          "filesize": 3967979,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 102643,
+          "chapter_title": "1话",
+          "updatetime": 1587967745,
+          "filesize": 7591197,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 27002354,
+        "uid": 106986946,
+        "content": "k7酱和m2酱又要死了",
+        "createtime": 1588317014,
+        "nickname": "dmzj_106986946",
+        "avatar": "https://avatar.dmzj.com/86/f7/86f7f6d22979e05948728d3d3c79a0a3.png"
+      },
+      {
+        "comment_id": 26999257,
+        "uid": 105000432,
+        "content": "火箭拳的祖宗",
+        "createtime": 1588307357,
+        "nickname": "cgxyz312",
+        "avatar": "https://avatar.dmzj.com/28/13/28131e5df936f8586bfb34bd2b911f39.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

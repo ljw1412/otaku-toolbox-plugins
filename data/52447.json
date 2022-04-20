@@ -1,0 +1,87 @@
+{
+  "id": 52447,
+  "islong": 2,
+  "direction": 1,
+  "title": "虽然不能在天上飞",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/xztsf2020221.jpg",
+  "description": "吸血鬼少年与自称魔女的少女发生的小故事。",
+  "last_updatetime": 1582253082,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "suiranbunengzaitianshangfei",
+  "hidden": 0,
+  "hot_num": 505920,
+  "hit_num": 129390,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97570,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18988,
+      "tag_name": "南文夏"
+    }
+  ],
+  "subscribe_num": 2369,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97570,
+          "chapter_title": "1话",
+          "updatetime": 1582253082,
+          "filesize": 7446436,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 99,
+    "latest_comment": [
+      {
+        "comment_id": 26313307,
+        "uid": 102070841,
+        "content": "爱了",
+        "createtime": 1586521368,
+        "nickname": "淼川雨",
+        "avatar": "https://avatar.dmzj.com/31/54/3154c6b87e72e04b5cfd2340ebf2e443.png"
+      },
+      {
+        "comment_id": 25298848,
+        "uid": 104375854,
+        "content": "好甜的短篇，结婚！",
+        "createtime": 1584288860,
+        "nickname": "戍月十七",
+        "avatar": "https://avatar.dmzj.com/42/51/4251bd44a90a41d00abc0db9397bfdd4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

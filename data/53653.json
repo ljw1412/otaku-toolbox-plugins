@@ -1,0 +1,104 @@
+{
+  "id": 53653,
+  "islong": 1,
+  "direction": 2,
+  "title": "没画漫画的今天",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1025514181586722666.jpg",
+  "description": "没画异世界漫画的今天",
+  "last_updatetime": 1587599804,
+  "last_update_chapter_name": "第02话",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "meihuamanhuadejintian",
+  "hidden": 0,
+  "hot_num": 117657,
+  "hit_num": 11450,
+  "uid": 102551418,
+  "is_lock": 0,
+  "last_update_chapter_id": 96728,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3253,
+      "tag_name": "宅系"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19560,
+      "tag_name": "guanmozi"
+    }
+  ],
+  "subscribe_num": 557,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96728,
+          "chapter_title": "2话",
+          "updatetime": 1587599804,
+          "filesize": 466528,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 96330,
+          "chapter_title": "1话",
+          "updatetime": 1586723304,
+          "filesize": 455715,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 56,
+    "latest_comment": [
+      {
+        "comment_id": 26930088,
+        "uid": 107185171,
+        "content": "看完第一话后看第二话忽然索然无味（狗头保命）",
+        "createtime": 1588083999,
+        "nickname": "海风MC",
+        "avatar": "https://avatar.dmzj.com/71/99/7199169e1cec6d36fe8d617a96062592.png"
+      },
+      {
+        "comment_id": 26765266,
+        "uid": 102551418,
+        "content": "第2话是GIF要用电脑看才会动",
+        "createtime": 1587651638,
+        "nickname": "观墨子11",
+        "avatar": "https://avatar.dmzj.com/34/69/3469b6a77b6d3c7959e317d05650488e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

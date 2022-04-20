@@ -1,0 +1,91 @@
+{
+  "id": 49999,
+  "islong": 2,
+  "direction": 2,
+  "title": "熊王",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/xw20190906.jpg",
+  "description": "作为祭品的少女希毗,与熊王的奇幻爱情故事",
+  "last_updatetime": 1567767225,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiongwang",
+  "hidden": 0,
+  "hot_num": 719297,
+  "hit_num": 147914,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 88542,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17783,
+      "tag_name": "MOBIDIC"
+    }
+  ],
+  "subscribe_num": 2709,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88542,
+          "chapter_title": "1话",
+          "updatetime": 1567767225,
+          "filesize": 17632738,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 102,
+    "latest_comment": [
+      {
+        "comment_id": 27010441,
+        "uid": 108295349,
+        "content": "完结了？",
+        "createtime": 1588341148,
+        "nickname": "无聊的笨蛋",
+        "avatar": "https://avatar.dmzj.com/f8/3f/f83ff350fc4db9b3a976ddfe542bd90e.png"
+      },
+      {
+        "comment_id": 23817636,
+        "uid": 107601826,
+        "content": "神隐94",
+        "createtime": 1580917789,
+        "nickname": "仪心",
+        "avatar": "https://avatar.dmzj.com/a4/ce/a4ce27b24c0490dbf8355adaa2492fee.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

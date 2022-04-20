@@ -1,0 +1,91 @@
+{
+  "id": 50917,
+  "islong": 2,
+  "direction": 1,
+  "title": "冬之奇迹",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/dzqj1103.jpg",
+  "description": "在这被隔离的世界，我能活下去吗....",
+  "last_updatetime": 1572748603,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongzhiqij",
+  "hidden": 0,
+  "hot_num": 28283,
+  "hit_num": 3329,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93856,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18194,
+      "tag_name": "梯屋"
+    },
+    {
+      "tag_id": 18195,
+      "tag_name": "はやしもと"
+    }
+  ],
+  "subscribe_num": 133,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93856,
+          "chapter_title": "1话",
+          "updatetime": 1572748603,
+          "filesize": 6511767,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 21953110,
+        "uid": 42435,
+        "content": "好本子",
+        "createtime": 1573025155,
+        "nickname": "half*half",
+        "avatar": "https://avatar.dmzj.com/4c/35/4c35872825b2ca587ca3c3e676a7104a.png"
+      },
+      {
+        "comment_id": 21948212,
+        "uid": 104599547,
+        "content": "突然想被雪女姐姐吃掉",
+        "createtime": 1573004304,
+        "nickname": "se2230202",
+        "avatar": "https://avatar.dmzj.com/d8/56/d856a952e11c72a25c558e7599c0fae8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

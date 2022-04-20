@@ -1,0 +1,87 @@
+{
+  "id": 51643,
+  "islong": 2,
+  "direction": 1,
+  "title": "书虫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/cccss1228.jpg",
+  "description": "无论喜欢讨厌都全盘接受的你...在某一天遇到了书的妖精。",
+  "last_updatetime": 1577540347,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shuchong",
+  "hidden": 0,
+  "hot_num": 1877514,
+  "hit_num": 292252,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91619,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12294,
+      "tag_name": "小虎"
+    }
+  ],
+  "subscribe_num": 6910,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91619,
+          "chapter_title": "1话",
+          "updatetime": 1577540347,
+          "filesize": 10021220,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 202,
+    "latest_comment": [
+      {
+        "comment_id": 27094104,
+        "uid": 109349705,
+        "content": "那不是蜥蜴什么爬行类么",
+        "createtime": 1588578535,
+        "nickname": "禁煜不是金鱼",
+        "avatar": "https://avatar.dmzj.com/36/41/364199d8a27e773f5b7b084f6511512f.png"
+      },
+      {
+        "comment_id": 26787009,
+        "uid": 104796902,
+        "content": "怎么不更了",
+        "createtime": 1587711337,
+        "nickname": "华疋疋请两位原地结婚",
+        "avatar": "https://avatar.dmzj.com/88/74/88741515b2b43e19c0da82c455e2c476.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

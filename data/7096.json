@@ -1,0 +1,105 @@
+{
+  "id": 7096,
+  "islong": 2,
+  "direction": 1,
+  "title": "よしづきくみち作品集 初始之箱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/yilintongxuedePHANTOM_ARM.jpg",
+  "description": "现在连载《你与我的足迹》的人气作家よしづきくみち老师最初所创作的作品集。收录了包含出道作在内的5篇短篇。每部作品最后还收录了作者自己的感受。\n",
+  "last_updatetime": 1577636803,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yltxdphantom_arm",
+  "hidden": 0,
+  "hot_num": 654281,
+  "hit_num": 829247,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96225,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3781,
+      "tag_name": "よしづきくみち"
+    }
+  ],
+  "subscribe_num": 3444,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96225,
+          "chapter_title": "3话",
+          "updatetime": 1577636803,
+          "filesize": 2982407,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 87626,
+          "chapter_title": "2话",
+          "updatetime": 1555417368,
+          "filesize": 6653385,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 12563,
+          "chapter_title": "1话",
+          "updatetime": 1296527581,
+          "filesize": 4224215,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 71,
+    "latest_comment": [
+      {
+        "comment_id": 26762674,
+        "uid": 101278105,
+        "content": "真好看",
+        "createtime": 1587646952,
+        "nickname": "龙猫！",
+        "avatar": "https://avatar.dmzj.com/62/55/6255ef6f14fb5dfa9e4f07bfc451086f.png"
+      },
+      {
+        "comment_id": 26590737,
+        "uid": 108813463,
+        "content": "还会更吗",
+        "createtime": 1587164991,
+        "nickname": "ggsddu",
+        "avatar": "https://avatar.dmzj.com/9a/07/9a076e97e11c60371a4af42fcdada8bb.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

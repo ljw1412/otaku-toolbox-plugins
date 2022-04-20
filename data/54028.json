@@ -1,0 +1,93 @@
+{
+  "id": 54028,
+  "islong": 2,
+  "direction": 2,
+  "title": "妖魔天下",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1026019001588243954.jpg",
+  "description": "妖魔肆虐的世界...",
+  "last_updatetime": 1588245291,
+  "last_update_chapter_name": "第01章 回首十一年",
+  "copyright": 1,
+  "first_letter": "y",
+  "comic_py": "yaomotianxia",
+  "hidden": 0,
+  "hot_num": 15129,
+  "hit_num": 2543,
+  "uid": 102601900,
+  "is_lock": 0,
+  "last_update_chapter_id": 97171,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19712,
+      "tag_name": "隆二"
+    }
+  ],
+  "subscribe_num": 73,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97171,
+          "chapter_title": "1话",
+          "updatetime": 1588245291,
+          "filesize": 4187765,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "爱生活",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 27044206,
+        "uid": 109457571,
+        "content": "老师加油啊！！！！",
+        "createtime": 1588433658,
+        "nickname": "空山櫟",
+        "avatar": "https://avatar.dmzj.com/33/86/33867f3254071c68f143f14a849ee3d1.png"
+      },
+      {
+        "comment_id": 27043567,
+        "uid": 105714039,
+        "content": "感觉好棒！！",
+        "createtime": 1588432848,
+        "nickname": "赤大日",
+        "avatar": "https://avatar.dmzj.com/9a/3c/9a3c5b5927244a2e3c9d20c95868c5a6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

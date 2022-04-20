@@ -1,0 +1,91 @@
+{
+  "id": 52457,
+  "islong": 2,
+  "direction": 1,
+  "title": "堇子秘部俱乐部",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/jzmbjlb200221.jpg",
+  "description": "有机老师久违的儿童喜闻乐见向本。",
+  "last_updatetime": 1582297666,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jinzimibujulebu",
+  "hidden": 0,
+  "hot_num": 108962,
+  "hit_num": 42048,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97613,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8139,
+      "tag_name": "有机化合物(ユーキ)"
+    }
+  ],
+  "subscribe_num": 451,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97613,
+          "chapter_title": "1话",
+          "updatetime": 1582297666,
+          "filesize": 5060378,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 26312030,
+        "uid": 107564189,
+        "content": "他来了！",
+        "createtime": 1586519237,
+        "nickname": "sakaikoichi",
+        "avatar": "https://avatar.dmzj.com/87/18/871855d64c2898f9170fa43c3715ca4d.png"
+      },
+      {
+        "comment_id": 25267783,
+        "uid": 110549075,
+        "content": "注意 儿童向",
+        "createtime": 1584206887,
+        "nickname": "dmzj_110549075",
+        "avatar": "https://avatar.dmzj.com/f1/d9/f1d9ae4742f1af59328834f3d014d155.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

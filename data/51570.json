@@ -1,0 +1,94 @@
+{
+  "id": 51570,
+  "islong": 2,
+  "direction": 1,
+  "title": "刃牙系列故事补完",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/191223rydxlgsbw.jpg",
+  "description": "《刃牙》系列的补完故事，包括：\n刃牙重置，《刃牙》作者与《bestar》作者的亲子对话访谈",
+  "last_updatetime": 1577670494,
+  "last_update_chapter_name": "重置下",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "renyaxiliegushibuwan",
+  "hidden": 0,
+  "hot_num": 413079,
+  "hit_num": 190999,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96313,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 317,
+      "tag_name": "板垣惠介"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1789,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96313,
+          "chapter_title": "2话",
+          "updatetime": 1577670494,
+          "filesize": 4087515,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 96115,
+          "chapter_title": "1话",
+          "updatetime": 1577077678,
+          "filesize": 5080668,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 158,
+    "latest_comment": [
+      {
+        "comment_id": 26811846,
+        "uid": 100663829,
+        "content": "他们喝饮料都是摘瓶盖咋们是拧瓶盖",
+        "createtime": 1587771764,
+        "nickname": "性橘感猫在发线",
+        "avatar": "https://avatar.dmzj.com/28/85/28858776fa7bed94de3c28c543ec3c45.png"
+      },
+      {
+        "comment_id": 26433991,
+        "uid": 106414312,
+        "content": "1、2。不多解释",
+        "createtime": 1586777477,
+        "nickname": "dmzj_106414312",
+        "avatar": "https://avatar.dmzj.com/df/1b/df1bc64da5a71311e28f28c1bd8adba0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

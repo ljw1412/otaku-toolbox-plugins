@@ -1,0 +1,157 @@
+{
+  "id": 52343,
+  "islong": 2,
+  "direction": 1,
+  "title": "是乃短篇集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/200215sndpj.jpg",
+  "description": "是乃推特和p站的健全短篇漫画。",
+  "last_updatetime": 1587439406,
+  "last_update_chapter_name": "第11话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shinaiduanpianji",
+  "hidden": 0,
+  "hot_num": 660586,
+  "hit_num": 223296,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96633,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5076,
+      "tag_name": "是乃"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 2666,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96633,
+          "chapter_title": "11话",
+          "updatetime": 1587439406,
+          "filesize": 2126829,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 95946,
+          "chapter_title": "10话",
+          "updatetime": 1586166120,
+          "filesize": 1626868,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 95447,
+          "chapter_title": "9话",
+          "updatetime": 1585209134,
+          "filesize": 1028009,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 94767,
+          "chapter_title": "8话",
+          "updatetime": 1584090619,
+          "filesize": 1569486,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 94412,
+          "chapter_title": "7话",
+          "updatetime": 1583473795,
+          "filesize": 876630,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 94411,
+          "chapter_title": "6话",
+          "updatetime": 1583473782,
+          "filesize": 916114,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 94286,
+          "chapter_title": "5话",
+          "updatetime": 1583228278,
+          "filesize": 2277695,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 94049,
+          "chapter_title": "4话",
+          "updatetime": 1582886827,
+          "filesize": 1302864,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 93765,
+          "chapter_title": "3话",
+          "updatetime": 1582286990,
+          "filesize": 955288,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 93651,
+          "chapter_title": "2话",
+          "updatetime": 1582016197,
+          "filesize": 637805,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 93516,
+          "chapter_title": "1话",
+          "updatetime": 1581748060,
+          "filesize": 694721,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 320,
+    "latest_comment": [
+      {
+        "comment_id": 26995346,
+        "uid": 109272401,
+        "content": "果真健全",
+        "createtime": 1588294715,
+        "nickname": "减肥成功的御坂",
+        "avatar": "https://avatar.dmzj.com/92/6d/926d23607500fb53cfec6241e9f7b1a6.png"
+      },
+      {
+        "comment_id": 26904890,
+        "uid": 104609675,
+        "content": "幼探女也太可爱了",
+        "createtime": 1588011971,
+        "nickname": "鳕鱼贩子",
+        "avatar": "https://avatar.dmzj.com/57/18/5718cdebc18c03d754ae9ca812c2fb63.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

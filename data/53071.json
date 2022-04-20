@@ -1,0 +1,111 @@
+{
+  "id": 53071,
+  "islong": 2,
+  "direction": 2,
+  "title": "箱庭颅岛",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1102675001584598463.jpg",
+  "description": "我的个人日常短篇集，会不定期更新，欢迎多多指教~\n微博@电车员tutan  来找我玩！",
+  "last_updatetime": 1585323887,
+  "last_update_chapter_name": "第03篇 sunny读后感",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiangtingludao",
+  "hidden": 0,
+  "hot_num": 11494,
+  "hit_num": 604,
+  "uid": 110267500,
+  "is_lock": 0,
+  "last_update_chapter_id": 101111,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19262,
+      "tag_name": "图坦sntutan"
+    }
+  ],
+  "subscribe_num": 50,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101111,
+          "chapter_title": "3话",
+          "updatetime": 1585323887,
+          "filesize": 1556237,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 100799,
+          "chapter_title": "2话",
+          "updatetime": 1584788701,
+          "filesize": 2285574,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 100683,
+          "chapter_title": "1话",
+          "updatetime": 1584599308,
+          "filesize": 1819332,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "微博@电车员tutan",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 25525010,
+        "uid": 110267500,
+        "content": "妈耶第一篇名字写错了，已经提交修改了",
+        "createtime": 1584787604,
+        "nickname": "图坦sntutan",
+        "avatar": "https://avatar.dmzj.com/96/06/96067b4d4f21f8c76d6f620aac796c08.png"
+      },
+      {
+        "comment_id": 25446129,
+        "uid": 110401599,
+        "content": "老师好好wwww",
+        "createtime": 1584607968,
+        "nickname": "白骨姬",
+        "avatar": "https://avatar.dmzj.com/45/47/4547ea4b385ea4e4119e0d2e024e660d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

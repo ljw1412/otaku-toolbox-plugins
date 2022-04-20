@@ -1,0 +1,113 @@
+{
+  "id": 68,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔女的游戏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/cosmo.jpg",
+  "description": "繼承了已過世母親魔女之力的我,森宮天湖，\n在學校舉辦的一次活動中得到勝利之後，\n一封封匿名的「捕捉魔女」信，\n開始翻攪我平靜的生活。\n雖然有我的好朋友小茜、\n同班同學千翔，\n以及城崎學長幫忙尋找犯人，\n但整件事仍是讓人摸不著頭緒.......\n",
+  "last_updatetime": 1178197680,
+  "last_update_chapter_name": "vol_04",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mndyxcosmo",
+  "hidden": 0,
+  "hot_num": 172002,
+  "hit_num": 3248964,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 499,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 132,
+      "tag_name": "日渡早纪"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 728,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 499,
+          "chapter_title": "4卷",
+          "updatetime": 1178197680,
+          "filesize": 13390794,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 498,
+          "chapter_title": "3卷",
+          "updatetime": 1178197680,
+          "filesize": 12666309,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 497,
+          "chapter_title": "2卷",
+          "updatetime": 1178197680,
+          "filesize": 13370257,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 496,
+          "chapter_title": "1卷",
+          "updatetime": 1178197680,
+          "filesize": 12940073,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 30219401,
+        "uid": 109361472,
+        "content": "之前刚看了一部一样的名字的....",
+        "createtime": 1599529039,
+        "nickname": "梦回幻想乡",
+        "avatar": "https://avatar.dmzj.com/99/03/99036e2a32ad1a823d851c2e1856b77c.png"
+      },
+      {
+        "comment_id": 29179368,
+        "uid": 111015965,
+        "content": "add water ",
+        "createtime": 1595531002,
+        "nickname": "dmzj_111015965",
+        "avatar": "https://avatar.dmzj.com/02/a4/02a43f3877c8458e4210e86514769509.png"
+      }
+    ]
+  },
+  "is_need_login": 0,
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

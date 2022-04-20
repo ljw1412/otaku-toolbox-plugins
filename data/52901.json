@@ -1,0 +1,87 @@
+{
+  "id": 52901,
+  "islong": 2,
+  "direction": 1,
+  "title": "街角偶遇的那对男女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/wssys2020311.jpg",
+  "description": "九州漫画赏无声部门，准优秀赏。",
+  "last_updatetime": 1583911805,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jiejiaoouyudenaduinannv",
+  "hidden": 0,
+  "hot_num": 101125,
+  "hit_num": 7477,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100285,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19182,
+      "tag_name": "福居玖吕子"
+    }
+  ],
+  "subscribe_num": 472,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100285,
+          "chapter_title": "1话",
+          "updatetime": 1583911805,
+          "filesize": 1187032,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 47,
+    "latest_comment": [
+      {
+        "comment_id": 26691967,
+        "uid": 110470368,
+        "content": "记住曾经欢愉过的时光就行了",
+        "createtime": 1587459938,
+        "nickname": "Dimercaptosuccinic",
+        "avatar": "https://avatar.dmzj.com/c9/59/c9595da97f6cd20013e1b07b039488a2.png"
+      },
+      {
+        "comment_id": 26161826,
+        "uid": 105215831,
+        "content": "哇",
+        "createtime": 1586191255,
+        "nickname": "待桃僵",
+        "avatar": "https://avatar.dmzj.com/99/43/99434aa42918cf57a42eaf108a59a73c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

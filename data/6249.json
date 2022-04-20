@@ -1,0 +1,74 @@
+{
+  "id": 6249,
+  "islong": 2,
+  "direction": 1,
+  "title": "青葱岁月",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/qcsy01-001-0_13b695b76550373efc5d793a2ef5150d.jpg",
+  "description": "金虹画集丛书，校园漫画系列",
+  "last_updatetime": 1284802653,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qingcongshuiyue",
+  "hidden": 1,
+  "hot_num": 1871,
+  "hit_num": 107121,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12128,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1373,
+      "tag_name": "阿恒"
+    },
+    {
+      "tag_id": 3389,
+      "tag_name": "炎冰"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12128,
+          "chapter_title": "1卷",
+          "updatetime": 1285407453,
+          "filesize": 15833696,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

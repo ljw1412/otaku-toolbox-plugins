@@ -1,0 +1,87 @@
+{
+  "id": 52717,
+  "islong": 2,
+  "direction": 1,
+  "title": "神隐的少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/200303sydsn.jpg",
+  "description": "那个金发女子。。是谁？",
+  "last_updatetime": 1583201385,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shenyindeshaonv",
+  "hidden": 0,
+  "hot_num": 32335,
+  "hit_num": 3166,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 98112,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14945,
+      "tag_name": "しろし"
+    }
+  ],
+  "subscribe_num": 137,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98112,
+          "chapter_title": "1话",
+          "updatetime": 1583201385,
+          "filesize": 4386967,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 24965677,
+        "uid": 100008384,
+        "content": "你们以为是少女，其实是个大妈哒",
+        "createtime": 1583515366,
+        "nickname": "春风空",
+        "avatar": "https://avatar.dmzj.com/17/34/173490f1a0190670d3129ec270eae3e0.png"
+      },
+      {
+        "comment_id": 24916784,
+        "uid": 108837506,
+        "content": "确实能猜出来\np17梅莉在小巷子里穿梭了好长时间能突然遇上莲子就很奇怪",
+        "createtime": 1583421041,
+        "nickname": "dmzj_108837506",
+        "avatar": "https://avatar.dmzj.com/06/36/0636a0741f3d56c9e2a9d7d5a48b0c19.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

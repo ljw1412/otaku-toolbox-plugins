@@ -1,0 +1,122 @@
+{
+  "id": 50819,
+  "islong": 2,
+  "direction": 1,
+  "title": "hololive推特合集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/hololive1027.jpg",
+  "description": "hololive漫画推特合集",
+  "last_updatetime": 1582690009,
+  "last_update_chapter_name": "彩图03话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hololivetuiteheji",
+  "hidden": 0,
+  "hot_num": 1613042,
+  "hit_num": 203053,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94660,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5114,
+      "tag_name": "ヨハネ"
+    }
+  ],
+  "subscribe_num": 6780,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94660,
+          "chapter_title": "3话",
+          "updatetime": 1582690009,
+          "filesize": 174182,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 94659,
+          "chapter_title": "3话",
+          "updatetime": 1582689989,
+          "filesize": 2439425,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 92103,
+          "chapter_title": "2话",
+          "updatetime": 1576217204,
+          "filesize": 539405,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 92102,
+          "chapter_title": "2话",
+          "updatetime": 1576217176,
+          "filesize": 1051232,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 90594,
+          "chapter_title": "1话",
+          "updatetime": 1572153986,
+          "filesize": 1196904,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 90593,
+          "chapter_title": "1话",
+          "updatetime": 1572153940,
+          "filesize": 796329,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 197,
+    "latest_comment": [
+      {
+        "comment_id": 26310681,
+        "uid": 102051195,
+        "content": "好康",
+        "createtime": 1586516580,
+        "nickname": "Penguin君",
+        "avatar": "https://avatar.dmzj.com/4d/0d/4d0dcf65dcf75a58c4f35f97bfad8b2f.png"
+      },
+      {
+        "comment_id": 26204410,
+        "uid": 109532762,
+        "content": "草peko",
+        "createtime": 1586278188,
+        "nickname": "凶狠无情冷酷小喵喵",
+        "avatar": "https://avatar.dmzj.com/92/38/923808b4c308a8f9429fe522dc8c8bbf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

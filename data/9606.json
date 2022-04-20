@@ -1,0 +1,101 @@
+{
+  "id": 9606,
+  "islong": 2,
+  "direction": 2,
+  "title": "奥因克 天堂屠夫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/aoyinketiantangtufu20121028.jpg",
+  "description": "这是一部黑暗的漫画，类似于奥威尔的经典小说《1984》。充满了对谎言如何欺骗和控制人们--的一种直视。",
+  "last_updatetime": 1351419904,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "aoyinke-tiantangtufu",
+  "hidden": 1,
+  "hot_num": 183826,
+  "hit_num": 2801443,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 18773,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5087,
+      "tag_name": "John Mueller"
+    }
+  ],
+  "subscribe_num": 794,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 18773,
+          "chapter_title": "3卷",
+          "updatetime": 1351419904,
+          "filesize": 4462886,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 18772,
+          "chapter_title": "2卷",
+          "updatetime": 1351419898,
+          "filesize": 4695264,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 18771,
+          "chapter_title": "1卷",
+          "updatetime": 1351419892,
+          "filesize": 4822047,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 223,
+    "latest_comment": [
+      {
+        "comment_id": 26884180,
+        "uid": 110904335,
+        "content": "想看",
+        "createtime": 1587969732,
+        "nickname": "临渊123",
+        "avatar": "https://avatar.dmzj.com/5c/8c/5c8cfb1553678875c8fe1759118cad7c.png"
+      },
+      {
+        "comment_id": 26600113,
+        "uid": 102267368,
+        "content": "是我们的充耳不闻、视而不见、缄口不语，给了他们滥用职权、蒙蔽真相的权利，直到整个世界都变得又聋、又瞎、又傻",
+        "createtime": 1587199254,
+        "nickname": "人无奈",
+        "avatar": "https://avatar.dmzj.com/71/02/71023cb020933cf70b8128c45cf2a8b5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 5783,
+  "islong": 2,
+  "direction": 1,
+  "title": "巧克力·咖啡·回忆",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/qiaokeli2010.jpg",
+  "description": "百合的短篇漫画",
+  "last_updatetime": 1283317817,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qiaokelikafeihuiyi",
+  "hidden": 0,
+  "hot_num": 124393,
+  "hit_num": 817990,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 11805,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3159,
+      "tag_name": "柊圭"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "subscribe_num": 589,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 11805,
+          "chapter_title": "1话",
+          "updatetime": 1283317817,
+          "filesize": 2723744,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 23070330,
+        "uid": 104260059,
+        "content": "休刊然后坑了？可惜啊",
+        "createtime": 1578160663,
+        "nickname": "✖葁饼䒚♂哖✚",
+        "avatar": "https://avatar.dmzj.com/96/15/9615ba51edfaba4d65b37ed9a6dfb0f5.png"
+      },
+      {
+        "comment_id": 12812759,
+        "uid": 101861688,
+        "content": "噶",
+        "createtime": 1552440765,
+        "nickname": "A450–C006",
+        "avatar": "https://avatar.dmzj.com/80/95/8095f5aff4d7aea1ef3ca890114e4b93.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

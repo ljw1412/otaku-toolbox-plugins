@@ -1,0 +1,87 @@
+{
+  "id": 52213,
+  "islong": 2,
+  "direction": 1,
+  "title": "Grey Matters",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/grey20200207.jpg",
+  "description": "做圣徒还是母亲，你只能选择一个",
+  "last_updatetime": 1581081084,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "greymatters",
+  "hidden": 0,
+  "hot_num": 477671,
+  "hit_num": 30014,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93085,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18797,
+      "tag_name": "Hushabye"
+    }
+  ],
+  "subscribe_num": 1964,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93085,
+          "chapter_title": "1话",
+          "updatetime": 1581081084,
+          "filesize": 2904455,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 49,
+    "latest_comment": [
+      {
+        "comment_id": 26905612,
+        "uid": 101593388,
+        "content": "纯路人，这篇漫画真的很好看，不喜别人误会的话可以在简介或者尾页说下",
+        "createtime": 1588014336,
+        "nickname": "空中的吉他",
+        "avatar": "https://avatar.dmzj.com/6f/bb/6fbb6c7124bc3e322d091f796fb8edfd.png"
+      },
+      {
+        "comment_id": 25439589,
+        "uid": 105810402,
+        "content": "为啥不更新了惹 想看",
+        "createtime": 1584592590,
+        "nickname": "朴太阳",
+        "avatar": "https://avatar.dmzj.com/32/2d/322d9be8039948c00cee1d2efc55808b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,118 @@
+{
+  "id": 53611,
+  "islong": 2,
+  "direction": 2,
+  "title": "智商骤然下降",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1064348241586667621.jpg",
+  "description": "一些短篇合集",
+  "last_updatetime": 1588368129,
+  "last_update_chapter_name": "顺拐的猪",
+  "copyright": 1,
+  "first_letter": "z",
+  "comic_py": "zhishangzhouranxiajiang",
+  "hidden": 0,
+  "hot_num": 403838,
+  "hit_num": 43283,
+  "uid": 106434824,
+  "is_lock": 0,
+  "last_update_chapter_id": 103007,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14733,
+      "tag_name": "代逅"
+    }
+  ],
+  "subscribe_num": 1028,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 103007,
+          "chapter_title": "4话",
+          "updatetime": 1588368129,
+          "filesize": 2398862,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 102583,
+          "chapter_title": "3话",
+          "updatetime": 1587819856,
+          "filesize": 1320834,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 102279,
+          "chapter_title": "2话",
+          "updatetime": 1587312627,
+          "filesize": 1645097,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 101913,
+          "chapter_title": "1话",
+          "updatetime": 1586667885,
+          "filesize": 959725,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "熬了一个月的项目总算轻松一点了，哈哈哈，恢复更新喽......谢谢大家支持！",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 106,
+    "latest_comment": [
+      {
+        "comment_id": 27093461,
+        "uid": 109082672,
+        "content": "狗狗根本不是想找猪玩，不过是想找个垫脚石(￣▽￣～)",
+        "createtime": 1588576464,
+        "nickname": "居然不能用那个昵称",
+        "avatar": "https://avatar.dmzj.com/36/71/3671003a0c701d1f8bdb0d551657e137.png"
+      },
+      {
+        "comment_id": 27082658,
+        "uid": 102340557,
+        "content": "仔细看了一下，发现猪猪走路真的是顺拐",
+        "createtime": 1588529969,
+        "nickname": "阴阳人给爷滚",
+        "avatar": "https://avatar.dmzj.com/ac/00/ac009194826970386af1a8a367fc7dd1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

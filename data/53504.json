@@ -1,0 +1,87 @@
+{
+  "id": 53504,
+  "islong": 2,
+  "direction": 1,
+  "title": "《明日方舟》同人漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/200407mrfztrmh.jpg",
+  "description": "外网作者@RLANE3 的《明日方舟》同人漫画",
+  "last_updatetime": 1586263432,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mingrifangzhoutongrenmanhua",
+  "hidden": 0,
+  "hot_num": 722804,
+  "hit_num": 76676,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96452,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19486,
+      "tag_name": "@RLANE3"
+    }
+  ],
+  "subscribe_num": 1935,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96452,
+          "chapter_title": "1话",
+          "updatetime": 1586263432,
+          "filesize": 3303721,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 101,
+    "latest_comment": [
+      {
+        "comment_id": 26995931,
+        "uid": 101967761,
+        "content": "前列腺检查hhh",
+        "createtime": 1588296743,
+        "nickname": "新月29280",
+        "avatar": "https://avatar.dmzj.com/29/1b/291b9f6b9fd503611db51fe1877b5f3c.png"
+      },
+      {
+        "comment_id": 26528681,
+        "uid": 105257205,
+        "content": "还有么还有么",
+        "createtime": 1586997077,
+        "nickname": "qzuser07155106",
+        "avatar": "https://avatar.dmzj.com/ae/6d/ae6d663962463a941f713b24f5bd2b74.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

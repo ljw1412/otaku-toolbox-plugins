@@ -1,0 +1,91 @@
+{
+  "id": 49420,
+  "islong": 2,
+  "direction": 1,
+  "title": "MV制作中的乐团",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/yuetuan0728.jpg",
+  "description": "Roselia制作新MV，这是无可奈何的搞笑漫画，集合五个人的力量努力吧\n",
+  "last_updatetime": 1564326730,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mvzhizuozhongdeyuetuan",
+  "hidden": 0,
+  "hot_num": 149046,
+  "hit_num": 797,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91697,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3326,
+      "tag_name": "音乐舞蹈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8238,
+      "tag_name": "だたろう"
+    }
+  ],
+  "subscribe_num": 1271,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91697,
+          "chapter_title": "1话",
+          "updatetime": 1564326730,
+          "filesize": 2165441,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 26058591,
+        "uid": 107950715,
+        "content": "太沙雕了救命",
+        "createtime": 1585999715,
+        "nickname": "折旧年",
+        "avatar": "https://avatar.dmzj.com/40/8f/408f95d699fbe1d5e96936a8d6cace8b.png"
+      },
+      {
+        "comment_id": 20971757,
+        "uid": 105071582,
+        "content": "lisa抱着ykn，磷子抱着亚子，唯独纱夜妹妹不在2333",
+        "createtime": 1570334237,
+        "nickname": "我们仍未知道那天看到的花",
+        "avatar": "https://avatar.dmzj.com/43/71/437128389e8d63fb05000c0b96a756a9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

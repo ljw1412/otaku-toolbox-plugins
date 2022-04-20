@@ -1,0 +1,97 @@
+{
+  "id": 49661,
+  "islong": 1,
+  "direction": 2,
+  "title": "血十字",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1018417541565797603.jpg",
+  "description": "世纪末吸血鬼的觅食之旅",
+  "last_updatetime": 1565799900,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xueshizi",
+  "hidden": 0,
+  "hot_num": 24863,
+  "hit_num": 267056,
+  "uid": 101841754,
+  "is_lock": 0,
+  "last_update_chapter_id": 91800,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17634,
+      "tag_name": "文刀流"
+    }
+  ],
+  "subscribe_num": 469,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91800,
+          "chapter_title": "1话",
+          "updatetime": 1565799900,
+          "filesize": 2747609,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "有人看我就画微博@十文刀流",
+  "comment": {
+    "comment_count": 36,
+    "latest_comment": [
+      {
+        "comment_id": 20464508,
+        "uid": 101841754,
+        "content": "在画了在画了",
+        "createtime": 1568951292,
+        "nickname": "文刀流",
+        "avatar": "https://avatar.dmzj.com/68/21/682156398bb82188391f71a44b92cc53.png"
+      },
+      {
+        "comment_id": 20071244,
+        "uid": 109686525,
+        "content": "求更新",
+        "createtime": 1567756024,
+        "nickname": "dmzj_109686525",
+        "avatar": "https://avatar.dmzj.com/54/55/54557a7c59a83f3ed18d20b60b6cc6bf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

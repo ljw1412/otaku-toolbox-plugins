@@ -1,0 +1,142 @@
+{
+  "id": 5760,
+  "islong": 2,
+  "direction": 1,
+  "title": "MAR魔法世界OMEGA",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/16_b842b1f1d9207b77a276bdada78bf8ba.jpg",
+  "description": "尔和百宝为救回城镇而展开了冒险之旅。经过与仿制ARM使用者的连番剧斗，新的守卫觉醒了...！",
+  "last_updatetime": 1551101920,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "marmfsjomega",
+  "hidden": 0,
+  "hot_num": 438703,
+  "hit_num": 1481076,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86811,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 604,
+      "tag_name": "安西信行"
+    },
+    {
+      "tag_id": 3152,
+      "tag_name": "星野倖一郎"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2053,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86811,
+          "chapter_title": "4卷",
+          "updatetime": 1551101920,
+          "filesize": 20091891,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 86810,
+          "chapter_title": "3卷",
+          "updatetime": 1551101864,
+          "filesize": 18014900,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 86809,
+          "chapter_title": "2卷",
+          "updatetime": 1551101831,
+          "filesize": 18143327,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 86808,
+          "chapter_title": "1卷",
+          "updatetime": 1551101771,
+          "filesize": 19494112,
+          "chapter_order": 40
+        }
+      ]
+    },
+    {
+      "title": "旧扫版",
+      "data": [
+        {
+          "chapter_id": 23455,
+          "chapter_title": "11话",
+          "updatetime": 1370191785,
+          "filesize": 964871,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 23454,
+          "chapter_title": "10话",
+          "updatetime": 1370191931,
+          "filesize": 811846,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 12751,
+          "chapter_title": "1卷",
+          "updatetime": 1283277732,
+          "filesize": 22790239,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 145,
+    "latest_comment": [
+      {
+        "comment_id": 27042557,
+        "uid": 107860515,
+        "content": "∞",
+        "createtime": 1588431455,
+        "nickname": "十庸",
+        "avatar": "https://avatar.dmzj.com/79/b6/79b67b4bdf34de68fb93cd276b15d57f.png"
+      },
+      {
+        "comment_id": 27020063,
+        "uid": 102457336,
+        "content": "怀念",
+        "createtime": 1588355809,
+        "nickname": "灰色的围巾",
+        "avatar": "https://avatar.dmzj.com/61/87/6187d7f0aa08d9f1f437dbd40561bc2d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

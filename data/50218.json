@@ -1,0 +1,87 @@
+{
+  "id": 50218,
+  "islong": 2,
+  "direction": 1,
+  "title": "会怎样呢？花映塚！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/hzmy20190920.jpg",
+  "description": "到底会怎么样呢？",
+  "last_updatetime": 1568913222,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huizenyangnehuayingzhong",
+  "hidden": 0,
+  "hot_num": 42327,
+  "hit_num": 2150,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 88445,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5475,
+      "tag_name": "SASUKE"
+    }
+  ],
+  "subscribe_num": 182,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88445,
+          "chapter_title": "1话",
+          "updatetime": 1568913222,
+          "filesize": 1307062,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 20472438,
+        "uid": 104986877,
+        "content": "标题写花映塚，然而出场的都是永夜抄",
+        "createtime": 1568973176,
+        "nickname": "YuukaFlower",
+        "avatar": "https://avatar.dmzj.com/59/84/598409691db61d8deb04a6a96d599727.png"
+      },
+      {
+        "comment_id": 20460361,
+        "uid": 106144068,
+        "content": "黑兔子这么乖的吗",
+        "createtime": 1568939313,
+        "nickname": "cirno106144068",
+        "avatar": "https://avatar.dmzj.com/c8/5c/c85cf027acaf92d45aae224186218af5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

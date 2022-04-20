@@ -1,0 +1,87 @@
+{
+  "id": 54053,
+  "islong": 2,
+  "direction": 1,
+  "title": "无聊的书",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/wlds202054.jpg",
+  "description": "某图书馆的日常。",
+  "last_updatetime": 1588560139,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wuliaodeshu",
+  "hidden": 0,
+  "hot_num": 9462,
+  "hit_num": 2463,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97216,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5514,
+      "tag_name": "水炊き"
+    }
+  ],
+  "subscribe_num": 47,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97216,
+          "chapter_title": "1话",
+          "updatetime": 1588560139,
+          "filesize": 8832641,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 27099568,
+        "uid": 107259055,
+        "content": "看评论区有人看不懂我就说了\n意思大概是那本书叫「无趣的书」但实际上是一本很有趣而且越读就越有趣的书，但是代价是会吸收读者的魔力，前面读书的人就是因为这个死的，而帕秋莉在最后关头将意志放入了书中思考，并表示如果读这本书 要以失去与蕾米之间的交谈为代价的话那这本书确实是本「无趣的书」。并放出了强到这本书无法吸收的魔力，就是那个皇家烈焰，然后脱离了出来，书也失去了魔力。\n反正是闺蜜组的糖就对了啦。",
+        "createtime": 1588595235,
+        "nickname": "咲咲咲夜",
+        "avatar": "https://avatar.dmzj.com/11/85/11850dd59cd355a518636fa03d1b8d84.png"
+      },
+      {
+        "comment_id": 27090568,
+        "uid": 107481672,
+        "content": "所以是怎么死的（？",
+        "createtime": 1588567935,
+        "nickname": "LancerAlter",
+        "avatar": "https://avatar.dmzj.com/70/62/706271d68b23271b35e6b21adfa1f969.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

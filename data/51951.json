@@ -1,0 +1,129 @@
+{
+  "id": 51951,
+  "islong": 2,
+  "direction": 1,
+  "title": "笹人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/200124tiren.jpg",
+  "description": "一只不一样的熊猫",
+  "last_updatetime": 1581153477,
+  "last_update_chapter_name": "第07话",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tiren",
+  "hidden": 1,
+  "hot_num": 248707,
+  "hit_num": 94468,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 98802,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14637,
+      "tag_name": "花月仁"
+    }
+  ],
+  "subscribe_num": 1112,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98802,
+          "chapter_title": "7话",
+          "updatetime": 1581153477,
+          "filesize": 3285817,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 98674,
+          "chapter_title": "6话",
+          "updatetime": 1580870195,
+          "filesize": 3493520,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 98673,
+          "chapter_title": "5话",
+          "updatetime": 1580870358,
+          "filesize": 3772933,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 98429,
+          "chapter_title": "4话",
+          "updatetime": 1580376452,
+          "filesize": 4279169,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 98232,
+          "chapter_title": "3话",
+          "updatetime": 1579860260,
+          "filesize": 4867375,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 98231,
+          "chapter_title": "2话",
+          "updatetime": 1579860236,
+          "filesize": 2917624,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 98228,
+          "chapter_title": "1话",
+          "updatetime": 1579860271,
+          "filesize": 6694035,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 278,
+    "latest_comment": [
+      {
+        "comment_id": 27017725,
+        "uid": 105355429,
+        "content": "gdpl",
+        "createtime": 1588352198,
+        "nickname": "晓島",
+        "avatar": "https://avatar.dmzj.com/32/d5/32d58527f66be74fa8fff34491eb4865.png"
+      },
+      {
+        "comment_id": 26736038,
+        "uid": 109564425,
+        "content": "666666",
+        "createtime": 1587571256,
+        "nickname": "落寞一生终成客",
+        "avatar": "https://avatar.dmzj.com/32/91/32916fe20cafbd5312a1c63c1552a892.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

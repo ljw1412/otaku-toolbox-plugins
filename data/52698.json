@@ -1,0 +1,87 @@
+{
+  "id": 52698,
+  "islong": 2,
+  "direction": 1,
+  "title": "幸秘谈",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/xmt20200302.jpg",
+  "description": "幸福也是有百种滋味的，珍惜挚爱的人吧!",
+  "last_updatetime": 1583143332,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xingmitan",
+  "hidden": 0,
+  "hot_num": 41098,
+  "hit_num": 2689,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94235,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13554,
+      "tag_name": "砂亭"
+    }
+  ],
+  "subscribe_num": 190,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94235,
+          "chapter_title": "1话",
+          "updatetime": 1583143332,
+          "filesize": 6468145,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 26472355,
+        "uid": 109564425,
+        "content": "好棒的感觉。",
+        "createtime": 1586865637,
+        "nickname": "落寞一生终成客",
+        "avatar": "https://avatar.dmzj.com/32/91/32916fe20cafbd5312a1c63c1552a892.png"
+      },
+      {
+        "comment_id": 24845170,
+        "uid": 108837506,
+        "content": "秘封哲思",
+        "createtime": 1583290165,
+        "nickname": "dmzj_108837506",
+        "avatar": "https://avatar.dmzj.com/06/36/0636a0741f3d56c9e2a9d7d5a48b0c19.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

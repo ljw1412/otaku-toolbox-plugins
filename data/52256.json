@@ -1,0 +1,105 @@
+{
+  "id": 52256,
+  "islong": 2,
+  "direction": 1,
+  "title": "Second Kiss",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/secondkiss2020.jpg",
+  "description": "忘却不了的前任，如何割舍情愫。",
+  "last_updatetime": 1582008870,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "secondkiss",
+  "hidden": 0,
+  "hot_num": 730437,
+  "hit_num": 505490,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99338,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3267,
+      "tag_name": "込由野志穗"
+    }
+  ],
+  "subscribe_num": 3015,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99338,
+          "chapter_title": "3话",
+          "updatetime": 1582008870,
+          "filesize": 5941905,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 98952,
+          "chapter_title": "2话",
+          "updatetime": 1581475389,
+          "filesize": 6485459,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 98907,
+          "chapter_title": "1话",
+          "updatetime": 1581391258,
+          "filesize": 7047375,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 91,
+    "latest_comment": [
+      {
+        "comment_id": 27046863,
+        "uid": 105860888,
+        "content": "成年人的恋爱太棒了",
+        "createtime": 1588437149,
+        "nickname": "dmzj_105860888",
+        "avatar": "https://avatar.dmzj.com/29/24/2924d4c4100558e21ea8d21e854d4a36.png"
+      },
+      {
+        "comment_id": 26365086,
+        "uid": 109588980,
+        "content": "甜的呀",
+        "createtime": 1586615011,
+        "nickname": "折木奉太郎520",
+        "avatar": "https://avatar.dmzj.com/61/85/618567ada54282eb93f5b23df2c110ff.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

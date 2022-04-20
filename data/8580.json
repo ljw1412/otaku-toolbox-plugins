@@ -1,0 +1,87 @@
+{
+  "id": 8580,
+  "islong": 2,
+  "direction": 1,
+  "title": "Lutra的书店员",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/lutradeshudianyuan.jpg",
+  "description": "看不见的力量，你会相信吗？其实书本里面蕴含着，你所不知道的秘密……",
+  "last_updatetime": 1333469997,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lutradeshudianyuan",
+  "hidden": 0,
+  "hot_num": 3866,
+  "hit_num": 48691,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 18290,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4537,
+      "tag_name": "笠原铁郎"
+    }
+  ],
+  "subscribe_num": 17,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 18290,
+          "chapter_title": "1话",
+          "updatetime": 1333469997,
+          "filesize": 5103799,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 54064,
+        "uid": 7183230,
+        "content": "bl的吧...",
+        "createtime": 1333473746,
+        "nickname": "千秋月伯爵",
+        "avatar": "https://avatar.dmzj.com/de/3d/de3d1dc2ab246ea4e7eb95a4a0c69a5a.png"
+      },
+      {
+        "comment_id": 54057,
+        "uid": 16148977,
+        "content": "NO.1",
+        "createtime": 1333471246,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

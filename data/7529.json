@@ -1,0 +1,126 @@
+{
+  "id": 7529,
+  "islong": 2,
+  "direction": 1,
+  "title": "E",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/e20110714.jpg",
+  "description": "这个是，为用户倾注爱心的，一台电脑的故事。在您的身边给您尽善尽美的侍奉。",
+  "last_updatetime": 1323070185,
+  "last_update_chapter_name": "第11-12话",
+  "copyright": 0,
+  "first_letter": "e",
+  "comic_py": "e",
+  "hidden": 0,
+  "hot_num": 580324,
+  "hit_num": 966862,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 15823,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4033,
+      "tag_name": "桐丘さな"
+    },
+    {
+      "tag_id": 4034,
+      "tag_name": "大代しんり"
+    }
+  ],
+  "subscribe_num": 3009,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 15823,
+          "chapter_title": "11话",
+          "updatetime": 1323070185,
+          "filesize": 1447940,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 15769,
+          "chapter_title": "9话",
+          "updatetime": 1322535061,
+          "filesize": 1939000,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 15512,
+          "chapter_title": "7话",
+          "updatetime": 1319733308,
+          "filesize": 1899643,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 15115,
+          "chapter_title": "5话",
+          "updatetime": 1315725660,
+          "filesize": 1874725,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 15114,
+          "chapter_title": "3话",
+          "updatetime": 1315725652,
+          "filesize": 2471872,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 14636,
+          "chapter_title": "1话",
+          "updatetime": 1310642896,
+          "filesize": 2418822,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 80,
+    "latest_comment": [
+      {
+        "comment_id": 25747244,
+        "uid": 106369033,
+        "content": "電腦處女御咖話",
+        "createtime": 1585300336,
+        "nickname": "dmzj_106369033",
+        "avatar": "https://avatar.dmzj.com/20/44/2044a147488115874b01cd394da80ac0.png"
+      },
+      {
+        "comment_id": 25169132,
+        "uid": 108435006,
+        "content": "突然感觉自己还是蛮杀伐果断的",
+        "createtime": 1583985813,
+        "nickname": "dmzj_108435006",
+        "avatar": "https://avatar.dmzj.com/dd/39/dd392e932bd7d5f91ed25ad02a59788f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

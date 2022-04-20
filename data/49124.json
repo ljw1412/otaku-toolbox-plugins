@@ -1,0 +1,91 @@
+{
+  "id": 49124,
+  "islong": 2,
+  "direction": 1,
+  "title": "天猫到家",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/tianmaodaojia0709.jpg",
+  "description": "我还是第一次叫这种服务，只是抱一下是免费的吗？当然，云享猫咪千里送撸公司真诚为您服务，收费因猫而异，我是不收费的哦~",
+  "last_updatetime": 1562652388,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tianmaodaojia",
+  "hidden": 0,
+  "hot_num": 348149,
+  "hit_num": 5141,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86675,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16531,
+      "tag_name": "清水めりぃ"
+    }
+  ],
+  "subscribe_num": 2365,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86675,
+          "chapter_title": "1话",
+          "updatetime": 1562652388,
+          "filesize": 619747,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 52,
+    "latest_comment": [
+      {
+        "comment_id": 24119591,
+        "uid": 109577917,
+        "content": "太强了",
+        "createtime": 1581665199,
+        "nickname": "花饱真人β",
+        "avatar": "https://avatar.dmzj.com/50/76/507673156c2c87111999cd535867cd8d.png"
+      },
+      {
+        "comment_id": 21509067,
+        "uid": 105011297,
+        "content": "连月亮都能上去哦(物理)",
+        "createtime": 1571585600,
+        "nickname": "你说干什么",
+        "avatar": "https://avatar.dmzj.com/e4/a2/e4a2de523b23972ce3a71bb6e125f92b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

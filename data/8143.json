@@ -1,0 +1,87 @@
+{
+  "id": 8143,
+  "islong": 2,
+  "direction": 1,
+  "title": "斗神",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/doushen.jpg",
+  "description": "当神佛堕落的时候，我开始为自己战斗",
+  "last_updatetime": 1324973857,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "doushen",
+  "hidden": 1,
+  "hot_num": 41057,
+  "hit_num": 558623,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 16444,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 648,
+      "tag_name": "郑问"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 189,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 16444,
+          "chapter_title": "1卷",
+          "updatetime": 1324973857,
+          "filesize": 13786685,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 26981711,
+        "uid": 108528259,
+        "content": "可",
+        "createtime": 1588258531,
+        "nickname": "嗯省略号",
+        "avatar": "https://avatar.dmzj.com/3a/1d/3a1dcedc8ac5c32529d9a55813d31be5.png"
+      },
+      {
+        "comment_id": 26295143,
+        "uid": 102588495,
+        "content": "先码上",
+        "createtime": 1586488546,
+        "nickname": "银白之翼",
+        "avatar": "https://avatar.dmzj.com/ec/36/ec36dbc0a8e7d441d23e404fd7eea1d8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

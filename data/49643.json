@@ -1,0 +1,87 @@
+{
+  "id": 49643,
+  "islong": 2,
+  "direction": 1,
+  "title": "fate/zero的糖果接力",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/fztangguojieli20190814.jpg",
+  "description": "fz的同人作品，见过了扑克接力，糖果接力又是怎样一副光景呢？",
+  "last_updatetime": 1565803883,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fatezerodetangguojieli",
+  "hidden": 0,
+  "hot_num": 51448,
+  "hit_num": 13612,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 87147,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16611,
+      "tag_name": "ノビタ"
+    }
+  ],
+  "subscribe_num": 958,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87147,
+          "chapter_title": "1话",
+          "updatetime": 1565803883,
+          "filesize": 1625115,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 216,
+    "latest_comment": [
+      {
+        "comment_id": 26204056,
+        "uid": 106960207,
+        "content": "真别恶心我",
+        "createtime": 1586277852,
+        "nickname": "dmzj_106960207",
+        "avatar": "https://avatar.dmzj.com/6b/b6/6bb6542b74ae5e352cd203ab631c346b.png"
+      },
+      {
+        "comment_id": 24951851,
+        "uid": 105931497,
+        "content": "留下这个传送门",
+        "createtime": 1583498858,
+        "nickname": "一笑笑笑笑笑",
+        "avatar": "https://avatar.dmzj.com/64/83/6483eeeef3eb44b29ed7ce3b627b59bd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

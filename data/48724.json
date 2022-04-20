@@ -1,0 +1,94 @@
+{
+  "id": 48724,
+  "islong": 2,
+  "direction": 1,
+  "title": "藤ちょこ画集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/190604fuzichocohuaji.jpg",
+  "description": "藤ちょこ的画集",
+  "last_updatetime": 1559650302,
+  "last_update_chapter_name": "藤色",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fuzichocohuaji",
+  "hidden": 0,
+  "hot_num": 2575999,
+  "hit_num": 203145,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 85571,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17158,
+      "tag_name": "藤ちょこ(藤原)"
+    }
+  ],
+  "subscribe_num": 13253,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85571,
+          "chapter_title": "2卷",
+          "updatetime": 1559650302,
+          "filesize": 8038133,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 85570,
+          "chapter_title": "1卷",
+          "updatetime": 1559650286,
+          "filesize": 15864213,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 485,
+    "latest_comment": [
+      {
+        "comment_id": 27095311,
+        "uid": 110974607,
+        "content": "留",
+        "createtime": 1588582265,
+        "nickname": "dmzj_110974607",
+        "avatar": "https://avatar.dmzj.com/1e/95/1e959a2cbc833ecc34c74166bcac56fd.png"
+      },
+      {
+        "comment_id": 27049509,
+        "uid": 106116652,
+        "content": "这是神",
+        "createtime": 1588440877,
+        "nickname": "小k同学",
+        "avatar": "https://avatar.dmzj.com/b7/5f/b75f65224515bf56160dac38d567260a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

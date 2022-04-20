@@ -1,0 +1,91 @@
+{
+  "id": 8179,
+  "islong": 2,
+  "direction": 1,
+  "title": "炼狱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/lianyu.jpg",
+  "description": "「保健室的死神」作者的短篇，一个真正男子汉是怎么在校园活下去的故事。",
+  "last_updatetime": 1325672908,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lianyu",
+  "hidden": 0,
+  "hot_num": 60391,
+  "hit_num": 480933,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 16122,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3055,
+      "tag_name": "蓝本松"
+    }
+  ],
+  "subscribe_num": 397,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 16122,
+          "chapter_title": "1话",
+          "updatetime": 1325672908,
+          "filesize": 7271438,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 16803099,
+        "uid": 100867040,
+        "content": "草上一条回复还是两年前的我自己",
+        "createtime": 1559674784,
+        "nickname": "伊之狗",
+        "avatar": "https://avatar.dmzj.com/26/59/2659d9f0e5d2774139b6a3ef4268301a.png"
+      },
+      {
+        "comment_id": 3594518,
+        "uid": 100867040,
+        "content": "在狼牙区！在飞虎路！",
+        "createtime": 1514570668,
+        "nickname": "伊之狗",
+        "avatar": "https://avatar.dmzj.com/26/59/2659d9f0e5d2774139b6a3ef4268301a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

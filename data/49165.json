@@ -1,0 +1,94 @@
+{
+  "id": 49165,
+  "islong": 2,
+  "direction": 1,
+  "title": "恐龙与史前生物百科全书",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/konglong20190711.jpg",
+  "description": "看~有霸王龙哦——",
+  "last_updatetime": 1562860342,
+  "last_update_chapter_name": "全一卷下",
+  "copyright": 0,
+  "first_letter": "k",
+  "comic_py": "konglongyusqswbkqs",
+  "hidden": 0,
+  "hot_num": 544634,
+  "hit_num": 124587,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91080,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 2326,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91080,
+          "chapter_title": "1.2卷",
+          "updatetime": 1562860342,
+          "filesize": 34129482,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 91079,
+          "chapter_title": "1.1卷",
+          "updatetime": 1562860262,
+          "filesize": 18681985,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 176,
+    "latest_comment": [
+      {
+        "comment_id": 26701629,
+        "uid": 107208380,
+        "content": "增加知识",
+        "createtime": 1587481918,
+        "nickname": "忧郁的蓝",
+        "avatar": "https://avatar.dmzj.com/64/81/6481467727de138b7949eb329c7ddbb0.png"
+      },
+      {
+        "comment_id": 25568775,
+        "uid": 100410330,
+        "content": "小时候老爸买过，很怀念啊",
+        "createtime": 1584890307,
+        "nickname": "Azm",
+        "avatar": "https://avatar.dmzj.com/21/98/21989595b92351be3e14d3965a72a950.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

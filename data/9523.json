@@ -1,0 +1,129 @@
+{
+  "id": 9523,
+  "islong": 2,
+  "direction": 1,
+  "title": "武侠一代",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/wuxiayidai.jpg",
+  "description": "又是一本讲述日本传统黑社会漫画,将热血武斗的精神与现代武士道想融合,虽然题材比较黑色,但是内容还是非常丰富 ",
+  "last_updatetime": 1509543053,
+  "last_update_chapter_name": "第07卷",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wuxiayidai",
+  "hidden": 1,
+  "hot_num": 9821,
+  "hit_num": 538684,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 19404,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5040,
+      "tag_name": "司敬"
+    }
+  ],
+  "subscribe_num": 20,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19404,
+          "chapter_title": "7卷",
+          "updatetime": 1509543053,
+          "filesize": 34242733,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 19403,
+          "chapter_title": "6卷",
+          "updatetime": 1509543041,
+          "filesize": 33994751,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 19402,
+          "chapter_title": "5卷",
+          "updatetime": 1509543029,
+          "filesize": 33027692,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 19401,
+          "chapter_title": "4卷",
+          "updatetime": 1509543017,
+          "filesize": 32665557,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 19400,
+          "chapter_title": "3卷",
+          "updatetime": 1509543011,
+          "filesize": 22598127,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 19399,
+          "chapter_title": "2卷",
+          "updatetime": 1509542995,
+          "filesize": 28675058,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 19398,
+          "chapter_title": "1卷",
+          "updatetime": 1509542984,
+          "filesize": 22520651,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 2751432,
+        "uid": 105134890,
+        "content": "请问第7集是最终版吗？还有第8集吗",
+        "createtime": 1503044286,
+        "nickname": "Salvatori",
+        "avatar": "https://avatar.dmzj.com/53/97/5397f2953d301ccae0c1398320836a17.png"
+      },
+      {
+        "comment_id": 2751428,
+        "uid": 105134890,
+        "content": "请问第7集是最终版吗？还有第8集吗",
+        "createtime": 1503044220,
+        "nickname": "Salvatori",
+        "avatar": "https://avatar.dmzj.com/53/97/5397f2953d301ccae0c1398320836a17.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

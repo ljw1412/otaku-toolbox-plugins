@@ -1,0 +1,102 @@
+{
+  "id": 6710,
+  "islong": 2,
+  "direction": 1,
+  "title": "记忆骇客",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/jiyihaike.jpg",
+  "description": "Mr. 矢堂是一个拥有可以潜入物件的记忆中能力的人, 究竟物件的记忆世界又是怎麼一回事呢?",
+  "last_updatetime": 1289291532,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jiyihaike",
+  "hidden": 1,
+  "hot_num": 7983,
+  "hit_num": 318127,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13891,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3609,
+      "tag_name": "木叶功一"
+    }
+  ],
+  "subscribe_num": 62,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13891,
+          "chapter_title": "2卷",
+          "updatetime": 1289896332,
+          "filesize": 16480434,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13890,
+          "chapter_title": "1卷",
+          "updatetime": 1289896332,
+          "filesize": 17257959,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 25460255,
+        "uid": 101753563,
+        "content": "有趣",
+        "createtime": 1584632300,
+        "nickname": "云中超人",
+        "avatar": "https://avatar.dmzj.com/92/02/9202c7a2886ae7640a340e2195198565.png"
+      },
+      {
+        "comment_id": 17338700,
+        "uid": 107297967,
+        "content": "记忆骇客",
+        "createtime": 1561031312,
+        "nickname": "御辛",
+        "avatar": "https://avatar.dmzj.com/31/23/3123adf8a4f228da6f86cb0a394a212c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

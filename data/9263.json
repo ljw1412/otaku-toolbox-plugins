@@ -1,0 +1,87 @@
+{
+  "id": 9263,
+  "islong": 2,
+  "direction": 1,
+  "title": "为什么会变成这样",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/weishenmohuizheyang.jpg",
+  "description": "我只是打工的，为什么要女装。。不过好像很可爱呀。",
+  "last_updatetime": 1344939391,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "weishenmhuizheyang",
+  "hidden": 0,
+  "hot_num": 161219,
+  "hit_num": 876859,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 18794,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4908,
+      "tag_name": "ハラヤヒロ"
+    }
+  ],
+  "subscribe_num": 513,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 18794,
+          "chapter_title": "1话",
+          "updatetime": 1344939391,
+          "filesize": 1269560,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 36,
+    "latest_comment": [
+      {
+        "comment_id": 21507956,
+        "uid": 104513508,
+        "content": "额，战略性马克",
+        "createtime": 1571583747,
+        "nickname": "学之大者",
+        "avatar": "https://avatar.dmzj.com/62/7e/627ee1e6d6ea4756dabb2bad2c3dac98.png"
+      },
+      {
+        "comment_id": 16123090,
+        "uid": 107543947,
+        "content": "1",
+        "createtime": 1558265327,
+        "nickname": "godic7",
+        "avatar": "https://avatar.dmzj.com/86/2a/862a865f19669abd092e532182e8203c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

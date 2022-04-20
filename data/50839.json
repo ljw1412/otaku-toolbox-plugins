@@ -1,0 +1,87 @@
+{
+  "id": 50839,
+  "islong": 2,
+  "direction": 2,
+  "title": "初阶骑士的故事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/191028cjqsdgs.jpg",
+  "description": "在DNF世界观下，一个初阶骑士的故事",
+  "last_updatetime": 1572256722,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chujieqishidegushi",
+  "hidden": 0,
+  "hot_num": 503752,
+  "hit_num": 129086,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90634,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18162,
+      "tag_name": "VOKE"
+    }
+  ],
+  "subscribe_num": 1911,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90634,
+          "chapter_title": "1话",
+          "updatetime": 1572256722,
+          "filesize": 9157296,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 76,
+    "latest_comment": [
+      {
+        "comment_id": 23186702,
+        "uid": 102303140,
+        "content": "这是一四年大转移后的剧情吧，小蕾妮真的惨",
+        "createtime": 1578634602,
+        "nickname": "Pekomiko贴贴",
+        "avatar": "https://avatar.dmzj.com/41/21/4121b5018eefc942d4578229a28e1b85.png"
+      },
+      {
+        "comment_id": 23184639,
+        "uid": 105626744,
+        "content": "其实，我更想救艾泽拉",
+        "createtime": 1578627096,
+        "nickname": "天天换老婆",
+        "avatar": "https://avatar.dmzj.com/23/96/23969bf06a7971909512671f0f1f529c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

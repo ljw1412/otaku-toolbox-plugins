@@ -1,0 +1,87 @@
+{
+  "id": 52617,
+  "islong": 2,
+  "direction": 1,
+  "title": "你想要的东西",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/nxyddx2020228.jpg",
+  "description": "太子大人最近似乎在想些什么",
+  "last_updatetime": 1582875804,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "nixiangyaodedongxi",
+  "hidden": 0,
+  "hot_num": 46129,
+  "hit_num": 5100,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97910,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18009,
+      "tag_name": "kaze"
+    }
+  ],
+  "subscribe_num": 211,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97910,
+          "chapter_title": "1话",
+          "updatetime": 1582875804,
+          "filesize": 1226199,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 25514766,
+        "uid": 105539985,
+        "content": "布嘟嘟放下了煤气罐w",
+        "createtime": 1584759830,
+        "nickname": "人類に栄光あれ",
+        "avatar": "https://avatar.dmzj.com/38/65/38653027eab7777177bfea604544cf75.png"
+      },
+      {
+        "comment_id": 24999952,
+        "uid": 101840481,
+        "content": "用完还回来????????????????",
+        "createtime": 1583597553,
+        "nickname": "柠檬精。我好酸啊",
+        "avatar": "https://avatar.dmzj.com/97/05/970540d734aefed830d501adc8c315d9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

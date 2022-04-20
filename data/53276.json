@@ -1,0 +1,123 @@
+{
+  "id": 53276,
+  "islong": 2,
+  "direction": 1,
+  "title": "可以喜欢你吗",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/keyixihuannima2020.jpg",
+  "description": "嘴上说不要，心里却很诚实呢",
+  "last_updatetime": 1587900422,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "k",
+  "comic_py": "keyixihuannima",
+  "hidden": 0,
+  "hot_num": 679422,
+  "hit_num": 443759,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 102591,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19374,
+      "tag_name": "宇佐木"
+    },
+    {
+      "tag_id": 19375,
+      "tag_name": "高桥ユキ"
+    }
+  ],
+  "subscribe_num": 2083,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102591,
+          "chapter_title": "5话",
+          "updatetime": 1587900422,
+          "filesize": 6804871,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 102163,
+          "chapter_title": "4话",
+          "updatetime": 1587127705,
+          "filesize": 4605489,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 101808,
+          "chapter_title": "3话",
+          "updatetime": 1586517015,
+          "filesize": 6652540,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 101432,
+          "chapter_title": "2话",
+          "updatetime": 1585907464,
+          "filesize": 3956271,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 101105,
+          "chapter_title": "1话",
+          "updatetime": 1585390542,
+          "filesize": 6407316,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 69,
+    "latest_comment": [
+      {
+        "comment_id": 26910216,
+        "uid": 102492127,
+        "content": "早乙女好多了？",
+        "createtime": 1588041277,
+        "nickname": "wewewew",
+        "avatar": "https://avatar.dmzj.com/39/55/39555d5d4b9fa01a76c5905fdc068b45.png"
+      },
+      {
+        "comment_id": 26909100,
+        "uid": 110265115,
+        "content": "言峰绮礼的爱情故事？",
+        "createtime": 1588037750,
+        "nickname": "dmzj_110265115",
+        "avatar": "https://avatar.dmzj.com/3d/49/3d49734fe56cd2d07432b31d618c7653.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,112 @@
+{
+  "id": 9252,
+  "islong": 2,
+  "direction": 1,
+  "title": "灰姑娘★egg",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/huiguniangegg.jpg",
+  "description": "在都内某处的小小艺能事务所，那里有着为了未来奋斗中的偶像之卵，目标是成为偶像！！但是似乎路还很长……",
+  "last_updatetime": 1353142746,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huiguniangegg",
+  "hidden": 0,
+  "hot_num": 84505,
+  "hit_num": 261380,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21766,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2851,
+      "tag_name": "凪庵"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "subscribe_num": 392,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21766,
+          "chapter_title": "4话",
+          "updatetime": 1353142746,
+          "filesize": 1042979,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 21385,
+          "chapter_title": "3话",
+          "updatetime": 1350396554,
+          "filesize": 795889,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 21121,
+          "chapter_title": "2话",
+          "updatetime": 1348069290,
+          "filesize": 608757,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 20713,
+          "chapter_title": "1话",
+          "updatetime": 1344709013,
+          "filesize": 602443,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 18194200,
+        "uid": 102505074,
+        "content": "安排一下",
+        "createtime": 1563076264,
+        "nickname": "兩儀式",
+        "avatar": "https://avatar.dmzj.com/0b/b0/0bb09aa02ffa5ccccb9acac03664ed56.png"
+      },
+      {
+        "comment_id": 3004266,
+        "uid": 100804852,
+        "content": "画得挺可爱的....",
+        "createtime": 1506858593,
+        "nickname": "黑百合w690",
+        "avatar": "https://avatar.dmzj.com/9f/45/9f454e8dc565a4f06c62bd64e39544ae.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

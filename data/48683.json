@@ -1,0 +1,91 @@
+{
+  "id": 48683,
+  "islong": 2,
+  "direction": 1,
+  "title": "现象",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/xx190601.jpg",
+  "description": "蒸发，凝结，再掉下来，很普通的现象。",
+  "last_updatetime": 1559359670,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xianxiang",
+  "hidden": 1,
+  "hot_num": 867023,
+  "hit_num": 7108,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 84513,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14001,
+      "tag_name": "雨衣少女群（雨がっぱ少女群）"
+    }
+  ],
+  "subscribe_num": 4000,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 84513,
+          "chapter_title": "1话",
+          "updatetime": 1559359670,
+          "filesize": 767974,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 297,
+    "latest_comment": [
+      {
+        "comment_id": 26868053,
+        "uid": 106302437,
+        "content": "唉 坐标",
+        "createtime": 1587916806,
+        "nickname": "dmzj_106302437",
+        "avatar": "https://avatar.dmzj.com/04/38/04386157e214be7351726cf03e3d6df1.png"
+      },
+      {
+        "comment_id": 26687213,
+        "uid": 109939734,
+        "content": "这。。。反转太快？！",
+        "createtime": 1587444127,
+        "nickname": "dmzj_109939734",
+        "avatar": "https://avatar.dmzj.com/57/f7/57f791f077f58f7a4cbc16a6d6d89f57.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

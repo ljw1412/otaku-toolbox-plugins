@@ -1,0 +1,91 @@
+{
+  "id": 52567,
+  "islong": 2,
+  "direction": 1,
+  "title": "绿野仙踪",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/lvyexianz2020.jpg",
+  "description": "绿野仙踪同人小故事，旅途中，桃乐丝和伙伴发生了什么？",
+  "last_updatetime": 1582733917,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lvyexianzong2020",
+  "hidden": 0,
+  "hot_num": 132400,
+  "hit_num": 16779,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97844,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5845,
+      "tag_name": "若林稔弥"
+    }
+  ],
+  "subscribe_num": 602,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97844,
+          "chapter_title": "1话",
+          "updatetime": 1582733917,
+          "filesize": 3132256,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 40,
+    "latest_comment": [
+      {
+        "comment_id": 26672857,
+        "uid": 102431487,
+        "content": "好祖安",
+        "createtime": 1587397163,
+        "nickname": "老喵攻",
+        "avatar": "https://avatar.dmzj.com/c2/d8/c2d8efbc418d6e8e5c2606d741921417.png"
+      },
+      {
+        "comment_id": 26669718,
+        "uid": 110406920,
+        "content": "没头脑（稻草人）+不高兴（铁皮人）+胆小鬼（狮子）+吐槽担当（桃乐丝）经典的喜剧组合",
+        "createtime": 1587392689,
+        "nickname": "kalatta",
+        "avatar": "https://avatar.dmzj.com/14/c5/14c5aea3f6cbfce1d382364b01bd3078.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

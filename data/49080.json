@@ -1,0 +1,105 @@
+{
+  "id": 49080,
+  "islong": 2,
+  "direction": 1,
+  "title": "去月球外传 纸的记忆",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/qyqwzzdjy0705.jpg",
+  "description": "官方外传漫画，01是《去月球》的外传，02是续作《寻找天堂》的外传，03是共同外传",
+  "last_updatetime": 1562468727,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "quyueqiuwaizhuanzhidejiyi",
+  "hidden": 0,
+  "hot_num": 456770,
+  "hit_num": 7621,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90960,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17340,
+      "tag_name": "高瞰"
+    },
+    {
+      "tag_id": 17341,
+      "tag_name": "puré"
+    }
+  ],
+  "subscribe_num": 3012,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90960,
+          "chapter_title": "3话",
+          "updatetime": 1562468727,
+          "filesize": 2454975,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 90931,
+          "chapter_title": "2话",
+          "updatetime": 1562378375,
+          "filesize": 4851274,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 90912,
+          "chapter_title": "1话",
+          "updatetime": 1562324958,
+          "filesize": 3224129,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 134,
+    "latest_comment": [
+      {
+        "comment_id": 24900737,
+        "uid": 110545326,
+        "content": "泪，泻了出来",
+        "createtime": 1583394680,
+        "nickname": "dmzj_110545326",
+        "avatar": "https://avatar.dmzj.com/61/06/610656021c4e745142f2f4782a070721.png"
+      },
+      {
+        "comment_id": 24757450,
+        "uid": 24779160,
+        "content": "电子版好像才11块",
+        "createtime": 1583089472,
+        "nickname": "洛克零",
+        "avatar": "https://avatar.dmzj.com/d2/2f/d22f7b8cd9d002483670776ee695b1a2.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

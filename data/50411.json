@@ -1,0 +1,87 @@
+{
+  "id": 50411,
+  "islong": 2,
+  "direction": 1,
+  "title": "PASTORALE",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/PASTORALE20191002.jpg",
+  "description": "寒冷的冬日,有你陪伴的温暖",
+  "last_updatetime": 1569982973,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "p",
+  "comic_py": "pastorale",
+  "hidden": 0,
+  "hot_num": 39597,
+  "hit_num": 3721,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93398,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17982,
+      "tag_name": "かじまゆうき"
+    }
+  ],
+  "subscribe_num": 189,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93398,
+          "chapter_title": "1话",
+          "updatetime": 1569982973,
+          "filesize": 3078545,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 20835356,
+        "uid": 100255300,
+        "content": "好看",
+        "createtime": 1570030998,
+        "nickname": "24k金刚",
+        "avatar": "https://avatar.dmzj.com/26/58/26586ec672933ddecdb0f465d4c12e00.png"
+      },
+      {
+        "comment_id": 20818837,
+        "uid": 108038105,
+        "content": "雏穰子的组合，本以为只有一个cp狂魔才画过……",
+        "createtime": 1569995069,
+        "nickname": "心之所向，追求美好",
+        "avatar": "https://avatar.dmzj.com/90/27/9027c37474c280a7437e003812789906.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,105 @@
+{
+  "id": 53077,
+  "islong": 2,
+  "direction": 1,
+  "title": "有花无实",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/200319youhuawushi.jpg",
+  "description": "如果这世界充满了虚妄的谎言那么我愿活在——名为纯粹的原罪中。",
+  "last_updatetime": 1587015197,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "youhuawushi",
+  "hidden": 0,
+  "hot_num": 3513102,
+  "hit_num": 900890,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100188,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6738,
+      "tag_name": "NON"
+    },
+    {
+      "tag_id": 12284,
+      "tag_name": "手冢だい"
+    }
+  ],
+  "subscribe_num": 13481,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100188,
+          "chapter_title": "3话",
+          "updatetime": 1587015197,
+          "filesize": 5067648,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 99570,
+          "chapter_title": "2话",
+          "updatetime": 1585843044,
+          "filesize": 3756424,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 98933,
+          "chapter_title": "1话",
+          "updatetime": 1584633000,
+          "filesize": 4479309,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 736,
+    "latest_comment": [
+      {
+        "comment_id": 27022741,
+        "uid": 105698952,
+        "content": "好强",
+        "createtime": 1588364809,
+        "nickname": "小猪仔不知自己名字",
+        "avatar": "https://avatar.dmzj.com/53/69/53691991192357def6e258e5b3f10006.png"
+      },
+      {
+        "comment_id": 27010559,
+        "uid": 101652861,
+        "content": "杀了这么多人，最后对真子下手了吗？",
+        "createtime": 1588341403,
+        "nickname": "太丸",
+        "avatar": "https://avatar.dmzj.com/33/05/3305753124a1dc1f509d0cfe4b7170e1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}
