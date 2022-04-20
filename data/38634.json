@@ -1,0 +1,87 @@
+{
+  "id": 38634,
+  "islong": 2,
+  "direction": 1,
+  "title": "火影同人-我的第一次",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/160831narutozz.jpg",
+  "description": "火影同人——鸣人×雏田",
+  "last_updatetime": 1472617394,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wodediyici",
+  "hidden": 0,
+  "hot_num": 123837,
+  "hit_num": 1405377,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 54132,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12364,
+      "tag_name": "おれっと"
+    }
+  ],
+  "subscribe_num": 1077,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54132,
+          "chapter_title": "1话",
+          "updatetime": 1472617394,
+          "filesize": 13815764,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 115,
+    "latest_comment": [
+      {
+        "comment_id": 22702712,
+        "uid": 107957692,
+        "content": "心底",
+        "createtime": 1576741312,
+        "nickname": "dmzj_107957692",
+        "avatar": "https://avatar.dmzj.com/80/12/80121cc720f0dad5f31dd915bcbdc2d1.png"
+      },
+      {
+        "comment_id": 21190191,
+        "uid": 100950018,
+        "content": "啧啧啧，鸣雏一生推",
+        "createtime": 1570786729,
+        "nickname": "YWBM丶",
+        "avatar": "https://avatar.dmzj.com/b1/9b/b19ba6de141940cc10750d4e936472ae.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

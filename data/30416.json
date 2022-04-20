@@ -1,0 +1,111 @@
+{
+  "id": 30416,
+  "islong": 2,
+  "direction": 2,
+  "title": "门神",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1009575831457408050.jpg",
+  "description": "残喘于夹缝中的传说。",
+  "last_updatetime": 1460264202,
+  "last_update_chapter_name": "第01话2",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "menshen",
+  "hidden": 0,
+  "hot_num": 6524,
+  "hit_num": 133564,
+  "uid": 100957583,
+  "is_lock": 0,
+  "last_update_chapter_id": 50789,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11481,
+      "tag_name": "__树心"
+    }
+  ],
+  "subscribe_num": 83,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50789,
+          "chapter_title": "1.2话",
+          "updatetime": 1460264202,
+          "filesize": 1584466,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 49499,
+          "chapter_title": "1.1话",
+          "updatetime": 1457433722,
+          "filesize": 1347678,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 49498,
+          "chapter_title": "0话",
+          "updatetime": 1457408214,
+          "filesize": 1077913,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "http://weibo.com/u/5390106065/home",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 729073,
+        "uid": 7401719,
+        "content": "下一步是院长么",
+        "createtime": 1460491022,
+        "nickname": "a642572581",
+        "avatar": "https://avatar.dmzj.com/3e/4f/3e4faeecfcb5aefeb3ad8c58f0e84682.png"
+      },
+      {
+        "comment_id": 724490,
+        "uid": 100467528,
+        "content": "不可能是日漫",
+        "createtime": 1460304214,
+        "nickname": "WNS",
+        "avatar": "https://avatar.dmzj.com/fe/93/fe93c8c354f3c8a89d3ef4ebc7fd0ffd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

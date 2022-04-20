@@ -1,0 +1,87 @@
+{
+  "id": 3356,
+  "islong": 2,
+  "direction": 1,
+  "title": "匣入童子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/xrtz.jpg",
+  "description": "影崎由那的一部短篇百合漫画",
+  "last_updatetime": 1274766329,
+  "last_update_chapter_name": "前后篇全",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xrtz",
+  "hidden": 0,
+  "hot_num": 78700,
+  "hit_num": 656716,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 6556,
+  "authors": [
+    {
+      "tag_id": 24,
+      "tag_name": "影崎由那"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "subscribe_num": 399,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6556,
+          "chapter_title": "前后篇全",
+          "updatetime": 1274766329,
+          "filesize": 7790217,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 23094698,
+        "uid": 108255617,
+        "content": "我来组成评论",
+        "createtime": 1578253259,
+        "nickname": "你看你看月亮的脸",
+        "avatar": "https://avatar.dmzj.com/88/04/8804f0476500a76611a9fe5da5bc5df7.png"
+      },
+      {
+        "comment_id": 22828851,
+        "uid": 26761833,
+        "content": "座敷童子好可怜",
+        "createtime": 1577215552,
+        "nickname": "方糖研磨社",
+        "avatar": "https://avatar.dmzj.com/b0/8c/b08cc5684d989ba3319d13bae1b64419.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

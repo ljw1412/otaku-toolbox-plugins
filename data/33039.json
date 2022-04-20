@@ -1,0 +1,74 @@
+{
+  "id": 33039,
+  "islong": 2,
+  "direction": 2,
+  "title": "新52末日未来：暗黑正义联盟",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/moriweilaianhei.jpg",
+  "description": "时光穿越，扎塔娜该如何摆脱那永恒的漂泊？",
+  "last_updatetime": 1461383326,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xin52moriweilaianheizhengyilianmeng",
+  "hidden": 0,
+  "hot_num": 51295,
+  "hit_num": 57141,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 49245,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 315,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49245,
+          "chapter_title": "1卷",
+          "updatetime": 1461383326,
+          "filesize": 3073789,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

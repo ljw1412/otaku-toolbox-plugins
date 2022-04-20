@@ -1,0 +1,93 @@
+{
+  "id": 32259,
+  "islong": 2,
+  "direction": 2,
+  "title": "诉说",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1004714441460091201.jpg",
+  "description": "这是一个短篇集来的，并不是单纯的恐怖漫画，里面也会有其他类型的漫画短片。",
+  "last_updatetime": 1460091552,
+  "last_update_chapter_name": "候车",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "sushuo",
+  "hidden": 0,
+  "hot_num": 2885,
+  "hit_num": 72531,
+  "uid": 100471444,
+  "is_lock": 0,
+  "last_update_chapter_id": 48733,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10824,
+      "tag_name": "围棋"
+    }
+  ],
+  "subscribe_num": 30,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48733,
+          "chapter_title": "1话",
+          "updatetime": 1460091552,
+          "filesize": 1883726,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "喜欢我的话可以关注我的微博（围棋--bibi--）喜欢我作品的读者们可在有妖气网站上寻找哦，搜索《温暖的心》便能找到我的其他作品啦。由于作业多，会更新得比较慢~",
+  "comic_notice": "由于作业多，会不定时更新，请大家多多体谅~",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 726687,
+        "uid": 101018735,
+        "content": "……这个分类到耽美区是什么意思←_←",
+        "createtime": 1460391191,
+        "nickname": "INK♞Tataly",
+        "avatar": "https://avatar.dmzj.com/43/a8/43a89fa4d743b5d9fd44e99e3024a8fc.png"
+      },
+      {
+        "comment_id": 724300,
+        "uid": 100819265,
+        "content": "沙发！！好像很不错的样子！！可是为什么有耽美?",
+        "createtime": 1460300509,
+        "nickname": "冷岚",
+        "avatar": "https://avatar.dmzj.com/ed/03/ed03b3a4dbd10872bd039e0d996bdb2b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

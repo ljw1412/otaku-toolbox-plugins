@@ -1,0 +1,87 @@
+{
+  "id": 34070,
+  "islong": 2,
+  "direction": 1,
+  "title": "小魔女学院~月夜的王冠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/00xiaomonvxueyuan5117.jpg",
+  "description": "当少女找到梦的时候，那顶王冠将散发光辉…",
+  "last_updatetime": 1463919619,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaomonvxueyuanyueyedewangguan",
+  "hidden": 0,
+  "hot_num": 110916,
+  "hit_num": 206872,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 54238,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11853,
+      "tag_name": "藤原ゆか"
+    }
+  ],
+  "subscribe_num": 1043,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54238,
+          "chapter_title": "1话",
+          "updatetime": 1463919620,
+          "filesize": 5326715,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 60,
+    "latest_comment": [
+      {
+        "comment_id": 26170065,
+        "uid": 100618060,
+        "content": "这画风有些苏",
+        "createtime": 1586216753,
+        "nickname": "皇家阿sir",
+        "avatar": "https://avatar.dmzj.com/86/54/86547976dabd45a23293b87c00bdc509.png"
+      },
+      {
+        "comment_id": 25186708,
+        "uid": 107326319,
+        "content": "bg是永远不可能的",
+        "createtime": 1584024929,
+        "nickname": "Yshimura",
+        "avatar": "https://avatar.dmzj.com/13/64/13646fa0509befc03e01632711aca548.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

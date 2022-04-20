@@ -1,0 +1,87 @@
+{
+  "id": 2950,
+  "islong": 2,
+  "direction": 1,
+  "title": "无声音乐盒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/002_6b7932be48fc3b2c2216cecc4875e382.jpg",
+  "description": "柴门文爱情漫画短篇集",
+  "last_updatetime": 1273050372,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wushenyinyuehe",
+  "hidden": 0,
+  "hot_num": 55705,
+  "hit_num": 264417,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 8891,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1250,
+      "tag_name": "柴门文"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 299,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8891,
+          "chapter_title": "1卷",
+          "updatetime": 1273655172,
+          "filesize": 15320262,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 17969484,
+        "uid": 102152090,
+        "content": "成年人的相处方式",
+        "createtime": 1562581785,
+        "nickname": "山下美月",
+        "avatar": "https://avatar.dmzj.com/17/11/17110813a61eca8d9ae528def8135b0f.png"
+      },
+      {
+        "comment_id": 5331896,
+        "uid": 105590400,
+        "content": "好看但欠缺了一点余味",
+        "createtime": 1530153269,
+        "nickname": "jojoorc",
+        "avatar": "https://avatar.dmzj.com/96/32/9632150acd5559bcfa4c6c0d53a30da8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

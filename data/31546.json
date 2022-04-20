@@ -1,0 +1,112 @@
+{
+  "id": 31546,
+  "islong": 2,
+  "direction": 1,
+  "title": "真剑!!",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/zhenjian356687896l.jpg",
+  "description": "游戏《真剑!!》官方四格漫画。",
+  "last_updatetime": 1459421188,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhenjian",
+  "hidden": 0,
+  "hot_num": 26652,
+  "hit_num": 34140,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 50371,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5417,
+      "tag_name": "枡狐蛙空"
+    }
+  ],
+  "subscribe_num": 275,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50371,
+          "chapter_title": "4话",
+          "updatetime": 1459421188,
+          "filesize": 157340,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 50370,
+          "chapter_title": "3话",
+          "updatetime": 1459421167,
+          "filesize": 242058,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 50369,
+          "chapter_title": "2话",
+          "updatetime": 1459421150,
+          "filesize": 189637,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 50368,
+          "chapter_title": "1话",
+          "updatetime": 1459421128,
+          "filesize": 214853,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 12272642,
+        "uid": 108306985,
+        "content": "。",
+        "createtime": 1551613409,
+        "nickname": "dmzj_108306985",
+        "avatar": "https://avatar.dmzj.com/01/1d/011d9b603435678f48fabc264a26ade1.png"
+      },
+      {
+        "comment_id": 707775,
+        "uid": 25707337,
+        "content": "にか好萌！！",
+        "createtime": 1459643777,
+        "nickname": "Aestivate",
+        "avatar": "https://avatar.dmzj.com/20/97/209725b24528f9af8939cd194645694f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

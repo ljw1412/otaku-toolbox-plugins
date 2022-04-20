@@ -1,0 +1,119 @@
+{
+  "id": 32674,
+  "islong": 2,
+  "direction": 1,
+  "title": "素食频道",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/sushipindao.jpg",
+  "description": "被无辜卷入的腐男君的恋爱物语，开幕！！",
+  "last_updatetime": 1487324036,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sushipindao",
+  "hidden": 1,
+  "hot_num": 1540071,
+  "hit_num": 2733211,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 59159,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9233,
+      "tag_name": "津轻"
+    }
+  ],
+  "subscribe_num": 12110,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59159,
+          "chapter_title": "5话",
+          "updatetime": 1487324036,
+          "filesize": 1863246,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 55391,
+          "chapter_title": "4话",
+          "updatetime": 1475935858,
+          "filesize": 2184073,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 53066,
+          "chapter_title": "3话",
+          "updatetime": 1469886299,
+          "filesize": 2558645,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 50138,
+          "chapter_title": "2话",
+          "updatetime": 1463892324,
+          "filesize": 3052711,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 49069,
+          "chapter_title": "1话",
+          "updatetime": 1460974490,
+          "filesize": 3341771,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 612,
+    "latest_comment": [
+      {
+        "comment_id": 26571465,
+        "uid": 106317539,
+        "content": "竟然没有了",
+        "createtime": 1587108139,
+        "nickname": "怪异君",
+        "avatar": "https://avatar.dmzj.com/81/14/811434c76978031343d8ceb9fce0ccc9.png"
+      },
+      {
+        "comment_id": 26420064,
+        "uid": 105994356,
+        "content": "...",
+        "createtime": 1586744027,
+        "nickname": "雨宫萤子",
+        "avatar": "https://avatar.dmzj.com/60/14/6014a62db905a93867b1aca40552fc90.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

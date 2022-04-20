@@ -1,0 +1,91 @@
+{
+  "id": 37430,
+  "islong": 2,
+  "direction": 1,
+  "title": "卷发少女星之梦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/juanfashaonvxinzhimengfengmianl.jpg",
+  "description": "在这片星光之下，未来将会是光彩夺目的。",
+  "last_updatetime": 1468297541,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "juanfashaonvxingzhimeng",
+  "hidden": 0,
+  "hot_num": 27475,
+  "hit_num": 28102,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 56343,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12108,
+      "tag_name": "原田靖生"
+    },
+    {
+      "tag_id": 12109,
+      "tag_name": "kadokwa"
+    }
+  ],
+  "subscribe_num": 288,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56343,
+          "chapter_title": "1话",
+          "updatetime": 1468297542,
+          "filesize": 5210863,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 25949116,
+        "uid": 108318024,
+        "content": "这是多久没更新了……",
+        "createtime": 1585761844,
+        "nickname": "头像我本人",
+        "avatar": "https://avatar.dmzj.com/24/10/2410b2560dd42d44a485bc24f25e0238.png"
+      },
+      {
+        "comment_id": 1006987,
+        "uid": 7260391,
+        "content": "看楼下的评论觉得是神经病发的评论.....",
+        "createtime": 1468373935,
+        "nickname": "52xiyouq",
+        "avatar": "https://avatar.dmzj.com/48/36/48363c00c8e25de0f6166dc01d327e11.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

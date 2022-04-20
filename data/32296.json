@@ -1,0 +1,101 @@
+{
+  "id": 32296,
+  "islong": 2,
+  "direction": 1,
+  "title": "永别夜响曲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/0yongbieyexiangqu00.jpg",
+  "description": "那个夏天开始，一切都改变了",
+  "last_updatetime": 1466562927,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yongbieyexiangqu",
+  "hidden": 0,
+  "hot_num": 22190,
+  "hit_num": 322901,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 53704,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6135,
+      "tag_name": "永瀬ようすけ"
+    }
+  ],
+  "subscribe_num": 586,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 53704,
+          "chapter_title": "3话",
+          "updatetime": 1466562927,
+          "filesize": 3343314,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 52313,
+          "chapter_title": "2话",
+          "updatetime": 1463652481,
+          "filesize": 4069965,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 50965,
+          "chapter_title": "1话",
+          "updatetime": 1460557183,
+          "filesize": 6292816,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 9966588,
+        "uid": 101267074,
+        "content": "哪里可以看到最新啊",
+        "createtime": 1547224873,
+        "nickname": "2016050902215159",
+        "avatar": "https://avatar.dmzj.com/64/40/6440ac2478034e8d494e7bd0470cc1e8.png"
+      },
+      {
+        "comment_id": 2394215,
+        "uid": 51036,
+        "content": "这个漫画其实已经完结，结局不错，虽然有遗憾，算是大团圆吧。",
+        "createtime": 1498724472,
+        "nickname": "宁静致远37001",
+        "avatar": "https://avatar.dmzj.com/64/11/6411d56b4f593a8a484e16944b44352e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

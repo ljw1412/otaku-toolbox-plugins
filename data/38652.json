@@ -1,0 +1,91 @@
+{
+  "id": 38652,
+  "islong": 2,
+  "direction": 1,
+  "title": "家有幽灵",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/jiayouyouling.jpg",
+  "description": "性别不详、年龄不详的话唠幽灵来到了我家。",
+  "last_updatetime": 1472693795,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jiayouyouling",
+  "hidden": 0,
+  "hot_num": 9975,
+  "hit_num": 7740,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 57804,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12373,
+      "tag_name": "カナヘイ"
+    }
+  ],
+  "subscribe_num": 146,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 57804,
+          "chapter_title": "1话",
+          "updatetime": 1472693795,
+          "filesize": 1109371,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 22248361,
+        "uid": 109166606,
+        "content": "我已經結束了歌手的精神，時代的細節",
+        "createtime": 1574412396,
+        "nickname": "1无",
+        "avatar": "https://avatar.dmzj.com/da/37/da371aa9a9bea55ed848a10c0da1ca5f.png"
+      },
+      {
+        "comment_id": 1349969,
+        "uid": 102149879,
+        "content": "好可爱★",
+        "createtime": 1475800932,
+        "nickname": "犬四点",
+        "avatar": "https://avatar.dmzj.com/99/64/9964f8e8c55c8b95d2f358485797069e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 3352,
+  "islong": 2,
+  "direction": 1,
+  "title": "脱力结界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/00_09de491ec4bb6e7829185e4a5f95ba64.jpg",
+  "description": "东方同人作品",
+  "last_updatetime": 1274154516,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tljj",
+  "hidden": 0,
+  "hot_num": 45369,
+  "hit_num": 322694,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 8449,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1730,
+      "tag_name": "同人"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 206,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8449,
+          "chapter_title": "1话",
+          "updatetime": 1274759316,
+          "filesize": 1873253,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 3739915,
+        "uid": 101107453,
+        "content": "自己觉得很有趣",
+        "createtime": 1516797819,
+        "nickname": "三月末下",
+        "avatar": "https://avatar.dmzj.com/bd/5b/bd5bab34f5c6d80f4b229416e8b275e9.png"
+      },
+      {
+        "comment_id": 1703475,
+        "uid": 101230316,
+        "content": "灵梦看爱丽丝抱着魔里沙人偶竟然没什么反应。。。真失望。",
+        "createtime": 1485019028,
+        "nickname": "梦＆极光^！",
+        "avatar": "https://avatar.dmzj.com/5c/eb/5ceb476e479c6084c7aa66bf3e1814e5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

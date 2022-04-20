@@ -1,0 +1,91 @@
+{
+  "id": 3075,
+  "islong": 2,
+  "direction": 1,
+  "title": "神隐之后",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/01_a57179ba1e1a20dd98c9623854925ff9.jpg",
+  "description": "短篇漫画",
+  "last_updatetime": 1273475923,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shenyinzhihou",
+  "hidden": 0,
+  "hot_num": 65645,
+  "hit_num": 395308,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 9030,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 129,
+      "tag_name": "楠桂"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 317,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9030,
+          "chapter_title": "1话",
+          "updatetime": 1274080723,
+          "filesize": 1755331,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 23901161,
+        "uid": 109232027,
+        "content": "鬼神这种东西啊……可以不信，但绝不能亵渎（ '▿ ' ）",
+        "createtime": 1581136124,
+        "nickname": "猫头糯",
+        "avatar": "https://avatar.dmzj.com/20/bd/20bd6367b3b6b0d6d981c715d63d3b52.png"
+      },
+      {
+        "comment_id": 17903297,
+        "uid": 107499682,
+        "content": "…(´ºωº｀)",
+        "createtime": 1562429857,
+        "nickname": "木子十戈",
+        "avatar": "https://avatar.dmzj.com/58/44/584473b5c90647c46ed73ae31c57fe98.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

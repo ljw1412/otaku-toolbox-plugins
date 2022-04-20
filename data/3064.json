@@ -1,0 +1,105 @@
+{
+  "id": 3064,
+  "islong": 2,
+  "direction": 1,
+  "title": "凶兽武者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/xs0_01_a8d5166f99ef81662d0ee249a8cea5a9.jpg",
+  "description": "魔幻武侠港漫~~",
+  "last_updatetime": 1273418949,
+  "last_update_chapter_name": "CH05",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiongshouwuzhe",
+  "hidden": 1,
+  "hot_num": 3336,
+  "hit_num": 76899,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 7564,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1793,
+      "tag_name": "钟国光"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 6,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 7564,
+          "chapter_title": "5卷",
+          "updatetime": 1274023749,
+          "filesize": 5702623,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 7563,
+          "chapter_title": "4卷",
+          "updatetime": 1274023749,
+          "filesize": 5848659,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 7562,
+          "chapter_title": "3卷",
+          "updatetime": 1274023749,
+          "filesize": 5677787,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 7561,
+          "chapter_title": "2卷",
+          "updatetime": 1274023749,
+          "filesize": 6398462,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 7560,
+          "chapter_title": "1卷",
+          "updatetime": 1274023749,
+          "filesize": 6120849,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 7559,
+          "chapter_title": "0卷",
+          "updatetime": 1274023749,
+          "filesize": 4760498,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,86 @@
+{
+  "id": 31892,
+  "islong": 1,
+  "direction": 2,
+  "title": "摩登西厢",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1010731331459926937.jpg",
+  "description": "《摩登西厢》是作者胡军的第一部作品，结合自己的想象及生活阅历，运用夸张、变形、提炼等手法创作出了这部作品，在浙江《幽默大师》上连载受到读者的好评。\n",
+  "last_updatetime": 1459927250,
+  "last_update_chapter_name": "第三场 解围",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "modengxixiang",
+  "hidden": 0,
+  "hot_num": 2186,
+  "hit_num": 33943,
+  "uid": 101073133,
+  "is_lock": 0,
+  "last_update_chapter_id": 52393,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11624,
+      "tag_name": "胡军动漫"
+    }
+  ],
+  "subscribe_num": 17,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52393,
+          "chapter_title": "3话",
+          "updatetime": 1459927250,
+          "filesize": 1931974,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 52392,
+          "chapter_title": "2话",
+          "updatetime": 1459927211,
+          "filesize": 2183385,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 52391,
+          "chapter_title": "1话",
+          "updatetime": 1459927106,
+          "filesize": 3082930,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

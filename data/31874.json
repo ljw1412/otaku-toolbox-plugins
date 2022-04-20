@@ -1,0 +1,101 @@
+{
+  "id": 31874,
+  "islong": 2,
+  "direction": 1,
+  "title": "用漫画攻略三国的正确方法",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/yongmanhuagongluesanguo.jpg",
+  "description": "外来民族的新文化[漫画]，是兵荒马乱的东汉末年得到了和平，却也让天下再度成为各怀绝技的英豪们问鼎逐鹿的战场。画功超差的萌妹三人组刘备、关羽、张飞，遇见神秘的漫画术士——赵云，连带被卷入他与[黄金道馆]的生死战斗中……",
+  "last_updatetime": 1498307004,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yongmanhuagongluesanguodezhengquefangfa",
+  "hidden": 1,
+  "hot_num": 111459,
+  "hit_num": 1139702,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 62536,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5600,
+      "tag_name": "许瑞峰"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "subscribe_num": 790,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 62536,
+          "chapter_title": "3卷",
+          "updatetime": 1498307004,
+          "filesize": 18366189,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 54647,
+          "chapter_title": "2卷",
+          "updatetime": 1473989990,
+          "filesize": 8372792,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 48508,
+          "chapter_title": "1卷",
+          "updatetime": 1459761227,
+          "filesize": 14690872,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 40,
+    "latest_comment": [
+      {
+        "comment_id": 20269378,
+        "uid": 19968186,
+        "content": "看三国",
+        "createtime": 1568367225,
+        "nickname": "合棒",
+        "avatar": "https://avatar.dmzj.com/86/25/8625b8a91a70995f107f7e613939a4fe.png"
+      },
+      {
+        "comment_id": 3740603,
+        "uid": 105855810,
+        "content": "看看",
+        "createtime": 1516805117,
+        "nickname": "星烨love",
+        "avatar": "https://avatar.dmzj.com/76/08/7608136c6eaf1fc284ed985af4a99d4c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

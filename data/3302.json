@@ -1,0 +1,147 @@
+{
+  "id": 3302,
+  "islong": 2,
+  "direction": 1,
+  "title": "雪莉·麦迪森",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/xueli20180821.jpg",
+  "description": "雪莉漫画短篇",
+  "last_updatetime": 1521819100,
+  "last_update_chapter_name": "不安的夜晚",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xlymds",
+  "hidden": 0,
+  "hot_num": 1653188,
+  "hit_num": 2394023,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 74786,
+  "authors": [
+    {
+      "tag_id": 1962,
+      "tag_name": "森薰"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "subscribe_num": 8609,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74786,
+          "chapter_title": "不安的夜晚",
+          "updatetime": 1521819100,
+          "filesize": 4231333,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 32063,
+          "chapter_title": "昔往旧事篇",
+          "updatetime": 1408025341,
+          "filesize": 3608781,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 30365,
+          "chapter_title": "高跟鞋篇",
+          "updatetime": 1400511042,
+          "filesize": 2031174,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 30343,
+          "chapter_title": "7话",
+          "updatetime": 1400346050,
+          "filesize": 2115399,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 25025,
+          "chapter_title": "6话",
+          "updatetime": 1371975484,
+          "filesize": 2889302,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 23590,
+          "chapter_title": "5话",
+          "updatetime": 1365072749,
+          "filesize": 3488058,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 23589,
+          "chapter_title": "4话",
+          "updatetime": 1365072736,
+          "filesize": 1426307,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 23588,
+          "chapter_title": "3话",
+          "updatetime": 1365072729,
+          "filesize": 4502943,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8412,
+          "chapter_title": "1话",
+          "updatetime": 1274689774,
+          "filesize": 4924265,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 241,
+    "latest_comment": [
+      {
+        "comment_id": 25676510,
+        "uid": 101792616,
+        "content": "森薰的每一个画面都是艺术品",
+        "createtime": 1585143300,
+        "nickname": "孟可",
+        "avatar": "https://avatar.dmzj.com/ac/41/ac412fc08a96847fa62df2a2f3780b73.png"
+      },
+      {
+        "comment_id": 25038932,
+        "uid": 104899489,
+        "content": "非常温馨细腻的故事",
+        "createtime": 1583682005,
+        "nickname": "時十",
+        "avatar": "https://avatar.dmzj.com/59/41/59419d1d071d7f2d2605e54197ca4834.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

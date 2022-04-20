@@ -1,0 +1,81 @@
+{
+  "id": 35146,
+  "islong": 2,
+  "direction": 2,
+  "title": "我好乖24",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1005375491464686451.jpg",
+  "description": "李润泉",
+  "last_updatetime": 1464686470,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "w",
+  "comic_py": "wohaoguai24",
+  "hidden": 0,
+  "hot_num": 637,
+  "hit_num": 1133,
+  "uid": 100537549,
+  "is_lock": 0,
+  "last_update_chapter_id": 52950,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11926,
+      "tag_name": "李润泉"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52950,
+          "chapter_title": "1话",
+          "updatetime": 1464686470,
+          "filesize": 208568,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 867014,
+        "uid": 100415196,
+        "content": "作者加油?",
+        "createtime": 1464950497,
+        "nickname": "爱鱼如梦",
+        "avatar": "https://avatar.dmzj.com/16/69/166932ef1a974e844c389279148de936.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

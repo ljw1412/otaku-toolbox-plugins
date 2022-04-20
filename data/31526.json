@@ -1,0 +1,87 @@
+{
+  "id": 31526,
+  "islong": 2,
+  "direction": 1,
+  "title": "天使事典",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/tianshishidianfengmianl.jpg",
+  "description": "天使于何时诞生？身体是如何形成？头上的光环从何而来？光看《圣经》无法得知这些资讯。\n本书除了由《圣经》次经、《塔木德》、《古兰经》等文献中探究之外、还从诺斯底主义、卡巴拉文献、明见传说、中世纪的圣史剧和文学著作中去猜，交互比较，最后对‘天使’作出详细的解说。",
+  "last_updatetime": 1459221061,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tianshishidian",
+  "hidden": 1,
+  "hot_num": 96119,
+  "hit_num": 609322,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 50302,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9454,
+      "tag_name": "森濑缭"
+    }
+  ],
+  "subscribe_num": 667,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50302,
+          "chapter_title": "1卷",
+          "updatetime": 1459221061,
+          "filesize": 13101137,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 24586437,
+        "uid": 105875184,
+        "content": "奇怪的知识太多了",
+        "createtime": 1582784847,
+        "nickname": "dmzj_105875184",
+        "avatar": "https://avatar.dmzj.com/a2/78/a278bd36bdf98bbb1739ba909d41d5d9.png"
+      },
+      {
+        "comment_id": 24568878,
+        "uid": 106150818,
+        "content": "dmzj还有这种东西的么…",
+        "createtime": 1582733813,
+        "nickname": "已注销42599",
+        "avatar": "https://avatar.dmzj.com/6b/99/6b99c0020ff5feb8b122505df7a56b91.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

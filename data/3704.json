@@ -1,0 +1,109 @@
+{
+  "id": 3704,
+  "islong": 2,
+  "direction": 1,
+  "title": "斩魔剑传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/斩魔剑传_第1卷_0001_c526f6d7dbb159646c886ea8aac90fd3.jpg",
+  "description": "伊藤势成名漫画作品",
+  "last_updatetime": 1275044207,
+  "last_update_chapter_name": "VOL03",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zmjz",
+  "hidden": 1,
+  "hot_num": 30991,
+  "hit_num": 1298657,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 8422,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 549,
+      "tag_name": "伊藤势"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 153,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8422,
+          "chapter_title": "3卷",
+          "updatetime": 1275649007,
+          "filesize": 13639613,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 8421,
+          "chapter_title": "2卷",
+          "updatetime": 1275649007,
+          "filesize": 16254804,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8420,
+          "chapter_title": "1卷",
+          "updatetime": 1275649007,
+          "filesize": 14843644,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 24353263,
+        "uid": 101042960,
+        "content": "想看",
+        "createtime": 1582211982,
+        "nickname": "summerainbow",
+        "avatar": "https://avatar.dmzj.com/57/14/571428256a6eb1bda87a836a41652f94.png"
+      },
+      {
+        "comment_id": 24139564,
+        "uid": 101065313,
+        "content": "画工真强",
+        "createtime": 1581693527,
+        "nickname": "画鬼",
+        "avatar": "https://avatar.dmzj.com/95/72/95729fefd5ea6e737fd69d956390946e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

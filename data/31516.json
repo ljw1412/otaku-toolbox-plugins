@@ -1,0 +1,77 @@
+{
+  "id": 31516,
+  "islong": 2,
+  "direction": 1,
+  "title": "爽爽猫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/shuangshaungmnaofengmianl.jpg",
+  "description": "给差一点错过的梦想",
+  "last_updatetime": 1552559484,
+  "last_update_chapter_name": "全一卷修",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shuangshaungmao",
+  "hidden": 1,
+  "hot_num": 1307,
+  "hit_num": 34580,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86665,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11586,
+      "tag_name": "SECOND"
+    }
+  ],
+  "subscribe_num": 20,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86665,
+          "chapter_title": "1话",
+          "updatetime": 1552559484,
+          "filesize": 9459274,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 50282,
+          "chapter_title": "1卷",
+          "updatetime": 1459158211,
+          "filesize": 9343865,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

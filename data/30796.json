@@ -1,0 +1,91 @@
+{
+  "id": 30796,
+  "islong": 2,
+  "direction": 1,
+  "title": "最后期限",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/zuihouqixianxuin.jpg",
+  "description": "该作品《Jour de grâce》是2010年安古兰获奖作品，由贾尼 扎库皮与马克 N'吉桑共同创作，故事讲述了在圣诞节，扒手安德烈偷了老杀手马蒂亚斯的钱包后，发生的一系列事情。",
+  "last_updatetime": 1458478131,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zuihouqixian",
+  "hidden": 1,
+  "hot_num": 9347,
+  "hit_num": 60000,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 49885,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11539,
+      "tag_name": "贾尼 扎库皮"
+    },
+    {
+      "tag_id": 11540,
+      "tag_name": "马克 N‘吉桑"
+    }
+  ],
+  "subscribe_num": 84,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49885,
+          "chapter_title": "1卷",
+          "updatetime": 1458478131,
+          "filesize": 6336937,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 23186325,
+        "uid": 107860515,
+        "content": "一",
+        "createtime": 1578632973,
+        "nickname": "十庸",
+        "avatar": "https://avatar.dmzj.com/79/b6/79b67b4bdf34de68fb93cd276b15d57f.png"
+      },
+      {
+        "comment_id": 20041358,
+        "uid": 108431045,
+        "content": "啥",
+        "createtime": 1567659734,
+        "nickname": "dmzj_108431045",
+        "avatar": "https://avatar.dmzj.com/0d/d8/0dd840d4d50182db9fd5be34fcbb1276.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

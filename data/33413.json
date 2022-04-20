@@ -1,0 +1,79 @@
+{
+  "id": 33413,
+  "islong": 2,
+  "direction": 2,
+  "title": "星期三漫画：超级少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/xingqisanmanhuachaojishaonvfengmianl.jpg",
+  "description": "小氪小纹无故失控，把大都会搅了个天翻地覆，超级宠物怎么啦？卡拉向海王求助，但海王表示我只管鱼的事[doge]午夜神医出马，天外来客竟然管小纹叫女王……",
+  "last_updatetime": 1462928381,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xingqisanmanhuachaojishaonv",
+  "hidden": 0,
+  "hot_num": 9760,
+  "hit_num": 12477,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 48989,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 54,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48989,
+          "chapter_title": "1卷",
+          "updatetime": 1462928381,
+          "filesize": 1636196,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 798505,
+        "uid": 101138727,
+        "content": "好可爱的画风，但是字好小",
+        "createtime": 1462955308,
+        "nickname": ":-D44263",
+        "avatar": "https://avatar.dmzj.com/7d/24/7d24c9d76654404f7b429363f3ed02da.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

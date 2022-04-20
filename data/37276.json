@@ -1,0 +1,89 @@
+{
+  "id": 37276,
+  "islong": 2,
+  "direction": 2,
+  "title": "jj那些事儿2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1016541001467611686.jpg",
+  "description": "小孩子",
+  "last_updatetime": 1467611708,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "j",
+  "comic_py": "jjnaxieshier2",
+  "hidden": 0,
+  "hot_num": 890,
+  "hit_num": 1656,
+  "uid": 101654100,
+  "is_lock": 0,
+  "last_update_chapter_id": 54512,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8425,
+      "tag_name": "小孩子"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54512,
+          "chapter_title": "1话",
+          "updatetime": 1467611708,
+          "filesize": 296510,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 20167539,
+        "uid": 107638409,
+        "content": "无聊",
+        "createtime": 1568041980,
+        "nickname": "最讨厌取名了",
+        "avatar": "https://avatar.dmzj.com/39/35/3935d2b6f9ff4ee89da9a99996cf3c22.png"
+      },
+      {
+        "comment_id": 18632892,
+        "uid": 109504518,
+        "content": "地板",
+        "createtime": 1564057685,
+        "nickname": "dmzj_109504518",
+        "avatar": "https://avatar.dmzj.com/91/39/91396929dfac327e6d8132188fa82b6c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

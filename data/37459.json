@@ -1,0 +1,107 @@
+{
+  "id": 37459,
+  "islong": 2,
+  "direction": 2,
+  "title": "泰迪珍藏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1017107391468307151.jpg",
+  "description": "萌萌哒泰迪，永远守护你",
+  "last_updatetime": 1468399285,
+  "last_update_chapter_name": "泰迪的爱情",
+  "copyright": 1,
+  "first_letter": "t",
+  "comic_py": "taidizhencang",
+  "hidden": 0,
+  "hot_num": 980,
+  "hit_num": 10381,
+  "uid": 101710739,
+  "is_lock": 0,
+  "last_update_chapter_id": 52412,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12127,
+      "tag_name": "泰迪"
+    }
+  ],
+  "subscribe_num": 15,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52412,
+          "chapter_title": "3话",
+          "updatetime": 1468399285,
+          "filesize": 159510,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 52411,
+          "chapter_title": "2话",
+          "updatetime": 1468399252,
+          "filesize": 627320,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 52410,
+          "chapter_title": "3话",
+          "updatetime": 1468307294,
+          "filesize": 1120042,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "转载请联系泰迪珍藏官方，电话021-52360010",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1014158,
+        "uid": 101570735,
+        "content": "萌萌哒",
+        "createtime": 1468504518,
+        "nickname": "shatadeai",
+        "avatar": "https://avatar.dmzj.com/09/22/0922c67a2e5b9b5fcb4e913dca94fa8b.png"
+      },
+      {
+        "comment_id": 1009285,
+        "uid": 100771062,
+        "content": "沙发。。。。",
+        "createtime": 1468405056,
+        "nickname": "梦丶幻",
+        "avatar": "https://avatar.dmzj.com/68/16/6816b92bdc3ad6643148cb5d269ec28e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

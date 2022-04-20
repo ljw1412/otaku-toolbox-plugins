@@ -1,0 +1,79 @@
+{
+  "id": 38386,
+  "islong": 1,
+  "direction": 2,
+  "title": "交广漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1018196881470207698.jpg",
+  "description": "用幽默漫画的形式来体现职场的酸甜苦辣。",
+  "last_updatetime": 1470207917,
+  "last_update_chapter_name": "第02话",
+  "copyright": 1,
+  "first_letter": "j",
+  "comic_py": "jiaoguangmanhua",
+  "hidden": 0,
+  "hot_num": 434,
+  "hit_num": 173,
+  "uid": 101819688,
+  "is_lock": 0,
+  "last_update_chapter_id": 55517,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12218,
+      "tag_name": "万家昊"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 55517,
+          "chapter_title": "2话",
+          "updatetime": 1470207917,
+          "filesize": 77133,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 55516,
+          "chapter_title": "1话",
+          "updatetime": 1470207825,
+          "filesize": 75545,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

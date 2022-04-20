@@ -1,0 +1,87 @@
+{
+  "id": 35159,
+  "islong": 2,
+  "direction": 1,
+  "title": "简简单单人偶心",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/jianjiandandanrenouxin.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1465021781,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jianjiandandanrenouxin",
+  "hidden": 0,
+  "hot_num": 68995,
+  "hit_num": 91151,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 50699,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5056,
+      "tag_name": "石切场"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 529,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50699,
+          "chapter_title": "1话",
+          "updatetime": 1465021781,
+          "filesize": 2493894,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 23162300,
+        "uid": 101067951,
+        "content": "咋都没了。。。",
+        "createtime": 1578526374,
+        "nickname": "传说神话级垃圾王",
+        "avatar": "https://avatar.dmzj.com/e6/bd/e6bd96298b54f5b97b4db3c3885e447b.png"
+      },
+      {
+        "comment_id": 22730057,
+        "uid": 106256831,
+        "content": "收集大师就是我",
+        "createtime": 1576838892,
+        "nickname": "雾上神奈",
+        "avatar": "https://avatar.dmzj.com/20/62/20621c70c44c90fedb4080b485b1f1c9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

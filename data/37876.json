@@ -1,0 +1,112 @@
+{
+  "id": 37876,
+  "islong": 2,
+  "direction": 1,
+  "title": "东京季语探访",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/dongjijiyutanfang0.jpg",
+  "description": "小胡同，破房子，水渠，色彩缤纷的日常风景，潜伏在每一日中的，季节的住民。",
+  "last_updatetime": 1500120020,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongjingjiyutanfang",
+  "hidden": 0,
+  "hot_num": 900027,
+  "hit_num": 1000651,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 65808,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 375,
+      "tag_name": "椎桥宽"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 9550,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65808,
+          "chapter_title": "4话",
+          "updatetime": 1500120020,
+          "filesize": 7896310,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 63934,
+          "chapter_title": "3话",
+          "updatetime": 1493443182,
+          "filesize": 7546333,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 63204,
+          "chapter_title": "2话",
+          "updatetime": 1491564690,
+          "filesize": 5986158,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 55066,
+          "chapter_title": "1话",
+          "updatetime": 1469121368,
+          "filesize": 6215643,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 271,
+    "latest_comment": [
+      {
+        "comment_id": 27073087,
+        "uid": 108035231,
+        "content": "wdwdw",
+        "createtime": 1588515863,
+        "nickname": "龙须不如面",
+        "avatar": "https://avatar.dmzj.com/13/06/1306f1c0be44fb71e4fb7f223cb7041f.png"
+      },
+      {
+        "comment_id": 25838700,
+        "uid": 101840830,
+        "content": "我感觉，这么多季语，又能出一款手游",
+        "createtime": 1585507680,
+        "nickname": "四季抗流感",
+        "avatar": "https://avatar.dmzj.com/59/51/595177fdf1c58759a14b7c5933b63e16.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

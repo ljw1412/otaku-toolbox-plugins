@@ -1,0 +1,112 @@
+{
+  "id": 35162,
+  "islong": 2,
+  "direction": 2,
+  "title": "X战警：寻找镭射眼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/xunzhaoleiseyan.JPG",
+  "description": "故事发生在小队长牺牲自己把天启封在自己体内并下落不明之后…",
+  "last_updatetime": 1465046174,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xzhanjingxunzhaoleisheyan",
+  "hidden": 0,
+  "hot_num": 43312,
+  "hit_num": 95572,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 54477,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 263,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54477,
+          "chapter_title": "4卷",
+          "updatetime": 1465046174,
+          "filesize": 3518599,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 54476,
+          "chapter_title": "3卷",
+          "updatetime": 1465046074,
+          "filesize": 3160248,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 54475,
+          "chapter_title": "2卷",
+          "updatetime": 1465045991,
+          "filesize": 3022357,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 54474,
+          "chapter_title": "1卷",
+          "updatetime": 1465045895,
+          "filesize": 3261189,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 6586220,
+        "uid": 101964087,
+        "content": "下面是接哪本呀",
+        "createtime": 1535644811,
+        "nickname": "dwing003",
+        "avatar": "https://avatar.dmzj.com/c4/cc/c4ccf293fd03905af920096395eb6ba3.png"
+      },
+      {
+        "comment_id": 2172394,
+        "uid": 100806113,
+        "content": "就此之后，镭射眼就一黑到底了",
+        "createtime": 1494643770,
+        "nickname": "逝去的光阴85496",
+        "avatar": "https://avatar.dmzj.com/62/7c/627c19ab869b2d42c0845554ca9bd777.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

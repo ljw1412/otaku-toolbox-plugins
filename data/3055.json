@@ -1,0 +1,100 @@
+{
+  "id": 3055,
+  "islong": 2,
+  "direction": 1,
+  "title": "真龙战记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/真龙战记[1-4]_第2卷_0001_ff6ab1badd0dac5d45c2aded5356957e.jpg",
+  "description": "［永恒传说外传-真龙战记］的创刊，也是本年度大作［永恒传说-奇幻水晶缘］电脑游戏作出之时.这本漫画的诞生，开创了首本百份百以电脑游戏剧本演义的漫画．",
+  "last_updatetime": 1273416897,
+  "last_update_chapter_name": "CH04",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhenlongzhanji",
+  "hidden": 1,
+  "hot_num": 5121,
+  "hit_num": 149690,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 9019,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1551,
+      "tag_name": "夏伟义"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 7,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9019,
+          "chapter_title": "4话",
+          "updatetime": 1274021697,
+          "filesize": 3701859,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 9018,
+          "chapter_title": "3话",
+          "updatetime": 1274021697,
+          "filesize": 4084111,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 9017,
+          "chapter_title": "2话",
+          "updatetime": 1274021697,
+          "filesize": 4198088,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9016,
+          "chapter_title": "1话",
+          "updatetime": 1274021697,
+          "filesize": 4512652,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 153835,
+        "uid": 13934115,
+        "content": "这么点内容",
+        "createtime": 1378129496,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,127 @@
+{
+  "id": 30749,
+  "islong": 1,
+  "direction": 2,
+  "title": "怂逼日记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1009811041457951429.jpg",
+  "description": "一个有个漫画家梦想的怂货，每天都在努力的生活。",
+  "last_updatetime": 1457953210,
+  "last_update_chapter_name": "跟蠢人做朋友是一种怎样的体验",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "songbiriji",
+  "hidden": 0,
+  "hot_num": 2753,
+  "hit_num": 16951,
+  "uid": 100981104,
+  "is_lock": 0,
+  "last_update_chapter_id": 47730,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11513,
+      "tag_name": "鱼好睏"
+    }
+  ],
+  "subscribe_num": 26,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47730,
+          "chapter_title": "7话",
+          "updatetime": 1457953210,
+          "filesize": 116829,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 47729,
+          "chapter_title": "6话",
+          "updatetime": 1457953023,
+          "filesize": 302669,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 47728,
+          "chapter_title": "5话",
+          "updatetime": 1457952720,
+          "filesize": 156713,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 47727,
+          "chapter_title": "4话",
+          "updatetime": 1457952536,
+          "filesize": 498383,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 47726,
+          "chapter_title": "3话",
+          "updatetime": 1457952206,
+          "filesize": 143298,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 47724,
+          "chapter_title": "2话",
+          "updatetime": 1457952016,
+          "filesize": 148331,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 47725,
+          "chapter_title": "1话",
+          "updatetime": 1457951789,
+          "filesize": 234954,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "作者本人平时要打工，非常忙，所以看人气决定更新速度哈，谢谢大家支持。",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1370014,
+        "uid": 100346266,
+        "content": "回家那里有点感动可惜画风突变措手不及，拔牙那里好喜感，不错～",
+        "createtime": 1476339248,
+        "nickname": "萌王～",
+        "avatar": "https://avatar.dmzj.com/94/74/9474526bd1ccc44ac676a35664426e05.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

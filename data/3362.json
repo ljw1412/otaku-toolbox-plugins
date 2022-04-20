@@ -1,0 +1,91 @@
+{
+  "id": 3362,
+  "islong": 2,
+  "direction": 1,
+  "title": "海之物语",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/01_00_5f9cc79dcf69f2bfa93fbcffc0479e57.jpg",
+  "description": "同名动画改编漫画",
+  "last_updatetime": 1274163450,
+  "last_update_chapter_name": "CH01-03",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hzwy",
+  "hidden": 0,
+  "hot_num": 8914,
+  "hit_num": 87619,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 8454,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2013,
+      "tag_name": "成原とんみ"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 50,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8454,
+          "chapter_title": "1话",
+          "updatetime": 1274768250,
+          "filesize": 3406540,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 195074,
+        "uid": 25103042,
+        "content": " /c大笑 ",
+        "createtime": 1389798260,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      },
+      {
+        "comment_id": 97474,
+        "uid": 15428345,
+        "content": "我要看漫畫的結局你要給我出完他啊~~~等得很苦啊~~~~ /大哭 ~",
+        "createtime": 1357990054,
+        "nickname": "籃』奶茶﹍〃",
+        "avatar": "https://avatar.dmzj.com/56/f4/56f48bd253a5ec85ad781b3b89880625.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 3021,
+  "islong": 2,
+  "direction": 2,
+  "title": "公主与傻瓜",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/001_e1beae3b0239dc2847555b91739fcd3b.jpg",
+  "description": "选自《Heavy Metal》的精彩短篇故事，作者是Cinzia Di Felice.",
+  "last_updatetime": 1273220372,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gzysg",
+  "hidden": 0,
+  "hot_num": 30166,
+  "hit_num": 146356,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 6134,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1777,
+      "tag_name": "Cinzia Di Felice"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 117,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6134,
+          "chapter_title": "1话",
+          "updatetime": 1273825172,
+          "filesize": 758332,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 156689,
+        "uid": 25099033,
+        "content": " /睡觉 ",
+        "createtime": 1379071325,
+        "nickname": "",
+        "avatar": ""
+      },
+      {
+        "comment_id": 63879,
+        "uid": 17445776,
+        "content": "....",
+        "createtime": 1338592238,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

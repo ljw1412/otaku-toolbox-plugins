@@ -1,0 +1,108 @@
+{
+  "id": 38536,
+  "islong": 2,
+  "direction": 2,
+  "title": "火箭浣熊V1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/huojianhuanxiongvyifengmianl.jpg",
+  "description": "火箭浣熊最初的个人刊",
+  "last_updatetime": 1494143013,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huojianhuanxiongvyi",
+  "hidden": 0,
+  "hot_num": 30629,
+  "hit_num": 61879,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 64110,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 179,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 64110,
+          "chapter_title": "4卷",
+          "updatetime": 1494143013,
+          "filesize": 3893669,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 61475,
+          "chapter_title": "3卷",
+          "updatetime": 1486619622,
+          "filesize": 3736314,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 57988,
+          "chapter_title": "2卷",
+          "updatetime": 1476505862,
+          "filesize": 3847161,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 56176,
+          "chapter_title": "1卷",
+          "updatetime": 1471516849,
+          "filesize": 4415144,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 4701200,
+        "uid": 106466056,
+        "content": "感觉性格变了很多，这时候好正经啊",
+        "createtime": 1526310373,
+        "nickname": "dmzj_106466056",
+        "avatar": "https://avatar.dmzj.com/9f/18/9f18b659603d8a31fc0ace50efc1b2b5.png"
+      },
+      {
+        "comment_id": 2321526,
+        "uid": 101385104,
+        "content": "有种东西叫翻译完结",
+        "createtime": 1497449715,
+        "nickname": "yark-大chan",
+        "avatar": "https://avatar.dmzj.com/33/07/3307d4f20b121214e645696eda515161.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

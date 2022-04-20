@@ -1,0 +1,280 @@
+{
+  "id": 3378,
+  "islong": 2,
+  "direction": 1,
+  "title": "最游记BLAST",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/zuiyouji.jpg",
+  "description": "最游记RELOAD BLAST，是日本漫画家峰仓和也所著的漫画作品《最游记》系列的最终章作品，套用了中国四大名著之一《西游记》的人物名称所展开的剧情与《西游记》没有任何关联的幻想冒险故事。作品凭借唯美的画风、意味深远但不失笑料的剧情，吸引了很多女性读者的追捧。",
+  "last_updatetime": 1510156988,
+  "last_update_chapter_name": "Saiyuki Offroad ",
+  "copyright": 3,
+  "first_letter": "z",
+  "comic_py": "zuiyoujibaast",
+  "hidden": 0,
+  "hot_num": 329519,
+  "hit_num": 1928078,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 64741,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 165,
+      "tag_name": "峰仓和也"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1557,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 64741,
+          "chapter_title": "Saiyuki Offroad ",
+          "updatetime": 1510156988,
+          "filesize": 1116727,
+          "chapter_order": 280
+        },
+        {
+          "chapter_id": 55604,
+          "chapter_title": "26话",
+          "updatetime": 1481261267,
+          "filesize": 3318150,
+          "chapter_order": 270
+        },
+        {
+          "chapter_id": 55603,
+          "chapter_title": "25话",
+          "updatetime": 1481260658,
+          "filesize": 2378538,
+          "chapter_order": 260
+        },
+        {
+          "chapter_id": 52763,
+          "chapter_title": "24话",
+          "updatetime": 1472006118,
+          "filesize": 3413609,
+          "chapter_order": 250
+        },
+        {
+          "chapter_id": 52617,
+          "chapter_title": "23话",
+          "updatetime": 1471446383,
+          "filesize": 828337,
+          "chapter_order": 240
+        },
+        {
+          "chapter_id": 52616,
+          "chapter_title": "22话",
+          "updatetime": 1471446359,
+          "filesize": 2333173,
+          "chapter_order": 230
+        },
+        {
+          "chapter_id": 43033,
+          "chapter_title": "21话",
+          "updatetime": 1446990381,
+          "filesize": 1691164,
+          "chapter_order": 220
+        },
+        {
+          "chapter_id": 38566,
+          "chapter_title": "20话",
+          "updatetime": 1435715859,
+          "filesize": 3188134,
+          "chapter_order": 210
+        },
+        {
+          "chapter_id": 36400,
+          "chapter_title": "19话",
+          "updatetime": 1429761256,
+          "filesize": 3184528,
+          "chapter_order": 200
+        },
+        {
+          "chapter_id": 31797,
+          "chapter_title": "18话",
+          "updatetime": 1415065296,
+          "filesize": 2040998,
+          "chapter_order": 190
+        },
+        {
+          "chapter_id": 31449,
+          "chapter_title": "17话",
+          "updatetime": 1413741007,
+          "filesize": 1405027,
+          "chapter_order": 180
+        },
+        {
+          "chapter_id": 28514,
+          "chapter_title": "16话",
+          "updatetime": 1402071652,
+          "filesize": 4077213,
+          "chapter_order": 170
+        },
+        {
+          "chapter_id": 28262,
+          "chapter_title": "15话",
+          "updatetime": 1400522010,
+          "filesize": 2177598,
+          "chapter_order": 160
+        },
+        {
+          "chapter_id": 26109,
+          "chapter_title": "14话",
+          "updatetime": 1388714398,
+          "filesize": 3268340,
+          "chapter_order": 150
+        },
+        {
+          "chapter_id": 21064,
+          "chapter_title": "13话",
+          "updatetime": 1363159766,
+          "filesize": 2015491,
+          "chapter_order": 140
+        },
+        {
+          "chapter_id": 20271,
+          "chapter_title": "12话",
+          "updatetime": 1357704778,
+          "filesize": 863100,
+          "chapter_order": 130
+        },
+        {
+          "chapter_id": 19916,
+          "chapter_title": "11话",
+          "updatetime": 1354520827,
+          "filesize": 4353381,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 19119,
+          "chapter_title": "10话",
+          "updatetime": 1347331582,
+          "filesize": 3868114,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 18367,
+          "chapter_title": "9话",
+          "updatetime": 1341478447,
+          "filesize": 2456022,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 17528,
+          "chapter_title": "8话",
+          "updatetime": 1333991214,
+          "filesize": 3696313,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 11638,
+          "chapter_title": "7话",
+          "updatetime": 1282874783,
+          "filesize": 2884967,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 9337,
+          "chapter_title": "6话",
+          "updatetime": 1278262144,
+          "filesize": 1694215,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 9184,
+          "chapter_title": "10年07月号",
+          "updatetime": 1277693549,
+          "filesize": 829218,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 8231,
+          "chapter_title": "5话",
+          "updatetime": 1277693448,
+          "filesize": 2225433,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 8208,
+          "chapter_title": "4话",
+          "updatetime": 1277693445,
+          "filesize": 2734149,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 8207,
+          "chapter_title": "3话",
+          "updatetime": 1277693443,
+          "filesize": 1735764,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 8206,
+          "chapter_title": "2话",
+          "updatetime": 1277693441,
+          "filesize": 1637664,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8205,
+          "chapter_title": "1话",
+          "updatetime": 1277693439,
+          "filesize": 3344716,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 172,
+    "latest_comment": [
+      {
+        "comment_id": 26762764,
+        "uid": 103388183,
+        "content": "留",
+        "createtime": 1587647153,
+        "nickname": "qzuser12852243",
+        "avatar": "https://avatar.dmzj.com/67/fd/67fd2bf0e118db917cffa9dba9211f25.png"
+      },
+      {
+        "comment_id": 26536516,
+        "uid": 101405597,
+        "content": "有生之年，和隔壁疾暴一样，我在坑底等着老师慢慢跟新",
+        "createtime": 1587017063,
+        "nickname": "被撒狗粮一脸茫然",
+        "avatar": "https://avatar.dmzj.com/f6/b2/f6b27937d94938919031d24e67b90200.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

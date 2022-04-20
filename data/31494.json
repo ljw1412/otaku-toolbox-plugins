@@ -1,0 +1,87 @@
+{
+  "id": 31494,
+  "islong": 2,
+  "direction": 1,
+  "title": "亲密四格",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/qingmisigefengmianl.jpg",
+  "description": "关系亲密的幼驯染之间的小四格漫画。",
+  "last_updatetime": 1458991412,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qinmisige",
+  "hidden": 0,
+  "hot_num": 121509,
+  "hit_num": 8949,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 48211,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11532,
+      "tag_name": "冬梨。"
+    }
+  ],
+  "subscribe_num": 749,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48211,
+          "chapter_title": "1话",
+          "updatetime": 1458991412,
+          "filesize": 103336,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 20690774,
+        "uid": 100623558,
+        "content": "啊啊啊啊我想看啊啊啊",
+        "createtime": 1569643707,
+        "nickname": "嗯哼♪",
+        "avatar": "https://avatar.dmzj.com/22/83/22837de84e946a75f6e8c3bad118db1d.png"
+      },
+      {
+        "comment_id": 11113794,
+        "uid": 104210678,
+        "content": "查询",
+        "createtime": 1549655901,
+        "nickname": "Mrkkkk",
+        "avatar": "https://avatar.dmzj.com/80/89/8089cbfa78950b84a82356af5fc125f1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

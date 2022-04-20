@@ -1,0 +1,72 @@
+{
+  "id": 29522,
+  "islong": 2,
+  "direction": 2,
+  "title": "哈Q森林第二季一",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1005375291454321766.jpg",
+  "description": "冷玉朝",
+  "last_updatetime": 1454321785,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "h",
+  "comic_py": "haqsenlindierjiyi",
+  "hidden": 0,
+  "hot_num": 436,
+  "hit_num": 335,
+  "uid": 100537529,
+  "is_lock": 0,
+  "last_update_chapter_id": 50969,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11322,
+      "tag_name": "冷玉朝"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50969,
+          "chapter_title": "1话",
+          "updatetime": 1454321785,
+          "filesize": 321841,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

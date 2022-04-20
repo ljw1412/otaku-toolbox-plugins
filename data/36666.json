@@ -1,0 +1,80 @@
+{
+  "id": 36666,
+  "islong": 1,
+  "direction": 2,
+  "title": "小盆哥",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1012360001467104793.jpg",
+  "description": "盗墓笔记同人条漫",
+  "last_updatetime": 1467104907,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiaopenge",
+  "hidden": 0,
+  "hot_num": 923,
+  "hit_num": 1683,
+  "uid": 101236000,
+  "is_lock": 0,
+  "last_update_chapter_id": 54029,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12056,
+      "tag_name": "小绵羊的挖坑训练"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54029,
+          "chapter_title": "1话",
+          "updatetime": 1467104907,
+          "filesize": 69184,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

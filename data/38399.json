@@ -1,0 +1,104 @@
+{
+  "id": 38399,
+  "islong": 2,
+  "direction": 2,
+  "title": "一骥当千",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1018644881470287763.jpg",
+  "description": "宣扬单车文化，倡导绿色出行。",
+  "last_updatetime": 1475390863,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "y",
+  "comic_py": "yidangqian",
+  "hidden": 0,
+  "hot_num": 2204,
+  "hit_num": 59975,
+  "uid": 101864488,
+  "is_lock": 0,
+  "last_update_chapter_id": 55310,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12229,
+      "tag_name": "荣霄"
+    }
+  ],
+  "subscribe_num": 32,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 55310,
+          "chapter_title": "1话",
+          "updatetime": 1475390863,
+          "filesize": 2849434,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 53219,
+          "chapter_title": "0话",
+          "updatetime": 1470287997,
+          "filesize": 1533966,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "宣扬单车文化，倡导绿色出行。",
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 12581841,
+        "uid": 101703431,
+        "content": "一（ji）当千/c卖萌",
+        "createtime": 1552125851,
+        "nickname": "goden",
+        "avatar": "https://avatar.dmzj.com/37/4c/374ca5ccd7748f0f151d9ada90c18369.png"
+      },
+      {
+        "comment_id": 6622101,
+        "uid": 106886601,
+        "content": "所以说有一骑当千吗",
+        "createtime": 1535795086,
+        "nickname": "dmzj_106886601",
+        "avatar": "https://avatar.dmzj.com/4c/ae/4caec551d3e797ff864ee960522e3a55.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

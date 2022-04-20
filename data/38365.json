@@ -1,0 +1,119 @@
+{
+  "id": 38365,
+  "islong": 2,
+  "direction": 2,
+  "title": "金刚狼MAX",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/jinganglangmax.jpg",
+  "description": "狼叔又失忆了……",
+  "last_updatetime": 1510909834,
+  "last_update_chapter_name": "第05卷",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jinganglangmax",
+  "hidden": 0,
+  "hot_num": 76003,
+  "hit_num": 135483,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 71298,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3483,
+      "tag_name": "MAX Comics"
+    }
+  ],
+  "subscribe_num": 371,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71298,
+          "chapter_title": "5卷",
+          "updatetime": 1510909834,
+          "filesize": 3066139,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 71297,
+          "chapter_title": "4卷",
+          "updatetime": 1510909790,
+          "filesize": 3269184,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 71212,
+          "chapter_title": "3卷",
+          "updatetime": 1510722066,
+          "filesize": 2888701,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 67252,
+          "chapter_title": "2卷",
+          "updatetime": 1500445715,
+          "filesize": 3260011,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 57274,
+          "chapter_title": "1卷",
+          "updatetime": 1470032245,
+          "filesize": 3084924,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 7059198,
+        "uid": 107379017,
+        "content": "痴汉剑齿虎…。",
+        "createtime": 1538158980,
+        "nickname": "dmzj_107379017",
+        "avatar": "https://avatar.dmzj.com/b5/3f/b53f6b668432178538d9bc2c0df5ef0d.png"
+      },
+      {
+        "comment_id": 3919000,
+        "uid": 106094246,
+        "content": "为什么是AV画质",
+        "createtime": 1519100103,
+        "nickname": "dmzj_106094246",
+        "avatar": "https://avatar.dmzj.com/48/84/48845b1dd74ef97c1255451216c1bfd0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

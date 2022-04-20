@@ -1,0 +1,87 @@
+{
+  "id": 34036,
+  "islong": 2,
+  "direction": 1,
+  "title": "世界名枪百科",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/shijiemingqiangbaikefengmianl.jpg",
+  "description": "为你完全解析世界上的名枪",
+  "last_updatetime": 1463649991,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shijiemingqaingbaike",
+  "hidden": 1,
+  "hot_num": 107645,
+  "hit_num": 986270,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 52310,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11837,
+      "tag_name": "枫树林出版社"
+    }
+  ],
+  "subscribe_num": 951,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52310,
+          "chapter_title": "1卷",
+          "updatetime": 1463649991,
+          "filesize": 12951403,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 15586082,
+        "uid": 104277763,
+        "content": "窑子场",
+        "createtime": 1557359134,
+        "nickname": "晨曦界点",
+        "avatar": "https://avatar.dmzj.com/c2/60/c260b22773a145ca597983dce6d28d70.png"
+      },
+      {
+        "comment_id": 15482701,
+        "uid": 100264088,
+        "content": "收了收了",
+        "createtime": 1557167302,
+        "nickname": "SFEJP",
+        "avatar": "https://avatar.dmzj.com/91/68/916838f7df184971e7db4d386c0b4ac0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

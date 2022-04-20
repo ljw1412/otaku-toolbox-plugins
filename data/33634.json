@@ -1,0 +1,98 @@
+{
+  "id": 33634,
+  "islong": 2,
+  "direction": 1,
+  "title": "hieroglyph vista!!",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/hieroglyphvista683586l.jpg",
+  "description": "这年头居然连字体都开始搞姬了...",
+  "last_updatetime": 1472463454,
+  "last_update_chapter_name": "短篇02",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hieroglyphvista",
+  "hidden": 0,
+  "hot_num": 64310,
+  "hit_num": 237498,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 54067,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11821,
+      "tag_name": "ぐすく"
+    }
+  ],
+  "subscribe_num": 648,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54067,
+          "chapter_title": "2话",
+          "updatetime": 1472463454,
+          "filesize": 4728612,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 49926,
+          "chapter_title": "1话",
+          "updatetime": 1463460322,
+          "filesize": 2261010,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 64,
+    "latest_comment": [
+      {
+        "comment_id": 25443346,
+        "uid": 109589055,
+        "content": "说真的我懵了",
+        "createtime": 1584601242,
+        "nickname": "dmzj_109589055",
+        "avatar": "https://avatar.dmzj.com/0c/57/0c57f64b6e9ee7b142fc400f3d79ee2b.png"
+      },
+      {
+        "comment_id": 24368120,
+        "uid": 105671333,
+        "content": "好！(ಡωಡ)",
+        "createtime": 1582248674,
+        "nickname": "四箱",
+        "avatar": "https://avatar.dmzj.com/84/61/846100c8c851226ea6a81b2a4542147e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,101 @@
+{
+  "id": 36225,
+  "islong": 2,
+  "direction": 1,
+  "title": "异形贴纸",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/yxtz6589l.jpg",
+  "description": "平凡咖啡店店员涂塔，因目睹天外陨石爆炸，接到空中飘下的一张贴纸，而变成了异形……",
+  "last_updatetime": 1483751837,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yixingtiezhi",
+  "hidden": 1,
+  "hot_num": 27852,
+  "hit_num": 269660,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 61760,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2023,
+      "tag_name": "周显宗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 234,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61760,
+          "chapter_title": "3卷",
+          "updatetime": 1483751837,
+          "filesize": 10332617,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 61759,
+          "chapter_title": "2卷",
+          "updatetime": 1483751798,
+          "filesize": 10574633,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 55338,
+          "chapter_title": "1卷",
+          "updatetime": 1466236363,
+          "filesize": 9790047,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 25656568,
+        "uid": 100172589,
+        "content": "好看",
+        "createtime": 1585088028,
+        "nickname": "were伐木累",
+        "avatar": "https://avatar.dmzj.com/17/97/17974ef61ec2fa6bf85638316c025e4e.png"
+      },
+      {
+        "comment_id": 25117253,
+        "uid": 108492671,
+        "content": "终于找到了",
+        "createtime": 1583855868,
+        "nickname": "dmzj_108492671",
+        "avatar": "https://avatar.dmzj.com/38/96/38963306b30da636fdf508c223f4e24c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

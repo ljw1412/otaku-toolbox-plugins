@@ -1,0 +1,119 @@
+{
+  "id": 38628,
+  "islong": 2,
+  "direction": 2,
+  "title": "Godless Chamber Chapter",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/godlesschamberchapter.jpg",
+  "description": "密室逃脱类型的漫画。",
+  "last_updatetime": 1526117725,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "godlesschamberchapter",
+  "hidden": 0,
+  "hot_num": 128210,
+  "hit_num": 74304,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 71270,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12359,
+      "tag_name": "Kharisma Jati"
+    }
+  ],
+  "subscribe_num": 734,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71270,
+          "chapter_title": "5话",
+          "updatetime": 1526117725,
+          "filesize": 1861475,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 71269,
+          "chapter_title": "4话",
+          "updatetime": 1526117671,
+          "filesize": 1168293,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 52956,
+          "chapter_title": "3话",
+          "updatetime": 1472570282,
+          "filesize": 1090028,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 52955,
+          "chapter_title": "2话",
+          "updatetime": 1472570269,
+          "filesize": 1140358,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 52954,
+          "chapter_title": "1话",
+          "updatetime": 1472570259,
+          "filesize": 1095297,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 44,
+    "latest_comment": [
+      {
+        "comment_id": 26497189,
+        "uid": 107748983,
+        "content": "啊…啊这个作者",
+        "createtime": 1586918331,
+        "nickname": "秋田月月",
+        "avatar": "https://avatar.dmzj.com/85/47/8547d9f3298fbe7a22cfd9be5bab5b08.png"
+      },
+      {
+        "comment_id": 25668229,
+        "uid": 106123916,
+        "content": "？",
+        "createtime": 1585123841,
+        "nickname": "诸葛狐狸",
+        "avatar": "https://avatar.dmzj.com/29/22/2922e91c5ce42cd7f195864a61f10d29.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 3209,
+  "islong": 2,
+  "direction": 1,
+  "title": "HACO",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/haco.jpg",
+  "description": "少年JUMP的短篇漫画，女主角因为不治之症而被父亲冷冻睡眠，希望用未来的科技能治好。但是当女主角醒来时，却发现世界变成了一片废墟，还有神奇的树人存在，人类真的已经灭绝了吗？和身边陪伴的犬人型机器人一起，两人的冒险开始了！",
+  "last_updatetime": 1274249544,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "haco",
+  "hidden": 0,
+  "hot_num": 7535,
+  "hit_num": 165357,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 7757,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1889,
+      "tag_name": "斋藤修"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 32,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 7757,
+          "chapter_title": "1话",
+          "updatetime": 1274249544,
+          "filesize": 4964054,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 144780,
+        "uid": 21274306,
+        "content": "连载起来就好了",
+        "createtime": 1375938950,
+        "nickname": "明天很忙",
+        "avatar": "https://avatar.dmzj.com/8a/d3/8ad3cefdfaf242900a248323fe8e22a7.png"
+      },
+      {
+        "comment_id": 52258,
+        "uid": 16130741,
+        "content": "这就完了？其实还有点意思，但是1话就完了？？完全可以详细描写新世界的生活啊",
+        "createtime": 1332515329,
+        "nickname": "musha137",
+        "avatar": "https://avatar.dmzj.com/9c/5c/9c5ce3501a34190c96f532c7dd2ded87.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,98 @@
+{
+  "id": 3778,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔术士欧菲MAX",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/02_17cc190db6e34fcf7db03c04a7147cf0.jpg",
+  "description": "魔术士欧菲MAX（第二部）",
+  "last_updatetime": 1275298640,
+  "last_update_chapter_name": "魔术士欧菲MAX_VOL02",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mssafmax",
+  "hidden": 0,
+  "hot_num": 64510,
+  "hit_num": 346798,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 8794,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 196,
+      "tag_name": "沢田一"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 323,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8794,
+          "chapter_title": "2卷",
+          "updatetime": 1275903440,
+          "filesize": 19740269,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8793,
+          "chapter_title": "1卷",
+          "updatetime": 1275903440,
+          "filesize": 15452837,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 24139378,
+        "uid": 109429474,
+        "content": "马吉克好歹算男二，他什么时候才能变强啊",
+        "createtime": 1581693313,
+        "nickname": "dmzj_109429474",
+        "avatar": "https://avatar.dmzj.com/0b/1a/0b1a51543d796287a7338ebec5161044.png"
+      },
+      {
+        "comment_id": 23596264,
+        "uid": 101016395,
+        "content": "只有两卷吗",
+        "createtime": 1580293451,
+        "nickname": "月见夜",
+        "avatar": "https://avatar.dmzj.com/32/93/3293f2d299f2e3bb625e6bc089f5962d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

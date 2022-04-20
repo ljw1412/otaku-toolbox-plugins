@@ -1,0 +1,98 @@
+{
+  "id": 3759,
+  "islong": 2,
+  "direction": 2,
+  "title": "山姆大叔",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/unclesam_vol01_01_2599f8ce46113ee6789bb37cd07d31e4.jpg",
+  "description": "19世纪30年代,美国漫画家根据历史传说,赋予\"山姆大叔\"形象.于是就有了一个蓄着胡子的高瘦老头,他头戴星高顶帽,身穿红白蓝三色燕尾服,和条纹裤(美国星条旗的图案).虽白发仓髯,却精神矍铄,一派威仪.从此,这一形象就成了美国的象征.\"山姆大叔\"勤劳开朗的性格和爱国热忱,体现了美国人民的天性和精神.因此,1961年,美国国会正式承认,山姆大叔为美国的民族象征和代表",
+  "last_updatetime": 1294107661,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shanmudashu",
+  "hidden": 0,
+  "hot_num": 100231,
+  "hit_num": 439333,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13298,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2153,
+      "tag_name": "Alex Ross"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 495,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13298,
+          "chapter_title": "2卷",
+          "updatetime": 1294107662,
+          "filesize": 6707231,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8489,
+          "chapter_title": "1卷",
+          "updatetime": 1275830893,
+          "filesize": 5637641,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 21974185,
+        "uid": 105434054,
+        "content": "好东西",
+        "createtime": 1573101748,
+        "nickname": "LordCamelot",
+        "avatar": "https://avatar.dmzj.com/82/70/82702c9b950270a59e1b50ea21e3e55b.png"
+      },
+      {
+        "comment_id": 21391820,
+        "uid": 107567775,
+        "content": "有意思",
+        "createtime": 1571276184,
+        "nickname": "di27",
+        "avatar": "https://avatar.dmzj.com/40/0f/400f6f16e91a863363b683632bc35627.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

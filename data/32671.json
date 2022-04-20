@@ -1,0 +1,87 @@
+{
+  "id": 32671,
+  "islong": 2,
+  "direction": 1,
+  "title": "伴草行",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/bancaoxing.jpg",
+  "description": "前半是伴草行，后半部分是短篇（出航的时候）",
+  "last_updatetime": 1460958546,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bancaoxing",
+  "hidden": 0,
+  "hot_num": 49938,
+  "hit_num": 52397,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 51170,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4743,
+      "tag_name": "萩尾望都"
+    }
+  ],
+  "subscribe_num": 265,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 51170,
+          "chapter_title": "1卷",
+          "updatetime": 1460958546,
+          "filesize": 12079881,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 3617929,
+        "uid": 105014908,
+        "content": "m",
+        "createtime": 1514967695,
+        "nickname": "mhgt",
+        "avatar": "https://avatar.dmzj.com/a0/78/a07846055a313a541af29cd20e581fc2.png"
+      },
+      {
+        "comment_id": 740959,
+        "uid": 100281664,
+        "content": "感觉是挺老的漫画了，，",
+        "createtime": 1460977641,
+        "nickname": "逢考必过！！！",
+        "avatar": "https://avatar.dmzj.com/dc/73/dc730c9acfa882802a3b515769d48edf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

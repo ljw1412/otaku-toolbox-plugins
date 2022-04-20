@@ -1,0 +1,91 @@
+{
+  "id": 34040,
+  "islong": 2,
+  "direction": 1,
+  "title": "一本书读懂哥吉拉 小说扫图",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/yibenshududonggejila.jpg",
+  "description": "一本书读懂哥吉拉：解开跨越半世纪的怪兽之谜ゴジラの精神史",
+  "last_updatetime": 1463657727,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yibendudonggejila",
+  "hidden": 1,
+  "hot_num": 10450,
+  "hit_num": 302513,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 54154,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11839,
+      "tag_name": "小野俊太郎"
+    }
+  ],
+  "subscribe_num": 110,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54154,
+          "chapter_title": "1卷",
+          "updatetime": 1463657727,
+          "filesize": 14074068,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 23656876,
+        "uid": 101818599,
+        "content": "马赛克是啥",
+        "createtime": 1580470272,
+        "nickname": "淫垂4汀",
+        "avatar": "https://avatar.dmzj.com/76/31/76313573a097c8b4ad91188925be09e5.png"
+      },
+      {
+        "comment_id": 21563304,
+        "uid": 109166606,
+        "content": "图扫说小拉吉哥懂读书本一",
+        "createtime": 1571734758,
+        "nickname": "1无",
+        "avatar": "https://avatar.dmzj.com/da/37/da371aa9a9bea55ed848a10c0da1ca5f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

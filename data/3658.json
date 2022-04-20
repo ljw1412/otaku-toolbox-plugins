@@ -1,0 +1,166 @@
+{
+  "id": 3658,
+  "islong": 2,
+  "direction": 1,
+  "title": "今天的明日香",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/171130asuka.jpg",
+  "description": "明日香,NO,不是EVA的那个明日香,是这篇漫画的女主角,女主角明日香是个糊涂的女生,上学的时候裙摆被衣服压住都没发现,导致被众人围观XD,欢乐的事情就此发生了.....",
+  "last_updatetime": 1512024012,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jtdmrx",
+  "hidden": 0,
+  "hot_num": 7506437,
+  "hit_num": 11247755,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 65446,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 793,
+      "tag_name": "森泰士(モリタイシ)"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 34052,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65446,
+          "chapter_title": "4卷",
+          "updatetime": 1512024013,
+          "filesize": 15800004,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 65445,
+          "chapter_title": "3卷",
+          "updatetime": 1512021280,
+          "filesize": 15925170,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 19602,
+          "chapter_title": "2卷",
+          "updatetime": 1512018673,
+          "filesize": 10925767,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 17451,
+          "chapter_title": "1卷",
+          "updatetime": 1512023990,
+          "filesize": 15473604,
+          "chapter_order": 50
+        }
+      ]
+    },
+    {
+      "title": "汉化版",
+      "data": [
+        {
+          "chapter_id": 50663,
+          "chapter_title": "27话",
+          "updatetime": 1466571538,
+          "filesize": 2289312,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 50627,
+          "chapter_title": "26话",
+          "updatetime": 1466479152,
+          "filesize": 1341031,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 50398,
+          "chapter_title": "25话",
+          "updatetime": 1465885184,
+          "filesize": 2116474,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 8668,
+          "chapter_title": "4话",
+          "updatetime": 1275635961,
+          "filesize": 1959188,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 8667,
+          "chapter_title": "3话",
+          "updatetime": 1275635961,
+          "filesize": 1300989,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 8666,
+          "chapter_title": "2话",
+          "updatetime": 1275635961,
+          "filesize": 1074996,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8665,
+          "chapter_title": "1话",
+          "updatetime": 1275635961,
+          "filesize": 1094259,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1495,
+    "latest_comment": [
+      {
+        "comment_id": 27089193,
+        "uid": 108744559,
+        "content": "2020-05-04",
+        "createtime": 1588563553,
+        "nickname": "贝尓芬格",
+        "avatar": "https://avatar.dmzj.com/29/10/29109e9b636905e3108990498b2643d5.png"
+      },
+      {
+        "comment_id": 27031814,
+        "uid": 105441498,
+        "content": "感觉被治愈了，谢谢。",
+        "createtime": 1588405224,
+        "nickname": "阿强鲜鱼店老板",
+        "avatar": "https://avatar.dmzj.com/70/88/708875a0f145740ed4d1d3adc5d9b6b8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

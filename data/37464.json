@@ -1,0 +1,93 @@
+{
+  "id": 37464,
+  "islong": 2,
+  "direction": 2,
+  "title": "Cyborg",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1011345051468416284.jpg",
+  "description": "很惭愧，画了个微小的漫画。",
+  "last_updatetime": 1468418175,
+  "last_update_chapter_name": "始源之章",
+  "copyright": 1,
+  "first_letter": "c",
+  "comic_py": "cyborg",
+  "hidden": 0,
+  "hot_num": 5427,
+  "hit_num": 228173,
+  "uid": 101134505,
+  "is_lock": 0,
+  "last_update_chapter_id": 52425,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12129,
+      "tag_name": "Spike"
+    }
+  ],
+  "subscribe_num": 115,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52425,
+          "chapter_title": "1话",
+          "updatetime": 1468418175,
+          "filesize": 2994782,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 1016507,
+        "uid": 101718555,
+        "content": "火钳刘明，感觉会是一部很好的漫画呢",
+        "createtime": 1468549814,
+        "nickname": "殷穀森",
+        "avatar": "https://avatar.dmzj.com/4d/1d/4d1df24f73239ede9945551b1e40a2ef.png"
+      },
+      {
+        "comment_id": 1015596,
+        "uid": 100481053,
+        "content": "这是用鸭嘴笔画的吗",
+        "createtime": 1468519287,
+        "nickname": "Cruise",
+        "avatar": "https://avatar.dmzj.com/36/46/3646b9b88e1e78cc77cd8b59c9f54a47.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

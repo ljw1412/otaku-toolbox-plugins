@@ -1,0 +1,87 @@
+{
+  "id": 37421,
+  "islong": 2,
+  "direction": 2,
+  "title": "复仇者：置于石中",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/fuchouzhezhiyushizhongfengmi.jpg",
+  "description": "时间旅行守则第一条：不要剧透……？！让鹰眼为你实力展现——不管过去与未来，我从不失手。嗯，我们刚刚从花村回来，爆米花大概都凉了。",
+  "last_updatetime": 1467987054,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fuchouzhezhiyushizhong",
+  "hidden": 0,
+  "hot_num": 15416,
+  "hit_num": 10337,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 54561,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 135,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54561,
+          "chapter_title": "1卷",
+          "updatetime": 1467987054,
+          "filesize": 1254610,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 993038,
+        "uid": 100092987,
+        "content": "正在前往花村，准备进攻",
+        "createtime": 1468050477,
+        "nickname": "塔洛斯33561",
+        "avatar": "https://avatar.dmzj.com/3c/50/3c500c39b4f7763d5fa838f7a864a0bd.png"
+      },
+      {
+        "comment_id": 992767,
+        "uid": 101387646,
+        "content": "爆米花又是什么鬼",
+        "createtime": 1468044512,
+        "nickname": "arrowV1",
+        "avatar": "https://avatar.dmzj.com/f6/ef/f6effd0b940f478ee3c94551880538bd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

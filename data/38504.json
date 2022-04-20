@@ -1,0 +1,87 @@
+{
+  "id": 38504,
+  "islong": 2,
+  "direction": 1,
+  "title": "(c90)Rough Sketch 100 Memorial Book",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/roughsketch100memorialbookV1.jpg",
+  "description": "《听爸爸的话》、《甘城光辉游乐园》小说插画なかじまゆか老师c90画集",
+  "last_updatetime": 1471235091,
+  "last_update_chapter_name": "画集",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "roughsketch100memorialbook",
+  "hidden": 1,
+  "hot_num": 553282,
+  "hit_num": 636619,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 53620,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12288,
+      "tag_name": "なかじまゆか"
+    }
+  ],
+  "subscribe_num": 7626,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 53620,
+          "chapter_title": "1话",
+          "updatetime": 1471235091,
+          "filesize": 2756998,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 92,
+    "latest_comment": [
+      {
+        "comment_id": 26704377,
+        "uid": 101775161,
+        "content": "看不到啊",
+        "createtime": 1587485560,
+        "nickname": "麦田守望者35539",
+        "avatar": "https://avatar.dmzj.com/78/20/78200446935ff91e21d3090bcff9e052.png"
+      },
+      {
+        "comment_id": 26477021,
+        "uid": 110294388,
+        "content": "1111",
+        "createtime": 1586873080,
+        "nickname": "dmzj_110294388",
+        "avatar": "https://avatar.dmzj.com/79/89/79895d619fa5bc5fc818b13701e7271b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

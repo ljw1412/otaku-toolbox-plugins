@@ -1,0 +1,91 @@
+{
+  "id": 33328,
+  "islong": 2,
+  "direction": 2,
+  "title": "变形金刚节日特刊",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/jieritekan.JPG",
+  "description": "变形金刚的搞笑玩梗漫画。",
+  "last_updatetime": 1462204402,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bianxingjingangjieritekan",
+  "hidden": 1,
+  "hot_num": 122620,
+  "hit_num": 96712,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 48771,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1206,
+      "tag_name": "IDW"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 634,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48771,
+          "chapter_title": "1话",
+          "updatetime": 1462204402,
+          "filesize": 4664835,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 26800227,
+        "uid": 104275964,
+        "content": "vv",
+        "createtime": 1587741465,
+        "nickname": "跳跳鱼",
+        "avatar": "https://avatar.dmzj.com/4c/cf/4ccff9bc3dd50fa6e733fb94ac436cd2.png"
+      },
+      {
+        "comment_id": 11664206,
+        "uid": 105675579,
+        "content": "L",
+        "createtime": 1550581277,
+        "nickname": "凛裂天·斯卡雷特",
+        "avatar": "https://avatar.dmzj.com/97/20/97209d769d41464b10b875f0cb35562e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

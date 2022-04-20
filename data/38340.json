@@ -1,0 +1,122 @@
+{
+  "id": 38340,
+  "islong": 2,
+  "direction": 2,
+  "title": "星球大战：维达陨落",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/xqdzweidayunluofengmianl.jpg",
+  "description": "星战漫画大事件维达陨落开始！",
+  "last_updatetime": 1472529381,
+  "last_update_chapter_name": "达斯维达#15",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xinqioudazhanweidayunluo",
+  "hidden": 1,
+  "hot_num": 127011,
+  "hit_num": 310634,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 58338,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1451,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 58338,
+          "chapter_title": "6卷",
+          "updatetime": 1472529381,
+          "filesize": 2844776,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 57974,
+          "chapter_title": "5卷",
+          "updatetime": 1471516670,
+          "filesize": 3876747,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 57972,
+          "chapter_title": "4卷",
+          "updatetime": 1471516463,
+          "filesize": 2731909,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 57971,
+          "chapter_title": "3卷",
+          "updatetime": 1471516434,
+          "filesize": 4050338,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 57333,
+          "chapter_title": "2卷",
+          "updatetime": 1470184794,
+          "filesize": 3422291,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 57221,
+          "chapter_title": "1卷",
+          "updatetime": 1469844763,
+          "filesize": 5335058,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 45,
+    "latest_comment": [
+      {
+        "comment_id": 26228107,
+        "uid": 106918293,
+        "content": "卫星点灯！",
+        "createtime": 1586344826,
+        "nickname": "北欧诸神的起司酱",
+        "avatar": "https://avatar.dmzj.com/20/30/2030a6dd480952dd5b78019a2db2f3aa.png"
+      },
+      {
+        "comment_id": 23688146,
+        "uid": 109925135,
+        "content": "留一手",
+        "createtime": 1580566389,
+        "nickname": "帕淇",
+        "avatar": "https://avatar.dmzj.com/35/07/350714eeed64d5c37f82cd55efa80da2.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

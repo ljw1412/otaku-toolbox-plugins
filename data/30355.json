@@ -1,0 +1,87 @@
+{
+  "id": 30355,
+  "islong": 2,
+  "direction": 1,
+  "title": "异界v2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/Weirdworl201001000a.jpg",
+  "description": "迷失之物可寻之地……",
+  "last_updatetime": 1457277887,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yijiever",
+  "hidden": 0,
+  "hot_num": 10755,
+  "hit_num": 43814,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 51429,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 109,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 51429,
+          "chapter_title": "1卷",
+          "updatetime": 1457277887,
+          "filesize": 2468403,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 4889085,
+        "uid": 107067705,
+        "content": "画风，，，",
+        "createtime": 1527644126,
+        "nickname": "睿小二",
+        "avatar": "https://avatar.dmzj.com/3b/a8/3ba8f1a21850370b07700701eee1afdd.png"
+      },
+      {
+        "comment_id": 966259,
+        "uid": 101406438,
+        "content": "脑洞大开",
+        "createtime": 1467413427,
+        "nickname": "开大啊",
+        "avatar": "https://avatar.dmzj.com/a2/a2/a2a22723ba871725796e0031ae8e9ce0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

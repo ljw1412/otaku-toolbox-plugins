@@ -1,0 +1,105 @@
+{
+  "id": 3625,
+  "islong": 2,
+  "direction": 1,
+  "title": "PUNISHER",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/jojo_002_d42b36e211efe7d1bacb7c4d3361c4b1.jpg",
+  "description": "有这样一个旅客似被流放般的离开家门，看遍各处的夜空，没有梦想也没有欲望。今天更将自己的未来舍弃在夜里，因而流落街头，他的旅途何时才结束？何处是终点？光明与黑暗邂逅之时，沉睡着的世界将会苏醒。背负着宿命的少年少女开始了波澜万丈的双人之旅。",
+  "last_updatetime": 1275021657,
+  "last_update_chapter_name": "CH03",
+  "copyright": 0,
+  "first_letter": "p",
+  "comic_py": "punisher",
+  "hidden": 0,
+  "hot_num": 13050,
+  "hit_num": 215196,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 9549,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 715,
+      "tag_name": "佐渡川准"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 65,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9549,
+          "chapter_title": "3话",
+          "updatetime": 1275626457,
+          "filesize": 3501665,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 9548,
+          "chapter_title": "2话",
+          "updatetime": 1275626457,
+          "filesize": 5090005,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9547,
+          "chapter_title": "1话",
+          "updatetime": 1275626457,
+          "filesize": 8952148,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 1179265,
+        "uid": 100201910,
+        "content": "纳尼？遗作？",
+        "createtime": 1471521523,
+        "nickname": "カカロト",
+        "avatar": "https://avatar.dmzj.com/52/c7/52c7b44f4878e2b94e61300eee6aceaf.png"
+      },
+      {
+        "comment_id": 215664,
+        "uid": 20147334,
+        "content": "竟然是遗作orz",
+        "createtime": 1394884907,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

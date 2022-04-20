@@ -1,0 +1,87 @@
+{
+  "id": 38560,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔法少女小时",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/mfsnxs65658l.jpg",
+  "description": "脑洞魔法少女小时，姐姐解锁各种姿势。",
+  "last_updatetime": 1471838844,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mofashaonvxiaoshi",
+  "hidden": 0,
+  "hot_num": 162542,
+  "hit_num": 62515,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 58060,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1022,
+      "tag_name": "吉富昭仁"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1039,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 58060,
+          "chapter_title": "1话",
+          "updatetime": 1471838845,
+          "filesize": 1805318,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 27043784,
+        "uid": 100927030,
+        "content": "鲁迅先生什么时候玩起了翻译。？",
+        "createtime": 1588433165,
+        "nickname": "世界昨天就没了",
+        "avatar": "https://avatar.dmzj.com/70/12/7012d0ac0d685b9de1e1f3ed04ec3aeb.png"
+      },
+      {
+        "comment_id": 26830006,
+        "uid": 101035539,
+        "content": "有意思",
+        "createtime": 1587821323,
+        "nickname": "ouoowo",
+        "avatar": "https://avatar.dmzj.com/8b/50/8b50d4d4394262a92c460b657d004e73.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

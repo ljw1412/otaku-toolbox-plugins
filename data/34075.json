@@ -1,0 +1,111 @@
+{
+  "id": 34075,
+  "islong": 2,
+  "direction": 2,
+  "title": "腐女日记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1007769361463901955.jpg",
+  "description": "",
+  "last_updatetime": 1471091003,
+  "last_update_chapter_name": "第03话 2015年3月20日",
+  "copyright": 1,
+  "first_letter": "f",
+  "comic_py": "funvriji",
+  "hidden": 0,
+  "hot_num": 12726,
+  "hit_num": 32758,
+  "uid": 100776936,
+  "is_lock": 0,
+  "last_update_chapter_id": 57768,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11855,
+      "tag_name": "西萌吹雪"
+    }
+  ],
+  "subscribe_num": 114,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 57768,
+          "chapter_title": "3话",
+          "updatetime": 1471091003,
+          "filesize": 110552,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 54246,
+          "chapter_title": "2话",
+          "updatetime": 1463902402,
+          "filesize": 61870,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 54245,
+          "chapter_title": "1话",
+          "updatetime": 1463902296,
+          "filesize": 112366,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 1977136,
+        "uid": 102000582,
+        "content": "好評如潮",
+        "createtime": 1490713406,
+        "nickname": "尹鴒",
+        "avatar": "https://avatar.dmzj.com/18/28/182827c0a9c70c8a25cfa011e1a2d928.png"
+      },
+      {
+        "comment_id": 1191082,
+        "uid": 101748371,
+        "content": "可以，这个火柴人很强势，，，逗比😂",
+        "createtime": 1471717353,
+        "nickname": "☀24764",
+        "avatar": "https://avatar.dmzj.com/ed/7f/ed7f7607ee42ab8c471a44acb48056a3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

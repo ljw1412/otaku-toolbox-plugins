@@ -1,0 +1,87 @@
+{
+  "id": 35155,
+  "islong": 2,
+  "direction": 1,
+  "title": "相亲相爱幻想乡",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/xqxahxx.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1465019533,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiangqinxiangaihuanxiangxiang",
+  "hidden": 0,
+  "hot_num": 147301,
+  "hit_num": 184043,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 54780,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5465,
+      "tag_name": "正木(こげコロッケ)"
+    }
+  ],
+  "subscribe_num": 835,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54780,
+          "chapter_title": "1话",
+          "updatetime": 1465019533,
+          "filesize": 6125097,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 48,
+    "latest_comment": [
+      {
+        "comment_id": 26342136,
+        "uid": 109865850,
+        "content": "真就是豪族大乱斗？",
+        "createtime": 1586573877,
+        "nickname": "dmzj_109865850",
+        "avatar": "https://avatar.dmzj.com/fe/5f/fe5ffca819f0bd57a1fd0b594251d46b.png"
+      },
+      {
+        "comment_id": 25777014,
+        "uid": 106911933,
+        "content": "e",
+        "createtime": 1585372695,
+        "nickname": "非石传说",
+        "avatar": "https://avatar.dmzj.com/49/31/4931d2a1002f3444a735a20daba495be.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

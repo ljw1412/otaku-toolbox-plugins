@@ -1,0 +1,81 @@
+{
+  "id": 37086,
+  "islong": 2,
+  "direction": 2,
+  "title": "有兔忧伤35",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1016541001467709544.jpg",
+  "description": "小孩子",
+  "last_updatetime": 1467709565,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "y",
+  "comic_py": "youtuyoushang35",
+  "hidden": 0,
+  "hot_num": 610,
+  "hit_num": 89,
+  "uid": 101654100,
+  "is_lock": 0,
+  "last_update_chapter_id": 54473,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8425,
+      "tag_name": "小孩子"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54473,
+          "chapter_title": "1话",
+          "updatetime": 1467709565,
+          "filesize": 192768,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 18948466,
+        "uid": 104490192,
+        "content": "什么杰宝玩意儿",
+        "createtime": 1564792579,
+        "nickname": "你不认识我么",
+        "avatar": "https://avatar.dmzj.com/58/34/58340e02bbad2da45c95ca246526d6a7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

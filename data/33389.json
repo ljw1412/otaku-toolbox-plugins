@@ -1,0 +1,87 @@
+{
+  "id": 33389,
+  "islong": 2,
+  "direction": 1,
+  "title": "飞龙wyvern",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/02feilongwyvern58.jpg",
+  "description": "欢迎来到香港！",
+  "last_updatetime": 1462722846,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "feilogwyvern",
+  "hidden": 0,
+  "hot_num": 6899,
+  "hit_num": 106397,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 49688,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11774,
+      "tag_name": "桑山纯平"
+    }
+  ],
+  "subscribe_num": 169,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49688,
+          "chapter_title": "1话",
+          "updatetime": 1462722846,
+          "filesize": 4168311,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 802774,
+        "uid": 100670244,
+        "content": "这tm跟香港什么关系。。",
+        "createtime": 1463079665,
+        "nickname": "流年追憶",
+        "avatar": "https://avatar.dmzj.com/22/84/228473c3be1c86037551c58f97cb21a1.png"
+      },
+      {
+        "comment_id": 792560,
+        "uid": 21362852,
+        "content": "被封面骗进来，算了就看看妹子吧",
+        "createtime": 1462777259,
+        "nickname": "sorazawa",
+        "avatar": "https://avatar.dmzj.com/84/13/8413a8c415e478b43bbae6537dcf9945.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

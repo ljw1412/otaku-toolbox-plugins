@@ -1,0 +1,111 @@
+{
+  "id": 38583,
+  "islong": 2,
+  "direction": 1,
+  "title": "鸟居",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1010809541472138340.jpg",
+  "description": "这是一只鸟和一个少年的故事",
+  "last_updatetime": 1473399032,
+  "last_update_chapter_name": "第03话",
+  "copyright": 1,
+  "first_letter": "n",
+  "comic_py": "niaoju",
+  "hidden": 0,
+  "hot_num": 7495,
+  "hit_num": 93793,
+  "uid": 101080954,
+  "is_lock": 0,
+  "last_update_chapter_id": 53265,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12331,
+      "tag_name": "音乐酱"
+    }
+  ],
+  "subscribe_num": 227,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 53265,
+          "chapter_title": "3话",
+          "updatetime": 1473399032,
+          "filesize": 792650,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 52875,
+          "chapter_title": "2话",
+          "updatetime": 1472384243,
+          "filesize": 556238,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 52770,
+          "chapter_title": "1话",
+          "updatetime": 1472006682,
+          "filesize": 984803,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "不定期更新，希望喜欢！！！",
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 1359659,
+        "uid": 101080954,
+        "content": "上学期间就先停更了:D",
+        "createtime": 1476020867,
+        "nickname": "音乐酱Lin",
+        "avatar": "https://avatar.dmzj.com/48/71/4871d96c888199607cf9476c69f5d9bf.png"
+      },
+      {
+        "comment_id": 1245363,
+        "uid": 101988299,
+        "content": "快更呀？？？？？？",
+        "createtime": 1472861997,
+        "nickname": "。03389",
+        "avatar": "https://avatar.dmzj.com/73/e9/73e9437557f3bfe7488471fb64b2d1a9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

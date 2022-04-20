@@ -1,0 +1,108 @@
+{
+  "id": 30009,
+  "islong": 2,
+  "direction": 2,
+  "title": "细胞分裂：回声",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/xibaofenliehuisheng.jpg",
+  "description": "Dynamite在2014年7月发布漫画《细胞分裂：回声》，其讲述发生在《细胞分裂4断罪》和《细胞分裂5黑名单》之间的故事。这部本是以《细胞分裂5黑名单》限定版内容的漫画，将追加一些额外内容。",
+  "last_updatetime": 1456997819,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xibaofenliehuisheng",
+  "hidden": 0,
+  "hot_num": 70649,
+  "hit_num": 84489,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 47252,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2926,
+      "tag_name": "Dynamite"
+    }
+  ],
+  "subscribe_num": 426,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47252,
+          "chapter_title": "4卷",
+          "updatetime": 1456997819,
+          "filesize": 3393495,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 47251,
+          "chapter_title": "3卷",
+          "updatetime": 1456997770,
+          "filesize": 3557196,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 47250,
+          "chapter_title": "2卷",
+          "updatetime": 1456997740,
+          "filesize": 3581908,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 47249,
+          "chapter_title": "1卷",
+          "updatetime": 1456997694,
+          "filesize": 2724963,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 26787323,
+        "uid": 107957387,
+        "content": "搞，都可以搞",
+        "createtime": 1587712561,
+        "nickname": "北炑",
+        "avatar": "https://avatar.dmzj.com/01/57/01573b9f634b8832ac73287fde788e07.png"
+      },
+      {
+        "comment_id": 3519090,
+        "uid": 100302832,
+        "content": "漫画居然没bug这不育碧",
+        "createtime": 1513511330,
+        "nickname": "советкий",
+        "avatar": "https://avatar.dmzj.com/b3/eb/b3eb26b7ca74c400922aff7e7dd9bf32.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

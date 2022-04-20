@@ -1,0 +1,81 @@
+{
+  "id": 34709,
+  "islong": 2,
+  "direction": 2,
+  "title": "水浒花絮1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1005376091464073856.jpg",
+  "description": "吕志华",
+  "last_updatetime": 1464073879,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "shuihuaxu1",
+  "hidden": 0,
+  "hot_num": 636,
+  "hit_num": 1315,
+  "uid": 100537609,
+  "is_lock": 0,
+  "last_update_chapter_id": 50408,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11870,
+      "tag_name": "吕志华"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50408,
+          "chapter_title": "1话",
+          "updatetime": 1464073879,
+          "filesize": 260785,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 853180,
+        "uid": 101045513,
+        "content": "虽然感觉四格还行。。可是这么一话出一部真的好？",
+        "createtime": 1464571557,
+        "nickname": "支仓冻砂",
+        "avatar": "https://avatar.dmzj.com/45/93/459347c8ff6b2f6d6b113913ce268356.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

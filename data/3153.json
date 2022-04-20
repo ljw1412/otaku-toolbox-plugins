@@ -1,0 +1,105 @@
+{
+  "id": 3153,
+  "islong": 2,
+  "direction": 1,
+  "title": "奇天烈大百科",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/shentong1.jpg",
+  "description": "木手英一虽然只是一个小学生，但是他热爱科学研究、发明。他的祖先奇天烈斋大人也是一个杰出的发明家。一天他想发明一个机械人，但最终也失败了。这时，他突然发现了发明家祖先奇天烈斋留下的「奇天烈大百科」。英一依照「奇天烈大百科」的一篇「机械人制造法」记载，创造了机械人「波仔」（コロ助）。之后英一和波仔便依照着这本大百科里记载的发明品，创造了不少的东西解决困难。　　在这些发明下，英一和朋友经历了不少的历验。",
+  "last_updatetime": 1365842712,
+  "last_update_chapter_name": "VOL03台版",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qitianliedabaike",
+  "hidden": 0,
+  "hot_num": 373650,
+  "hit_num": 2918364,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21479,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1849,
+      "tag_name": "藤子·F·不二雄"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1938,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21479,
+          "chapter_title": "3卷",
+          "updatetime": 1365842712,
+          "filesize": 8910067,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 21476,
+          "chapter_title": "2卷",
+          "updatetime": 1365811920,
+          "filesize": 10162900,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 21475,
+          "chapter_title": "1卷",
+          "updatetime": 1365811366,
+          "filesize": 8928907,
+          "chapter_order": 40
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 24159993,
+        "uid": 100874999,
+        "content": "不全啊，啥时候能更完就太谢谢啦",
+        "createtime": 1581740975,
+        "nickname": "qzuser94643",
+        "avatar": "https://avatar.dmzj.com/ad/94/ad941e888b0b8757694889c9fe6df46a.png"
+      },
+      {
+        "comment_id": 23887512,
+        "uid": 108883479,
+        "content": "七天咧",
+        "createtime": 1581093630,
+        "nickname": "dmzj_108883479",
+        "avatar": "https://avatar.dmzj.com/14/22/142287e21d8253e4c828b6183c384011.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

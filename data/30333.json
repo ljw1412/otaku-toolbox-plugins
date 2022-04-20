@@ -1,0 +1,87 @@
+{
+  "id": 30333,
+  "islong": 2,
+  "direction": 1,
+  "title": "秘密的开端",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/4xiaoyinansheng362935.jpg",
+  "description": "从不小心看到的师生恋发展出的故事",
+  "last_updatetime": 1457267734,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mimidekaiduan",
+  "hidden": 0,
+  "hot_num": 67895,
+  "hit_num": 389423,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 46830,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7486,
+      "tag_name": "イスズ"
+    }
+  ],
+  "subscribe_num": 716,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46830,
+          "chapter_title": "1话",
+          "updatetime": 1457267734,
+          "filesize": 5835763,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 20604073,
+        "uid": 101536574,
+        "content": "蛮喜欢的，留下来",
+        "createtime": 1569378632,
+        "nickname": "逗…宝贝",
+        "avatar": "https://avatar.dmzj.com/61/98/6198f936413bcd2932c01c79b789a7d8.png"
+      },
+      {
+        "comment_id": 6388955,
+        "uid": 100202234,
+        "content": "回来重温，很喜欢的短篇",
+        "createtime": 1534790238,
+        "nickname": "清行",
+        "avatar": "https://avatar.dmzj.com/38/c8/38c86db5089d103ca0321af417c1e457.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

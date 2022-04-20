@@ -1,0 +1,95 @@
+{
+  "id": 3573,
+  "islong": 2,
+  "direction": 2,
+  "title": "超人:和平之境",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/crhp.jpg",
+  "description": "Paul Dini与Alex Ross两大美漫名家联手打造经典单篇.Paul Dini的文笔,Alex Ross的画风,讲述超人为全世界人民谋福谋利,任劳任怨的故事.",
+  "last_updatetime": 1275465071,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chaorenhepingzhijing",
+  "hidden": 0,
+  "hot_num": 1997766,
+  "hit_num": 530575,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 8558,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    },
+    {
+      "tag_id": 2153,
+      "tag_name": "Alex Ross"
+    },
+    {
+      "tag_id": 2154,
+      "tag_name": "Paul Dini"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 9530,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8558,
+          "chapter_title": "1卷",
+          "updatetime": 1275465071,
+          "filesize": 5490711,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 25385281,
+        "uid": 107728305,
+        "content": "为啥jeph loeb和paul dini我有时会搞混……",
+        "createtime": 1584464173,
+        "nickname": "天生我材2015",
+        "avatar": "https://avatar.dmzj.com/82/89/828963ac0b51747ddd09b6f6871b4382.png"
+      },
+      {
+        "comment_id": 24539701,
+        "uid": 110300125,
+        "content": "我真的好愛他。TT",
+        "createtime": 1582651913,
+        "nickname": "ProUnaCabeza",
+        "avatar": "https://avatar.dmzj.com/76/74/76746b21fd87ddd004763d386dd12834.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

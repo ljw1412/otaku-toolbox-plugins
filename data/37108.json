@@ -1,0 +1,89 @@
+{
+  "id": 37108,
+  "islong": 2,
+  "direction": 2,
+  "title": "脑洞冷广告1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1016541001467711875.jpg",
+  "description": "小孩子",
+  "last_updatetime": 1467711890,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "n",
+  "comic_py": "naodonglengguanggao1",
+  "hidden": 0,
+  "hot_num": 629,
+  "hit_num": 245,
+  "uid": 101654100,
+  "is_lock": 0,
+  "last_update_chapter_id": 51271,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8425,
+      "tag_name": "小孩子"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 51271,
+          "chapter_title": "1话",
+          "updatetime": 1467711890,
+          "filesize": 181804,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 989196,
+        "uid": 100598925,
+        "content": "沙发",
+        "createtime": 1467958232,
+        "nickname": "Lv.5",
+        "avatar": "https://avatar.dmzj.com/12/55/1255c5c4f8fa13f15a4eab6a530076f2.png"
+      },
+      {
+        "comment_id": 988957,
+        "uid": 101029451,
+        "content": "什么鬼",
+        "createtime": 1467953112,
+        "nickname": "转角望天",
+        "avatar": "https://avatar.dmzj.com/4f/1b/4f1b185443caf2139d593ba82eebf5ba.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

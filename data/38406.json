@@ -1,0 +1,91 @@
+{
+  "id": 38406,
+  "islong": 2,
+  "direction": 2,
+  "title": "爱丽丝在猴子王国",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/Alice au pays des singes 00.jpg",
+  "description": "当爱丽丝梦游的不是险境，而是猴子王国？",
+  "last_updatetime": 1470310484,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "ailisizaihouziwangguo",
+  "hidden": 1,
+  "hot_num": 12542,
+  "hit_num": 50088,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 55560,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12232,
+      "tag_name": "科拉米达"
+    }
+  ],
+  "subscribe_num": 105,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 55560,
+          "chapter_title": "1话",
+          "updatetime": 1470310484,
+          "filesize": 6853407,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 14608186,
+        "uid": 107432621,
+        "content": "Mark",
+        "createtime": 1555745855,
+        "nickname": "董明珠姐",
+        "avatar": "https://avatar.dmzj.com/63/62/63627c3271f50c8bb89d36da6be42f8a.png"
+      },
+      {
+        "comment_id": 1110268,
+        "uid": 100371616,
+        "content": "老虎的肚子是个坑😂",
+        "createtime": 1470313613,
+        "nickname": "古大洋怪",
+        "avatar": "https://avatar.dmzj.com/de/3a/de3a828dc7b3865deae5f31eb54ec049.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

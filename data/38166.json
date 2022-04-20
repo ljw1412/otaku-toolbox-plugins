@@ -1,0 +1,81 @@
+{
+  "id": 38166,
+  "islong": 2,
+  "direction": 2,
+  "title": "长筒靴1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391468818017.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1468818035,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "c",
+  "comic_py": "changtongxue1",
+  "hidden": 0,
+  "hot_num": 2378,
+  "hit_num": 4572,
+  "uid": 100469239,
+  "is_lock": 0,
+  "last_update_chapter_id": 55131,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 6,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 55131,
+          "chapter_title": "1话",
+          "updatetime": 1468818035,
+          "filesize": 266265,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1048361,
+        "uid": 100847575,
+        "content": "留名，画风好像素描画",
+        "createtime": 1469171021,
+        "nickname": "avalon19210",
+        "avatar": "https://avatar.dmzj.com/e9/80/e980b8a448416e678a954a49883ea10a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

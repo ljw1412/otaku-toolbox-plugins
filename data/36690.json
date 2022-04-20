@@ -1,0 +1,91 @@
+{
+  "id": 36690,
+  "islong": 2,
+  "direction": 2,
+  "title": "国家漫画：永恒世界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/guojiamanhuayonghengshijie.jpg",
+  "description": "国家漫画是DC在2012年出版的一个短篇系列，专注于那些鲜为人知的角色，共四期，皆为one-shot，分别是Eternity, Madame X, Rose and Thorn, 和 Looker",
+  "last_updatetime": 1467298406,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "guojiamanhuayonghengshijie",
+  "hidden": 0,
+  "hot_num": 8098,
+  "hit_num": 47118,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 55874,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 159,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 55874,
+          "chapter_title": "1卷",
+          "updatetime": 1467298406,
+          "filesize": 6800541,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 962825,
+        "uid": 101188505,
+        "content": "灵♂魂♂侦探",
+        "createtime": 1467340345,
+        "nickname": "夏天的雪",
+        "avatar": "https://avatar.dmzj.com/15/6d/156d3ffbdbf3c7dfd51c660015a423f7.png"
+      },
+      {
+        "comment_id": 962514,
+        "uid": 18684389,
+        "content": "还是有点意思的",
+        "createtime": 1467331575,
+        "nickname": "∝ˋ ★ 萝莉控 ★",
+        "avatar": "https://avatar.dmzj.com/82/3b/823bc8ad5a9a1608be82b56fa82d247d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,81 @@
+{
+  "id": 37960,
+  "islong": 2,
+  "direction": 2,
+  "title": "恶魔老师3",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391468917693.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1468917705,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "e",
+  "comic_py": "emolaoshi3",
+  "hidden": 0,
+  "hot_num": 1636,
+  "hit_num": 3889,
+  "uid": 100469239,
+  "is_lock": 0,
+  "last_update_chapter_id": 56887,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 7,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56887,
+          "chapter_title": "1话",
+          "updatetime": 1468917705,
+          "filesize": 224760,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 6276404,
+        "uid": 100753902,
+        "content": "这不是神北克的姥姥漫画吗",
+        "createtime": 1534295410,
+        "nickname": "在一起",
+        "avatar": "https://avatar.dmzj.com/b9/59/b959eb3e38073f3d2f9684dc3cb9c4d1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,89 @@
+{
+  "id": 33840,
+  "islong": 2,
+  "direction": 2,
+  "title": "笑笑三国十",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1005376071463022101.jpg",
+  "description": "芦泰斌",
+  "last_updatetime": 1463022121,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiaoxiaosanguoshi",
+  "hidden": 0,
+  "hot_num": 652,
+  "hit_num": 1219,
+  "uid": 100537607,
+  "is_lock": 0,
+  "last_update_chapter_id": 54058,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11195,
+      "tag_name": "芦泰斌"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54058,
+          "chapter_title": "1话",
+          "updatetime": 1463022121,
+          "filesize": 275238,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 819173,
+        "uid": 101004637,
+        "content": "看感冒了。",
+        "createtime": 1463580624,
+        "nickname": "Aliecho°",
+        "avatar": "https://avatar.dmzj.com/b5/d0/b5d0115d727db14ddb69020285f5ec4c.png"
+      },
+      {
+        "comment_id": 817602,
+        "uid": 101113629,
+        "content": "一楼",
+        "createtime": 1463537984,
+        "nickname": "偶愛木天蓼(￣^￣)ゞ",
+        "avatar": "https://avatar.dmzj.com/ed/86/ed8679ac2560320e9ff3495e122e4d92.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}
