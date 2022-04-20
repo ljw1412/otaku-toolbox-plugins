@@ -1,0 +1,101 @@
+{
+  "id": 2698,
+  "islong": 2,
+  "direction": 1,
+  "title": "横刀夺爱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/横刀夺爱_vol_01_0001_22749fc15d98e190bdb493f7b4b09ec2.jpg",
+  "description": "刘定坚经典短篇作品",
+  "last_updatetime": 1271928047,
+  "last_update_chapter_name": "CH03",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hendaoduoai",
+  "hidden": 1,
+  "hot_num": 2777,
+  "hit_num": 53851,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 7137,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1466,
+      "tag_name": "刘定坚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 7,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 7137,
+          "chapter_title": "3卷",
+          "updatetime": 1272532847,
+          "filesize": 4260679,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 7136,
+          "chapter_title": "2卷",
+          "updatetime": 1272532847,
+          "filesize": 4349380,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 7135,
+          "chapter_title": "1卷",
+          "updatetime": 1272532847,
+          "filesize": 4086116,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 18733128,
+        "uid": 100000638,
+        "content": "好多小说的链接都连到港漫了。有一样的吗就是从小多订阅过来的。",
+        "createtime": 1564306169,
+        "nickname": "LAN鬼",
+        "avatar": "https://avatar.dmzj.com/91/73/9173fa9e315329b97e4ad86f8bf5f690.png"
+      },
+      {
+        "comment_id": 62607,
+        "uid": 17211675,
+        "content": "-。-其实。。。我被这个漫画的这个名字给雷到了。。。",
+        "createtime": 1337972862,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

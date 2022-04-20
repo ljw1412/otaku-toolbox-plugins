@@ -1,0 +1,87 @@
+{
+  "id": 25855,
+  "islong": 2,
+  "direction": 1,
+  "title": "超级英雄擂台赛",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/00cjyxleitiansai1210a.jpg",
+  "description": "这一本作为同名手机游戏的配套漫画，讲述了不同世界的英雄们被战尊等人挟持进行死斗游戏的故事。Now，神秘的擂台赛战火点燃！",
+  "last_updatetime": 1449751252,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chaojiyingxiongleitaisai",
+  "hidden": 0,
+  "hot_num": 20328,
+  "hit_num": 125998,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 48601,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 213,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48601,
+          "chapter_title": "1卷",
+          "updatetime": 1449751252,
+          "filesize": 4549350,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 640534,
+        "uid": 100456538,
+        "content": "mff改编",
+        "createtime": 1456322385,
+        "nickname": "℡暗影＆破碎梦魔£",
+        "avatar": "https://avatar.dmzj.com/55/79/5579951fdb8a5a5028e56f08b1a626b9.png"
+      },
+      {
+        "comment_id": 537631,
+        "uid": 100523691,
+        "content": "板凳…",
+        "createtime": 1449793054,
+        "nickname": "qzuser71438",
+        "avatar": "https://avatar.dmzj.com/80/45/80457fc1fdf83a0986a9f2565ebc152d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

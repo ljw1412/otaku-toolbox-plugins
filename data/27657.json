@@ -1,0 +1,87 @@
+{
+  "id": 27657,
+  "islong": 2,
+  "direction": 1,
+  "title": "Chirashishumai",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/Chirashishumaifengmianl.jpg",
+  "description": "Inkbottle老师的C89画集",
+  "last_updatetime": 1452411415,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chirashishumai",
+  "hidden": 0,
+  "hot_num": 280125,
+  "hit_num": 28878,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 49491,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11204,
+      "tag_name": "Inkbottle"
+    }
+  ],
+  "subscribe_num": 1770,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49491,
+          "chapter_title": "1话",
+          "updatetime": 1452411415,
+          "filesize": 1369849,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 25331465,
+        "uid": 108311411,
+        "content": "没看懂。人物设定图集?",
+        "createtime": 1584369163,
+        "nickname": "深情必拥愿与你孤守",
+        "avatar": "https://avatar.dmzj.com/66/14/66144ef7cbf0ba8542426a606ab97623.png"
+      },
+      {
+        "comment_id": 17581164,
+        "uid": 107577754,
+        "content": "今石洋之牛逼",
+        "createtime": 1561733736,
+        "nickname": "正常的非常规",
+        "avatar": "https://avatar.dmzj.com/34/28/342888d473c85d733bc7a345a3edb363.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

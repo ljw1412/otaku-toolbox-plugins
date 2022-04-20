@@ -1,0 +1,93 @@
+{
+  "id": 20480,
+  "islong": 2,
+  "direction": 2,
+  "title": "妖兽之殇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1002093781437113259.jpg",
+  "description": "妖兽之殇",
+  "last_updatetime": 1437113369,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "y",
+  "comic_py": "yaoshouzhi",
+  "hidden": 0,
+  "hot_num": 21207,
+  "hit_num": 457147,
+  "uid": 100209378,
+  "is_lock": 0,
+  "last_update_chapter_id": 43606,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 7900,
+      "tag_name": "仙侠"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9628,
+      "tag_name": "洋洋兔动漫"
+    }
+  ],
+  "subscribe_num": 232,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43606,
+          "chapter_title": "1话",
+          "updatetime": 1437113369,
+          "filesize": 2077855,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 1777892,
+        "uid": 103479753,
+        "content": "作者死了？？？",
+        "createtime": 1486543538,
+        "nickname": "羽珊",
+        "avatar": "https://avatar.dmzj.com/81/aa/81aa37c18d268702854290340d68cc9f.png"
+      },
+      {
+        "comment_id": 1491269,
+        "uid": 102344110,
+        "content": "亲，更新吧亲",
+        "createtime": 1479725806,
+        "nickname": "『不腻｛离｝你』",
+        "avatar": "https://avatar.dmzj.com/b6/4a/b64a260430795a967ac230ea0a7cd0a4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 29166,
+  "islong": 2,
+  "direction": 1,
+  "title": "军传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/junzhuan.jpg",
+  "description": "天才剑士的壮烈人生画卷。",
+  "last_updatetime": 1455681826,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "junchuan",
+  "hidden": 1,
+  "hot_num": 300865,
+  "hit_num": 223486,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 48605,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 838,
+      "tag_name": "沙村广明"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2307,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48605,
+          "chapter_title": "1话",
+          "updatetime": 1455681826,
+          "filesize": 4189949,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 97,
+    "latest_comment": [
+      {
+        "comment_id": 27019249,
+        "uid": 101166261,
+        "content": "沙村的漫画都要标记一下啊，",
+        "createtime": 1588354383,
+        "nickname": "雨下鸭鸡幽",
+        "avatar": "https://avatar.dmzj.com/98/40/9840d8d4592bc25088ac5a0da4f47a53.png"
+      },
+      {
+        "comment_id": 25754148,
+        "uid": 101913322,
+        "content": "沙村老师日常虐人",
+        "createtime": 1585315684,
+        "nickname": "MaidPaper",
+        "avatar": "https://avatar.dmzj.com/7b/94/7b9421a8fae09324f964c69fefae5a35.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

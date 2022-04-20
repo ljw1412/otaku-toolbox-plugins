@@ -1,0 +1,81 @@
+{
+  "id": 27111,
+  "islong": 2,
+  "direction": 2,
+  "title": "我是妞妞之醋的妙用",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1005371911447990844.jpg",
+  "description": "王凯",
+  "last_updatetime": 1447990863,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "w",
+  "comic_py": "woshizhicudemiaoyong",
+  "hidden": 0,
+  "hot_num": 423,
+  "hit_num": 198,
+  "uid": 100537191,
+  "is_lock": 0,
+  "last_update_chapter_id": 46947,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10968,
+      "tag_name": "王凯"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46947,
+          "chapter_title": "1话",
+          "updatetime": 1447990863,
+          "filesize": 474020,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 5901761,
+        "uid": 105540986,
+        "content": "这是神魔啊。。。。",
+        "createtime": 1532717448,
+        "nickname": "T.K90080",
+        "avatar": "https://avatar.dmzj.com/2b/33/2b33a964591b57eefb539ef82c8227ae.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,96 @@
+{
+  "id": 21820,
+  "islong": 2,
+  "direction": 2,
+  "title": "鱼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1004298511444460006.jpg",
+  "description": "一个关于鱼的小故事~",
+  "last_updatetime": 1444460437,
+  "last_update_chapter_name": "海",
+  "copyright": 1,
+  "first_letter": "y",
+  "comic_py": "yuyyyy",
+  "hidden": 0,
+  "hot_num": 4153,
+  "hit_num": 47753,
+  "uid": 100429851,
+  "is_lock": 0,
+  "last_update_chapter_id": 46266,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10740,
+      "tag_name": "芸音姚姚"
+    }
+  ],
+  "subscribe_num": 31,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46266,
+          "chapter_title": "2话",
+          "updatetime": 1444460437,
+          "filesize": 509412,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 46265,
+          "chapter_title": "1话",
+          "updatetime": 1444460273,
+          "filesize": 617330,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 876693,
+        "uid": 101440723,
+        "content": "萌萌哒",
+        "createtime": 1465222147,
+        "nickname": "物理老师",
+        "avatar": "https://avatar.dmzj.com/50/16/5016d57858b3ea970666e7ae3187ba69.png"
+      },
+      {
+        "comment_id": 489324,
+        "uid": 100395018,
+        "content": "画风好可爱~我喜欢~ ●ω●",
+        "createtime": 1444478543,
+        "nickname": "雪の炎",
+        "avatar": "https://avatar.dmzj.com/5c/76/5c76ae2c2af77041b35df2fa4c3414fd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

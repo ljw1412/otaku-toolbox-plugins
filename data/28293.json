@@ -1,0 +1,81 @@
+{
+  "id": 28293,
+  "islong": 2,
+  "direction": 2,
+  "title": "奶爸历险记之认生",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1005376591452674091.jpg",
+  "description": "星漫文化",
+  "last_updatetime": 1452674103,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "n",
+  "comic_py": "naibalixianjizhirensheng",
+  "hidden": 0,
+  "hot_num": 412,
+  "hit_num": 115,
+  "uid": 100537659,
+  "is_lock": 0,
+  "last_update_chapter_id": 45425,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10967,
+      "tag_name": "星漫文化 "
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45425,
+          "chapter_title": "1话",
+          "updatetime": 1452674103,
+          "filesize": 299900,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 12749590,
+        "uid": 106443188,
+        "content": "干你妈，不会投稿就别发，刷屏玩呢？",
+        "createtime": 1552319288,
+        "nickname": "dmzj_106443188",
+        "avatar": "https://avatar.dmzj.com/a4/0d/a40da91053cfd57f10fe76172397f8a6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,100 @@
+{
+  "id": 26220,
+  "islong": 2,
+  "direction": 2,
+  "title": "人体炸弹",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/rentizhadanfengmianl.jpg",
+  "description": "正义需要新的武器！",
+  "last_updatetime": 1449842796,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "rentizhadan",
+  "hidden": 0,
+  "hot_num": 10161,
+  "hit_num": 45604,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 48707,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 80,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48707,
+          "chapter_title": "4卷",
+          "updatetime": 1449842796,
+          "filesize": 3796940,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 48706,
+          "chapter_title": "3卷",
+          "updatetime": 1449842780,
+          "filesize": 3684281,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 48705,
+          "chapter_title": "2卷",
+          "updatetime": 1449842764,
+          "filesize": 3572270,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 48704,
+          "chapter_title": "1卷",
+          "updatetime": 1449842749,
+          "filesize": 2008360,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 538772,
+        "uid": 100396284,
+        "content": "还行吧，就是有点短",
+        "createtime": 1449892137,
+        "nickname": "去我二条鱼",
+        "avatar": "https://avatar.dmzj.com/6e/f3/6ef3c8b4c0e6acf1dc53a047b1daaf38.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

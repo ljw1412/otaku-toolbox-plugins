@@ -1,0 +1,93 @@
+{
+  "id": 21411,
+  "islong": 2,
+  "direction": 2,
+  "title": "双面灰姑娘",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1000952701440489872.jpg",
+  "description": "双面灰姑娘",
+  "last_updatetime": 1440490067,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "shuangmianhuiguniang",
+  "hidden": 0,
+  "hot_num": 13907,
+  "hit_num": 354915,
+  "uid": 100095270,
+  "is_lock": 0,
+  "last_update_chapter_id": 42863,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8884,
+      "tag_name": "吉林星海动漫公司"
+    }
+  ],
+  "subscribe_num": 184,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42863,
+          "chapter_title": "1话",
+          "updatetime": 1440490067,
+          "filesize": 1597276,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 2652445,
+        "uid": 105049461,
+        "content": "色不/b扯/b扯/b扯",
+        "createtime": 1501992482,
+        "nickname": "赵佳佳32183",
+        "avatar": "https://avatar.dmzj.com/24/98/249825602e7c9f4a4938e8841d91cc3e.png"
+      },
+      {
+        "comment_id": 2652440,
+        "uid": 105049461,
+        "content": "哈",
+        "createtime": 1501992403,
+        "nickname": "赵佳佳32183",
+        "avatar": "https://avatar.dmzj.com/24/98/249825602e7c9f4a4938e8841d91cc3e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

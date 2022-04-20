@@ -1,0 +1,94 @@
+{
+  "id": 2473,
+  "islong": 2,
+  "direction": 1,
+  "title": "TopTwinz-双星",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/vol01-001_36f65585d1d45dfee9e5f172ecb751cb.jpg",
+  "description": "双星漫画-一对双胞胎的故事,是以现实生活的一对双胞胎为蓝本画的漫画,他们还有出一本叫“心有灵犀”的唱片,还有他们的照片类！是我喜欢的两个歌手也",
+  "last_updatetime": 1417600896,
+  "last_update_chapter_name": "第2卷",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "toptwinz",
+  "hidden": 1,
+  "hot_num": 2114,
+  "hit_num": 191135,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 32431,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1503,
+      "tag_name": "黄佳莉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 32431,
+          "chapter_title": "2卷",
+          "updatetime": 1417600896,
+          "filesize": 18335049,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 6764,
+          "chapter_title": "1卷",
+          "updatetime": 1272013184,
+          "filesize": 17289193,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 275921,
+        "uid": 26044561,
+        "content": "＜兩＞卷完結，網上可找到！",
+        "createtime": 1408095068,
+        "nickname": "京子flo",
+        "avatar": "https://avatar.dmzj.com/f2/c2/f2c23c3e9ca3d57ccfb7b2d1c442c12c.png"
+      },
+      {
+        "comment_id": 178265,
+        "uid": 25103042,
+        "content": "蛮感人的",
+        "createtime": 1385565159,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

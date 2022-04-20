@@ -1,0 +1,115 @@
+{
+  "id": 2351,
+  "islong": 2,
+  "direction": 1,
+  "title": "龙族",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/0001_88b3923702bc973fd5c82f1bc4e46e85.jpg",
+  "description": "龙族",
+  "last_updatetime": 1271071489,
+  "last_update_chapter_name": "CH05",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "longzhu",
+  "hidden": 1,
+  "hot_num": 152012,
+  "hit_num": 3865518,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 5118,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1362,
+      "tag_name": "蔡景东"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 198,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 5118,
+          "chapter_title": "5话",
+          "updatetime": 1271676289,
+          "filesize": 5358130,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 5117,
+          "chapter_title": "4话",
+          "updatetime": 1271676289,
+          "filesize": 5803539,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 5116,
+          "chapter_title": "3话",
+          "updatetime": 1271676289,
+          "filesize": 5531854,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 5115,
+          "chapter_title": "2话",
+          "updatetime": 1271676289,
+          "filesize": 5683127,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 5114,
+          "chapter_title": "1话",
+          "updatetime": 1271676289,
+          "filesize": 5802142,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 63,
+    "latest_comment": [
+      {
+        "comment_id": 25372132,
+        "uid": 107765756,
+        "content": "核桃仁还有人",
+        "createtime": 1584451513,
+        "nickname": "萨格里斯",
+        "avatar": "https://avatar.dmzj.com/66/24/6624be7c9296c8a103ac32c0bee4613e.png"
+      },
+      {
+        "comment_id": 23379471,
+        "uid": 109782401,
+        "content": "能看吗？",
+        "createtime": 1579447448,
+        "nickname": "dmzj_109782401",
+        "avatar": "https://avatar.dmzj.com/aa/bb/aabbdc5955dda6cf5e5467791cba4f39.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

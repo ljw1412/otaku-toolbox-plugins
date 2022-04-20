@@ -1,0 +1,89 @@
+{
+  "id": 21369,
+  "islong": 2,
+  "direction": 2,
+  "title": "距离",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1003658841441520020.jpg",
+  "description": "距离",
+  "last_updatetime": 1441520789,
+  "last_update_chapter_name": "全一章",
+  "copyright": 1,
+  "first_letter": "j",
+  "comic_py": "juli",
+  "hidden": 0,
+  "hot_num": 1053,
+  "hit_num": 23938,
+  "uid": 100365884,
+  "is_lock": 0,
+  "last_update_chapter_id": 41168,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10513,
+      "tag_name": "阿国"
+    }
+  ],
+  "subscribe_num": 11,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41168,
+          "chapter_title": "1话",
+          "updatetime": 1441520789,
+          "filesize": 2512732,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 898399,
+        "uid": 101464228,
+        "content": "挺喜欢的",
+        "createtime": 1465778739,
+        "nickname": "沉沦05798",
+        "avatar": "https://avatar.dmzj.com/d5/8e/d58ef59f6727371ce616d89d21e18561.png"
+      },
+      {
+        "comment_id": 898367,
+        "uid": 101464228,
+        "content": "只有一章吗？ ",
+        "createtime": 1465777623,
+        "nickname": "沉沦05798",
+        "avatar": "https://avatar.dmzj.com/d5/8e/d58ef59f6727371ce616d89d21e18561.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

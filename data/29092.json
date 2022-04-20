@@ -1,0 +1,102 @@
+{
+  "id": 29092,
+  "islong": 1,
+  "direction": 2,
+  "title": "暴徒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/baotufengmian.jpg",
+  "description": "只要能多救一个人，就算成为暴徒也在所不惜",
+  "last_updatetime": 1461249697,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "baotu",
+  "hidden": 1,
+  "hot_num": 65108,
+  "hit_num": 255299,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 52947,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11341,
+      "tag_name": "韩东宇"
+    },
+    {
+      "tag_id": 11342,
+      "tag_name": "高进浩"
+    }
+  ],
+  "subscribe_num": 826,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52947,
+          "chapter_title": "1话",
+          "updatetime": 1461249697,
+          "filesize": 3064036,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 50449,
+          "chapter_title": "0话",
+          "updatetime": 1454855054,
+          "filesize": 908381,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 20042160,
+        "uid": 100562659,
+        "content": "画风好棒，求更啊",
+        "createtime": 1567661960,
+        "nickname": "米饭桑",
+        "avatar": "https://avatar.dmzj.com/69/27/6927f73b0ee75d69386889c048d6b949.png"
+      },
+      {
+        "comment_id": 14682574,
+        "uid": 105598935,
+        "content": "不错",
+        "createtime": 1555850790,
+        "nickname": "繁星之梦",
+        "avatar": "https://avatar.dmzj.com/d9/d0/d9d0085d6662f5b093ff61efe6a7309c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

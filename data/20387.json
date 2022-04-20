@@ -1,0 +1,72 @@
+{
+  "id": 20387,
+  "islong": 2,
+  "direction": 2,
+  "title": "丛林求生记上",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1002093781437097795.jpg",
+  "description": "丛林求生记上",
+  "last_updatetime": 1437098088,
+  "last_update_chapter_name": "第一话",
+  "copyright": 1,
+  "first_letter": "c",
+  "comic_py": "conglinqiushengjishang",
+  "hidden": 0,
+  "hot_num": 7353,
+  "hit_num": 409758,
+  "uid": 100209378,
+  "is_lock": 0,
+  "last_update_chapter_id": 43513,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9628,
+      "tag_name": "洋洋兔动漫"
+    }
+  ],
+  "subscribe_num": 28,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43513,
+          "chapter_title": "1话",
+          "updatetime": 1437098088,
+          "filesize": 5074108,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 27039,
+  "islong": 2,
+  "direction": 1,
+  "title": "休假也要烤面包!!",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/xiujiayeyaokaomianbao.jpg",
+  "description": "东方的欢乐向同人漫画。",
+  "last_updatetime": 1451290759,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiujiayeyaokaomianbao",
+  "hidden": 0,
+  "hot_num": 24991,
+  "hit_num": 85798,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 45116,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11099,
+      "tag_name": "柚子桃"
+    }
+  ],
+  "subscribe_num": 197,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45116,
+          "chapter_title": "1话",
+          "updatetime": 1451290759,
+          "filesize": 2878430,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 21971333,
+        "uid": 107130171,
+        "content": "烤面包异变",
+        "createtime": 1573090464,
+        "nickname": "妹红❤️",
+        "avatar": "https://avatar.dmzj.com/61/8b/618be593bbb30c59d98ad83c31f4ad62.png"
+      },
+      {
+        "comment_id": 14110345,
+        "uid": 108403252,
+        "content": "来了",
+        "createtime": 1554956566,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

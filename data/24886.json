@@ -1,0 +1,81 @@
+{
+  "id": 24886,
+  "islong": 2,
+  "direction": 2,
+  "title": "对不起",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1004913721446625869.jpg",
+  "description": "神乐动漫",
+  "last_updatetime": 1446625879,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "d",
+  "comic_py": "duibuqi",
+  "hidden": 0,
+  "hot_num": 994,
+  "hit_num": 4458,
+  "uid": 100491372,
+  "is_lock": 0,
+  "last_update_chapter_id": 45056,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10848,
+      "tag_name": "神乐动漫"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45056,
+          "chapter_title": "1话",
+          "updatetime": 1446625879,
+          "filesize": 639568,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 10424645,
+        "uid": 106030107,
+        "content": "？？？？？？啥",
+        "createtime": 1548253263,
+        "nickname": "yyya",
+        "avatar": "https://avatar.dmzj.com/71/66/7166134a24334eb7a108caf9e284c63e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

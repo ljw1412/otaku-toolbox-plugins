@@ -1,0 +1,72 @@
+{
+  "id": 25101,
+  "islong": 2,
+  "direction": 2,
+  "title": "皇上驾到",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1004913721446539929.jpg",
+  "description": "神乐动漫",
+  "last_updatetime": 1446539949,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "h",
+  "comic_py": "huangshangjiadao",
+  "hidden": 0,
+  "hot_num": 731,
+  "hit_num": 2071,
+  "uid": 100491372,
+  "is_lock": 0,
+  "last_update_chapter_id": 45099,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10848,
+      "tag_name": "神乐动漫"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45099,
+          "chapter_title": "1话",
+          "updatetime": 1446539949,
+          "filesize": 547414,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

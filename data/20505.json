@@ -1,0 +1,112 @@
+{
+  "id": 20505,
+  "islong": 2,
+  "direction": 2,
+  "title": "惩罚者 诞生",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/bornfengmianl.jpg",
+  "description": "以一个小兵的视角讲述1971年的那场战争",
+  "last_updatetime": 1474732769,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "born",
+  "hidden": 0,
+  "hot_num": 118866,
+  "hit_num": 456737,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 59082,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3483,
+      "tag_name": "MAX Comics"
+    }
+  ],
+  "subscribe_num": 556,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59082,
+          "chapter_title": "4卷",
+          "updatetime": 1474732769,
+          "filesize": 5113966,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 44344,
+          "chapter_title": "3卷",
+          "updatetime": 1439731891,
+          "filesize": 3211660,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 43949,
+          "chapter_title": "2卷",
+          "updatetime": 1438863075,
+          "filesize": 3653192,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 43618,
+          "chapter_title": "1卷",
+          "updatetime": 1438164273,
+          "filesize": 3479248,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 24909015,
+        "uid": 105211605,
+        "content": "咋回事好多都看不见了？",
+        "createtime": 1583412227,
+        "nickname": "全球防卫组织钢爪",
+        "avatar": "https://avatar.dmzj.com/75/19/7519b057a7260bc722e3116478cb33fb.png"
+      },
+      {
+        "comment_id": 24629007,
+        "uid": 107584964,
+        "content": "挺好的",
+        "createtime": 1582895552,
+        "nickname": "sunshine天师",
+        "avatar": "https://avatar.dmzj.com/44/83/44833985a02ad7d8bda3173d4daffd50.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

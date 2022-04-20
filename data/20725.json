@@ -1,0 +1,83 @@
+{
+  "id": 20725,
+  "islong": 2,
+  "direction": 1,
+  "title": "坊之岬的六人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/fangzhijiadlrfengmianl.jpg",
+  "description": "镇守府的故事 药厂汉化",
+  "last_updatetime": 1438831776,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fzjdlr",
+  "hidden": 0,
+  "hot_num": 13078,
+  "hit_num": 108277,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 43914,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10108,
+      "tag_name": "小林芜"
+    }
+  ],
+  "subscribe_num": 84,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43914,
+          "chapter_title": "1话",
+          "updatetime": 1438831776,
+          "filesize": 3695776,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1634348,
+        "uid": 101142090,
+        "content": "good!!!!!!!!!!!!!!!",
+        "createtime": 1483593242,
+        "nickname": "apk001",
+        "avatar": "https://avatar.dmzj.com/32/2f/322fa9917ddc9b1e7b203b673a989826.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

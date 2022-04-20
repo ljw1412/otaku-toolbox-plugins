@@ -1,0 +1,81 @@
+{
+  "id": 23733,
+  "islong": 2,
+  "direction": 2,
+  "title": "爆发吧",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1004738361446106484.jpg",
+  "description": "顶点动漫",
+  "last_updatetime": 1446106526,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "b",
+  "comic_py": "baofaba",
+  "hidden": 0,
+  "hot_num": 1694,
+  "hit_num": 17004,
+  "uid": 100473836,
+  "is_lock": 0,
+  "last_update_chapter_id": 42882,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10829,
+      "tag_name": "顶点动漫"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42882,
+          "chapter_title": "1话",
+          "updatetime": 1446106526,
+          "filesize": 808811,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 629107,
+        "uid": 100063144,
+        "content": "操蛋。",
+        "createtime": 1455813130,
+        "nickname": "道明不二",
+        "avatar": "https://avatar.dmzj.com/13/66/13664604dd0b970cfd8d029f65c47d41.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

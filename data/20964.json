@@ -1,0 +1,95 @@
+{
+  "id": 20964,
+  "islong": 2,
+  "direction": 1,
+  "title": "Melissa",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/0815meilisafml.jpg",
+  "description": "SE漫画大赏受赏作·特别读切。\n\n讲述一生都只能生活在监狱里，随时都能越狱，并且随时都在越狱，但却并不会离开监狱的“行走的武器库”的故事。",
+  "last_updatetime": 1439623999,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "melissa",
+  "hidden": 0,
+  "hot_num": 33952,
+  "hit_num": 171576,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 40418,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10286,
+      "tag_name": "雫绮一生"
+    }
+  ],
+  "subscribe_num": 238,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40418,
+          "chapter_title": "1话",
+          "updatetime": 1439623999,
+          "filesize": 6405814,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 3094699,
+        "uid": 101044990,
+        "content": "想起人类最强的承包人小姐…",
+        "createtime": 1507983428,
+        "nickname": "藏天003",
+        "avatar": "https://avatar.dmzj.com/27/47/27471a370715c3c239bf133c4977d67c.png"
+      },
+      {
+        "comment_id": 453926,
+        "uid": 12630407,
+        "content": "有的分镜有点怪，其他还好，毕竟是新人",
+        "createtime": 1439726371,
+        "nickname": "qq972764247",
+        "avatar": "https://avatar.dmzj.com/f5/85/f58556763ba6ef86f4661826b042d5f5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

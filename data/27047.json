@@ -1,0 +1,125 @@
+{
+  "id": 27047,
+  "islong": 2,
+  "direction": 1,
+  "title": "北斗星故事集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1006720221451318435.jpg",
+  "description": "树的原创故事集",
+  "last_updatetime": 1456812067,
+  "last_update_chapter_name": "故事二：手足（第四话）",
+  "copyright": 1,
+  "first_letter": "b",
+  "comic_py": "beidouxinggushiji",
+  "hidden": 0,
+  "hot_num": 5804,
+  "hit_num": 72133,
+  "uid": 100672022,
+  "is_lock": 0,
+  "last_update_chapter_id": 51157,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11147,
+      "tag_name": "树人小姐"
+    }
+  ],
+  "subscribe_num": 62,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 51157,
+          "chapter_title": "2.4话",
+          "updatetime": 1456812067,
+          "filesize": 326428,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 49816,
+          "chapter_title": "2.3话",
+          "updatetime": 1453197213,
+          "filesize": 305825,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 49235,
+          "chapter_title": "2.2话",
+          "updatetime": 1451544521,
+          "filesize": 283378,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 49107,
+          "chapter_title": "2.1话",
+          "updatetime": 1451320042,
+          "filesize": 1236635,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 49106,
+          "chapter_title": "1话",
+          "updatetime": 1451319866,
+          "filesize": 4209546,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 2245389,
+        "uid": 102562625,
+        "content": "感觉故事都有点小黑暗",
+        "createtime": 1496056139,
+        "nickname": "若梧月",
+        "avatar": "https://avatar.dmzj.com/d1/74/d174b5b82ae9669e70ea90572275e090.png"
+      },
+      {
+        "comment_id": 557174,
+        "uid": 100670575,
+        "content": "挺有意思的漫画",
+        "createtime": 1451404745,
+        "nickname": "请叫我三贵",
+        "avatar": "https://avatar.dmzj.com/f3/f3/f3f36b53f7802c0045e699f72d8fb24a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

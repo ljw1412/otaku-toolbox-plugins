@@ -1,0 +1,89 @@
+{
+  "id": 21349,
+  "islong": 2,
+  "direction": 2,
+  "title": "糖果雨",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1003592721441279532.jpg",
+  "description": "一个老男人挽回自己童年的故事。",
+  "last_updatetime": 1441285099,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "t",
+  "comic_py": "tangguoyu",
+  "hidden": 0,
+  "hot_num": 1393,
+  "hit_num": 33246,
+  "uid": 100359272,
+  "is_lock": 0,
+  "last_update_chapter_id": 41102,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10501,
+      "tag_name": "胡雨果"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41102,
+          "chapter_title": "1话",
+          "updatetime": 1441285099,
+          "filesize": 5032969,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 10115694,
+        "uid": 105327356,
+        "content": "看得哭了呜呜呜",
+        "createtime": 1547555392,
+        "nickname": "男人看了沉默女人看了流泪",
+        "avatar": "https://avatar.dmzj.com/f5/97/f597e358a8d2e29a0de874163fe79a75.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

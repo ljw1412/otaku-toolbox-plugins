@@ -1,0 +1,128 @@
+{
+  "id": 25330,
+  "islong": 2,
+  "direction": 2,
+  "title": "糊涂侦探",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1005371911447907190.jpg",
+  "description": "",
+  "last_updatetime": 1451012913,
+  "last_update_chapter_name": "第06话",
+  "copyright": 1,
+  "first_letter": "h",
+  "comic_py": "hutuzhentan",
+  "hidden": 0,
+  "hot_num": 1994,
+  "hit_num": 22577,
+  "uid": 100537191,
+  "is_lock": 0,
+  "last_update_chapter_id": 49031,
+  "types": [
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10968,
+      "tag_name": "王凯"
+    }
+  ],
+  "subscribe_num": 13,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49031,
+          "chapter_title": "6话",
+          "updatetime": 1451012913,
+          "filesize": 951746,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 48893,
+          "chapter_title": "5话",
+          "updatetime": 1450409595,
+          "filesize": 911749,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 48618,
+          "chapter_title": "4话",
+          "updatetime": 1449806015,
+          "filesize": 967149,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 48472,
+          "chapter_title": "3话",
+          "updatetime": 1449197071,
+          "filesize": 927427,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 48255,
+          "chapter_title": "2话",
+          "updatetime": 1448595432,
+          "filesize": 859140,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 48067,
+          "chapter_title": "1话",
+          "updatetime": 1447907262,
+          "filesize": 268680,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 767368,
+        "uid": 100929133,
+        "content": "更吧",
+        "createtime": 1461976003,
+        "nickname": "shinozakuぺAYvmi",
+        "avatar": "https://avatar.dmzj.com/95/35/95353ea1420be7c067ac9c0b77b75693.png"
+      },
+      {
+        "comment_id": 767367,
+        "uid": 100929133,
+        "content": "不错",
+        "createtime": 1461975998,
+        "nickname": "shinozakuぺAYvmi",
+        "avatar": "https://avatar.dmzj.com/95/35/95353ea1420be7c067ac9c0b77b75693.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

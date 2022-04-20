@@ -1,0 +1,89 @@
+{
+  "id": 25396,
+  "islong": 2,
+  "direction": 2,
+  "title": "三生石",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1005590921448434488.jpg",
+  "description": "很久很久之前画的一个纯阳与万花的故事",
+  "last_updatetime": 1448434641,
+  "last_update_chapter_name": "一生为凡",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "sanshengshimbm",
+  "hidden": 0,
+  "hot_num": 20660,
+  "hit_num": 421776,
+  "uid": 100559092,
+  "is_lock": 0,
+  "last_update_chapter_id": 45526,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10998,
+      "tag_name": "魔北冥"
+    }
+  ],
+  "subscribe_num": 242,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45526,
+          "chapter_title": "1话",
+          "updatetime": 1448434641,
+          "filesize": 1883112,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 1973251,
+        "uid": 101006160,
+        "content": "结局呢？",
+        "createtime": 1490627905,
+        "nickname": "荒60574",
+        "avatar": "https://avatar.dmzj.com/ce/a1/cea1b3868d593c83e18dfe0ab4636e77.png"
+      },
+      {
+        "comment_id": 1432428,
+        "uid": 102262059,
+        "content": "赞赞哒",
+        "createtime": 1478108496,
+        "nickname": "含玉寒",
+        "avatar": "https://avatar.dmzj.com/13/70/13704d388a140d7f6ee13363a9ccad71.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

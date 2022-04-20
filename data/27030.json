@@ -1,0 +1,117 @@
+{
+  "id": 27030,
+  "islong": 2,
+  "direction": 2,
+  "title": "卖萌无罪",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1002619481451437313.jpg",
+  "description": "童心不败，卖萌无罪！",
+  "last_updatetime": 1451268665,
+  "last_update_chapter_name": "感觉自己萌萌哒",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "maimengwuzui",
+  "hidden": 0,
+  "hot_num": 1042,
+  "hit_num": 1609,
+  "uid": 100261948,
+  "is_lock": 0,
+  "last_update_chapter_id": 49148,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9976,
+      "tag_name": "margaret"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49148,
+          "chapter_title": "5话",
+          "updatetime": 1451268665,
+          "filesize": 52541,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 49147,
+          "chapter_title": "4话",
+          "updatetime": 1451268584,
+          "filesize": 84726,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 49146,
+          "chapter_title": "3话",
+          "updatetime": 1451268510,
+          "filesize": 49047,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 49145,
+          "chapter_title": "2话",
+          "updatetime": 1451268238,
+          "filesize": 54463,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 49144,
+          "chapter_title": "1话",
+          "updatetime": 1451268187,
+          "filesize": 55125,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "童心不败，卖萌无罪！",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 554742,
+        "uid": 100094854,
+        "content": "卖萌是无罪，但可耻。",
+        "createtime": 1451273528,
+        "nickname": "星海独醉",
+        "avatar": "https://avatar.dmzj.com/a0/b5/a0b58f2d2797729b74f27219350d6433.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,86 @@
+{
+  "id": 21204,
+  "islong": 2,
+  "direction": 2,
+  "title": "猫谈",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1003457121440600074.jpg",
+  "description": "关于猫主子们的一切~~~~",
+  "last_updatetime": 1440600497,
+  "last_update_chapter_name": "家庭逸事~~~~",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "maotan",
+  "hidden": 0,
+  "hot_num": 3599,
+  "hit_num": 12824,
+  "uid": 100345712,
+  "is_lock": 0,
+  "last_update_chapter_id": 40806,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10403,
+      "tag_name": "心鱼恶少"
+    }
+  ],
+  "subscribe_num": 28,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40806,
+          "chapter_title": "3话",
+          "updatetime": 1440600497,
+          "filesize": 707839,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 40805,
+          "chapter_title": "2话",
+          "updatetime": 1440600332,
+          "filesize": 781516,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40804,
+          "chapter_title": "1话",
+          "updatetime": 1440600271,
+          "filesize": 397320,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

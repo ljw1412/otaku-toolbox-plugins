@@ -1,0 +1,89 @@
+{
+  "id": 21471,
+  "islong": 2,
+  "direction": 2,
+  "title": "我的野蛮女友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1003585771441183291.jpg",
+  "description": "我的野蛮女友",
+  "last_updatetime": 1441183329,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "w",
+  "comic_py": "wodeyemannvyou",
+  "hidden": 0,
+  "hot_num": 1334,
+  "hit_num": 31702,
+  "uid": 100358577,
+  "is_lock": 0,
+  "last_update_chapter_id": 42878,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10545,
+      "tag_name": "小K熊"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42878,
+          "chapter_title": "1话",
+          "updatetime": 1441183329,
+          "filesize": 4180741,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 756594,
+        "uid": 100996825,
+        "content": "啊?沙发没啊",
+        "createtime": 1461580309,
+        "nickname": "最重要的决定",
+        "avatar": "https://avatar.dmzj.com/93/43/9343c40b7ace8e609443fb9299d9e992.png"
+      },
+      {
+        "comment_id": 547428,
+        "uid": 100641029,
+        "content": "   虽然看不懂，我还是凑下热闹把",
+        "createtime": 1450630889,
+        "nickname": "2爷饭",
+        "avatar": "https://avatar.dmzj.com/73/89/73898508a3299a19bb930bcdf54f944c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

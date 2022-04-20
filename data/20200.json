@@ -1,0 +1,114 @@
+{
+  "id": 20200,
+  "islong": 2,
+  "direction": 1,
+  "title": "666学徒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1002654101437641984.jpg",
+  "description": "人类诞生了一个特别的孩子，天堂地狱都想争夺他的抚养权，因为没有法庭的存在，所以他们用最原始手段来夺取那孩子。这是关于这孩子与他身边人的故事。",
+  "last_updatetime": 1444890953,
+  "last_update_chapter_name": "第03话",
+  "copyright": 1,
+  "first_letter": "6",
+  "comic_py": "666xuetu",
+  "hidden": 0,
+  "hot_num": 10952,
+  "hit_num": 306286,
+  "uid": 100265410,
+  "is_lock": 0,
+  "last_update_chapter_id": 46429,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9997,
+      "tag_name": "阿图因"
+    }
+  ],
+  "subscribe_num": 175,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46429,
+          "chapter_title": "3话",
+          "updatetime": 1444890953,
+          "filesize": 1159747,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 45091,
+          "chapter_title": "2话",
+          "updatetime": 1441159014,
+          "filesize": 1174312,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 44055,
+          "chapter_title": "1话",
+          "updatetime": 1439093574,
+          "filesize": 1238074,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 43380,
+          "chapter_title": "0话",
+          "updatetime": 1437645430,
+          "filesize": 2679723,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 11316047,
+        "uid": 106749232,
+        "content": "这里",
+        "createtime": 1550040937,
+        "nickname": "dmzj_106749232",
+        "avatar": "https://avatar.dmzj.com/be/e1/bee16eb4cab8be77a5714c7f8ca71214.png"
+      },
+      {
+        "comment_id": 475886,
+        "uid": 100290594,
+        "content": "为什么觉得从刚开始就有一大堆信息涌入，脑容量不够啊！不过挺好看",
+        "createtime": 1442653772,
+        "nickname": "qzuserkuuga",
+        "avatar": "https://avatar.dmzj.com/53/49/53499502b7be6851ff48174fd3036d0f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

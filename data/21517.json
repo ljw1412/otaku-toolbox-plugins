@@ -1,0 +1,119 @@
+{
+  "id": 21517,
+  "islong": 2,
+  "direction": 2,
+  "title": "星球大战：蓝多",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/xingqiudazhanlanduo.jpg",
+  "description": "本漫画是漫威官方出品的新的星战系列漫画，讲述了星球大战正传三部曲中的蓝多的故事。",
+  "last_updatetime": 1468802276,
+  "last_update_chapter_name": "第05卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xingqiudazhanlanduo",
+  "hidden": 0,
+  "hot_num": 99835,
+  "hit_num": 107950,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 56308,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 887,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56308,
+          "chapter_title": "5卷",
+          "updatetime": 1468802276,
+          "filesize": 3123013,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 55096,
+          "chapter_title": "4卷",
+          "updatetime": 1466346884,
+          "filesize": 2305106,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 54518,
+          "chapter_title": "3卷",
+          "updatetime": 1465138283,
+          "filesize": 2624030,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 46318,
+          "chapter_title": "2卷",
+          "updatetime": 1445343591,
+          "filesize": 2816003,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 45347,
+          "chapter_title": "1卷",
+          "updatetime": 1442214909,
+          "filesize": 2252840,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 3400625,
+        "uid": 102298099,
+        "content": "皇帝近卫军打不过两只猴子...抓飞船不用阻绝者用帝国级...终于知道帝国为什么垮台这么快了...",
+        "createtime": 1511966632,
+        "nickname": "达斯独秀",
+        "avatar": "https://avatar.dmzj.com/69/44/694410614ab92e8c253183872d7a292b.png"
+      },
+      {
+        "comment_id": 1029970,
+        "uid": 100726728,
+        "content": "蜜汁感人",
+        "createtime": 1468820824,
+        "nickname": "A Pirate……06",
+        "avatar": "https://avatar.dmzj.com/96/7b/967b04f8c5499cc253c706eea06d87e9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

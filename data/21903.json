@@ -1,0 +1,91 @@
+{
+  "id": 21903,
+  "islong": 2,
+  "direction": 1,
+  "title": "时髦通讯",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/shimaotongxunfengmianl.jpg",
+  "description": "两对姐妹关于时尚的故事",
+  "last_updatetime": 1445162133,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shimaotongxun",
+  "hidden": 0,
+  "hot_num": 85667,
+  "hit_num": 109512,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 42134,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4904,
+      "tag_name": "滝太郎"
+    }
+  ],
+  "subscribe_num": 463,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42134,
+          "chapter_title": "1话",
+          "updatetime": 1445162133,
+          "filesize": 3848677,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 4893157,
+        "uid": 101234339,
+        "content": "喜欢这个作者的画风",
+        "createtime": 1527663110,
+        "nickname": "cleven27",
+        "avatar": "https://avatar.dmzj.com/2a/88/2a8896d41a65e6dc06d39900faa59979.png"
+      },
+      {
+        "comment_id": 969789,
+        "uid": 100894224,
+        "content": "好温馨",
+        "createtime": 1467476959,
+        "nickname": "赤那",
+        "avatar": "https://avatar.dmzj.com/16/38/16389c9469106f48d1e8efe12de6fdb4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

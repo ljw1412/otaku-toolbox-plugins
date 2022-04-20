@@ -1,0 +1,100 @@
+{
+  "id": 25768,
+  "islong": 2,
+  "direction": 2,
+  "title": "拯救人类",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1000857041448941347.jpg",
+  "description": "《拯救人类》发表于 《科幻世界画刊》。重制版为《底线任务》。",
+  "last_updatetime": 1448941684,
+  "last_update_chapter_name": "拯救人类",
+  "copyright": 1,
+  "first_letter": "z",
+  "comic_py": "zhengjiurenlei",
+  "hidden": 0,
+  "hot_num": 188544,
+  "hit_num": 7318936,
+  "uid": 100085704,
+  "is_lock": 0,
+  "last_update_chapter_id": 43782,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7977,
+      "tag_name": "于彦舒"
+    }
+  ],
+  "subscribe_num": 1495,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43782,
+          "chapter_title": "2话",
+          "updatetime": 1448941684,
+          "filesize": 3937881,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 43781,
+          "chapter_title": "1话",
+          "updatetime": 1448941532,
+          "filesize": 5706122,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "《黑白无双》动画开播了，于彦舒作品专区：http://zt.dmzj.com/yuyanshu/，还请各位多多支持！《黑白无双》粉丝新群：95803380",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 26474252,
+        "uid": 109135065,
+        "content": "这是2000年左右于彦舒年轻时在科幻世界上的参赛作品，如果没记错原著作者是刘维佳",
+        "createtime": 1586868958,
+        "nickname": "dmzj_109135065",
+        "avatar": "https://avatar.dmzj.com/84/13/8413b6c7b11aae177dadaaf23d76874f.png"
+      },
+      {
+        "comment_id": 3583196,
+        "uid": 100002429,
+        "content": "于叔还是更适合青年漫画，比起黑白还有扳手这些我还是更喜欢于叔的短篇",
+        "createtime": 1514386242,
+        "nickname": "泠面君",
+        "avatar": "https://avatar.dmzj.com/a7/1f/a71f4e88886d2d045922317818cb95af.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

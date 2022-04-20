@@ -1,0 +1,81 @@
+{
+  "id": 22061,
+  "islong": 2,
+  "direction": 2,
+  "title": "他们的故事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1004604581446175232.jpg",
+  "description": "他们的故事",
+  "last_updatetime": 1446175268,
+  "last_update_chapter_name": "他们的故事",
+  "copyright": 1,
+  "first_letter": "t",
+  "comic_py": "tamendegushi",
+  "hidden": 0,
+  "hot_num": 1173,
+  "hit_num": 5340,
+  "uid": 100460458,
+  "is_lock": 0,
+  "last_update_chapter_id": 44228,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10806,
+      "tag_name": "二囬"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44228,
+          "chapter_title": "1话",
+          "updatetime": 1446175268,
+          "filesize": 192910,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 3425703,
+        "uid": 101851650,
+        "content": "暖",
+        "createtime": 1512285566,
+        "nickname": "阿鹅",
+        "avatar": "https://avatar.dmzj.com/78/31/78319dbf4579eb49ab2765e1042d48f1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

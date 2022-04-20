@@ -1,0 +1,101 @@
+{
+  "id": 29236,
+  "islong": 2,
+  "direction": 1,
+  "title": "金刚狼v6",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/00jinganglangv6yijingsi.jpg",
+  "description": "被击败后回到琴葛蕾学园的金刚狼留下了神秘的口信：金刚狼已死……",
+  "last_updatetime": 1464142540,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jinganglangvliu",
+  "hidden": 0,
+  "hot_num": 52089,
+  "hit_num": 190462,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 52547,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 346,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52547,
+          "chapter_title": "3卷",
+          "updatetime": 1464142540,
+          "filesize": 2992428,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 50256,
+          "chapter_title": "2卷",
+          "updatetime": 1459077857,
+          "filesize": 3111522,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 48785,
+          "chapter_title": "1卷",
+          "updatetime": 1456238525,
+          "filesize": 3510970,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 2771819,
+        "uid": 104236152,
+        "content": "这次的狼叔似乎是废了，不能出爪又不能自愈。",
+        "createtime": 1503290064,
+        "nickname": "何佳霖",
+        "avatar": "https://avatar.dmzj.com/90/48/90489a943b01b4378b1db13e7b57add8.png"
+      },
+      {
+        "comment_id": 1260026,
+        "uid": 101019952,
+        "content": "第四卷呢",
+        "createtime": 1473264365,
+        "nickname": "K塔洛斯",
+        "avatar": "https://avatar.dmzj.com/20/84/20841f900cdcb80e39fd736aed5c3bdf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

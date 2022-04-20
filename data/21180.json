@@ -1,0 +1,89 @@
+{
+  "id": 21180,
+  "islong": 2,
+  "direction": 2,
+  "title": "宴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1440553600.jpg",
+  "description": "一个厨子和一个杀手的故事。",
+  "last_updatetime": 1440510696,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "y",
+  "comic_py": "yan",
+  "hidden": 0,
+  "hot_num": 1922,
+  "hit_num": 14287,
+  "uid": 100308420,
+  "is_lock": 0,
+  "last_update_chapter_id": 44791,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10387,
+      "tag_name": "上官画蓉"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44791,
+          "chapter_title": "1话",
+          "updatetime": 1440510696,
+          "filesize": 1083301,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 3414704,
+        "uid": 38009,
+        "content": "很喜欢啊，加油",
+        "createtime": 1512146582,
+        "nickname": "姐姐大人",
+        "avatar": "https://avatar.dmzj.com/19/77/19770da896c88a83160244f09bdfc69b.png"
+      },
+      {
+        "comment_id": 1237141,
+        "uid": 102023651,
+        "content": "？？？？？？？？？？？？？？",
+        "createtime": 1472650506,
+        "nickname": "蔚蓝De",
+        "avatar": "https://avatar.dmzj.com/e9/3c/e93c8a50201407fd40b8689d59ec6486.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

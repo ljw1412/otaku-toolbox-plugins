@@ -1,0 +1,112 @@
+{
+  "id": 21761,
+  "islong": 2,
+  "direction": 2,
+  "title": "lenore V1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/1lenro104geteloli.jpg",
+  "description": "僵尸小女孩的故事",
+  "last_updatetime": 1446715781,
+  "last_update_chapter_name": "第06卷",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lenorevyi",
+  "hidden": 0,
+  "hot_num": 46663,
+  "hit_num": 55821,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 44779,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6051,
+      "tag_name": "Roman Dirge"
+    }
+  ],
+  "subscribe_num": 285,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44779,
+          "chapter_title": "6卷",
+          "updatetime": 1446715781,
+          "filesize": 2141939,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 44778,
+          "chapter_title": "5卷",
+          "updatetime": 1446715033,
+          "filesize": 2009386,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 43547,
+          "chapter_title": "4卷",
+          "updatetime": 1443889282,
+          "filesize": 1447037,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 43546,
+          "chapter_title": "3卷",
+          "updatetime": 1443889210,
+          "filesize": 1832252,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 22016416,
+        "uid": 100413600,
+        "content": "可可爱爱",
+        "createtime": 1573303962,
+        "nickname": "硫氰化铁HeiC",
+        "avatar": "https://avatar.dmzj.com/b3/d4/b3d42274e8b0bb5345efa6564af07c72.png"
+      },
+      {
+        "comment_id": 8790151,
+        "uid": 101465909,
+        "content": "至今都不知道lenore是生前就黑还是丧尸化后脑袋腐蚀坏掉了",
+        "createtime": 1544289447,
+        "nickname": "lo厨子",
+        "avatar": "https://avatar.dmzj.com/f6/3b/f63b056f09f926980dff7b5feda33e63.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

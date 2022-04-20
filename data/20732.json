@@ -1,0 +1,118 @@
+{
+  "id": 20732,
+  "islong": 2,
+  "direction": 2,
+  "title": "大菠萝",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1002977711438830213.jpg",
+  "description": "一群小伙伴拯救世界的冒险故事",
+  "last_updatetime": 1438830769,
+  "last_update_chapter_name": "第03话 回城卷",
+  "copyright": 1,
+  "first_letter": "d",
+  "comic_py": "daboluo",
+  "hidden": 0,
+  "hot_num": 11570,
+  "hit_num": 151977,
+  "uid": 100297771,
+  "is_lock": 0,
+  "last_update_chapter_id": 43843,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10156,
+      "tag_name": "农民"
+    }
+  ],
+  "subscribe_num": 38,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43843,
+          "chapter_title": "3话",
+          "updatetime": 1438830769,
+          "filesize": 882880,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 43842,
+          "chapter_title": "2话",
+          "updatetime": 1438830608,
+          "filesize": 1368330,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 43841,
+          "chapter_title": "1话",
+          "updatetime": 1438830509,
+          "filesize": 711547,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 43840,
+          "chapter_title": "0话",
+          "updatetime": 1438830392,
+          "filesize": 454084,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "一群小伙伴拯救世界的冒险故事",
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 20793577,
+        "uid": 100253957,
+        "content": "有意思",
+        "createtime": 1569929610,
+        "nickname": "海雨墨辉",
+        "avatar": "https://avatar.dmzj.com/ed/9d/ed9db6632a2b97a9672a37b2dd167f48.png"
+      },
+      {
+        "comment_id": 10417460,
+        "uid": 107344530,
+        "content": "这画风可以呀",
+        "createtime": 1548239047,
+        "nickname": "布罗斯",
+        "avatar": "https://avatar.dmzj.com/55/50/5550a4108e1bee58fc3d699d6d1cf0ee.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

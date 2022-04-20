@@ -1,0 +1,81 @@
+{
+  "id": 22458,
+  "islong": 2,
+  "direction": 2,
+  "title": "温馨生活",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445930292.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445930307,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "w",
+  "comic_py": "wenshenghuo",
+  "hidden": 0,
+  "hot_num": 900,
+  "hit_num": 5793,
+  "uid": 100469239,
+  "is_lock": 0,
+  "last_update_chapter_id": 42564,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42564,
+          "chapter_title": "1话",
+          "updatetime": 1445930307,
+          "filesize": 675527,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 5830853,
+        "uid": 106414233,
+        "content": "唉，没人？",
+        "createtime": 1532423356,
+        "nickname": "0古德0",
+        "avatar": "https://avatar.dmzj.com/74/88/74889162ca0646f93482b925398e191a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

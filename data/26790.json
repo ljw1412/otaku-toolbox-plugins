@@ -1,0 +1,81 @@
+{
+  "id": 26790,
+  "islong": 2,
+  "direction": 2,
+  "title": "少年包青蛙之末班车",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1005376591450690809.jpg",
+  "description": "星漫文化",
+  "last_updatetime": 1450690821,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "shaonianbaoqingwazhimobanche",
+  "hidden": 0,
+  "hot_num": 430,
+  "hit_num": 269,
+  "uid": 100537659,
+  "is_lock": 0,
+  "last_update_chapter_id": 49055,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10967,
+      "tag_name": "星漫文化 "
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49055,
+          "chapter_title": "1话",
+          "updatetime": 1450690821,
+          "filesize": 436611,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 20015758,
+        "uid": 105049175,
+        "content": "没人？都枪毙了？",
+        "createtime": 1567570142,
+        "nickname": "紅蓮的奔流",
+        "avatar": "https://avatar.dmzj.com/32/b5/32b544d835279df8afce0caee606a39c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

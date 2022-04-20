@@ -1,0 +1,97 @@
+{
+  "id": 20240,
+  "islong": 2,
+  "direction": 2,
+  "title": "Gamerbee",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/180395651437877140.jpg",
+  "description": "记EVO2015 Gamerbee",
+  "last_updatetime": 1437877228,
+  "last_update_chapter_name": "Gamerbee",
+  "copyright": 1,
+  "first_letter": "g",
+  "comic_py": "gamerbee",
+  "hidden": 0,
+  "hot_num": 917,
+  "hit_num": 1381,
+  "uid": 18039565,
+  "is_lock": 0,
+  "last_update_chapter_id": 43488,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10025,
+      "tag_name": "伪摇滚小青年"
+    }
+  ],
+  "subscribe_num": 7,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43488,
+          "chapter_title": "1话",
+          "updatetime": 1437877228,
+          "filesize": 135476,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 3249561,
+        "uid": 102448787,
+        "content": "？？？？什么鬼",
+        "createtime": 1510050655,
+        "nickname": "加利福尼亚",
+        "avatar": "https://avatar.dmzj.com/18/0b/180b557489760cb124062b6995b0255b.png"
+      },
+      {
+        "comment_id": 1306542,
+        "uid": 100913578,
+        "content": "哟呵__",
+        "createtime": 1474640719,
+        "nickname": "超能零式",
+        "avatar": "https://avatar.dmzj.com/76/93/769369b653c1061670af37c6189b0061.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

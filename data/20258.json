@@ -1,0 +1,91 @@
+{
+  "id": 20258,
+  "islong": 2,
+  "direction": 1,
+  "title": "正义联盟：日本",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/zhengyilianmengriben.jpg",
+  "description": "日本版正义联盟……",
+  "last_updatetime": 1437992784,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhengyilianmengriben",
+  "hidden": 0,
+  "hot_num": 67191,
+  "hit_num": 272998,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 39579,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 335,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39579,
+          "chapter_title": "1卷",
+          "updatetime": 1437992784,
+          "filesize": 12476534,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 24445901,
+        "uid": 108472657,
+        "content": "论官方是如何逼死同人的",
+        "createtime": 1582447755,
+        "nickname": "dmzj_108472657",
+        "avatar": "https://avatar.dmzj.com/54/0b/540bd9d9b99facb5ee44e287a50f2fe5.png"
+      },
+      {
+        "comment_id": 17229118,
+        "uid": 108436935,
+        "content": "绝了，可惜花走了（。）",
+        "createtime": 1560762680,
+        "nickname": "约翰康斯坦丁",
+        "avatar": "https://avatar.dmzj.com/24/63/2463435bc626e0adcf446ffc4cf321ad.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

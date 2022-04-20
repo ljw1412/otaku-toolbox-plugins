@@ -1,0 +1,98 @@
+{
+  "id": 2231,
+  "islong": 2,
+  "direction": 1,
+  "title": "安达充漫画札记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/413.00.8f4d6_e873a920704c00917f62bf9de200eb82.jpg",
+  "description": "安达充漫画札记",
+  "last_updatetime": 1270623745,
+  "last_update_chapter_name": "CH02",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "adcmhzj",
+  "hidden": 0,
+  "hot_num": 310225,
+  "hit_num": 294473,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 4949,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 293,
+      "tag_name": "安达充"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1634,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 4949,
+          "chapter_title": "2话",
+          "updatetime": 1271228545,
+          "filesize": 2590494,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 4948,
+          "chapter_title": "1话",
+          "updatetime": 1271228545,
+          "filesize": 2811112,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 26542362,
+        "uid": 106247285,
+        "content": "喜欢这个  默默留下足迹",
+        "createtime": 1587032579,
+        "nickname": "Motoe",
+        "avatar": "https://avatar.dmzj.com/14/82/1482c64287ffbee350a920f7361a9661.png"
+      },
+      {
+        "comment_id": 22575763,
+        "uid": 102494117,
+        "content": "喜欢",
+        "createtime": 1576129799,
+        "nickname": "纯黑的孤独",
+        "avatar": "https://avatar.dmzj.com/36/40/3640721e3d8cf8e3e12a3c3a1779ff21.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

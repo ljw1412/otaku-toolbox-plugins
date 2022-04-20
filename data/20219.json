@@ -1,0 +1,93 @@
+{
+  "id": 20219,
+  "islong": 2,
+  "direction": 2,
+  "title": "八卷七七",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1002677431437720964.jpg",
+  "description": "章鱼与人类的故事",
+  "last_updatetime": 1437721155,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "b",
+  "comic_py": "bajuanqiqi",
+  "hidden": 0,
+  "hot_num": 8573,
+  "hit_num": 230254,
+  "uid": 100267743,
+  "is_lock": 0,
+  "last_update_chapter_id": 39401,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10009,
+      "tag_name": "黑麦"
+    }
+  ],
+  "subscribe_num": 91,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39401,
+          "chapter_title": "1话",
+          "updatetime": 1437721155,
+          "filesize": 3522527,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 1706645,
+        "uid": 101976635,
+        "content": "作者不更新了吗",
+        "createtime": 1485094916,
+        "nickname": "蛋挞大大QAQ",
+        "avatar": "https://avatar.dmzj.com/a3/c0/a3c04162d1387d7023171a314390aaa7.png"
+      },
+      {
+        "comment_id": 1481539,
+        "uid": 102325093,
+        "content": "画风超棒～",
+        "createtime": 1479475858,
+        "nickname": "鬼鬼的吉他弦3",
+        "avatar": "https://avatar.dmzj.com/2f/f3/2ff3992a5377f7228de7fb6a0ccc61a9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

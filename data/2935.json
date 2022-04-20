@@ -1,0 +1,161 @@
+{
+  "id": 2935,
+  "islong": 2,
+  "direction": 1,
+  "title": "超神Z",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/54_71d324acea120dc6c1e945d9b40e0473.jpg",
+  "description": "超神Z是司徒剑桥早期经典漫画大作,由于一直喜欢看日式漫画,作品完全颠覆了香港漫画风格,更以此作轰动香港.",
+  "last_updatetime": 1273043357,
+  "last_update_chapter_name": "VOL10",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chaoshenz",
+  "hidden": 1,
+  "hot_num": 16324,
+  "hit_num": 634213,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 8870,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1723,
+      "tag_name": "司徒剑桥"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 55,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8870,
+          "chapter_title": "10卷",
+          "updatetime": 1273648157,
+          "filesize": 11218490,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 8869,
+          "chapter_title": "9卷",
+          "updatetime": 1273648157,
+          "filesize": 7686833,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 8868,
+          "chapter_title": "8卷",
+          "updatetime": 1273648157,
+          "filesize": 9070137,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 8867,
+          "chapter_title": "7卷",
+          "updatetime": 1273648157,
+          "filesize": 11947864,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 8866,
+          "chapter_title": "6卷",
+          "updatetime": 1273648157,
+          "filesize": 5071391,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 8865,
+          "chapter_title": "5卷",
+          "updatetime": 1273648157,
+          "filesize": 9270697,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 8864,
+          "chapter_title": "4卷",
+          "updatetime": 1273648157,
+          "filesize": 7585477,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 8863,
+          "chapter_title": "3卷",
+          "updatetime": 1273648157,
+          "filesize": 14498851,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 8862,
+          "chapter_title": "2卷",
+          "updatetime": 1273648157,
+          "filesize": 6098607,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 8861,
+          "chapter_title": "1卷",
+          "updatetime": 1273648157,
+          "filesize": 13464772,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8860,
+          "chapter_title": "超神z序章",
+          "updatetime": 1273648157,
+          "filesize": 21450632,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 25456476,
+        "uid": 108526083,
+        "content": "感谢大妈之家",
+        "createtime": 1584627978,
+        "nickname": "dmzj_108526083",
+        "avatar": "https://avatar.dmzj.com/96/a1/96a1832cfd05b0b10bb2585866a6a7b0.png"
+      },
+      {
+        "comment_id": 23036069,
+        "uid": 107860515,
+        "content": "呼呼呼",
+        "createtime": 1578027413,
+        "nickname": "十庸",
+        "avatar": "https://avatar.dmzj.com/79/b6/79b67b4bdf34de68fb93cd276b15d57f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 27404,
+  "islong": 2,
+  "direction": 1,
+  "title": "Admiral Elegy",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/AdmiralElegy.jpg",
+  "description": "舰娘的同人本，欺负提督向。",
+  "last_updatetime": 1451663423,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "admiralelegy",
+  "hidden": 0,
+  "hot_num": 543419,
+  "hit_num": 348741,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 45286,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3831,
+      "tag_name": "山内泰延(ハイパーサマーウォーズ)"
+    }
+  ],
+  "subscribe_num": 4458,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45286,
+          "chapter_title": "1话",
+          "updatetime": 1451663423,
+          "filesize": 2252179,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 96,
+    "latest_comment": [
+      {
+        "comment_id": 23172495,
+        "uid": 100611087,
+        "content": "只有一话了？",
+        "createtime": 1578575103,
+        "nickname": "人的生存意义",
+        "avatar": "https://avatar.dmzj.com/19/94/1994606af52454d1c105ff8568578746.png"
+      },
+      {
+        "comment_id": 23161787,
+        "uid": 17503619,
+        "content": "完结？不是出了好多话吗？",
+        "createtime": 1578517070,
+        "nickname": "st9527",
+        "avatar": "https://avatar.dmzj.com/58/af/58af9d5b9a9ed33bdc3b1c88ffc57eaa.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

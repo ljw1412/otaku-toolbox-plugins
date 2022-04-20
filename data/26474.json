@@ -1,0 +1,91 @@
+{
+  "id": 26474,
+  "islong": 2,
+  "direction": 1,
+  "title": "Starlight",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/starlght48l.jpg",
+  "description": "我原本认为「无法实现的爱恋」什么的，只会在书里面读到的故事中出现。",
+  "last_updatetime": 1450343320,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "starlight",
+  "hidden": 0,
+  "hot_num": 57187,
+  "hit_num": 138995,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 44696,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1187,
+      "tag_name": "寺本薰"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 414,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44696,
+          "chapter_title": "1话",
+          "updatetime": 1450343321,
+          "filesize": 3703053,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 20249365,
+        "uid": 100097915,
+        "content": "熟悉的熟悉的",
+        "createtime": 1568299298,
+        "nickname": "所谓正确之物——",
+        "avatar": "https://avatar.dmzj.com/77/48/774894646be75df73318d5f7d65fb03d.png"
+      },
+      {
+        "comment_id": 10808067,
+        "uid": 35525605,
+        "content": "长颈鹿们产生了某些既视感",
+        "createtime": 1549036597,
+        "nickname": "崋鸟风月",
+        "avatar": "https://avatar.dmzj.com/53/77/5377c2ea400313cb8be85814fe632049.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 21814,
+  "islong": 2,
+  "direction": 1,
+  "title": "便当",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/biandangxygdfengmianl.jpg",
+  "description": "胡桃X美纪的学院孤岛同人漫画",
+  "last_updatetime": 1444407332,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "biandangxygd",
+  "hidden": 0,
+  "hot_num": 43173,
+  "hit_num": 96427,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 42165,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10732,
+      "tag_name": "二イマルユ"
+    }
+  ],
+  "subscribe_num": 234,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42165,
+          "chapter_title": "1话",
+          "updatetime": 1444407332,
+          "filesize": 1225158,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 17639786,
+        "uid": 104841623,
+        "content": "呜呜呜呜还是没找到本体，学院gd！有空再努力吧",
+        "createtime": 1561861202,
+        "nickname": "辽漠沙",
+        "avatar": "https://avatar.dmzj.com/2c/70/2c70695a104afd01c1951e58a0c76563.png"
+      },
+      {
+        "comment_id": 2423396,
+        "uid": 44000,
+        "content": "这样下去真的不会领便当吗……",
+        "createtime": 1499179267,
+        "nickname": "绘·希",
+        "avatar": "https://avatar.dmzj.com/19/38/1938403d28701e26fa723671405b7744.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

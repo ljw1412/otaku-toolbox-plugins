@@ -1,0 +1,81 @@
+{
+  "id": 21220,
+  "islong": 2,
+  "direction": 1,
+  "title": "二狗传番外",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1003469861440660901.jpg",
+  "description": "二狗传-番外",
+  "last_updatetime": 1440660968,
+  "last_update_chapter_name": "番外",
+  "copyright": 1,
+  "first_letter": "e",
+  "comic_py": "ergouzhuanfanwai",
+  "hidden": 0,
+  "hot_num": 2293,
+  "hit_num": 20264,
+  "uid": 100346986,
+  "is_lock": 0,
+  "last_update_chapter_id": 44886,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10418,
+      "tag_name": "OX"
+    }
+  ],
+  "subscribe_num": 15,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44886,
+          "chapter_title": "番外",
+          "updatetime": 1440660968,
+          "filesize": 778202,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1340593,
+        "uid": 102157098,
+        "content": "苍爹就是攻得很",
+        "createtime": 1475598104,
+        "nickname": "腋毛张小哥",
+        "avatar": "https://avatar.dmzj.com/c8/8a/c88acfb1a4924c89312cb235cc4c6cce.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

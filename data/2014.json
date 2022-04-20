@@ -1,0 +1,185 @@
+{
+  "id": 2014,
+  "islong": 2,
+  "direction": 2,
+  "title": "魔兽世界：传奇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/wow.jpg",
+  "description": "这本名为《传奇》的漫画，主角是一个叫特拉各·高山的牛头人，他在《魔兽争霸·冰之影》中英勇牺牲，然后被转化为亡灵，但是他的头脑一直奋力地与嗜血的欲望对抗，他的思绪正被幻觉所萦绕，他的耳中充满了邪恶的低语——那是巫妖王正催促着他去杀戮……",
+  "last_updatetime": 1465381686,
+  "last_update_chapter_name": "第05卷04",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wowchuanqi",
+  "hidden": 0,
+  "hot_num": 233384,
+  "hit_num": 4233134,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 50837,
+  "authors": [
+    {
+      "tag_id": 1253,
+      "tag_name": "JAE-HWAN KIM"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "subscribe_num": 1149,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50837,
+          "chapter_title": "5.4卷",
+          "updatetime": 1465381686,
+          "filesize": 4479331,
+          "chapter_order": 170
+        },
+        {
+          "chapter_id": 50836,
+          "chapter_title": "5.3卷",
+          "updatetime": 1465381663,
+          "filesize": 2328053,
+          "chapter_order": 160
+        },
+        {
+          "chapter_id": 50835,
+          "chapter_title": "5.2卷",
+          "updatetime": 1465381645,
+          "filesize": 4930384,
+          "chapter_order": 150
+        },
+        {
+          "chapter_id": 50834,
+          "chapter_title": "5.1卷",
+          "updatetime": 1465381632,
+          "filesize": 4623995,
+          "chapter_order": 140
+        },
+        {
+          "chapter_id": 50833,
+          "chapter_title": "4.5卷",
+          "updatetime": 1465381607,
+          "filesize": 393520,
+          "chapter_order": 130
+        },
+        {
+          "chapter_id": 50832,
+          "chapter_title": "4.4卷",
+          "updatetime": 1465381593,
+          "filesize": 515286,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 50831,
+          "chapter_title": "4.3卷",
+          "updatetime": 1465381579,
+          "filesize": 1663572,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 50830,
+          "chapter_title": "4.2卷",
+          "updatetime": 1465381493,
+          "filesize": 6503135,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 50829,
+          "chapter_title": "4.1卷",
+          "updatetime": 1465381456,
+          "filesize": 2219110,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 8164,
+          "chapter_title": "3卷",
+          "updatetime": 1274965726,
+          "filesize": 14488018,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 8163,
+          "chapter_title": "2卷",
+          "updatetime": 1274965718,
+          "filesize": 20745094,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 5266,
+          "chapter_title": "1.4卷",
+          "updatetime": 1270179721,
+          "filesize": 5602349,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 5265,
+          "chapter_title": "1.3卷",
+          "updatetime": 1270179721,
+          "filesize": 5677886,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 5264,
+          "chapter_title": "1.2卷",
+          "updatetime": 1270179721,
+          "filesize": 6865784,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 5263,
+          "chapter_title": "1.1卷",
+          "updatetime": 1270179721,
+          "filesize": 2884947,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 18696219,
+        "uid": 100124115,
+        "content": "我真看不动了，一集比一集糊，眼睛快瞎了",
+        "createtime": 1564212867,
+        "nickname": "☆缭乱★",
+        "avatar": "https://avatar.dmzj.com/16/7e/167e938144084d5ceb14e671b8c45fbf.png"
+      },
+      {
+        "comment_id": 17041614,
+        "uid": 27007903,
+        "content": "天啊，我是要瞎了吗，为什么眼前一片模糊……",
+        "createtime": 1560269503,
+        "nickname": "白水下馒头",
+        "avatar": "https://avatar.dmzj.com/dd/13/dd1394d439839ecb51d71de1afacabf5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

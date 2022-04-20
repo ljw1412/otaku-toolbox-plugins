@@ -1,0 +1,81 @@
+{
+  "id": 20247,
+  "islong": 2,
+  "direction": 2,
+  "title": "神魔坛",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1002685761437743272.jpg",
+  "description": "唯美绘翼第一期",
+  "last_updatetime": 1437743311,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "shenmotan",
+  "hidden": 0,
+  "hot_num": 529,
+  "hit_num": 1714,
+  "uid": 100268576,
+  "is_lock": 0,
+  "last_update_chapter_id": 43426,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10031,
+      "tag_name": "番茄"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43426,
+          "chapter_title": "1话",
+          "updatetime": 1437743311,
+          "filesize": 669222,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1314353,
+        "uid": 101803285,
+        "content": "为什么不接着画下去啊。。",
+        "createtime": 1474887215,
+        "nickname": "格子贝",
+        "avatar": "https://avatar.dmzj.com/97/16/971695c6f990688d8fb48d91f36a3467.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

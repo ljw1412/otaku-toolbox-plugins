@@ -1,0 +1,91 @@
+{
+  "id": 2738,
+  "islong": 2,
+  "direction": 1,
+  "title": "校园迷糊大王Z",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/xiaoyuanmihudawangzfengmianl.jpg",
+  "description": "校园迷糊大王外传",
+  "last_updatetime": 1281324954,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "schoolrumblez",
+  "hidden": 0,
+  "hot_num": 1068275,
+  "hit_num": 7218484,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 10529,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 983,
+      "tag_name": "小林尽"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 6011,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10529,
+          "chapter_title": "1卷",
+          "updatetime": 1281324945,
+          "filesize": 16633738,
+          "chapter_order": 110
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 180,
+    "latest_comment": [
+      {
+        "comment_id": 26998968,
+        "uid": 105017439,
+        "content": "大小姐最高",
+        "createtime": 1588306397,
+        "nickname": "萨拉热窝的一颗子弹",
+        "avatar": "https://avatar.dmzj.com/bc/28/bc28016b5e8b101796d03141b70e5132.png"
+      },
+      {
+        "comment_id": 26711023,
+        "uid": 101403097,
+        "content": "三刷打卡",
+        "createtime": 1587500509,
+        "nickname": "捌雲祤龍",
+        "avatar": "https://avatar.dmzj.com/06/f5/06f5038e38fc857594a64f964057d3f6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

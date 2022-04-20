@@ -1,0 +1,87 @@
+{
+  "id": 27663,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C89)TABGRAPHIC SWORKS",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/TABGRAPHICSWORKSfengmainl.jpg",
+  "description": "Tabgraphics老师的C89画集",
+  "last_updatetime": 1452411337,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "c89tabgraphicsworks",
+  "hidden": 0,
+  "hot_num": 364587,
+  "hit_num": 48568,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 45037,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11203,
+      "tag_name": "Tabgraphics"
+    }
+  ],
+  "subscribe_num": 2474,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45037,
+          "chapter_title": "1话",
+          "updatetime": 1452411337,
+          "filesize": 1325013,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 25774714,
+        "uid": 108120383,
+        "content": "可可爱爱",
+        "createtime": 1585365038,
+        "nickname": "哥布林祭师",
+        "avatar": "https://avatar.dmzj.com/3b/7a/3b7a271fa1221842aa8806bd6df64bc3.png"
+      },
+      {
+        "comment_id": 21117386,
+        "uid": 106020883,
+        "content": "不错啊",
+        "createtime": 1570613701,
+        "nickname": "dmzj_106020883",
+        "avatar": "https://avatar.dmzj.com/60/56/60564e730d6162c75c3e06c8bb5849ad.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

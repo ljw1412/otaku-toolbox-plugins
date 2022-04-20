@@ -1,0 +1,108 @@
+{
+  "id": 2395,
+  "islong": 2,
+  "direction": 1,
+  "title": "街霸之春丽传奇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/01_5514c9968975cafddc6213a5a2b34b5d.jpg",
+  "description": "街霸之春丽传奇",
+  "last_updatetime": 1271214027,
+  "last_update_chapter_name": "CH04",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jietouzhichunlichuanqi",
+  "hidden": 0,
+  "hot_num": 186511,
+  "hit_num": 818369,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 7594,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1455,
+      "tag_name": "udon"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 857,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 7594,
+          "chapter_title": "4话",
+          "updatetime": 1271818827,
+          "filesize": 2609769,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 7593,
+          "chapter_title": "3话",
+          "updatetime": 1271818827,
+          "filesize": 3390054,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 7592,
+          "chapter_title": "2话",
+          "updatetime": 1271818827,
+          "filesize": 2871861,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 7591,
+          "chapter_title": "1话",
+          "updatetime": 1271818827,
+          "filesize": 4086248,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 21019491,
+        "uid": 100867312,
+        "content": "嘉米又出来搞事了",
+        "createtime": 1570415169,
+        "nickname": "姬海棠翌",
+        "avatar": "https://avatar.dmzj.com/52/38/52381bf7aaab8577ce58184bc3757a09.png"
+      },
+      {
+        "comment_id": 20403557,
+        "uid": 109269268,
+        "content": "春丽",
+        "createtime": 1568768884,
+        "nickname": "dmzj_109269268",
+        "avatar": "https://avatar.dmzj.com/ca/e5/cae5c61dfef4b601ab176882326535c9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

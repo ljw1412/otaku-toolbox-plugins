@@ -1,0 +1,91 @@
+{
+  "id": 21252,
+  "islong": 2,
+  "direction": 1,
+  "title": "项羽刘邦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/xiangyuloubangfengmianl.jpg",
+  "description": "李志清经典历史漫画——项羽刘邦",
+  "last_updatetime": 1440910687,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiangyuloiubang",
+  "hidden": 1,
+  "hot_num": 4189,
+  "hit_num": 417205,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 44786,
+  "authors": [
+    {
+      "tag_id": 1460,
+      "tag_name": "李志清"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "subscribe_num": 17,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44786,
+          "chapter_title": "1卷",
+          "updatetime": 1440910687,
+          "filesize": 36948405,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 24220417,
+        "uid": 107860515,
+        "content": "一",
+        "createtime": 1581874672,
+        "nickname": "十庸",
+        "avatar": "https://avatar.dmzj.com/79/b6/79b67b4bdf34de68fb93cd276b15d57f.png"
+      },
+      {
+        "comment_id": 20342554,
+        "uid": 101314131,
+        "content": "oh yeah",
+        "createtime": 1568573484,
+        "nickname": "博儒",
+        "avatar": "https://avatar.dmzj.com/cb/8a/cb8a6d106d2607818599af1b86590bf7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

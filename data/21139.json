@@ -1,0 +1,89 @@
+{
+  "id": 21139,
+  "islong": 2,
+  "direction": 2,
+  "title": "笑傲江湖 风起",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871439970911.jpg",
+  "description": "一壶酒，喝出一段江湖恩怨，一曲笑傲江湖，引起多少纵情弹唱，一把剑，九式破敌，刺破红尘恩怨，一个老人，风清扬，乃笑傲江湖之风起。",
+  "last_updatetime": 1439971049,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiaoaojianghufengqi",
+  "hidden": 0,
+  "hot_num": 6435,
+  "hit_num": 104927,
+  "uid": 100205887,
+  "is_lock": 0,
+  "last_update_chapter_id": 40699,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 29,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40699,
+          "chapter_title": "1话",
+          "updatetime": 1439971049,
+          "filesize": 1736303,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 10942068,
+        "uid": 104775719,
+        "content": "墨飞老师的作品",
+        "createtime": 1549304554,
+        "nickname": "嵇年",
+        "avatar": "https://avatar.dmzj.com/39/49/3949cb0d9b35905967dbb2a1972af853.png"
+      },
+      {
+        "comment_id": 7744886,
+        "uid": 102389386,
+        "content": "画的不错就是分镜差一点火候。而且一五年的作品了 不晓得没继续上传还是腰斩了呢？",
+        "createtime": 1540913100,
+        "nickname": "发桃条子",
+        "avatar": "https://avatar.dmzj.com/df/6e/df6e5f8412f4fdb8e55c32708486f8cc.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

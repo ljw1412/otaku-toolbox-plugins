@@ -1,0 +1,87 @@
+{
+  "id": 2934,
+  "islong": 2,
+  "direction": 1,
+  "title": "刺客列传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/10_53696398b2fe9b560f286ac12115cf6b.jpg",
+  "description": "在中國歷史舞台上，正值春秋戰國的紛爭局面，一個個為主效死的刺客，前仆後繼。在西漢武帝年間，一代史學家司馬遷筆下，一篇篇精彩的刺客遭遇，栩栩如生。在民國74、5年間，鄭問──一個年紀不滿三十的年輕漫畫家，用他的彩色畫筆，使這些千古義士，一一復活…",
+  "last_updatetime": 1273043151,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "cikewaizhuan",
+  "hidden": 1,
+  "hot_num": 20408,
+  "hit_num": 1235858,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 7260,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 648,
+      "tag_name": "郑问"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 86,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 7260,
+          "chapter_title": "1卷",
+          "updatetime": 1273647951,
+          "filesize": 17061866,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 26593659,
+        "uid": 100256556,
+        "content": "郑问郑问郑问",
+        "createtime": 1587178544,
+        "nickname": "mdoefko",
+        "avatar": "https://avatar.dmzj.com/55/82/55824a33a7bca95b6e238cb23fa16c03.png"
+      },
+      {
+        "comment_id": 26437590,
+        "uid": 109272203,
+        "content": "鼹鼠宝库005",
+        "createtime": 1586782619,
+        "nickname": "禾六安",
+        "avatar": "https://avatar.dmzj.com/d2/76/d276474b7b188ac1b271240fd4afe8d9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

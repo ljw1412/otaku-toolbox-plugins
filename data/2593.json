@@ -1,0 +1,94 @@
+{
+  "id": 2593,
+  "islong": 2,
+  "direction": 1,
+  "title": "迷幻少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/021208099_99147.jpg",
+  "description": "1973年手冢治虫大师的作品了，近三十年的漫画，但是现在看起来仍然是那么的好看，大师就是大师，画出的东西都是优品，虽然比不上阿头木那么有名气，但是在短编中却属于绝对优品...",
+  "last_updatetime": 1271749989,
+  "last_update_chapter_name": "2",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mihuanshaonv",
+  "hidden": 1,
+  "hot_num": 58623,
+  "hit_num": 414130,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 6978,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 904,
+      "tag_name": "手冢治虫"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 936,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6978,
+          "chapter_title": "2卷",
+          "updatetime": 1272354789,
+          "filesize": 8266909,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 6977,
+          "chapter_title": "1卷",
+          "updatetime": 1272354789,
+          "filesize": 8401219,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 25744965,
+        "uid": 104815780,
+        "content": "不见了",
+        "createtime": 1585294651,
+        "nickname": "SM周86125",
+        "avatar": "https://avatar.dmzj.com/a3/3b/a33b96213426ba0630936364b6f2b6ac.png"
+      },
+      {
+        "comment_id": 25675991,
+        "uid": 110718720,
+        "content": "过于高产",
+        "createtime": 1585142582,
+        "nickname": "这不膈应人吗",
+        "avatar": "https://avatar.dmzj.com/58/81/5881037ea037aec48db31c40f75120c6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

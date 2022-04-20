@@ -1,0 +1,101 @@
+{
+  "id": 2321,
+  "islong": 2,
+  "direction": 1,
+  "title": "我们的樱桃之恋",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/y01-01_1fce5c342da0e3b08f11eea2a4940dc5.jpg",
+  "description": "暂无",
+  "last_updatetime": 1271060014,
+  "last_update_chapter_name": "CH03",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wmdytzl",
+  "hidden": 0,
+  "hot_num": 221564,
+  "hit_num": 1767939,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 5088,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1437,
+      "tag_name": "八寿子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1287,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 5088,
+          "chapter_title": "3话",
+          "updatetime": 1271664814,
+          "filesize": 4137722,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 5087,
+          "chapter_title": "2话",
+          "updatetime": 1271664814,
+          "filesize": 3193139,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 5086,
+          "chapter_title": "1话",
+          "updatetime": 1271664814,
+          "filesize": 3767728,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 26615194,
+        "uid": 110285205,
+        "content": "这些纯情少年少女太可爱了，这种装作自己很会但其实内在纯得不行的超可爱啊",
+        "createtime": 1587229844,
+        "nickname": "毛茸茸本茸",
+        "avatar": "https://avatar.dmzj.com/b1/eb/b1ebcc2343741ec2b3ff91cd9c7c2a44.png"
+      },
+      {
+        "comment_id": 18938047,
+        "uid": 108038105,
+        "content": "太可爱了。",
+        "createtime": 1564762972,
+        "nickname": "心之所向，追求美好",
+        "avatar": "https://avatar.dmzj.com/90/27/9027c37474c280a7437e003812789906.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 21140,
+  "islong": 2,
+  "direction": 2,
+  "title": "超级萌单",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871439970483.jpg",
+  "description": "小朵终于上七年级了，好紧张啊，一紧张结果......迟到了！结果还害果果一直保持的淑女形象全毁，这下果果会恨死自己了。开心后的第一堂课竟然是－－军训!",
+  "last_updatetime": 1439970842,
+  "last_update_chapter_name": "第02话",
+  "copyright": 1,
+  "first_letter": "c",
+  "comic_py": "chaojimengdan",
+  "hidden": 0,
+  "hot_num": 3176,
+  "hit_num": 31772,
+  "uid": 100205887,
+  "is_lock": 0,
+  "last_update_chapter_id": 44719,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "subscribe_num": 14,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44719,
+          "chapter_title": "2话",
+          "updatetime": 1439970842,
+          "filesize": 849008,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 44718,
+          "chapter_title": "1话",
+          "updatetime": 1439970701,
+          "filesize": 1944782,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 607641,
+        "uid": 100827379,
+        "content": "为什么没有连载了？",
+        "createtime": 1454765681,
+        "nickname": "美妆party",
+        "avatar": "https://avatar.dmzj.com/42/6c/426ca80f2c4ed8d94e4bde293f3c71dd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

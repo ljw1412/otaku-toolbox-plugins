@@ -1,0 +1,88 @@
+{
+  "id": 25810,
+  "islong": 2,
+  "direction": 2,
+  "title": "紫电短篇集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1005844071449126457.jpg",
+  "description": "都是以前画的短篇，故事内容各异，什么类型都有。",
+  "last_updatetime": 1449728924,
+  "last_update_chapter_name": "第02话 书",
+  "copyright": 1,
+  "first_letter": "z",
+  "comic_py": "zidianduanpianji",
+  "hidden": 0,
+  "hot_num": 2039,
+  "hit_num": 20349,
+  "uid": 100584407,
+  "is_lock": 0,
+  "last_update_chapter_id": 48598,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11038,
+      "tag_name": "紫电"
+    }
+  ],
+  "subscribe_num": 19,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48598,
+          "chapter_title": "2话",
+          "updatetime": 1449728924,
+          "filesize": 1508365,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 48476,
+          "chapter_title": "1话",
+          "updatetime": 1449197871,
+          "filesize": 1301068,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "新浪微博叫“北辰紫电”，微博地址：http://weibo.com/2951625970",
+  "comic_notice": "新浪微博叫“北辰紫电”，微博地址：http://weibo.com/2951625970",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 537380,
+        "uid": 100323989,
+        "content": "男包万",
+        "createtime": 1449759695,
+        "nickname": "♚₯㎕ Amour╮摩羯座",
+        "avatar": "https://avatar.dmzj.com/d3/87/d387ecbd0130a332433bed550aa7236c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

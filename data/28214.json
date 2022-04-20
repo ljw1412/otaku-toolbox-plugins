@@ -1,0 +1,84 @@
+{
+  "id": 28214,
+  "islong": 2,
+  "direction": 1,
+  "title": "蝙蝠侠：终而复始",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/bianfuxiazhongerfushifengmianl.jpg",
+  "description": "当年布鲁斯还是个热爱生活偶尔卖萌的大好青年，直到他再度遇见杀害自己父母的凶手乔·切尔……",
+  "last_updatetime": 1565351085,
+  "last_update_chapter_name": "1卷完",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bianfuxiazhongerfushi",
+  "hidden": 0,
+  "hot_num": 18616,
+  "hit_num": 103357,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 87677,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 139,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87677,
+          "chapter_title": "1卷",
+          "updatetime": 1565351085,
+          "filesize": 13130118,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 45773,
+          "chapter_title": "2卷",
+          "updatetime": 1452918755,
+          "filesize": 14575329,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 45772,
+          "chapter_title": "1卷",
+          "updatetime": 1452918670,
+          "filesize": 14215193,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

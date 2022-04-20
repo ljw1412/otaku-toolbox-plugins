@@ -1,0 +1,89 @@
+{
+  "id": 21440,
+  "islong": 2,
+  "direction": 2,
+  "title": "动物世界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1003571131441094336.jpg",
+  "description": "动物世界",
+  "last_updatetime": 1441094349,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "d",
+  "comic_py": "dongwushijie",
+  "hidden": 0,
+  "hot_num": 2043,
+  "hit_num": 8289,
+  "uid": 100357113,
+  "is_lock": 0,
+  "last_update_chapter_id": 45361,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10537,
+      "tag_name": "木木树文化"
+    }
+  ],
+  "subscribe_num": 9,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45361,
+          "chapter_title": "1话",
+          "updatetime": 1441094349,
+          "filesize": 227702,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 11975618,
+        "uid": 104394661,
+        "content": "蛤蛤蛤蛤蛤蛤",
+        "createtime": 1551147548,
+        "nickname": "朝闻道27933",
+        "avatar": "https://avatar.dmzj.com/16/ff/16ff2292a52ab283d3a5adc5452fd272.png"
+      },
+      {
+        "comment_id": 11834864,
+        "uid": 104271991,
+        "content": "真的是动物世界啊，哈哈哈哈哈哈xswl",
+        "createtime": 1550877027,
+        "nickname": "我才知道能改名",
+        "avatar": "https://avatar.dmzj.com/19/37/1937731a9556c9e8db6c8729f513b851.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

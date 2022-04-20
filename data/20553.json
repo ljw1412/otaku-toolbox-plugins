@@ -1,0 +1,103 @@
+{
+  "id": 20553,
+  "islong": 2,
+  "direction": 2,
+  "title": "瓶邪",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1002822211438251922.jpg",
+  "description": "瓶邪",
+  "last_updatetime": 1438252010,
+  "last_update_chapter_name": "第03话",
+  "copyright": 1,
+  "first_letter": "p",
+  "comic_py": "pingxiesyxz",
+  "hidden": 0,
+  "hot_num": 19611,
+  "hit_num": 108981,
+  "uid": 100282221,
+  "is_lock": 0,
+  "last_update_chapter_id": 39756,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10081,
+      "tag_name": "十月息者"
+    }
+  ],
+  "subscribe_num": 148,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39756,
+          "chapter_title": "3话",
+          "updatetime": 1438252010,
+          "filesize": 309025,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 39755,
+          "chapter_title": "2话",
+          "updatetime": 1438251988,
+          "filesize": 129403,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 39754,
+          "chapter_title": "1话",
+          "updatetime": 1438251961,
+          "filesize": 209328,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 955758,
+        "uid": 101573747,
+        "content": "为什么不更了？",
+        "createtime": 1467178106,
+        "nickname": "老陈醋",
+        "avatar": "https://avatar.dmzj.com/9d/e0/9de0ff6cd8e7f739d3cb20fb9aeaf989.png"
+      },
+      {
+        "comment_id": 444873,
+        "uid": 100175721,
+        "content": "...哈哈哈",
+        "createtime": 1438697002,
+        "nickname": "浅曦、",
+        "avatar": "https://avatar.dmzj.com/41/66/4166d0e69a38b1c53f3753a4538d40ad.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

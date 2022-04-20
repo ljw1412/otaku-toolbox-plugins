@@ -1,0 +1,844 @@
+{
+  "id": 27458,
+  "islong": 2,
+  "direction": 1,
+  "title": "我的氪金女友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/kegejinnvyou.jpg",
+  "description": "平凡无奇的智能手机，却带来一次相遇，漂亮的黑发，傲人的身姿，是约会么？当然不是……",
+  "last_updatetime": 1570530125,
+  "last_update_chapter_name": "四格番外40",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "shihesjizhuangbideta",
+  "hidden": 1,
+  "hot_num": 20424855,
+  "hit_num": 65388008,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 89005,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3249,
+      "tag_name": "后宫"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11188,
+      "tag_name": "近江のこ"
+    }
+  ],
+  "subscribe_num": 111600,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89005,
+          "chapter_title": "四格番外40",
+          "updatetime": 1570530125,
+          "filesize": 1713905,
+          "chapter_order": 1090
+        },
+        {
+          "chapter_id": 87723,
+          "chapter_title": "37.1话",
+          "updatetime": 1567233465,
+          "filesize": 3463040,
+          "chapter_order": 1080
+        },
+        {
+          "chapter_id": 84662,
+          "chapter_title": "四格番外39",
+          "updatetime": 1559751093,
+          "filesize": 989721,
+          "chapter_order": 1070
+        },
+        {
+          "chapter_id": 81974,
+          "chapter_title": "36.2话",
+          "updatetime": 1551858622,
+          "filesize": 3374825,
+          "chapter_order": 1060
+        },
+        {
+          "chapter_id": 81873,
+          "chapter_title": "四格番外38",
+          "updatetime": 1551628604,
+          "filesize": 837195,
+          "chapter_order": 1050
+        },
+        {
+          "chapter_id": 81753,
+          "chapter_title": "36.1话",
+          "updatetime": 1551275136,
+          "filesize": 3334682,
+          "chapter_order": 1040
+        },
+        {
+          "chapter_id": 81613,
+          "chapter_title": "四格番外37",
+          "updatetime": 1550935653,
+          "filesize": 1510835,
+          "chapter_order": 1030
+        },
+        {
+          "chapter_id": 81470,
+          "chapter_title": "35.2话",
+          "updatetime": 1550584595,
+          "filesize": 2907816,
+          "chapter_order": 1020
+        },
+        {
+          "chapter_id": 80833,
+          "chapter_title": "四格番外36",
+          "updatetime": 1549006134,
+          "filesize": 391299,
+          "chapter_order": 1010
+        },
+        {
+          "chapter_id": 79893,
+          "chapter_title": "35.1话",
+          "updatetime": 1546529044,
+          "filesize": 2575949,
+          "chapter_order": 1000
+        },
+        {
+          "chapter_id": 79428,
+          "chapter_title": "四格番外35",
+          "updatetime": 1545148891,
+          "filesize": 517988,
+          "chapter_order": 990
+        },
+        {
+          "chapter_id": 77882,
+          "chapter_title": "34.2话",
+          "updatetime": 1541692192,
+          "filesize": 2225164,
+          "chapter_order": 980
+        },
+        {
+          "chapter_id": 77712,
+          "chapter_title": "四格番外34",
+          "updatetime": 1541257370,
+          "filesize": 947874,
+          "chapter_order": 970
+        },
+        {
+          "chapter_id": 77628,
+          "chapter_title": "34话",
+          "updatetime": 1540999012,
+          "filesize": 1562533,
+          "chapter_order": 960
+        },
+        {
+          "chapter_id": 75373,
+          "chapter_title": "33话",
+          "updatetime": 1535105836,
+          "filesize": 3053146,
+          "chapter_order": 950
+        },
+        {
+          "chapter_id": 73668,
+          "chapter_title": "32.4话",
+          "updatetime": 1531645200,
+          "filesize": 2886485,
+          "chapter_order": 940
+        },
+        {
+          "chapter_id": 73588,
+          "chapter_title": "32.3话",
+          "updatetime": 1531413075,
+          "filesize": 1954552,
+          "chapter_order": 930
+        },
+        {
+          "chapter_id": 73324,
+          "chapter_title": "32.2话",
+          "updatetime": 1530928872,
+          "filesize": 1508272,
+          "chapter_order": 920
+        },
+        {
+          "chapter_id": 73214,
+          "chapter_title": "32.1话",
+          "updatetime": 1530669436,
+          "filesize": 4239181,
+          "chapter_order": 910
+        },
+        {
+          "chapter_id": 71012,
+          "chapter_title": "四格番外33",
+          "updatetime": 1525657933,
+          "filesize": 906738,
+          "chapter_order": 900
+        },
+        {
+          "chapter_id": 70949,
+          "chapter_title": "31.3话",
+          "updatetime": 1525485318,
+          "filesize": 2222748,
+          "chapter_order": 890
+        },
+        {
+          "chapter_id": 70826,
+          "chapter_title": "31.2话",
+          "updatetime": 1525273416,
+          "filesize": 2129471,
+          "chapter_order": 880
+        },
+        {
+          "chapter_id": 69166,
+          "chapter_title": "番外篇06",
+          "updatetime": 1521643708,
+          "filesize": 586740,
+          "chapter_order": 870
+        },
+        {
+          "chapter_id": 69165,
+          "chapter_title": "31话",
+          "updatetime": 1521643676,
+          "filesize": 2240087,
+          "chapter_order": 860
+        },
+        {
+          "chapter_id": 69164,
+          "chapter_title": "四格番外32",
+          "updatetime": 1521643643,
+          "filesize": 945505,
+          "chapter_order": 850
+        },
+        {
+          "chapter_id": 69104,
+          "chapter_title": "30话",
+          "updatetime": 1521474953,
+          "filesize": 2600192,
+          "chapter_order": 840
+        },
+        {
+          "chapter_id": 68093,
+          "chapter_title": "四格番外31",
+          "updatetime": 1518969406,
+          "filesize": 887430,
+          "chapter_order": 830
+        },
+        {
+          "chapter_id": 68055,
+          "chapter_title": "29话",
+          "updatetime": 1518774332,
+          "filesize": 5465532,
+          "chapter_order": 820
+        },
+        {
+          "chapter_id": 67369,
+          "chapter_title": "四格番外30",
+          "updatetime": 1517042208,
+          "filesize": 651069,
+          "chapter_order": 810
+        },
+        {
+          "chapter_id": 67226,
+          "chapter_title": "28.3话",
+          "updatetime": 1516771328,
+          "filesize": 3881627,
+          "chapter_order": 800
+        },
+        {
+          "chapter_id": 66994,
+          "chapter_title": "28.2话",
+          "updatetime": 1516262312,
+          "filesize": 1427763,
+          "chapter_order": 790
+        },
+        {
+          "chapter_id": 66939,
+          "chapter_title": "28话",
+          "updatetime": 1516118135,
+          "filesize": 2329901,
+          "chapter_order": 780
+        },
+        {
+          "chapter_id": 64956,
+          "chapter_title": "四格番外29",
+          "updatetime": 1510760351,
+          "filesize": 761484,
+          "chapter_order": 770
+        },
+        {
+          "chapter_id": 64842,
+          "chapter_title": "27.2话",
+          "updatetime": 1510453178,
+          "filesize": 3802312,
+          "chapter_order": 760
+        },
+        {
+          "chapter_id": 64816,
+          "chapter_title": "四格番外28",
+          "updatetime": 1510329402,
+          "filesize": 755237,
+          "chapter_order": 750
+        },
+        {
+          "chapter_id": 64759,
+          "chapter_title": "27话",
+          "updatetime": 1510206241,
+          "filesize": 2831440,
+          "chapter_order": 740
+        },
+        {
+          "chapter_id": 64479,
+          "chapter_title": "四格番外27",
+          "updatetime": 1509372305,
+          "filesize": 693208,
+          "chapter_order": 730
+        },
+        {
+          "chapter_id": 64430,
+          "chapter_title": "26.2话",
+          "updatetime": 1509119712,
+          "filesize": 2222494,
+          "chapter_order": 720
+        },
+        {
+          "chapter_id": 64359,
+          "chapter_title": "26.1话",
+          "updatetime": 1508946059,
+          "filesize": 2820502,
+          "chapter_order": 710
+        },
+        {
+          "chapter_id": 64248,
+          "chapter_title": "番外篇05",
+          "updatetime": 1508688169,
+          "filesize": 1245238,
+          "chapter_order": 700
+        },
+        {
+          "chapter_id": 64196,
+          "chapter_title": "四格番外26",
+          "updatetime": 1508514271,
+          "filesize": 1002019,
+          "chapter_order": 690
+        },
+        {
+          "chapter_id": 64106,
+          "chapter_title": "26话",
+          "updatetime": 1508341933,
+          "filesize": 3209721,
+          "chapter_order": 680
+        },
+        {
+          "chapter_id": 63978,
+          "chapter_title": "四格番外25",
+          "updatetime": 1507973567,
+          "filesize": 629780,
+          "chapter_order": 670
+        },
+        {
+          "chapter_id": 63937,
+          "chapter_title": "25.1话",
+          "updatetime": 1507807772,
+          "filesize": 3106037,
+          "chapter_order": 660
+        },
+        {
+          "chapter_id": 63504,
+          "chapter_title": "四格番外24",
+          "updatetime": 1506419981,
+          "filesize": 884457,
+          "chapter_order": 650
+        },
+        {
+          "chapter_id": 63439,
+          "chapter_title": "25话",
+          "updatetime": 1506247666,
+          "filesize": 2253405,
+          "chapter_order": 640
+        },
+        {
+          "chapter_id": 63409,
+          "chapter_title": "四格番外23",
+          "updatetime": 1506095224,
+          "filesize": 640238,
+          "chapter_order": 630
+        },
+        {
+          "chapter_id": 63314,
+          "chapter_title": "24话",
+          "updatetime": 1505964840,
+          "filesize": 4833082,
+          "chapter_order": 620
+        },
+        {
+          "chapter_id": 63037,
+          "chapter_title": "23话",
+          "updatetime": 1504971615,
+          "filesize": 2449587,
+          "chapter_order": 610
+        },
+        {
+          "chapter_id": 62824,
+          "chapter_title": "四格番外22",
+          "updatetime": 1504361522,
+          "filesize": 850407,
+          "chapter_order": 600
+        },
+        {
+          "chapter_id": 62800,
+          "chapter_title": "22话",
+          "updatetime": 1504259673,
+          "filesize": 2702053,
+          "chapter_order": 590
+        },
+        {
+          "chapter_id": 62491,
+          "chapter_title": "四格番外21",
+          "updatetime": 1503417265,
+          "filesize": 807591,
+          "chapter_order": 580
+        },
+        {
+          "chapter_id": 62464,
+          "chapter_title": "21话",
+          "updatetime": 1503324726,
+          "filesize": 3266039,
+          "chapter_order": 570
+        },
+        {
+          "chapter_id": 62413,
+          "chapter_title": "四格番外20",
+          "updatetime": 1503228609,
+          "filesize": 895263,
+          "chapter_order": 560
+        },
+        {
+          "chapter_id": 62390,
+          "chapter_title": "20话",
+          "updatetime": 1503124062,
+          "filesize": 5052914,
+          "chapter_order": 550
+        },
+        {
+          "chapter_id": 62213,
+          "chapter_title": "四格番外19",
+          "updatetime": 1502510712,
+          "filesize": 826613,
+          "chapter_order": 540
+        },
+        {
+          "chapter_id": 62164,
+          "chapter_title": "19话",
+          "updatetime": 1502416088,
+          "filesize": 2487386,
+          "chapter_order": 530
+        },
+        {
+          "chapter_id": 61518,
+          "chapter_title": "四格番外18",
+          "updatetime": 1500687023,
+          "filesize": 1130378,
+          "chapter_order": 520
+        },
+        {
+          "chapter_id": 61466,
+          "chapter_title": "18话",
+          "updatetime": 1500566752,
+          "filesize": 3258751,
+          "chapter_order": 510
+        },
+        {
+          "chapter_id": 60657,
+          "chapter_title": "17话",
+          "updatetime": 1498205903,
+          "filesize": 1926162,
+          "chapter_order": 500
+        },
+        {
+          "chapter_id": 59997,
+          "chapter_title": "四格番外17",
+          "updatetime": 1496059411,
+          "filesize": 911967,
+          "chapter_order": 490
+        },
+        {
+          "chapter_id": 59981,
+          "chapter_title": "16话",
+          "updatetime": 1495961604,
+          "filesize": 2912793,
+          "chapter_order": 480
+        },
+        {
+          "chapter_id": 59527,
+          "chapter_title": "四格番外16",
+          "updatetime": 1494664621,
+          "filesize": 574991,
+          "chapter_order": 470
+        },
+        {
+          "chapter_id": 59498,
+          "chapter_title": "15话",
+          "updatetime": 1494557323,
+          "filesize": 2230074,
+          "chapter_order": 460
+        },
+        {
+          "chapter_id": 58057,
+          "chapter_title": "四格番外15",
+          "updatetime": 1489909505,
+          "filesize": 977074,
+          "chapter_order": 450
+        },
+        {
+          "chapter_id": 58036,
+          "chapter_title": "14.3话",
+          "updatetime": 1489810740,
+          "filesize": 4098397,
+          "chapter_order": 440
+        },
+        {
+          "chapter_id": 55632,
+          "chapter_title": "14.2话",
+          "updatetime": 1481426841,
+          "filesize": 3258765,
+          "chapter_order": 430
+        },
+        {
+          "chapter_id": 55466,
+          "chapter_title": "四格番外14",
+          "updatetime": 1480751893,
+          "filesize": 756743,
+          "chapter_order": 420
+        },
+        {
+          "chapter_id": 55360,
+          "chapter_title": "番外篇04",
+          "updatetime": 1480408321,
+          "filesize": 573888,
+          "chapter_order": 410
+        },
+        {
+          "chapter_id": 55336,
+          "chapter_title": "14话",
+          "updatetime": 1480298563,
+          "filesize": 2632036,
+          "chapter_order": 400
+        },
+        {
+          "chapter_id": 55084,
+          "chapter_title": "四格番外13",
+          "updatetime": 1479381720,
+          "filesize": 893207,
+          "chapter_order": 390
+        },
+        {
+          "chapter_id": 55069,
+          "chapter_title": "番外篇03",
+          "updatetime": 1479309395,
+          "filesize": 724272,
+          "chapter_order": 380
+        },
+        {
+          "chapter_id": 54895,
+          "chapter_title": "13话",
+          "updatetime": 1478705797,
+          "filesize": 2421452,
+          "chapter_order": 360
+        },
+        {
+          "chapter_id": 54617,
+          "chapter_title": "四格番外12",
+          "updatetime": 1477669254,
+          "filesize": 653821,
+          "chapter_order": 350
+        },
+        {
+          "chapter_id": 54577,
+          "chapter_title": "12话",
+          "updatetime": 1477573272,
+          "filesize": 3654715,
+          "chapter_order": 340
+        },
+        {
+          "chapter_id": 54227,
+          "chapter_title": "四格番外11",
+          "updatetime": 1476459205,
+          "filesize": 639712,
+          "chapter_order": 330
+        },
+        {
+          "chapter_id": 53861,
+          "chapter_title": "11话",
+          "updatetime": 1475330450,
+          "filesize": 3139550,
+          "chapter_order": 320
+        },
+        {
+          "chapter_id": 53686,
+          "chapter_title": "四格番外10",
+          "updatetime": 1474792070,
+          "filesize": 587764,
+          "chapter_order": 310
+        },
+        {
+          "chapter_id": 53668,
+          "chapter_title": "10.1话",
+          "updatetime": 1474728347,
+          "filesize": 2959640,
+          "chapter_order": 300
+        },
+        {
+          "chapter_id": 53354,
+          "chapter_title": "四格番外9",
+          "updatetime": 1473679451,
+          "filesize": 848805,
+          "chapter_order": 290
+        },
+        {
+          "chapter_id": 53324,
+          "chapter_title": "10话",
+          "updatetime": 1473605327,
+          "filesize": 2599796,
+          "chapter_order": 280
+        },
+        {
+          "chapter_id": 52917,
+          "chapter_title": "四格番外8",
+          "updatetime": 1472474820,
+          "filesize": 892028,
+          "chapter_order": 270
+        },
+        {
+          "chapter_id": 52702,
+          "chapter_title": "10话",
+          "updatetime": 1471791511,
+          "filesize": 2209677,
+          "chapter_order": 260
+        },
+        {
+          "chapter_id": 52523,
+          "chapter_title": "四格番外7",
+          "updatetime": 1471188648,
+          "filesize": 779339,
+          "chapter_order": 250
+        },
+        {
+          "chapter_id": 52357,
+          "chapter_title": "9.3话",
+          "updatetime": 1470709703,
+          "filesize": 2902981,
+          "chapter_order": 240
+        },
+        {
+          "chapter_id": 51881,
+          "chapter_title": "9.2话",
+          "updatetime": 1469413162,
+          "filesize": 2622229,
+          "chapter_order": 230
+        },
+        {
+          "chapter_id": 51603,
+          "chapter_title": "休刊番外02",
+          "updatetime": 1468684824,
+          "filesize": 1320858,
+          "chapter_order": 220
+        },
+        {
+          "chapter_id": 51376,
+          "chapter_title": "四格番外6",
+          "updatetime": 1468157309,
+          "filesize": 766575,
+          "chapter_order": 210
+        },
+        {
+          "chapter_id": 51345,
+          "chapter_title": "9话",
+          "updatetime": 1467983959,
+          "filesize": 2692723,
+          "chapter_order": 200
+        },
+        {
+          "chapter_id": 50844,
+          "chapter_title": "四格番外5",
+          "updatetime": 1466863643,
+          "filesize": 787488,
+          "chapter_order": 190
+        },
+        {
+          "chapter_id": 50625,
+          "chapter_title": "8话",
+          "updatetime": 1466477260,
+          "filesize": 2987871,
+          "chapter_order": 180
+        },
+        {
+          "chapter_id": 50148,
+          "chapter_title": "休刊番外",
+          "updatetime": 1465477475,
+          "filesize": 478562,
+          "chapter_order": 170
+        },
+        {
+          "chapter_id": 50075,
+          "chapter_title": "四格番外4",
+          "updatetime": 1465288284,
+          "filesize": 1674433,
+          "chapter_order": 160
+        },
+        {
+          "chapter_id": 49856,
+          "chapter_title": "7.3话",
+          "updatetime": 1464798332,
+          "filesize": 2989931,
+          "chapter_order": 150
+        },
+        {
+          "chapter_id": 49383,
+          "chapter_title": "四格番外3",
+          "updatetime": 1463766727,
+          "filesize": 1782478,
+          "chapter_order": 140
+        },
+        {
+          "chapter_id": 49338,
+          "chapter_title": "7.2话",
+          "updatetime": 1463636466,
+          "filesize": 3332490,
+          "chapter_order": 130
+        },
+        {
+          "chapter_id": 48886,
+          "chapter_title": "四格番外2",
+          "updatetime": 1463636448,
+          "filesize": 668077,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 48715,
+          "chapter_title": "7话",
+          "updatetime": 1463636431,
+          "filesize": 3090117,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 48295,
+          "chapter_title": "6.3话",
+          "updatetime": 1463636407,
+          "filesize": 2278193,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 47818,
+          "chapter_title": "6.2话",
+          "updatetime": 1463636384,
+          "filesize": 3132115,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 47272,
+          "chapter_title": "6话",
+          "updatetime": 1463636367,
+          "filesize": 3641630,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 46816,
+          "chapter_title": "5.1话",
+          "updatetime": 1463636346,
+          "filesize": 3203443,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 46197,
+          "chapter_title": "5话",
+          "updatetime": 1455729295,
+          "filesize": 3073888,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 45965,
+          "chapter_title": "4话",
+          "updatetime": 1454755070,
+          "filesize": 1714130,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 45537,
+          "chapter_title": "3话",
+          "updatetime": 1463636326,
+          "filesize": 4283938,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 45047,
+          "chapter_title": "2话",
+          "updatetime": 1463636309,
+          "filesize": 2594884,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 45031,
+          "chapter_title": "1.1话",
+          "updatetime": 1463636290,
+          "filesize": 3975729,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 44944,
+          "chapter_title": "1话",
+          "updatetime": 1463636269,
+          "filesize": 3813854,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8825,
+    "latest_comment": [
+      {
+        "comment_id": 27072745,
+        "uid": 110361387,
+        "content": "吾は座標の力で、この地に吾の足跡を残す。このコラムは、吾等がかつてこの地を征服したことを警告している。未来の霧を切り、茫漠とした茨を切り、点々の明かりでここに来た人を導き、虚妄の迷宮を出て、世界の本質を見抜く。",
+        "createtime": 1588515335,
+        "nickname": "dmzj_110361387",
+        "avatar": "https://avatar.dmzj.com/3f/d9/3fd93dc8fabf89ee8fe61df0c456084e.png"
+      },
+      {
+        "comment_id": 27057031,
+        "uid": 100782805,
+        "content": "已经好久没更新了吗",
+        "createtime": 1588472617,
+        "nickname": "菠萝吹雪52940",
+        "avatar": "https://avatar.dmzj.com/ac/08/ac089023315b7186b3c38981c9434cc7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

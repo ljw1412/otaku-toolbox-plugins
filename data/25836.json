@@ -1,0 +1,87 @@
+{
+  "id": 25836,
+  "islong": 2,
+  "direction": 1,
+  "title": "吃撑与加贺的同人本",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/chichenghejiaheetongrenwen.jpg",
+  "description": "赤城和加贺的同人本",
+  "last_updatetime": 1449547619,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chichenghejiahedetongrenben",
+  "hidden": 0,
+  "hot_num": 1312171,
+  "hit_num": 66044,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 45928,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8861,
+      "tag_name": "猫村"
+    }
+  ],
+  "subscribe_num": 5473,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45928,
+          "chapter_title": "1话",
+          "updatetime": 1449547619,
+          "filesize": 313973,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 47,
+    "latest_comment": [
+      {
+        "comment_id": 26996663,
+        "uid": 110844327,
+        "content": "删页了",
+        "createtime": 1588298994,
+        "nickname": "Delisa",
+        "avatar": "https://avatar.dmzj.com/85/03/850369bf21be3cb5524c7d03fcd778ba.png"
+      },
+      {
+        "comment_id": 26972620,
+        "uid": 110799567,
+        "content": "留",
+        "createtime": 1588241276,
+        "nickname": "dmzj_110799567",
+        "avatar": "https://avatar.dmzj.com/ef/09/ef0945727539bab2cf20bb3c0b1dd7cf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

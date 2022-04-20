@@ -1,0 +1,72 @@
+{
+  "id": 21441,
+  "islong": 2,
+  "direction": 2,
+  "title": "我们的家",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1003571131441097010.jpg",
+  "description": "我们的家",
+  "last_updatetime": 1441097026,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "w",
+  "comic_py": "womendejiamm",
+  "hidden": 0,
+  "hot_num": 673,
+  "hit_num": 2674,
+  "uid": 100357113,
+  "is_lock": 0,
+  "last_update_chapter_id": 42871,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10537,
+      "tag_name": "木木树文化"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42871,
+          "chapter_title": "1话",
+          "updatetime": 1441097026,
+          "filesize": 549159,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,89 @@
+{
+  "id": 22821,
+  "islong": 2,
+  "direction": 2,
+  "title": "喜笑颜开",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446020819.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446020832,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xixiaoyankai",
+  "hidden": 0,
+  "hot_num": 1263,
+  "hit_num": 5450,
+  "uid": 100469239,
+  "is_lock": 0,
+  "last_update_chapter_id": 44494,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44494,
+          "chapter_title": "1话",
+          "updatetime": 1446020832,
+          "filesize": 914053,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 10338068,
+        "uid": 104742007,
+        "content": "求颜开老师的作品",
+        "createtime": 1548068342,
+        "nickname": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+        "avatar": "https://avatar.dmzj.com/59/9a/599a3c9fac6b25db65ee7ceb63372553.png"
+      },
+      {
+        "comment_id": 7843300,
+        "uid": 101572708,
+        "content": "有没有颜开的雪椰？",
+        "createtime": 1541259914,
+        "nickname": "TaburissMY",
+        "avatar": "https://avatar.dmzj.com/d1/a9/d1a9977beeab09a1ada31a209edeb328.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

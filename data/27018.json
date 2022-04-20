@@ -1,0 +1,87 @@
+{
+  "id": 27018,
+  "islong": 2,
+  "direction": 1,
+  "title": "愚者乐园",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/001yuzheleyuan12252x.jpg",
+  "description": "一场血案，以及一部3D游戏……",
+  "last_updatetime": 1451050535,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yuzheleyuan",
+  "hidden": 0,
+  "hot_num": 114999,
+  "hit_num": 55712,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 44556,
+  "authors": [
+    {
+      "tag_id": 2162,
+      "tag_name": "筒井哲也"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "subscribe_num": 705,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44556,
+          "chapter_title": "1话",
+          "updatetime": 1451050535,
+          "filesize": 1831778,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 25746101,
+        "uid": 101946644,
+        "content": "有意思",
+        "createtime": 1585297449,
+        "nickname": "HqAsam",
+        "avatar": "https://avatar.dmzj.com/20/52/2052368fda8d0aaac6e021479fbb5721.png"
+      },
+      {
+        "comment_id": 25666201,
+        "uid": 108659773,
+        "content": "完食",
+        "createtime": 1585117902,
+        "nickname": "滴嘟滴嘟滴嘟",
+        "avatar": "https://avatar.dmzj.com/10/90/1090d031cbc99f9690ebf87c9449ccd3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,89 @@
+{
+  "id": 22351,
+  "islong": 2,
+  "direction": 2,
+  "title": "萝莉的生日",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445927509.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445927536,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "l",
+  "comic_py": "luolideshengri",
+  "hidden": 0,
+  "hot_num": 1909,
+  "hit_num": 15900,
+  "uid": 100469239,
+  "is_lock": 0,
+  "last_update_chapter_id": 44374,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44374,
+          "chapter_title": "1话",
+          "updatetime": 1445927536,
+          "filesize": 805622,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 11713079,
+        "uid": 105000514,
+        "content": "我在找萝莉的时间",
+        "createtime": 1550658547,
+        "nickname": "qzuser33381176",
+        "avatar": "https://avatar.dmzj.com/3f/0a/3f0ad2b272ac17f9066589908c0d4c6e.png"
+      },
+      {
+        "comment_id": 9586273,
+        "uid": 105069703,
+        "content": "有萝莉的时间吗",
+        "createtime": 1546354826,
+        "nickname": "琥i",
+        "avatar": "https://avatar.dmzj.com/36/63/3663a4725a6e4c09eb6f4fd4811049a8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

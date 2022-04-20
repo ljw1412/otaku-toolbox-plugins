@@ -1,0 +1,81 @@
+{
+  "id": 23162,
+  "islong": 2,
+  "direction": 2,
+  "title": "终成眷属",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446447455.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446447529,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "z",
+  "comic_py": "zhongchengjuanshu",
+  "hidden": 0,
+  "hot_num": 1133,
+  "hit_num": 8238,
+  "uid": 100469239,
+  "is_lock": 0,
+  "last_update_chapter_id": 46925,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46925,
+          "chapter_title": "1话",
+          "updatetime": 1446447529,
+          "filesize": 638824,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 3033811,
+        "uid": 105363002,
+        "content": "千万别被封面骗进来啊",
+        "createtime": 1507194703,
+        "nickname": "紫菜苍穹31275",
+        "avatar": "https://avatar.dmzj.com/f1/4b/f14b22c75e09b349a30060c0676849f0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

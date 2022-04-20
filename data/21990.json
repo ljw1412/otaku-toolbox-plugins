@@ -1,0 +1,91 @@
+{
+  "id": 21990,
+  "islong": 2,
+  "direction": 1,
+  "title": "匣中织梦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/xiazhongzhimengfengmianl.jpg",
+  "description": "唯野影吉C87最上型漫画",
+  "last_updatetime": 1445747308,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiazhongzhimeng",
+  "hidden": 0,
+  "hot_num": 46137,
+  "hit_num": 151801,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 46747,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5949,
+      "tag_name": "唯野影吉"
+    }
+  ],
+  "subscribe_num": 329,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46747,
+          "chapter_title": "1话",
+          "updatetime": 1445747308,
+          "filesize": 3075824,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 25336933,
+        "uid": 108348453,
+        "content": "神作",
+        "createtime": 1584373849,
+        "nickname": "Ōyodo",
+        "avatar": "https://avatar.dmzj.com/10/03/100311f7253f3a1d7de751b0a577f142.png"
+      },
+      {
+        "comment_id": 19232402,
+        "uid": 104364175,
+        "content": "这个是真的黑了吧",
+        "createtime": 1565436343,
+        "nickname": "骷髅王113",
+        "avatar": "https://avatar.dmzj.com/35/75/3575cebfb278faaa2adfcc82731669f2.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

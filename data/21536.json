@@ -1,0 +1,100 @@
+{
+  "id": 21536,
+  "islong": 2,
+  "direction": 1,
+  "title": "那天我捡到两只兔子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1003790241442382303.jpg",
+  "description": "之前画的Gintama同人",
+  "last_updatetime": 1447419974,
+  "last_update_chapter_name": "第02话 中国风无论何时看起来都那么带感",
+  "copyright": 1,
+  "first_letter": "n",
+  "comic_py": "natianwojiandaoliangzhituzi",
+  "hidden": 0,
+  "hot_num": 40624,
+  "hit_num": 305968,
+  "uid": 100379024,
+  "is_lock": 0,
+  "last_update_chapter_id": 45224,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10581,
+      "tag_name": "辛流穗"
+    }
+  ],
+  "subscribe_num": 153,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45224,
+          "chapter_title": "2话",
+          "updatetime": 1447419974,
+          "filesize": 462015,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 43068,
+          "chapter_title": "1话",
+          "updatetime": 1442382888,
+          "filesize": 1267039,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "漫画新人，请多支持",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 21532654,
+        "uid": 109499459,
+        "content": "几百年了",
+        "createtime": 1571653755,
+        "nickname": "空樱酱",
+        "avatar": "https://avatar.dmzj.com/57/33/573357ba16d58577159cd895f106ab63.png"
+      },
+      {
+        "comment_id": 18373015,
+        "uid": 109310557,
+        "content": "被封面引进来，原来是同人，很像哦(ง •̀_•́)ง",
+        "createtime": 1563453953,
+        "nickname": "陆鸽集",
+        "avatar": "https://avatar.dmzj.com/e6/67/e667b67a86cfae5a1b89ba6edeec0df7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

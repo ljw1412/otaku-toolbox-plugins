@@ -1,0 +1,89 @@
+{
+  "id": 23283,
+  "islong": 2,
+  "direction": 2,
+  "title": "天降之物砸我吧",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446199773.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446199791,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "t",
+  "comic_py": "tianjiangzhiwuzawoba",
+  "hidden": 0,
+  "hot_num": 42375,
+  "hit_num": 396229,
+  "uid": 100469239,
+  "is_lock": 0,
+  "last_update_chapter_id": 42770,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 123,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42770,
+          "chapter_title": "1话",
+          "updatetime": 1446199791,
+          "filesize": 635997,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 236,
+    "latest_comment": [
+      {
+        "comment_id": 26323246,
+        "uid": 108122156,
+        "content": "另外漫画晚上8点左右才能看，白天看不了！！！",
+        "createtime": 1586533340,
+        "nickname": "涯系小菜鸟",
+        "avatar": "https://avatar.dmzj.com/18/38/1838d9d10f72a8a9c5d3819097c6d553.png"
+      },
+      {
+        "comment_id": 25016584,
+        "uid": 110387724,
+        "content": "不会",
+        "createtime": 1583640739,
+        "nickname": "hmp日怪玩意",
+        "avatar": "https://avatar.dmzj.com/55/47/5547741d088ae658ca38601641253809.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

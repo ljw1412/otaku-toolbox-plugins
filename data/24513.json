@@ -1,0 +1,81 @@
+{
+  "id": 24513,
+  "islong": 2,
+  "direction": 2,
+  "title": "搓背",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1004913721446717107.jpg",
+  "description": "神乐动漫",
+  "last_updatetime": 1446717122,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "c",
+  "comic_py": "cuobei",
+  "hidden": 0,
+  "hot_num": 702,
+  "hit_num": 1464,
+  "uid": 100491372,
+  "is_lock": 0,
+  "last_update_chapter_id": 43135,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10848,
+      "tag_name": "神乐动漫"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43135,
+          "chapter_title": "1话",
+          "updatetime": 1446717122,
+          "filesize": 656285,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 8028055,
+        "uid": 107198525,
+        "content": "没人",
+        "createtime": 1541866005,
+        "nickname": "无所，",
+        "avatar": "https://avatar.dmzj.com/49/54/4954e96d959f7f7ba7d9bba04d787552.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

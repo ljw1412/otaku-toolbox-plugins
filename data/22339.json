@@ -1,0 +1,81 @@
+{
+  "id": 22339,
+  "islong": 2,
+  "direction": 2,
+  "title": "猫步",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445927842.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445927868,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "maobu",
+  "hidden": 0,
+  "hot_num": 1187,
+  "hit_num": 8362,
+  "uid": 100469239,
+  "is_lock": 0,
+  "last_update_chapter_id": 42869,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 6,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42869,
+          "chapter_title": "1话",
+          "updatetime": 1445927868,
+          "filesize": 611047,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 8507891,
+        "uid": 102156872,
+        "content": "。。。什么玩意？？",
+        "createtime": 1543497630,
+        "nickname": "理智燃烧",
+        "avatar": "https://avatar.dmzj.com/65/04/65040f9a287d54a784f1e49959e6435a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

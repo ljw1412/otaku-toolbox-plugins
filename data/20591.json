@@ -1,0 +1,89 @@
+{
+  "id": 20591,
+  "islong": 2,
+  "direction": 2,
+  "title": "ANDI的魔法牌",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1002082661438354493.jpg",
+  "description": "ANDI的魔法牌",
+  "last_updatetime": 1438354675,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "a",
+  "comic_py": "andidemofapai",
+  "hidden": 0,
+  "hot_num": 1120,
+  "hit_num": 33973,
+  "uid": 100208266,
+  "is_lock": 0,
+  "last_update_chapter_id": 41457,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9621,
+      "tag_name": "下一幅zrcher"
+    }
+  ],
+  "subscribe_num": 13,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41457,
+          "chapter_title": "1话",
+          "updatetime": 1438354675,
+          "filesize": 3497239,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 442419,
+        "uid": 25934489,
+        "content": "烧烧烧",
+        "createtime": 1438425563,
+        "nickname": "xmenghuo",
+        "avatar": "https://avatar.dmzj.com/28/0a/280ad23e56d96ab5d22b15c09f5f3746.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

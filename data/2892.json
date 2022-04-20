@@ -1,0 +1,87 @@
+{
+  "id": 2892,
+  "islong": 2,
+  "direction": 1,
+  "title": "PrincessSchool",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/PrincessSchool_02_68fe60107eaf70dc953778d3a7cc76b6.jpg",
+  "description": "暂无",
+  "last_updatetime": 1272962417,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "p",
+  "comic_py": "princessschool",
+  "hidden": 0,
+  "hot_num": 65040,
+  "hit_num": 222236,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 7837,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1706,
+      "tag_name": "小宫利公"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 349,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 7837,
+          "chapter_title": "1话",
+          "updatetime": 1273567217,
+          "filesize": 2150929,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 31,
+    "latest_comment": [
+      {
+        "comment_id": 26396437,
+        "uid": 110817147,
+        "content": "看到作者我就点开了",
+        "createtime": 1586693902,
+        "nickname": "追忆惘然",
+        "avatar": "https://avatar.dmzj.com/8c/1c/8c1c053a4517a9f1118cd3150be6baf3.png"
+      },
+      {
+        "comment_id": 25880415,
+        "uid": 108518108,
+        "content": "成为魔王！",
+        "createtime": 1585616431,
+        "nickname": "pachino",
+        "avatar": "https://avatar.dmzj.com/9a/d7/9ad78333dbf6c50c1f24d004b273ac89.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

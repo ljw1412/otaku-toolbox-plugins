@@ -1,0 +1,96 @@
+{
+  "id": 20561,
+  "islong": 2,
+  "direction": 2,
+  "title": "自在飞花",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1002839621438327178.jpg",
+  "description": "一个美好的爱情故事~",
+  "last_updatetime": 1438327306,
+  "last_update_chapter_name": "第02话",
+  "copyright": 1,
+  "first_letter": "z",
+  "comic_py": "zizaifeihua",
+  "hidden": 0,
+  "hot_num": 23535,
+  "hit_num": 395296,
+  "uid": 100283962,
+  "is_lock": 0,
+  "last_update_chapter_id": 41416,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10084,
+      "tag_name": "三千笑容"
+    }
+  ],
+  "subscribe_num": 239,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41416,
+          "chapter_title": "2话",
+          "updatetime": 1438327306,
+          "filesize": 1046183,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 41415,
+          "chapter_title": "1话",
+          "updatetime": 1438327274,
+          "filesize": 967376,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 558536,
+        "uid": 100628539,
+        "content": "不怎麼樣。。",
+        "createtime": 1451555530,
+        "nickname": "Sharon Hu",
+        "avatar": "https://avatar.dmzj.com/34/3f/343f5d6fa12c01d6c1ae6acdb4e6fc3d.png"
+      },
+      {
+        "comment_id": 481024,
+        "uid": 100393997,
+        "content": "棒棒棒",
+        "createtime": 1443444887,
+        "nickname": "笑笑危险",
+        "avatar": "https://avatar.dmzj.com/20/85/2085299d0c938550c4a9d4edd5fb2386.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

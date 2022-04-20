@@ -1,0 +1,104 @@
+{
+  "id": 28255,
+  "islong": 2,
+  "direction": 2,
+  "title": "向日葵骑士",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1007534871453255124.jpg",
+  "description": "第一次和别人合作的商业中篇漫画，分上下两集，双线展开的故事",
+  "last_updatetime": 1453264670,
+  "last_update_chapter_name": "下篇",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiangrikuiqishi",
+  "hidden": 0,
+  "hot_num": 6081,
+  "hit_num": 122446,
+  "uid": 100753487,
+  "is_lock": 0,
+  "last_update_chapter_id": 49850,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11264,
+      "tag_name": "ZXX-"
+    }
+  ],
+  "subscribe_num": 49,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49850,
+          "chapter_title": "2话",
+          "updatetime": 1453264670,
+          "filesize": 2147957,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 49846,
+          "chapter_title": "1话",
+          "updatetime": 1453257085,
+          "filesize": 2354244,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 25991147,
+        "uid": 107864082,
+        "content": "当初小说绘上看的时候挺感动的，一晃眼高中，大学都过了。没想到还能翻到漫画？",
+        "createtime": 1585849152,
+        "nickname": "DIion",
+        "avatar": "https://avatar.dmzj.com/6e/aa/6eaa838dfcb31464a7832687df3fc5a5.png"
+      },
+      {
+        "comment_id": 18816639,
+        "uid": 107366305,
+        "content": "这个!当初在小说绘上看过!超喜欢这个故事!",
+        "createtime": 1564502197,
+        "nickname": "红叶之君",
+        "avatar": "https://avatar.dmzj.com/74/61/7461eef3c3751361d63b7ce8c95c15f2.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

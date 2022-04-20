@@ -1,0 +1,87 @@
+{
+  "id": 2406,
+  "islong": 2,
+  "direction": 1,
+  "title": "Noel-la neigeholy前传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/01_20e317dcfa8f22ee04574c90c1128451.jpg",
+  "description": "绝望与救赎的圣诞节...",
+  "last_updatetime": 1271228400,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "noellaneigeholy",
+  "hidden": 0,
+  "hot_num": 11270,
+  "hit_num": 87342,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 5232,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1470,
+      "tag_name": "GF"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 54,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 5232,
+          "chapter_title": "1话",
+          "updatetime": 1271833200,
+          "filesize": 3394624,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 263902,
+        "uid": 15914124,
+        "content": "额玩烂的梗",
+        "createtime": 1405837584,
+        "nickname": "沙鸥_Seagull",
+        "avatar": "https://avatar.dmzj.com/90/66/90666acd9c41d4e6aeb6d2d261e0f20f.png"
+      },
+      {
+        "comment_id": 209396,
+        "uid": 25103042,
+        "content": "绝望与救赎的圣诞节",
+        "createtime": 1393242581,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

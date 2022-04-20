@@ -1,0 +1,109 @@
+{
+  "id": 28258,
+  "islong": 2,
+  "direction": 1,
+  "title": "孤独的Fallout",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/01gududefeitu120IMG0001.jpg",
+  "description": "美食家x废土，将会碰撞出怎样的火花呢？",
+  "last_updatetime": 1485134555,
+  "last_update_chapter_name": "Fallout4完结篇",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gududefallout",
+  "hidden": 0,
+  "hot_num": 545710,
+  "hit_num": 812142,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 56656,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3327,
+      "tag_name": "美食"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11033,
+      "tag_name": "もかぷりん"
+    }
+  ],
+  "subscribe_num": 3041,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56656,
+          "chapter_title": "3话",
+          "updatetime": 1485134555,
+          "filesize": 2542236,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 53195,
+          "chapter_title": "2话",
+          "updatetime": 1473217973,
+          "filesize": 3089987,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 45376,
+          "chapter_title": "1话",
+          "updatetime": 1453289890,
+          "filesize": 5013954,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 125,
+    "latest_comment": [
+      {
+        "comment_id": 24636134,
+        "uid": 107411911,
+        "content": "赶紧再来一波史低，",
+        "createtime": 1582900736,
+        "nickname": "裘洛",
+        "avatar": "https://avatar.dmzj.com/92/26/92260b6f0119026048ccd991296b554e.png"
+      },
+      {
+        "comment_id": 24570515,
+        "uid": 104666382,
+        "content": "这么吃辐射量不得爆表啊……",
+        "createtime": 1582735668,
+        "nickname": "崎、",
+        "avatar": "https://avatar.dmzj.com/68/5b/685b1d0fe0f635dc4404dd3b31322870.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

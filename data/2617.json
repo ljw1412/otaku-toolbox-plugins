@@ -1,0 +1,94 @@
+{
+  "id": 2617,
+  "islong": 2,
+  "direction": 1,
+  "title": "风火海",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/windfiresea_01_001_214406cca4a7d5fa27700b084d51596a.jpg",
+  "description": "袁家宝在香港漫画界中可以说是出道极早，早在玉郎帝国时期他就主编了《黑豹》的漫画，其后接替马荣成主编当时销量极高的《中华英雄》，对该漫画影响深远（因为之后的主笔基本都是在重复袁家宝而不是马荣成的风格）。离开旧公司后袁家宝加入天下，和马荣成合作了当时风头最强的《神王》，还出版了个人作品《风火海》。",
+  "last_updatetime": 1271753801,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fenhuohai",
+  "hidden": 1,
+  "hot_num": 5066,
+  "hit_num": 129591,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 7200,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1504,
+      "tag_name": "袁家宝"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 18,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 7200,
+          "chapter_title": "2卷",
+          "updatetime": 1272358601,
+          "filesize": 18857710,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 7199,
+          "chapter_title": "1卷",
+          "updatetime": 1272358601,
+          "filesize": 19302999,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 12882016,
+        "uid": 107040450,
+        "content": "马",
+        "createtime": 1552544533,
+        "nickname": "呵呵何",
+        "avatar": "https://avatar.dmzj.com/f6/3f/f63f3090846ab4a65ec5f69687404d74.png"
+      },
+      {
+        "comment_id": 12487485,
+        "uid": 107904670,
+        "content": "听说",
+        "createtime": 1551970263,
+        "nickname": "安珀",
+        "avatar": "https://avatar.dmzj.com/17/25/1725b34cfaa536388f9ef78302b151f1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

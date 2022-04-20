@@ -1,0 +1,123 @@
+{
+  "id": 20311,
+  "islong": 2,
+  "direction": 2,
+  "title": "漫画命",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1002789941438134969.jpg",
+  "description": "这是有关一帮稍微不太正常的漫画爱好者画漫画的故事。本漫画本来最早是发布在我的老师——漫画家Oran猪的个人网站“漫画反应堆”上的，漫画里出现的各种小动物形象都出自Oran猪的作品（已获得O猪老师许可~）",
+  "last_updatetime": 1439007263,
+  "last_update_chapter_name": "第04话 灵感危机",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "manhuaming",
+  "hidden": 0,
+  "hot_num": 5612,
+  "hit_num": 133332,
+  "uid": 100278994,
+  "is_lock": 0,
+  "last_update_chapter_id": 41711,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10054,
+      "tag_name": "KA-O"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41708,
+          "chapter_title": "7话",
+          "updatetime": 1439007435,
+          "filesize": 1900633,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 41709,
+          "chapter_title": "6话",
+          "updatetime": 1439007382,
+          "filesize": 1375492,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 41710,
+          "chapter_title": "5话",
+          "updatetime": 1439007328,
+          "filesize": 2554575,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 41711,
+          "chapter_title": "4话",
+          "updatetime": 1439007263,
+          "filesize": 1743283,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 41296,
+          "chapter_title": "3话",
+          "updatetime": 1438135467,
+          "filesize": 949672,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 41295,
+          "chapter_title": "2话",
+          "updatetime": 1438135427,
+          "filesize": 1838543,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 41294,
+          "chapter_title": "1话",
+          "updatetime": 1438135357,
+          "filesize": 548304,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 439754,
+        "uid": 15140947,
+        "content": "虽然看上去画面很潦草 但是感觉作者其实画得十分不错啊！加油~！",
+        "createtime": 1438157914,
+        "nickname": "pumpkissster",
+        "avatar": "https://avatar.dmzj.com/a0/1c/a01ca01e5ef75149bb834e4ce980adde.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,86 @@
+{
+  "id": 2454,
+  "islong": 2,
+  "direction": 1,
+  "title": "英雄好汉",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/yxhh01-01_6832301e314e0904baef2dee2a1cd4d3.jpg",
+  "description": "英雄好汉",
+  "last_updatetime": 1271327392,
+  "last_update_chapter_name": "CH02",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yinxionghaohan",
+  "hidden": 1,
+  "hot_num": 2400,
+  "hit_num": 46030,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 6281,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1494,
+      "tag_name": "周胜"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6281,
+          "chapter_title": "2卷",
+          "updatetime": 1271932193,
+          "filesize": 4455715,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 6280,
+          "chapter_title": "1卷",
+          "updatetime": 1271932193,
+          "filesize": 4532310,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 190470,
+        "uid": 25103042,
+        "content": "周胜 ",
+        "createtime": 1388595156,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

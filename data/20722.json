@@ -1,0 +1,89 @@
+{
+  "id": 20722,
+  "islong": 2,
+  "direction": 2,
+  "title": "向阳九月",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1002965301438776113.jpg",
+  "description": "开学了，有什么新鲜的事在等待发生.....",
+  "last_updatetime": 1438776335,
+  "last_update_chapter_name": "第01话 开学了",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiangyangjiuyue",
+  "hidden": 0,
+  "hot_num": 1442,
+  "hit_num": 21265,
+  "uid": 100296530,
+  "is_lock": 0,
+  "last_update_chapter_id": 43835,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10151,
+      "tag_name": "玉面飞龙UNI"
+    }
+  ],
+  "subscribe_num": 13,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43835,
+          "chapter_title": "1话",
+          "updatetime": 1438776335,
+          "filesize": 1604668,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 12586479,
+        "uid": 108311902,
+        "content": "谁有偷星九月天",
+        "createtime": 1552131288,
+        "nickname": "白执青提",
+        "avatar": "https://avatar.dmzj.com/cc/b7/ccb746ea61354e1d3ce6827d4e19bd34.png"
+      },
+      {
+        "comment_id": 7173674,
+        "uid": 105172728,
+        "content": "大佬们有没有偷星九月天的，",
+        "createtime": 1538650784,
+        "nickname": "qzuser3001050",
+        "avatar": "https://avatar.dmzj.com/df/d5/dfd5c203457ddabca6a809f34092308c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,81 @@
+{
+  "id": 28389,
+  "islong": 2,
+  "direction": 2,
+  "title": "这个世界奇奇怪怪十九",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1005376591452767644.jpg",
+  "description": "星漫文化",
+  "last_updatetime": 1452767654,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "z",
+  "comic_py": "zhegeshijieqiqiguaiguaishijiu",
+  "hidden": 0,
+  "hot_num": 620,
+  "hit_num": 1160,
+  "uid": 100537659,
+  "is_lock": 0,
+  "last_update_chapter_id": 45951,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10967,
+      "tag_name": "星漫文化 "
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45951,
+          "chapter_title": "1话",
+          "updatetime": 1452767654,
+          "filesize": 305836,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 4406720,
+        "uid": 105767122,
+        "content": "明明超有意思的东西居然没人看？！没天理！顺便第一！",
+        "createtime": 1524048811,
+        "nickname": "晓眀",
+        "avatar": "https://avatar.dmzj.com/43/bc/43bce38d6ecc952def13d3af97be81cd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

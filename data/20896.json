@@ -1,0 +1,87 @@
+{
+  "id": 20896,
+  "islong": 2,
+  "direction": 2,
+  "title": "撸撸漫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1002846851439375860.jpg",
+  "description": "lol同人",
+  "last_updatetime": 1439376448,
+  "last_update_chapter_name": "第02话",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "man",
+  "hidden": 0,
+  "hot_num": 1722,
+  "hit_num": 13386,
+  "uid": 100284685,
+  "is_lock": 0,
+  "last_update_chapter_id": 41878,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10260,
+      "tag_name": "撸一"
+    }
+  ],
+  "subscribe_num": 9,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41878,
+          "chapter_title": "2话",
+          "updatetime": 1439376448,
+          "filesize": 285769,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 41877,
+          "chapter_title": "1话",
+          "updatetime": 1439376200,
+          "filesize": 314175,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

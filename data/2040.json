@@ -1,0 +1,150 @@
+{
+  "id": 2040,
+  "islong": 2,
+  "direction": 1,
+  "title": "星愿少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/xingyuanshaonv.jpg",
+  "description": "星愿少女是新连载漫画。当我想起遥远的夜空，当我度过忙碌的一天，当我思念起她的声音，今夜我又无法入眠……",
+  "last_updatetime": 1306080138,
+  "last_update_chapter_name": "特别篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xingyuanshaonv",
+  "hidden": 0,
+  "hot_num": 200530,
+  "hit_num": 396573,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 15379,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1271,
+      "tag_name": "matoba"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1268,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 15379,
+          "chapter_title": "特别篇",
+          "updatetime": 1306080138,
+          "filesize": 645595,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 15256,
+          "chapter_title": "9话",
+          "updatetime": 1304651977,
+          "filesize": 2015473,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 14761,
+          "chapter_title": "8话",
+          "updatetime": 1300556434,
+          "filesize": 1620833,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 14271,
+          "chapter_title": "7话",
+          "updatetime": 1293257486,
+          "filesize": 2329194,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 14178,
+          "chapter_title": "6话",
+          "updatetime": 1291631259,
+          "filesize": 1864190,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 10693,
+          "chapter_title": "5话",
+          "updatetime": 1279676619,
+          "filesize": 1915682,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 10492,
+          "chapter_title": "4话",
+          "updatetime": 1279093070,
+          "filesize": 1912763,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 9070,
+          "chapter_title": "3话",
+          "updatetime": 1274165067,
+          "filesize": 2375052,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 6746,
+          "chapter_title": "2话",
+          "updatetime": 1270534131,
+          "filesize": 2231808,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 6745,
+          "chapter_title": "1话",
+          "updatetime": 1270534127,
+          "filesize": 2437857,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 19003474,
+        "uid": 103507956,
+        "content": "估计弃了",
+        "createtime": 1564897847,
+        "nickname": "D.Gray-man ﹌",
+        "avatar": "https://avatar.dmzj.com/57/33/57330638c287552d3916e0a96b501165.png"
+      },
+      {
+        "comment_id": 9120737,
+        "uid": 101703122,
+        "content": "就这点人？emmmmmmm",
+        "createtime": 1545033440,
+        "nickname": "妖尾完结即我青春完结",
+        "avatar": "https://avatar.dmzj.com/61/57/6157eb8fff70b64c9fe46d6495182eb7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

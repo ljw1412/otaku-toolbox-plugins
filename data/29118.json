@@ -1,0 +1,83 @@
+{
+  "id": 29118,
+  "islong": 2,
+  "direction": 2,
+  "title": "寻刀记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1008075181455105648.jpg",
+  "description": "某中二把工作搞砸了，然后... ",
+  "last_updatetime": 1455594383,
+  "last_update_chapter_name": "下篇",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xundaoji",
+  "hidden": 0,
+  "hot_num": 1289,
+  "hit_num": 23775,
+  "uid": 100807518,
+  "is_lock": 0,
+  "last_update_chapter_id": 46164,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3324,
+      "tag_name": "武侠"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11323,
+      "tag_name": "大中小毛"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46164,
+          "chapter_title": "2话",
+          "updatetime": 1455594383,
+          "filesize": 1480698,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 46071,
+          "chapter_title": "1话",
+          "updatetime": 1455106098,
+          "filesize": 1713785,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "如果有人看的话应该就会更新后续故事。 ",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

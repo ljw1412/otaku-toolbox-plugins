@@ -1,0 +1,81 @@
+{
+  "id": 21113,
+  "islong": 2,
+  "direction": 2,
+  "title": "月光",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1003373561440299370.jpg",
+  "description": "月光",
+  "last_updatetime": 1440299421,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "y",
+  "comic_py": "yueguang",
+  "hidden": 0,
+  "hot_num": 818,
+  "hit_num": 6896,
+  "uid": 100337356,
+  "is_lock": 0,
+  "last_update_chapter_id": 40640,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10360,
+      "tag_name": "欧拉莉安"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40640,
+          "chapter_title": "1话",
+          "updatetime": 1440299421,
+          "filesize": 721170,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1787885,
+        "uid": 100913578,
+        "content": "非常喜欢这部作品",
+        "createtime": 1486717346,
+        "nickname": "超能零式",
+        "avatar": "https://avatar.dmzj.com/76/93/769369b653c1061670af37c6189b0061.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

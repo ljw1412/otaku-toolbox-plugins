@@ -1,0 +1,122 @@
+{
+  "id": 21513,
+  "islong": 1,
+  "direction": 2,
+  "title": "KUMA!大暴走",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1003745301442083226.jpg",
+  "description": "这次是一部科幻西部追逐热血少年漫.讲述侠盗主人公因为被卷入了一个盗贼案件中，继而转为成为全职赏金猎人的故事.故事风格偏向西部科幻类.主打,变形机甲,追逐,以及小萌熊!!",
+  "last_updatetime": 1443591409,
+  "last_update_chapter_name": "第07话 赏金猎人",
+  "copyright": 1,
+  "first_letter": "k",
+  "comic_py": "kumadabaozou",
+  "hidden": 0,
+  "hot_num": 2843,
+  "hit_num": 32007,
+  "uid": 100374530,
+  "is_lock": 0,
+  "last_update_chapter_id": 41663,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10567,
+      "tag_name": "OREZ"
+    }
+  ],
+  "subscribe_num": 15,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41663,
+          "chapter_title": "7话",
+          "updatetime": 1443591409,
+          "filesize": 2214867,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 41615,
+          "chapter_title": "6话",
+          "updatetime": 1443410100,
+          "filesize": 1832470,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 41538,
+          "chapter_title": "5话",
+          "updatetime": 1443061590,
+          "filesize": 1775144,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 41413,
+          "chapter_title": "4话",
+          "updatetime": 1442549596,
+          "filesize": 1842837,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 41273,
+          "chapter_title": "3话",
+          "updatetime": 1442167061,
+          "filesize": 1542006,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 41272,
+          "chapter_title": "2话",
+          "updatetime": 1442083638,
+          "filesize": 1739471,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 41271,
+          "chapter_title": "1话",
+          "updatetime": 1442083431,
+          "filesize": 711898,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "玄幻古风故事创作中\n周边日常 新浪微博 @OREZ-JOEL",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

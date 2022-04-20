@@ -1,0 +1,81 @@
+{
+  "id": 22215,
+  "islong": 2,
+  "direction": 2,
+  "title": "狼的悲哀",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445914631.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445914661,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "l",
+  "comic_py": "langdebeiai",
+  "hidden": 0,
+  "hot_num": 1380,
+  "hit_num": 11333,
+  "uid": 100469239,
+  "is_lock": 0,
+  "last_update_chapter_id": 47039,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 6,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47039,
+          "chapter_title": "1话",
+          "updatetime": 1445914661,
+          "filesize": 581318,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 581868,
+        "uid": 100063144,
+        "content": "居然是灰太狼。",
+        "createtime": 1453364837,
+        "nickname": "道明不二",
+        "avatar": "https://avatar.dmzj.com/13/66/13664604dd0b970cfd8d029f65c47d41.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

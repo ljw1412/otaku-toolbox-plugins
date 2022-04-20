@@ -1,0 +1,87 @@
+{
+  "id": 2513,
+  "islong": 2,
+  "direction": 1,
+  "title": "东京蚂蚁",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/东京蚂蚁_第1卷_0001_0d57b4a91779f71a30715f7c1add2f1a.jpg",
+  "description": "叶恭弘",
+  "last_updatetime": 1271423265,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongjingmayi",
+  "hidden": 0,
+  "hot_num": 88014,
+  "hit_num": 1310592,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 6882,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 765,
+      "tag_name": "叶恭弘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 564,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6882,
+          "chapter_title": "1卷",
+          "updatetime": 1272028065,
+          "filesize": 11142849,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 23681582,
+        "uid": 105810802,
+        "content": "我小时候看过",
+        "createtime": 1580549207,
+        "nickname": "熬夜之王",
+        "avatar": "https://avatar.dmzj.com/55/97/5597c1a044f8da583468d7fbfae9e0b7.png"
+      },
+      {
+        "comment_id": 7669735,
+        "uid": 107985287,
+        "content": "哎。。。。。。。",
+        "createtime": 1540597438,
+        "nickname": "何时有过的时光",
+        "avatar": "https://avatar.dmzj.com/66/18/66184c6c65c9dfedfea880b2a27cae15.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

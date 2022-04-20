@@ -1,0 +1,91 @@
+{
+  "id": 21105,
+  "islong": 2,
+  "direction": 1,
+  "title": "BANDY",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/0824bandyfml.jpg",
+  "description": "因为心脏问题面临死亡的少年看见了传说中的幽灵，并且连心脏也被夺走的故事！如果太幸福就会死！少年，孤独一生还是告白即死？",
+  "last_updatetime": 1440385282,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bandy",
+  "hidden": 0,
+  "hot_num": 123002,
+  "hit_num": 649103,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 44696,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7214,
+      "tag_name": "今井美纪"
+    }
+  ],
+  "subscribe_num": 985,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44696,
+          "chapter_title": "1话",
+          "updatetime": 1440385282,
+          "filesize": 7009823,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 18459257,
+        "uid": 101564064,
+        "content": "哇，居然能看到这个",
+        "createtime": 1563642347,
+        "nickname": "露娜·希露法莉亚",
+        "avatar": "https://avatar.dmzj.com/79/42/794260b0ec59204e59af93d3a8862538.png"
+      },
+      {
+        "comment_id": 6383909,
+        "uid": 106075284,
+        "content": "想到心脏就想到胸腔，114514（完全一致）",
+        "createtime": 1534774634,
+        "nickname": "mjdk",
+        "avatar": "https://avatar.dmzj.com/24/09/2409e09e8f8773af32d67689187d2cb3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

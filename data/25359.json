@@ -1,0 +1,147 @@
+{
+  "id": 25359,
+  "islong": 2,
+  "direction": 1,
+  "title": "杀老师Quest",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/shalaoshiQuest.jpg",
+  "description": "欢迎来到剑与魔法的暗杀教室！",
+  "last_updatetime": 1490535968,
+  "last_update_chapter_name": "客串版07",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shalaoshiquest",
+  "hidden": 0,
+  "hot_num": 4367319,
+  "hit_num": 3385669,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 60118,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 335,
+      "tag_name": "松井优征"
+    },
+    {
+      "tag_id": 10979,
+      "tag_name": "青户城"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 29759,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 60118,
+          "chapter_title": "客串版07",
+          "updatetime": 1490535968,
+          "filesize": 514868,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 57564,
+          "chapter_title": "客串版06",
+          "updatetime": 1482159023,
+          "filesize": 799238,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 57375,
+          "chapter_title": "客串版05",
+          "updatetime": 1481558733,
+          "filesize": 1044689,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 52380,
+          "chapter_title": "客串版04",
+          "updatetime": 1468337647,
+          "filesize": 1687735,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 48226,
+          "chapter_title": "客串版03",
+          "updatetime": 1459064889,
+          "filesize": 741531,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 47105,
+          "chapter_title": "客串版02",
+          "updatetime": 1456578396,
+          "filesize": 510219,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 46672,
+          "chapter_title": "2话",
+          "updatetime": 1455677851,
+          "filesize": 3719899,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 44394,
+          "chapter_title": "客串版",
+          "updatetime": 1449669452,
+          "filesize": 1660706,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 43876,
+          "chapter_title": "1话",
+          "updatetime": 1448246236,
+          "filesize": 3779852,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1015,
+    "latest_comment": [
+      {
+        "comment_id": 27076495,
+        "uid": 107506000,
+        "content": "留",
+        "createtime": 1588520502,
+        "nickname": "東雲あすつき",
+        "avatar": "https://avatar.dmzj.com/99/63/9963d923c9e0359419389833d1ca079c.png"
+      },
+      {
+        "comment_id": 27032645,
+        "uid": 110970494,
+        "content": "留",
+        "createtime": 1588407751,
+        "nickname": "我要骨傲天！",
+        "avatar": "https://avatar.dmzj.com/25/75/2575e9713140debcfe178c18a8fa0f1d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

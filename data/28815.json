@@ -1,0 +1,79 @@
+{
+  "id": 28815,
+  "islong": 2,
+  "direction": 2,
+  "title": "如果",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1007872201454037175.jpg",
+  "description": "仙剑六的几个小同人",
+  "last_updatetime": 1454037485,
+  "last_update_chapter_name": "快来追我啊~哈哈哈哈",
+  "copyright": 1,
+  "first_letter": "r",
+  "comic_py": "ruguo",
+  "hidden": 0,
+  "hot_num": 2385,
+  "hit_num": 17073,
+  "uid": 100787220,
+  "is_lock": 0,
+  "last_update_chapter_id": 50153,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11303,
+      "tag_name": "被累死的虫"
+    }
+  ],
+  "subscribe_num": 18,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50153,
+          "chapter_title": "2话",
+          "updatetime": 1454037485,
+          "filesize": 610157,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 50152,
+          "chapter_title": "1话",
+          "updatetime": 1454037419,
+          "filesize": 707236,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "不定期更新。然而已经坑很久了",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

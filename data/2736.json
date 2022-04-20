@@ -1,0 +1,87 @@
+{
+  "id": 2736,
+  "islong": 2,
+  "direction": 1,
+  "title": "格斗王子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/19115698_7020ce95ce7e06b68decf4db8f6d2bce.jpg",
+  "description": "新连载~格斗王子金未来杯第3弹..热血格斗无人可挡 战斗！再战斗！热血+搞笑！ 用拳来打破漫画间的拮据吧！",
+  "last_updatetime": 1272011871,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gedouwanzi",
+  "hidden": 0,
+  "hot_num": 12307,
+  "hit_num": 276491,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 5774,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1604,
+      "tag_name": "松雪ヨウ"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 48,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 5774,
+          "chapter_title": "1话",
+          "updatetime": 1272616671,
+          "filesize": 5857068,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 14009481,
+        "uid": 101415855,
+        "content": "插眼",
+        "createtime": 1554814089,
+        "nickname": "Focus83531",
+        "avatar": "https://avatar.dmzj.com/5b/58/5b58aea5672daec95d1e51761aa8b212.png"
+      },
+      {
+        "comment_id": 201405,
+        "uid": 25103042,
+        "content": "热血+搞笑",
+        "createtime": 1391315220,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

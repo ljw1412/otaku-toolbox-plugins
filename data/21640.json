@@ -1,0 +1,89 @@
+{
+  "id": 21640,
+  "islong": 2,
+  "direction": 2,
+  "title": "首字母是m",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1003915351442991812.jpg",
+  "description": "首字母是m",
+  "last_updatetime": 1442991847,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "shouzimushim",
+  "hidden": 0,
+  "hot_num": 938,
+  "hit_num": 3997,
+  "uid": 100391535,
+  "is_lock": 0,
+  "last_update_chapter_id": 45807,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10637,
+      "tag_name": "庞苏"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45807,
+          "chapter_title": "1话",
+          "updatetime": 1442991847,
+          "filesize": 792678,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 478575,
+        "uid": 12939903,
+        "content": "确实，，，好看，，， 没事有事，，，还是别看好",
+        "createtime": 1443068546,
+        "nickname": "一瞬间的想法",
+        "avatar": "https://avatar.dmzj.com/b2/af/b2af7398c1d4553c683e7c3264507e34.png"
+      },
+      {
+        "comment_id": 478343,
+        "uid": 100323434,
+        "content": "很好看",
+        "createtime": 1443019311,
+        "nickname": "魁酱",
+        "avatar": "https://avatar.dmzj.com/02/68/02687ab8c996ba2d993e0f0366ada7a5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

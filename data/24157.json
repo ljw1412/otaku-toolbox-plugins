@@ -1,0 +1,81 @@
+{
+  "id": 24157,
+  "islong": 2,
+  "direction": 2,
+  "title": "好像是唱戏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1004738421446177469.jpg",
+  "description": "灵耀动漫",
+  "last_updatetime": 1446177489,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "h",
+  "comic_py": "haoxiangshichangxi",
+  "hidden": 0,
+  "hot_num": 506,
+  "hit_num": 1382,
+  "uid": 100473842,
+  "is_lock": 0,
+  "last_update_chapter_id": 47243,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10878,
+      "tag_name": "灵耀动漫"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47243,
+          "chapter_title": "1话",
+          "updatetime": 1446177489,
+          "filesize": 1005719,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 5062928,
+        "uid": 102385014,
+        "content": "啊啊，后唱戏",
+        "createtime": 1528720369,
+        "nickname": "20024JoK",
+        "avatar": "https://avatar.dmzj.com/ec/0b/ec0b3a7ec4ec0c7e19f5479f0ad97c44.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

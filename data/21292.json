@@ -1,0 +1,93 @@
+{
+  "id": 21292,
+  "islong": 2,
+  "direction": 2,
+  "title": "JOJO同人漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1003555941441011812.jpg",
+  "description": "JOJO同人漫画",
+  "last_updatetime": 1441011931,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "j",
+  "comic_py": "jojotongrenmanhua",
+  "hidden": 0,
+  "hot_num": 230056,
+  "hit_num": 3154176,
+  "uid": 100355594,
+  "is_lock": 0,
+  "last_update_chapter_id": 44858,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10469,
+      "tag_name": "吞赦日月"
+    }
+  ],
+  "subscribe_num": 975,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44858,
+          "chapter_title": "1话",
+          "updatetime": 1441011931,
+          "filesize": 792758,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4513,
+    "latest_comment": [
+      {
+        "comment_id": 26786625,
+        "uid": 110034055,
+        "content": "怎么看呀？",
+        "createtime": 1587709988,
+        "nickname": "dmzj_110034055",
+        "avatar": "https://avatar.dmzj.com/63/16/6316d9419e1154c1b1bd6790856e4d1c.png"
+      },
+      {
+        "comment_id": 26360829,
+        "uid": 106436528,
+        "content": "斯——吉——Q——",
+        "createtime": 1586609277,
+        "nickname": "BloodyDesire",
+        "avatar": "https://avatar.dmzj.com/88/30/88300d1d2dbd478c5388573b73d9f6c8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

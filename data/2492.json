@@ -1,0 +1,95 @@
+{
+  "id": 2492,
+  "islong": 2,
+  "direction": 1,
+  "title": "假面骑士EX",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/001_c4481dbcf9e5f8c1161133f54ba10f00.jpg",
+  "description": "《假面骑士EX》讲的是 完全收录在ＴＶmagazine杂志中的连载。除了使用崭新的手法描绘出梦幻的100页作品‘假面骑士插图漫画'，还收录了作者在‘假面骑士BLACK' 电影开拍前，亲自绘制给工作人员介绍假面世界的小册子‘你看过假面骑士了吗?!' 你不可不知的石森版假面骑士世界！",
+  "last_updatetime": 1271413348,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jiamianqishiex",
+  "hidden": 0,
+  "hot_num": 406323,
+  "hit_num": 2128793,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 6910,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1509,
+      "tag_name": "石之森章太郎"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1860,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6910,
+          "chapter_title": "1卷",
+          "updatetime": 1272018148,
+          "filesize": 27008998,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 26936348,
+        "uid": 105447883,
+        "content": "请问为什么没有骑士人的漫画啊，就只有v3最后一点和强人最后七骑士说了骑士人",
+        "createtime": 1588089326,
+        "nickname": "明冥如栞",
+        "avatar": "https://avatar.dmzj.com/ee/bb/eebb406af4e6be4a681c56a19c3a5c01.png"
+      },
+      {
+        "comment_id": 25109245,
+        "uid": 107549732,
+        "content": "大家好，我是来评论一下的,据说要长一点，不然会被清除,所以我试着把它弄成一点儿,希望不要经常被清除吧。",
+        "createtime": 1583845468,
+        "nickname": "dmzj_107549732",
+        "avatar": "https://avatar.dmzj.com/90/a6/90a6b7e329785bc2a50ba5b0973923ce.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

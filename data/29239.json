@@ -1,0 +1,97 @@
+{
+  "id": 29239,
+  "islong": 2,
+  "direction": 2,
+  "title": "猫妖",
+  "is_dmzj": 1,
+  "cover": "https://images.dmzj.com/img/webpic/0/1003188601456279425.jpg",
+  "description": "名为守护的故事。",
+  "last_updatetime": 1456280725,
+  "last_update_chapter_name": "全一话",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "maoyao",
+  "hidden": 0,
+  "hot_num": 183570,
+  "hit_num": 18278093,
+  "uid": 100318860,
+  "is_lock": 0,
+  "last_update_chapter_id": 46881,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10296,
+      "tag_name": "便利店的熊"
+    }
+  ],
+  "subscribe_num": 2370,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46881,
+          "chapter_title": "1话",
+          "updatetime": 1456280725,
+          "filesize": 4226480,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 49,
+    "latest_comment": [
+      {
+        "comment_id": 11485363,
+        "uid": 108327555,
+        "content": "猫猫",
+        "createtime": 1550296162,
+        "nickname": "包不理鱼子",
+        "avatar": "https://avatar.dmzj.com/21/58/2158ad30ac855b33279db6a7fef4f548.png"
+      },
+      {
+        "comment_id": 4832610,
+        "uid": 104955972,
+        "content": "哇啊，作者其实最近有连载新作好像是叫守梦者吧。跟这篇漫画的主角人设似乎差不多。而且感觉这几年作者画风变得不大一样了诶x",
+        "createtime": 1527272577,
+        "nickname": "D哥只想咕咕咕",
+        "avatar": "https://avatar.dmzj.com/26/94/26945fcc895a265c3111c7d14d56c9d9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

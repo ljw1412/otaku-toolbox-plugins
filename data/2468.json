@@ -1,0 +1,86 @@
+{
+  "id": 2468,
+  "islong": 2,
+  "direction": 1,
+  "title": "广东十虎",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/gdshhfh01-001_9117d64c2a2836a1568f5d138fa929c7.jpg",
+  "description": "清末年间，广东省有十位武功极高,、受人尊敬的武林怪杰称为“广东十虎”。分别是：王隐林、黄澄可、苏黑虎、黄麒英、周泰、谭济筠、黎仁超、陈铁志、苏灿、梁坤。",
+  "last_updatetime": 1271407661,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gdsh",
+  "hidden": 1,
+  "hot_num": 3703,
+  "hit_num": 292453,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 6763,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1501,
+      "tag_name": "上官小宝"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 9,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6763,
+          "chapter_title": "2卷",
+          "updatetime": 1272012461,
+          "filesize": 17855495,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 6762,
+          "chapter_title": "1卷",
+          "updatetime": 1272012461,
+          "filesize": 16390100,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 21979511,
+        "uid": 109166606,
+        "content": "TigerShidongguang",
+        "createtime": 1573125490,
+        "nickname": "1无",
+        "avatar": "https://avatar.dmzj.com/da/37/da371aa9a9bea55ed848a10c0da1ca5f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

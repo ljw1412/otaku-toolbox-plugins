@@ -1,0 +1,93 @@
+{
+  "id": 20174,
+  "islong": 2,
+  "direction": 2,
+  "title": "蓝色雨伞",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1000214731437558182.jpg",
+  "description": "个人high的绘本作业",
+  "last_updatetime": 1437558555,
+  "last_update_chapter_name": "雨过天晴",
+  "copyright": 1,
+  "first_letter": "l",
+  "comic_py": "lanseyusan",
+  "hidden": 0,
+  "hot_num": 12079,
+  "hit_num": 201358,
+  "uid": 100021473,
+  "is_lock": 0,
+  "last_update_chapter_id": 39296,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8284,
+      "tag_name": "空枣"
+    }
+  ],
+  "subscribe_num": 112,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39296,
+          "chapter_title": "1话",
+          "updatetime": 1437558555,
+          "filesize": 1087649,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 2373212,
+        "uid": 101609308,
+        "content": "挖坟",
+        "createtime": 1498375639,
+        "nickname": "wulichildeashland",
+        "avatar": "https://avatar.dmzj.com/99/20/99204acbbefb67edc8e03f340f6a052c.png"
+      },
+      {
+        "comment_id": 1375402,
+        "uid": 102191085,
+        "content": "好看，不过只有一话",
+        "createtime": 1476499592,
+        "nickname": "@韬然与梦",
+        "avatar": "https://avatar.dmzj.com/9b/0a/9b0a1a9939da180066e3eb806ffe5ad1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

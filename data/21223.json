@@ -1,0 +1,94 @@
+{
+  "id": 21223,
+  "islong": 2,
+  "direction": 2,
+  "title": "LOVE",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/lovefengmianl.jpg",
+  "description": "一本无字漫画",
+  "last_updatetime": 1440751238,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "love",
+  "hidden": 0,
+  "hot_num": 120186,
+  "hit_num": 1744589,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 40807,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10419,
+      "tag_name": "federico"
+    }
+  ],
+  "subscribe_num": 914,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40807,
+          "chapter_title": "2卷",
+          "updatetime": 1440751238,
+          "filesize": 9264777,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 40800,
+          "chapter_title": "1卷",
+          "updatetime": 1440734218,
+          "filesize": 11316274,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 22288627,
+        "uid": 101983959,
+        "content": "三年前来过，今天再来",
+        "createtime": 1574594865,
+        "nickname": "风狼49060",
+        "avatar": "https://avatar.dmzj.com/f1/d5/f1d5f6362153dc20d8c0d3bb6d9854d2.png"
+      },
+      {
+        "comment_id": 20690876,
+        "uid": 100146480,
+        "content": "只能用美来形容",
+        "createtime": 1569644035,
+        "nickname": "勇者様さま",
+        "avatar": "https://avatar.dmzj.com/0a/ec/0aec4184d2c3dd819bd669f8fa54bd66.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,89 @@
+{
+  "id": 27489,
+  "islong": 2,
+  "direction": 2,
+  "title": "二十一世纪吐槽之抑郁而死",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1005376591450951539.jpg",
+  "description": "星漫文化",
+  "last_updatetime": 1450951554,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "e",
+  "comic_py": "ershiyishijitucaozhiyiyuersi",
+  "hidden": 0,
+  "hot_num": 645,
+  "hit_num": 4184,
+  "uid": 100537659,
+  "is_lock": 0,
+  "last_update_chapter_id": 45440,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10967,
+      "tag_name": "星漫文化 "
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45440,
+          "chapter_title": "1话",
+          "updatetime": 1450951554,
+          "filesize": 427272,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 10463948,
+        "uid": 107958320,
+        "content": "这就是一个小段子合集",
+        "createtime": 1548341898,
+        "nickname": "孟德耀",
+        "avatar": "https://avatar.dmzj.com/fb/67/fb6749bb6a697ef9b21875076c02f151.png"
+      },
+      {
+        "comment_id": 1219334,
+        "uid": 100791949,
+        "content": "。。。",
+        "createtime": 1472283516,
+        "nickname": "Dark winter",
+        "avatar": "https://avatar.dmzj.com/78/03/78034be3bfacdf22f23eb31cb1917558.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

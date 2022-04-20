@@ -1,0 +1,72 @@
+{
+  "id": 24656,
+  "islong": 2,
+  "direction": 2,
+  "title": "抄的",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1004913721446713077.jpg",
+  "description": "神乐动漫",
+  "last_updatetime": 1446713096,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "c",
+  "comic_py": "chaode",
+  "hidden": 0,
+  "hot_num": 666,
+  "hit_num": 852,
+  "uid": 100491372,
+  "is_lock": 0,
+  "last_update_chapter_id": 45007,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10848,
+      "tag_name": "神乐动漫"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45007,
+          "chapter_title": "1话",
+          "updatetime": 1446713096,
+          "filesize": 977559,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 28603,
+  "islong": 2,
+  "direction": 1,
+  "title": "贝里尼的圣母",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/beilinideshengmufengmianl.jpg",
+  "description": "讲述了在1891年伦敦的意见灵异事件",
+  "last_updatetime": 1453458827,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "beilinideshengmu",
+  "hidden": 1,
+  "hot_num": 26717,
+  "hit_num": 118118,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 45498,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11275,
+      "tag_name": "里维耶尔·费德里西"
+    }
+  ],
+  "subscribe_num": 209,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45498,
+          "chapter_title": "1卷",
+          "updatetime": 1453458827,
+          "filesize": 6696333,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 24905126,
+        "uid": 109285197,
+        "content": "又没了",
+        "createtime": 1583404664,
+        "nickname": "beckymei",
+        "avatar": "https://avatar.dmzj.com/3e/a6/3ea630a74674d5523646b75d94b14364.png"
+      },
+      {
+        "comment_id": 22769544,
+        "uid": 107860515,
+        "content": "一",
+        "createtime": 1577002896,
+        "nickname": "十庸",
+        "avatar": "https://avatar.dmzj.com/79/b6/79b67b4bdf34de68fb93cd276b15d57f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

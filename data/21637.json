@@ -1,0 +1,94 @@
+{
+  "id": 21637,
+  "islong": 2,
+  "direction": 1,
+  "title": "漫画少年",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/manhuashaonian.jpg",
+  "description": "《漫画少年》，从来都是港产漫画中的异类，就算是当年出版的88期漫画少年，在港書壇中，也只是本叫好，卻不太叫座的作品。",
+  "last_updatetime": 1442998779,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "manhuashaonian",
+  "hidden": 1,
+  "hot_num": 8014,
+  "hit_num": 137425,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 45572,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1365,
+      "tag_name": "许景琛"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 54,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45572,
+          "chapter_title": "2卷",
+          "updatetime": 1442998779,
+          "filesize": 17100019,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 45571,
+          "chapter_title": "1卷",
+          "updatetime": 1442998771,
+          "filesize": 16203157,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 4625207,
+        "uid": 102383702,
+        "content": "真系精彩",
+        "createtime": 1525776837,
+        "nickname": "魔夜2出啦",
+        "avatar": "https://avatar.dmzj.com/35/03/3503342b7d5e4ea33524314a1e28cbea.png"
+      },
+      {
+        "comment_id": 3894291,
+        "uid": 100062481,
+        "content": "既然没人emmm",
+        "createtime": 1518718972,
+        "nickname": "pinkpink_bear",
+        "avatar": "https://avatar.dmzj.com/44/96/4496b9aeb7439243e71450ef3a030c23.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

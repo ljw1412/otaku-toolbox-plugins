@@ -1,0 +1,109 @@
+{
+  "id": 29224,
+  "islong": 2,
+  "direction": 1,
+  "title": "盖塔机器人ARC",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/gaitajiqiren.jpg",
+  "description": "盖塔机器人主角龙马的兒子托马登上盖塔机器人ARC的故事",
+  "last_updatetime": 1461774092,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gaitajiqirenarc",
+  "hidden": 0,
+  "hot_num": 303175,
+  "hit_num": 2488508,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 49361,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3325,
+      "tag_name": "机战"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 230,
+      "tag_name": "永井豪"
+    },
+    {
+      "tag_id": 3988,
+      "tag_name": "石川贤"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1666,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49361,
+          "chapter_title": "3卷",
+          "updatetime": 1461774092,
+          "filesize": 41962790,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 49023,
+          "chapter_title": "2卷",
+          "updatetime": 1460810566,
+          "filesize": 50250497,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 47138,
+          "chapter_title": "1卷",
+          "updatetime": 1456733952,
+          "filesize": 46196467,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 32,
+    "latest_comment": [
+      {
+        "comment_id": 23653060,
+        "uid": 102557694,
+        "content": "不错",
+        "createtime": 1580455997,
+        "nickname": "Monkey D 路飞",
+        "avatar": "https://avatar.dmzj.com/05/78/0578052a16a705abd0bf1dee73f3a0c8.png"
+      },
+      {
+        "comment_id": 22199237,
+        "uid": 102329892,
+        "content": "最后登场的应该是真盖塔龙(盖塔大决战和机战T那台)吧，不过因为石川贤老师去世我们已经永远无法知晓盖塔的后续了，说真的至今也没有谁的脑洞能真正达到石川贤老师的高度，盖塔的后续作品可能无法续写只能像新盖塔一样注重还原或者最后之日这样讲完全不同的东西了",
+        "createtime": 1574157867,
+        "nickname": "ytysw",
+        "avatar": "https://avatar.dmzj.com/87/62/8762515f55dae0fa107f194d30e599b5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

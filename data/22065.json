@@ -1,0 +1,81 @@
+{
+  "id": 22065,
+  "islong": 2,
+  "direction": 2,
+  "title": "childhood",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1004604581446173852.jpg",
+  "description": "作者很懒什么介绍也没有",
+  "last_updatetime": 1446174040,
+  "last_update_chapter_name": "childhood",
+  "copyright": 1,
+  "first_letter": "c",
+  "comic_py": "childhood",
+  "hidden": 0,
+  "hot_num": 1135,
+  "hit_num": 5928,
+  "uid": 100460458,
+  "is_lock": 0,
+  "last_update_chapter_id": 46917,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10806,
+      "tag_name": "二囬"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46917,
+          "chapter_title": "1话",
+          "updatetime": 1446174040,
+          "filesize": 348398,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 502371,
+        "uid": 100228997,
+        "content": "加油，挺棒的！",
+        "createtime": 1446217007,
+        "nickname": "随晨飞",
+        "avatar": "https://avatar.dmzj.com/63/f6/63f6802f846f86b2264ab70c4198ccb5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

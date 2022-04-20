@@ -1,0 +1,95 @@
+{
+  "id": 24113,
+  "islong": 2,
+  "direction": 2,
+  "title": "百科糗事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1004999041446798256.jpg",
+  "description": "糗百热门段子改编。你是糗迷，你懂得-----",
+  "last_updatetime": 1446798414,
+  "last_update_chapter_name": "病因",
+  "copyright": 1,
+  "first_letter": "b",
+  "comic_py": "baikeshi",
+  "hidden": 0,
+  "hot_num": 788,
+  "hit_num": 2253,
+  "uid": 100499904,
+  "is_lock": 0,
+  "last_update_chapter_id": 42991,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10869,
+      "tag_name": "小和漫画"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42991,
+          "chapter_title": "3话",
+          "updatetime": 1446798414,
+          "filesize": 74419,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 42990,
+          "chapter_title": "2话",
+          "updatetime": 1446798360,
+          "filesize": 57512,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42989,
+          "chapter_title": "1话",
+          "updatetime": 1446798315,
+          "filesize": 57352,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 508341,
+        "uid": 100502382,
+        "content": "完全get不到笑点",
+        "createtime": 1446877582,
+        "nickname": "橙子味的鹿肉包子",
+        "avatar": "https://avatar.dmzj.com/be/32/be32f250cea2a9043a3cf2de1860e73f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

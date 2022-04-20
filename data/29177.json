@@ -1,0 +1,74 @@
+{
+  "id": 29177,
+  "islong": 2,
+  "direction": 2,
+  "title": "神奇X战警V1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/sqxzj68l.jpg",
+  "description": "改变欧洲最高人类委员会的计划该如何执行？他们又能否成功将天启困住？",
+  "last_updatetime": 1455778919,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shenqixzhanjingv1",
+  "hidden": 0,
+  "hot_num": 20698,
+  "hit_num": 30835,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 50675,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 156,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50675,
+          "chapter_title": "1卷",
+          "updatetime": 1455778919,
+          "filesize": 4311045,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

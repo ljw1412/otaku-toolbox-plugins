@@ -1,0 +1,81 @@
+{
+  "id": 21405,
+  "islong": 2,
+  "direction": 2,
+  "title": "瓜田攻略",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1003423401440484513.jpg",
+  "description": "瓜田攻略",
+  "last_updatetime": 1440484541,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "g",
+  "comic_py": "guatiangonglue",
+  "hidden": 0,
+  "hot_num": 655,
+  "hit_num": 5314,
+  "uid": 100342340,
+  "is_lock": 0,
+  "last_update_chapter_id": 45350,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10381,
+      "tag_name": "周绘"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45350,
+          "chapter_title": "1话",
+          "updatetime": 1440484541,
+          "filesize": 1490509,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 5603562,
+        "uid": 103466522,
+        "content": "看就是不服过来的。。。￣ ￣)σ",
+        "createtime": 1531549004,
+        "nickname": "音障（yz）（窑子）",
+        "avatar": "https://avatar.dmzj.com/41/8c/418cb016f0d537b80796c0a0ae3e4409.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

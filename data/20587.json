@@ -1,0 +1,81 @@
+{
+  "id": 20587,
+  "islong": 2,
+  "direction": 2,
+  "title": "心咒 ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1002851491438360707.jpg",
+  "description": "心咒\n",
+  "last_updatetime": 1438360733,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xinzhou",
+  "hidden": 0,
+  "hot_num": 1203,
+  "hit_num": 7392,
+  "uid": 100285149,
+  "is_lock": 0,
+  "last_update_chapter_id": 43660,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10097,
+      "tag_name": "京门末年"
+    }
+  ],
+  "subscribe_num": 11,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43660,
+          "chapter_title": "1话",
+          "updatetime": 1438360733,
+          "filesize": 587388,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 442545,
+        "uid": 100102993,
+        "content": "总觉得和蔷薇少女好像……",
+        "createtime": 1438435068,
+        "nickname": "泠泠姐",
+        "avatar": "https://avatar.dmzj.com/4e/7d/4e7dc754cd3b344071405ce4f1bd9127.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

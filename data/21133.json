@@ -1,0 +1,72 @@
+{
+  "id": 21133,
+  "islong": 2,
+  "direction": 2,
+  "title": "炮炮兵",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871439972181.jpg",
+  "description": "炮炮兵",
+  "last_updatetime": 1439972200,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "p",
+  "comic_py": "paopaobing",
+  "hidden": 0,
+  "hot_num": 5046,
+  "hit_num": 66616,
+  "uid": 100205887,
+  "is_lock": 0,
+  "last_update_chapter_id": 40645,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "subscribe_num": 21,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40645,
+          "chapter_title": "1话",
+          "updatetime": 1439972200,
+          "filesize": 1105128,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

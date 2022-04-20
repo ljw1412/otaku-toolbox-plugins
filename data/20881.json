@@ -1,0 +1,80 @@
+{
+  "id": 20881,
+  "islong": 2,
+  "direction": 1,
+  "title": "空之森",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1003028241439359298.jpg",
+  "description": "达伦.M.斯帕克，年仅14岁已经是可以维修空之城的机械师了，有一台自己发明创造的机器人滴滴。一天达伦突然接到女王下达的封锁所有电梯的命令，在关闭电梯的过程中达伦遇见了改变他一生的人——索耶",
+  "last_updatetime": 1439359584,
+  "last_update_chapter_name": "全一话",
+  "copyright": 1,
+  "first_letter": "k",
+  "comic_py": "kongzhisen",
+  "hidden": 0,
+  "hot_num": 4885,
+  "hit_num": 295836,
+  "uid": 100302824,
+  "is_lock": 0,
+  "last_update_chapter_id": 41854,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10249,
+      "tag_name": "贝贝菌"
+    }
+  ],
+  "subscribe_num": 31,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41854,
+          "chapter_title": "1话",
+          "updatetime": 1439359584,
+          "filesize": 5722021,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

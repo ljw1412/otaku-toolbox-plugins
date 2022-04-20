@@ -1,0 +1,81 @@
+{
+  "id": 23069,
+  "islong": 2,
+  "direction": 2,
+  "title": "当夜宵店撞到茶餐厅",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446460466.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446460481,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "d",
+  "comic_py": "dangyexiaodianzhuangdaochacanting",
+  "hidden": 0,
+  "hot_num": 1087,
+  "hit_num": 8607,
+  "uid": 100469239,
+  "is_lock": 0,
+  "last_update_chapter_id": 43060,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43060,
+          "chapter_title": "1话",
+          "updatetime": 1446460481,
+          "filesize": 665292,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 4957523,
+        "uid": 104588163,
+        "content": "我能吐槽，不仅没人，你们还TMD一话一书这样的节奏来上传？！简直了",
+        "createtime": 1528043330,
+        "nickname": "隔壁李某",
+        "avatar": "https://avatar.dmzj.com/80/37/80378088bcccd94da40e7faa317ed0fc.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

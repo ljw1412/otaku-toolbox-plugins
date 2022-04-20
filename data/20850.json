@@ -1,0 +1,91 @@
+{
+  "id": 20850,
+  "islong": 2,
+  "direction": 2,
+  "title": "白幽灵",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/Fantomexxzbyl810000.jpg",
+  "description": "寻找白幽灵",
+  "last_updatetime": 1444311382,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "baiyouling",
+  "hidden": 0,
+  "hot_num": 26722,
+  "hit_num": 73117,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 46193,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3483,
+      "tag_name": "MAX Comics"
+    }
+  ],
+  "subscribe_num": 119,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46193,
+          "chapter_title": "4卷",
+          "updatetime": 1444311382,
+          "filesize": 3347312,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 44884,
+          "chapter_title": "3卷",
+          "updatetime": 1440694037,
+          "filesize": 3159287,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 44128,
+          "chapter_title": "2卷",
+          "updatetime": 1439221742,
+          "filesize": 3603466,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 46192,
+          "chapter_title": "1卷",
+          "updatetime": 1444311270,
+          "filesize": 3953660,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

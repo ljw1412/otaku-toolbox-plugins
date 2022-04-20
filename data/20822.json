@@ -1,0 +1,91 @@
+{
+  "id": 20822,
+  "islong": 2,
+  "direction": 1,
+  "title": "海滩的记忆",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/haitandejiyifengmainl.jpg",
+  "description": "封面暴露系列 药厂汉化w",
+  "last_updatetime": 1439108019,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "haitandejiyi",
+  "hidden": 0,
+  "hot_num": 34756,
+  "hit_num": 200626,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 43991,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10212,
+      "tag_name": "ROCCA"
+    }
+  ],
+  "subscribe_num": 207,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43991,
+          "chapter_title": "1话",
+          "updatetime": 1439108019,
+          "filesize": 6908393,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 6350830,
+        "uid": 105443877,
+        "content": "为什么这么好的漫画没人咧",
+        "createtime": 1534618232,
+        "nickname": "猎残",
+        "avatar": "https://avatar.dmzj.com/39/72/39725177713a67bdea43bc6cfcff795f.png"
+      },
+      {
+        "comment_id": 1735410,
+        "uid": 102798175,
+        "content": "画风剧情都很优质",
+        "createtime": 1485693555,
+        "nickname": "Gluttony-Envy",
+        "avatar": "https://avatar.dmzj.com/54/3c/543c034faf97cefd8b2dc85966185047.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

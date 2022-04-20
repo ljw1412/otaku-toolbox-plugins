@@ -1,0 +1,93 @@
+{
+  "id": 20690,
+  "islong": 2,
+  "direction": 2,
+  "title": "丧尸之城",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1002936581438680631.jpg",
+  "description": "长期更新请到有妖气",
+  "last_updatetime": 1438683355,
+  "last_update_chapter_name": "第00话 起源",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "sangshizhicheng",
+  "hidden": 0,
+  "hot_num": 29213,
+  "hit_num": 445354,
+  "uid": 100293658,
+  "is_lock": 0,
+  "last_update_chapter_id": 43869,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10141,
+      "tag_name": "千君"
+    }
+  ],
+  "subscribe_num": 119,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43869,
+          "chapter_title": "0话",
+          "updatetime": 1438683355,
+          "filesize": 1309132,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 19231087,
+        "uid": 109581599,
+        "content": "额，加油吧，慢慢的就画风好了，加油",
+        "createtime": 1565433717,
+        "nickname": "七宗罪丶Proud",
+        "avatar": "https://avatar.dmzj.com/10/fe/10fe3f15cee1221d6a528f26f75112a7.png"
+      },
+      {
+        "comment_id": 19058249,
+        "uid": 107434092,
+        "content": "画面太美",
+        "createtime": 1565013680,
+        "nickname": "zero邓雪飞",
+        "avatar": "https://avatar.dmzj.com/61/82/61829a2a9068ff69cf25dcfaedd63a1c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

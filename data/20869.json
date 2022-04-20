@@ -1,0 +1,87 @@
+{
+  "id": 20869,
+  "islong": 2,
+  "direction": 2,
+  "title": "不朽铁拳",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/buxioutiequanfengmianl.jpg",
+  "description": "从古至今，铁拳这一称号代代传承。而当下，铁拳由丹尼.兰德继承，这会给丹尼的未来带来些什么呢？",
+  "last_updatetime": 1439343188,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "buxioutiequan",
+  "hidden": 0,
+  "hot_num": 32424,
+  "hit_num": 61234,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 40285,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 214,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40285,
+          "chapter_title": "1卷",
+          "updatetime": 1439343188,
+          "filesize": 3902217,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 13679827,
+        "uid": 108577616,
+        "content": "英文上下两部 kindle可以借 这才翻译了前两卷",
+        "createtime": 1554232771,
+        "nickname": "dietcoke",
+        "avatar": "https://avatar.dmzj.com/82/98/8298f246bc12797ac51a4576ed332c6f.png"
+      },
+      {
+        "comment_id": 9819344,
+        "uid": 106254926,
+        "content": "不朽铁拳应该有六卷吧",
+        "createtime": 1546904791,
+        "nickname": "终夜暮光",
+        "avatar": "https://avatar.dmzj.com/68/8f/688fb1f810aacf33d260a38224e80832.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

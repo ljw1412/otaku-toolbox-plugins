@@ -1,0 +1,87 @@
+{
+  "id": 21018,
+  "islong": 2,
+  "direction": 1,
+  "title": "My little santa claus",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/Mylittlesantaclasfengmianl.jpg",
+  "description": "和哥哥一起一起，酱酱酿酿……",
+  "last_updatetime": 1439889968,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mylittlesantaclaus",
+  "hidden": 0,
+  "hot_num": 136525,
+  "hit_num": 172304,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 40449,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10312,
+      "tag_name": "猫丸恋太郎"
+    }
+  ],
+  "subscribe_num": 685,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40449,
+          "chapter_title": "1话",
+          "updatetime": 1439889968,
+          "filesize": 644120,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 105,
+    "latest_comment": [
+      {
+        "comment_id": 27064216,
+        "uid": 107861829,
+        "content": "My littld santa claus",
+        "createtime": 1588494340,
+        "nickname": "一梦如水",
+        "avatar": "https://avatar.dmzj.com/39/07/390777589ae372f3b9925e12db37264f.png"
+      },
+      {
+        "comment_id": 24927082,
+        "uid": 104852302,
+        "content": "冲动的惩罚 看了不该看的东西",
+        "createtime": 1583430510,
+        "nickname": "丿暗丶樱CL",
+        "avatar": "https://avatar.dmzj.com/82/02/82022da7a2b78c865fef93dc034663d0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

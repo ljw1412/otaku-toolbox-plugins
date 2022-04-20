@@ -1,0 +1,87 @@
+{
+  "id": 2232,
+  "islong": 2,
+  "direction": 1,
+  "title": "Angel-Sky",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/Angel-Sky.jpg",
+  "description": "恋爱常伴随泪水",
+  "last_updatetime": 1270623956,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "angelsky",
+  "hidden": 0,
+  "hot_num": 169615,
+  "hit_num": 1658085,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 5345,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1386,
+      "tag_name": "车谷晴子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 912,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 5345,
+          "chapter_title": "1话",
+          "updatetime": 1271228756,
+          "filesize": 4420725,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 25826760,
+        "uid": 101665347,
+        "content": "点相关内容md吓我一跳",
+        "createtime": 1585493166,
+        "nickname": "话癌重症患者",
+        "avatar": "https://avatar.dmzj.com/3b/e2/3be24aef0ea77fae73160cbd2a9cc20b.png"
+      },
+      {
+        "comment_id": 24268042,
+        "uid": 108958223,
+        "content": "只有一话？",
+        "createtime": 1582008854,
+        "nickname": "侄得",
+        "avatar": "https://avatar.dmzj.com/95/84/958487a762c89663172912cec31800f7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

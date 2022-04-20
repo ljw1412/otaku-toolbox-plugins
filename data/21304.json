@@ -1,0 +1,89 @@
+{
+  "id": 21304,
+  "islong": 2,
+  "direction": 2,
+  "title": "恋爱吧！学渣君",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1002365721441085890.jpg",
+  "description": "瞳漫",
+  "last_updatetime": 1441085919,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "l",
+  "comic_py": "lianaibaxuezhajun",
+  "hidden": 0,
+  "hot_num": 1428,
+  "hit_num": 8820,
+  "uid": 100236572,
+  "is_lock": 0,
+  "last_update_chapter_id": 40986,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10472,
+      "tag_name": "苡茉"
+    }
+  ],
+  "subscribe_num": 14,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40986,
+          "chapter_title": "1话",
+          "updatetime": 1441085919,
+          "filesize": 403482,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 469433,
+        "uid": 100364575,
+        "content": "不好看",
+        "createtime": 1441599218,
+        "nickname": "达·芬奇40541",
+        "avatar": "https://avatar.dmzj.com/1d/2c/1d2c0bc047b04d605e8849ceb47d860b.png"
+      },
+      {
+        "comment_id": 466131,
+        "uid": 100221969,
+        "content": "好短",
+        "createtime": 1441154484,
+        "nickname": "좋아해",
+        "avatar": "https://avatar.dmzj.com/8c/d6/8cd663c46962d8ea70aaf914df223cb0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

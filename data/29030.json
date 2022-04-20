@@ -1,0 +1,87 @@
+{
+  "id": 29030,
+  "islong": 1,
+  "direction": 1,
+  "title": "机械之灵",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/jixiezhiling.jpg",
+  "description": "LOL同人漫画机械之灵。",
+  "last_updatetime": 1454302370,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jixiezhiling",
+  "hidden": 0,
+  "hot_num": 19374,
+  "hit_num": 89805,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 50297,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11315,
+      "tag_name": "GRONOC"
+    }
+  ],
+  "subscribe_num": 171,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50297,
+          "chapter_title": "1话",
+          "updatetime": 1454302370,
+          "filesize": 4515467,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 26446159,
+        "uid": 108014255,
+        "content": "传送点准备投放，代号239，投放完毕。赞",
+        "createtime": 1586793589,
+        "nickname": "时间轴EX",
+        "avatar": "https://avatar.dmzj.com/b0/5c/b05c2fc575192c379a35fc0600ebac5e.png"
+      },
+      {
+        "comment_id": 3075040,
+        "uid": 101456985,
+        "content": "薛凯文",
+        "createtime": 1507698377,
+        "nickname": "yooo67929",
+        "avatar": "https://avatar.dmzj.com/ce/ff/ceff81981bc373d00384395929801cf5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

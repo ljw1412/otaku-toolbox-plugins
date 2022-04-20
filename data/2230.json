@@ -1,0 +1,87 @@
+{
+  "id": 2230,
+  "islong": 2,
+  "direction": 1,
+  "title": "庵☆Limited",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/44929841200905231224153735190080313_000_566e79ee977a3f288b454a07b8954798.jpg",
+  "description": "短篇漫画",
+  "last_updatetime": 1270623626,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "anlimited",
+  "hidden": 0,
+  "hot_num": 201129,
+  "hit_num": 1482923,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 7103,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1045,
+      "tag_name": "山口ミコト"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1016,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 7103,
+          "chapter_title": "1话",
+          "updatetime": 1271228427,
+          "filesize": 5161578,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 52,
+    "latest_comment": [
+      {
+        "comment_id": 24818768,
+        "uid": 104567670,
+        "content": "好好奇",
+        "createtime": 1583240956,
+        "nickname": "席灯",
+        "avatar": "https://avatar.dmzj.com/36/50/36501930dfb07c8495bfeb96eaf62d90.png"
+      },
+      {
+        "comment_id": 23597580,
+        "uid": 100917899,
+        "content": "以前在恐怖杂志上看到过",
+        "createtime": 1580297798,
+        "nickname": "嘉术2015",
+        "avatar": "https://avatar.dmzj.com/40/51/405144bb1316456a1ea080a074898764.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,136 @@
+{
+  "id": 25831,
+  "islong": 2,
+  "direction": 1,
+  "title": "神画师日志",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/00shenhuashi12700.jpg",
+  "description": "就算在什么也没有的小镇画师也是存在的哦",
+  "last_updatetime": 1460028048,
+  "last_update_chapter_name": "第08话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shenhuashiriji",
+  "hidden": 0,
+  "hot_num": 37318,
+  "hit_num": 283853,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 50646,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11048,
+      "tag_name": "樱乃みか"
+    }
+  ],
+  "subscribe_num": 970,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50646,
+          "chapter_title": "8话",
+          "updatetime": 1460028048,
+          "filesize": 1693115,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 49359,
+          "chapter_title": "7话",
+          "updatetime": 1457190016,
+          "filesize": 1869243,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 48569,
+          "chapter_title": "6话",
+          "updatetime": 1455586550,
+          "filesize": 1675737,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 48338,
+          "chapter_title": "5话",
+          "updatetime": 1454807386,
+          "filesize": 1428447,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 47385,
+          "chapter_title": "4话",
+          "updatetime": 1452617581,
+          "filesize": 1711918,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 46816,
+          "chapter_title": "3话",
+          "updatetime": 1451123468,
+          "filesize": 1526160,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 46155,
+          "chapter_title": "2话",
+          "updatetime": 1449923342,
+          "filesize": 1546920,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 45908,
+          "chapter_title": "1话",
+          "updatetime": 1449502986,
+          "filesize": 1867451,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 55,
+    "latest_comment": [
+      {
+        "comment_id": 18159052,
+        "uid": 108334124,
+        "content": "好看",
+        "createtime": 1563003941,
+        "nickname": "dmzj_108334124",
+        "avatar": "https://avatar.dmzj.com/b7/8a/b78a796761d498aa048e1ccbc7b97fa7.png"
+      },
+      {
+        "comment_id": 16533705,
+        "uid": 100202494,
+        "content": "想看",
+        "createtime": 1559053420,
+        "nickname": "淡色阳光",
+        "avatar": "https://avatar.dmzj.com/14/27/142741eb5954861188e94a93eaceee51.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

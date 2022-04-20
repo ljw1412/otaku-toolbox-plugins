@@ -1,0 +1,95 @@
+{
+  "id": 21246,
+  "islong": 2,
+  "direction": 1,
+  "title": "假面骑士zo",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/jiamianqishizofengmianl.jpg",
+  "description": "假面骑士zo漫画版",
+  "last_updatetime": 1440834892,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jiamainqishizo",
+  "hidden": 0,
+  "hot_num": 417248,
+  "hit_num": 1080874,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 42492,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1509,
+      "tag_name": "石之森章太郎"
+    },
+    {
+      "tag_id": 2707,
+      "tag_name": "岛本和彦"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1927,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42492,
+          "chapter_title": "1卷",
+          "updatetime": 1440834892,
+          "filesize": 26644043,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 38,
+    "latest_comment": [
+      {
+        "comment_id": 26472623,
+        "uid": 107845457,
+        "content": "其实一口一个兄贵，看的我是真的(//∇//)",
+        "createtime": 1586866193,
+        "nickname": "JOJOo我不做人了",
+        "avatar": "https://avatar.dmzj.com/80/43/80433020f2840314936dfb29485f9f25.png"
+      },
+      {
+        "comment_id": 25110438,
+        "uid": 107549732,
+        "content": "大家好，我是来评论一下的,据说要长一点，不然会被清除,所以我试着把它弄成一点儿,希望不要经常被清除吧。",
+        "createtime": 1583847227,
+        "nickname": "dmzj_107549732",
+        "avatar": "https://avatar.dmzj.com/90/a6/90a6b7e329785bc2a50ba5b0973923ce.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

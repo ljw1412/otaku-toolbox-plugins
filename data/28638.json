@@ -1,0 +1,97 @@
+{
+  "id": 28638,
+  "islong": 2,
+  "direction": 2,
+  "title": "理想是拯救世界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1007792981453794734.jpg",
+  "description": "一个严肃？的吐槽向热血漫画~",
+  "last_updatetime": 1453794891,
+  "last_update_chapter_name": "突然开始的序章",
+  "copyright": 1,
+  "first_letter": "l",
+  "comic_py": "lixiangshizhengjiushijie",
+  "hidden": 0,
+  "hot_num": 4154,
+  "hit_num": 55127,
+  "uid": 100779298,
+  "is_lock": 0,
+  "last_update_chapter_id": 45590,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11289,
+      "tag_name": "阿里栗"
+    }
+  ],
+  "subscribe_num": 28,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45590,
+          "chapter_title": "1话",
+          "updatetime": 1453794891,
+          "filesize": 1643041,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 7234399,
+        "uid": 107262050,
+        "content": "虽然有点糙 ，但还是挺好的。",
+        "createtime": 1538843697,
+        "nickname": "洛洛洛洛克菲勒",
+        "avatar": "https://avatar.dmzj.com/91/66/916609df9a0f2498eb3e36f34d44af31.png"
+      },
+      {
+        "comment_id": 589249,
+        "uid": 100286865,
+        "content": "封面和人设图都不错，可为什么里面画得这么糙",
+        "createtime": 1453819939,
+        "nickname": "ouqiujv",
+        "avatar": "https://avatar.dmzj.com/ba/96/ba9653b9900fb21e65212c2bf7285c59.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

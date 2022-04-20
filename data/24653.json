@@ -1,0 +1,81 @@
+{
+  "id": 24653,
+  "islong": 2,
+  "direction": 2,
+  "title": "好日子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1004913721446713014.jpg",
+  "description": "神乐动漫",
+  "last_updatetime": 1446713025,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "h",
+  "comic_py": "haorizi",
+  "hidden": 0,
+  "hot_num": 654,
+  "hit_num": 774,
+  "uid": 100491372,
+  "is_lock": 0,
+  "last_update_chapter_id": 43168,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10848,
+      "tag_name": "神乐动漫"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43168,
+          "chapter_title": "1话",
+          "updatetime": 1446713025,
+          "filesize": 659122,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 20825273,
+        "uid": 105854676,
+        "content": "好日子到头了",
+        "createtime": 1570010476,
+        "nickname": "不透露姓名的沙雕网友",
+        "avatar": "https://avatar.dmzj.com/22/92/229269b0957d4ffe1109ed11da9e10cf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

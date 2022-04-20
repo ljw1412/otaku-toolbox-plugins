@@ -1,0 +1,91 @@
+{
+  "id": 20077,
+  "islong": 2,
+  "direction": 1,
+  "title": "Chirality",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/0721Chiralityfml.jpg",
+  "description": "广阔的宇宙为舞台，一世一代的胜负拉开了帷幕！远离着地球的人们在宇宙的尽头所想的是……？",
+  "last_updatetime": 1437450189,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chirality",
+  "hidden": 0,
+  "hot_num": 16197,
+  "hit_num": 136116,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 43214,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4399,
+      "tag_name": "大石胜(大石まさる)"
+    }
+  ],
+  "subscribe_num": 128,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43214,
+          "chapter_title": "1话",
+          "updatetime": 1437450189,
+          "filesize": 4114016,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 13945320,
+        "uid": 100193340,
+        "content": "hhk",
+        "createtime": 1554701528,
+        "nickname": "webxon",
+        "avatar": "https://avatar.dmzj.com/23/13/231359d9ee50df7745c1ecb2081edbfb.png"
+      },
+      {
+        "comment_id": 436153,
+        "uid": 100218016,
+        "content": "回复 @回爷的话:沙发",
+        "createtime": 1437725729,
+        "nickname": "回爷的话",
+        "avatar": "https://avatar.dmzj.com/38/07/380706af0a6d025227997155788b0795.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

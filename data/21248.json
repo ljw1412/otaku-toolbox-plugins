@@ -1,0 +1,112 @@
+{
+  "id": 21248,
+  "islong": 2,
+  "direction": 1,
+  "title": "舰娘涂鸦漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/jianniangtuyamanhua.jpg",
+  "description": "舰娘的同人漫画。",
+  "last_updatetime": 1440850145,
+  "last_update_chapter_name": "第07话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jianniangtutamanhua",
+  "hidden": 0,
+  "hot_num": 210598,
+  "hit_num": 948177,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 40852,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10400,
+      "tag_name": "こうじ"
+    }
+  ],
+  "subscribe_num": 1673,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40852,
+          "chapter_title": "7话",
+          "updatetime": 1440850145,
+          "filesize": 505170,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 40851,
+          "chapter_title": "6话",
+          "updatetime": 1440850136,
+          "filesize": 685098,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 40850,
+          "chapter_title": "2话",
+          "updatetime": 1440849820,
+          "filesize": 3208978,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 40849,
+          "chapter_title": "1话",
+          "updatetime": 1440849815,
+          "filesize": 5320358,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 20069597,
+        "uid": 106373181,
+        "content": "谁能告诉我封面是哪个画师的作品呢，感激不尽",
+        "createtime": 1567751578,
+        "nickname": "dmzj_106373181",
+        "avatar": "https://avatar.dmzj.com/7c/93/7c93b63ca9cfbcbf0189997253e9723e.png"
+      },
+      {
+        "comment_id": 17978238,
+        "uid": 106439783,
+        "content": "康康",
+        "createtime": 1562597072,
+        "nickname": "花夏黑目",
+        "avatar": "https://avatar.dmzj.com/60/ff/60ff7acd487e914328ca8fbc72442db8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

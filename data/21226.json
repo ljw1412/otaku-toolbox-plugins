@@ -1,0 +1,97 @@
+{
+  "id": 21226,
+  "islong": 2,
+  "direction": 2,
+  "title": "短篇小故事合集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1002850971440737262.jpg",
+  "description": "各种题材的短篇小故事，尽量一话一完结~",
+  "last_updatetime": 1440738037,
+  "last_update_chapter_name": "第一个故事——魔法人偶",
+  "copyright": 1,
+  "first_letter": "d",
+  "comic_py": "duanpianxiaogushiheji",
+  "hidden": 0,
+  "hot_num": 4588,
+  "hit_num": 81379,
+  "uid": 100285097,
+  "is_lock": 0,
+  "last_update_chapter_id": 42458,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10423,
+      "tag_name": "外叶浅浅"
+    }
+  ],
+  "subscribe_num": 51,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42458,
+          "chapter_title": "1话",
+          "updatetime": 1440738037,
+          "filesize": 2024893,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "不定时更新~",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 1003636,
+        "uid": 101628389,
+        "content": "画风真好，国漫之光",
+        "createtime": 1468303876,
+        "nickname": "咩宝倩",
+        "avatar": "https://avatar.dmzj.com/38/93/38930169c15a088a4f8f9afc913d830e.png"
+      },
+      {
+        "comment_id": 490080,
+        "uid": 100427759,
+        "content": "为什么不更了",
+        "createtime": 1444573919,
+        "nickname": "什么都无法阻挡我的帅气",
+        "avatar": "https://avatar.dmzj.com/85/60/85609fe3ed8d43dc81b30ec5f58e0a10.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

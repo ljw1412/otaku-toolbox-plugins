@@ -1,0 +1,91 @@
+{
+  "id": 29238,
+  "islong": 2,
+  "direction": 2,
+  "title": "金色先锋：致命玩笑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/jinsexianfengzhimingwanxiao.jpg",
+  "description": "你闻所未闻的大英雄的故事。",
+  "last_updatetime": 1456283179,
+  "last_update_chapter_name": "第05卷",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jinsexianfengzhimingwanxiao",
+  "hidden": 0,
+  "hot_num": 46128,
+  "hit_num": 70762,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 46327,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 279,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46327,
+          "chapter_title": "5卷",
+          "updatetime": 1456283179,
+          "filesize": 3238363,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 18940644,
+        "uid": 104992641,
+        "content": "感觉还行",
+        "createtime": 1564766134,
+        "nickname": "kano16544",
+        "avatar": "https://avatar.dmzj.com/02/70/0270c7e2c3632267d754fcd73149e37b.png"
+      },
+      {
+        "comment_id": 2775670,
+        "uid": 102402006,
+        "content": "这不是我想看的那个致命玩笑",
+        "createtime": 1503326046,
+        "nickname": "見崎鸣",
+        "avatar": "https://avatar.dmzj.com/38/95/3895ff818ffe1a2d53ac03b80d74fdc6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

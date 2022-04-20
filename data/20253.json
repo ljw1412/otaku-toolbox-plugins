@@ -1,0 +1,87 @@
+{
+  "id": 20253,
+  "islong": 2,
+  "direction": 1,
+  "title": "GUMI from Vocaloid",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/GUMIfromVocaloidfengmianl.jpg",
+  "description": "飞出屏幕的GUMI酱我也要啊~GUMI酱的官方漫画。",
+  "last_updatetime": 1437988616,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gumifromvocaloid",
+  "hidden": 0,
+  "hot_num": 62698,
+  "hit_num": 154975,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 39576,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3326,
+      "tag_name": "音乐舞蹈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10034,
+      "tag_name": "铁田猿儿"
+    }
+  ],
+  "subscribe_num": 384,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39576,
+          "chapter_title": "1话",
+          "updatetime": 1437988616,
+          "filesize": 6006399,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 25201649,
+        "uid": 109033956,
+        "content": "这是炸了吧",
+        "createtime": 1584063362,
+        "nickname": "dmzj_109033956",
+        "avatar": "https://avatar.dmzj.com/4f/cd/4fcd7de98b60f3f2e5b42199ad9d7fc2.png"
+      },
+      {
+        "comment_id": 22746598,
+        "uid": 102323182,
+        "content": "awsl",
+        "createtime": 1576908164,
+        "nickname": "Rin酱必须大爱",
+        "avatar": "https://avatar.dmzj.com/ca/66/ca66069d40803ed0edad5ba364750d0d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

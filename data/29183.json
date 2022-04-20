@@ -1,0 +1,293 @@
+{
+  "id": 29183,
+  "islong": 2,
+  "direction": 2,
+  "title": "扫雷",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1008802911455785635.jpg",
+  "description": "这是一部酝酿很久的作品，不管你以为这是什么漫画，这就是那部（见标题）漫画。 ",
+  "last_updatetime": 1539950434,
+  "last_update_chapter_name": "重制 - 01",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "saolei",
+  "hidden": 0,
+  "hot_num": 428279,
+  "hit_num": 6180138,
+  "uid": 100880291,
+  "is_lock": 0,
+  "last_update_chapter_id": 77370,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11379,
+      "tag_name": "唐尸三百"
+    }
+  ],
+  "subscribe_num": 2002,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66738,
+          "chapter_title": "28话",
+          "updatetime": 1515502083,
+          "filesize": 1534054,
+          "chapter_order": 28
+        },
+        {
+          "chapter_id": 66309,
+          "chapter_title": "27话",
+          "updatetime": 1514471917,
+          "filesize": 907916,
+          "chapter_order": 27
+        },
+        {
+          "chapter_id": 65653,
+          "chapter_title": "26话",
+          "updatetime": 1512555199,
+          "filesize": 986027,
+          "chapter_order": 26
+        },
+        {
+          "chapter_id": 65004,
+          "chapter_title": "25话",
+          "updatetime": 1510841218,
+          "filesize": 948475,
+          "chapter_order": 25
+        },
+        {
+          "chapter_id": 64425,
+          "chapter_title": "24话",
+          "updatetime": 1509101083,
+          "filesize": 864740,
+          "chapter_order": 24
+        },
+        {
+          "chapter_id": 63936,
+          "chapter_title": "23话",
+          "updatetime": 1507802867,
+          "filesize": 907835,
+          "chapter_order": 23
+        },
+        {
+          "chapter_id": 63469,
+          "chapter_title": "22话",
+          "updatetime": 1506097778,
+          "filesize": 1058675,
+          "chapter_order": 22
+        },
+        {
+          "chapter_id": 62853,
+          "chapter_title": "21话",
+          "updatetime": 1504265280,
+          "filesize": 970224,
+          "chapter_order": 21
+        },
+        {
+          "chapter_id": 61965,
+          "chapter_title": "20话",
+          "updatetime": 1501928916,
+          "filesize": 932886,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 61325,
+          "chapter_title": "19话",
+          "updatetime": 1500203899,
+          "filesize": 763453,
+          "chapter_order": 19
+        },
+        {
+          "chapter_id": 60748,
+          "chapter_title": "18话",
+          "updatetime": 1498471040,
+          "filesize": 960363,
+          "chapter_order": 18
+        },
+        {
+          "chapter_id": 60031,
+          "chapter_title": "17话",
+          "updatetime": 1495892622,
+          "filesize": 813688,
+          "chapter_order": 17
+        },
+        {
+          "chapter_id": 59293,
+          "chapter_title": "16话",
+          "updatetime": 1493824351,
+          "filesize": 1094370,
+          "chapter_order": 16
+        },
+        {
+          "chapter_id": 58646,
+          "chapter_title": "15话",
+          "updatetime": 1491727392,
+          "filesize": 1033496,
+          "chapter_order": 15
+        },
+        {
+          "chapter_id": 58066,
+          "chapter_title": "14话",
+          "updatetime": 1489932861,
+          "filesize": 886377,
+          "chapter_order": 14
+        },
+        {
+          "chapter_id": 57425,
+          "chapter_title": "13话",
+          "updatetime": 1487841740,
+          "filesize": 1044367,
+          "chapter_order": 13
+        },
+        {
+          "chapter_id": 56709,
+          "chapter_title": "12话",
+          "updatetime": 1485305868,
+          "filesize": 1012484,
+          "chapter_order": 12
+        },
+        {
+          "chapter_id": 56544,
+          "chapter_title": "11话",
+          "updatetime": 1484724722,
+          "filesize": 852263,
+          "chapter_order": 11
+        },
+        {
+          "chapter_id": 56155,
+          "chapter_title": "10话",
+          "updatetime": 1483168201,
+          "filesize": 791836,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 55576,
+          "chapter_title": "9话",
+          "updatetime": 1481098524,
+          "filesize": 910085,
+          "chapter_order": 9
+        },
+        {
+          "chapter_id": 55187,
+          "chapter_title": "8话",
+          "updatetime": 1479713081,
+          "filesize": 1122300,
+          "chapter_order": 8
+        },
+        {
+          "chapter_id": 52997,
+          "chapter_title": "7话",
+          "updatetime": 1472721295,
+          "filesize": 958155,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 52051,
+          "chapter_title": "6话",
+          "updatetime": 1469863830,
+          "filesize": 1044715,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 51336,
+          "chapter_title": "5话",
+          "updatetime": 1467963887,
+          "filesize": 980635,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 50594,
+          "chapter_title": "4话",
+          "updatetime": 1466409326,
+          "filesize": 1133759,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 49425,
+          "chapter_title": "3话",
+          "updatetime": 1463823013,
+          "filesize": 1326915,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 47865,
+          "chapter_title": "2话",
+          "updatetime": 1459845865,
+          "filesize": 1273495,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 46231,
+          "chapter_title": "1话",
+          "updatetime": 1455790197,
+          "filesize": 1385987,
+          "chapter_order": 1
+        },
+        {
+          "chapter_id": 77370,
+          "chapter_title": "0话",
+          "updatetime": 1539950434,
+          "filesize": 2373587,
+          "chapter_order": 0
+        }
+      ]
+    }
+  ],
+  "author_notice": "最近身体欠佳，可能影响更新速度，还望理解。欢迎关注我的微博：@唐尸三百FAQY",
+  "comic_notice": "欢迎关注我的微博：唐尸三百FAQY",
+  "comment": {
+    "comment_count": 148,
+    "latest_comment": [
+      {
+        "comment_id": 26149236,
+        "uid": 101721145,
+        "content": "打不开，纪念一下",
+        "createtime": 1586177040,
+        "nickname": "蒋十二",
+        "avatar": "https://avatar.dmzj.com/ee/cb/eecb167e8891f2a6ed231100b37a911d.png"
+      },
+      {
+        "comment_id": 23012228,
+        "uid": 79389,
+        "content": "这雷有毒",
+        "createtime": 1577932012,
+        "nickname": "丨三玖丨",
+        "avatar": "https://avatar.dmzj.com/50/93/509309931c6b40e0cdc550a51488e620.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

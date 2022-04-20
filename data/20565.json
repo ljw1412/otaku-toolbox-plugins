@@ -1,0 +1,109 @@
+{
+  "id": 20565,
+  "islong": 2,
+  "direction": 1,
+  "title": "食百合：原创百合集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/sbhycbhjfengmianl.jpg",
+  "description": "阳、河合朗、雪子三人組的原創同人百合本",
+  "last_updatetime": 1443680567,
+  "last_update_chapter_name": "柚子胡椒味的竹笋粉丝沙拉扇贝",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sbbycbhxj",
+  "hidden": 0,
+  "hot_num": 2321022,
+  "hit_num": 725854,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 46059,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6248,
+      "tag_name": "河合朗"
+    },
+    {
+      "tag_id": 9282,
+      "tag_name": "雪子"
+    },
+    {
+      "tag_id": 10086,
+      "tag_name": "阳(はるかわ阳)"
+    }
+  ],
+  "subscribe_num": 11160,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46059,
+          "chapter_title": "3话",
+          "updatetime": 1443680567,
+          "filesize": 1746140,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 43830,
+          "chapter_title": "2话",
+          "updatetime": 1438655136,
+          "filesize": 2295756,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 43697,
+          "chapter_title": "1话",
+          "updatetime": 1438331305,
+          "filesize": 2123538,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 169,
+    "latest_comment": [
+      {
+        "comment_id": 26930468,
+        "uid": 107855586,
+        "content": "我火星了",
+        "createtime": 1588084346,
+        "nickname": "dmzj_107855586",
+        "avatar": "https://avatar.dmzj.com/b1/1b/b11b15cc396fb70b838fba5f379ae804.png"
+      },
+      {
+        "comment_id": 26822662,
+        "uid": 104736465,
+        "content": "你直接用糖把我齁死算了",
+        "createtime": 1587802200,
+        "nickname": "三羧酸循不起来",
+        "avatar": "https://avatar.dmzj.com/fb/1b/fb1bf4f22a9bf25c38e4e721c2a28f31.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

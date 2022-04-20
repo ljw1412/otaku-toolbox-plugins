@@ -1,0 +1,91 @@
+{
+  "id": 21331,
+  "islong": 2,
+  "direction": 2,
+  "title": "火星猎人v2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/huoxinglieren.jpg",
+  "description": "火星猎人（Martian Manhunter）是DC漫画公司旗下的超级英雄，初次登场于1955年11月的《侦探漫画》#225，本名荣恩·荣兹（J'Onn J'Onzz），是一个火星人，因不小心被地球人科学家索尔·俄德（Dr. Erdel）传送到地球，后因索尔·俄德心脏病突发去世而无法返回火星，而躲过了使全火星人灭绝的瘟疫，于是荣恩变成警察约翰·琼斯（John Jones）并以这个身份在地球上生活，每当其他警察遇到穷凶极恶并且棘手的罪犯时候，荣恩就会现出本相，轻松将罪犯绳之以法，后加入正义联盟",
+  "last_updatetime": 1441203864,
+  "last_update_chapter_name": "第24卷",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huoxinglierenv2",
+  "hidden": 0,
+  "hot_num": 28940,
+  "hit_num": 43816,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 42661,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 162,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42661,
+          "chapter_title": "24卷",
+          "updatetime": 1441203864,
+          "filesize": 2902814,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 26913363,
+        "uid": 108601768,
+        "content": "名场面",
+        "createtime": 1588050975,
+        "nickname": "dmzj_108601768",
+        "avatar": "https://avatar.dmzj.com/76/74/76741ae9a16a619d8944e5df724ba1a7.png"
+      },
+      {
+        "comment_id": 10197693,
+        "uid": 37479095,
+        "content": "真实浩克hhhhhh马克思压力陡增喷鼻血笑死我了",
+        "createtime": 1547735030,
+        "nickname": "那啥吖",
+        "avatar": "https://avatar.dmzj.com/98/70/9870031bd44f579747921bef27f10782.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

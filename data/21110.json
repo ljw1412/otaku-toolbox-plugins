@@ -1,0 +1,81 @@
+{
+  "id": 21110,
+  "islong": 2,
+  "direction": 1,
+  "title": "穹井录",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1003387491440338910.jpg",
+  "description": "梦境与现实",
+  "last_updatetime": 1440340118,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "g",
+  "comic_py": "gongjinglu",
+  "hidden": 0,
+  "hot_num": 827,
+  "hit_num": 6468,
+  "uid": 100338749,
+  "is_lock": 0,
+  "last_update_chapter_id": 44700,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10357,
+      "tag_name": "荔枝可乐"
+    }
+  ],
+  "subscribe_num": 9,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44700,
+          "chapter_title": "1话",
+          "updatetime": 1440340118,
+          "filesize": 1492354,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "练习作 工作忙更新不定（其实是懒",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 460054,
+        "uid": 19711163,
+        "content": "苍井也没有空！！！\\\"(ºДº*)",
+        "createtime": 1440403538,
+        "nickname": "打谁谁变萝莉",
+        "avatar": "https://avatar.dmzj.com/58/f5/58f5ac2298e9b785629f01cb85cd769f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

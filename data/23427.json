@@ -1,0 +1,89 @@
+{
+  "id": 23427,
+  "islong": 2,
+  "direction": 2,
+  "title": "女王老大",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446103683.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446103700,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "n",
+  "comic_py": "nvwanglaoda",
+  "hidden": 0,
+  "hot_num": 1882,
+  "hit_num": 14601,
+  "uid": 100469239,
+  "is_lock": 0,
+  "last_update_chapter_id": 46978,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46978,
+          "chapter_title": "1话",
+          "updatetime": 1446103700,
+          "filesize": 582312,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 2283210,
+        "uid": 102571102,
+        "content": "要死了",
+        "createtime": 1496762731,
+        "nickname": "带你下地狱98974",
+        "avatar": "https://avatar.dmzj.com/a2/b0/a2b013f7ec152dc0351f230d63387e6f.png"
+      },
+      {
+        "comment_id": 1870980,
+        "uid": 104153392,
+        "content": "好难看啊！",
+        "createtime": 1488458527,
+        "nickname": "九品文官",
+        "avatar": "https://avatar.dmzj.com/93/57/93571b51216b17b38171fa2a48b8c10a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

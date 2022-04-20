@@ -1,0 +1,89 @@
+{
+  "id": 27982,
+  "islong": 2,
+  "direction": 2,
+  "title": "share棒棒日之狗粮",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1005376591452155945.jpg",
+  "description": "星漫文化",
+  "last_updatetime": 1452155957,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "sharebangbangrizhigouliang",
+  "hidden": 0,
+  "hot_num": 1057,
+  "hit_num": 2497,
+  "uid": 100537659,
+  "is_lock": 0,
+  "last_update_chapter_id": 49683,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10967,
+      "tag_name": "星漫文化 "
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49683,
+          "chapter_title": "1话",
+          "updatetime": 1452155957,
+          "filesize": 328224,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 7396774,
+        "uid": 104505026,
+        "content": "那我第几？",
+        "createtime": 1539533918,
+        "nickname": "洛羽音邪",
+        "avatar": "https://avatar.dmzj.com/78/21/782141a1e195e1420b04fe2bb1265cf3.png"
+      },
+      {
+        "comment_id": 6422750,
+        "uid": 107552155,
+        "content": "你是第一",
+        "createtime": 1534939620,
+        "nickname": "学习不爱我",
+        "avatar": "https://avatar.dmzj.com/af/d8/afd833b27ef75015494884be24465a5e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

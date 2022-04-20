@@ -1,0 +1,91 @@
+{
+  "id": 25816,
+  "islong": 2,
+  "direction": 1,
+  "title": "舰娘15秋活总结",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/jianniangqhzjgntzfengmianl.jpg",
+  "description": "关于舰娘2015年秋季活动的感想漫画",
+  "last_updatetime": 1449283895,
+  "last_update_chapter_name": "干你田中",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jianniangqhzj",
+  "hidden": 0,
+  "hot_num": 24952,
+  "hit_num": 32000,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 45830,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11043,
+      "tag_name": "エドウィン"
+    }
+  ],
+  "subscribe_num": 207,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45830,
+          "chapter_title": "1话",
+          "updatetime": 1449283895,
+          "filesize": 602005,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 1946266,
+        "uid": 8828070,
+        "content": "这篇没有被归入“舰娘”系列？",
+        "createtime": 1490104085,
+        "nickname": "jzhao",
+        "avatar": "https://avatar.dmzj.com/94/40/9440d58ac3dbfc0d336c3a63d7e18947.png"
+      },
+      {
+        "comment_id": 535099,
+        "uid": 10018066,
+        "content": "这次活动很简单啊，只要e5不打丙这个地狱难度都是脚打",
+        "createtime": 1449556276,
+        "nickname": "有希帝国",
+        "avatar": "https://avatar.dmzj.com/b4/66/b4662bfee48c39e1f350a44b0a21e4a4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

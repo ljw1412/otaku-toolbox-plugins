@@ -1,0 +1,87 @@
+{
+  "id": 20083,
+  "islong": 2,
+  "direction": 1,
+  "title": "夏之灯火",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/xiazhidenghuo.jpg",
+  "description": "夏天的灯火 那个晚上不变的珍贵约定",
+  "last_updatetime": 1437468874,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiazhidenghuo",
+  "hidden": 0,
+  "hot_num": 48932,
+  "hit_num": 123614,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 39342,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 772,
+      "tag_name": "吴由姬"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 347,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39342,
+          "chapter_title": "1话",
+          "updatetime": 1437468874,
+          "filesize": 3165880,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 11740286,
+        "uid": 107349331,
+        "content": "不愧是同一个作者……",
+        "createtime": 1550693876,
+        "nickname": "白上吹雪Official",
+        "avatar": "https://avatar.dmzj.com/37/91/3791b16cc350de74a272e411a22b9237.png"
+      },
+      {
+        "comment_id": 8665904,
+        "uid": 102490385,
+        "content": "月森脸，土浦心。",
+        "createtime": 1543939688,
+        "nickname": "百年故人",
+        "avatar": "https://avatar.dmzj.com/51/49/51495bac695cc73dfb1be2e90625ae1f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

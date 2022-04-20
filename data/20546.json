@@ -1,0 +1,192 @@
+{
+  "id": 20546,
+  "islong": 2,
+  "direction": 2,
+  "title": "小明干的日常系列漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1002813841438308203.jpg",
+  "description": "记录作者无聊事情的无聊漫画，偶尔会记录一下作者的梦境",
+  "last_updatetime": 1458989055,
+  "last_update_chapter_name": "四叶草的养殖日记",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiaomingganderichangxiliemanhua",
+  "hidden": 0,
+  "hot_num": 4226,
+  "hit_num": 38151,
+  "uid": 100281384,
+  "is_lock": 0,
+  "last_update_chapter_id": 50254,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10067,
+      "tag_name": "混沌魔法剑士"
+    }
+  ],
+  "subscribe_num": 11,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50254,
+          "chapter_title": "17卷",
+          "updatetime": 1458989055,
+          "filesize": 253884,
+          "chapter_order": 17
+        },
+        {
+          "chapter_id": 46932,
+          "chapter_title": "16话",
+          "updatetime": 1451532357,
+          "filesize": 541715,
+          "chapter_order": 16
+        },
+        {
+          "chapter_id": 44678,
+          "chapter_title": "15话",
+          "updatetime": 1446702006,
+          "filesize": 546064,
+          "chapter_order": 15
+        },
+        {
+          "chapter_id": 44457,
+          "chapter_title": "14话",
+          "updatetime": 1446536824,
+          "filesize": 449159,
+          "chapter_order": 14
+        },
+        {
+          "chapter_id": 44220,
+          "chapter_title": "13话",
+          "updatetime": 1446193354,
+          "filesize": 459607,
+          "chapter_order": 13
+        },
+        {
+          "chapter_id": 41667,
+          "chapter_title": "12话",
+          "updatetime": 1438929066,
+          "filesize": 491652,
+          "chapter_order": 12
+        },
+        {
+          "chapter_id": 41407,
+          "chapter_title": "11话",
+          "updatetime": 1438309058,
+          "filesize": 473615,
+          "chapter_order": 11
+        },
+        {
+          "chapter_id": 41406,
+          "chapter_title": "10话",
+          "updatetime": 1438309014,
+          "filesize": 257196,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 41405,
+          "chapter_title": "9话",
+          "updatetime": 1438308974,
+          "filesize": 257829,
+          "chapter_order": 9
+        },
+        {
+          "chapter_id": 41404,
+          "chapter_title": "8话",
+          "updatetime": 1438308927,
+          "filesize": 984753,
+          "chapter_order": 8
+        },
+        {
+          "chapter_id": 41403,
+          "chapter_title": "7话",
+          "updatetime": 1438308746,
+          "filesize": 563167,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 41402,
+          "chapter_title": "6话",
+          "updatetime": 1438308655,
+          "filesize": 207252,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 41401,
+          "chapter_title": "5话",
+          "updatetime": 1438308598,
+          "filesize": 522393,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 41400,
+          "chapter_title": "4话",
+          "updatetime": 1438308500,
+          "filesize": 416117,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 41399,
+          "chapter_title": "3话",
+          "updatetime": 1438308397,
+          "filesize": 288380,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 41398,
+          "chapter_title": "2话",
+          "updatetime": 1438308346,
+          "filesize": 222824,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 41397,
+          "chapter_title": "1话",
+          "updatetime": 1438308270,
+          "filesize": 57811,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

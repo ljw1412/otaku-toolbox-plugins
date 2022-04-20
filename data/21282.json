@@ -1,0 +1,87 @@
+{
+  "id": 21282,
+  "islong": 2,
+  "direction": 1,
+  "title": "Ice Cream",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/icecreamfengmianl.jpg",
+  "description": "标题ICE CREAM 与 I SCREAM 有双关含义，\n超级清水的少年纯情故事~\n大胆说出你的爱！",
+  "last_updatetime": 1441079931,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "i",
+  "comic_py": "icecream",
+  "hidden": 0,
+  "hot_num": 143260,
+  "hit_num": 224045,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 44867,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4990,
+      "tag_name": "樫八重子"
+    }
+  ],
+  "subscribe_num": 980,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44867,
+          "chapter_title": "1话",
+          "updatetime": 1441079931,
+          "filesize": 1792895,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 27033349,
+        "uid": 110700511,
+        "content": "这个老师好像还有一个少女漫来着，是什么来着",
+        "createtime": 1588409617,
+        "nickname": "dmzj_110700511",
+        "avatar": "https://avatar.dmzj.com/16/b5/16b566862671a2bcbe6b8c16ca72a3d0.png"
+      },
+      {
+        "comment_id": 26742740,
+        "uid": 105220985,
+        "content": "这算哪门子清水啊 给我冲就完了",
+        "createtime": 1587582154,
+        "nickname": "KIRY",
+        "avatar": "https://avatar.dmzj.com/85/66/85660d575065958f82c7400ba0904af4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

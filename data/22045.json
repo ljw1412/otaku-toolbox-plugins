@@ -1,0 +1,120 @@
+{
+  "id": 22045,
+  "islong": 2,
+  "direction": 1,
+  "title": "目标GET",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/001_副本.jpg",
+  "description": "赛马漫画史上的最大危险作，一个身在职业棒球界、一个身在赛马界，背负著庞大债务的他们，使用不正当的手段来赢得胜利！",
+  "last_updatetime": 1446102382,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mubiaoget",
+  "hidden": 0,
+  "hot_num": 40658,
+  "hit_num": 897231,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 46891,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10830,
+      "tag_name": "田原成贵"
+    },
+    {
+      "tag_id": 10831,
+      "tag_name": "能田茂"
+    }
+  ],
+  "subscribe_num": 230,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46891,
+          "chapter_title": "4卷",
+          "updatetime": 1446102382,
+          "filesize": 28618436,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 46890,
+          "chapter_title": "3卷",
+          "updatetime": 1446102337,
+          "filesize": 28744009,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 46889,
+          "chapter_title": "2卷",
+          "updatetime": 1446101955,
+          "filesize": 25923818,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 46888,
+          "chapter_title": "1卷",
+          "updatetime": 1446100072,
+          "filesize": 25981447,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 24097212,
+        "uid": 17965136,
+        "content": "不错啊，故事蛮精彩，不过画风比较老，现在能接受的恐怕不多吧，而且这封面真是恶趣味，不知道的还以为是BL漫呢。",
+        "createtime": 1581613261,
+        "nickname": "江门南",
+        "avatar": "https://avatar.dmzj.com/22/34/22346f8dc0016ee4ee8c2a2601a32e92.png"
+      },
+      {
+        "comment_id": 5021121,
+        "uid": 103420366,
+        "content": "封面好兄贵啊",
+        "createtime": 1528450376,
+        "nickname": "青·鋒",
+        "avatar": "https://avatar.dmzj.com/4d/38/4d383d3e190b82522aada2c9f68cce3a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

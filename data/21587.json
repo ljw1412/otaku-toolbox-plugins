@@ -1,0 +1,89 @@
+{
+  "id": 21587,
+  "islong": 2,
+  "direction": 2,
+  "title": "约会",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1003820601442566363.jpg",
+  "description": "网球王子 乾贞治 越前龙马",
+  "last_updatetime": 1442566399,
+  "last_update_chapter_name": "浮云啊",
+  "copyright": 1,
+  "first_letter": "y",
+  "comic_py": "yuehui",
+  "hidden": 0,
+  "hot_num": 14274,
+  "hit_num": 177360,
+  "uid": 100382060,
+  "is_lock": 0,
+  "last_update_chapter_id": 45458,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10600,
+      "tag_name": "阿夕"
+    }
+  ],
+  "subscribe_num": 85,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45458,
+          "chapter_title": "1话",
+          "updatetime": 1442566399,
+          "filesize": 237035,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 773004,
+        "uid": 101216261,
+        "content": "。。。。。。",
+        "createtime": 1462162507,
+        "nickname": "♩花♪海♫梦♬音♡の",
+        "avatar": "https://avatar.dmzj.com/51/08/5108479ac757cedabcbf65a85bc876c6.png"
+      },
+      {
+        "comment_id": 579414,
+        "uid": 100488030,
+        "content": "画风醉了",
+        "createtime": 1452919476,
+        "nickname": "超人dog",
+        "avatar": "https://avatar.dmzj.com/09/9f/099f7d22e0604947392e1e920331124b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

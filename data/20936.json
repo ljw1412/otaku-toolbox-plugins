@@ -1,0 +1,103 @@
+{
+  "id": 20936,
+  "islong": 2,
+  "direction": 2,
+  "title": "盛开的生命",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871439451651.jpg",
+  "description": "我的病就是没有感觉,快让我在漫画里撒点野~",
+  "last_updatetime": 1439451945,
+  "last_update_chapter_name": "第03话",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "shengkaideshengmingzh",
+  "hidden": 0,
+  "hot_num": 3269,
+  "hit_num": 46706,
+  "uid": 100205887,
+  "is_lock": 0,
+  "last_update_chapter_id": 41926,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 11,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41926,
+          "chapter_title": "3话",
+          "updatetime": 1439451945,
+          "filesize": 916723,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 41925,
+          "chapter_title": "2话",
+          "updatetime": 1439451915,
+          "filesize": 1442363,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 41924,
+          "chapter_title": "1话",
+          "updatetime": 1439451878,
+          "filesize": 1866663,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 10942817,
+        "uid": 104775719,
+        "content": "意识流吗。。。期待精彩的评论",
+        "createtime": 1549306075,
+        "nickname": "嵇年",
+        "avatar": "https://avatar.dmzj.com/39/49/3949cb0d9b35905967dbb2a1972af853.png"
+      },
+      {
+        "comment_id": 502502,
+        "uid": 100079739,
+        "content": "与封面的感觉太不合了zz",
+        "createtime": 1446227572,
+        "nickname": "qzuser22362",
+        "avatar": "https://avatar.dmzj.com/fc/10/fc106dd8e7e0fe0f3a570178e98ec47b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

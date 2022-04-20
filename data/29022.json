@@ -1,0 +1,87 @@
+{
+  "id": 29022,
+  "islong": 2,
+  "direction": 1,
+  "title": "试阅十分钟",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/shidushifenzhongfengmianl.jpg",
+  "description": "当东方遇到了魔法少女……",
+  "last_updatetime": 1454168404,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shiyueshifenzhong",
+  "hidden": 1,
+  "hot_num": 19633,
+  "hit_num": 97613,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 50222,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11011,
+      "tag_name": "永远的菜鸟"
+    }
+  ],
+  "subscribe_num": 239,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50222,
+          "chapter_title": "1话",
+          "updatetime": 1454168404,
+          "filesize": 6164719,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 19891503,
+        "uid": 106418032,
+        "content": "连结型作者好评如潮",
+        "createtime": 1567159292,
+        "nickname": "dmzj_106418032",
+        "avatar": "https://avatar.dmzj.com/df/5e/df5ee07d7ee4c05454b86c628b0cdf2d.png"
+      },
+      {
+        "comment_id": 19395086,
+        "uid": 107015998,
+        "content": "这个作者的快齐了",
+        "createtime": 1565795065,
+        "nickname": "Aivicil",
+        "avatar": "https://avatar.dmzj.com/66/22/66221d11c09531f2992861bae9e273d3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

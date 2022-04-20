@@ -1,0 +1,91 @@
+{
+  "id": 25284,
+  "islong": 2,
+  "direction": 1,
+  "title": "森之镇守府",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/senzhizhnehsoufu11161.jpg",
+  "description": "连装炮酱们的传说。",
+  "last_updatetime": 1447674084,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "senzhizhenshoufu",
+  "hidden": 0,
+  "hot_num": 28195,
+  "hit_num": 47100,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 43756,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10936,
+      "tag_name": "nagimiso"
+    }
+  ],
+  "subscribe_num": 230,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43756,
+          "chapter_title": "1话",
+          "updatetime": 1447674084,
+          "filesize": 379654,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 11182439,
+        "uid": 100717953,
+        "content": "我滴妈。。。",
+        "createtime": 1549800793,
+        "nickname": "﹌ 安之素然    な°",
+        "avatar": "https://avatar.dmzj.com/56/02/560280da39784a52f0ddec89bf49267d.png"
+      },
+      {
+        "comment_id": 1924958,
+        "uid": 33651795,
+        "content": "想象一下 岛风级装备了三门长门级的主炮无后坐力版 没错 就是那种感觉",
+        "createtime": 1489664382,
+        "nickname": "毕尔斯",
+        "avatar": "https://avatar.dmzj.com/25/56/2556184bb052a736996d25d534e316ea.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}
