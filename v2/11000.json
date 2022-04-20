@@ -1,0 +1,73 @@
+{
+  "id": 11000,
+  "islong": 2,
+  "direction": 1,
+  "title": "坦克世界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/tankeshijie20130419.jpg",
+  "description": "著名的军事宅，《猫屎一号》作者小林源文，以网游《坦克世界》为主题的新军事漫画作品，喜爱坦克和军事的同学不可错过。",
+  "last_updatetime": 1366381588,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 147556,
+  "hit_num": 232597,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1688,
+      "tag_name": "小林源文"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 692,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22609,
+          "chapter_title": "1话",
+          "updatetime": 1366381588,
+          "filesize": 835417,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 53,
+    "latest_comment": [
+      {
+        "comment_id": 26992223,
+        "uid": 110253108,
+        "content": "还不更新",
+        "createtime": 1588273869,
+        "nickname": "dmzj_110253108",
+        "avatar": "https://avatar.dmzj.com/36/7a/367a6e97de7206b97b2115cc8d5dcbe7.png"
+      },
+      {
+        "comment_id": 26097229,
+        "uid": 107778681,
+        "content": "啊，這",
+        "createtime": 1586066189,
+        "nickname": "○起的吉良吉影",
+        "avatar": "https://avatar.dmzj.com/32/12/3212af7ab2247450529c4f356dbb7fcd.png"
+      }
+    ]
+  }
+}

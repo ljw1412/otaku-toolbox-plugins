@@ -1,0 +1,77 @@
+{
+  "id": 11661,
+  "islong": 2,
+  "direction": 1,
+  "title": "Love&Music",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/Love&Music.jpg",
+  "description": "努力乐团练习中的美梦，出现在他面前的是……！？放学后，是非常珍惜的时间，享受音乐的时间开始了……",
+  "last_updatetime": 1370861412,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 68628,
+  "hit_num": 518469,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3326,
+      "tag_name": "音乐舞蹈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1827,
+      "tag_name": "市川ショウ"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 464,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22239,
+          "chapter_title": "1话",
+          "updatetime": 1370861412,
+          "filesize": 4392063,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 2675729,
+        "uid": 23460,
+        "content": "还可以的说",
+        "createtime": 1502216677,
+        "nickname": "luck宇",
+        "avatar": "https://avatar.dmzj.com/77/15/7715fe758b746dd217beb85b3ca770d7.png"
+      },
+      {
+        "comment_id": 1380149,
+        "uid": 101394715,
+        "content": "都没有kiss，真是不甘心啊",
+        "createtime": 1476609400,
+        "nickname": "梦断影碎",
+        "avatar": "https://avatar.dmzj.com/05/0f/050f71e68177a55f2cac991de6fa55c6.png"
+      }
+    ]
+  }
+}

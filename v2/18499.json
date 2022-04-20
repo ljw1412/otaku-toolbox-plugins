@@ -1,0 +1,91 @@
+{
+  "id": 18499,
+  "islong": 2,
+  "direction": 2,
+  "title": "插画集——哪吒传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1001292291430124393.jpg",
+  "description": "我的插画集~哪吒传~\n",
+  "last_updatetime": 1430735880,
+  "last_update_chapter_name": "第三话",
+  "copyright": 1,
+  "first_letter": "c",
+  "comic_py": "chahuajinachuan",
+  "hidden": 0,
+  "hot_num": 50892,
+  "hit_num": 345709,
+  "uid": 100217567,
+  "is_lock": 0,
+  "last_update_chapter_id": 36882,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7900,
+      "tag_name": "仙侠"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9162,
+      "tag_name": "猫猫佳大人"
+    }
+  ],
+  "subscribe_num": 320,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36882,
+          "chapter_title": "3话",
+          "updatetime": 1430735880,
+          "filesize": 176889,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 36881,
+          "chapter_title": "2话",
+          "updatetime": 1430124534,
+          "filesize": 560321,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 36880,
+          "chapter_title": "1话",
+          "updatetime": 1430124461,
+          "filesize": 599547,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 21832963,
+        "uid": 107114762,
+        "content": "发现以前看过哦",
+        "createtime": 1572626705,
+        "nickname": "dmzj_107114762",
+        "avatar": "https://avatar.dmzj.com/30/db/30db552a1ccf7805cf41bdf14586fda2.png"
+      },
+      {
+        "comment_id": 11708732,
+        "uid": 100310579,
+        "content": "留爪",
+        "createtime": 1550652189,
+        "nickname": "風神御",
+        "avatar": "https://avatar.dmzj.com/41/70/41703b431b7ba863cf3ec50689e8ad5c.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

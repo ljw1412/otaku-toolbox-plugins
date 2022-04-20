@@ -1,0 +1,75 @@
+{
+  "id": 16378,
+  "islong": 2,
+  "direction": 2,
+  "title": "混乱诗篇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/hunluanshipian.jpg",
+  "description": "在乱世什么才是你的追求，英雄美女还是金钱，还是巨龙之女“凯瑟琳”",
+  "last_updatetime": 1418799605,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 9479,
+  "hit_num": 242580,
+  "uid": 100099224,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7916,
+      "tag_name": "恶人谷漫画"
+    }
+  ],
+  "subscribe_num": 87,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 32767,
+          "chapter_title": "1话",
+          "updatetime": 1418799605,
+          "filesize": 2500961,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 27088157,
+        "uid": 107660240,
+        "content": "我觉得还可以……",
+        "createtime": 1588560281,
+        "nickname": "よるねこじ宅",
+        "avatar": "https://avatar.dmzj.com/66/28/6628e61475584d28fd0004685b552b65.png"
+      },
+      {
+        "comment_id": 1592204,
+        "uid": 13163517,
+        "content": "没下文了。。。",
+        "createtime": 1482517142,
+        "nickname": "archer121yhh",
+        "avatar": "https://avatar.dmzj.com/4e/fd/4efd6ae61acfeb314d3212e06f89d2dd.png"
+      }
+    ]
+  }
+}

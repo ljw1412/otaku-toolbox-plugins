@@ -1,0 +1,87 @@
+{
+  "id": 15645,
+  "islong": 2,
+  "direction": 2,
+  "title": "迷你漫威四格",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/minimaweisige.jpg",
+  "description": "千呼万唤始出来啦~这一次的小蜘蛛和他机智的小伙伴们又做了什么呢？哎呀，小蜘蛛你在干嘛！这是做什么？！！\n",
+  "last_updatetime": 1427118686,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 483409,
+  "hit_num": 329199,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 2016,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39433,
+          "chapter_title": "3话",
+          "updatetime": 1427118686,
+          "filesize": 3999216,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 34262,
+          "chapter_title": "2话",
+          "updatetime": 1411291877,
+          "filesize": 2401383,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 34260,
+          "chapter_title": "1话",
+          "updatetime": 1411288309,
+          "filesize": 1370623,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 15994543,
+        "uid": 105595537,
+        "content": "M",
+        "createtime": 1558009918,
+        "nickname": "solx",
+        "avatar": "https://avatar.dmzj.com/99/10/99100f8b67e5a6f1766c92886fbdf6a0.png"
+      },
+      {
+        "comment_id": 4593791,
+        "uid": 100808961,
+        "content": "不更了吗😂",
+        "createtime": 1525531729,
+        "nickname": "啥都能看",
+        "avatar": "https://avatar.dmzj.com/52/65/5265f324453d4e1daf6d581ef29485af.png"
+      }
+    ]
+  }
+}

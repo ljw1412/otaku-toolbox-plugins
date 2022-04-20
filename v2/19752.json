@@ -1,0 +1,75 @@
+{
+  "id": 19752,
+  "islong": 2,
+  "direction": 2,
+  "title": "林子笔记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871436775184.jpg",
+  "description": "生活在北京的林子和球球认识于网络，相谈甚欢的两人决定见一面......",
+  "last_updatetime": 1444620134,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 4746,
+  "hit_num": 76802,
+  "uid": 100205887,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 15,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46043,
+          "chapter_title": "4话",
+          "updatetime": 1444620134,
+          "filesize": 1656990,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 46042,
+          "chapter_title": "3话",
+          "updatetime": 1444620105,
+          "filesize": 1626873,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 46041,
+          "chapter_title": "2话",
+          "updatetime": 1444620087,
+          "filesize": 2211626,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42955,
+          "chapter_title": "1话",
+          "updatetime": 1436775218,
+          "filesize": 743419,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

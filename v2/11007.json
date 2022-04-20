@@ -1,0 +1,73 @@
+{
+  "id": 11007,
+  "islong": 2,
+  "direction": 2,
+  "title": "至黑之夜-魅影陌客",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/zhiheizhiyemeiyingmoke.jpg",
+  "description": "魅影陌客VS幽灵",
+  "last_updatetime": 1366453675,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 1851209,
+  "hit_num": 97196,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 7845,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23891,
+          "chapter_title": "1话",
+          "updatetime": 1366453675,
+          "filesize": 3976458,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 22786927,
+        "uid": 102073671,
+        "content": "魅影陌客也有至黑之夜 真就全员黑化咯",
+        "createtime": 1577072836,
+        "nickname": "Robert Downey Jr＆Adam Levine",
+        "avatar": "https://avatar.dmzj.com/2b/7a/2b7a6a95ada16dc7c8a9abfe0f65570e.png"
+      },
+      {
+        "comment_id": 22786919,
+        "uid": 102073671,
+        "content": "没人呐",
+        "createtime": 1577072796,
+        "nickname": "Robert Downey Jr＆Adam Levine",
+        "avatar": "https://avatar.dmzj.com/2b/7a/2b7a6a95ada16dc7c8a9abfe0f65570e.png"
+      }
+    ]
+  }
+}

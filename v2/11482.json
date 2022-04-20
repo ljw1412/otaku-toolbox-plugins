@@ -1,0 +1,73 @@
+{
+  "id": 11482,
+  "islong": 2,
+  "direction": 1,
+  "title": "现充软件",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/xianchongruanjian.jpg",
+  "description": "你知道“丘比特”这个软件吗？下载这个手机软件的人，就可以和喜欢的人恩爱的哟。突如其来的手机短信是？……",
+  "last_updatetime": 1369934245,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 224829,
+  "hit_num": 432032,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1087,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24604,
+          "chapter_title": "1话",
+          "updatetime": 1369934245,
+          "filesize": 3323483,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 28403668,
+        "uid": 109306197,
+        "content": "好",
+        "createtime": 1593006985,
+        "nickname": "守约少女咕咕子",
+        "avatar": "https://avatar.dmzj.com/3a/2a/3a2ad326e4c04cc3f21ff7cb1c9d8529.png"
+      },
+      {
+        "comment_id": 25902262,
+        "uid": 105535093,
+        "content": "挖坟",
+        "createtime": 1585665660,
+        "nickname": "*٩(๑´∀`๑)ง*19253",
+        "avatar": "https://avatar.dmzj.com/14/05/1405124ee35bb8da3e8395219de96176.png"
+      }
+    ]
+  }
+}

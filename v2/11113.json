@@ -1,0 +1,76 @@
+{
+  "id": 11113,
+  "islong": 2,
+  "direction": 1,
+  "title": "杀手马里奥",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/maliao20130430.jpg",
+  "description": "《火影忍者》作者岸本齐史新连载！？讲诉身处地下世界的杀手马里奥的故事。",
+  "last_updatetime": 1399353056,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 234230,
+  "hit_num": 965719,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 706,
+      "tag_name": "岸本齐史"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1332,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 28054,
+          "chapter_title": "1话",
+          "updatetime": 1399353056,
+          "filesize": 6754610,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 21777,
+          "chapter_title": "0话",
+          "updatetime": 1367327391,
+          "filesize": 613449,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 56,
+    "latest_comment": [
+      {
+        "comment_id": 28016419,
+        "uid": 107399271,
+        "content": "大师作，不多说就是强",
+        "createtime": 1591609224,
+        "nickname": "dmzj_107399271",
+        "avatar": "https://avatar.dmzj.com/24/69/24697c218b2a2c90cc8ffc8ed77a661f.png"
+      },
+      {
+        "comment_id": 25253833,
+        "uid": 109663436,
+        "content": "强",
+        "createtime": 1584189823,
+        "nickname": "尼卤味",
+        "avatar": "https://avatar.dmzj.com/76/09/7609d33e035bbbce3412515b12a2daaa.png"
+      }
+    ]
+  }
+}

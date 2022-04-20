@@ -1,0 +1,82 @@
+{
+  "id": 17637,
+  "islong": 2,
+  "direction": 2,
+  "title": "归兔",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0322guitu.jpg",
+  "description": "法国少女爱丽丝通过兔首穿越到清朝，经历了火烧圆明园，最后说服爷爷将兔首归还中国。",
+  "last_updatetime": 1427018214,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 9671,
+  "hit_num": 186765,
+  "uid": 100095425,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8817,
+      "tag_name": "洛桜"
+    }
+  ],
+  "subscribe_num": 74,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39439,
+          "chapter_title": "番外1",
+          "updatetime": 1427018214,
+          "filesize": 254933,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 39440,
+          "chapter_title": "1话",
+          "updatetime": 1427018176,
+          "filesize": 2159128,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 1339113,
+        "uid": 101253344,
+        "content": "漫画很好！~\n这是事实，而且烧圆明园的还有那些暴民。",
+        "createtime": 1475573555,
+        "nickname": "Ｓunshine",
+        "avatar": "https://avatar.dmzj.com/86/02/8602122b5d7acdabf1b6c306c2690033.png"
+      },
+      {
+        "comment_id": 497676,
+        "uid": 100035439,
+        "content": "画风还行，内容需要加强",
+        "createtime": 1445605606,
+        "nickname": "阿白公主",
+        "avatar": "https://avatar.dmzj.com/b9/c8/b9c87db5a28b7eb46487a8c620407dbc.png"
+      }
+    ]
+  }
+}

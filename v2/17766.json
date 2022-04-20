@@ -1,0 +1,82 @@
+{
+  "id": 17766,
+  "islong": 2,
+  "direction": 2,
+  "title": "大圣传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1001020421427450598.jpg",
+  "description": "《大圣传》是说梦者编著的小说。内容讲述：妖魔中的至高无上者，名为“大圣”。少年走出山村，踏遍天下，一步步跨入传说中，成为神话。",
+  "last_updatetime": 1427475999,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 34027,
+  "hit_num": 406634,
+  "uid": 100102042,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8885,
+      "tag_name": "ArSs"
+    }
+  ],
+  "subscribe_num": 245,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37052,
+          "chapter_title": "序章（下）黑风寨命绝今晚",
+          "updatetime": 1427475999,
+          "filesize": 618672,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 37053,
+          "chapter_title": "序章（上） 黑风寨命绝今晚",
+          "updatetime": 1427451130,
+          "filesize": 546620,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 14942517,
+        "uid": 105957338,
+        "content": "亲娘诶，这画风",
+        "createtime": 1556277385,
+        "nickname": "誓死不灌水",
+        "avatar": "https://avatar.dmzj.com/10/68/106869bf2bb05a0327df770fea2e8af5.png"
+      },
+      {
+        "comment_id": 13396687,
+        "uid": 105425402,
+        "content": "7“7",
+        "createtime": 1553660626,
+        "nickname": "巴扎嘿34586",
+        "avatar": "https://avatar.dmzj.com/3b/fd/3bfd9252c33904094e65691d39e5f5ae.png"
+      }
+    ]
+  }
+}

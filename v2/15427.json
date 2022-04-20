@@ -1,0 +1,73 @@
+{
+  "id": 15427,
+  "islong": 2,
+  "direction": 2,
+  "title": "新52罗宾崛起欧米伽",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/luobinjueqioumijia.jpg",
+  "description": "蝙蝠侠与罗宾之罗宾崛起，红色黎明欧米伽。",
+  "last_updatetime": 1409045729,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 98915,
+  "hit_num": 261086,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 544,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33874,
+          "chapter_title": "1卷",
+          "updatetime": 1409045729,
+          "filesize": 5118925,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 10952668,
+        "uid": 100418722,
+        "content": "后续在哪里就是找不到了啊",
+        "createtime": 1549347877,
+        "nickname": "祺晓祺",
+        "avatar": "https://avatar.dmzj.com/77/60/776057766b6e89042bd765b19966f93a.png"
+      },
+      {
+        "comment_id": 879738,
+        "uid": 100933736,
+        "content": "越来越搞不懂DC了，这边老爷那么爱儿子，另一边又那么冷漠",
+        "createtime": 1465311344,
+        "nickname": "玫瑰鸦片",
+        "avatar": "https://avatar.dmzj.com/da/17/da17fa18e4182602cd3514afe4979735.png"
+      }
+    ]
+  }
+}

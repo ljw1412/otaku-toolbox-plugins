@@ -1,0 +1,73 @@
+{
+  "id": 15533,
+  "islong": 2,
+  "direction": 1,
+  "title": "Dracula Quest",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/DraculaQuest4234.jpg",
+  "description": "东方众人的泳装杀必死，当然还有触手啊，触手啊，触手啊...",
+  "last_updatetime": 1410005135,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 21979,
+  "hit_num": 295223,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7739,
+      "tag_name": "みきぷらす"
+    }
+  ],
+  "subscribe_num": 121,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30728,
+          "chapter_title": "1话",
+          "updatetime": 1410005135,
+          "filesize": 2112498,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 19802704,
+        "uid": 102177407,
+        "content": "啧啧啧",
+        "createtime": 1566830807,
+        "nickname": "原昊",
+        "avatar": "https://avatar.dmzj.com/30/87/3087a605cba0c0fa363081d0f040b6c9.png"
+      },
+      {
+        "comment_id": 5689056,
+        "uid": 105121737,
+        "content": "这个怎么进不去看不见啊...",
+        "createtime": 1531907947,
+        "nickname": "大北方",
+        "avatar": "https://avatar.dmzj.com/92/98/9298f9470dfdd5ffd11423d523d95251.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 10422,
+  "islong": 2,
+  "direction": 1,
+  "title": "再游记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/zaixiyou.jpg",
+  "description": "这是哪个遥远的古代，从花果山顶蹦出的后猴，从西域取经归来后的故事.....",
+  "last_updatetime": 1361293164,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zaixiyou",
+  "hidden": 0,
+  "hot_num": 26222,
+  "hit_num": 174820,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22852,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5551,
+      "tag_name": "落合更起"
+    }
+  ],
+  "subscribe_num": 100,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22852,
+          "chapter_title": "1话",
+          "updatetime": 1361293164,
+          "filesize": 3929676,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 15943657,
+        "uid": 107701773,
+        "content": "！",
+        "createtime": 1557907993,
+        "nickname": "李大惧",
+        "avatar": "https://avatar.dmzj.com/0b/85/0b85c1f5e9bd23744502d1f601ea62ab.png"
+      },
+      {
+        "comment_id": 10046977,
+        "uid": 105651491,
+        "content": "白骨精管孙悟空叫空空",
+        "createtime": 1547396049,
+        "nickname": "直角鼻子",
+        "avatar": "https://avatar.dmzj.com/58/80/5880af486e9f8ce0bb59ae509015b887.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

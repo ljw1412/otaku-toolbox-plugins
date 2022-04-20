@@ -1,0 +1,75 @@
+{
+  "id": 14951,
+  "islong": 2,
+  "direction": 1,
+  "title": "雪的精灵",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/xuedejingling.jpg",
+  "description": "她伴随着雪花，飘舞至我身边……",
+  "last_updatetime": 1404960382,
+  "last_update_chapter_name": "全一话",
+  "copyright": 3,
+  "first_letter": "x",
+  "comic_py": "xuedejingling",
+  "hidden": 0,
+  "hot_num": 36236,
+  "hit_num": 141001,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 29402,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7513,
+      "tag_name": "柏原麻美"
+    }
+  ],
+  "subscribe_num": 167,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29402,
+          "chapter_title": "1话",
+          "updatetime": 1404960382,
+          "filesize": 1677736,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 13259832,
+        "uid": 83153,
+        "content": "没人的嘛？",
+        "createtime": 1553343709,
+        "nickname": "白20076",
+        "avatar": "https://avatar.dmzj.com/99/c2/99c284d78df935545f5323960f9c07c9.png"
+      },
+      {
+        "comment_id": 13110454,
+        "uid": 107591221,
+        "content": "mk",
+        "createtime": 1552915499,
+        "nickname": "dmzj_107591221",
+        "avatar": "https://avatar.dmzj.com/14/34/1434967b2a5c5ff65d3c0a882c784277.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

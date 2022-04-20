@@ -1,0 +1,79 @@
+{
+  "id": 12945,
+  "islong": 2,
+  "direction": 1,
+  "title": "狗狗与我",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/gougouyuwo.jpg",
+  "description": "总是爱耍性子的狗狗，对奶奶却永远服从。在雷雨的夜晚，少女和怕打雷的狗狗度过了整整一夜……",
+  "last_updatetime": 1381570997,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gougouyuwo",
+  "hidden": 0,
+  "hot_num": 36164,
+  "hit_num": 67010,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25760,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4627,
+      "tag_name": "碧空呗"
+    }
+  ],
+  "subscribe_num": 175,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25760,
+          "chapter_title": "短篇",
+          "updatetime": 1381570997,
+          "filesize": 967403,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 29333994,
+        "uid": 111070578,
+        "content": "dmzj",
+        "createtime": 1596109337,
+        "nickname": "dmzj_111070578",
+        "avatar": "https://avatar.dmzj.com/44/b8/44b8cdf6c984eb892bf0b25de15abb82.png"
+      },
+      {
+        "comment_id": 28041586,
+        "uid": 105106938,
+        "content": "啊这",
+        "createtime": 1591705839,
+        "nickname": "小灰格蕾",
+        "avatar": "https://avatar.dmzj.com/42/01/42019b294ff139232425454acee2314f.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

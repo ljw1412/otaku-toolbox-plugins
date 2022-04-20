@@ -1,0 +1,77 @@
+{
+  "id": 17724,
+  "islong": 2,
+  "direction": 1,
+  "title": "Lost -It’s My Life-",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/lostitsmylife9864l.jpg",
+  "description": "不能出卖灵魂~",
+  "last_updatetime": 1427352293,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 123197,
+  "hit_num": 254220,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8863,
+      "tag_name": "绪原博绮"
+    }
+  ],
+  "subscribe_num": 716,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35673,
+          "chapter_title": "1话",
+          "updatetime": 1427352293,
+          "filesize": 2349586,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 21422838,
+        "uid": 100306221,
+        "content": "刘明",
+        "createtime": 1571357602,
+        "nickname": "真是低俗",
+        "avatar": "https://avatar.dmzj.com/81/57/81575780b12f0db165cc5f2d2d61829d.png"
+      },
+      {
+        "comment_id": 13305787,
+        "uid": 105296245,
+        "content": "眼",
+        "createtime": 1553482023,
+        "nickname": "不言先生",
+        "avatar": "https://avatar.dmzj.com/33/03/33034ea71c0478575e197ee458f0ea70.png"
+      }
+    ]
+  }
+}

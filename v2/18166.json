@@ -1,0 +1,131 @@
+{
+  "id": 18166,
+  "islong": 2,
+  "direction": 2,
+  "title": "小白的日常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1001233041429081116.jpg",
+  "description": "上班忙，下班玩！由人资网创作的职场漫画《小白的日常》，开始连载啦！快跟着小白走进最有趣，最真实的职场生活吧！",
+  "last_updatetime": 1437385088,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 2869,
+  "hit_num": 36125,
+  "uid": 100123304,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9068,
+      "tag_name": "人资网"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40996,
+          "chapter_title": "9话",
+          "updatetime": 1437385088,
+          "filesize": 109012,
+          "chapter_order": 9
+        },
+        {
+          "chapter_id": 40428,
+          "chapter_title": "8话",
+          "updatetime": 1435915159,
+          "filesize": 165967,
+          "chapter_order": 8
+        },
+        {
+          "chapter_id": 39986,
+          "chapter_title": "7话",
+          "updatetime": 1434701970,
+          "filesize": 137422,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 39485,
+          "chapter_title": "6话",
+          "updatetime": 1433216759,
+          "filesize": 115060,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 39484,
+          "chapter_title": "5话",
+          "updatetime": 1433216296,
+          "filesize": 163366,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 38534,
+          "chapter_title": "4话",
+          "updatetime": 1430791659,
+          "filesize": 129400,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 37961,
+          "chapter_title": "3话",
+          "updatetime": 1429580471,
+          "filesize": 269901,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 37766,
+          "chapter_title": "2话",
+          "updatetime": 1429088374,
+          "filesize": 118079,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 37767,
+          "chapter_title": "1话",
+          "updatetime": 1429081432,
+          "filesize": 243875,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "一周一到两更",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 497714,
+        "uid": 100460466,
+        "content": "不搞笑，但是有一些小道理。还是不错的。",
+        "createtime": 1445609146,
+        "nickname": "。39157",
+        "avatar": "https://avatar.dmzj.com/15/fd/15fddb947e63795303ed24e7c5334d7e.png"
+      },
+      {
+        "comment_id": 423451,
+        "uid": 19735610,
+        "content": "友情支持下…",
+        "createtime": 1436071794,
+        "nickname": "Grapefruit",
+        "avatar": "https://avatar.dmzj.com/60/5c/605ca6380e49fc9df3356ccbb70d20d0.png"
+      }
+    ]
+  }
+}

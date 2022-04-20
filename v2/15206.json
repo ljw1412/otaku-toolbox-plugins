@@ -1,0 +1,73 @@
+{
+  "id": 15206,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠与德古拉",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/20160524batmandracula.jpg",
+  "description": "蝙蝠侠去往异世界，与德古拉的短篇。",
+  "last_updatetime": 1407209091,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 251760,
+  "hit_num": 420741,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 863,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30003,
+          "chapter_title": "1卷",
+          "updatetime": 1407209091,
+          "filesize": 15068649,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 28629480,
+        "uid": 107724905,
+        "content": "快呼叫隔壁刀锋战士",
+        "createtime": 1593707299,
+        "nickname": "超魔零",
+        "avatar": "https://avatar.dmzj.com/53/ab/53ab06c8de796a6237aca055dc5dd969.png"
+      },
+      {
+        "comment_id": 20870284,
+        "uid": 100253834,
+        "content": "我记得还有一版是老爷干掉了德古拉却被咬了，最后选择用木钉钉死了自己",
+        "createtime": 1570113740,
+        "nickname": "乌拉啦",
+        "avatar": "https://avatar.dmzj.com/78/89/78897216dc3a249e5ec35ef29b1cf26f.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": 13720,
+  "islong": 2,
+  "direction": 2,
+  "title": "小丑神探",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/xiaochoushentan2.jpg",
+  "description": "Dany和Van Hamme的力作《Arlequin》（小丑/小丑神探）",
+  "last_updatetime": 1389597840,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 13324,
+  "hit_num": 148036,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7030,
+      "tag_name": "Le Lombard"
+    }
+  ],
+  "subscribe_num": 51,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27323,
+          "chapter_title": "5卷",
+          "updatetime": 1389597840,
+          "filesize": 6474892,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 27322,
+          "chapter_title": "4卷",
+          "updatetime": 1389597832,
+          "filesize": 5963807,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 27321,
+          "chapter_title": "3卷",
+          "updatetime": 1389597824,
+          "filesize": 5924992,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 27320,
+          "chapter_title": "2卷",
+          "updatetime": 1389597815,
+          "filesize": 6328172,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 27319,
+          "chapter_title": "1卷",
+          "updatetime": 1389597802,
+          "filesize": 5728691,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 7097949,
+        "uid": 105608248,
+        "content": "法漫的涂色有时候真的很奇怪，也许是因为不大习惯",
+        "createtime": 1538357157,
+        "nickname": "轻哼的小调",
+        "avatar": "https://avatar.dmzj.com/48/28/48288972973f636dbd157f4c55d15479.png"
+      }
+    ]
+  }
+}

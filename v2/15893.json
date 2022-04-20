@@ -1,0 +1,107 @@
+{
+  "id": 15893,
+  "islong": 2,
+  "direction": 2,
+  "title": "忍者神龟历险记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/1020renzheshenguilixianjifm1.jpg",
+  "description": "1988年，87版漫画《TMNT Adventure》由阿奇漫画公司（Archie Comics）出版，#1-#72,特别篇12本。",
+  "last_updatetime": 1451570943,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "renzheshenguilixianji",
+  "hidden": 0,
+  "hot_num": 48240,
+  "hit_num": 142167,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 44814,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7914,
+      "tag_name": "Archie Comics"
+    }
+  ],
+  "subscribe_num": 223,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44814,
+          "chapter_title": "4卷",
+          "updatetime": 1451570943,
+          "filesize": 5228434,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 44429,
+          "chapter_title": "3卷",
+          "updatetime": 1450889016,
+          "filesize": 5482002,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 39441,
+          "chapter_title": "2卷",
+          "updatetime": 1437659621,
+          "filesize": 5190887,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 39216,
+          "chapter_title": "1卷",
+          "updatetime": 1437139407,
+          "filesize": 4743170,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 31471,
+          "chapter_title": "100页特辑",
+          "updatetime": 1413880457,
+          "filesize": 19055748,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 29684006,
+        "uid": 111379473,
+        "content": "动漫看过",
+        "createtime": 1597423085,
+        "nickname": "リクオ",
+        "avatar": "https://avatar.dmzj.com/48/03/4803d4a9e732548510351325645e3a92.png"
+      },
+      {
+        "comment_id": 29683976,
+        "uid": 111379473,
+        "content": "漫画没啥人看",
+        "createtime": 1597423033,
+        "nickname": "リクオ",
+        "avatar": "https://avatar.dmzj.com/48/03/4803d4a9e732548510351325645e3a92.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

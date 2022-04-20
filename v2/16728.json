@@ -1,0 +1,79 @@
+{
+  "id": 16728,
+  "islong": 2,
+  "direction": 2,
+  "title": "缺口",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/breachquekoul.jpg",
+  "description": "重启前差点取代原子队长的Breach，只有11话的老漫，当年DC打算重启原子对长，结果推出这货。计画最后当然失败了，不然new 52我们也见不到自爆侠的英姿。起源和背景大概跟自爆侠差不多，能力也相若。",
+  "last_updatetime": 1425952688,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 8805,
+  "hit_num": 88717,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 37,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34907,
+          "chapter_title": "3卷",
+          "updatetime": 1425952688,
+          "filesize": 3118757,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 33718,
+          "chapter_title": "2卷",
+          "updatetime": 1421921971,
+          "filesize": 3647256,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 33470,
+          "chapter_title": "1卷",
+          "updatetime": 1421124929,
+          "filesize": 4396672,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 3092709,
+        "uid": 100415369,
+        "content": "缺，口",
+        "createtime": 1507954450,
+        "nickname": "killquin",
+        "avatar": "https://avatar.dmzj.com/cf/65/cf659a876fd780552b52d5be7358f582.png"
+      }
+    ]
+  }
+}

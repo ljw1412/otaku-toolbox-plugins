@@ -1,0 +1,56 @@
+{
+  "id": 18633,
+  "islong": 2,
+  "direction": 1,
+  "title": "测试20150512淘漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/mg-logo.jpg",
+  "description": "淘漫画",
+  "last_updatetime": 0,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 2473,
+  "hit_num": 0,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [],
+  "comment": {
+    "comment_count": 55,
+    "latest_comment": [
+      {
+        "comment_id": 29907364,
+        "uid": 108649772,
+        "content": "这是个什么玩意儿？",
+        "createtime": 1598269127,
+        "nickname": "看我发现了什么",
+        "avatar": "https://avatar.dmzj.com/41/60/416003d2e5343b5a9772e51b6c6bbdd7.png"
+      },
+      {
+        "comment_id": 26375067,
+        "uid": 104892776,
+        "content": "/c是什么意思？",
+        "createtime": 1586625641,
+        "nickname": "孤90030",
+        "avatar": "https://avatar.dmzj.com/8f/56/8f56aac2f017ff64ccb1d2ebf861cadd.png"
+      }
+    ]
+  }
+}

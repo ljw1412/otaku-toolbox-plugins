@@ -1,0 +1,87 @@
+{
+  "id": 12890,
+  "islong": 2,
+  "direction": 1,
+  "title": "言子的语言",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/yanzideyuyanV2.jpg",
+  "description": "语言里面蕴藏着某种看不见的力量，这种力量时而是暗示，时而是药物，时而是魔法……有的时候可能也是暴力。千本坂言子，她的语言就充满了这种让人无法抗拒的力量……",
+  "last_updatetime": 1493568240,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 283212,
+  "hit_num": 905795,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5634,
+      "tag_name": "宵町めめ"
+    }
+  ],
+  "subscribe_num": 1765,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65006,
+          "chapter_title": "2话",
+          "updatetime": 1493568240,
+          "filesize": 3317318,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 61538,
+          "chapter_title": "1话",
+          "updatetime": 1482902599,
+          "filesize": 4507141,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 25634,
+          "chapter_title": "1话",
+          "updatetime": 1380815743,
+          "filesize": 3949762,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 44,
+    "latest_comment": [
+      {
+        "comment_id": 17235017,
+        "uid": 102508053,
+        "content": "慢慢看",
+        "createtime": 1560773797,
+        "nickname": "hikinito",
+        "avatar": "https://avatar.dmzj.com/dc/1e/dc1e3615cd7fbba1d5ac6648da6ece46.png"
+      },
+      {
+        "comment_id": 14816074,
+        "uid": 102572755,
+        "content": "伪神之书",
+        "createtime": 1556077341,
+        "nickname": "心流1",
+        "avatar": "https://avatar.dmzj.com/b4/00/b400a005f1f2bcbe0df2b27d104c6a5a.png"
+      }
+    ]
+  }
+}

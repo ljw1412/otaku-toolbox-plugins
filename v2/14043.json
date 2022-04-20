@@ -1,0 +1,80 @@
+{
+  "id": 14043,
+  "islong": 2,
+  "direction": 2,
+  "title": "暴龙与变相怪杰",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/baolongyubianxiangguaijie.jpg",
+  "description": "还记得当年的变相怪杰吗？ 变相怪杰大战暴龙",
+  "last_updatetime": 1393299503,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 1883939,
+  "hit_num": 703896,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 7548,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26913,
+          "chapter_title": "2卷",
+          "updatetime": 1393299503,
+          "filesize": 7182509,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 26912,
+          "chapter_title": "1卷",
+          "updatetime": 1393299497,
+          "filesize": 7481821,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 5997519,
+        "uid": 107629416,
+        "content": "哈俩疯子聚头了",
+        "createtime": 1533130030,
+        "nickname": "威灵顿在滑铁卢",
+        "avatar": "https://avatar.dmzj.com/44/23/442352721767731d24aa1f4effed86e1.png"
+      },
+      {
+        "comment_id": 2446314,
+        "uid": 100975917,
+        "content": "变相怪杰算是DC系列的么",
+        "createtime": 1499512928,
+        "nickname": "STP胖虎",
+        "avatar": "https://avatar.dmzj.com/48/50/4850e3d630306d1ea0731da27f62b55d.png"
+      }
+    ]
+  }
+}

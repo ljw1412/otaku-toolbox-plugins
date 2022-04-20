@@ -1,0 +1,101 @@
+{
+  "id": 14855,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠：哥谭大门",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/getandamen.jpg",
+  "description": "讲述哥谭市四大家族的故事，有涉及家史和哥谭历史.",
+  "last_updatetime": 1409457891,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 1080324,
+  "hit_num": 229806,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 3783,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33844,
+          "chapter_title": "5卷",
+          "updatetime": 1409457891,
+          "filesize": 3473025,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 30918,
+          "chapter_title": "4卷",
+          "updatetime": 1408249416,
+          "filesize": 2452623,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 30536,
+          "chapter_title": "3卷",
+          "updatetime": 1406605313,
+          "filesize": 4934352,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 30191,
+          "chapter_title": "2卷",
+          "updatetime": 1405223700,
+          "filesize": 2501674,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 29940,
+          "chapter_title": "1卷",
+          "updatetime": 1404013315,
+          "filesize": 2787726,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 29528299,
+        "uid": 110038985,
+        "content": "ss就是从这里开始喜欢挖蝙蝠家的历史了吧。",
+        "createtime": 1596803353,
+        "nickname": "JLU",
+        "avatar": "https://avatar.dmzj.com/97/03/9703eb4f648d5d72b4043752e4bfee4f.png"
+      },
+      {
+        "comment_id": 13304114,
+        "uid": 108075666,
+        "content": "哥谭四大家族，微妙",
+        "createtime": 1553478876,
+        "nickname": "巧07555",
+        "avatar": "https://avatar.dmzj.com/5b/7a/5b7ad9d50b86e3a86359f5c262c66cd6.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 15678,
+  "islong": 2,
+  "direction": 1,
+  "title": "必杀",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/03bishaduanpian0925.jpg",
+  "description": "杀手爱上妹！等等！接下来的展开好像有点奇怪……？",
+  "last_updatetime": 1411654040,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bishadp",
+  "hidden": 0,
+  "hot_num": 41846,
+  "hit_num": 220781,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 31027,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7808,
+      "tag_name": "横山太一"
+    }
+  ],
+  "subscribe_num": 228,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31027,
+          "chapter_title": "1话",
+          "updatetime": 1411654040,
+          "filesize": 5840946,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 23880375,
+        "uid": 102097913,
+        "content": "143",
+        "createtime": 1581084910,
+        "nickname": " 化伪猫℡",
+        "avatar": "https://avatar.dmzj.com/52/05/52055759d6c6ec96263b4b40e0c68c21.png"
+      },
+      {
+        "comment_id": 12260935,
+        "uid": 107321915,
+        "content": "怎么最近又有人来了？",
+        "createtime": 1551599393,
+        "nickname": "断角的拉缇娜",
+        "avatar": "https://avatar.dmzj.com/44/36/44362c4e9ea3f2aadce984028053c546.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

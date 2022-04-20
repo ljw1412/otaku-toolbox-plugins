@@ -1,0 +1,90 @@
+{
+  "id": 12451,
+  "islong": 2,
+  "direction": 1,
+  "title": "黄色椅子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/huangseyizi.jpg",
+  "description": "黄色椅子\n有点眷恋人类\n下雨天邂逅的是……？",
+  "last_updatetime": 1381674358,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 65779,
+  "hit_num": 142160,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 1294,
+      "tag_name": "音久无"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "subscribe_num": 326,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24376,
+          "chapter_title": "4话",
+          "updatetime": 1381674358,
+          "filesize": 594838,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 24081,
+          "chapter_title": "3话",
+          "updatetime": 1379808936,
+          "filesize": 733919,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 23819,
+          "chapter_title": "2话",
+          "updatetime": 1378561276,
+          "filesize": 656521,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23440,
+          "chapter_title": "1话",
+          "updatetime": 1376520421,
+          "filesize": 597242,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 29053852,
+        "uid": 107293867,
+        "content": "这字幕组还在吗",
+        "createtime": 1595094954,
+        "nickname": "唐巧茉",
+        "avatar": "https://avatar.dmzj.com/30/67/30674f5431316bf37b3ca6032d8bf6ec.png"
+      },
+      {
+        "comment_id": 21800924,
+        "uid": 102400474,
+        "content": "有点像以前看过的儿童文学，莫名的感觉很舒适……",
+        "createtime": 1572521257,
+        "nickname": "从301扔茶杯",
+        "avatar": "https://avatar.dmzj.com/86/12/86129e025a70ab1b43f86945653ebff7.png"
+      }
+    ]
+  }
+}

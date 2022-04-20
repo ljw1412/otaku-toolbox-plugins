@@ -1,0 +1,76 @@
+{
+  "id": 13285,
+  "islong": 2,
+  "direction": 1,
+  "title": "青春舞曲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/qingchunwuqu.jpg",
+  "description": "山下老师的少女短篇集。",
+  "last_updatetime": 1384678229,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 78743,
+  "hit_num": 445859,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1981,
+      "tag_name": "山下和美"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 406,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26323,
+          "chapter_title": "2卷",
+          "updatetime": 1384678229,
+          "filesize": 14761068,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 26322,
+          "chapter_title": "1卷",
+          "updatetime": 1384678035,
+          "filesize": 15690213,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 29181720,
+        "uid": 108111665,
+        "content": "啊，太好看了，老师的分镜太强了，人物塑造也好有特点，好有趣的短篇集。",
+        "createtime": 1595554556,
+        "nickname": "NumberW",
+        "avatar": "https://avatar.dmzj.com/53/09/5309591074269947086e87f9a5ab400a.png"
+      },
+      {
+        "comment_id": 27530213,
+        "uid": 101225159,
+        "content": "太有感触了",
+        "createtime": 1589956447,
+        "nickname": "污雨魔理沙⚠",
+        "avatar": "https://avatar.dmzj.com/e1/40/e140dec4c6ce8aeccad31696d5655629.png"
+      }
+    ]
+  }
+}

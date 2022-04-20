@@ -1,0 +1,83 @@
+{
+  "id": 16842,
+  "islong": 2,
+  "direction": 1,
+  "title": "亲王的新菜单开发",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/juujunL.jpg",
+  "description": "C87舰娘同人",
+  "last_updatetime": 1421824105,
+  "last_update_chapter_name": "(C87)全一话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qwdxcdkf",
+  "hidden": 0,
+  "hot_num": 53855,
+  "hit_num": 273691,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 37490,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5944,
+      "tag_name": "abua"
+    }
+  ],
+  "subscribe_num": 308,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37490,
+          "chapter_title": "1话",
+          "updatetime": 1421824105,
+          "filesize": 2969906,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 3521295,
+        "uid": 102362808,
+        "content": "薪王的亲菜单开发。。。",
+        "createtime": 1513528675,
+        "nickname": "墨雾归尘",
+        "avatar": "https://avatar.dmzj.com/b4/6d/b46dbae239f29bab92e98544eefffa22.png"
+      },
+      {
+        "comment_id": 1733305,
+        "uid": 100824724,
+        "content": "长门这是。。。",
+        "createtime": 1485653445,
+        "nickname": "boss级毒爆",
+        "avatar": "https://avatar.dmzj.com/0d/66/0d669958c85f55a6350e796145a0cf1c.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

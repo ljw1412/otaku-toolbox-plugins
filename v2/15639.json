@@ -1,0 +1,110 @@
+{
+  "id": 15639,
+  "islong": 2,
+  "direction": 1,
+  "title": "兽人与精灵的日常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/200611sryjldrc.jpg",
+  "description": "兽人捕获了一个精灵，他们之间会发生点什么呢？",
+  "last_updatetime": 1591888448,
+  "last_update_chapter_name": "第06话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sryjldrc",
+  "hidden": 0,
+  "hot_num": 5035576,
+  "hit_num": 6189607,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99653,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 6219,
+      "tag_name": "节操"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6600,
+      "tag_name": "jin"
+    }
+  ],
+  "subscribe_num": 28663,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99653,
+          "chapter_title": "6话",
+          "updatetime": 1591888448,
+          "filesize": 316138,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 99647,
+          "chapter_title": "5话",
+          "updatetime": 1591884668,
+          "filesize": 560275,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 44863,
+          "chapter_title": "4话",
+          "updatetime": 1450833427,
+          "filesize": 1317536,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 33189,
+          "chapter_title": "3话",
+          "updatetime": 1419662541,
+          "filesize": 782149,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 31011,
+          "chapter_title": "2话",
+          "updatetime": 1411221786,
+          "filesize": 1063726,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 31010,
+          "chapter_title": "1话",
+          "updatetime": 1411221764,
+          "filesize": 509652,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 915,
+    "latest_comment": [
+      {
+        "comment_id": 30055864,
+        "uid": 23385332,
+        "content": "好多以前的都浮出来了",
+        "createtime": 1598831503,
+        "nickname": "____魂浅",
+        "avatar": "https://avatar.dmzj.com/04/14/0414e381b529e70a5fc3d47be4d62f4c.png"
+      },
+      {
+        "comment_id": 30044365,
+        "uid": 102382994,
+        "content": "中间是不是夜袭啊",
+        "createtime": 1598788236,
+        "nickname": "烁韵哲",
+        "avatar": "https://avatar.dmzj.com/81/d3/81d337b77213ea76ba324a40255d8628.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

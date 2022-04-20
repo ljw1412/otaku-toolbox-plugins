@@ -1,0 +1,75 @@
+{
+  "id": 16907,
+  "islong": 2,
+  "direction": 2,
+  "title": "霹雳周报",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/0127pilizhoubaofml.jpg",
+  "description": "一话一P，布袋戏观剧吐槽漫，前面是霹雳的，后面有金光及其他布袋戏的，随时断更，不用期待【喂",
+  "last_updatetime": 1422329039,
+  "copyright": 1,
+  "first_letter": "p",
+  "hot_num": 10476,
+  "hit_num": 9739,
+  "uid": 100041128,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5806,
+      "tag_name": "魔幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8450,
+      "tag_name": "永无仙境"
+    }
+  ],
+  "subscribe_num": 38,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37720,
+          "chapter_title": "1话",
+          "updatetime": 1422329039,
+          "filesize": 65442,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 29715350,
+        "uid": 107029905,
+        "content": "想看续更呜呜呜呜……",
+        "createtime": 1597554398,
+        "nickname": "无茶",
+        "avatar": "https://avatar.dmzj.com/72/57/72572aef9811484703ff6399609adf46.png"
+      },
+      {
+        "comment_id": 7517521,
+        "uid": 100646942,
+        "content": "点我，看订阅，有猎人",
+        "createtime": 1540005226,
+        "nickname": "平风造雨",
+        "avatar": "https://avatar.dmzj.com/74/89/74897ce1e9a0c89fdbe8b3abe1624bdb.png"
+      }
+    ]
+  }
+}

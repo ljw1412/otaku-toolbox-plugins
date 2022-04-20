@@ -1,0 +1,71 @@
+{
+  "id": 16381,
+  "islong": 2,
+  "direction": 1,
+  "title": "还我疆土",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/huanwojiangtu.jpg",
+  "description": "华夏大地千百年来，低于无数外敌仍然屹立不倒，你们竞想凭一己之力征服中原简直是痴人说梦",
+  "last_updatetime": 1418801691,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 10002,
+  "hit_num": 58936,
+  "uid": 100099224,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7916,
+      "tag_name": "恶人谷漫画"
+    }
+  ],
+  "subscribe_num": 53,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33762,
+          "chapter_title": "1话",
+          "updatetime": 1418801691,
+          "filesize": 590298,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 5842799,
+        "uid": 107459297,
+        "content": "这个漫画，是没了么......明明很棒啊",
+        "createtime": 1532481622,
+        "nickname": "云和星",
+        "avatar": "https://avatar.dmzj.com/cc/e8/cce87c0679e7f6f21f243805e1762129.png"
+      },
+      {
+        "comment_id": 692716,
+        "uid": 100734209,
+        "content": "霍去病吧……这话是霍去病说的",
+        "createtime": 1458941639,
+        "nickname": "Lin2501",
+        "avatar": "https://avatar.dmzj.com/27/54/2754bcabfbb664896e52f6a8ef362606.png"
+      }
+    ]
+  }
+}

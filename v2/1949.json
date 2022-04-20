@@ -1,0 +1,90 @@
+{
+  "id": 1949,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠-黑白世界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/cc_7b297edc4cc60ebf287fb2a1295d6e9d.jpg",
+  "description": "蝙蝠侠黑白世界",
+  "last_updatetime": 1489656703,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 2187862,
+  "hit_num": 743792,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 9529,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59872,
+          "chapter_title": "4话",
+          "updatetime": 1489656704,
+          "filesize": 11271823,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 5144,
+          "chapter_title": "3话",
+          "updatetime": 1269938180,
+          "filesize": 10983260,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 5143,
+          "chapter_title": "2话",
+          "updatetime": 1269938180,
+          "filesize": 6296424,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 5142,
+          "chapter_title": "1话",
+          "updatetime": 1269938180,
+          "filesize": 6675390,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 28968225,
+        "uid": 106091166,
+        "content": "第三张面具更懵????",
+        "createtime": 1594820178,
+        "nickname": "batter",
+        "avatar": "https://avatar.dmzj.com/89/33/89330962d407dd3b294f9689e7db8b58.png"
+      },
+      {
+        "comment_id": 28968146,
+        "uid": 106091166,
+        "content": "道别看了好几遍还是有点懵。。",
+        "createtime": 1594820021,
+        "nickname": "batter",
+        "avatar": "https://avatar.dmzj.com/89/33/89330962d407dd3b294f9689e7db8b58.png"
+      }
+    ]
+  }
+}

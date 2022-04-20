@@ -1,0 +1,75 @@
+{
+  "id": 11501,
+  "islong": 2,
+  "direction": 1,
+  "title": "happy life  happy life x",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/happylivex.jpg",
+  "description": "オムチキン的东方同人本。",
+  "last_updatetime": 1370159992,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "happylifex",
+  "hidden": 0,
+  "hot_num": 27434,
+  "hit_num": 184260,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22009,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6052,
+      "tag_name": "オムチキン"
+    }
+  ],
+  "subscribe_num": 110,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22009,
+          "chapter_title": "1话",
+          "updatetime": 1370159992,
+          "filesize": 3460532,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 28110887,
+        "uid": 106373560,
+        "content": "岁月磨平了神明的棱角",
+        "createtime": 1591963490,
+        "nickname": "dmzj_106373560",
+        "avatar": "https://avatar.dmzj.com/c0/cd/c0cd04c3ae10af2d9c5823d1dd3e21c9.png"
+      },
+      {
+        "comment_id": 16871261,
+        "uid": 100436587,
+        "content": "。",
+        "createtime": 1559863143,
+        "nickname": "MRGGG",
+        "avatar": "https://avatar.dmzj.com/40/60/40601e86e2bd5c4443557cff070a63a4.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

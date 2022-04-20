@@ -1,0 +1,75 @@
+{
+  "id": 15825,
+  "islong": 2,
+  "direction": 1,
+  "title": "小初音成长日记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/Image1xxcy.jpg",
+  "description": "你在哭吗？<br>\n小小初音未来，动人心弦的成长物语！",
+  "last_updatetime": 1456818193,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xcyczrj",
+  "hidden": 0,
+  "hot_num": 42042,
+  "hit_num": 630394,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 34685,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7884,
+      "tag_name": "なぎみそ"
+    }
+  ],
+  "subscribe_num": 343,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34685,
+          "chapter_title": "1卷",
+          "updatetime": 1456818194,
+          "filesize": 12146188,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 28809705,
+        "uid": 111251887,
+        "content": "好暖心啊。",
+        "createtime": 1594296276,
+        "nickname": "我是初音未来的袖套。",
+        "avatar": "https://avatar.dmzj.com/36/37/36370d2c6885b4e13adca956d80e1fde.png"
+      },
+      {
+        "comment_id": 24123691,
+        "uid": 109001390,
+        "content": "qaqq",
+        "createtime": 1581670719,
+        "nickname": "怪桥桥",
+        "avatar": "https://avatar.dmzj.com/79/91/7991d49231b3369d0d326fb03aaa087d.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

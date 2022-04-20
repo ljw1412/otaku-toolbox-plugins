@@ -1,0 +1,77 @@
+{
+  "id": 11082,
+  "islong": 2,
+  "direction": 1,
+  "title": "School Day",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/schoolday.jpg",
+  "description": "叶恭弘的新学期春之短篇！人气满满的初登场！",
+  "last_updatetime": 1367076851,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 237646,
+  "hit_num": 1022244,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 765,
+      "tag_name": "叶恭弘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1550,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24003,
+          "chapter_title": "1话",
+          "updatetime": 1367076851,
+          "filesize": 3003023,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 139,
+    "latest_comment": [
+      {
+        "comment_id": 27852405,
+        "uid": 110963011,
+        "content": "这个名字。。",
+        "createtime": 1590979027,
+        "nickname": "不要熬夜了",
+        "avatar": "https://avatar.dmzj.com/14/c8/14c823019d8f040a184b7e1b1bb8cf7c.png"
+      },
+      {
+        "comment_id": 25787693,
+        "uid": 107499012,
+        "content": "以为诚哥的举爪",
+        "createtime": 1585400697,
+        "nickname": "WK233",
+        "avatar": "https://avatar.dmzj.com/95/da/95da5573e37147570bed22b0290b06f6.png"
+      }
+    ]
+  }
+}

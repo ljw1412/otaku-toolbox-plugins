@@ -1,0 +1,83 @@
+{
+  "id": 17228,
+  "islong": 2,
+  "direction": 1,
+  "title": "勇者斗恶龙官方四格",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/yzdelgfsgfengmianl.jpg",
+  "description": "这是SE官方的DQMSL四格漫画小剧场，主要以搞笑的剧情介绍游戏里的一些系统",
+  "last_updatetime": 1425091168,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 85229,
+  "hit_num": 299757,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8609,
+      "tag_name": "Square Enix"
+    }
+  ],
+  "subscribe_num": 274,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34633,
+          "chapter_title": "21话",
+          "updatetime": 1425091168,
+          "filesize": 1483047,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 34632,
+          "chapter_title": "11话",
+          "updatetime": 1425091158,
+          "filesize": 1467456,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 34631,
+          "chapter_title": "1话",
+          "updatetime": 1425091143,
+          "filesize": 1473124,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 16240673,
+        "uid": 100155773,
+        "content": "好看",
+        "createtime": 1558479047,
+        "nickname": "ykw257",
+        "avatar": "https://avatar.dmzj.com/a5/d0/a5d093130e88c14fe15967045b800431.png"
+      },
+      {
+        "comment_id": 11324797,
+        "uid": 102219574,
+        "content": "Mk",
+        "createtime": 1550054405,
+        "nickname": "前尘隔海",
+        "avatar": "https://avatar.dmzj.com/82/72/8272aa2b78e0b5e933fc5e50981ad182.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": 19962,
+  "islong": 2,
+  "direction": 2,
+  "title": "爱学习的孩子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1437118660.jpg",
+  "description": "爱学习的孩子",
+  "last_updatetime": 1437017441,
+  "copyright": 1,
+  "first_letter": "a",
+  "hot_num": 742,
+  "hit_num": 2336,
+  "uid": 100250262,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9929,
+      "tag_name": "lakers"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43102,
+          "chapter_title": "1话",
+          "updatetime": 1437017441,
+          "filesize": 348561,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 453520,
+        "uid": 100320455,
+        "content": "被封面骗",
+        "createtime": 1439685759,
+        "nickname": "‘桐谷和人",
+        "avatar": "https://avatar.dmzj.com/8a/26/8a266d15378fc0384da59a715bd57e05.png"
+      }
+    ]
+  }
+}

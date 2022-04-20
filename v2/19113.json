@@ -1,0 +1,88 @@
+{
+  "id": 19113,
+  "islong": 2,
+  "direction": 2,
+  "title": "与死神擦肩而过的日子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1001996951434007472.jpg",
+  "description": "这里会告诉大家生活中的健康常识，你是否在不经意间与死神擦肩而过，生命可贵，请爱护自己",
+  "last_updatetime": 1434535087,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 3941,
+  "hit_num": 42325,
+  "uid": 100199695,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9543,
+      "tag_name": "kk健康"
+    }
+  ],
+  "subscribe_num": 12,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38163,
+          "chapter_title": "MERS!  突击！",
+          "updatetime": 1434535087,
+          "filesize": 653120,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 37958,
+          "chapter_title": "致命手机",
+          "updatetime": 1434008764,
+          "filesize": 962374,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 37957,
+          "chapter_title": "嘿胖子",
+          "updatetime": 1434008054,
+          "filesize": 583763,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 37956,
+          "chapter_title": "宅男宅女来来来",
+          "updatetime": 1434007926,
+          "filesize": 692364,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "KK网出品",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 24133643,
+        "uid": 105423621,
+        "content": "Ekis留名",
+        "createtime": 1581686841,
+        "nickname": "EkisSkrine",
+        "avatar": "https://avatar.dmzj.com/24/df/24dffd9c69aa8fe292f9d2cd34758061.png"
+      }
+    ]
+  }
+}

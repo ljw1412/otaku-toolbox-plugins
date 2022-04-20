@@ -1,0 +1,90 @@
+{
+  "id": 13292,
+  "islong": 2,
+  "direction": 1,
+  "title": "橙与黄",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/chengyuhuang.jpg",
+  "description": "和姐姐在一起，很温馨和舒服。静静的。爱",
+  "last_updatetime": 1384826279,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 107383,
+  "hit_num": 503261,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6332,
+      "tag_name": "乙ひより"
+    }
+  ],
+  "subscribe_num": 509,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27445,
+          "chapter_title": "番外",
+          "updatetime": 1384826279,
+          "filesize": 406306,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 27432,
+          "chapter_title": "3话",
+          "updatetime": 1384746828,
+          "filesize": 1465188,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 27431,
+          "chapter_title": "2话",
+          "updatetime": 1384746557,
+          "filesize": 1915519,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 27430,
+          "chapter_title": "1话",
+          "updatetime": 1384746550,
+          "filesize": 2134493,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 30074777,
+        "uid": 107107662,
+        "content": "看似年下（真实年龄）实则是年上（心理年龄）？",
+        "createtime": 1598920688,
+        "nickname": "纯属二缺",
+        "avatar": "https://avatar.dmzj.com/8f/4d/8f4dc7c674cbdd91f71c7cef0dae7980.png"
+      },
+      {
+        "comment_id": 30038139,
+        "uid": 108024180,
+        "content": "啊啊啊啊插个眼先！",
+        "createtime": 1598758831,
+        "nickname": "螺旋升天大法",
+        "avatar": "https://avatar.dmzj.com/14/10/1410093011c859b769c37d1692c79a12.png"
+      }
+    ]
+  }
+}

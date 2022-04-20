@@ -1,0 +1,63 @@
+{
+  "id": 19614,
+  "islong": 2,
+  "direction": 2,
+  "title": "稻草人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871436163396.jpg",
+  "description": "稻草人",
+  "last_updatetime": 1436163598,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 2947,
+  "hit_num": 42223,
+  "uid": 100205887,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 7,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38757,
+          "chapter_title": "1话",
+          "updatetime": 1436163598,
+          "filesize": 1973290,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 425888,
+        "uid": 100233065,
+        "content": "画得太粗糙了，和知音漫客上的有得一拼。",
+        "createtime": 1436419686,
+        "nickname": "第二故里",
+        "avatar": "https://avatar.dmzj.com/75/7e/757e81a8872d264412b92c45198a18aa.png"
+      }
+    ]
+  }
+}

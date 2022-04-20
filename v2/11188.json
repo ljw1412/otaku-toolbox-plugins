@@ -1,0 +1,69 @@
+{
+  "id": 11188,
+  "islong": 2,
+  "direction": 1,
+  "title": "新世界之路",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/xinshijiezhilu.jpg",
+  "description": "新世界之路，手冢治虫老师的作品",
+  "last_updatetime": 1367817860,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 377637,
+  "hit_num": 277697,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 904,
+      "tag_name": "手冢治虫"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2235,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21841,
+          "chapter_title": "1卷",
+          "updatetime": 1367817860,
+          "filesize": 16406652,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 10396236,
+        "uid": 105285000,
+        "content": "漫画致敬了基督山伯爵吧，名字和埃德蒙·唐代斯很像，然后妻子和儿子离开那段很像梅瑟苔丝和阿尔贝离开那段",
+        "createtime": 1548179038,
+        "nickname": "Aykye",
+        "avatar": "https://avatar.dmzj.com/02/a6/02a6fba50bc68c425af267b661488b47.png"
+      },
+      {
+        "comment_id": 7740316,
+        "uid": 103220029,
+        "content": "开始以为是悬疑，中途突然变科幻",
+        "createtime": 1540899378,
+        "nickname": "意而散似舞",
+        "avatar": "https://avatar.dmzj.com/a1/11/a11194700bfa23347fb7d3667d0e3f46.png"
+      }
+    ]
+  }
+}

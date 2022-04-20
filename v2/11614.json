@@ -1,0 +1,71 @@
+{
+  "id": 11614,
+  "islong": 2,
+  "direction": 1,
+  "title": "空豆之森",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/kdzs.jpg",
+  "description": "空豆之森，中山星香画集中的一个小短篇。",
+  "last_updatetime": 1370592036,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "k",
+  "comic_py": "kdzs",
+  "hidden": 0,
+  "hot_num": 28542,
+  "hit_num": 34833,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22320,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 5806,
+      "tag_name": "魔幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5045,
+      "tag_name": "中山星香"
+    }
+  ],
+  "subscribe_num": 143,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22320,
+          "chapter_title": "1话",
+          "updatetime": 1370592036,
+          "filesize": 1134514,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 3699638,
+        "uid": 100243633,
+        "content": "嗯……一个字，短┐(´-｀)┌",
+        "createtime": 1516276029,
+        "nickname": "花落不见君",
+        "avatar": "https://avatar.dmzj.com/93/02/9302baba29e6d5a645ae23763c003493.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

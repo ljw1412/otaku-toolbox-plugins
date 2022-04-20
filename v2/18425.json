@@ -1,0 +1,75 @@
+{
+  "id": 18425,
+  "islong": 2,
+  "direction": 1,
+  "title": "这是爱啊！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/zsaa465631l.jpg",
+  "description": "佑马老师的光之美少女同人。",
+  "last_updatetime": 1430368528,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zheshiaia",
+  "hidden": 0,
+  "hot_num": 54916,
+  "hit_num": 52976,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 40676,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8103,
+      "tag_name": "Skirthike(祐马)"
+    }
+  ],
+  "subscribe_num": 285,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40676,
+          "chapter_title": "1话",
+          "updatetime": 1430368528,
+          "filesize": 2649086,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 24927720,
+        "uid": 106875545,
+        "content": "花香飘熏你我的记忆，牵起你的手，仰望夜空镶嵌的花火。",
+        "createtime": 1583431344,
+        "nickname": "dmzj_106875545",
+        "avatar": "https://avatar.dmzj.com/f7/9f/f79fca436c83c04ceafd9df6bcca3ebd.png"
+      },
+      {
+        "comment_id": 21827541,
+        "uid": 100627570,
+        "content": "e站上有，",
+        "createtime": 1572615548,
+        "nickname": "1446811656a",
+        "avatar": "https://avatar.dmzj.com/ae/48/ae485df7ae8044bb1d603439264e5515.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

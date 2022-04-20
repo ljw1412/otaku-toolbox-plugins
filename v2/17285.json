@@ -1,0 +1,91 @@
+{
+  "id": 17285,
+  "islong": 2,
+  "direction": 2,
+  "title": "妖魔道",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/0304yaomodaofml.jpg",
+  "description": "一名少女死亡后在阴间的经历。",
+  "last_updatetime": 1425450958,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 11633,
+  "hit_num": 436620,
+  "uid": 100084963,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8636,
+      "tag_name": "荒野兵"
+    }
+  ],
+  "subscribe_num": 31,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38695,
+          "chapter_title": "5话",
+          "updatetime": 1425450958,
+          "filesize": 1257105,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 38694,
+          "chapter_title": "4话",
+          "updatetime": 1425450954,
+          "filesize": 1409548,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 38693,
+          "chapter_title": "3话",
+          "updatetime": 1425450951,
+          "filesize": 1696284,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 38692,
+          "chapter_title": "2话",
+          "updatetime": 1425450948,
+          "filesize": 1589981,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 38691,
+          "chapter_title": "1话",
+          "updatetime": 1425450940,
+          "filesize": 2879869,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 360122,
+        "uid": 27029020,
+        "content": "狱寺",
+        "createtime": 1425486119,
+        "nickname": "神化月",
+        "avatar": "https://avatar.dmzj.com/b0/0b/b00bf8eb10d4b1157dbd1aa0e6200645.png"
+      }
+    ]
+  }
+}

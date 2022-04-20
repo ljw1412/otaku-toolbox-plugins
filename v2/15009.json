@@ -1,0 +1,79 @@
+{
+  "id": 15009,
+  "islong": 2,
+  "direction": 1,
+  "title": "Chicken girl",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/76b0a7501b063252.jpg",
+  "description": "超喜欢鸟类的小鸟与超喜欢小鸟却超不喜欢鸟类的小星谈论超喜欢小鸟却超不喜欢鸟类的小星为什么超不喜欢鸟类与超喜欢鸟类的小鸟为什么超喜欢鸟类的日常...",
+  "last_updatetime": 1405400573,
+  "last_update_chapter_name": "全一话",
+  "copyright": 3,
+  "first_letter": "c",
+  "comic_py": "chickengirl",
+  "hidden": 0,
+  "hot_num": 33302,
+  "hit_num": 58717,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 29066,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6817,
+      "tag_name": "ねこ太"
+    }
+  ],
+  "subscribe_num": 139,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29066,
+          "chapter_title": "1话",
+          "updatetime": 1405400573,
+          "filesize": 892478,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 29535482,
+        "uid": 109904326,
+        "content": "啊这",
+        "createtime": 1596819063,
+        "nickname": "odDASU",
+        "avatar": "https://avatar.dmzj.com/44/56/44565dd0600f9a6cbe0531262fd92e31.png"
+      },
+      {
+        "comment_id": 28787944,
+        "uid": 110641652,
+        "content": "简介过草",
+        "createtime": 1594217159,
+        "nickname": "dmzj_110641652",
+        "avatar": "https://avatar.dmzj.com/9a/43/9a4348487a6881c76fb1d2631b82f771.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

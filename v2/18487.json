@@ -1,0 +1,112 @@
+{
+  "id": 18487,
+  "islong": 1,
+  "direction": 2,
+  "title": "趣萌化小剧场",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1001308971429617462.jpg",
+  "description": "故事都是发生在作者身上或者作者朋友身上的生活点滴",
+  "last_updatetime": 1430721666,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 1102,
+  "hit_num": 3267,
+  "uid": 100130897,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9213,
+      "tag_name": "小木偶的玩具-文文"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40841,
+          "chapter_title": "8话",
+          "updatetime": 1430721666,
+          "filesize": 182698,
+          "chapter_order": 8
+        },
+        {
+          "chapter_id": 40840,
+          "chapter_title": "7话",
+          "updatetime": 1430720098,
+          "filesize": 102524,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 40839,
+          "chapter_title": "6话",
+          "updatetime": 1430720075,
+          "filesize": 159481,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 40838,
+          "chapter_title": "5话",
+          "updatetime": 1430719990,
+          "filesize": 126587,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 40837,
+          "chapter_title": "4话",
+          "updatetime": 1430719964,
+          "filesize": 132611,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 40836,
+          "chapter_title": "3话",
+          "updatetime": 1430719930,
+          "filesize": 134370,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 40835,
+          "chapter_title": "2话",
+          "updatetime": 1430719682,
+          "filesize": 292051,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40834,
+          "chapter_title": "1话",
+          "updatetime": 1430719646,
+          "filesize": 116940,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 445083,
+        "uid": 19540102,
+        "content": "哈哈 加油哦 !!",
+        "createtime": 1438720245,
+        "nickname": "宅女第一",
+        "avatar": "https://avatar.dmzj.com/12/34/1234c4894a812a83684bd675b5d3e5ac.png"
+      }
+    ]
+  }
+}

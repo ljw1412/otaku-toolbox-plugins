@@ -1,0 +1,76 @@
+{
+  "id": 10278,
+  "islong": 2,
+  "direction": 1,
+  "title": "晓！东方学园",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/xiaodongfangxueyuan20130208.jpg",
+  "description": "随处可见的校园+青春+搞笑+无节操+吐槽物语，只不过主角是东方众少女+紫妈（少女间隙中）而已，即使这样，热爱东方的人（比如我）也会HAPPY起来吧。",
+  "last_updatetime": 1360256166,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 188740,
+  "hit_num": 432751,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3384,
+      "tag_name": "东方同人"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 805,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20611,
+          "chapter_title": "2话",
+          "updatetime": 1360256166,
+          "filesize": 1020708,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 20610,
+          "chapter_title": "1话",
+          "updatetime": 1360256146,
+          "filesize": 1169292,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 19760524,
+        "uid": 107015998,
+        "content": "后续！后续！",
+        "createtime": 1566732359,
+        "nickname": "你不能通过这里",
+        "avatar": "https://avatar.dmzj.com/66/22/66221d11c09531f2992861bae9e273d3.png"
+      },
+      {
+        "comment_id": 18889103,
+        "uid": 108403252,
+        "content": "等待后续",
+        "createtime": 1564669303,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      }
+    ]
+  }
+}

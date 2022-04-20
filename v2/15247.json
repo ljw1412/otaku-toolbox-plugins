@@ -1,0 +1,79 @@
+{
+  "id": 15247,
+  "islong": 2,
+  "direction": 1,
+  "title": "MY镇守府内百合开",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/zhenshoufuneibaihekai.jpg",
+  "description": "自nikoniko静画区的标题党漫画。",
+  "last_updatetime": 1407676775,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "myzsfnbhk",
+  "hidden": 0,
+  "hot_num": 36427,
+  "hit_num": 90200,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 31985,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7612,
+      "tag_name": "敬礼"
+    }
+  ],
+  "subscribe_num": 164,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31985,
+          "chapter_title": "1话",
+          "updatetime": 1407676775,
+          "filesize": 821903,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 633522,
+        "uid": 100502306,
+        "content": "没有百合但是很好看",
+        "createtime": 1455992451,
+        "nickname": "吴美由纪",
+        "avatar": "https://avatar.dmzj.com/97/25/97258f9a11567fb686a52a88467a85d1.png"
+      },
+      {
+        "comment_id": 274019,
+        "uid": 20189990,
+        "content": "真·标题党。",
+        "createtime": 1407678912,
+        "nickname": "candy76041820",
+        "avatar": "https://avatar.dmzj.com/a6/c0/a6c096ee9fc3954bcbb7b9bea3236f1f.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

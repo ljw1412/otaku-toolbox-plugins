@@ -1,0 +1,73 @@
+{
+  "id": 11703,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方魅力秀发",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/dongfangmeilixiufa.jpg",
+  "description": "东方同人作品，东方魅力秀发。",
+  "last_updatetime": 1371200196,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 18975,
+  "hit_num": 77102,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6152,
+      "tag_name": "BlackDwarf"
+    }
+  ],
+  "subscribe_num": 57,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22600,
+          "chapter_title": "1话",
+          "updatetime": 1371200196,
+          "filesize": 1779686,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 12309985,
+        "uid": 108403252,
+        "content": "有意思",
+        "createtime": 1551671133,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      },
+      {
+        "comment_id": 8026137,
+        "uid": 107144362,
+        "content": "画风清奇",
+        "createtime": 1541861889,
+        "nickname": "妹红是世界的珍宝！！！",
+        "avatar": "https://avatar.dmzj.com/54/95/549594601b599a6a1f6f226e93ab39fc.png"
+      }
+    ]
+  }
+}

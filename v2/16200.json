@@ -1,0 +1,75 @@
+{
+  "id": 16200,
+  "islong": 2,
+  "direction": 1,
+  "title": "梦想预见你",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/mengxiangyujianni.jpg",
+  "description": "章鱼保罗二世预见中国足球少年",
+  "last_updatetime": 1416882752,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 3559,
+  "hit_num": 74854,
+  "uid": 100099754,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8055,
+      "tag_name": "焱石工作室"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35736,
+          "chapter_title": "1话",
+          "updatetime": 1416882752,
+          "filesize": 1936859,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 324458,
+        "uid": 16780803,
+        "content": "中国队入世界杯，哈哈哈。 /面壁 \n\n让一两百个中二少女找丘比许愿去试试吧。",
+        "createtime": 1416890882,
+        "nickname": "脉望1000",
+        "avatar": "https://avatar.dmzj.com/4f/51/4f51d24ef3e5e83de430275d7881c48c.png"
+      },
+      {
+        "comment_id": 324456,
+        "uid": 21838510,
+        "content": "上帝下辈子都看不到中国世界杯夺冠，保罗有啥用",
+        "createtime": 1416890561,
+        "nickname": "超兄贵",
+        "avatar": "https://avatar.dmzj.com/0b/ab/0babbe71d367000484ae96a395335d64.png"
+      }
+    ]
+  }
+}

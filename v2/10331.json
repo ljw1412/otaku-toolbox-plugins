@@ -1,0 +1,75 @@
+{
+  "id": 10331,
+  "islong": 2,
+  "direction": 1,
+  "title": "超越光速！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/chaoyueguangsu.jpg",
+  "description": "东方同人本",
+  "last_updatetime": 1360604448,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chaoyueguangsu",
+  "hidden": 0,
+  "hot_num": 29944,
+  "hit_num": 359477,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20083,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3545,
+      "tag_name": "未知"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 115,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20083,
+          "chapter_title": "1话",
+          "updatetime": 1360604448,
+          "filesize": 5270230,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 26620446,
+        "uid": 100324793,
+        "content": "是咲夜的换衣cg，awsl",
+        "createtime": 1587250420,
+        "nickname": "凌☪乱",
+        "avatar": "https://avatar.dmzj.com/31/ab/31ab3eae73584061346ddeafcf8750f2.png"
+      },
+      {
+        "comment_id": 10141884,
+        "uid": 108052022,
+        "content": "东方最速传说    妖梦 4被音速",
+        "createtime": 1547609003,
+        "nickname": "dmzj_108052022",
+        "avatar": "https://avatar.dmzj.com/b1/56/b1567fbd689f202b31491dd3e0439b80.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

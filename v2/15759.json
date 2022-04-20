@@ -1,0 +1,75 @@
+{
+  "id": 15759,
+  "islong": 2,
+  "direction": 1,
+  "title": "水之羁绊",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/shuizhijiban.jpg",
+  "description": "越是深入，人就越会沉溺在羁绊的真正恐怖中。",
+  "last_updatetime": 1412563415,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shuizhijiban",
+  "hidden": 0,
+  "hot_num": 38670,
+  "hit_num": 333514,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 31277,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4620,
+      "tag_name": "梅野花"
+    }
+  ],
+  "subscribe_num": 201,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31277,
+          "chapter_title": "1话",
+          "updatetime": 1412563415,
+          "filesize": 3940277,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 11859437,
+        "uid": 105227818,
+        "content": "带感",
+        "createtime": 1550920021,
+        "nickname": "啦啦啦露",
+        "avatar": "https://avatar.dmzj.com/10/46/1046bebf163eba5400f3cbc3ed1624ee.png"
+      },
+      {
+        "comment_id": 1617032,
+        "uid": 101900026,
+        "content": "心酸",
+        "createtime": 1483191792,
+        "nickname": "14岁54437",
+        "avatar": "https://avatar.dmzj.com/a3/e7/a3e7b5ac7ff53ac6c67f061e1850851a.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,80 @@
+{
+  "id": 17479,
+  "islong": 2,
+  "direction": 2,
+  "title": "口袋妖怪DP物语",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/kdygdpwy365l.jpg",
+  "description": "不同于特别篇的口袋妖怪漫画",
+  "last_updatetime": 1426410061,
+  "copyright": 0,
+  "first_letter": "k",
+  "hot_num": 61470,
+  "hit_num": 140259,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8747,
+      "tag_name": "shigekatsu Ihara"
+    }
+  ],
+  "subscribe_num": 310,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35309,
+          "chapter_title": "3话",
+          "updatetime": 1426410061,
+          "filesize": 1815669,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 35308,
+          "chapter_title": "2话",
+          "updatetime": 1426410051,
+          "filesize": 1748474,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 28074456,
+        "uid": 102308967,
+        "content": "令人怀念的珍珠钻石版本，怎么不更了呢",
+        "createtime": 1591814775,
+        "nickname": "西尔维亚ash",
+        "avatar": "https://avatar.dmzj.com/90/b5/90b51e92e1cfea3960af0b6ecdb531cb.png"
+      },
+      {
+        "comment_id": 15778080,
+        "uid": 102219215,
+        "content": "眼",
+        "createtime": 1557661863,
+        "nickname": "卡夫卡说今天没有雨",
+        "avatar": "https://avatar.dmzj.com/b1/cb/b1cbe6ff7552ecfaf1cfd00e846b26e5.png"
+      }
+    ]
+  }
+}

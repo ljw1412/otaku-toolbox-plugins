@@ -1,0 +1,80 @@
+{
+  "id": 15386,
+  "islong": 2,
+  "direction": 2,
+  "title": "Ame-Comi系列3：德拉丹特",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/deladante.jpg",
+  "description": "德拉丹特是谁？她为什么如此地憎恨世界？她又何来征服世界的野心？",
+  "last_updatetime": 1409400935,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 27156,
+  "hit_num": 158952,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 126,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31461,
+          "chapter_title": "2卷",
+          "updatetime": 1409400935,
+          "filesize": 3823088,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 31216,
+          "chapter_title": "1卷",
+          "updatetime": 1408710930,
+          "filesize": 5000622,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 4385361,
+        "uid": 105608248,
+        "content": "真心萌",
+        "createtime": 1523882975,
+        "nickname": "轻哼的小调",
+        "avatar": "https://avatar.dmzj.com/48/28/48288972973f636dbd157f4c55d15479.png"
+      },
+      {
+        "comment_id": 3971848,
+        "uid": 101721731,
+        "content": "这个分页真的看的想死 能不能改改啊我的天",
+        "createtime": 1519700069,
+        "nickname": "霖汐",
+        "avatar": "https://avatar.dmzj.com/14/14/14148773490f428f10e8f8a5856589fd.png"
+      }
+    ]
+  }
+}

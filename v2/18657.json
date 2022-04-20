@@ -1,0 +1,105 @@
+{
+  "id": 18657,
+  "islong": 2,
+  "direction": 1,
+  "title": "时节",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1001622661431578256.jpg",
+  "description": "关于节气的主题插画集",
+  "last_updatetime": 1431586554,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 2478,
+  "hit_num": 14581,
+  "uid": 100162266,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9296,
+      "tag_name": "丨无轩丨丨"
+    }
+  ],
+  "subscribe_num": 15,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41128,
+          "chapter_title": "7话",
+          "updatetime": 1431586554,
+          "filesize": 49410,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 41127,
+          "chapter_title": "6话",
+          "updatetime": 1431578624,
+          "filesize": 89099,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 41126,
+          "chapter_title": "5话",
+          "updatetime": 1431578558,
+          "filesize": 42514,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 41125,
+          "chapter_title": "4话",
+          "updatetime": 1431578541,
+          "filesize": 97361,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 41124,
+          "chapter_title": "3话",
+          "updatetime": 1431578517,
+          "filesize": 94175,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 41123,
+          "chapter_title": "2话",
+          "updatetime": 1431578482,
+          "filesize": 228053,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 41122,
+          "chapter_title": "1话",
+          "updatetime": 1431578374,
+          "filesize": 1416830,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "不定期更新",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 645466,
+        "uid": 100891215,
+        "content": "字多，眼花，画美，人亦美",
+        "createtime": 1456580055,
+        "nickname": "依天洛",
+        "avatar": "https://avatar.dmzj.com/73/28/7328f953b0eb43b3ba4451dd4f569982.png"
+      }
+    ]
+  }
+}

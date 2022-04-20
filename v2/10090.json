@@ -1,0 +1,75 @@
+{
+  "id": 10090,
+  "islong": 2,
+  "direction": 1,
+  "title": "古典小夜曲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/gudxyq.jpg",
+  "description": "魔法师，拥有魔力一族。魔力，与其说是魔法，不如说是超能力。在中世纪有女人被称为魔女而被大量杀，从那之后，就多转世为男性。或许，他们就在你的身边……这是一部画风唯美的又不易懂的漫画.",
+  "last_updatetime": 1358145501,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gudxyq",
+  "hidden": 0,
+  "hot_num": 37370,
+  "hit_num": 444204,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21317,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1347,
+      "tag_name": "木木"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 198,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21317,
+          "chapter_title": "1卷",
+          "updatetime": 1358145501,
+          "filesize": 7400054,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 20690117,
+        "uid": 100617303,
+        "content": "有点短，不过瘾",
+        "createtime": 1569641863,
+        "nickname": "鹿兮青城",
+        "avatar": "https://avatar.dmzj.com/18/47/184794872e039892d6c475a6610322fe.png"
+      },
+      {
+        "comment_id": 17950163,
+        "uid": 105989233,
+        "content": "很怕看这种漫画啊……内容让人非常想站cp，然而每对cp都站不稳……",
+        "createtime": 1562534140,
+        "nickname": "来嘛便宜点啦",
+        "avatar": "https://avatar.dmzj.com/74/e1/74e13f52af7b9c577e21dfbfbf362031.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

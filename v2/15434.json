@@ -1,0 +1,75 @@
+{
+  "id": 15434,
+  "islong": 2,
+  "direction": 1,
+  "title": "永夜抄EG事件本  英雄本色",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/yongyechaoegshijian.jpg",
+  "description": "东方同人漫画，总体来说还是非常欢乐的呢。",
+  "last_updatetime": 1409069692,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yycegsjbyxbs",
+  "hidden": 0,
+  "hot_num": 36061,
+  "hit_num": 289139,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 30561,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6099,
+      "tag_name": "DEMOUR402"
+    }
+  ],
+  "subscribe_num": 202,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30561,
+          "chapter_title": "1话",
+          "updatetime": 1409069692,
+          "filesize": 12665916,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 27161827,
+        "uid": 109413537,
+        "content": "古早",
+        "createtime": 1588779824,
+        "nickname": "奶啤羊肉火锅同志",
+        "avatar": "https://avatar.dmzj.com/58/9e/589e4eb35e7a2533f5cf2d2865b1acb0.png"
+      },
+      {
+        "comment_id": 24188937,
+        "uid": 104838365,
+        "content": "机战梗超多的啊",
+        "createtime": 1581793885,
+        "nickname": "花稽",
+        "avatar": "https://avatar.dmzj.com/60/04/600485708a7163669aad41143d86d6c3.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

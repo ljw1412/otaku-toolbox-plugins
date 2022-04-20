@@ -1,0 +1,73 @@
+{
+  "id": 10870,
+  "islong": 2,
+  "direction": 2,
+  "title": "闪点 绿箭企业",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/shandianlvjianqiye.jpg",
+  "description": "奥利弗.奎恩的公司开发众多超级恶棍的武器，最终导致其与自己的女儿兵戎相见~",
+  "last_updatetime": 1365248189,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 2016817,
+  "hit_num": 218279,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 8488,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22435,
+          "chapter_title": "1卷",
+          "updatetime": 1365248189,
+          "filesize": 3330819,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 111864,
+        "uid": 377688,
+        "content": "我记得好像是金丝雀？",
+        "createtime": 1365256830,
+        "nickname": "ybbtrue",
+        "avatar": "https://avatar.dmzj.com/10/57/1057bee1d4bd6c97d88a4f37ded8cc28.png"
+      },
+      {
+        "comment_id": 111853,
+        "uid": 17511225,
+        "content": "奥利弗居然还有女儿啊？他老婆是谁啊！",
+        "createtime": 1365253575,
+        "nickname": "j103980078",
+        "avatar": "https://avatar.dmzj.com/67/f3/67f31c4c5384928e9de647359ac6f8ed.png"
+      }
+    ]
+  }
+}

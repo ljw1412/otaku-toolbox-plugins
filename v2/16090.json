@@ -1,0 +1,97 @@
+{
+  "id": 16090,
+  "islong": 2,
+  "direction": 1,
+  "title": "少女的烦恼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/shaonvdefannao.jpg",
+  "description": "大主题是钢琴老师跟学生，奇怪的漫画。初出：1993年アップル花組NO.8",
+  "last_updatetime": 1415852948,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 26350,
+  "hit_num": 252906,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8004,
+      "tag_name": "矢野礼子"
+    }
+  ],
+  "subscribe_num": 109,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35460,
+          "chapter_title": "6话",
+          "updatetime": 1415852948,
+          "filesize": 11966123,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 35457,
+          "chapter_title": "4话",
+          "updatetime": 1415852080,
+          "filesize": 8561656,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 35456,
+          "chapter_title": "3话",
+          "updatetime": 1415851327,
+          "filesize": 3377762,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 35455,
+          "chapter_title": "2话",
+          "updatetime": 1415850866,
+          "filesize": 4264008,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 35454,
+          "chapter_title": "1话",
+          "updatetime": 1415850391,
+          "filesize": 5731543,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 22058169,
+        "uid": 109779400,
+        "content": "这个我还有台版单行本......",
+        "createtime": 1573498381,
+        "nickname": "dmzj_109779400",
+        "avatar": "https://avatar.dmzj.com/dc/99/dc995e9c292d23a7d86ed5311ebbdaf2.png"
+      },
+      {
+        "comment_id": 20389631,
+        "uid": 106271178,
+        "content": "有啥烦恼我来康康",
+        "createtime": 1568723755,
+        "nickname": "离不开饭",
+        "avatar": "https://avatar.dmzj.com/98/62/9862d18262ae8f752b53f89ebb0f2721.png"
+      }
+    ]
+  }
+}

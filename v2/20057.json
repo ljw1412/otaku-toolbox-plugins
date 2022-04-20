@@ -1,0 +1,54 @@
+{
+  "id": 20057,
+  "islong": 2,
+  "direction": 2,
+  "title": "eternity project",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1002556571437237382.jpg",
+  "description": "eternity project",
+  "last_updatetime": 1437237409,
+  "copyright": 1,
+  "first_letter": "e",
+  "hot_num": 458,
+  "hit_num": 968,
+  "uid": 100255657,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9945,
+      "tag_name": "扶幽dragon"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43192,
+          "chapter_title": "1话",
+          "updatetime": 1437237409,
+          "filesize": 718879,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

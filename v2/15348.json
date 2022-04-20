@@ -1,0 +1,77 @@
+{
+  "id": 15348,
+  "islong": 2,
+  "direction": 1,
+  "title": "你的风格",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/image00103nidefengge.jpg",
+  "description": "被欺负的少年遇到命中注定的他",
+  "last_updatetime": 1408553041,
+  "copyright": 0,
+  "first_letter": "n",
+  "hot_num": 126139,
+  "hit_num": 677744,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5494,
+      "tag_name": "うおぬまゆう"
+    }
+  ],
+  "subscribe_num": 620,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29775,
+          "chapter_title": "0话",
+          "updatetime": 1408553041,
+          "filesize": 1984375,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 44,
+    "latest_comment": [
+      {
+        "comment_id": 27547580,
+        "uid": 107424156,
+        "content": "不一般",
+        "createtime": 1589993344,
+        "nickname": "糸雨侵心",
+        "avatar": "https://avatar.dmzj.com/c0/5a/c05a78f3f3ec365d3c220a3791e8d304.png"
+      },
+      {
+        "comment_id": 27530662,
+        "uid": 108677710,
+        "content": "yooooooooooooooo",
+        "createtime": 1589958001,
+        "nickname": "文素臣",
+        "avatar": "https://avatar.dmzj.com/35/47/35477a29a555702f4425ff17505df37d.png"
+      }
+    ]
+  }
+}

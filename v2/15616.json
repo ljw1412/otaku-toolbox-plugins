@@ -1,0 +1,75 @@
+{
+  "id": 15616,
+  "islong": 2,
+  "direction": 1,
+  "title": "太喜欢你 妄想漫游",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/taixihuanniwangxiangmanyou.jpg",
+  "description": "快！结！婚！",
+  "last_updatetime": 1411011719,
+  "last_update_chapter_name": "前篇",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "taixihuanniwangxiangmanyou",
+  "hidden": 0,
+  "hot_num": 48424,
+  "hit_num": 328330,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 31776,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7775,
+      "tag_name": "楢崎ねねこ"
+    }
+  ],
+  "subscribe_num": 693,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31776,
+          "chapter_title": "1话",
+          "updatetime": 1411011719,
+          "filesize": 4037775,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 27887244,
+        "uid": 111044784,
+        "content": "你被遗忘了",
+        "createtime": 1591074122,
+        "nickname": "fujothi",
+        "avatar": "https://avatar.dmzj.com/89/05/890536712fa18eb21442878b19d44702.png"
+      },
+      {
+        "comment_id": 7640086,
+        "uid": 102462746,
+        "content": "还会不会有后篇……？",
+        "createtime": 1540458158,
+        "nickname": "lycroris0717",
+        "avatar": "https://avatar.dmzj.com/87/55/8755f4936f95ea385d51c88ad2e64308.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

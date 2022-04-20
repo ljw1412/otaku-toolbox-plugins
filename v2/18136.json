@@ -1,0 +1,75 @@
+{
+  "id": 18136,
+  "islong": 2,
+  "direction": 1,
+  "title": "说再见的期限",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/DCszjdqixian041302.jpg",
+  "description": "不知道你时候还记得第一次呼唤我名字的那天……",
+  "last_updatetime": 1428938482,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "szjdqxian",
+  "hidden": 0,
+  "hot_num": 44110,
+  "hit_num": 185810,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 37701,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5910,
+      "tag_name": "松かな"
+    }
+  ],
+  "subscribe_num": 266,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37701,
+          "chapter_title": "1话",
+          "updatetime": 1428938482,
+          "filesize": 4632446,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 1743403,
+        "uid": 102185865,
+        "content": "爱情在哪里？",
+        "createtime": 1485884615,
+        "nickname": "圆圆加2",
+        "avatar": "https://avatar.dmzj.com/69/c1/69c18ecd45fd8f9e48b4426d45e9c36d.png"
+      },
+      {
+        "comment_id": 675293,
+        "uid": 100014811,
+        "content": "有點不太懂 爺爺是有點偏激？！",
+        "createtime": 1458115273,
+        "nickname": "yoyo3488",
+        "avatar": "https://avatar.dmzj.com/50/5c/505c9ffff8ccc688f8926365c5fc54da.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

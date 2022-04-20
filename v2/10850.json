@@ -1,0 +1,105 @@
+{
+  "id": 10850,
+  "islong": 2,
+  "direction": 2,
+  "title": "灭霸崛起",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/miebajueqi.jpg",
+  "description": "泰坦星，土星最大的卫星，每个太阳周期都会有一个孤独的旅行者来到这个孤寂冰冷的世界……萨诺斯，灭世的霸王，回家了……",
+  "last_updatetime": 1378641629,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 949853,
+  "hit_num": 2778472,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 7082,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25179,
+          "chapter_title": "5卷",
+          "updatetime": 1378641629,
+          "filesize": 3384381,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 24458,
+          "chapter_title": "4卷",
+          "updatetime": 1375258879,
+          "filesize": 3032179,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 23705,
+          "chapter_title": "3卷",
+          "updatetime": 1371395635,
+          "filesize": 2902751,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 22922,
+          "chapter_title": "2卷",
+          "updatetime": 1367981119,
+          "filesize": 3024609,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22416,
+          "chapter_title": "1卷",
+          "updatetime": 1365138215,
+          "filesize": 3381888,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 37,
+    "latest_comment": [
+      {
+        "comment_id": 30021453,
+        "uid": 110038985,
+        "content": "留",
+        "createtime": 1598694430,
+        "nickname": "JLU",
+        "avatar": "https://avatar.dmzj.com/97/03/9703eb4f648d5d72b4043752e4bfee4f.png"
+      },
+      {
+        "comment_id": 29997992,
+        "uid": 106155127,
+        "content": "灭霸崛起",
+        "createtime": 1598598418,
+        "nickname": "王哈桑king",
+        "avatar": "https://avatar.dmzj.com/66/85/6685677247564d5e4aeee461201c8a01.png"
+      }
+    ]
+  }
+}

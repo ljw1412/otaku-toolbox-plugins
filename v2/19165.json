@@ -1,0 +1,68 @@
+{
+  "id": 19165,
+  "islong": 2,
+  "direction": 2,
+  "title": "爆笑时分",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1001987861433930332.jpg",
+  "description": "爆笑时分 十分爆笑！",
+  "last_updatetime": 1433930977,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 1902,
+  "hit_num": 87618,
+  "uid": 100198786,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9572,
+      "tag_name": "梦梵动漫"
+    }
+  ],
+  "subscribe_num": 7,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42003,
+          "chapter_title": "3话",
+          "updatetime": 1433930977,
+          "filesize": 3886178,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 42002,
+          "chapter_title": "2话",
+          "updatetime": 1433930690,
+          "filesize": 3770997,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42001,
+          "chapter_title": "1话",
+          "updatetime": 1433930409,
+          "filesize": 3644101,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": 16217,
+  "islong": 2,
+  "direction": 1,
+  "title": "舰娘日志~妙高型的一日~",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/miaogaoxingdeyiri.jpg",
+  "description": "舰娘漫画同人，妙高型的一日。",
+  "last_updatetime": 1417142471,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jnrzmgxdyr",
+  "hidden": 0,
+  "hot_num": 48621,
+  "hit_num": 200981,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 35906,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6634,
+      "tag_name": "こるり"
+    }
+  ],
+  "subscribe_num": 336,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35906,
+          "chapter_title": "1话",
+          "updatetime": 1417142471,
+          "filesize": 2343478,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 26359318,
+        "uid": 107452006,
+        "content": "jianj五年了",
+        "createtime": 1586606713,
+        "nickname": "dmzj_107452006",
+        "avatar": "https://avatar.dmzj.com/09/3a/093a932b37d72848403113ddc0d2cdfd.png"
+      },
+      {
+        "comment_id": 325181,
+        "uid": 10018066,
+        "content": "妙龄级（笑）",
+        "createtime": 1417217049,
+        "nickname": "有希帝国",
+        "avatar": "https://avatar.dmzj.com/b4/66/b4662bfee48c39e1f350a44b0a21e4a4.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

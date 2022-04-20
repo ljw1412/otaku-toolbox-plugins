@@ -1,0 +1,90 @@
+{
+  "id": 12263,
+  "islong": 2,
+  "direction": 2,
+  "title": "地狱神探：善意",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/diyushentanshanyi.jpg",
+  "description": "《地狱神探：善意 第一回》总第151回。BA所写的Hellblazer中非常棒的一个故事。",
+  "last_updatetime": 1565601664,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 28573,
+  "hit_num": 142157,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4167,
+      "tag_name": "VERTIGO"
+    }
+  ],
+  "subscribe_num": 252,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87040,
+          "chapter_title": "6话",
+          "updatetime": 1565601664,
+          "filesize": 2830162,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 86723,
+          "chapter_title": "5卷",
+          "updatetime": 1564978669,
+          "filesize": 2963360,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 86216,
+          "chapter_title": "4卷",
+          "updatetime": 1563722358,
+          "filesize": 2712765,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23274,
+          "chapter_title": "1卷",
+          "updatetime": 1375091081,
+          "filesize": 2958452,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 29929992,
+        "uid": 110038985,
+        "content": "留",
+        "createtime": 1598346429,
+        "nickname": "JLU",
+        "avatar": "https://avatar.dmzj.com/97/03/9703eb4f648d5d72b4043752e4bfee4f.png"
+      },
+      {
+        "comment_id": 29865012,
+        "uid": 110937985,
+        "content": "留",
+        "createtime": 1598106676,
+        "nickname": "千羽鶴の千鶴",
+        "avatar": "https://avatar.dmzj.com/8f/6b/8f6b8e77fe584a99cd9723c0ecd671eb.png"
+      }
+    ]
+  }
+}

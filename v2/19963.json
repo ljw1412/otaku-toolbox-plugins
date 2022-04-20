@@ -1,0 +1,54 @@
+{
+  "id": 19963,
+  "islong": 2,
+  "direction": 2,
+  "title": "家有顽童",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1437119804.jpg",
+  "description": "家有顽童",
+  "last_updatetime": 1437017593,
+  "copyright": 1,
+  "first_letter": "j",
+  "hot_num": 628,
+  "hit_num": 1264,
+  "uid": 100250262,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9929,
+      "tag_name": "lakers"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39193,
+          "chapter_title": "1话",
+          "updatetime": 1437017593,
+          "filesize": 306801,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

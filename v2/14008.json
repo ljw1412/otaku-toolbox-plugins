@@ -1,0 +1,87 @@
+{
+  "id": 14008,
+  "islong": 2,
+  "direction": 1,
+  "title": "深闺纯粹少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/biao.jpg",
+  "description": "家庭教师与美少女宅女的日常故事。",
+  "last_updatetime": 1402883079,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 25845,
+  "hit_num": 75115,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4460,
+      "tag_name": "松田缟"
+    }
+  ],
+  "subscribe_num": 128,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 28690,
+          "chapter_title": "3话",
+          "updatetime": 1402883079,
+          "filesize": 416546,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 27451,
+          "chapter_title": "2话",
+          "updatetime": 1396056962,
+          "filesize": 399085,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 26830,
+          "chapter_title": "1话",
+          "updatetime": 1392824536,
+          "filesize": 479194,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 291742,
+        "uid": 7493950,
+        "content": "不错呢~但是图太小 看起来很费劲...然后 每次的量也比较少 图源的问题0 0？",
+        "createtime": 1411131907,
+        "nickname": "beleal",
+        "avatar": "https://avatar.dmzj.com/e0/ec/e0ec25e02fb595d04c555d722baf7c36.png"
+      },
+      {
+        "comment_id": 286125,
+        "uid": 24982564,
+        "content": "没有实际内容",
+        "createtime": 1410006007,
+        "nickname": "此ID一经发现立即封禁",
+        "avatar": "https://avatar.dmzj.com/fc/01/fc018e503b039acbbaf7edb51b2e7bd1.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 19935,
+  "islong": 2,
+  "direction": 2,
+  "title": "Our-D",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1002180951437032277.jpg",
+  "description": "一个追梦的故事 ……",
+  "last_updatetime": 1437032714,
+  "copyright": 1,
+  "first_letter": "o",
+  "hot_num": 1205,
+  "hit_num": 9693,
+  "uid": 100218095,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9920,
+      "tag_name": "凸小涂"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43087,
+          "chapter_title": "2话",
+          "updatetime": 1437032714,
+          "filesize": 189395,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 43086,
+          "chapter_title": "1话",
+          "updatetime": 1437032551,
+          "filesize": 176661,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

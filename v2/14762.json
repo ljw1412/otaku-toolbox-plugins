@@ -1,0 +1,73 @@
+{
+  "id": 14762,
+  "islong": 2,
+  "direction": 2,
+  "title": "哥斯拉：觉醒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/gsl2014juex.jpg",
+  "description": "电影哥斯拉2014前传漫画",
+  "last_updatetime": 1402812715,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 283467,
+  "hit_num": 1648573,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6318,
+      "tag_name": "legendary"
+    }
+  ],
+  "subscribe_num": 1156,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30876,
+          "chapter_title": "1卷",
+          "updatetime": 1402812715,
+          "filesize": 9880856,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 31,
+    "latest_comment": [
+      {
+        "comment_id": 25819384,
+        "uid": 102576594,
+        "content": "海星",
+        "createtime": 1585481916,
+        "nickname": "ZackSkywalker",
+        "avatar": "https://avatar.dmzj.com/34/24/3424a7597cc9a5b6d2b4124a5664370e.png"
+      },
+      {
+        "comment_id": 24362176,
+        "uid": 110410372,
+        "content": "好看",
+        "createtime": 1582222292,
+        "nickname": "dmzj_110410372",
+        "avatar": "https://avatar.dmzj.com/28/a6/28a6d9dc6335f820d9a39b8141b2543a.png"
+      }
+    ]
+  }
+}

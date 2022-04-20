@@ -1,0 +1,58 @@
+{
+  "id": 18049,
+  "islong": 2,
+  "direction": 2,
+  "title": "圣空之歌",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/181064211428552700.jpg",
+  "description": "圣空之歌前传",
+  "last_updatetime": 1428559961,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 1096,
+  "hit_num": 52996,
+  "uid": 18106421,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9012,
+      "tag_name": "PALE HOW&罗斌&黄倩\t"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36136,
+          "chapter_title": "前传",
+          "updatetime": 1428559961,
+          "filesize": 3878517,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

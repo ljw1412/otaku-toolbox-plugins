@@ -1,0 +1,73 @@
+{
+  "id": 12833,
+  "islong": 2,
+  "direction": 1,
+  "title": "漫画家初目京与不可解的感情",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/manhuajiachujingmu.jpg",
+  "description": "为网点奉上鲜花、为描点献出爱情。为漫画付出全部的爱情！",
+  "last_updatetime": 1380388053,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 48471,
+  "hit_num": 162397,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6664,
+      "tag_name": "あけがみ哲也"
+    }
+  ],
+  "subscribe_num": 235,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24354,
+          "chapter_title": "1话",
+          "updatetime": 1380388053,
+          "filesize": 3367424,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 2906231,
+        "uid": 101987053,
+        "content": "富坚老贼需要这样的编辑",
+        "createtime": 1505152075,
+        "nickname": "Smiling Death",
+        "avatar": "https://avatar.dmzj.com/77/89/7789f12c719154ab47485b993ab245ac.png"
+      },
+      {
+        "comment_id": 505777,
+        "uid": 19312683,
+        "content": "上岸作？",
+        "createtime": 1446608538,
+        "nickname": "老贤者",
+        "avatar": "https://avatar.dmzj.com/d9/8f/d98f9047825ce4cb3fc4b414e5da98c3.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": 10926,
+  "islong": 2,
+  "direction": 1,
+  "title": "察觉到的怪物",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/chajuedaodeguaiwu.jpg",
+  "description": "扪心自问，最令人心生恐怖的存在……",
+  "last_updatetime": 1365687512,
+  "last_update_chapter_name": "全1话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "chajuedaodeguaiwu",
+  "hidden": 0,
+  "hot_num": 35432,
+  "hit_num": 772695,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20970,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5794,
+      "tag_name": "オキ・ナナミ"
+    }
+  ],
+  "subscribe_num": 90,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20970,
+          "chapter_title": "1话",
+          "updatetime": 1365687512,
+          "filesize": 6908380,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 16972066,
+        "uid": 100995985,
+        "content": "未看先标",
+        "createtime": 1560097961,
+        "nickname": "没什么07063",
+        "avatar": "https://avatar.dmzj.com/22/33/2233280f6a20812eec37840e58e57a42.png"
+      },
+      {
+        "comment_id": 7832866,
+        "uid": 101999748,
+        "content": "这画风是不是画暗芝居的啊",
+        "createtime": 1541227633,
+        "nickname": "抱茗荷之说",
+        "avatar": "https://avatar.dmzj.com/37/40/3740c641624b5d10b00cb99566d9610f.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

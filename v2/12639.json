@@ -1,0 +1,136 @@
+{
+  "id": 12639,
+  "islong": 2,
+  "direction": 2,
+  "title": "A+X",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/aplusx.jpg",
+  "description": "M家出的一本复仇者和X战警单人互动的短篇集，总体来说是一本相对欢乐的连载",
+  "last_updatetime": 1455160722,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 4209894,
+  "hit_num": 723491,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 17490,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27401,
+          "chapter_title": "18卷",
+          "updatetime": 1396150095,
+          "filesize": 2944430,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 26761,
+          "chapter_title": "17卷",
+          "updatetime": 1392864380,
+          "filesize": 2838752,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 25987,
+          "chapter_title": "16卷",
+          "updatetime": 1389244544,
+          "filesize": 3182814,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 25986,
+          "chapter_title": "15卷",
+          "updatetime": 1389244473,
+          "filesize": 3000509,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 25168,
+          "chapter_title": "14卷",
+          "updatetime": 1385085515,
+          "filesize": 3425374,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 24664,
+          "chapter_title": "13卷",
+          "updatetime": 1382149123,
+          "filesize": 3414020,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 24015,
+          "chapter_title": "11卷",
+          "updatetime": 1378173626,
+          "filesize": 1933398,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 28286,
+          "chapter_title": "8卷",
+          "updatetime": 1401538122,
+          "filesize": 1828097,
+          "chapter_order": 9
+        },
+        {
+          "chapter_id": 33140,
+          "chapter_title": "3卷",
+          "updatetime": 1419474331,
+          "filesize": 2818314,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 46538,
+          "chapter_title": "2卷",
+          "updatetime": 1455160722,
+          "filesize": 3331205,
+          "chapter_order": 2
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 614660,
+        "uid": 100187431,
+        "content": "大超又躺枪",
+        "createtime": 1455175616,
+        "nickname": "Black Baronet",
+        "avatar": "https://avatar.dmzj.com/00/92/00928cf2fa7d27c0a08acc3173e7f3d4.png"
+      },
+      {
+        "comment_id": 327868,
+        "uid": 23936103,
+        "content": "直接就出第11卷大丈夫？",
+        "createtime": 1418122934,
+        "nickname": "妍雪夕子",
+        "avatar": "https://avatar.dmzj.com/f2/ec/f2ec61613bb1bf87c02b98f642a5b79b.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 17206,
+  "islong": 1,
+  "direction": 1,
+  "title": "狗勇者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/gyongzhe3bd3007.jpg",
+  "description": "当一只狗成为了勇者，又遇上了一群狗厨队友……",
+  "last_updatetime": 1424868625,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 514186,
+  "hit_num": 483544,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8477,
+      "tag_name": "otosama"
+    }
+  ],
+  "subscribe_num": 2552,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36003,
+          "chapter_title": "1话",
+          "updatetime": 1424868625,
+          "filesize": 1203265,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 152,
+    "latest_comment": [
+      {
+        "comment_id": 29920423,
+        "uid": 108959523,
+        "content": "够沙雕，我喜欢。",
+        "createtime": 1598302246,
+        "nickname": "dmzj_108959523",
+        "avatar": "https://avatar.dmzj.com/a1/cb/a1cb396c17f6f8c033848e918ed5c36d.png"
+      },
+      {
+        "comment_id": 29889057,
+        "uid": 105954383,
+        "content": "绝了(ಡωಡ)hiahiahia",
+        "createtime": 1598193844,
+        "nickname": "咸鱼瘫床",
+        "avatar": "https://avatar.dmzj.com/c9/7a/c97a9cf9995970d59aba983beb4e5774.png"
+      }
+    ]
+  }
+}

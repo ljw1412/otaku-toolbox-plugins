@@ -1,0 +1,75 @@
+{
+  "id": 18688,
+  "islong": 2,
+  "direction": 2,
+  "title": "堂吉可德",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1001179351431670733.jpg",
+  "description": "以前的短篇故事集－堂吉可德",
+  "last_updatetime": 1431670760,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 3571,
+  "hit_num": 27148,
+  "uid": 100117935,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9032,
+      "tag_name": "白骁"
+    }
+  ],
+  "subscribe_num": 13,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37042,
+          "chapter_title": "1话",
+          "updatetime": 1431670760,
+          "filesize": 713609,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 27169250,
+        "uid": 106203243,
+        "content": "白骁黑历史系列(不过其实应该就是练笔作品而已)～",
+        "createtime": 1588799921,
+        "nickname": "现充泡面君",
+        "avatar": "https://avatar.dmzj.com/87/18/871855df2d691bb682658823544d3975.png"
+      },
+      {
+        "comment_id": 20226914,
+        "uid": 107056591,
+        "content": "单纯小说插图吧，算不上漫画短篇",
+        "createtime": 1568218548,
+        "nickname": "dmzj_107056591",
+        "avatar": "https://avatar.dmzj.com/c4/d7/c4d77fd2a3a678090b574e11801bddf9.png"
+      }
+    ]
+  }
+}

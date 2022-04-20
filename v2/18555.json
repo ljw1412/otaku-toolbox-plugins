@@ -1,0 +1,71 @@
+{
+  "id": 18555,
+  "islong": 2,
+  "direction": 2,
+  "title": "华灯初上",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1001523901430964732.jpg",
+  "description": "两个孩子的江湖苦旅",
+  "last_updatetime": 1430965217,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 9344,
+  "hit_num": 103755,
+  "uid": 100152390,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3324,
+      "tag_name": "武侠"
+    },
+    {
+      "tag_id": 7900,
+      "tag_name": "仙侠"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9244,
+      "tag_name": "小律"
+    }
+  ],
+  "subscribe_num": 72,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40849,
+          "chapter_title": "1话",
+          "updatetime": 1430965217,
+          "filesize": 796152,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 683052,
+        "uid": 100779029,
+        "content": "我还清明雨上呢",
+        "createtime": 1458483023,
+        "nickname": "老书生",
+        "avatar": "https://avatar.dmzj.com/12/56/1256be884ea4e934c194b44d10f4fc01.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": 10922,
+  "islong": 2,
+  "direction": 1,
+  "title": "无法从魔界回去了",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/wufacongmojiehuiqule.jpg",
+  "description": "东方同人",
+  "last_updatetime": 1365669683,
+  "last_update_chapter_name": "全1话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wufacongmojiehuiqule",
+  "hidden": 0,
+  "hot_num": 27805,
+  "hit_num": 288280,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23707,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5793,
+      "tag_name": "紧急回避"
+    }
+  ],
+  "subscribe_num": 119,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23707,
+          "chapter_title": "1话",
+          "updatetime": 1365669683,
+          "filesize": 3528161,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 14153696,
+        "uid": 105122783,
+        "content": "爱丽丝:这群家伙在我家门口干嘛呢……",
+        "createtime": 1555004526,
+        "nickname": "Rachel・Gardner",
+        "avatar": "https://avatar.dmzj.com/13/35/133586525a7b01d43d885592dc8caa75.png"
+      },
+      {
+        "comment_id": 112791,
+        "uid": 18476916,
+        "content": "如果是我，我也不回去了！",
+        "createtime": 1365683650,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "is_need_login": 0
+}

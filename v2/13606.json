@@ -1,0 +1,75 @@
+{
+  "id": 13606,
+  "islong": 2,
+  "direction": 1,
+  "title": "胡萝卜与大波斯菊",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/hlbydbsj.jpg",
+  "description": "在我成为高中生的那年五月，我被怪人盯上了。",
+  "last_updatetime": 1388399681,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hlbydbsj",
+  "hidden": 0,
+  "hot_num": 40572,
+  "hit_num": 204859,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25881,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6982,
+      "tag_name": "水本正"
+    }
+  ],
+  "subscribe_num": 228,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25881,
+          "chapter_title": "1话",
+          "updatetime": 1388399681,
+          "filesize": 3247647,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 27738138,
+        "uid": 108033230,
+        "content": "古早的漫画，诉说着那个时代的天真烂漫",
+        "createtime": 1590597037,
+        "nickname": "玄鱼子",
+        "avatar": "https://avatar.dmzj.com/72/17/72175c0aac7d16b3acd3a5041406a3f9.png"
+      },
+      {
+        "comment_id": 6261427,
+        "uid": 100726948,
+        "content": "不小心简介漏看了个“盯”字（低头）",
+        "createtime": 1534224746,
+        "nickname": "小吃店0д0",
+        "avatar": "https://avatar.dmzj.com/03/87/0387c41e331af90e105ac173594b0f2d.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

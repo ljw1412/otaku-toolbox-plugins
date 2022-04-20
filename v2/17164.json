@@ -1,0 +1,82 @@
+{
+  "id": 17164,
+  "islong": 2,
+  "direction": 1,
+  "title": "白蛇姬与死亡预言",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/bsjyswyyfengmianl.jpg",
+  "description": "流傳著恐怖、駭人聽聞的白蛇傳說的村子，悲劇正在上演！？",
+  "last_updatetime": 1427897892,
+  "last_update_chapter_name": "后篇",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "baishejiyusiwangyuyan",
+  "hidden": 0,
+  "hot_num": 38812,
+  "hit_num": 302899,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 35865,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8578,
+      "tag_name": "角川しい"
+    }
+  ],
+  "subscribe_num": 256,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35865,
+          "chapter_title": "2话",
+          "updatetime": 1427897892,
+          "filesize": 4219109,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 34675,
+          "chapter_title": "1话",
+          "updatetime": 1424328763,
+          "filesize": 4440976,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 5613151,
+        "uid": 100683994,
+        "content": "本格推理个锤子",
+        "createtime": 1531582263,
+        "nickname": "楠哥BRONAN",
+        "avatar": "https://avatar.dmzj.com/76/05/7605af076c18c962a629583d35e5bf1b.png"
+      },
+      {
+        "comment_id": 2949873,
+        "uid": 102246822,
+        "content": "走近科学-白蛇",
+        "createtime": 1505938624,
+        "nickname": "acgcomplexer",
+        "avatar": "https://avatar.dmzj.com/ed/c9/edc9bbbbac5617b5497b9f2816376b8d.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

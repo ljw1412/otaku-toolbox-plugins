@@ -1,0 +1,87 @@
+{
+  "id": 16126,
+  "islong": 2,
+  "direction": 1,
+  "title": "就是喜欢你",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/jsxhn00648.jpg",
+  "description": "高濑绫所著早期少女漫画作品，画风十分清新可爱。",
+  "last_updatetime": 1416125627,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 56979,
+  "hit_num": 673885,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8025,
+      "tag_name": "高濑绫"
+    }
+  ],
+  "subscribe_num": 292,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33133,
+          "chapter_title": "3卷",
+          "updatetime": 1416125627,
+          "filesize": 17318705,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 33132,
+          "chapter_title": "2卷",
+          "updatetime": 1416125606,
+          "filesize": 20087526,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 33131,
+          "chapter_title": "1卷",
+          "updatetime": 1416125593,
+          "filesize": 19241112,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 29642041,
+        "uid": 110294973,
+        "content": "留",
+        "createtime": 1597246538,
+        "nickname": "笨蛋笨蛋啊",
+        "avatar": "https://avatar.dmzj.com/26/64/2664e060f838513d630800cd1e3b1a7e.png"
+      },
+      {
+        "comment_id": 4738715,
+        "uid": 102309500,
+        "content": "好快呀 可以再长一点的",
+        "createtime": 1526578599,
+        "nickname": "qzuser6103471",
+        "avatar": "https://avatar.dmzj.com/38/15/3815101e86d7c49159693fe58d466531.png"
+      }
+    ]
+  }
+}

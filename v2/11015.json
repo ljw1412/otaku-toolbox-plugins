@@ -1,0 +1,75 @@
+{
+  "id": 11015,
+  "islong": 2,
+  "direction": 2,
+  "title": "击毙元首",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/jibiyuanshou.jpg",
+  "description": "欧美的短篇漫画",
+  "last_updatetime": 1366599833,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jibiyuanshou",
+  "hidden": 0,
+  "hot_num": 31256,
+  "hit_num": 149159,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22635,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5831,
+      "tag_name": "Jason"
+    }
+  ],
+  "subscribe_num": 130,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22635,
+          "chapter_title": "1话",
+          "updatetime": 1366599833,
+          "filesize": 558646,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 15503344,
+        "uid": 108475921,
+        "content": "…",
+        "createtime": 1557214506,
+        "nickname": "dmzj_108475921",
+        "avatar": "https://avatar.dmzj.com/61/70/61702746908650ae7800e618a98489ec.png"
+      },
+      {
+        "comment_id": 8503099,
+        "uid": 105345065,
+        "content": "あやや、ややややや！",
+        "createtime": 1543486663,
+        "nickname": "可爱有顶天的可爱天子",
+        "avatar": "https://avatar.dmzj.com/15/51/155105608ff218563edbb664ddd828a1.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

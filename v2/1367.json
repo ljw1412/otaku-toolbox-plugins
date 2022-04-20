@@ -1,0 +1,86 @@
+{
+  "id": 1367,
+  "islong": 2,
+  "direction": 1,
+  "title": "异星少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/yixingshaonv.jpg",
+  "description": "热中SF的女高中生由香遇见外星人了！\n美少女外星人——爱，拥有超高科技的力量\n让由香平凡的生活，接二连三地闹出超爆笑的骚动……\n胡搞瞎搞又蠢到家的校园喜剧！",
+  "last_updatetime": 1192160460,
+  "last_update_chapter_name": "vol_02",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yxsn",
+  "hidden": 0,
+  "hot_num": 17907,
+  "hit_num": 576104,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 2148,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 327,
+      "tag_name": "晴濑浩贵"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 116,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 2148,
+          "chapter_title": "2卷",
+          "updatetime": 1192160460,
+          "filesize": 27406988,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 2147,
+          "chapter_title": "1卷",
+          "updatetime": 1192160460,
+          "filesize": 25453220,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 8777885,
+        "uid": 107039189,
+        "content": "嗯",
+        "createtime": 1544265225,
+        "nickname": "普雷姆",
+        "avatar": "https://avatar.dmzj.com/63/18/63185a8ec57eb35b7755faf03175bfb4.png"
+      },
+      {
+        "comment_id": 272663,
+        "uid": 23796120,
+        "content": "不错",
+        "createtime": 1407417685,
+        "nickname": "风柳儿",
+        "avatar": "https://avatar.dmzj.com/59/51/5951869c0f1b12d1d430efeb64ad4717.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

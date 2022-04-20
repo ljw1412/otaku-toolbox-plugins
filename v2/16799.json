@@ -1,0 +1,77 @@
+{
+  "id": 16799,
+  "islong": 2,
+  "direction": 1,
+  "title": "我们的学而不杂同好会",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/xebzthh117.jpg",
+  "description": "燃烧吧求知欲",
+  "last_updatetime": 1421506293,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 835080,
+  "hit_num": 470200,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 325,
+      "tag_name": "河下水希"
+    },
+    {
+      "tag_id": 1541,
+      "tag_name": "西尾维新"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 4714,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33775,
+          "chapter_title": "1话",
+          "updatetime": 1421506293,
+          "filesize": 3372779,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 67,
+    "latest_comment": [
+      {
+        "comment_id": 29172254,
+        "uid": 111065316,
+        "content": "河下老师！！！！！",
+        "createtime": 1595516013,
+        "nickname": "今天也很卑微",
+        "avatar": "https://avatar.dmzj.com/12/70/127001dcbb217d006711ea41161dfec4.png"
+      },
+      {
+        "comment_id": 26632288,
+        "uid": 101329765,
+        "content": "河下老师太牛掰了",
+        "createtime": 1587293010,
+        "nickname": "是你吗豺豺",
+        "avatar": "https://avatar.dmzj.com/78/99/789939c7a15128800b5a9284f85bec3b.png"
+      }
+    ]
+  }
+}

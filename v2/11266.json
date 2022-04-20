@@ -1,0 +1,87 @@
+{
+  "id": 11266,
+  "islong": 2,
+  "direction": 1,
+  "title": "YOU CAN’T CATCH ME",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/youcantcatchme.jpg",
+  "description": "魔法少女小圆全彩同人本，红蓝CP，画面精美值得一看。",
+  "last_updatetime": 1389496241,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 77022,
+  "hit_num": 695187,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5798,
+      "tag_name": "いずみべる"
+    }
+  ],
+  "subscribe_num": 415,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26139,
+          "chapter_title": "85话",
+          "updatetime": 1389496241,
+          "filesize": 2250476,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 21580,
+          "chapter_title": "6话",
+          "updatetime": 1368359359,
+          "filesize": 1842089,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 21579,
+          "chapter_title": "5话",
+          "updatetime": 1368359136,
+          "filesize": 1889061,
+          "chapter_order": 50
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 34,
+    "latest_comment": [
+      {
+        "comment_id": 25707816,
+        "uid": 108754341,
+        "content": "這……簡直是穿梭(ﾉ)ﾟДﾟ(ヽ) ……",
+        "createtime": 1585209540,
+        "nickname": "SCP官方",
+        "avatar": "https://avatar.dmzj.com/90/22/902234952429b18ade2feb6549b1cace.png"
+      },
+      {
+        "comment_id": 25625342,
+        "uid": 109521041,
+        "content": "哔",
+        "createtime": 1585024476,
+        "nickname": "dmzj_109521041",
+        "avatar": "https://avatar.dmzj.com/4f/f6/4ff62a0e8b277700455eb0d002ee26a0.png"
+      }
+    ]
+  }
+}

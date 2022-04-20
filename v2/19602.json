@@ -1,0 +1,78 @@
+{
+  "id": 19602,
+  "islong": 2,
+  "direction": 2,
+  "title": "我在夏天遇见了狐狸",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1002317571436120945.jpg",
+  "description": "一只狐狸下山",
+  "last_updatetime": 1436122139,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 14981,
+  "hit_num": 100232,
+  "uid": 100231757,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9800,
+      "tag_name": "一只又穷又懒的猩猩"
+    }
+  ],
+  "subscribe_num": 70,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42687,
+          "chapter_title": "2话",
+          "updatetime": 1436122139,
+          "filesize": 934862,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42686,
+          "chapter_title": "1话",
+          "updatetime": 1436121620,
+          "filesize": 853996,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 24654960,
+        "uid": 110368546,
+        "content": "前来考古",
+        "createtime": 1582913243,
+        "nickname": "24岁，是咸鱼呢",
+        "avatar": "https://avatar.dmzj.com/13/62/1362179b5ea954dded7a42398f254879.png"
+      },
+      {
+        "comment_id": 425326,
+        "uid": 26249581,
+        "content": "绘本风wwwwwwwww",
+        "createtime": 1436335376,
+        "nickname": "小抄君",
+        "avatar": "https://avatar.dmzj.com/00/05/00054e352cc97c07e64a23fc3fbc1d7b.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 15881,
+  "islong": 2,
+  "direction": 2,
+  "title": "新52蝙蝠侠与罗宾：未来末日",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/xbfxylbmrw.jpg",
+  "description": "新52蝙蝠侠与罗宾未来末日。",
+  "last_updatetime": 1413782032,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 315020,
+  "hit_num": 96114,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1283,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 32408,
+          "chapter_title": "1卷",
+          "updatetime": 1413782032,
+          "filesize": 2587364,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 12574522,
+        "uid": 100310579,
+        "content": "留爪",
+        "createtime": 1552117466,
+        "nickname": "風神御",
+        "avatar": "https://avatar.dmzj.com/41/70/41703b431b7ba863cf3ec50689e8ad5c.png"
+      },
+      {
+        "comment_id": 307519,
+        "uid": 5490362,
+        "content": "完全看不懂啊这个，达米安之后到底怎么了？中间断太多了吧？",
+        "createtime": 1413789391,
+        "nickname": "迷信点是对的",
+        "avatar": "https://avatar.dmzj.com/2b/f1/2bf126d645a1a5d28442f7b988df4375.png"
+      }
+    ]
+  }
+}

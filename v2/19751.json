@@ -1,0 +1,103 @@
+{
+  "id": 19751,
+  "islong": 2,
+  "direction": 2,
+  "title": "猎魔战记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871436775442.jpg",
+  "description": "当世界已经基本被魔物占领，作为猎魔人又何去何从？",
+  "last_updatetime": 1444619866,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 82643,
+  "hit_num": 1375638,
+  "uid": 100205887,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 339,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43772,
+          "chapter_title": "4话",
+          "updatetime": 1444619866,
+          "filesize": 3229027,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 43771,
+          "chapter_title": "3话",
+          "updatetime": 1444619831,
+          "filesize": 1127505,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 43770,
+          "chapter_title": "2话",
+          "updatetime": 1444619812,
+          "filesize": 1056742,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 43769,
+          "chapter_title": "1话",
+          "updatetime": 1444619785,
+          "filesize": 1643463,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40737,
+          "chapter_title": "0话",
+          "updatetime": 1436775572,
+          "filesize": 2479009,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 191,
+    "latest_comment": [
+      {
+        "comment_id": 29948325,
+        "uid": 111514727,
+        "content": "大剑有吗？",
+        "createtime": 1598405565,
+        "nickname": "dmzj_5f45bb7a8c8b0",
+        "avatar": "https://avatar.dmzj.com/d5/ae/d5ae0366f89d6aaebf40044d338d366f.png"
+      },
+      {
+        "comment_id": 28828645,
+        "uid": 111142404,
+        "content": "好想看大剑……",
+        "createtime": 1594364202,
+        "nickname": "dmzj_111142404",
+        "avatar": "https://avatar.dmzj.com/24/00/2400ec38afe2d26c73b7d3fed53f336c.png"
+      }
+    ]
+  }
+}

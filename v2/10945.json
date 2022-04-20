@@ -1,0 +1,68 @@
+{
+  "id": 10945,
+  "islong": 2,
+  "direction": 2,
+  "title": "金刚狼v5",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/jinganglang.jpg",
+  "description": "金刚狼2013新连载",
+  "last_updatetime": 1389719113,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 3874419,
+  "hit_num": 190133,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 17030,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27364,
+          "chapter_title": "13卷",
+          "updatetime": 1389719113,
+          "filesize": 3109314,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22531,
+          "chapter_title": "1卷",
+          "updatetime": 1365867653,
+          "filesize": 3504669,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1697481,
+        "uid": 101757352,
+        "content": "哎~沙发坐起",
+        "createtime": 1484903457,
+        "nickname": "Darkest-Hero",
+        "avatar": "https://avatar.dmzj.com/22/03/220393bc200a0d75e9217b44e6206162.png"
+      }
+    ]
+  }
+}

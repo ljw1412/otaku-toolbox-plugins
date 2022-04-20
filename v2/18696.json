@@ -1,0 +1,93 @@
+{
+  "id": 18696,
+  "islong": 2,
+  "direction": 2,
+  "title": "昨日黎明",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1001527151431675821.jpg",
+  "description": "宇宙之中，茫茫星系闪烁着万物的光辉，我们都是这偌大的宇宙中的一叶扁舟。没有任何东西比得上生命，从出生到死亡，这只是在遵循宇宙的定律，然而，有人想要打破这种定律，打破它，就必然要付出巨大的代价。永恒，只在死亡的那一刻，只有那个时候，你才能体会到永恒的概念......",
+  "last_updatetime": 1434416025,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 2182,
+  "hit_num": 23783,
+  "uid": 100152715,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9317,
+      "tag_name": "池子"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39893,
+          "chapter_title": "弑战03",
+          "updatetime": 1434416025,
+          "filesize": 700327,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 39335,
+          "chapter_title": "弑战02",
+          "updatetime": 1432819180,
+          "filesize": 845345,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 38906,
+          "chapter_title": "弑战01",
+          "updatetime": 1431675937,
+          "filesize": 1048087,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "我的第一部彩漫哦",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 2980045,
+        "uid": 105321170,
+        "content": "画风无话可说，阅读体验极差，剧情…有剧情可言？",
+        "createtime": 1506436689,
+        "nickname": "黑予_捡币EX",
+        "avatar": "https://avatar.dmzj.com/83/91/8391d8fa07e4b957dc9a78f86cd9dd85.png"
+      },
+      {
+        "comment_id": 1419561,
+        "uid": 100727409,
+        "content": "这是想模仿学院handsome么？",
+        "createtime": 1477769675,
+        "nickname": "你们认错人了_",
+        "avatar": "https://avatar.dmzj.com/a9/22/a9228f35e5dca125829c6452fe070eaf.png"
+      }
+    ]
+  }
+}

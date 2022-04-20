@@ -1,0 +1,80 @@
+{
+  "id": 13304,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠：暗夜圆桌骑士",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/bianfuxiayishijzayyzqs.jpg",
+  "description": "蝙蝠侠异世界之暗夜圆桌骑士",
+  "last_updatetime": 1384834561,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 2031000,
+  "hit_num": 369844,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 8121,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25120,
+          "chapter_title": "2卷",
+          "updatetime": 1384834561,
+          "filesize": 7469085,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 25119,
+          "chapter_title": "1卷",
+          "updatetime": 1384834553,
+          "filesize": 6805850,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 21832428,
+        "uid": 107074290,
+        "content": "真的妙啊",
+        "createtime": 1572625766,
+        "nickname": "dmzj_107074290",
+        "avatar": "https://avatar.dmzj.com/86/3a/863a15be129581654da89341344ce044.png"
+      },
+      {
+        "comment_id": 13303927,
+        "uid": 108075666,
+        "content": "始终一身黑",
+        "createtime": 1553478489,
+        "nickname": "巧07555",
+        "avatar": "https://avatar.dmzj.com/5b/7a/5b7ad9d50b86e3a86359f5c262c66cd6.png"
+      }
+    ]
+  }
+}

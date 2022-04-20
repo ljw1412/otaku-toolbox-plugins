@@ -1,0 +1,80 @@
+{
+  "id": 17428,
+  "islong": 2,
+  "direction": 2,
+  "title": "圣剑联盟v3",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/duanjianfengmianl.jpg",
+  "description": "锻剑(Forging The Sword)，是前接至黑之夜(Of Darkest Night)，讲述X教授回到吉诺莎重建亡国的故事",
+  "last_updatetime": 1427207665,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 22517,
+  "hit_num": 56321,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 85,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35418,
+          "chapter_title": "2卷",
+          "updatetime": 1427207665,
+          "filesize": 4708697,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 35055,
+          "chapter_title": "1卷",
+          "updatetime": 1426174044,
+          "filesize": 4458802,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 23492815,
+        "uid": 107728305,
+        "content": "漫威的至黑之夜？",
+        "createtime": 1579921146,
+        "nickname": "天生我材2015",
+        "avatar": "https://avatar.dmzj.com/82/89/828963ac0b51747ddd09b6f6871b4382.png"
+      },
+      {
+        "comment_id": 22330867,
+        "uid": 109415042,
+        "content": "漫威有至黑之夜？",
+        "createtime": 1574778051,
+        "nickname": "贞德alar",
+        "avatar": "https://avatar.dmzj.com/73/96/73965130a4066333c0b990f15bf064d6.png"
+      }
+    ]
+  }
+}

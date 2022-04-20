@@ -1,0 +1,97 @@
+{
+  "id": 17640,
+  "islong": 2,
+  "direction": 1,
+  "title": "23：45",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/2345l.jpg",
+  "description": "关于——和你、恋爱、这件事！",
+  "last_updatetime": 1431345100,
+  "copyright": 0,
+  "first_letter": "2",
+  "hot_num": 224867,
+  "hit_num": 589231,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8818,
+      "tag_name": "绪花"
+    }
+  ],
+  "subscribe_num": 1590,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40979,
+          "chapter_title": "4话",
+          "updatetime": 1431345100,
+          "filesize": 3830792,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 40753,
+          "chapter_title": "3话",
+          "updatetime": 1430647933,
+          "filesize": 4107142,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 39944,
+          "chapter_title": "2话",
+          "updatetime": 1428233052,
+          "filesize": 4261330,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 39943,
+          "chapter_title": "1话",
+          "updatetime": 1428232834,
+          "filesize": 6145845,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 39384,
+          "chapter_title": "0话",
+          "updatetime": 1427020750,
+          "filesize": 1690554,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 28389150,
+        "uid": 105637558,
+        "content": "怎么感觉沉重起来了",
+        "createtime": 1592938433,
+        "nickname": "Miethy",
+        "avatar": "https://avatar.dmzj.com/51/42/5142b50e44402177a302f2ad5af54552.png"
+      },
+      {
+        "comment_id": 23936380,
+        "uid": 100759575,
+        "content": "记得早些年在动漫之家看完结了，怎么现在这么多就不全了",
+        "createtime": 1581228145,
+        "nickname": "厮混",
+        "avatar": "https://avatar.dmzj.com/60/bf/60bf0326e0b2df2a4dc0fecf4561e9d4.png"
+      }
+    ]
+  }
+}

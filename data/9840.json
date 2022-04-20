@@ -1,0 +1,91 @@
+{
+  "id": 9840,
+  "islong": 2,
+  "direction": 1,
+  "title": "little busters!",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/little-busters!.jpg",
+  "description": "从小玩到大的我们，现都在这寄宿制学校里上学。5个人的感情非常好，一直过着一成不变的每一天，但是——我的生活逐渐发生了改变",
+  "last_updatetime": 1354431683,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lbusters",
+  "hidden": 0,
+  "hot_num": 177412,
+  "hit_num": 705278,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20844,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5229,
+      "tag_name": "米田和佐"
+    }
+  ],
+  "subscribe_num": 950,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20844,
+          "chapter_title": "1话",
+          "updatetime": 1354431683,
+          "filesize": 4464576,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 27,
+    "latest_comment": [
+      {
+        "comment_id": 25814276,
+        "uid": 101091498,
+        "content": "留标",
+        "createtime": 1585467183,
+        "nickname": "当使那时我",
+        "avatar": "https://avatar.dmzj.com/70/79/7079fd9c6baccc10db30cbbf83374c70.png"
+      },
+      {
+        "comment_id": 25489916,
+        "uid": 104799105,
+        "content": "上古评论",
+        "createtime": 1584704560,
+        "nickname": "谁不会炼铜啊",
+        "avatar": "https://avatar.dmzj.com/0d/3c/0d3c0377cf9b4f5841fe9e108c453c36.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,73 @@
+{
+  "id": 16788,
+  "islong": 2,
+  "direction": 2,
+  "title": "太空少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/0116taikongshaonvfml.jpg",
+  "description": "Space Girl，节选。",
+  "last_updatetime": 1421400730,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 18621,
+  "hit_num": 199201,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8378,
+      "tag_name": "Travis Chest"
+    }
+  ],
+  "subscribe_num": 77,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33530,
+          "chapter_title": "1话",
+          "updatetime": 1421400730,
+          "filesize": 5026157,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 404953,
+        "uid": 25593623,
+        "content": "这是节选 所以有点这样子。。。 其他的都很正常",
+        "createtime": 1433171654,
+        "nickname": "r87",
+        "avatar": "https://avatar.dmzj.com/a1/9f/a19fb7ff8124aa9406061225b01fada0.png"
+      },
+      {
+        "comment_id": 340496,
+        "uid": 25376049,
+        "content": "美漫的风格都是剧情的衔接跳跃度都非常大吗？",
+        "createtime": 1421422307,
+        "nickname": "大繦",
+        "avatar": "https://avatar.dmzj.com/5c/6a/5c6acfb761af3455bfc9fa1e8e21b6ef.png"
+      }
+    ]
+  }
+}

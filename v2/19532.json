@@ -1,0 +1,71 @@
+{
+  "id": 19532,
+  "islong": 2,
+  "direction": 2,
+  "title": "恶魔降临",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1002243291435661241.jpg",
+  "description": "恶魔降临",
+  "last_updatetime": 1435661294,
+  "copyright": 1,
+  "first_letter": "e",
+  "hot_num": 8222,
+  "hit_num": 48337,
+  "uid": 100224329,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9764,
+      "tag_name": "红月"
+    }
+  ],
+  "subscribe_num": 54,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42569,
+          "chapter_title": "1话",
+          "updatetime": 1435661294,
+          "filesize": 959458,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1326120,
+        "uid": 101576371,
+        "content": "作者加油，继续更新",
+        "createtime": 1475245573,
+        "nickname": "卖萌傲娇女汉子",
+        "avatar": "https://avatar.dmzj.com/78/50/78508fe8a784196ac64c736baff7e25b.png"
+      },
+      {
+        "comment_id": 1326118,
+        "uid": 101576371,
+        "content": "好好看",
+        "createtime": 1475245553,
+        "nickname": "卖萌傲娇女汉子",
+        "avatar": "https://avatar.dmzj.com/78/50/78508fe8a784196ac64c736baff7e25b.png"
+      }
+    ]
+  }
+}

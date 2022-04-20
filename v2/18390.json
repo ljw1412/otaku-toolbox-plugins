@@ -1,0 +1,73 @@
+{
+  "id": 18390,
+  "islong": 2,
+  "direction": 1,
+  "title": "绿茶的绿酱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/lcchadekvjiang.jpg",
+  "description": "萌萌哒绿色调漫画。",
+  "last_updatetime": 1430205687,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 184946,
+  "hit_num": 12673,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 848,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40642,
+          "chapter_title": "1话",
+          "updatetime": 1430205687,
+          "filesize": 168871,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 27121781,
+        "uid": 100294869,
+        "content": "谁有绿茶猫greenteacat啊 请圈我一下",
+        "createtime": 1588664821,
+        "nickname": "聖葉詩弥",
+        "avatar": "https://avatar.dmzj.com/76/51/7651ef5a4ce87a35f2d9d68d9f56c10d.png"
+      },
+      {
+        "comment_id": 23598147,
+        "uid": 109404918,
+        "content": "这是我看过最短的漫画就一页",
+        "createtime": 1580299579,
+        "nickname": "dmzj_109404918",
+        "avatar": "https://avatar.dmzj.com/92/ec/92eca7cfe0bff6b452e6b7c62ef9a36d.png"
+      }
+    ]
+  }
+}

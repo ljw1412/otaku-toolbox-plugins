@@ -1,0 +1,75 @@
+{
+  "id": 10954,
+  "islong": 2,
+  "direction": 1,
+  "title": "杰达的上学路",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/milude.jpg",
+  "description": "踏上这条大路，就可以和大家见面了——",
+  "last_updatetime": 1365948361,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jidadeshangxuelu",
+  "hidden": 0,
+  "hot_num": 34940,
+  "hit_num": 116524,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21338,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3450,
+      "tag_name": "岩本直辉"
+    }
+  ],
+  "subscribe_num": 193,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21338,
+          "chapter_title": "1话",
+          "updatetime": 1365948361,
+          "filesize": 3408977,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 29013354,
+        "uid": 108111903,
+        "content": "好看极了",
+        "createtime": 1594975806,
+        "nickname": "小说与诅咒之神陈施豪",
+        "avatar": "https://avatar.dmzj.com/70/90/70902f3693e84a4dc5a00f42a13bbe79.png"
+      },
+      {
+        "comment_id": 2287588,
+        "uid": 101214981,
+        "content": "欲言又止。。。",
+        "createtime": 1496836884,
+        "nickname": "Games Master-lyx",
+        "avatar": "https://avatar.dmzj.com/b7/b5/b7b501224992d642313fc5d264c4e522.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

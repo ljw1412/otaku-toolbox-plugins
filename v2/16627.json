@@ -1,0 +1,77 @@
+{
+  "id": 16627,
+  "islong": 2,
+  "direction": 1,
+  "title": "初次见面，我的姐姐",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/ccjmwdjj66l.jpg",
+  "description": "我亲爱的姐姐呀 ~",
+  "last_updatetime": 1420359426,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 63516,
+  "hit_num": 281999,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6057,
+      "tag_name": "あとがき"
+    }
+  ],
+  "subscribe_num": 365,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36944,
+          "chapter_title": "1话",
+          "updatetime": 1420359426,
+          "filesize": 4187198,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 28499921,
+        "uid": 110320602,
+        "content": "时代的产物，我会好好珍惜。话说评论区人好少。。。",
+        "createtime": 1593321129,
+        "nickname": "空气银子酱",
+        "avatar": "https://avatar.dmzj.com/21/08/210809a2288d2347e0fa165fbbc5da77.png"
+      },
+      {
+        "comment_id": 11073785,
+        "uid": 104956341,
+        "content": "提督们肯定又要社保了吧 真恶心",
+        "createtime": 1549598016,
+        "nickname": "智障尼特",
+        "avatar": "https://avatar.dmzj.com/84/35/843592c09742dbdb4854b2292d76cfc6.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12239,
+  "islong": 2,
+  "direction": 1,
+  "title": "两个世界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/lianggeshijie20130727.jpg",
+  "description": "第一次喜欢上女生，然后主动向她告白了，本以为会被拒绝，但是却开始交往了，于是开始害怕起来，开始逃避……",
+  "last_updatetime": 1374863721,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lianggeshijie",
+  "hidden": 0,
+  "hot_num": 45187,
+  "hit_num": 215786,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23306,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6047,
+      "tag_name": "桥本みつる"
+    }
+  ],
+  "subscribe_num": 185,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23306,
+          "chapter_title": "1话",
+          "updatetime": 1374863721,
+          "filesize": 1769535,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 27452042,
+        "uid": 105009467,
+        "content": "这，眼睛...",
+        "createtime": 1589706401,
+        "nickname": "柚芽",
+        "avatar": "https://avatar.dmzj.com/10/55/1055e02582782e5b431dbe968b92fa23.png"
+      },
+      {
+        "comment_id": 27303231,
+        "uid": 104801517,
+        "content": "这眼睛有点小恐怖啦，",
+        "createtime": 1589210873,
+        "nickname": "川村玲緒",
+        "avatar": "https://avatar.dmzj.com/97/65/9765c9412b0d221f0a1e096d6c161ef8.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,73 @@
+{
+  "id": 14648,
+  "islong": 2,
+  "direction": 1,
+  "title": "丸先生的点心",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/wxsddx.jpg",
+  "description": "一直努力工作，到了午饭的时间。终于和你们见面了，美味的美食们！丸先生的点心，有妹子有美食的欠烧漫画！",
+  "last_updatetime": 1401243031,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 66509,
+  "hit_num": 94060,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3327,
+      "tag_name": "美食"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4298,
+      "tag_name": "シオミヤイルカ "
+    }
+  ],
+  "subscribe_num": 399,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 28375,
+          "chapter_title": "1话",
+          "updatetime": 1401243031,
+          "filesize": 1461049,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 26883623,
+        "uid": 108659773,
+        "content": "待更",
+        "createtime": 1587968004,
+        "nickname": "滴嘟滴嘟滴嘟",
+        "avatar": "https://avatar.dmzj.com/10/90/1090d031cbc99f9690ebf87c9449ccd3.png"
+      },
+      {
+        "comment_id": 15272692,
+        "uid": 102243868,
+        "content": "曾经有过第二话然后又没了",
+        "createtime": 1556819053,
+        "nickname": "阿芙罗蒂蒂",
+        "avatar": "https://avatar.dmzj.com/86/02/86026b3253491f1d6ba84557a6a62fdd.png"
+      }
+    ]
+  }
+}

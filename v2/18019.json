@@ -1,0 +1,69 @@
+{
+  "id": 18019,
+  "islong": 2,
+  "direction": 1,
+  "title": "GUMI一家子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/gakugumi.jpg",
+  "description": "v家的日常生活。",
+  "last_updatetime": 1428478944,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 10569,
+  "hit_num": 30761,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8995,
+      "tag_name": "ラプツェ＠BOOTH始めました"
+    }
+  ],
+  "subscribe_num": 43,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36092,
+          "chapter_title": "1话",
+          "updatetime": 1428478944,
+          "filesize": 1286899,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 18186511,
+        "uid": 105480271,
+        "content": "这个gumi脸有点长啊",
+        "createtime": 1563058573,
+        "nickname": "此时相遇天注定",
+        "avatar": "https://avatar.dmzj.com/48/80/48806a8db91fd62493d579b466d2dff7.png"
+      },
+      {
+        "comment_id": 8119998,
+        "uid": 104325701,
+        "content": "众",
+        "createtime": 1542164884,
+        "nickname": "集合吧！骚年们",
+        "avatar": "https://avatar.dmzj.com/a9/7d/a97d4508cebfeba655022c9323120d1a.png"
+      }
+    ]
+  }
+}

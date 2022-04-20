@@ -1,0 +1,69 @@
+{
+  "id": 11542,
+  "islong": 2,
+  "direction": 1,
+  "title": "FIEND:R6",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/fiendr.jpg",
+  "description": "FIEND：R6。东方同人本。",
+  "last_updatetime": 1370339974,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 237425,
+  "hit_num": 399037,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 1163,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24689,
+          "chapter_title": "1话",
+          "updatetime": 1370339974,
+          "filesize": 3807274,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 29564535,
+        "uid": 108834323,
+        "content": "画师ふかぢあ，pixiv uid=2991",
+        "createtime": 1596942817,
+        "nickname": "dmzj_108834323",
+        "avatar": "https://avatar.dmzj.com/55/df/55dfe9757c9bda90582bd71ce903939b.png"
+      },
+      {
+        "comment_id": 29024247,
+        "uid": 106263115,
+        "content": "要不要这么甜，awsl",
+        "createtime": 1595003307,
+        "nickname": "威严！",
+        "avatar": "https://avatar.dmzj.com/52/17/5217369fc8ddd62df234ad38ccf97153.png"
+      }
+    ]
+  }
+}

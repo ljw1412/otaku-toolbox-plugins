@@ -1,0 +1,118 @@
+{
+  "id": 10899,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方剧场 美好明天",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/meihaomingtian.jpg",
+  "description": "红魔馆的温馨故事 催泪佳作 备好纸巾",
+  "last_updatetime": 1514265733,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 280610,
+  "hit_num": 751813,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14160,
+      "tag_name": "ユニメイト"
+    }
+  ],
+  "subscribe_num": 1367,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 68082,
+          "chapter_title": "8话",
+          "updatetime": 1514265733,
+          "filesize": 12974412,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 25741,
+          "chapter_title": "外传两篇",
+          "updatetime": 1388137362,
+          "filesize": 5467791,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 21255,
+          "chapter_title": "6话",
+          "updatetime": 1365473076,
+          "filesize": 2926771,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 21254,
+          "chapter_title": "5话",
+          "updatetime": 1365472846,
+          "filesize": 1493094,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 21253,
+          "chapter_title": "4话",
+          "updatetime": 1365472754,
+          "filesize": 1139210,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 25740,
+          "chapter_title": "3话",
+          "updatetime": 1388136820,
+          "filesize": 275545,
+          "chapter_order": 21
+        },
+        {
+          "chapter_id": 21252,
+          "chapter_title": "2话",
+          "updatetime": 1365470654,
+          "filesize": 1272153,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 21248,
+          "chapter_title": "1话",
+          "updatetime": 1365437030,
+          "filesize": 1081216,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 64,
+    "latest_comment": [
+      {
+        "comment_id": 29655956,
+        "uid": 107724436,
+        "content": "这个好治愈啊",
+        "createtime": 1597311243,
+        "nickname": "dmzj_107724436",
+        "avatar": "https://avatar.dmzj.com/25/74/2574e0f6ef25ceb08b0f2f02a5b80ea3.png"
+      },
+      {
+        "comment_id": 29599456,
+        "uid": 105696370,
+        "content": "八下看样子有生之年了",
+        "createtime": 1597074862,
+        "nickname": "午夜琉璃花",
+        "avatar": "https://avatar.dmzj.com/26/82/2682734f3f11a416ac2ad88a741bde3d.png"
+      }
+    ]
+  }
+}

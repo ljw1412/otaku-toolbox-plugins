@@ -1,0 +1,86 @@
+{
+  "id": 18763,
+  "islong": 2,
+  "direction": 2,
+  "title": "一点也不好看",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1001690081432095981.jpg",
+  "description": "平行世界每天发生着各种奇怪的事情。想到什么画什么，不求月票，觉得有意思就收藏吧~。新浪微博：仲个月亮",
+  "last_updatetime": 1432431749,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 14882,
+  "hit_num": 87916,
+  "uid": 100169008,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9353,
+      "tag_name": "仲个月亮"
+    }
+  ],
+  "subscribe_num": 109,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37358,
+          "chapter_title": "多啦B梦",
+          "updatetime": 1432431749,
+          "filesize": 195504,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 37204,
+          "chapter_title": "平行世界",
+          "updatetime": 1432096166,
+          "filesize": 524944,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "业余漫画作者，画风随心情，故事胡编乱造。但是我还是很用心画的……",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 29762218,
+        "uid": 109968426,
+        "content": "。。。",
+        "createtime": 1597726543,
+        "nickname": "「不存在」",
+        "avatar": "https://avatar.dmzj.com/fc/8b/fc8b3950bacb60f896b1dfd0c2ae5331.png"
+      },
+      {
+        "comment_id": 29625662,
+        "uid": 108283371,
+        "content": "五年了，作者还是没想到画什么",
+        "createtime": 1597170797,
+        "nickname": "37XX",
+        "avatar": "https://avatar.dmzj.com/14/77/147728013ee08314a4e6c0e27b5c0240.png"
+      }
+    ]
+  }
+}

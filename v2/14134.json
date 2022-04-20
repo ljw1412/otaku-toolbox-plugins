@@ -1,0 +1,73 @@
+{
+  "id": 14134,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方武龟王传说",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/東方龜.jpg",
+  "description": "《超级马里奥RPG》游戏角色的穿越乱入！库巴大王的幻想乡历险记！",
+  "last_updatetime": 1394253662,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 416315,
+  "hit_num": 185518,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 1806,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27070,
+          "chapter_title": "1话",
+          "updatetime": 1394253662,
+          "filesize": 4006776,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 21259862,
+        "uid": 108360582,
+        "content": "这是……不填坑！wsl",
+        "createtime": 1570952919,
+        "nickname": "从不头槌学生的好老师",
+        "avatar": "https://avatar.dmzj.com/53/36/53366636eff4bcef20a9335935900ebb.png"
+      },
+      {
+        "comment_id": 19545966,
+        "uid": 108403252,
+        "content": "见识一下",
+        "createtime": 1566187086,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      }
+    ]
+  }
+}

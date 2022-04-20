@@ -1,0 +1,75 @@
+{
+  "id": 10528,
+  "islong": 2,
+  "direction": 1,
+  "title": "学校的死神",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/xuexiaodesishen.jpg",
+  "description": "青春期男生的苦恼····？那可是攸关生命的问题！！",
+  "last_updatetime": 1362393380,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xuexiaodesishen",
+  "hidden": 0,
+  "hot_num": 36659,
+  "hit_num": 387897,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20901,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5597,
+      "tag_name": "ワタナペ"
+    }
+  ],
+  "subscribe_num": 214,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20901,
+          "chapter_title": "1话",
+          "updatetime": 1362393380,
+          "filesize": 3332834,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 25917239,
+        "uid": 102003539,
+        "content": "考古考古",
+        "createtime": 1585702923,
+        "nickname": "神谕匡洲",
+        "avatar": "https://avatar.dmzj.com/36/03/3603a9f754713090cc8d0c2c505df1a2.png"
+      },
+      {
+        "comment_id": 394786,
+        "uid": 21060322,
+        "content": "不愧是死神，连初次听说的死法都能这么快掌握要领，期待你神功大成之日，将我也萌死",
+        "createtime": 1431680385,
+        "nickname": "DingSL",
+        "avatar": "https://avatar.dmzj.com/c0/eb/c0ebba79e6d1ca2256548e2b37a89b25.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

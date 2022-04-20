@@ -1,0 +1,77 @@
+{
+  "id": 15067,
+  "islong": 2,
+  "direction": 1,
+  "title": "我想要一个姐姐",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/bokuane0003ikuio0722.jpg",
+  "description": "超人气NICONICO动画作曲家KIKUO的漫画处女作！\n——契机是，真的只是一个偶然。在酷热的夏午，相遇的两人。\n由3话构成的、至今凭著音乐吸引了大量FANS的，KIKUO的世界。就由他的第一本漫画带你进入KIKUO的新世界！",
+  "last_updatetime": 1405961005,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 66971,
+  "hit_num": 2022600,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 6437,
+      "tag_name": "颜艺"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7546,
+      "tag_name": "KIKUO"
+    }
+  ],
+  "subscribe_num": 726,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31576,
+          "chapter_title": "1话",
+          "updatetime": 1405961005,
+          "filesize": 5294740,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 119,
+    "latest_comment": [
+      {
+        "comment_id": 26859685,
+        "uid": 104261362,
+        "content": "许久不见被封印了……",
+        "createtime": 1587902541,
+        "nickname": "番茄三明治",
+        "avatar": "https://avatar.dmzj.com/63/c4/63c4d55d9ca2c88118a9d8e3a6f77755.png"
+      },
+      {
+        "comment_id": 26712922,
+        "uid": 110516717,
+        "content": "好吧，来了",
+        "createtime": 1587517032,
+        "nickname": "dmzj_110516717",
+        "avatar": "https://avatar.dmzj.com/36/7e/367e3feaa2fca4facee742b24bf3b5cb.png"
+      }
+    ]
+  }
+}

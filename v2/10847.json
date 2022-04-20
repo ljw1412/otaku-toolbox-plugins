@@ -1,0 +1,73 @@
+{
+  "id": 10847,
+  "islong": 2,
+  "direction": 1,
+  "title": "西游奇谭 大猿王",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/xiyouqitandayuanwang.jpg",
+  "description": "狂暴猿猴，再度嘶吼！",
+  "last_updatetime": 1365130305,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 166748,
+  "hit_num": 242451,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2608,
+      "tag_name": "寺田克也"
+    }
+  ],
+  "subscribe_num": 827,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23597,
+          "chapter_title": "1话",
+          "updatetime": 1365130305,
+          "filesize": 1978485,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 26628619,
+        "uid": 100542124,
+        "content": "这番有点东西",
+        "createtime": 1587281602,
+        "nickname": "呆呆的九尾",
+        "avatar": "https://avatar.dmzj.com/f0/65/f065520f01485962ad80b17dcbfe7561.png"
+      },
+      {
+        "comment_id": 26433002,
+        "uid": 108042306,
+        "content": "西游",
+        "createtime": 1586775674,
+        "nickname": "阿政Kars",
+        "avatar": "https://avatar.dmzj.com/1f/0b/1f0b82730c0738daf98b7fad1aed56aa.png"
+      }
+    ]
+  }
+}

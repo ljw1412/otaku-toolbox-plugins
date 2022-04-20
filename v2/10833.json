@@ -1,0 +1,73 @@
+{
+  "id": 10833,
+  "islong": 2,
+  "direction": 1,
+  "title": "这条街道没有人鱼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/jiedaomeiyourenyu.jpg",
+  "description": "她突如其来的造访了这条街，又如同泡沫一般消失不见了······",
+  "last_updatetime": 1543938165,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 298586,
+  "hit_num": 410613,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5760,
+      "tag_name": "未幡"
+    }
+  ],
+  "subscribe_num": 1394,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21303,
+          "chapter_title": "1话",
+          "updatetime": 1543938165,
+          "filesize": 2493778,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 48,
+    "latest_comment": [
+      {
+        "comment_id": 28140723,
+        "uid": 104184055,
+        "content": "没有希望的点破",
+        "createtime": 1592066224,
+        "nickname": "Gwenoline",
+        "avatar": "https://avatar.dmzj.com/f6/83/f683a2c4e3cb730a7c1cbd9f8fc0efe1.png"
+      },
+      {
+        "comment_id": 27512305,
+        "uid": 110007294,
+        "content": "卧槽这是真的撩完就跑啊",
+        "createtime": 1589898241,
+        "nickname": "人间有味是清欢吖",
+        "avatar": "https://avatar.dmzj.com/16/06/1606ae422673f25a1f531a599e995262.png"
+      }
+    ]
+  }
+}

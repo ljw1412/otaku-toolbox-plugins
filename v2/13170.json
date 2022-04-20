@@ -1,0 +1,79 @@
+{
+  "id": 13170,
+  "islong": 2,
+  "direction": 1,
+  "title": "情书",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/qingshuyihi.jpg",
+  "description": "永远传达不到的心意，永远无法送出去的情书——",
+  "last_updatetime": 1383707965,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qingshuyihi",
+  "hidden": 0,
+  "hot_num": 42422,
+  "hit_num": 148871,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 26159,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6332,
+      "tag_name": "乙ひより"
+    }
+  ],
+  "subscribe_num": 212,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26159,
+          "chapter_title": "1话",
+          "updatetime": 1383707965,
+          "filesize": 1758135,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 29860448,
+        "uid": 101755331,
+        "content": "呜呜呜好心痛",
+        "createtime": 1598094558,
+        "nickname": "缡纱美夜贴贴❤️",
+        "avatar": "https://avatar.dmzj.com/13/90/139014a2f0147bd12a254f90e88d184f.png"
+      },
+      {
+        "comment_id": 29804349,
+        "uid": 102008991,
+        "content": "太难了。",
+        "createtime": 1597880302,
+        "nickname": "沐皓",
+        "avatar": "https://avatar.dmzj.com/48/80/488088b8b4407ea4a95ce4366aa3f780.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

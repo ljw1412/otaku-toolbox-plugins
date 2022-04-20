@@ -1,0 +1,110 @@
+{
+  "id": 15945,
+  "islong": 1,
+  "direction": 1,
+  "title": "永远的妖怪庄",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/1yydygz1028.jpg",
+  "description": "因房租便宜而入住进的【鹤见庄】竟是妖怪的居所",
+  "last_updatetime": 1428642171,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yydyyz",
+  "hidden": 0,
+  "hot_num": 52957,
+  "hit_num": 174805,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 40102,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7939,
+      "tag_name": "とよのきつね"
+    }
+  ],
+  "subscribe_num": 182,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40101,
+          "chapter_title": "6话",
+          "updatetime": 1428642160,
+          "filesize": 351384,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 40102,
+          "chapter_title": "5话",
+          "updatetime": 1428642171,
+          "filesize": 555713,
+          "chapter_order": 45
+        },
+        {
+          "chapter_id": 39471,
+          "chapter_title": "4话",
+          "updatetime": 1427257603,
+          "filesize": 394885,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 37374,
+          "chapter_title": "3话",
+          "updatetime": 1422244549,
+          "filesize": 766075,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 36859,
+          "chapter_title": "2话",
+          "updatetime": 1420383756,
+          "filesize": 768730,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 35137,
+          "chapter_title": "1话",
+          "updatetime": 1414506333,
+          "filesize": 1154204,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 3514335,
+        "uid": 105715852,
+        "content": "为毛停更了",
+        "createtime": 1513442274,
+        "nickname": "是要我怎样？我也很绝望！",
+        "avatar": "https://avatar.dmzj.com/7d/77/7d7719b0c8831197da8d3c69162de644.png"
+      },
+      {
+        "comment_id": 1033474,
+        "uid": 100983215,
+        "content": "哇……孤零零你一人啊……",
+        "createtime": 1468891251,
+        "nickname": "凉拌卷心菜",
+        "avatar": "https://avatar.dmzj.com/e0/7e/e07ed017153a6fbb3fa491d34e5fb2cc.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

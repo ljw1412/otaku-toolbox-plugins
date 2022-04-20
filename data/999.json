@@ -1,0 +1,105 @@
+{
+  "id": 999,
+  "islong": 2,
+  "direction": 1,
+  "title": "变虫人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/bcr.jpg",
+  "description": "在一次校外旅行中,真藤将贵和小山田老师因为碰到\n了一棵树木的年轮的怪异现象而突然昏倒。经过调\n查,那怪异年轮的形成主要是因为一千五百年前的病\n毒所引起,而且病毒会因成年体跟未成年体而有不同的\n感染症状。成年体感染后会致命而亡,而未成年体则会成为感染源,而且......\n",
+  "last_updatetime": 1178197680,
+  "last_update_chapter_name": "vol_03",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bcr",
+  "hidden": 1,
+  "hot_num": 67968,
+  "hit_num": 4269577,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 1499,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 950,
+      "tag_name": "藤崎圣人"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 237,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 1499,
+          "chapter_title": "3卷",
+          "updatetime": 1178197680,
+          "filesize": 17674436,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 1498,
+          "chapter_title": "2卷",
+          "updatetime": 1178197680,
+          "filesize": 15481858,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 1497,
+          "chapter_title": "1卷",
+          "updatetime": 1178197680,
+          "filesize": 13744135,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 27096082,
+        "uid": 101753563,
+        "content": "看一下。",
+        "createtime": 1588584583,
+        "nickname": "云中超人",
+        "avatar": "https://avatar.dmzj.com/92/02/9202c7a2886ae7640a340e2195198565.png"
+      },
+      {
+        "comment_id": 26635136,
+        "uid": 107658793,
+        "content": "这。。。",
+        "createtime": 1587300754,
+        "nickname": "onelor",
+        "avatar": "https://avatar.dmzj.com/13/fc/13fcd5509c9c97a75e011b76b3254a04.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

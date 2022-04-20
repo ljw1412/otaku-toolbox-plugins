@@ -1,0 +1,90 @@
+{
+  "id": 11121,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方幻想都市",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/dongfanghuanxiangdushi.jpg",
+  "description": "东方同人漫画，作者：天乃ちはる，P站ID：14503。",
+  "last_updatetime": 1367720684,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 245097,
+  "hit_num": 3331652,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5877,
+      "tag_name": "天乃ちはる"
+    }
+  ],
+  "subscribe_num": 1466,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21444,
+          "chapter_title": "4话",
+          "updatetime": 1367720684,
+          "filesize": 7053106,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 21409,
+          "chapter_title": "3话",
+          "updatetime": 1367548973,
+          "filesize": 5729912,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 21396,
+          "chapter_title": "2话",
+          "updatetime": 1367482283,
+          "filesize": 6229962,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 21391,
+          "chapter_title": "1话",
+          "updatetime": 1367403618,
+          "filesize": 8296118,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 27844173,
+        "uid": 110059544,
+        "content": "见魔理沙进\n通篇都很帅呢",
+        "createtime": 1590942057,
+        "nickname": "你说这兽耳它不香嘛",
+        "avatar": "https://avatar.dmzj.com/57/90/579086d1d112c56ce9ed10bee3a0749f.png"
+      },
+      {
+        "comment_id": 22884985,
+        "uid": 100817759,
+        "content": "我的娘",
+        "createtime": 1577458660,
+        "nickname": "肆风",
+        "avatar": "https://avatar.dmzj.com/70/40/70404282c41e3e6c82a7219912efb3a0.png"
+      }
+    ]
+  }
+}

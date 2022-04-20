@@ -1,0 +1,69 @@
+{
+  "id": 15385,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方景宴剧",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/dongfangjingyanju.jpg",
+  "description": "很欢乐的东方本子，无节操是怎样炼成的... ",
+  "last_updatetime": 1408700632,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 25854,
+  "hit_num": 92338,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5651,
+      "tag_name": "安倍川"
+    }
+  ],
+  "subscribe_num": 125,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33665,
+          "chapter_title": "1话",
+          "updatetime": 1408700632,
+          "filesize": 3324117,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 24536307,
+        "uid": 105877380,
+        "content": "灵梦乔纳森？？？",
+        "createtime": 1582648007,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      },
+      {
+        "comment_id": 19891351,
+        "uid": 106418032,
+        "content": "评论区好火热......",
+        "createtime": 1567158837,
+        "nickname": "dmzj_106418032",
+        "avatar": "https://avatar.dmzj.com/df/5e/df5ee07d7ee4c05454b86c628b0cdf2d.png"
+      }
+    ]
+  }
+}

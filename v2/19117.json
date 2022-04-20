@@ -1,0 +1,63 @@
+{
+  "id": 19117,
+  "islong": 1,
+  "direction": 2,
+  "title": "西游萌哒哒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1434012203.jpg",
+  "description": "西游萌萌哒~",
+  "last_updatetime": 1433842257,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 1100,
+  "hit_num": 5940,
+  "uid": 100196379,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9547,
+      "tag_name": "兔兔"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41962,
+          "chapter_title": "1话",
+          "updatetime": 1433842257,
+          "filesize": 798028,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 678777,
+        "uid": 100315711,
+        "content": "画的不错",
+        "createtime": 1458299421,
+        "nickname": "愚雨、Busy",
+        "avatar": "https://avatar.dmzj.com/89/91/8991142546e7c8d1ae048d1366a4e873.png"
+      }
+    ]
+  }
+}

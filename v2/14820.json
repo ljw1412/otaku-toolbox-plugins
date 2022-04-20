@@ -1,0 +1,73 @@
+{
+  "id": 14820,
+  "islong": 2,
+  "direction": 1,
+  "title": "Le Rouge et le Noir 红与黑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/df1881864286.jpg",
+  "description": "东方红黑同人",
+  "last_updatetime": 1403417464,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 173389,
+  "hit_num": 37322,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 816,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29838,
+          "chapter_title": "1话",
+          "updatetime": 1403417464,
+          "filesize": 554221,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 29661694,
+        "uid": 111196946,
+        "content": "小黑球真可爱",
+        "createtime": 1597331964,
+        "nickname": "dmzj_111196946",
+        "avatar": "https://avatar.dmzj.com/7b/db/7bdbdca721452187d8dae9e35c1c11c1.png"
+      },
+      {
+        "comment_id": 26380925,
+        "uid": 101490751,
+        "content": "作者:至る",
+        "createtime": 1586642367,
+        "nickname": "偽MUR大先輩",
+        "avatar": "https://avatar.dmzj.com/76/31/76315c56f0c019bff534ae1abfd88085.png"
+      }
+    ]
+  }
+}

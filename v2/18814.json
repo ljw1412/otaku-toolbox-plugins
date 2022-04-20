@@ -1,0 +1,81 @@
+{
+  "id": 18814,
+  "islong": 2,
+  "direction": 2,
+  "title": "小黑猫鬼灯",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0522xiaoheimaoguideng02.jpg",
+  "description": "鬼彻同人~",
+  "last_updatetime": 1432261510,
+  "last_update_chapter_name": "第一话",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiaoheimaoguideng",
+  "hidden": 0,
+  "hot_num": 42106,
+  "hit_num": 194070,
+  "uid": 100217540,
+  "is_lock": 0,
+  "last_update_chapter_id": 37447,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9378,
+      "tag_name": "孤九"
+    }
+  ],
+  "subscribe_num": 253,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37447,
+          "chapter_title": "1话",
+          "updatetime": 1432261510,
+          "filesize": 415681,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 3393006,
+        "uid": 100673879,
+        "content": "求！",
+        "createtime": 1511877140,
+        "nickname": " Vincent Phantomhive",
+        "avatar": "https://avatar.dmzj.com/44/2a/442ab2f6cc3b291b69d3215e1d438770.png"
+      },
+      {
+        "comment_id": 1597279,
+        "uid": 101451663,
+        "content": "同人合集?！求资源！！",
+        "createtime": 1482663730,
+        "nickname": "落木19675",
+        "avatar": "https://avatar.dmzj.com/e6/43/e643d687f8a23d5eff0b0d57170bbd0d.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

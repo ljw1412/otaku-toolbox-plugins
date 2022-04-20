@@ -1,0 +1,82 @@
+{
+  "id": 18559,
+  "islong": 2,
+  "direction": 2,
+  "title": "DIRTY DOG",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1001524231430967659.jpg",
+  "description": "厮杀 战斗 狂暴 迷茫 这是一个关于恶犬的故事",
+  "last_updatetime": 1430978526,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 7329,
+  "hit_num": 65609,
+  "uid": 100152423,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9247,
+      "tag_name": "stanleyF"
+    }
+  ],
+  "subscribe_num": 35,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36980,
+          "chapter_title": "牛头梗",
+          "updatetime": 1430978526,
+          "filesize": 941451,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 36979,
+          "chapter_title": " Habana",
+          "updatetime": 1430970467,
+          "filesize": 801931,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "此漫画是原创作品，全彩手绘，希望大家能够喜欢这个故事，最后的结局一定出人意料，敬请期待 ",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 28329572,
+        "uid": 110528327,
+        "content": "有趣得嘞",
+        "createtime": 1592744340,
+        "nickname": "dmzj_110528327",
+        "avatar": "https://avatar.dmzj.com/98/27/9827964ec4affce2720cffc3995937b7.png"
+      },
+      {
+        "comment_id": 23611326,
+        "uid": 100700807,
+        "content": "莎",
+        "createtime": 1580318994,
+        "nickname": "H N E",
+        "avatar": "https://avatar.dmzj.com/19/e6/19e601d287f065140c85297bb1eefda6.png"
+      }
+    ]
+  }
+}

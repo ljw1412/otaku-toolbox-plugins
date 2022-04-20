@@ -1,0 +1,73 @@
+{
+  "id": 11760,
+  "islong": 2,
+  "direction": 1,
+  "title": "Anfang(开始)",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/ks.jpg",
+  "description": "吸血鬼少女与人类少女之间的百合之恋。",
+  "last_updatetime": 1371456594,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 576449,
+  "hit_num": 801613,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4633,
+      "tag_name": "みずのもと"
+    }
+  ],
+  "subscribe_num": 2777,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23717,
+          "chapter_title": "1话",
+          "updatetime": 1371456594,
+          "filesize": 1557328,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 167,
+    "latest_comment": [
+      {
+        "comment_id": 29785989,
+        "uid": 110708235,
+        "content": "留",
+        "createtime": 1597815598,
+        "nickname": "dmzj_110708235",
+        "avatar": "https://avatar.dmzj.com/d2/ea/d2eab49ffc5c4d6a07eea982d091d501.png"
+      },
+      {
+        "comment_id": 29535175,
+        "uid": 110831387,
+        "content": "吸血play太难见了",
+        "createtime": 1596818468,
+        "nickname": "Rkusa",
+        "avatar": "https://avatar.dmzj.com/56/13/5613bed5cd24f49009d6da62d8a6b2df.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1453,
+  "islong": 2,
+  "direction": 1,
+  "title": "偶像大师：无辜的蓝",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/001_f4cf44cca0fbfebfb1cac87fb9901fc2.jpg",
+  "description": "偶像大师：无辜的蓝",
+  "last_updatetime": 1259741760,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "o",
+  "comic_py": "oxdswgdl",
+  "hidden": 0,
+  "hot_num": 17980,
+  "hit_num": 112365,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 2509,
+  "authors": [
+    {
+      "tag_id": 411,
+      "tag_name": "零一"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    },
+    {
+      "tag_id": 3326,
+      "tag_name": "音乐舞蹈"
+    }
+  ],
+  "subscribe_num": 97,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 2509,
+          "chapter_title": "2话",
+          "updatetime": 1259741760,
+          "filesize": 2934610,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 2508,
+          "chapter_title": "1话",
+          "updatetime": 1259741760,
+          "filesize": 1752404,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 19653748,
+        "uid": 106585484,
+        "content": "惊了，竟然是876的...\n唯一一个网络偶像、唯一一个伪娘...",
+        "createtime": 1566464680,
+        "nickname": "dmzj_106585484",
+        "avatar": "https://avatar.dmzj.com/11/96/11962b35a3291e76474945310eb2f1ae.png"
+      },
+      {
+        "comment_id": 199770,
+        "uid": 25103042,
+        "content": "这。。。",
+        "createtime": 1390839227,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

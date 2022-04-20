@@ -1,0 +1,80 @@
+{
+  "id": 17700,
+  "islong": 2,
+  "direction": 1,
+  "title": "翼大人是loveliver！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/t3786716yidarenshiller23250001.jpg",
+  "description": "最喜欢μ's的翼大人的故事",
+  "last_updatetime": 1427289939,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 71672,
+  "hit_num": 129475,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8851,
+      "tag_name": "しろいはくと"
+    }
+  ],
+  "subscribe_num": 541,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39496,
+          "chapter_title": "2话",
+          "updatetime": 1427289939,
+          "filesize": 2378713,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 39495,
+          "chapter_title": "1话",
+          "updatetime": 1427289812,
+          "filesize": 2336543,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 9007040,
+        "uid": 100895194,
+        "content": "翼队好好啊",
+        "createtime": 1544791270,
+        "nickname": "你以为meaqua不贴吗",
+        "avatar": "https://avatar.dmzj.com/45/73/4573db415e8d93a3f3622e7bef175e89.png"
+      },
+      {
+        "comment_id": 6745025,
+        "uid": 105823590,
+        "content": "呜呜呜",
+        "createtime": 1536540710,
+        "nickname": "久保·小鹿",
+        "avatar": "https://avatar.dmzj.com/4a/4c/4a4c80f959ddecb7193b34b4217a3213.png"
+      }
+    ]
+  }
+}

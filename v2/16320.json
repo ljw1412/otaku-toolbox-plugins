@@ -1,0 +1,75 @@
+{
+  "id": 16320,
+  "islong": 2,
+  "direction": 1,
+  "title": "接接在日本",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/Image1jiejiezairiben1210.jpg",
+  "description": "台湾女生定居日本的搞笑生活",
+  "last_updatetime": 1552577195,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 4183,
+  "hit_num": 659026,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8106,
+      "tag_name": "接接"
+    }
+  ],
+  "subscribe_num": 33,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50765,
+          "chapter_title": "4卷",
+          "updatetime": 1456141245,
+          "filesize": 19523453,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 36094,
+          "chapter_title": "3卷",
+          "updatetime": 1418219380,
+          "filesize": 22489276,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 87368,
+          "chapter_title": "1卷",
+          "updatetime": 1552577195,
+          "filesize": 19166404,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 7371692,
+        "uid": 104599922,
+        "content": "搞笑漫画？？？",
+        "createtime": 1539446329,
+        "nickname": "i不是女人",
+        "avatar": "https://avatar.dmzj.com/12/01/1201a2ac38e04b3ef6a5190e51a5647a.png"
+      }
+    ]
+  }
+}

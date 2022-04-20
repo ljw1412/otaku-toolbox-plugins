@@ -1,0 +1,71 @@
+{
+  "id": 19908,
+  "islong": 2,
+  "direction": 2,
+  "title": "草莽英雄汉高祖",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1002093781437021185.jpg",
+  "description": "草莽英雄汉高祖",
+  "last_updatetime": 1437021351,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 5913,
+  "hit_num": 273961,
+  "uid": 100209378,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9628,
+      "tag_name": "洋洋兔动漫"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39155,
+          "chapter_title": "1话",
+          "updatetime": 1437021351,
+          "filesize": 7097002,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 839141,
+        "uid": 101064306,
+        "content": "不值钱的沙发也得占",
+        "createtime": 1464152202,
+        "nickname": "靳尚谊",
+        "avatar": "https://avatar.dmzj.com/16/28/1628fc285085dc2ee12665346d7b7344.png"
+      }
+    ]
+  }
+}

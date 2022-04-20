@@ -1,0 +1,90 @@
+{
+  "id": 12033,
+  "islong": 2,
+  "direction": 2,
+  "title": "死侍屠杀死侍",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/0209sishitushasishifml.jpg",
+  "description": "死侍屠杀死侍。",
+  "last_updatetime": 1424364017,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 7087946,
+  "hit_num": 10931092,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 32069,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34180,
+          "chapter_title": "4卷",
+          "updatetime": 1424364017,
+          "filesize": 3371996,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 34179,
+          "chapter_title": "3卷",
+          "updatetime": 1423993665,
+          "filesize": 3391619,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 24440,
+          "chapter_title": "2卷",
+          "updatetime": 1423761044,
+          "filesize": 3008813,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22970,
+          "chapter_title": "1卷",
+          "updatetime": 1423415002,
+          "filesize": 2789857,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 105,
+    "latest_comment": [
+      {
+        "comment_id": 27814269,
+        "uid": 109114066,
+        "content": "黑袍 纠察队谁有",
+        "createtime": 1590852394,
+        "nickname": "dmzj_109114066",
+        "avatar": "https://avatar.dmzj.com/62/7e/627e7fe402508da6e58d7f5096ec32bb.png"
+      },
+      {
+        "comment_id": 26887202,
+        "uid": 108423063,
+        "content": "开头那个脑袋是丧尸死侍吗",
+        "createtime": 1587978475,
+        "nickname": "ZARUBAMAN",
+        "avatar": "https://avatar.dmzj.com/72/45/72454c0920103017132ec117c0e965c1.png"
+      }
+    ]
+  }
+}

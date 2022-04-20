@@ -1,0 +1,121 @@
+{
+  "id": 16216,
+  "islong": 2,
+  "direction": 1,
+  "title": "热血摩的",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/reixuemodi.jpg",
+  "description": "我是一个普通的出租司机。",
+  "last_updatetime": 1417485423,
+  "copyright": 1,
+  "first_letter": "r",
+  "hot_num": 62347,
+  "hit_num": 1353505,
+  "uid": 33892339,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7934,
+      "tag_name": "博洋大叔"
+    }
+  ],
+  "subscribe_num": 560,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33326,
+          "chapter_title": "7话",
+          "updatetime": 1417485423,
+          "filesize": 1063416,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 33325,
+          "chapter_title": "6话",
+          "updatetime": 1417071526,
+          "filesize": 1625222,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 33324,
+          "chapter_title": "5话",
+          "updatetime": 1417071515,
+          "filesize": 1540701,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 33323,
+          "chapter_title": "4话",
+          "updatetime": 1417071495,
+          "filesize": 1483995,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 33322,
+          "chapter_title": "3话",
+          "updatetime": 1417071486,
+          "filesize": 1602621,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 33321,
+          "chapter_title": "2话",
+          "updatetime": 1417071479,
+          "filesize": 1609329,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 33320,
+          "chapter_title": "1话",
+          "updatetime": 1417071466,
+          "filesize": 2051211,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "《诡水疑云》动画已开播，专区：guishui.dmzj.com 作者入驻的官方Q群①群：341808716 ②群：229265258",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 25101290,
+        "uid": 109703605,
+        "content": "看得见吗",
+        "createtime": 1583825716,
+        "nickname": "加贺香子1993",
+        "avatar": "https://avatar.dmzj.com/ca/f8/caf8c81c61b0550031385c1f155ec930.png"
+      },
+      {
+        "comment_id": 3644582,
+        "uid": 15294734,
+        "content": "公婆真不赖没有悲伤亦没有哭泣",
+        "createtime": 1515415617,
+        "nickname": "悲衰了阿达",
+        "avatar": "https://avatar.dmzj.com/0d/f6/0df608575e1317c9ce814e602bd76dce.png"
+      }
+    ]
+  }
+}

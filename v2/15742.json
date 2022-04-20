@@ -1,0 +1,73 @@
+{
+  "id": 15742,
+  "islong": 2,
+  "direction": 1,
+  "title": "Salto",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/Salto.jpg",
+  "description": "杠宪太短篇，不管是什么样的竞技要想达到更高层次的话，都有相应的痛苦和困难伴随着，果然青春就应该这样挥洒汗水啊。",
+  "last_updatetime": 1412307294,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 10555,
+  "hit_num": 122795,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7846,
+      "tag_name": "杠宪太"
+    }
+  ],
+  "subscribe_num": 52,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34577,
+          "chapter_title": "1话",
+          "updatetime": 1412307294,
+          "filesize": 6328269,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 29317483,
+        "uid": 110414694,
+        "content": "第七",
+        "createtime": 1596039624,
+        "nickname": "唯我弘毅",
+        "avatar": "https://avatar.dmzj.com/82/80/828086056c53e52ad6d7fa75012305f1.png"
+      },
+      {
+        "comment_id": 25919732,
+        "uid": 106039329,
+        "content": "第六？",
+        "createtime": 1585709576,
+        "nickname": "小贱贱y",
+        "avatar": "https://avatar.dmzj.com/98/15/9815d78444f895cb209962d29abab682.png"
+      }
+    ]
+  }
+}

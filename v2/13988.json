@@ -1,0 +1,90 @@
+{
+  "id": 13988,
+  "islong": 2,
+  "direction": 2,
+  "title": "活死侍之夜",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/huosishizhiye.jpg",
+  "description": "一觉醒来，我们的小呆萌死侍发现他成为世界上最后一位英雄啦！这里是死侍带给我们轻松愉快的日常生活小故事，当然还少不了满街的僵尸。",
+  "last_updatetime": 1411467285,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 1507127,
+  "hit_num": 1880411,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 8305,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30991,
+          "chapter_title": "4卷",
+          "updatetime": 1411467285,
+          "filesize": 3261940,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 29200,
+          "chapter_title": "3卷",
+          "updatetime": 1405605046,
+          "filesize": 3171604,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 29103,
+          "chapter_title": "2卷",
+          "updatetime": 1405090074,
+          "filesize": 3267016,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 26791,
+          "chapter_title": "1卷",
+          "updatetime": 1392624617,
+          "filesize": 2941313,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 38,
+    "latest_comment": [
+      {
+        "comment_id": 16555975,
+        "uid": 108398097,
+        "content": "狼叔会不会复活",
+        "createtime": 1559100051,
+        "nickname": "羽流禳谢丶",
+        "avatar": "https://avatar.dmzj.com/79/21/792172362c9611b6949afb6c31591a35.png"
+      },
+      {
+        "comment_id": 13609046,
+        "uid": 108369743,
+        "content": "重刷。",
+        "createtime": 1554119080,
+        "nickname": "空木奏",
+        "avatar": "https://avatar.dmzj.com/62/7f/627f674af130326775b7a6103fda8381.png"
+      }
+    ]
+  }
+}

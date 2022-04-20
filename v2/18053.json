@@ -1,0 +1,75 @@
+{
+  "id": 18053,
+  "islong": 2,
+  "direction": 2,
+  "title": "回归混沌",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1001162931428572868.jpg",
+  "description": "回归混沌 TEST",
+  "last_updatetime": 1428574606,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 16801,
+  "hit_num": 593749,
+  "uid": 100116293,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9015,
+      "tag_name": "SUNRTEAM"
+    }
+  ],
+  "subscribe_num": 125,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35944,
+          "chapter_title": "1话",
+          "updatetime": 1428574606,
+          "filesize": 5079560,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 24207217,
+        "uid": 15268974,
+        "content": "这是天坑吧",
+        "createtime": 1581857516,
+        "nickname": "折花少年",
+        "avatar": "https://avatar.dmzj.com/cf/29/cf2953033f16746b58da8ff5781129d1.png"
+      },
+      {
+        "comment_id": 16144366,
+        "uid": 106038325,
+        "content": "一直在找",
+        "createtime": 1558291591,
+        "nickname": "开朗笑面",
+        "avatar": "https://avatar.dmzj.com/08/bc/08bcb0394150f4657bdb7ef13c79d7bb.png"
+      }
+    ]
+  }
+}

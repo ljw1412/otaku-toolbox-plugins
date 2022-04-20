@@ -1,0 +1,80 @@
+{
+  "id": 16130,
+  "islong": 2,
+  "direction": 2,
+  "title": "神力家族：第一天！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/shenlijiazudeyitian.jpg",
+  "description": "神力家族Day One！ 画风超级可爱的漫画！是宝宝AVX的画师\n",
+  "last_updatetime": 1431090703,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 23407,
+  "hit_num": 105317,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 138,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40892,
+          "chapter_title": "2卷",
+          "updatetime": 1431090703,
+          "filesize": 3425690,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 35532,
+          "chapter_title": "1卷",
+          "updatetime": 1416138198,
+          "filesize": 3110574,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 23100636,
+        "uid": 100993718,
+        "content": "可爱！",
+        "createtime": 1578290787,
+        "nickname": "你为何这么吊",
+        "avatar": "https://avatar.dmzj.com/a4/7b/a47b1083b8549fd0670ee979735cef87.png"
+      },
+      {
+        "comment_id": 6542113,
+        "uid": 107414675,
+        "content": "好可爱啊呜呜呜呜呜呜",
+        "createtime": 1535455899,
+        "nickname": "作业好多喔",
+        "avatar": "https://avatar.dmzj.com/59/65/5965188729c4b4803caf09e6b2bb26ad.png"
+      }
+    ]
+  }
+}

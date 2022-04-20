@@ -1,0 +1,72 @@
+{
+  "id": 13005,
+  "islong": 2,
+  "direction": 2,
+  "title": "新52第七小队",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/diqixiaodui.jpg",
+  "description": "DC漫画倾情奉献，新52第七小队。",
+  "last_updatetime": 1390198721,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 1846554,
+  "hit_num": 104729,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 7559,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27432,
+          "chapter_title": "1卷",
+          "updatetime": 1390198721,
+          "filesize": 3464503,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 25869,
+          "chapter_title": "0卷",
+          "updatetime": 1382246799,
+          "filesize": 3784338,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 2366139,
+        "uid": 100997600,
+        "content": "下次更新真是遥遥无期",
+        "createtime": 1498242747,
+        "nickname": "Qwkkkjjk",
+        "avatar": "https://avatar.dmzj.com/51/54/51540ca6f17cc2401b8977f997958e77.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": 18149,
+  "islong": 2,
+  "direction": 2,
+  "title": "告白大作战",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1001179351428984390.jpg",
+  "description": "以前的短篇故事集－告白大作战",
+  "last_updatetime": 1428991834,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 4361,
+  "hit_num": 47172,
+  "uid": 100117935,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9032,
+      "tag_name": "白骁"
+    }
+  ],
+  "subscribe_num": 11,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36306,
+          "chapter_title": "3话",
+          "updatetime": 1428991834,
+          "filesize": 991850,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 36307,
+          "chapter_title": "2话",
+          "updatetime": 1428984582,
+          "filesize": 1021515,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 36308,
+          "chapter_title": "1话",
+          "updatetime": 1428984510,
+          "filesize": 1047660,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 713500,
+        "uid": 100721936,
+        "content": "最后的结局，噗哈哈~",
+        "createtime": 1459872051,
+        "nickname": " 三颗猫饼干",
+        "avatar": "https://avatar.dmzj.com/41/5b/415bc8a573774d4d9d60429ce5104c48.png"
+      },
+      {
+        "comment_id": 379466,
+        "uid": 12979567,
+        "content": "作战系列。。。",
+        "createtime": 1429063349,
+        "nickname": "sd5745124",
+        "avatar": "https://avatar.dmzj.com/29/80/298070c54ee810681d5a41c730a4436e.png"
+      }
+    ]
+  }
+}

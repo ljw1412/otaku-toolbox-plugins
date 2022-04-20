@@ -1,0 +1,75 @@
+{
+  "id": 13487,
+  "islong": 2,
+  "direction": 1,
+  "title": "小卖部的南河三",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/baihetuan.jpg",
+  "description": "小卖铺的见面，阳光下我们在一起！！",
+  "last_updatetime": 1387385019,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaomaibunanhensan",
+  "hidden": 0,
+  "hot_num": 38697,
+  "hit_num": 200774,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 27933,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5956,
+      "tag_name": "ふかさくえみ"
+    }
+  ],
+  "subscribe_num": 224,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27933,
+          "chapter_title": "1话",
+          "updatetime": 1387385019,
+          "filesize": 3172003,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 29076709,
+        "uid": 107592310,
+        "content": "不错不错",
+        "createtime": 1595174897,
+        "nickname": "dmzj_107592310",
+        "avatar": "https://avatar.dmzj.com/43/96/439667e6f1815a06bdeaacf976609e1b.png"
+      },
+      {
+        "comment_id": 27453603,
+        "uid": 105009467,
+        "content": "留",
+        "createtime": 1589711368,
+        "nickname": "柚芽",
+        "avatar": "https://avatar.dmzj.com/10/55/1055e02582782e5b431dbe968b92fa23.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

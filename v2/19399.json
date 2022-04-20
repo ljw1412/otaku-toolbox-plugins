@@ -1,0 +1,75 @@
+{
+  "id": 19399,
+  "islong": 2,
+  "direction": 2,
+  "title": "蔷薇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1002177561435215206.jpg",
+  "description": "MVP参赛作品",
+  "last_updatetime": 1435215233,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 8702,
+  "hit_num": 69059,
+  "uid": 100217756,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8013,
+      "tag_name": "青鸟童话"
+    }
+  ],
+  "subscribe_num": 59,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38407,
+          "chapter_title": "1话",
+          "updatetime": 1435215233,
+          "filesize": 827471,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 28143027,
+        "uid": 100685971,
+        "content": "最喜欢这个短篇了！！！",
+        "createtime": 1592070500,
+        "nickname": "贤章即是正义",
+        "avatar": "https://avatar.dmzj.com/4f/dd/4fdd9c50fbaea626e51c553a9278f0c4.png"
+      },
+      {
+        "comment_id": 15031298,
+        "uid": 100851327,
+        "content": "这……还没完吧",
+        "createtime": 1556429502,
+        "nickname": "(｢･ω･)｢",
+        "avatar": "https://avatar.dmzj.com/34/26/34264cbbd39b27fc20a8e585a8895a96.png"
+      }
+    ]
+  }
+}

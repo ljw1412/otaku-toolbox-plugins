@@ -1,0 +1,77 @@
+{
+  "id": 12825,
+  "islong": 2,
+  "direction": 1,
+  "title": "新娘summer",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/xinniangsummer.jpg",
+  "description": "新娘summer，Sword Art Online同人漫画，亚丝娜与桐人婚后生活？海滩边？",
+  "last_updatetime": 1380370465,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 648051,
+  "hit_num": 2387018,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6658,
+      "tag_name": "ヨツバインク"
+    }
+  ],
+  "subscribe_num": 2858,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25509,
+          "chapter_title": "1话",
+          "updatetime": 1380370465,
+          "filesize": 4130889,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 63,
+    "latest_comment": [
+      {
+        "comment_id": 29333997,
+        "uid": 111070575,
+        "content": "dmzj",
+        "createtime": 1596109338,
+        "nickname": "dmzj_111070575",
+        "avatar": "https://avatar.dmzj.com/60/04/60046f70fedcc375784bd53cab00979c.png"
+      },
+      {
+        "comment_id": 28479129,
+        "uid": 20385392,
+        "content": "目艮来了",
+        "createtime": 1593254695,
+        "nickname": "汗灬是无语",
+        "avatar": "https://avatar.dmzj.com/e4/46/e44603be3bf1b97e45b0959dc8c18958.png"
+      }
+    ]
+  }
+}

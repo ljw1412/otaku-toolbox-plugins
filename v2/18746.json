@@ -1,0 +1,85 @@
+{
+  "id": 18746,
+  "islong": 2,
+  "direction": 2,
+  "title": "火与冰的合奏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1001686801431942235.jpg",
+  "description": "平凡人的不平凡一生",
+  "last_updatetime": 1431942929,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 10108,
+  "hit_num": 133880,
+  "uid": 100168680,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9340,
+      "tag_name": "眼镜"
+    }
+  ],
+  "subscribe_num": 80,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38999,
+          "chapter_title": "3话",
+          "updatetime": 1431942929,
+          "filesize": 1427443,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 38998,
+          "chapter_title": "2话",
+          "updatetime": 1431942806,
+          "filesize": 2128917,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 38997,
+          "chapter_title": "1话",
+          "updatetime": 1431942538,
+          "filesize": 1071240,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "。。。",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 2285046,
+        "uid": 104468489,
+        "content": "二柱子别以为把美瞳摘了我就不认识你了",
+        "createtime": 1496800103,
+        "nickname": "勿以鳝小而不慰26561",
+        "avatar": "https://avatar.dmzj.com/0a/1c/0a1cd256535a62bcba5342e860c1c269.png"
+      },
+      {
+        "comment_id": 1614337,
+        "uid": 102455521,
+        "content": "加油加油'作者加油，期待啊，好看啊，支持支持",
+        "createtime": 1483112974,
+        "nickname": "Blank72208",
+        "avatar": "https://avatar.dmzj.com/4c/92/4c92342d0e96b8d147ce2d98c6e8ba08.png"
+      }
+    ]
+  }
+}

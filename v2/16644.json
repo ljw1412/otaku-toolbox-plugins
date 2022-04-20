@@ -1,0 +1,96 @@
+{
+  "id": 16644,
+  "islong": 2,
+  "direction": 1,
+  "title": "龙心",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/0105longxinxlfml.jpg",
+  "description": "主角唐飞寻父下落，遇上了父亲的好友李龙。得知父被恶龙所害。而李龙的女儿得了难治的病。传说龙的心脏能治百病。唐飞寻龙为父报仇，同时要夺取龙的心脏为李龙女儿治病。",
+  "last_updatetime": 1421908793,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 18909,
+  "hit_num": 278169,
+  "uid": 19551569,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5806,
+      "tag_name": "魔幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8296,
+      "tag_name": "湘立"
+    }
+  ],
+  "subscribe_num": 59,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33900,
+          "chapter_title": "4话",
+          "updatetime": 1421908793,
+          "filesize": 1087413,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 33487,
+          "chapter_title": "3话",
+          "updatetime": 1420619914,
+          "filesize": 849016,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 33486,
+          "chapter_title": "2话",
+          "updatetime": 1420619911,
+          "filesize": 873463,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 33439,
+          "chapter_title": "1话",
+          "updatetime": 1420449727,
+          "filesize": 757992,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 337339,
+        "uid": 26292314,
+        "content": "这漫不是国产吗，怎就弄一四不像出来",
+        "createtime": 1420643828,
+        "nickname": "wfq012",
+        "avatar": "https://avatar.dmzj.com/eb/1d/eb1d0cb1d069b506675142f10d5e3bb3.png"
+      },
+      {
+        "comment_id": 337338,
+        "uid": 26292314,
+        "content": "这货算是东方龙还是西方龙啊，样貌像西方龙可是没翅膀，就一爬虫",
+        "createtime": 1420643769,
+        "nickname": "wfq012",
+        "avatar": "https://avatar.dmzj.com/eb/1d/eb1d0cb1d069b506675142f10d5e3bb3.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": 19245,
+  "islong": 2,
+  "direction": 2,
+  "title": "金玉王朝",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1002085491434605809.jpg",
+  "description": "风弄作品《金玉王朝》的同人，噢噢，坏坏的白大灰狼抓小白兔的故事。",
+  "last_updatetime": 1434607120,
+  "copyright": 1,
+  "first_letter": "j",
+  "hot_num": 11737,
+  "hit_num": 414831,
+  "uid": 100208549,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9624,
+      "tag_name": "逍遥公子"
+    }
+  ],
+  "subscribe_num": 83,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42148,
+          "chapter_title": "白公馆日常",
+          "updatetime": 1434607120,
+          "filesize": 1034972,
+          "chapter_order": 2
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 460089,
+        "uid": 100319528,
+        "content": "好萌!",
+        "createtime": 1440405635,
+        "nickname": "Op_Atun_bi",
+        "avatar": "https://avatar.dmzj.com/6a/ad/6aad5e3a74de69f939c55f18d31562ff.png"
+      },
+      {
+        "comment_id": 437872,
+        "uid": 100272338,
+        "content": "噗，画的很可爱呢！",
+        "createtime": 1437921468,
+        "nickname": "书荒漫荒中",
+        "avatar": "https://avatar.dmzj.com/99/66/99669b3aafed8a45c08779fe29be9811.png"
+      }
+    ]
+  }
+}

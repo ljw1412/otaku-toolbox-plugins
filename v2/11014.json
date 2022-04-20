@@ -1,0 +1,75 @@
+{
+  "id": 11014,
+  "islong": 2,
+  "direction": 2,
+  "title": "加菲猫的幸福生活",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/jiafeimaodexingfushenghuo.jpg",
+  "description": "加菲猫的幸福生活。",
+  "last_updatetime": 1366615488,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jiafeimaodexingfushenghuo",
+  "hidden": 0,
+  "hot_num": 43495,
+  "hit_num": 110384,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21478,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5830,
+      "tag_name": "Jim Davis"
+    }
+  ],
+  "subscribe_num": 159,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21478,
+          "chapter_title": "1卷",
+          "updatetime": 1366615488,
+          "filesize": 668230,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 29326281,
+        "uid": 110639943,
+        "content": "我老了 开始看这个聊",
+        "createtime": 1596078201,
+        "nickname": "webhead",
+        "avatar": "https://avatar.dmzj.com/49/54/495421a5de99c1faca006b820a0049bf.png"
+      },
+      {
+        "comment_id": 29186174,
+        "uid": 108767308,
+        "content": "哈哈哈",
+        "createtime": 1595575156,
+        "nickname": "X23",
+        "avatar": "https://avatar.dmzj.com/55/95/559559d206e607d8b745d26bc459c177.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

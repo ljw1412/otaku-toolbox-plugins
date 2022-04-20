@@ -1,0 +1,69 @@
+{
+  "id": 17039,
+  "islong": 2,
+  "direction": 1,
+  "title": "Wild Wing",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/wildwingfengmianl.jpg",
+  "description": "“外面的世界”里生活着怪物们。高塔中的少女意外来到了\"外面的世界\"。在这里… 《图书馆战争》漫画版作者弓きいろ带来的又一作品！",
+  "last_updatetime": 1423456079,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 11018,
+  "hit_num": 274404,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5862,
+      "tag_name": "弓きいろ"
+    }
+  ],
+  "subscribe_num": 92,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34426,
+          "chapter_title": "1话",
+          "updatetime": 1423456079,
+          "filesize": 9190551,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 349845,
+        "uid": 18631483,
+        "content": "一共三话 后两话还是进行时w",
+        "createtime": 1423532575,
+        "nickname": "堂上郁",
+        "avatar": "https://avatar.dmzj.com/0c/c6/0cc6f512163d5b4f87fa8c99d69f18fa.png"
+      },
+      {
+        "comment_id": 349535,
+        "uid": 100048417,
+        "content": "/糗大了",
+        "createtime": 1423460034,
+        "nickname": "エネ",
+        "avatar": "https://avatar.dmzj.com/76/97/7697dd03f1d41a2814eaa41469936b46.png"
+      }
+    ]
+  }
+}

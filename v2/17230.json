@@ -1,0 +1,73 @@
+{
+  "id": 17230,
+  "islong": 2,
+  "direction": 1,
+  "title": "映山红",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/ysh5636l.jpg",
+  "description": "第一次和人许下的约定...",
+  "last_updatetime": 1425099722,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 17786,
+  "hit_num": 96082,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8611,
+      "tag_name": "unknown."
+    }
+  ],
+  "subscribe_num": 83,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38536,
+          "chapter_title": "1话",
+          "updatetime": 1425099722,
+          "filesize": 2726098,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 11174413,
+        "uid": 104985527,
+        "content": "竟然能偶遇星空学园同人，感动",
+        "createtime": 1549789171,
+        "nickname": "电气少年",
+        "avatar": "https://avatar.dmzj.com/17/04/170459fa86c7bea31141faac6ce5a991.png"
+      },
+      {
+        "comment_id": 10022924,
+        "uid": 25675006,
+        "content": "星空学园同人本，说话广播剧小狗是能登哦",
+        "createtime": 1547355090,
+        "nickname": "青旗沽酒趁梨花。",
+        "avatar": "https://avatar.dmzj.com/90/83/90837b4d7d6e4ef73b58552216879e9d.png"
+      }
+    ]
+  }
+}

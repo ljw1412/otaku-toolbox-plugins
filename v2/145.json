@@ -1,0 +1,94 @@
+{
+  "id": 145,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔法使的条件",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/mfsdtj.jpg",
+  "description": "這是存在於現代的「魔法使」的故事。\n18歲的少女．菊池夢為成為國公務員的魔法使，向嚴厲的研修挑戰。\n為的是在尚未忘記夢想的你內心深處，開出一朵迎向未來的「希望之花」……\n",
+  "last_updatetime": 1336359191,
+  "last_update_chapter_name": "第02卷完",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mfsdtj",
+  "hidden": 0,
+  "hot_num": 425612,
+  "hit_num": 2023543,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 1561,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 4459,
+      "tag_name": "高清单行"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 399,
+      "tag_name": "山田典枝"
+    },
+    {
+      "tag_id": 3781,
+      "tag_name": "よしづきくみち"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2181,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 1561,
+          "chapter_title": "2卷",
+          "updatetime": 1336359191,
+          "filesize": 12487032,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 230,
+          "chapter_title": "1卷",
+          "updatetime": 1336359188,
+          "filesize": 12107464,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 44,
+    "latest_comment": [
+      {
+        "comment_id": 29704688,
+        "uid": 100647094,
+        "content": "有两季动画",
+        "createtime": 1597505656,
+        "nickname": "Lady Lex",
+        "avatar": "https://avatar.dmzj.com/ee/79/ee79c84e1c54f92626ae4041b4b3ae99.png"
+      },
+      {
+        "comment_id": 29179403,
+        "uid": 111015965,
+        "content": "add water ",
+        "createtime": 1595531171,
+        "nickname": "dmzj_111015965",
+        "avatar": "https://avatar.dmzj.com/02/a4/02a43f3877c8458e4210e86514769509.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

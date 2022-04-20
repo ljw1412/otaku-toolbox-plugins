@@ -1,0 +1,79 @@
+{
+  "id": 19132,
+  "islong": 2,
+  "direction": 2,
+  "title": "仓鼠公主",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1002003731434040043.jpg",
+  "description": "这是一个各种毁童话但又美好的爱情故事......",
+  "last_updatetime": 1434040195,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 65454,
+  "hit_num": 1499244,
+  "uid": 100200373,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9551,
+      "tag_name": "真攸"
+    },
+    {
+      "tag_id": 9555,
+      "tag_name": "伊凯"
+    }
+  ],
+  "subscribe_num": 576,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41975,
+          "chapter_title": " 短篇",
+          "updatetime": 1434040195,
+          "filesize": 1648361,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 41,
+    "latest_comment": [
+      {
+        "comment_id": 29429418,
+        "uid": 101405172,
+        "content": "留",
+        "createtime": 1596458224,
+        "nickname": "bdrcu",
+        "avatar": "https://avatar.dmzj.com/02/bd/02bd28bc2411e16d0a3f4a0109630bdc.png"
+      },
+      {
+        "comment_id": 18560188,
+        "uid": 107643658,
+        "content": "这个是在漫客上刊登过的短篇，话说回想起来曾经的漫客有好多优秀的短篇作品",
+        "createtime": 1563877164,
+        "nickname": "塞顿·Alter",
+        "avatar": "https://avatar.dmzj.com/53/82/538223debf41474a51dc991d3cea20a7.png"
+      }
+    ]
+  }
+}

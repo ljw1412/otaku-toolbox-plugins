@@ -1,0 +1,96 @@
+{
+  "id": 18178,
+  "islong": 1,
+  "direction": 2,
+  "title": "饭桶大饭店",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1001231351429066985.jpg",
+  "description": "吃货毛豆的搞笑日常，每日连发，爆笑全场。\n",
+  "last_updatetime": 1429753377,
+  "copyright": 1,
+  "first_letter": "f",
+  "hot_num": 2090,
+  "hit_num": 2872,
+  "uid": 100123135,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9071,
+      "tag_name": "张不惠"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36389,
+          "chapter_title": "4话",
+          "updatetime": 1429753377,
+          "filesize": 79152,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 36388,
+          "chapter_title": "3话",
+          "updatetime": 1429715777,
+          "filesize": 73695,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 36158,
+          "chapter_title": "2话",
+          "updatetime": 1429170280,
+          "filesize": 69199,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 36144,
+          "chapter_title": "1话",
+          "updatetime": 1429151789,
+          "filesize": 74991,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 964415,
+        "uid": 101611115,
+        "content": "没意思。",
+        "createtime": 1467370686,
+        "nickname": "samdoou",
+        "avatar": "https://avatar.dmzj.com/35/c1/35c1be71e451ff9b43b3b0059d473568.png"
+      },
+      {
+        "comment_id": 964413,
+        "uid": 101611115,
+        "content": "光是吃。",
+        "createtime": 1467370669,
+        "nickname": "samdoou",
+        "avatar": "https://avatar.dmzj.com/35/c1/35c1be71e451ff9b43b3b0059d473568.png"
+      }
+    ]
+  }
+}

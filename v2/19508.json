@@ -1,0 +1,75 @@
+{
+  "id": 19508,
+  "islong": 2,
+  "direction": 2,
+  "title": "球",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1002241621435652092.jpg",
+  "description": "恐怖的球",
+  "last_updatetime": 1435652121,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 4433,
+  "hit_num": 40754,
+  "uid": 100224162,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9749,
+      "tag_name": "绝魔精灵"
+    }
+  ],
+  "subscribe_num": 24,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38526,
+          "chapter_title": "1话",
+          "updatetime": 1435652121,
+          "filesize": 605095,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 6343526,
+        "uid": 106114791,
+        "content": "伊藤老爷的画风",
+        "createtime": 1534594270,
+        "nickname": "Cerbero",
+        "avatar": "https://avatar.dmzj.com/54/95/5495859f3060f09cb358f5867379e52e.png"
+      },
+      {
+        "comment_id": 450825,
+        "uid": 100220812,
+        "content": "不画了吗？我觉得挺棒的！加油",
+        "createtime": 1439352115,
+        "nickname": "鲤鱼大王",
+        "avatar": "https://avatar.dmzj.com/97/f0/97f094982056dbe125c20237f8141087.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 12456,
+  "islong": 2,
+  "direction": 1,
+  "title": "怪谈",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/guaitangaoqiao.jpg",
+  "description": "一段一段灵异故事，浓厚的传统画风，极其优美而深远。",
+  "last_updatetime": 1376540918,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 78288,
+  "hit_num": 4453880,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 6219,
+      "tag_name": "节操"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1183,
+      "tag_name": "高桥叶介"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 367,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23445,
+          "chapter_title": "1卷",
+          "updatetime": 1376540918,
+          "filesize": 18560006,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 87,
+    "latest_comment": [
+      {
+        "comment_id": 30071055,
+        "uid": 107889998,
+        "content": "6了6了",
+        "createtime": 1598893165,
+        "nickname": "dmzj_107889998",
+        "avatar": "https://avatar.dmzj.com/a0/fc/a0fc1100a79aafd00222aaa1f33490f3.png"
+      },
+      {
+        "comment_id": 30065171,
+        "uid": 103468839,
+        "content": "挖宝挖宝，争取做到高桥叶介全收集|ω・）",
+        "createtime": 1598879986,
+        "nickname": "汤圆能做成派吗",
+        "avatar": "https://avatar.dmzj.com/0c/b8/0cb856e0d808354393e7d8ff55f7f910.png"
+      }
+    ]
+  }
+}

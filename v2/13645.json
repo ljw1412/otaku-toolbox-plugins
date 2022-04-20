@@ -1,0 +1,77 @@
+{
+  "id": 13645,
+  "islong": 2,
+  "direction": 1,
+  "title": "M，comicer百万漫画家",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/mcomicerbwmhj.jpg",
+  "description": "出过一本单行本后就苦无连载机会的不红的漫画家广树，某天在超红漫画家坂本的邀约下，住进了坂本的豪宅里当起一名助手 !!然而周遭的人全是大怪胎，广树不仅被耍得团团转，还有出柜危机等着他 !?妙语如珠的爆笑四格漫画，错过可惜喔！",
+  "last_updatetime": 1388678377,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 15217,
+  "hit_num": 294581,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6740,
+      "tag_name": "水原けんた"
+    }
+  ],
+  "subscribe_num": 75,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27180,
+          "chapter_title": "1卷",
+          "updatetime": 1388678377,
+          "filesize": 21782192,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 190952,
+        "uid": 25571427,
+        "content": "没人看。",
+        "createtime": 1388731877,
+        "nickname": "ayw ht",
+        "avatar": "https://avatar.dmzj.com/0a/a7/0aa77088ec695dc884cc1a0c8220b81e.png"
+      },
+      {
+        "comment_id": 190946,
+        "uid": 12952813,
+        "content": "沙发。。。",
+        "createtime": 1388729119,
+        "nickname": "sasukeking",
+        "avatar": "https://avatar.dmzj.com/d2/fa/d2fa21bbab5809a1866d2a342b380680.png"
+      }
+    ]
+  }
+}

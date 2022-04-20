@@ -1,0 +1,71 @@
+{
+  "id": 16457,
+  "islong": 2,
+  "direction": 2,
+  "title": "乌冬面",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/1219wudongmianfm.jpg",
+  "description": "二十年后，一碗乌冬面的故事。",
+  "last_updatetime": 1418985137,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 14265,
+  "hit_num": 118887,
+  "uid": 100099714,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8262,
+      "tag_name": "鲜漫动漫"
+    }
+  ],
+  "subscribe_num": 63,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36303,
+          "chapter_title": "1话",
+          "updatetime": 1418985137,
+          "filesize": 775433,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1606364,
+        "uid": 102052156,
+        "content": "嗯，很甜",
+        "createtime": 1482903953,
+        "nickname": "菠萝味千拉面",
+        "avatar": "https://avatar.dmzj.com/94/59/9459b5be043b0fd375c304044c656a16.png"
+      },
+      {
+        "comment_id": 1223536,
+        "uid": 102005219,
+        "content": "看不懂啊！/晕",
+        "createtime": 1472370987,
+        "nickname": "清之春",
+        "avatar": "https://avatar.dmzj.com/21/98/219813b32f6c563541e1abab7d6869e4.png"
+      }
+    ]
+  }
+}

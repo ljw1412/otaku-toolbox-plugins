@@ -1,0 +1,79 @@
+{
+  "id": 18332,
+  "islong": 2,
+  "direction": 2,
+  "title": "EVIL力量",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1001339251429858270.jpg",
+  "description": "男主角做梦成真，意外获得力量？！ ",
+  "last_updatetime": 1429867879,
+  "copyright": 1,
+  "first_letter": "e",
+  "hot_num": 1116,
+  "hit_num": 10061,
+  "uid": 100133925,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9139,
+      "tag_name": "D麦"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40569,
+          "chapter_title": "4话",
+          "updatetime": 1429867879,
+          "filesize": 220333,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 40568,
+          "chapter_title": "3话",
+          "updatetime": 1429858700,
+          "filesize": 285158,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 40567,
+          "chapter_title": "2话",
+          "updatetime": 1429858673,
+          "filesize": 202762,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40566,
+          "chapter_title": "1话",
+          "updatetime": 1429858649,
+          "filesize": 219918,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

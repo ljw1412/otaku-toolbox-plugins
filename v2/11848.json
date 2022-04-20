@@ -1,0 +1,76 @@
+{
+  "id": 11848,
+  "islong": 2,
+  "direction": 1,
+  "title": "京都鹿子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/jingduluzi1.jpg",
+  "description": "京都的和风菓子物语",
+  "last_updatetime": 1385223983,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 84382,
+  "hit_num": 626746,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 116,
+      "tag_name": "中路有纪"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "subscribe_num": 547,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25255,
+          "chapter_title": "短篇02",
+          "updatetime": 1385223983,
+          "filesize": 5973847,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22766,
+          "chapter_title": "短篇01",
+          "updatetime": 1372128020,
+          "filesize": 6313117,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 29323788,
+        "uid": 100523178,
+        "content": "啊 果然是没有完",
+        "createtime": 1596066897,
+        "nickname": "人间春日",
+        "avatar": "https://avatar.dmzj.com/50/95/509531d74b007cecd11bb19d8f56848d.png"
+      },
+      {
+        "comment_id": 10772235,
+        "uid": 21454495,
+        "content": "這個作品已經連載，台灣東立單行本已經出到第二册，兩人感情發展順利，第8話後面已經牽手，喜歡的買實體書好了。",
+        "createtime": 1548979664,
+        "nickname": "jaxtama",
+        "avatar": "https://avatar.dmzj.com/fa/6e/fa6eecadc20da361bccc326c809d802f.png"
+      }
+    ]
+  }
+}

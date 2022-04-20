@@ -1,0 +1,69 @@
+{
+  "id": 13859,
+  "islong": 2,
+  "direction": 1,
+  "title": "公园",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/gongyuan.jpg",
+  "description": "大友克洋的特别短篇，三个不良少年在公园遇见三个老头……",
+  "last_updatetime": 1390905142,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 225068,
+  "hit_num": 190832,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 547,
+      "tag_name": "大友克洋"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1161,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26338,
+          "chapter_title": "1话",
+          "updatetime": 1390905142,
+          "filesize": 2887520,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 29106099,
+        "uid": 110785613,
+        "content": "有点莫名其妙啊",
+        "createtime": 1595268593,
+        "nickname": "超高校级的希望垫脚石",
+        "avatar": "https://avatar.dmzj.com/30/07/3007c56f8fdd494ae3fd2207425b4102.png"
+      },
+      {
+        "comment_id": 28443891,
+        "uid": 108014960,
+        "content": "阿基拉被B站买了",
+        "createtime": 1593141643,
+        "nickname": "陶伟",
+        "avatar": "https://avatar.dmzj.com/fe/6a/fe6a2b0c5d0c07831fd963654f590270.png"
+      }
+    ]
+  }
+}

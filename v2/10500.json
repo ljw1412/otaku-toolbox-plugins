@@ -1,0 +1,76 @@
+{
+  "id": 10500,
+  "islong": 2,
+  "direction": 1,
+  "title": "AD物语",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/adwuyu.jpg",
+  "description": "超级文案田中广志因化妆品广告模特儿丑闻事件，引起轩然大波。为保护事件的主角永野惠美子及其姐姐淳子，够义气的田中于是独揽过失，离开超级大型代理商──博通广告，自组工作室。面对仅二名员工的劣势，田中该如何在流行最前线的东京广告界脱颖而出呢。",
+  "last_updatetime": 1368600666,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 7237,
+  "hit_num": 468094,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 937,
+      "tag_name": "国友泰士"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 21,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23055,
+          "chapter_title": "2卷",
+          "updatetime": 1368600666,
+          "filesize": 27377410,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 21918,
+          "chapter_title": "1卷",
+          "updatetime": 1362035453,
+          "filesize": 27741738,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 26857949,
+        "uid": 101753563,
+        "content": "可以呀。",
+        "createtime": 1587897103,
+        "nickname": "云中超人",
+        "avatar": "https://avatar.dmzj.com/92/02/9202c7a2886ae7640a340e2195198565.png"
+      },
+      {
+        "comment_id": 201419,
+        "uid": 25103042,
+        "content": "AD物语",
+        "createtime": 1391315508,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  }
+}

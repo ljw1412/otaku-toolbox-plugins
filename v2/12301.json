@@ -1,0 +1,75 @@
+{
+  "id": 12301,
+  "islong": 2,
+  "direction": 1,
+  "title": "LOVE STRIKE",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/lovestrike.jpg",
+  "description": "强袭魔女同人本。",
+  "last_updatetime": 1375350636,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lovestrike",
+  "hidden": 0,
+  "hot_num": 42967,
+  "hit_num": 303790,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23180,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6418,
+      "tag_name": "上月るぅ"
+    }
+  ],
+  "subscribe_num": 220,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23180,
+          "chapter_title": "1话",
+          "updatetime": 1375350636,
+          "filesize": 4774891,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 18169509,
+        "uid": 102056222,
+        "content": "我要后续啊(ಥ_ಥ)",
+        "createtime": 1563022080,
+        "nickname": "某宅男",
+        "avatar": "https://avatar.dmzj.com/46/32/46321b59611b44e46ae0b75f6e3801a0.png"
+      },
+      {
+        "comment_id": 15565298,
+        "uid": 103521589,
+        "content": "好多魔女漫画啊",
+        "createtime": 1557321040,
+        "nickname": "维克特利",
+        "avatar": "https://avatar.dmzj.com/25/f5/25f5ed4a865d34208b31542697e946e9.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,69 @@
+{
+  "id": 11844,
+  "islong": 2,
+  "direction": 1,
+  "title": "北斗哥传奇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/beidougechuanqi.jpg",
+  "description": "拯救世界的普通人。",
+  "last_updatetime": 1372087058,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 4237,
+  "hit_num": 21097,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6215,
+      "tag_name": "龙比迪"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22576,
+          "chapter_title": "一个剧本",
+          "updatetime": 1372087058,
+          "filesize": 539270,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 327506,
+        "uid": 24982564,
+        "content": "幸好只有8页/a吐血",
+        "createtime": 1418020651,
+        "nickname": "此ID一经发现立即封禁",
+        "avatar": "https://avatar.dmzj.com/fc/01/fc018e503b039acbbaf7edb51b2e7bd1.png"
+      },
+      {
+        "comment_id": 130401,
+        "uid": 19717557,
+        "content": "晕......",
+        "createtime": 1372129001,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  }
+}

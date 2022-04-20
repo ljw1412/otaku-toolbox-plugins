@@ -1,0 +1,69 @@
+{
+  "id": 14740,
+  "islong": 2,
+  "direction": 2,
+  "title": "密西西比河",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/M080001mxxbh.jpg",
+  "description": "密西西比河流域一段奇妙的冒险故事......",
+  "last_updatetime": 1402480474,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 193425,
+  "hit_num": 195793,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 904,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29667,
+          "chapter_title": "1卷",
+          "updatetime": 1402480474,
+          "filesize": 11360542,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 24402632,
+        "uid": 108249900,
+        "content": "111",
+        "createtime": 1582338581,
+        "nickname": "dmzj_108249900",
+        "avatar": "https://avatar.dmzj.com/99/70/9970a149a82544f76b099283ac3bb6fa.png"
+      },
+      {
+        "comment_id": 14563019,
+        "uid": 100769638,
+        "content": "。。。",
+        "createtime": 1555669375,
+        "nickname": "筱玟",
+        "avatar": "https://avatar.dmzj.com/44/79/44795fc931bc6244b1e3e902e420c579.png"
+      }
+    ]
+  }
+}

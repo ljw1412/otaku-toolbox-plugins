@@ -1,0 +1,63 @@
+{
+  "id": 18605,
+  "islong": 2,
+  "direction": 2,
+  "title": "钓鱼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0511diaoyul.jpg",
+  "description": "ZXX短篇作品",
+  "last_updatetime": 1431311783,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 1009,
+  "hit_num": 4584,
+  "uid": 100153602,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9269,
+      "tag_name": "ZXX"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40962,
+          "chapter_title": "1话",
+          "updatetime": 1431311783,
+          "filesize": 363376,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 392715,
+        "uid": 26125430,
+        "content": "嗯。。毕业作品？",
+        "createtime": 1431350118,
+        "nickname": "潘十安",
+        "avatar": "https://avatar.dmzj.com/f6/fb/f6fb4bb4354c24d0a62af2c8a4000e1a.png"
+      }
+    ]
+  }
+}

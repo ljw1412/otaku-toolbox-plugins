@@ -1,0 +1,75 @@
+{
+  "id": 13987,
+  "islong": 2,
+  "direction": 1,
+  "title": "被盯上的保险柜",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/beidingshangdebaoxiangui.jpg",
+  "description": "星新一原作的小说，石黑正数作画的短篇故事。",
+  "last_updatetime": 1392619644,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "beidingshangdebaoxiangui",
+  "hidden": 0,
+  "hot_num": 543078,
+  "hit_num": 155006,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 28879,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1169,
+      "tag_name": "石黑正数"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 3151,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 28879,
+          "chapter_title": "1话",
+          "updatetime": 1392619644,
+          "filesize": 1641417,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 28400231,
+        "uid": 106040673,
+        "content": "这装置还挺管用，但会不会时不时多几具尸体啊",
+        "createtime": 1592996281,
+        "nickname": "妖术师左元放",
+        "avatar": "https://avatar.dmzj.com/fe/4d/fe4dc7588522ba90010eb5283f268a0f.png"
+      },
+      {
+        "comment_id": 27326494,
+        "uid": 101199874,
+        "content": "感觉星新一惯用的故事结构已经很明显了",
+        "createtime": 1589291700,
+        "nickname": "无铜胆矾",
+        "avatar": "https://avatar.dmzj.com/98/89/9889f07e808bf22662448a28625b8ed2.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

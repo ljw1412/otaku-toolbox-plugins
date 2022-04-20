@@ -1,0 +1,73 @@
+{
+  "id": 10836,
+  "islong": 2,
+  "direction": 1,
+  "title": "For you",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/foryou.jpg",
+  "description": "火乃香的日常...",
+  "last_updatetime": 1364998879,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 122680,
+  "hit_num": 429258,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5763,
+      "tag_name": "石堂くるみ"
+    }
+  ],
+  "subscribe_num": 626,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20866,
+          "chapter_title": "1话",
+          "updatetime": 1364998879,
+          "filesize": 1729646,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 17700696,
+        "uid": 101937434,
+        "content": "好萌的一对",
+        "createtime": 1561976132,
+        "nickname": "卍魑魅魍魉卍",
+        "avatar": "https://avatar.dmzj.com/e6/6e/e66e7ffdc1a1528c81784f84278c2d00.png"
+      },
+      {
+        "comment_id": 13262144,
+        "uid": 83153,
+        "content": "存着",
+        "createtime": 1553348572,
+        "nickname": "白20076",
+        "avatar": "https://avatar.dmzj.com/99/c2/99c284d78df935545f5323960f9c07c9.png"
+      }
+    ]
+  }
+}

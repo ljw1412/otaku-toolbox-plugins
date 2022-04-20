@@ -1,0 +1,95 @@
+{
+  "id": 9858,
+  "islong": 2,
+  "direction": 1,
+  "title": "萌系少女漫画家",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/mengximanhuajia.jpg",
+  "description": "姬咲桃华－１６岁，是个内向又非常喜欢少女漫画的女高中生。明明想画的是少女漫画，却因为发生了偶然的意外而开始画起了萌系漫画。咦咦…！？萌是什麽东西啊？？我搞不懂啦！而桃华所暗恋的同班同学五十岚臣又有著什麽样的秘密？不管是谈恋爱、钻研漫画还是追寻萌！一切都没有捷径，只能不断地摸索的迷航物语…现在开幕！",
+  "last_updatetime": 1354871643,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mengximanhuajia",
+  "hidden": 0,
+  "hot_num": 114203,
+  "hit_num": 2538530,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 19945,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5241,
+      "tag_name": "风华チルヲ"
+    }
+  ],
+  "subscribe_num": 697,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19945,
+          "chapter_title": "1卷",
+          "updatetime": 1354871643,
+          "filesize": 22529066,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 23140387,
+        "uid": 104476479,
+        "content": "新的一年，新的扫墓",
+        "createtime": 1578428899,
+        "nickname": "-Raven-",
+        "avatar": "https://avatar.dmzj.com/a1/e7/a1e7e6b8a49beec60cb8db448bf09dc2.png"
+      },
+      {
+        "comment_id": 22034635,
+        "uid": 102401078,
+        "content": "行吧",
+        "createtime": 1573391307,
+        "nickname": "抓猫的鱼",
+        "avatar": "https://avatar.dmzj.com/0c/12/0c12a77a1282ebbf990d482983bc2b9a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

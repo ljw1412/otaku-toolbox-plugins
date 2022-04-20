@@ -1,0 +1,79 @@
+{
+  "id": 15015,
+  "islong": 1,
+  "direction": 2,
+  "title": "我们的家",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/womendejia.jpg",
+  "description": "完美的他向我求婚了，我以为我是这世上最幸福的人了，但是为什么母亲会不同意呢？为了和他在一起，我们瞒着所有人搬到了一个没人认识的地方，但是为何？奇怪的事情却一直发生在周围？\n",
+  "last_updatetime": 1405527998,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "womendejia",
+  "hidden": 0,
+  "hot_num": 33730,
+  "hit_num": 357715,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 30255,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7533,
+      "tag_name": "谢雨"
+    }
+  ],
+  "subscribe_num": 93,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30255,
+          "chapter_title": "1话",
+          "updatetime": 1405527998,
+          "filesize": 3834311,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 22533216,
+        "uid": 106443117,
+        "content": "无聊",
+        "createtime": 1575882136,
+        "nickname": "光明正大的绅士",
+        "avatar": "https://avatar.dmzj.com/95/32/9532fddcaa6738f09d87d31ee199c591.png"
+      },
+      {
+        "comment_id": 17304216,
+        "uid": 109300533,
+        "content": "声音来了两次？母亲也怎么了吗",
+        "createtime": 1560944675,
+        "nickname": "dmzj_109300533",
+        "avatar": "https://avatar.dmzj.com/67/43/6743e62a428664402a1823a74e213668.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,63 @@
+{
+  "id": 17411,
+  "islong": 2,
+  "direction": 2,
+  "title": "聊斋系列之庚娘",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/liaozai.jpg",
+  "description": "北宋末年，金兵南下，庚娘一家南迁逃难……",
+  "last_updatetime": 1426140943,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 4556,
+  "hit_num": 56996,
+  "uid": 100085211,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8670,
+      "tag_name": "纸间欢颜"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36538,
+          "chapter_title": "1话",
+          "updatetime": 1426140943,
+          "filesize": 1439081,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 18977866,
+        "uid": 108086591,
+        "content": "个还好吧。",
+        "createtime": 1564843989,
+        "nickname": "dmzj_108086591",
+        "avatar": "https://avatar.dmzj.com/c4/3d/c43d66d4e548e8fb5ee12749962da63f.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 13960,
+  "islong": 2,
+  "direction": 1,
+  "title": "孤独的百合饭",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/gudubaihefan.jpg",
+  "description": "一个百合妹子刚被甩了一个人吃饭",
+  "last_updatetime": 1590250373,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 273301,
+  "hit_num": 118417,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19301,
+      "tag_name": "ありこんとらっぷ"
+    }
+  ],
+  "subscribe_num": 1213,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102724,
+          "chapter_title": "2话",
+          "updatetime": 1590250373,
+          "filesize": 1488398,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 27869,
+          "chapter_title": "1话",
+          "updatetime": 1392316810,
+          "filesize": 831636,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 57,
+    "latest_comment": [
+      {
+        "comment_id": 29587945,
+        "uid": 101634893,
+        "content": "爆裂吧，现实！粉碎吧，精神！放逐这个世界！",
+        "createtime": 1597035922,
+        "nickname": "追番姬",
+        "avatar": "https://avatar.dmzj.com/53/15/5315e7d478b67063afc8c720fa2654fb.png"
+      },
+      {
+        "comment_id": 28029524,
+        "uid": 108265507,
+        "content": "有点井之头五郎的感觉",
+        "createtime": 1591641809,
+        "nickname": "山百川秀香",
+        "avatar": "https://avatar.dmzj.com/94/87/9487b27f1b9e8c4b02d015787fc95e47.png"
+      }
+    ]
+  }
+}

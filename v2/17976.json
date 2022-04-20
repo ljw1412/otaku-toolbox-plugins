@@ -1,0 +1,112 @@
+{
+  "id": 17976,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方三月精第一部",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/dfsyj5653l.jpg",
+  "description": "东方官方漫画,东方三月精第一部。",
+  "last_updatetime": 1428502027,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 2237492,
+  "hit_num": 376418,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 1879,
+      "tag_name": "ZUN"
+    },
+    {
+      "tag_id": 8971,
+      "tag_name": "松仓ねむ"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "subscribe_num": 11191,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37511,
+          "chapter_title": "5话",
+          "updatetime": 1428502027,
+          "filesize": 1688085,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 37510,
+          "chapter_title": "4话",
+          "updatetime": 1428502020,
+          "filesize": 1586477,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 37509,
+          "chapter_title": "3话",
+          "updatetime": 1428502014,
+          "filesize": 1916908,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 37508,
+          "chapter_title": "2话",
+          "updatetime": 1428502006,
+          "filesize": 3130406,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 37399,
+          "chapter_title": "1话",
+          "updatetime": 1428318327,
+          "filesize": 2034217,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 37398,
+          "chapter_title": "0话",
+          "updatetime": 1428318319,
+          "filesize": 1132605,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 90,
+    "latest_comment": [
+      {
+        "comment_id": 29512331,
+        "uid": 105080381,
+        "content": "三女儿真可爱",
+        "createtime": 1596732892,
+        "nickname": "爱落梨的怪蜀书",
+        "avatar": "https://avatar.dmzj.com/10/09/1009cade4a5666fade4e9505f194c642.png"
+      },
+      {
+        "comment_id": 28091693,
+        "uid": 105899448,
+        "content": "我永远喜欢三月精.jpg",
+        "createtime": 1591887933,
+        "nickname": "dmzj_105899448",
+        "avatar": "https://avatar.dmzj.com/93/97/9397475f084bbe0ff98479fff07def47.png"
+      }
+    ]
+  }
+}

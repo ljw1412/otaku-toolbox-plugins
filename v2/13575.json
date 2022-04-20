@@ -1,0 +1,73 @@
+{
+  "id": 13575,
+  "islong": 2,
+  "direction": 1,
+  "title": "对决",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/duijuel.jpg",
+  "description": "剑术不是简单事情，我们要严肃的爆衣！",
+  "last_updatetime": 1388158085,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 288403,
+  "hit_num": 2329411,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6967,
+      "tag_name": "蓝井彬"
+    }
+  ],
+  "subscribe_num": 1272,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27048,
+          "chapter_title": "1话",
+          "updatetime": 1388158085,
+          "filesize": 9761075,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 82,
+    "latest_comment": [
+      {
+        "comment_id": 25076865,
+        "uid": 107850077,
+        "content": "剑技",
+        "createtime": 1583766607,
+        "nickname": "Npc村民",
+        "avatar": "https://avatar.dmzj.com/00/22/0022f80fd5023b135ede1857660b2347.png"
+      },
+      {
+        "comment_id": 24966743,
+        "uid": 110497745,
+        "content": "只有一话吗？好吧有就行",
+        "createtime": 1583516653,
+        "nickname": "西国夏暮",
+        "avatar": "https://avatar.dmzj.com/ec/28/ec28387cb0bc8991a3132d8540c8c48d.png"
+      }
+    ]
+  }
+}

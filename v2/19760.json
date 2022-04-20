@@ -1,0 +1,75 @@
+{
+  "id": 19760,
+  "islong": 2,
+  "direction": 2,
+  "title": "恋·淡淡柠檬香",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1002459941436781665.jpg",
+  "description": "青春就是一起……淡淡的柠檬香~",
+  "last_updatetime": 1436781696,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 17069,
+  "hit_num": 129694,
+  "uid": 100245994,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9892,
+      "tag_name": "草莓点心"
+    }
+  ],
+  "subscribe_num": 199,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42946,
+          "chapter_title": "1话",
+          "updatetime": 1436781696,
+          "filesize": 577905,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 1145549,
+        "uid": 101806257,
+        "content": "什么鬼啊，海报吗😡",
+        "createtime": 1470901406,
+        "nickname": "银灵85431",
+        "avatar": "https://avatar.dmzj.com/e2/50/e2507d77dba2110b57a0b3035aa57f49.png"
+      },
+      {
+        "comment_id": 487270,
+        "uid": 100263271,
+        "content": "画面感不错",
+        "createtime": 1444226036,
+        "nickname": "阳光丶自由",
+        "avatar": "https://avatar.dmzj.com/97/58/9758d13c37ab9a9738f981ba34a69201.png"
+      }
+    ]
+  }
+}

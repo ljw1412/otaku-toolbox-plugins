@@ -1,0 +1,72 @@
+{
+  "id": 17893,
+  "islong": 2,
+  "direction": 2,
+  "title": "Q奇学院（单元剧）",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1001074111427965842.jpg",
+  "description": "搞笑校园生活~\n本人最新连载的《噼里啪啦》正在《壹周漫画》火热连载哟！请大家多多支持~",
+  "last_updatetime": 1427971631,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 1145,
+  "hit_num": 13375,
+  "uid": 100107411,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8940,
+      "tag_name": "亭子"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35719,
+          "chapter_title": "3话",
+          "updatetime": 1427971631,
+          "filesize": 983251,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 35720,
+          "chapter_title": "2话",
+          "updatetime": 1427965955,
+          "filesize": 907658,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 35721,
+          "chapter_title": "1话",
+          "updatetime": 1427965930,
+          "filesize": 1045442,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

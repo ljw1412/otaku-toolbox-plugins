@@ -1,0 +1,97 @@
+{
+  "id": 18941,
+  "islong": 2,
+  "direction": 1,
+  "title": "樱色三角",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/yingsesanjiao65l.jpg",
+  "description": "不是吧？ 我，爱上了……一个女孩……?",
+  "last_updatetime": 1433068854,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yingsesanjiao",
+  "hidden": 0,
+  "hot_num": 48243,
+  "hit_num": 49452,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 39423,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9449,
+      "tag_name": "Muku-Coffe"
+    }
+  ],
+  "subscribe_num": 336,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39423,
+          "chapter_title": "3话",
+          "updatetime": 1433068854,
+          "filesize": 426507,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 39388,
+          "chapter_title": "2话",
+          "updatetime": 1432959645,
+          "filesize": 491878,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 39361,
+          "chapter_title": "1话",
+          "updatetime": 1432894825,
+          "filesize": 1299786,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 29494851,
+        "uid": 104911313,
+        "content": "留",
+        "createtime": 1596683673,
+        "nickname": "$$(๑• . •๑)$$46057",
+        "avatar": "https://avatar.dmzj.com/5f/6b/5f6bdbc9130a5e29006167eab204d067.png"
+      },
+      {
+        "comment_id": 24847917,
+        "uid": 108899052,
+        "content": "连评论都没用可还行",
+        "createtime": 1583296593,
+        "nickname": "五十铃梨花",
+        "avatar": "https://avatar.dmzj.com/90/09/900985981aaac88a053c231b9d4ca9de.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

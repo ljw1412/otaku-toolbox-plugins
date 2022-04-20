@@ -1,0 +1,75 @@
+{
+  "id": 1213,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔法天使",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/mfts.jpg",
+  "description": "红颜美少年,美游帝是个非常受欢迎的小学生。不过因为他对女生没兴趣,所以总是感到困扰。但是有一天,天使——费丝从天而降,事情大条啦！因为天使的证明,‘天使光环’和美游帝粘在一起,天使和恶魔接连出现,开始了混乱的日子……",
+  "last_updatetime": 1178197740,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mfts",
+  "hidden": 0,
+  "hot_num": 14267,
+  "hit_num": 460359,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 1648,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 219,
+      "tag_name": "和六里ハル"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 55,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 1648,
+          "chapter_title": "1卷",
+          "updatetime": 1178197740,
+          "filesize": 11379965,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 15853935,
+        "uid": 105785491,
+        "content": "没人看吗？听说作者是个胸比本子里还大的女画师",
+        "createtime": 1557760833,
+        "nickname": "雕栏玉砌",
+        "avatar": "https://avatar.dmzj.com/4e/34/4e34cd9e16a00c4f6fd01cbec90b8a9b.png"
+      },
+      {
+        "comment_id": 1803354,
+        "uid": 100677288,
+        "content": "错了，我才是第三",
+        "createtime": 1486999453,
+        "nickname": "Zaffiro",
+        "avatar": "https://avatar.dmzj.com/74/40/74400b16eb6834c40dde23e64caa708c.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

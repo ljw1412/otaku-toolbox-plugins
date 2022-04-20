@@ -1,0 +1,73 @@
+{
+  "id": 15606,
+  "islong": 2,
+  "direction": 1,
+  "title": "Halloween Night",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/20160524halloweennight.jpg",
+  "description": "机器人和人类一家万圣节的温馨(闪光弹)日常",
+  "last_updatetime": 1410925004,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 79687,
+  "hit_num": 135017,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4831,
+      "tag_name": "高畠エナガ"
+    }
+  ],
+  "subscribe_num": 406,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31756,
+          "chapter_title": "1话",
+          "updatetime": 1410925004,
+          "filesize": 2381438,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 28282099,
+        "uid": 110621784,
+        "content": "好可爱的孩子",
+        "createtime": 1592573560,
+        "nickname": "宛歌",
+        "avatar": "https://avatar.dmzj.com/2c/bf/2cbff0ae4771754d2c8b81e37b78ba75.png"
+      },
+      {
+        "comment_id": 28280282,
+        "uid": 102394717,
+        "content": "这个作者很喜欢机器人呢",
+        "createtime": 1592568338,
+        "nickname": "抽不到6星不改名",
+        "avatar": "https://avatar.dmzj.com/78/88/78886041a06b9ec4648082223de7abc1.png"
+      }
+    ]
+  }
+}

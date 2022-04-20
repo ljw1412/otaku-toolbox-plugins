@@ -1,0 +1,65 @@
+{
+  "id": 19153,
+  "islong": 1,
+  "direction": 2,
+  "title": "超麻烦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1001292291433410491.jpg",
+  "description": "某少年与逗比基友的校园日常\n来来来，超麻烦一三五更哦~~更多精彩在围脖：超麻烦college",
+  "last_updatetime": 1433409711,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 1770,
+  "hit_num": 2841,
+  "uid": 100217534,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9504,
+      "tag_name": "漫悠悠漫画社"
+    }
+  ],
+  "subscribe_num": 32,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38014,
+          "chapter_title": "2话",
+          "updatetime": 1433409711,
+          "filesize": 110620,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 38013,
+          "chapter_title": "1话",
+          "updatetime": 1433409676,
+          "filesize": 129556,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

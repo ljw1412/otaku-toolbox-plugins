@@ -1,0 +1,101 @@
+{
+  "id": 11920,
+  "islong": 2,
+  "direction": 1,
+  "title": "感伤的尘埃",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/ganshangdechenai.jpg",
+  "description": "两个好姬友的故事",
+  "last_updatetime": 1383409477,
+  "copyright": 3,
+  "first_letter": "g",
+  "hot_num": 84531,
+  "hit_num": 1679669,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6248,
+      "tag_name": "河合朗"
+    }
+  ],
+  "subscribe_num": 226,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26111,
+          "chapter_title": "后日谈",
+          "updatetime": 1383409477,
+          "filesize": 2733405,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 23962,
+          "chapter_title": "4话",
+          "updatetime": 1383409471,
+          "filesize": 4059318,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 23961,
+          "chapter_title": "3话",
+          "updatetime": 1383409463,
+          "filesize": 3936115,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 23960,
+          "chapter_title": "2话",
+          "updatetime": 1383409454,
+          "filesize": 4491272,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23959,
+          "chapter_title": "1话",
+          "updatetime": 1383409444,
+          "filesize": 3485983,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 87,
+    "latest_comment": [
+      {
+        "comment_id": 25631717,
+        "uid": 107728305,
+        "content": "在狐狸吧看到了这个帖子……",
+        "createtime": 1585040910,
+        "nickname": "天生我材2015",
+        "avatar": "https://avatar.dmzj.com/82/89/828963ac0b51747ddd09b6f6871b4382.png"
+      },
+      {
+        "comment_id": 25595763,
+        "uid": 105106386,
+        "content": "暖",
+        "createtime": 1584961075,
+        "nickname": "Khatru",
+        "avatar": "https://avatar.dmzj.com/b5/7e/b57e52c528ce82986bc4478ecda7108d.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 19269,
+  "islong": 1,
+  "direction": 2,
+  "title": "整容液",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/zhengrongye.jpg",
+  "description": "韩国猎奇漫画，病态的美学，两个变态的真爱。",
+  "last_updatetime": 1434685126,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 948440,
+  "hit_num": 10879933,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9638,
+      "tag_name": "글그림 오셩대（吴城垈）"
+    }
+  ],
+  "subscribe_num": 3311,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38235,
+          "chapter_title": "1话",
+          "updatetime": 1434685126,
+          "filesize": 5109786,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 307,
+    "latest_comment": [
+      {
+        "comment_id": 29719533,
+        "uid": 105112927,
+        "content": "听说这要出电影了。",
+        "createtime": 1597570525,
+        "nickname": "霧の島✿",
+        "avatar": "https://avatar.dmzj.com/30/92/3092f2834ec793d79e097a29ecbd16d5.png"
+      },
+      {
+        "comment_id": 29301551,
+        "uid": 101320131,
+        "content": "来几年一下",
+        "createtime": 1595988976,
+        "nickname": "衍CHA_NGE",
+        "avatar": "https://avatar.dmzj.com/59/73/5973fa782319ff0c20ee08eafeeb89e1.png"
+      }
+    ]
+  }
+}

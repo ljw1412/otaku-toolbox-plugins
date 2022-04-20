@@ -1,0 +1,61 @@
+{
+  "id": 10287,
+  "islong": 2,
+  "direction": 1,
+  "title": "黎明",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/liming.jpg",
+  "description": "早上起来的中国，惊奇的发现身边的咲夜",
+  "last_updatetime": 1360303061,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 21293,
+  "hit_num": 73772,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15419,
+      "tag_name": "こおりあめ"
+    }
+  ],
+  "subscribe_num": 79,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22737,
+          "chapter_title": "1话",
+          "updatetime": 1360303061,
+          "filesize": 1083690,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 101745,
+        "uid": 12787154,
+        "content": "小碎骨，天生就是被幽幽子啃的命啊~~~~~",
+        "createtime": 1360318949,
+        "nickname": "天上的游云",
+        "avatar": "https://avatar.dmzj.com/d4/ed/d4edb3d4f64ce33a908a142baad159d0.png"
+      }
+    ]
+  }
+}

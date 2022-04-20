@@ -1,0 +1,65 @@
+{
+  "id": 19513,
+  "islong": 2,
+  "direction": 2,
+  "title": "雪女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1435658511.jpg",
+  "description": "雪花在手心处融化",
+  "last_updatetime": 1436813663,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 4052,
+  "hit_num": 33290,
+  "uid": 100224064,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9752,
+      "tag_name": "空翼"
+    }
+  ],
+  "subscribe_num": 22,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39070,
+          "chapter_title": "短篇2",
+          "updatetime": 1436813663,
+          "filesize": 473454,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 38527,
+          "chapter_title": "短篇1",
+          "updatetime": 1435648058,
+          "filesize": 580955,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

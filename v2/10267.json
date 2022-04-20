@@ -1,0 +1,73 @@
+{
+  "id": 10267,
+  "islong": 2,
+  "direction": 1,
+  "title": "不纯限定ESP",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/bcxdesp.jpg",
+  "description": "某天，突然能使用超能力了！！但是必须有H的动机才能使用！！",
+  "last_updatetime": 1360172502,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 375773,
+  "hit_num": 754659,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5458,
+      "tag_name": "みこくのほまれ"
+    }
+  ],
+  "subscribe_num": 1630,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22721,
+          "chapter_title": "1话",
+          "updatetime": 1360172502,
+          "filesize": 5398035,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 85,
+    "latest_comment": [
+      {
+        "comment_id": 28303918,
+        "uid": 110063036,
+        "content": "富",
+        "createtime": 1592657928,
+        "nickname": "dmzj_110063036",
+        "avatar": "https://avatar.dmzj.com/18/68/18684c36be5c48636da8d926bdf06b5b.png"
+      },
+      {
+        "comment_id": 28160204,
+        "uid": 111085390,
+        "content": "6",
+        "createtime": 1592143398,
+        "nickname": "dmzj_111085390",
+        "avatar": "https://avatar.dmzj.com/80/3a/803a0abe5d9f2ab6aaac04f155ddf01f.png"
+      }
+    ]
+  }
+}

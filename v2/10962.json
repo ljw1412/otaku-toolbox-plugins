@@ -1,0 +1,75 @@
+{
+  "id": 10962,
+  "islong": 2,
+  "direction": 1,
+  "title": "警察战车队Dominion",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/jczche.jpg",
+  "description": "警察战车队Dominion，士郎正宗 早期的热血漫画。",
+  "last_updatetime": 1366013272,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jingchazhanche",
+  "hidden": 0,
+  "hot_num": 41974,
+  "hit_num": 439169,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23795,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1431,
+      "tag_name": "士郎正宗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 332,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23795,
+          "chapter_title": "1卷",
+          "updatetime": 1366013272,
+          "filesize": 18901938,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 24040581,
+        "uid": 109483905,
+        "content": "哈哈哈哈哈哈哈",
+        "createtime": 1581490666,
+        "nickname": "dmzj_109483905",
+        "avatar": "https://avatar.dmzj.com/7c/76/7c767948626bea94e51c7ab8701ca076.png"
+      },
+      {
+        "comment_id": 21701289,
+        "uid": 104784574,
+        "content": "红壳的潘多拉作者早期作品",
+        "createtime": 1572178378,
+        "nickname": "英特",
+        "avatar": "https://avatar.dmzj.com/07/b0/07b01e5b6d022ee4c51496d300654465.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

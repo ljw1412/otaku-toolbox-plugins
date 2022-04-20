@@ -1,0 +1,113 @@
+{
+  "id": 19135,
+  "islong": 2,
+  "direction": 2,
+  "title": "抖抖村",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002000871434028257.jpg",
+  "description": "你是笑点有点奇怪的孩子吗？你是无厘头的孩子吗？你是脑袋有点问题的孩子吗？你觉得其他人都不懂你吗？来抖抖村看看抖抖的不开心让你开心开心，抖叽~",
+  "last_updatetime": 1434029260,
+  "last_update_chapter_name": "不敢跟吃货计较-前传",
+  "copyright": 1,
+  "first_letter": "d",
+  "comic_py": "doudoucun",
+  "hidden": 0,
+  "hot_num": 47294,
+  "hit_num": 183169,
+  "uid": 100200087,
+  "is_lock": 0,
+  "last_update_chapter_id": 41974,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 3327,
+      "tag_name": "美食"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9557,
+      "tag_name": "DDM大王"
+    }
+  ],
+  "subscribe_num": 243,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41974,
+          "chapter_title": "5话",
+          "updatetime": 1434029260,
+          "filesize": 163266,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 41973,
+          "chapter_title": "4话",
+          "updatetime": 1434029207,
+          "filesize": 236583,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 41972,
+          "chapter_title": "3话",
+          "updatetime": 1434029118,
+          "filesize": 232796,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 41971,
+          "chapter_title": "2话",
+          "updatetime": 1434029066,
+          "filesize": 206980,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 41970,
+          "chapter_title": "1话",
+          "updatetime": 1434028663,
+          "filesize": 176681,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "每周五更新",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 26691586,
+        "uid": 107382930,
+        "content": "挖坟(￣ε(#￣)",
+        "createtime": 1587458681,
+        "nickname": "谣远",
+        "avatar": "https://avatar.dmzj.com/12/52/125263abb606dd6cfe11a9f58efd180e.png"
+      },
+      {
+        "comment_id": 7946709,
+        "uid": 108198692,
+        "content": "话说DDM君就不打算填这个坑吗？",
+        "createtime": 1541584917,
+        "nickname": "蹦迪桌XD",
+        "avatar": "https://avatar.dmzj.com/98/52/9852427124bdd6aea6f357e32557ec37.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,76 @@
+{
+  "id": 17125,
+  "islong": 2,
+  "direction": 1,
+  "title": "花样岚",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/hylfengmianl.jpg",
+  "description": "孔武有力的女生 X 超级名流，紧凑浪漫的爱情故事……",
+  "last_updatetime": 1423967464,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 192329,
+  "hit_num": 2369361,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3072,
+      "tag_name": "高木成美"
+    }
+  ],
+  "subscribe_num": 1226,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38090,
+          "chapter_title": "2卷",
+          "updatetime": 1423967464,
+          "filesize": 87558343,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 38089,
+          "chapter_title": "1卷",
+          "updatetime": 1423967444,
+          "filesize": 88887214,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 23280115,
+        "uid": 100756243,
+        "content": "看封面画的蛮好看的，点进来感觉没什么意思啊",
+        "createtime": 1579005232,
+        "nickname": "Esther艾丝缇",
+        "avatar": "https://avatar.dmzj.com/75/75/75759fd53e568cba091872d754ebdf7d.png"
+      },
+      {
+        "comment_id": 19277043,
+        "uid": 100866085,
+        "content": "绪川千世",
+        "createtime": 1565527794,
+        "nickname": "Ashwack",
+        "avatar": "https://avatar.dmzj.com/a2/18/a218dd5d382a6bba0e55a6a4766f0315.png"
+      }
+    ]
+  }
+}

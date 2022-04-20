@@ -1,0 +1,77 @@
+{
+  "id": 16783,
+  "islong": 2,
+  "direction": 1,
+  "title": "一人寂静",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/yrjj653l.jpg",
+  "description": "一直独自异人的雪子，那天、与能看到她的女生邂逅了、、、",
+  "last_updatetime": 1421395000,
+  "copyright": 3,
+  "first_letter": "y",
+  "hot_num": 8944,
+  "hit_num": 71116,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8373,
+      "tag_name": "Haya."
+    }
+  ],
+  "subscribe_num": 49,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33528,
+          "chapter_title": "1话",
+          "updatetime": 1421395000,
+          "filesize": 2148990,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 27453491,
+        "uid": 105009467,
+        "content": "留",
+        "createtime": 1589711063,
+        "nickname": "柚芽",
+        "avatar": "https://avatar.dmzj.com/10/55/1055e02582782e5b431dbe968b92fa23.png"
+      },
+      {
+        "comment_id": 27303519,
+        "uid": 104801517,
+        "content": "虽然挺甜的，但按设定来说，这就是个悲伤的故事",
+        "createtime": 1589211301,
+        "nickname": "川村玲緒",
+        "avatar": "https://avatar.dmzj.com/97/65/9765c9412b0d221f0a1e096d6c161ef8.png"
+      }
+    ]
+  }
+}

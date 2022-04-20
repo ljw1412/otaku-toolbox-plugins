@@ -1,0 +1,89 @@
+{
+  "id": 18151,
+  "islong": 2,
+  "direction": 2,
+  "title": "cs同人故事 反恐精英",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1001179351428984796.jpg",
+  "description": "以前的短篇故事集－CS同人",
+  "last_updatetime": 1428992489,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 12418,
+  "hit_num": 142232,
+  "uid": 100117935,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9032,
+      "tag_name": "白骁"
+    }
+  ],
+  "subscribe_num": 33,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37722,
+          "chapter_title": "3话",
+          "updatetime": 1428992489,
+          "filesize": 741117,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 37723,
+          "chapter_title": "2话",
+          "updatetime": 1428985113,
+          "filesize": 838696,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 37724,
+          "chapter_title": "1话",
+          "updatetime": 1428985097,
+          "filesize": 1122234,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 24695214,
+        "uid": 109974554,
+        "content": "没人么……",
+        "createtime": 1582989495,
+        "nickname": "dmzj_109974554",
+        "avatar": "https://avatar.dmzj.com/6c/19/6c198f36d27505e77664588a228c150a.png"
+      },
+      {
+        "comment_id": 22192161,
+        "uid": 100851176,
+        "content": "大行动它来了它来了",
+        "createtime": 1574123453,
+        "nickname": "qzuser67612",
+        "avatar": "https://avatar.dmzj.com/3b/00/3b0066c1d13ad0e90fd3a4c8780792fa.png"
+      }
+    ]
+  }
+}

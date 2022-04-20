@@ -1,0 +1,101 @@
+{
+  "id": 14375,
+  "islong": 2,
+  "direction": 2,
+  "title": "假如·奥创纪元",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/jracjyV2.jpg",
+  "description": "最后的复仇者巨化人和不断进化的奥创，濒临毁灭的世界到底将会……？",
+  "last_updatetime": 1407208335,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 545580,
+  "hit_num": 1301500,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 2048,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30663,
+          "chapter_title": "5卷",
+          "updatetime": 1407208335,
+          "filesize": 3629540,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 30196,
+          "chapter_title": "4卷",
+          "updatetime": 1405241535,
+          "filesize": 4284021,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 30140,
+          "chapter_title": "3卷",
+          "updatetime": 1405006620,
+          "filesize": 3864469,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 30108,
+          "chapter_title": "2卷",
+          "updatetime": 1404822990,
+          "filesize": 4652865,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 28888,
+          "chapter_title": "1卷",
+          "updatetime": 1397838073,
+          "filesize": 3198068,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 37,
+    "latest_comment": [
+      {
+        "comment_id": 24585679,
+        "uid": 108457337,
+        "content": "eye",
+        "createtime": 1582782779,
+        "nickname": "FCURE",
+        "avatar": "https://avatar.dmzj.com/6e/2d/6e2deef2f7f8c7f6b0271c49a1eadba1.png"
+      },
+      {
+        "comment_id": 24254760,
+        "uid": 105093070,
+        "content": "石纪元哔哩哔哩漫画可以看哦",
+        "createtime": 1581961961,
+        "nickname": "Poooooooooo",
+        "avatar": "https://avatar.dmzj.com/81/98/8198510ab37d71c213bd53de19fb1681.png"
+      }
+    ]
+  }
+}

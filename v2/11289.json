@@ -1,0 +1,73 @@
+{
+  "id": 11289,
+  "islong": 2,
+  "direction": 1,
+  "title": "吸血森林",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/xixuesenlin.jpg",
+  "description": "吸血鬼的故事,有时候人竟然比吸血鬼还恐怖 ",
+  "last_updatetime": 1368517924,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 19635,
+  "hit_num": 191094,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2518,
+      "tag_name": "酒井美羽"
+    }
+  ],
+  "subscribe_num": 76,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21874,
+          "chapter_title": "1卷",
+          "updatetime": 1368517924,
+          "filesize": 6991458,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 8791409,
+        "uid": 108371757,
+        "content": "嗯？？这不是这个作者把画风天差地别",
+        "createtime": 1544292130,
+        "nickname": "dmzj_108371757",
+        "avatar": "https://avatar.dmzj.com/60/82/60825278f819a5223eb4f82cc0fa6b24.png"
+      },
+      {
+        "comment_id": 8427035,
+        "uid": 101457154,
+        "content": "喵喵喵？",
+        "createtime": 1543237980,
+        "nickname": "ナツミ",
+        "avatar": "https://avatar.dmzj.com/17/a4/17a4a4d508860c4cfea1bcf93ce6d63a.png"
+      }
+    ]
+  }
+}

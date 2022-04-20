@@ -1,0 +1,73 @@
+{
+  "id": 15080,
+  "islong": 2,
+  "direction": 1,
+  "title": "布丁惨案",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/budingchanan.jpg",
+  "description": "加贺与赤城，一个布丁引发的惨案。",
+  "last_updatetime": 1406176652,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 120663,
+  "hit_num": 797836,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7553,
+      "tag_name": "rekkyo"
+    }
+  ],
+  "subscribe_num": 583,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30410,
+          "chapter_title": "1话",
+          "updatetime": 1406176652,
+          "filesize": 2643055,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 1589410,
+        "uid": 36421374,
+        "content": "甜死人啦hhh",
+        "createtime": 1482438664,
+        "nickname": "万俟空",
+        "avatar": "https://avatar.dmzj.com/5f/bd/5fbddc1d268a5cab7d18343ccdafc3f7.png"
+      },
+      {
+        "comment_id": 957766,
+        "uid": 100601960,
+        "content": "加贺真是好宠吃撑。。。。看的一本满足",
+        "createtime": 1467211719,
+        "nickname": "花前月下星",
+        "avatar": "https://avatar.dmzj.com/b4/97/b497f66396700800d585ba342cef21f6.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 17517,
+  "islong": 2,
+  "direction": 1,
+  "title": "我有男朋友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/woyounanpengyoul.jpg",
+  "description": "他和他的恋爱方式的作者的新连载。",
+  "last_updatetime": 1431332767,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 278188,
+  "hit_num": 661121,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6730,
+      "tag_name": "菲比"
+    }
+  ],
+  "subscribe_num": 1877,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41025,
+          "chapter_title": "4话",
+          "updatetime": 1431332767,
+          "filesize": 2451258,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 40311,
+          "chapter_title": "3话",
+          "updatetime": 1429180194,
+          "filesize": 2307919,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 40312,
+          "chapter_title": "2话",
+          "updatetime": 1429180209,
+          "filesize": 2537116,
+          "chapter_order": 15
+        },
+        {
+          "chapter_id": 39214,
+          "chapter_title": "1话",
+          "updatetime": 1426557372,
+          "filesize": 2415553,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 29997965,
+        "uid": 105181006,
+        "content": "网上已经完结了，还有番外，真的挺好看的！！！偏甜！！！",
+        "createtime": 1598598333,
+        "nickname": "彰宸宇",
+        "avatar": "https://avatar.dmzj.com/21/99/219971a2147bf9602f1a85130be3561e.png"
+      },
+      {
+        "comment_id": 27995397,
+        "uid": 107907169,
+        "content": "啊 这个 居然上了",
+        "createtime": 1591536695,
+        "nickname": "周周鸟",
+        "avatar": "https://avatar.dmzj.com/44/86/4486323205e0500456d4ef7aa81324c2.png"
+      }
+    ]
+  }
+}

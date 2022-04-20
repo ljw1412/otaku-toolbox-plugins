@@ -1,0 +1,79 @@
+{
+  "id": 18652,
+  "islong": 2,
+  "direction": 2,
+  "title": "赤红焰尾",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1001620141431552717.jpg",
+  "description": "赛车漫画",
+  "last_updatetime": 1431567041,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 4786,
+  "hit_num": 99551,
+  "uid": 100162014,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9292,
+      "tag_name": "牛奶射线"
+    }
+  ],
+  "subscribe_num": 17,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41112,
+          "chapter_title": "1话",
+          "updatetime": 1431567041,
+          "filesize": 3858410,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 14568507,
+        "uid": 102479770,
+        "content": "不错加油",
+        "createtime": 1555677893,
+        "nickname": "vhsiu",
+        "avatar": "https://avatar.dmzj.com/51/94/5194e4cbf391cd6fa9d4bcaebcf15192.png"
+      },
+      {
+        "comment_id": 3302565,
+        "uid": 100484896,
+        "content": "画风不错",
+        "createtime": 1510754594,
+        "nickname": "你只要知道我叫叶良辰！",
+        "avatar": "https://avatar.dmzj.com/51/10/5110768649a089e97d3ffdcc3305eba4.png"
+      }
+    ]
+  }
+}

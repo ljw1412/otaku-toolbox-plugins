@@ -1,0 +1,69 @@
+{
+  "id": 18904,
+  "islong": 2,
+  "direction": 1,
+  "title": "仙剑6同人漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/xj6trmhfengmianl.jpg",
+  "description": "脑洞一发不可收拾？！",
+  "last_updatetime": 1432739827,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 11246,
+  "hit_num": 103027,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9427,
+      "tag_name": "eye-patch"
+    }
+  ],
+  "subscribe_num": 75,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37632,
+          "chapter_title": "1话",
+          "updatetime": 1432739827,
+          "filesize": 3416074,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 10959033,
+        "uid": 100791949,
+        "content": "嗯嗯画的很好看！不是！是剧情好看！额也不是！画风好看！........都好看！！",
+        "createtime": 1549363180,
+        "nickname": "Dark winter",
+        "avatar": "https://avatar.dmzj.com/78/03/78034be3bfacdf22f23eb31cb1917558.png"
+      },
+      {
+        "comment_id": 1523247,
+        "uid": 100081300,
+        "content": "作者我催更，刚看完官方剧情来找安慰",
+        "createtime": 1480584794,
+        "nickname": "暗快乐",
+        "avatar": "https://avatar.dmzj.com/db/9d/db9d24c9bd7eaf67f71f8e3c545ef3b3.png"
+      }
+    ]
+  }
+}

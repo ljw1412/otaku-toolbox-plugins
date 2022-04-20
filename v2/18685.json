@@ -1,0 +1,71 @@
+{
+  "id": 18685,
+  "islong": 2,
+  "direction": 2,
+  "title": "架刀",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1001179351431669307.jpg",
+  "description": "以前的短篇故事集－架刀",
+  "last_updatetime": 1431669430,
+  "copyright": 1,
+  "first_letter": "j",
+  "hot_num": 3643,
+  "hit_num": 15494,
+  "uid": 100117935,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9032,
+      "tag_name": "白骁"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41103,
+          "chapter_title": "1话",
+          "updatetime": 1431669430,
+          "filesize": 414930,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 7351104,
+        "uid": 100477487,
+        "content": "早期作品？",
+        "createtime": 1539271497,
+        "nickname": "M-KYO",
+        "avatar": "https://avatar.dmzj.com/20/07/20071184f983de1b4f70c2c6e43d0fd2.png"
+      },
+      {
+        "comment_id": 395235,
+        "uid": 19950127,
+        "content": "卧槽这个好老的了,我记得是小学的时候在一个电玩报上看过的了,没想到居然是白骁的....",
+        "createtime": 1431742162,
+        "nickname": "pk270856",
+        "avatar": "https://avatar.dmzj.com/e5/ae/e5aef7daaadefd851fee9f8684cabbe9.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": 19412,
+  "islong": 2,
+  "direction": 2,
+  "title": "田螺少年",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1000952731435223317.jpg",
+  "description": "有一个田螺少年陪着我……",
+  "last_updatetime": 1435223358,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 12949,
+  "hit_num": 179370,
+  "uid": 100095273,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8787,
+      "tag_name": "洛娅／空城"
+    }
+  ],
+  "subscribe_num": 96,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42391,
+          "chapter_title": "2话",
+          "updatetime": 1435223358,
+          "filesize": 790986,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42390,
+          "chapter_title": "1话",
+          "updatetime": 1435223343,
+          "filesize": 832424,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 512372,
+        "uid": 16324119,
+        "content": "到底是鱼还是田螺？",
+        "createtime": 1447276649,
+        "nickname": "光芒之眼",
+        "avatar": "https://avatar.dmzj.com/9b/8e/9b8e2ad351ba32cdba5b3f1abb021592.png"
+      },
+      {
+        "comment_id": 418590,
+        "uid": 12979567,
+        "content": "逆转。。。",
+        "createtime": 1435286428,
+        "nickname": "sd5745124",
+        "avatar": "https://avatar.dmzj.com/29/80/298070c54ee810681d5a41c730a4436e.png"
+      }
+    ]
+  }
+}

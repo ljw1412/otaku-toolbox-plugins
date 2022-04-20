@@ -1,0 +1,89 @@
+{
+  "id": 19707,
+  "islong": 2,
+  "direction": 2,
+  "title": "吸血鬼莱斯特",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1002390881436495389.jpg",
+  "description": "根据《吸血鬼莱斯特》小说改编的同人漫画。",
+  "last_updatetime": 1436500237,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 102797,
+  "hit_num": 930615,
+  "uid": 100239088,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9872,
+      "tag_name": "桐W-Gist"
+    }
+  ],
+  "subscribe_num": 568,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42846,
+          "chapter_title": "3话",
+          "updatetime": 1436500237,
+          "filesize": 730826,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 42845,
+          "chapter_title": "2话",
+          "updatetime": 1436500089,
+          "filesize": 1013262,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42844,
+          "chapter_title": "1话",
+          "updatetime": 1436499968,
+          "filesize": 1046888,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 27661165,
+        "uid": 110928531,
+        "content": "呜呜呜呜呜怎么就没了",
+        "createtime": 1590343743,
+        "nickname": "琼脂糖糖糖",
+        "avatar": "https://avatar.dmzj.com/56/06/56066577087fb9260e9f4774ead57f82.png"
+      },
+      {
+        "comment_id": 18018572,
+        "uid": 104730940,
+        "content": "原作的小说是一个超级长的系列，这个应该是改编自小说的第二部《吸血鬼莱斯特》，小说也有电影《夜访吸血鬼》，主演是阿汤哥和皮特",
+        "createtime": 1562679588,
+        "nickname": "十方问道",
+        "avatar": "https://avatar.dmzj.com/26/11/261192a10752b2d75ebeb18eeeac3386.png"
+      }
+    ]
+  }
+}

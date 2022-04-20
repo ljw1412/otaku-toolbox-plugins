@@ -1,0 +1,73 @@
+{
+  "id": 15440,
+  "islong": 2,
+  "direction": 1,
+  "title": "Interview with the Vampire",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/InterviewwiththeVampire.jpg",
+  "description": "东方同人漫画，这是一个杯具的故事。",
+  "last_updatetime": 1409070990,
+  "copyright": 0,
+  "first_letter": "i",
+  "hot_num": 101079,
+  "hit_num": 88396,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5498,
+      "tag_name": "水镜ひより"
+    },
+    {
+      "tag_id": 5499,
+      "tag_name": "冰坂透(氷坂透)"
+    }
+  ],
+  "subscribe_num": 441,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33775,
+          "chapter_title": "1话",
+          "updatetime": 1409070990,
+          "filesize": 4356661,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 18953040,
+        "uid": 107706616,
+        "content": "实在是太悲剧了( ＿ ＿)ノ｜壁",
+        "createtime": 1564802336,
+        "nickname": "蝉藻城",
+        "avatar": "https://avatar.dmzj.com/55/03/5503283f3cd946c5a52bb9dbf09bd4ea.png"
+      },
+      {
+        "comment_id": 3839195,
+        "uid": 100008384,
+        "content": "看见马赛克，能详细到那惨不忍睹的画面",
+        "createtime": 1518058259,
+        "nickname": "春风空",
+        "avatar": "https://avatar.dmzj.com/17/34/173490f1a0190670d3129ec270eae3e0.png"
+      }
+    ]
+  }
+}

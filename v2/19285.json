@@ -1,0 +1,110 @@
+{
+  "id": 19285,
+  "islong": 2,
+  "direction": 2,
+  "title": "青蛙神探",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1002093781434710756.jpg",
+  "description": "快速探案，看哪里？青蛙神探告诉你！",
+  "last_updatetime": 1436524537,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 8261,
+  "hit_num": 86351,
+  "uid": 100209378,
+  "types": [
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9628,
+      "tag_name": "洋洋兔动漫"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42847,
+          "chapter_title": "6话",
+          "updatetime": 1436524537,
+          "filesize": 932204,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 42846,
+          "chapter_title": "5话",
+          "updatetime": 1436524492,
+          "filesize": 972945,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 42766,
+          "chapter_title": "4话",
+          "updatetime": 1436339997,
+          "filesize": 663010,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 42765,
+          "chapter_title": "3话",
+          "updatetime": 1436339973,
+          "filesize": 663889,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 42739,
+          "chapter_title": "2话",
+          "updatetime": 1436261737,
+          "filesize": 930701,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42186,
+          "chapter_title": "1话",
+          "updatetime": 1434710837,
+          "filesize": 941738,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 23586350,
+        "uid": 107399941,
+        "content": "评论区一个也别想跑",
+        "createtime": 1580254162,
+        "nickname": "花花♂Q",
+        "avatar": "https://avatar.dmzj.com/34/52/3452e0df1862ac31cb598db1f391c9d0.png"
+      },
+      {
+        "comment_id": 9588506,
+        "uid": 100875880,
+        "content": "那位大人做侦探了？！",
+        "createtime": 1546356755,
+        "nickname": "噬神者NO1",
+        "avatar": "https://avatar.dmzj.com/62/08/620848b5a557104c09f61e1865f80225.png"
+      }
+    ]
+  }
+}

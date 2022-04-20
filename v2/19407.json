@@ -1,0 +1,78 @@
+{
+  "id": 19407,
+  "islong": 2,
+  "direction": 2,
+  "title": "【小时代同人】在一起",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1002169341435221778.jpg",
+  "description": "同人集\n作者微博：http://www.weibo.com/MAKUDA",
+  "last_updatetime": 1435221759,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 2139,
+  "hit_num": 36201,
+  "uid": 100216934,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9692,
+      "tag_name": "萌傻子MAKUDA"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42388,
+          "chapter_title": "2话",
+          "updatetime": 1435221759,
+          "filesize": 792464,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42387,
+          "chapter_title": "1话",
+          "updatetime": 1435221737,
+          "filesize": 226446,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 22139318,
+        "uid": 108725182,
+        "content": "真看不懂什么鬼，画技有待提高",
+        "createtime": 1573889439,
+        "nickname": "rinka屑",
+        "avatar": "https://avatar.dmzj.com/14/03/1403c5dbadba08a31369685989350bb1.png"
+      },
+      {
+        "comment_id": 435371,
+        "uid": 100164610,
+        "content": "卧槽，这什么鬼",
+        "createtime": 1437648886,
+        "nickname": "makihalu",
+        "avatar": "https://avatar.dmzj.com/36/87/3687de06671dc69f456aca79f42e1402.png"
+      }
+    ]
+  }
+}

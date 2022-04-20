@@ -1,0 +1,67 @@
+{
+  "id": 19409,
+  "islong": 2,
+  "direction": 2,
+  "title": "短篇小v",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1000952731435222727.jpg",
+  "description": "一个小短篇~~创作中！",
+  "last_updatetime": 1435222760,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 1896,
+  "hit_num": 3462,
+  "uid": 100095273,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8787,
+      "tag_name": "洛娅／空城"
+    }
+  ],
+  "subscribe_num": 16,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38414,
+          "chapter_title": "设定~",
+          "updatetime": 1435222760,
+          "filesize": 113466,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1951014,
+        "uid": 101392839,
+        "content": "??????/",
+        "createtime": 1490193627,
+        "nickname": "角爵",
+        "avatar": "https://avatar.dmzj.com/1c/ac/1cac5a5a6dfc2240c918b496b6268339.png"
+      }
+    ]
+  }
+}

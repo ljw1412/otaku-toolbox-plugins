@@ -1,0 +1,75 @@
+{
+  "id": 17220,
+  "islong": 2,
+  "direction": 2,
+  "title": "银钉RELOAD",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/0227yindingreloadfml.jpg",
+  "description": "黑夜，需要有人去敬畏。 我们的故事重新启程。黑暗中的惊恐和神奇将以新的面目展现。 来吧，进入黑夜吧。",
+  "last_updatetime": 1425002672,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 2786,
+  "hit_num": 59515,
+  "uid": 100080049,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8605,
+      "tag_name": "咳嗽"
+    }
+  ],
+  "subscribe_num": 15,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38511,
+          "chapter_title": "1话",
+          "updatetime": 1425002672,
+          "filesize": 1500990,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 29787820,
+        "uid": 110184315,
+        "content": "这是复刻吗",
+        "createtime": 1597824228,
+        "nickname": "dmzj_110184315",
+        "avatar": "https://avatar.dmzj.com/fd/f5/fdf5ce81fe7f120bc671069fc64f1f42.png"
+      },
+      {
+        "comment_id": 358108,
+        "uid": 25893681,
+        "content": "画得不错从绘画风格方面可以多向美漫发展",
+        "createtime": 1425119656,
+        "nickname": "赵子方",
+        "avatar": "https://avatar.dmzj.com/17/5a/175a62afbb0e17de6410003151355aa0.png"
+      }
+    ]
+  }
+}

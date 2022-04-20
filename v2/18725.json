@@ -1,0 +1,73 @@
+{
+  "id": 18725,
+  "islong": 2,
+  "direction": 2,
+  "title": "超级少女－未来终焉",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/chaojisnweilaizyfengmianl.jpg",
+  "description": "\"我不断地寻找,有你的世界在哪里?\"",
+  "last_updatetime": 1431828773,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 27697,
+  "hit_num": 54681,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 144,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41170,
+          "chapter_title": "1卷",
+          "updatetime": 1431828773,
+          "filesize": 3396968,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 4036685,
+        "uid": 106242897,
+        "content": "布莱尼亚克不得好死!",
+        "createtime": 1520428545,
+        "nickname": "dmzj_106242897",
+        "avatar": "https://avatar.dmzj.com/8f/99/8f99f0ce87ce972a498f1ec0dc28918b.png"
+      },
+      {
+        "comment_id": 395852,
+        "uid": 100139526,
+        "content": "这简介真是醉了",
+        "createtime": 1431833382,
+        "nickname": "darkness的冷澈",
+        "avatar": "https://avatar.dmzj.com/62/2e/622e1c595e0f1383698c3165066cf64f.png"
+      }
+    ]
+  }
+}

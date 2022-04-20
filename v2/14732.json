@@ -1,0 +1,81 @@
+{
+  "id": 14732,
+  "islong": 2,
+  "direction": 2,
+  "title": "暗黑之魂2：迈向光明",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/heianzxhiuxn.jpg",
+  "description": "以游戏《黑暗之魂2》的世界为背景，改编的数字漫画。",
+  "last_updatetime": 1402376705,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 482531,
+  "hit_num": 206014,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7438,
+      "tag_name": "SimonColeby"
+    },
+    {
+      "tag_id": 7439,
+      "tag_name": "RobWilliams"
+    },
+    {
+      "tag_id": 7440,
+      "tag_name": "AndiEwington"
+    }
+  ],
+  "subscribe_num": 2039,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30776,
+          "chapter_title": "1卷",
+          "updatetime": 1402376705,
+          "filesize": 4030658,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 27096797,
+        "uid": 106200695,
+        "content": "变成游魂用人像就行了hhh",
+        "createtime": 1588586892,
+        "nickname": "小曦kouka",
+        "avatar": "https://avatar.dmzj.com/79/68/7968586107bd8eb9def0c47807a60a72.png"
+      },
+      {
+        "comment_id": 24363718,
+        "uid": 105279195,
+        "content": "就算知道前路是黑暗也要继续前行",
+        "createtime": 1582225337,
+        "nickname": "啊…肾脏断了",
+        "avatar": "https://avatar.dmzj.com/79/84/7984de28fbbdab16621211d5f273ef34.png"
+      }
+    ]
+  }
+}

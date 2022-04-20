@@ -1,0 +1,79 @@
+{
+  "id": 14367,
+  "islong": 2,
+  "direction": 1,
+  "title": "小赤改",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/xiaochigai01.jpg",
+  "description": "舰娘同人，还是那么有爱~",
+  "last_updatetime": 1397668849,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaochigai",
+  "hidden": 0,
+  "hot_num": 36438,
+  "hit_num": 554024,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 29831,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7315,
+      "tag_name": "コマイズム"
+    }
+  ],
+  "subscribe_num": 138,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29831,
+          "chapter_title": "1话",
+          "updatetime": 1397668849,
+          "filesize": 3667299,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 6719723,
+        "uid": 105864178,
+        "content": "雾家的赤城可没这么逗比",
+        "createtime": 1536411986,
+        "nickname": "歌者的二向箔酱",
+        "avatar": "https://avatar.dmzj.com/59/42/59429e63ded20c25aa2857c2c34a48a8.png"
+      },
+      {
+        "comment_id": 227155,
+        "uid": 20586770,
+        "content": "都有超重力炮了",
+        "createtime": 1397750057,
+        "nickname": "灵魂追寻者",
+        "avatar": "https://avatar.dmzj.com/44/93/449327168161eeddf7fdddd2a5464648.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12369,
+  "islong": 2,
+  "direction": 1,
+  "title": "星之微声",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/xingzhiweisheng.jpg",
+  "description": "开始厌倦吹奏小号的侑子，在夜里遇见了奇妙的少女——",
+  "last_updatetime": 1375929284,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xingzhiweisheng",
+  "hidden": 0,
+  "hot_num": 30510,
+  "hit_num": 164311,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23562,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6451,
+      "tag_name": "户间"
+    }
+  ],
+  "subscribe_num": 129,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23562,
+          "chapter_title": "1话",
+          "updatetime": 1375929284,
+          "filesize": 3362781,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 26219026,
+        "uid": 109611331,
+        "content": "请问哪位大佬有声之形，求",
+        "createtime": 1586322367,
+        "nickname": "SASUKE✔",
+        "avatar": "https://avatar.dmzj.com/bd/a1/bda18a1bce4a0d94842d5f74a01f40fb.png"
+      },
+      {
+        "comment_id": 24389138,
+        "uid": 109792770,
+        "content": "很不错嘛",
+        "createtime": 1582299651,
+        "nickname": "dmzj_109792770",
+        "avatar": "https://avatar.dmzj.com/9b/3e/9b3e09b85f40366dbed986197b42494d.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

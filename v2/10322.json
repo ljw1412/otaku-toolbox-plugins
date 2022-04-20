@@ -1,0 +1,75 @@
+{
+  "id": 10322,
+  "islong": 2,
+  "direction": 1,
+  "title": "我家的幼妖梦日记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/wjdyymrj.jpg",
+  "description": "东方妖梦的本子，主要是讲的幼儿时期的妖梦的故事",
+  "last_updatetime": 1360594003,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wjdyymrj",
+  "hidden": 0,
+  "hot_num": 31888,
+  "hit_num": 192108,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22772,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5492,
+      "tag_name": "EST"
+    }
+  ],
+  "subscribe_num": 130,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22772,
+          "chapter_title": "1话",
+          "updatetime": 1360594003,
+          "filesize": 2426238,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 13397847,
+        "uid": 108403252,
+        "content": "毕竟白薯嘛",
+        "createtime": 1553662364,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      },
+      {
+        "comment_id": 1145603,
+        "uid": 101019455,
+        "content": "我总觉得妖梦的半灵是被幽幽子当棉花糖吃了",
+        "createtime": 1470902051,
+        "nickname": "百合真是太棒了",
+        "avatar": "https://avatar.dmzj.com/39/48/3948e7cda52162148d4547e8e1021d7c.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

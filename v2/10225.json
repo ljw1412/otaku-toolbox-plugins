@@ -1,0 +1,75 @@
+{
+  "id": 10225,
+  "islong": 2,
+  "direction": 1,
+  "title": "晚饭是幸福的味道",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/wanfanzhenhao.jpg",
+  "description": "有充满家人的家,能和朋友一起吃到美味的菜，好好珍惜这些吧·····",
+  "last_updatetime": 1359561714,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wanfanshixingfu",
+  "hidden": 0,
+  "hot_num": 26723,
+  "hit_num": 182009,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21559,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5435,
+      "tag_name": "井藤ななみ"
+    }
+  ],
+  "subscribe_num": 89,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21559,
+          "chapter_title": "1话",
+          "updatetime": 1359561714,
+          "filesize": 1666670,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 28995810,
+        "uid": 100592323,
+        "content": "回顾一下",
+        "createtime": 1594911483,
+        "nickname": "程涣",
+        "avatar": "https://avatar.dmzj.com/46/96/4696b049884aeb748c615a2dfd8a36b3.png"
+      },
+      {
+        "comment_id": 27664637,
+        "uid": 109124842,
+        "content": "挖到宝了",
+        "createtime": 1590364940,
+        "nickname": "伊澄晓",
+        "avatar": "https://avatar.dmzj.com/89/60/896022ede732ff5b2a3db863d7ce9efd.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

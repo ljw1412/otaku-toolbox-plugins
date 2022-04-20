@@ -1,0 +1,121 @@
+{
+  "id": 17276,
+  "islong": 2,
+  "direction": 2,
+  "title": "天诛剑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/tianzhujian.jpg",
+  "description": "剑客，战士，魔术师.....线上游戏+虚拟空间=另一个自我的实现！平凡高中生张君化名“罗特”在线上游戏“洛斯特的冒险”中大显身手，实现电脑玩家的冒险野望..... ",
+  "last_updatetime": 1425369652,
+  "last_update_chapter_name": "第07话",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tianzhujian",
+  "hidden": 0,
+  "hot_num": 38364,
+  "hit_num": 571322,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 36194,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8631,
+      "tag_name": "金润庆"
+    }
+  ],
+  "subscribe_num": 230,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36194,
+          "chapter_title": "7话",
+          "updatetime": 1425369652,
+          "filesize": 2638624,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 36193,
+          "chapter_title": "6话",
+          "updatetime": 1425369624,
+          "filesize": 2757778,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 36192,
+          "chapter_title": "4话",
+          "updatetime": 1425369333,
+          "filesize": 2670291,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 36191,
+          "chapter_title": "5话",
+          "updatetime": 1425369330,
+          "filesize": 2357046,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 36190,
+          "chapter_title": "3话",
+          "updatetime": 1425369324,
+          "filesize": 2715329,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 36189,
+          "chapter_title": "2话",
+          "updatetime": 1425369322,
+          "filesize": 2723173,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 36188,
+          "chapter_title": "1话",
+          "updatetime": 1425369228,
+          "filesize": 3618196,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 971235,
+        "uid": 101304025,
+        "content": "为啥没颜色的",
+        "createtime": 1467519729,
+        "nickname": "哥很酷",
+        "avatar": "https://avatar.dmzj.com/48/22/48228b5e1933a1cddc1cf56832f50e81.png"
+      },
+      {
+        "comment_id": 359559,
+        "uid": 12228351,
+        "content": "這不是很久~以前的網遊漫嗎 不知已經完結沒還是坑了…",
+        "createtime": 1425377693,
+        "nickname": "孤狼沈宇",
+        "avatar": "https://avatar.dmzj.com/fc/fc/fcfc2e42ca7897235adef54ee8ac8058.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

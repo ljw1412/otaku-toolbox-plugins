@@ -1,0 +1,73 @@
+{
+  "id": 15016,
+  "islong": 2,
+  "direction": 1,
+  "title": "Ekorosia",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/ekorosia.jpg",
+  "description": "在人类灭绝的世界，进化？亦或是死亡。",
+  "last_updatetime": 1405530599,
+  "copyright": 0,
+  "first_letter": "e",
+  "hot_num": 60424,
+  "hit_num": 470969,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5585,
+      "tag_name": "朝仓亮介"
+    }
+  ],
+  "subscribe_num": 292,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29565,
+          "chapter_title": "1话",
+          "updatetime": 1405530599,
+          "filesize": 6425745,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 29226198,
+        "uid": 100656610,
+        "content": "猫舌头可爱",
+        "createtime": 1595717651,
+        "nickname": "七个",
+        "avatar": "https://avatar.dmzj.com/67/10/6710af52be49e81af02b52fe43923ba6.png"
+      },
+      {
+        "comment_id": 29205567,
+        "uid": 103725801,
+        "content": "灭世，蘑菇模因",
+        "createtime": 1595655535,
+        "nickname": "白兰度·夜冥流·千翼",
+        "avatar": "https://avatar.dmzj.com/af/d3/afd36d29580b576b2d0ee90c1899efe6.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": 10424,
+  "islong": 2,
+  "direction": 2,
+  "title": "最终危机：三界军团Final Crisis",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/zuizhongweiji.jpg",
+  "description": "在Geoff Johns的超人和超级英雄军团（Superman and the Legion of Super-Heroes）故事线发生不久后，时陷者（Time Trapper）发现至尊小超人迷失在了时间里。他打算利用他毁掉军团，并将他送到到了31世纪，他坠落到了史默维尔（Smallville，超人在地球上长大的地方）外的一座农场",
+  "last_updatetime": 1383548189,
+  "last_update_chapter_name": "第05卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zuizhongweiji3",
+  "hidden": 0,
+  "hot_num": 2038940,
+  "hit_num": 615978,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24908,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 8903,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24908,
+          "chapter_title": "5卷",
+          "updatetime": 1383548189,
+          "filesize": 6306061,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 22717,
+          "chapter_title": "4卷",
+          "updatetime": 1372818304,
+          "filesize": 7502974,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 21396,
+          "chapter_title": "3卷",
+          "updatetime": 1366267324,
+          "filesize": 4268373,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 20575,
+          "chapter_title": "2卷",
+          "updatetime": 1361333585,
+          "filesize": 7106724,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 20574,
+          "chapter_title": "1卷",
+          "updatetime": 1361333576,
+          "filesize": 7201781,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 16919032,
+        "uid": 107728305,
+        "content": "其实这个事件和最终危机基本上没关系……",
+        "createtime": 1559987539,
+        "nickname": "天生我材2015",
+        "avatar": "https://avatar.dmzj.com/82/89/828963ac0b51747ddd09b6f6871b4382.png"
+      },
+      {
+        "comment_id": 4437958,
+        "uid": 105064952,
+        "content": "金属大事件起源墙炸了是不是至尊超也该下来了",
+        "createtime": 1524313578,
+        "nickname": "Gulzar",
+        "avatar": "https://avatar.dmzj.com/50/62/5062bfd81c2d341dd2244eabc3c58132.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

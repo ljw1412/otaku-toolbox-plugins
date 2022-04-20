@@ -1,0 +1,83 @@
+{
+  "id": 17336,
+  "islong": 2,
+  "direction": 1,
+  "title": "天空的妖精",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/01tkdyjing.jpg",
+  "description": "在这片蓝天的远方，崭新的世界诞生了！",
+  "last_updatetime": 1451916969,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 170156,
+  "hit_num": 1141383,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7186,
+      "tag_name": "池纯子(池ジュン子)"
+    }
+  ],
+  "subscribe_num": 1860,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39130,
+          "chapter_title": "3话",
+          "updatetime": 1432294116,
+          "filesize": 6928906,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 38277,
+          "chapter_title": "2话",
+          "updatetime": 1430220500,
+          "filesize": 2471297,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 36389,
+          "chapter_title": "1话",
+          "updatetime": 1451916969,
+          "filesize": 5046083,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 27,
+    "latest_comment": [
+      {
+        "comment_id": 29671193,
+        "uid": 108799520,
+        "content": "鸭子哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+        "createtime": 1597379901,
+        "nickname": "叶瑛",
+        "avatar": "https://avatar.dmzj.com/79/86/7986753f128b5903636950f986637487.png"
+      },
+      {
+        "comment_id": 26413533,
+        "uid": 107685416,
+        "content": "漫长的4年哇",
+        "createtime": 1586715331,
+        "nickname": "开花战士章承恩",
+        "avatar": "https://avatar.dmzj.com/d7/5e/d75eed604bbd645aee4c4aef3b04113a.png"
+      }
+    ]
+  }
+}

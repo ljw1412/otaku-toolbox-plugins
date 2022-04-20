@@ -1,0 +1,99 @@
+{
+  "id": 18406,
+  "islong": 2,
+  "direction": 2,
+  "title": "狐剑传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1001403351430211288.jpg",
+  "description": "狐剑传，中国原创古典玄幻风漫画，人物造型优美，想象奇特，本篇为《剑神榜》之妖仙的狐剑部分，讲述五只小狐狸修炼成剑仙，降妖除魔的故事。",
+  "last_updatetime": 1430273608,
+  "last_update_chapter_name": "第二话",
+  "copyright": 1,
+  "first_letter": "h",
+  "comic_py": "hujianchuan",
+  "hidden": 0,
+  "hot_num": 48377,
+  "hit_num": 1732496,
+  "uid": 100140335,
+  "is_lock": 0,
+  "last_update_chapter_id": 38303,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    },
+    {
+      "tag_id": 7900,
+      "tag_name": "仙侠"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9174,
+      "tag_name": "infotiger"
+    }
+  ],
+  "subscribe_num": 606,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38303,
+          "chapter_title": "2话",
+          "updatetime": 1430273608,
+          "filesize": 2130820,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 38302,
+          "chapter_title": "1话",
+          "updatetime": 1430211576,
+          "filesize": 3295406,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 38301,
+          "chapter_title": "序章",
+          "updatetime": 1430211531,
+          "filesize": 4254352,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 1647247,
+        "uid": 102528427,
+        "content": "无聊",
+        "createtime": 1483876833,
+        "nickname": "灵稀",
+        "avatar": "https://avatar.dmzj.com/a1/d3/a1d3116d0565f26a6adffdd44324c9ae.png"
+      },
+      {
+        "comment_id": 889292,
+        "uid": 101033234,
+        "content": "早完结了。估计是这类漫太多，时间一长，小编把它给忘了。",
+        "createtime": 1465566506,
+        "nickname": "似水流年38102",
+        "avatar": "https://avatar.dmzj.com/89/cf/89cfdb8ace51a036a61b33e567087c4e.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

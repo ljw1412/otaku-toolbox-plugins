@@ -1,0 +1,73 @@
+{
+  "id": 18285,
+  "islong": 2,
+  "direction": 2,
+  "title": "武器X：第一课",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/sishimeike.jpg",
+  "description": "x战警第一课中的特别篇，虽然是只有11页的mini漫画。这篇漫画是以死侍为第一人称视角，扯了一堆有的没的，省省略略的讲了死侍和金刚狼的一些大家好像早就知道的过往。",
+  "last_updatetime": 1429590373,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 90895,
+  "hit_num": 75216,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 469,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40452,
+          "chapter_title": "2卷",
+          "updatetime": 1429590373,
+          "filesize": 1410683,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 2457110,
+        "uid": 104688439,
+        "content": "漫威神奇地黑了dc家的超人",
+        "createtime": 1499669585,
+        "nickname": "无敌爆天逼",
+        "avatar": "https://avatar.dmzj.com/7f/0f/7f0f682f5e7554b31d769cce706b550d.png"
+      },
+      {
+        "comment_id": 1346437,
+        "uid": 102074154,
+        "content": "好短，还想看",
+        "createtime": 1475726856,
+        "nickname": "阡陌小乡",
+        "avatar": "https://avatar.dmzj.com/e9/01/e90190f7e5e74826787e57223aa682b1.png"
+      }
+    ]
+  }
+}

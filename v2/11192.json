@@ -1,0 +1,73 @@
+{
+  "id": 11192,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/moshaonv.jpg",
+  "description": "“想我刺痛你什么地方？”",
+  "last_updatetime": 1367820543,
+  "copyright": 3,
+  "first_letter": "m",
+  "hot_num": 63424,
+  "hit_num": 751329,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3849,
+      "tag_name": "さかもと麻乃"
+    }
+  ],
+  "subscribe_num": 199,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24131,
+          "chapter_title": "1话",
+          "updatetime": 1367820543,
+          "filesize": 3327258,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 28398399,
+        "uid": 107020049,
+        "content": "啊这",
+        "createtime": 1592989357,
+        "nickname": "月见七奈",
+        "avatar": "https://avatar.dmzj.com/52/56/52565f505b8a16e860e31ebcaaf258f5.png"
+      },
+      {
+        "comment_id": 15142329,
+        "uid": 107988502,
+        "content": "我怕了，不敢看",
+        "createtime": 1556612154,
+        "nickname": "纳克",
+        "avatar": "https://avatar.dmzj.com/63/82/638279c8d3d8ef6b0f6d68f5ed9b6655.png"
+      }
+    ]
+  }
+}

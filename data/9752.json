@@ -1,0 +1,87 @@
+{
+  "id": 9752,
+  "islong": 2,
+  "direction": 2,
+  "title": "the  end",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/theend.jpg",
+  "description": "marvel的全明星大乱斗，很欢乐的故事。",
+  "last_updatetime": 1353487692,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "theend",
+  "hidden": 0,
+  "hot_num": 3795127,
+  "hit_num": 563432,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21800,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 18935,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21800,
+          "chapter_title": "1卷",
+          "updatetime": 1353487692,
+          "filesize": 3712621,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 22956992,
+        "uid": 110090211,
+        "content": "还有吧，记得后面还有灭霸一人打全部呢",
+        "createtime": 1577714949,
+        "nickname": "dmzj_110090211",
+        "avatar": "https://avatar.dmzj.com/44/ce/44ce3537d71e5c97db80ce0d8241323e.png"
+      },
+      {
+        "comment_id": 11556320,
+        "uid": 101386536,
+        "content": "这个故事超欢乐的",
+        "createtime": 1550393214,
+        "nickname": "订阅消失了好多",
+        "avatar": "https://avatar.dmzj.com/62/3c/623c13142658b3aa4f32493a6becf361.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,69 @@
+{
+  "id": 10757,
+  "islong": 2,
+  "direction": 1,
+  "title": "影涼し",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/yingliang.jpg",
+  "description": "东方同人漫画作品",
+  "last_updatetime": 1364195069,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 85785,
+  "hit_num": 124975,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5690,
+      "tag_name": "麻生シン"
+    }
+  ],
+  "subscribe_num": 406,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23441,
+          "chapter_title": "1话",
+          "updatetime": 1364195069,
+          "filesize": 2784434,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 11116351,
+        "uid": 102280268,
+        "content": "有点怪，两天都说了一样的话",
+        "createtime": 1549671670,
+        "nickname": "阿特兰达",
+        "avatar": "https://avatar.dmzj.com/43/53/43530d386dab6e76301a3045415c3ed3.png"
+      },
+      {
+        "comment_id": 3694618,
+        "uid": 101282177,
+        "content": "甜在心里去了",
+        "createtime": 1516197371,
+        "nickname": "グサシス",
+        "avatar": "https://avatar.dmzj.com/25/13/2513871cf16c86b626d3f71a919c9ffa.png"
+      }
+    ]
+  }
+}

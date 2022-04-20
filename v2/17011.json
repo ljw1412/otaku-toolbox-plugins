@@ -1,0 +1,77 @@
+{
+  "id": 17011,
+  "islong": 2,
+  "direction": 1,
+  "title": "深夜的冒险",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/shsgy353l.jpg",
+  "description": "迷失在现代都市街头的芙兰……面对熟悉而陌生的人们，她是否能找到回家的路？ ",
+  "last_updatetime": 1423120610,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 11274,
+  "hit_num": 138962,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8506,
+      "tag_name": "生后3ケ月"
+    }
+  ],
+  "subscribe_num": 58,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35465,
+          "chapter_title": "1话",
+          "updatetime": 1423120610,
+          "filesize": 11348642,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 18069310,
+        "uid": 100474479,
+        "content": "虽然画得有点挫但我觉得是很棒的故事",
+        "createtime": 1562795037,
+        "nickname": " 電Knight",
+        "avatar": "https://avatar.dmzj.com/04/d9/04d9fb107cd6e7446a3e4577d83722c4.png"
+      },
+      {
+        "comment_id": 349403,
+        "uid": 100058702,
+        "content": "这画风，和游戏原作好像，ZUN神该感到欣慰么，无数同人终于有个画风接近的了",
+        "createtime": 1423413654,
+        "nickname": "紅魔館の小惡魔",
+        "avatar": "https://avatar.dmzj.com/d3/68/d36857514bd404623b51fe21692fdcb8.png"
+      }
+    ]
+  }
+}

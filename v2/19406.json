@@ -1,0 +1,71 @@
+{
+  "id": 19406,
+  "islong": 2,
+  "direction": 2,
+  "title": "行走在心间的旅人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1002178061435216925.jpg",
+  "description": "一个青蛙遇到山神的故事^^",
+  "last_updatetime": 1435221079,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 5277,
+  "hit_num": 92400,
+  "uid": 100217806,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9691,
+      "tag_name": "空谷回川"
+    }
+  ],
+  "subscribe_num": 36,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40152,
+          "chapter_title": "旅人",
+          "updatetime": 1435221079,
+          "filesize": 1568617,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 918448,
+        "uid": 100805685,
+        "content": "不错，就想看默剧一样",
+        "createtime": 1466296215,
+        "nickname": "乖离",
+        "avatar": "https://avatar.dmzj.com/cf/80/cf80158709a9db0fb163e17c52d2370d.png"
+      },
+      {
+        "comment_id": 418189,
+        "uid": 100212332,
+        "content": "画面太美，虽然没有对白，但神奇的是，居然看懂了……/呲牙",
+        "createtime": 1435225176,
+        "nickname": "隔壁请喝茶",
+        "avatar": "https://avatar.dmzj.com/90/44/9044eaea5f4525c1e0bd95955f213cef.png"
+      }
+    ]
+  }
+}

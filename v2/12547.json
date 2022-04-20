@@ -1,0 +1,65 @@
+{
+  "id": 12547,
+  "islong": 2,
+  "direction": 2,
+  "title": "我是一名复仇者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/wsymfcz.jpg",
+  "description": "短篇，共五章，既严肃又诙谐搞笑，第一章的小故事分别为：少年复仇者的聚会、铁拳之书、松鼠妹、宠物复仇者。",
+  "last_updatetime": 1377309216,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 3854101,
+  "hit_num": 100155,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 16645,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26054,
+          "chapter_title": "1卷",
+          "updatetime": 1377309216,
+          "filesize": 3378642,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 4371371,
+        "uid": 100808961,
+        "content": "占个沙发",
+        "createtime": 1523799646,
+        "nickname": "啥都能看",
+        "avatar": "https://avatar.dmzj.com/52/65/5265f324453d4e1daf6d581ef29485af.png"
+      }
+    ]
+  }
+}

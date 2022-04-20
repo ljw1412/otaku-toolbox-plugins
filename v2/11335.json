@@ -1,0 +1,112 @@
+{
+  "id": 11335,
+  "islong": 2,
+  "direction": 2,
+  "title": "赤焰战场",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/chiyanzhanchang.jpg",
+  "description": "此漫画为电影《赤焰战场》的原著漫画，WIldstrom出品，为三期迷你漫，与电影差别很大，后又出了一期的前传RED：EYES ONLY。",
+  "last_updatetime": 1379581346,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 2055544,
+  "hit_num": 469523,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 571,
+      "tag_name": "Wildstorm"
+    },
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 8449,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23145,
+          "chapter_title": "3卷",
+          "updatetime": 1368852545,
+          "filesize": 2728647,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 23144,
+          "chapter_title": "2卷",
+          "updatetime": 1368852505,
+          "filesize": 2652669,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23143,
+          "chapter_title": "1卷",
+          "updatetime": 1368852457,
+          "filesize": 2790514,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 23146,
+          "chapter_title": "前传",
+          "updatetime": 1368852573,
+          "filesize": 4772924,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 25373,
+          "chapter_title": "前传：马文",
+          "updatetime": 1379581346,
+          "filesize": 2603330,
+          "chapter_order": 1
+        },
+        {
+          "chapter_id": 24975,
+          "chapter_title": "前传：维多利亚",
+          "updatetime": 1377842922,
+          "filesize": 2651043,
+          "chapter_order": 0
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 30055315,
+        "uid": 108381083,
+        "content": "留",
+        "createtime": 1598823106,
+        "nickname": "洒家——一条咸鱼",
+        "avatar": "https://avatar.dmzj.com/e1/4f/e14fb614b6a744e095d719a6eca8a05b.png"
+      },
+      {
+        "comment_id": 24280936,
+        "uid": 101849060,
+        "content": "可以的",
+        "createtime": 1582038053,
+        "nickname": "『▒▒▒』",
+        "avatar": "https://avatar.dmzj.com/50/a7/50a76971d7217bd8002b9a37e2ba1583.png"
+      }
+    ]
+  }
+}

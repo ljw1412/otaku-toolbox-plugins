@@ -1,0 +1,80 @@
+{
+  "id": 14064,
+  "islong": 2,
+  "direction": 1,
+  "title": "眼镜部",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/眼鏡部.jpg",
+  "description": "眼镜少年们的热血学园生活！",
+  "last_updatetime": 1393592260,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 13401,
+  "hit_num": 49592,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6705,
+      "tag_name": "茂木完田"
+    }
+  ],
+  "subscribe_num": 56,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26912,
+          "chapter_title": "2话",
+          "updatetime": 1393592260,
+          "filesize": 1772717,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 26911,
+          "chapter_title": "1话",
+          "updatetime": 1393591976,
+          "filesize": 1820151,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 2354014,
+        "uid": 100824539,
+        "content": "。。。所以。。。在搞什麼鬼啊。。。。",
+        "createtime": 1498052556,
+        "nickname": "喵大福",
+        "avatar": "https://avatar.dmzj.com/74/48/7448f0d7725ae6ac3465ec8f8b04458c.png"
+      },
+      {
+        "comment_id": 229509,
+        "uid": 26147746,
+        "content": "最后完结的也算是皆大欢喜，也是作者中间有点支撑不起来故事了吧，没展开好",
+        "createtime": 1398240809,
+        "nickname": "doraemon901207",
+        "avatar": "https://avatar.dmzj.com/39/f2/39f26c8432a7f4ae1b4c5e86bbcc9bc6.png"
+      }
+    ]
+  }
+}

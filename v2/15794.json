@@ -1,0 +1,75 @@
+{
+  "id": 15794,
+  "islong": 2,
+  "direction": 1,
+  "title": "灯火",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/denghuo.jpg",
+  "description": "坂口尚作品集2，灯火。",
+  "last_updatetime": 1412911852,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "denghuo",
+  "hidden": 0,
+  "hot_num": 49363,
+  "hit_num": 653217,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 31365,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2652,
+      "tag_name": "坂口尚"
+    }
+  ],
+  "subscribe_num": 251,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31365,
+          "chapter_title": "1卷",
+          "updatetime": 1412911852,
+          "filesize": 13079614,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 32,
+    "latest_comment": [
+      {
+        "comment_id": 29685724,
+        "uid": 102587297,
+        "content": "留留留",
+        "createtime": 1597426893,
+        "nickname": "渐渐地无法释怀、",
+        "avatar": "https://avatar.dmzj.com/73/76/7376bd6c76932858108211a77cf90b59.png"
+      },
+      {
+        "comment_id": 28841237,
+        "uid": 108404732,
+        "content": "666",
+        "createtime": 1594398065,
+        "nickname": "dmzj_108404732",
+        "avatar": "https://avatar.dmzj.com/77/36/77368de01427b0860f82ec291eca1309.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

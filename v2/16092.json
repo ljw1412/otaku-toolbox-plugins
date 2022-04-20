@@ -1,0 +1,94 @@
+{
+  "id": 16092,
+  "islong": 2,
+  "direction": 1,
+  "title": "ACUTE",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/ACUTE.jpg",
+  "description": "根据v家歌曲改编，kaito和巡音是互相相爱 ",
+  "last_updatetime": 1486820197,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 243785,
+  "hit_num": 2742312,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3402,
+      "tag_name": "あさひな栞"
+    },
+    {
+      "tag_id": 8005,
+      "tag_name": "黑うさP"
+    }
+  ],
+  "subscribe_num": 2917,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 62455,
+          "chapter_title": "4话",
+          "updatetime": 1486820197,
+          "filesize": 5468344,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 62454,
+          "chapter_title": "3话",
+          "updatetime": 1486820190,
+          "filesize": 2700322,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 40412,
+          "chapter_title": "2话",
+          "updatetime": 1429439546,
+          "filesize": 4338595,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 35515,
+          "chapter_title": "1话",
+          "updatetime": 1415849448,
+          "filesize": 3396333,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 187,
+    "latest_comment": [
+      {
+        "comment_id": 29424355,
+        "uid": 109104848,
+        "content": "这就没了？",
+        "createtime": 1596439201,
+        "nickname": "dmzj_109104848",
+        "avatar": "https://avatar.dmzj.com/a0/2e/a02e95a3181937e42abee6e5adffd68f.png"
+      },
+      {
+        "comment_id": 29028603,
+        "uid": 111286013,
+        "content": "那个妹妹虽然扭曲了不过还挺心疼的她的说",
+        "createtime": 1595013676,
+        "nickname": "dmzj_111286013",
+        "avatar": "https://avatar.dmzj.com/61/75/61758418de7b6083cc16b2a60c0d19c0.png"
+      }
+    ]
+  }
+}

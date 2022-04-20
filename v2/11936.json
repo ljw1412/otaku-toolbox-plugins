@@ -1,0 +1,75 @@
+{
+  "id": 11936,
+  "islong": 2,
+  "direction": 1,
+  "title": "April",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/aprildongfang.jpg",
+  "description": "东方同人本。",
+  "last_updatetime": 1372757188,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "april",
+  "hidden": 0,
+  "hot_num": 30830,
+  "hit_num": 251501,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22560,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5522,
+      "tag_name": "シャこ"
+    }
+  ],
+  "subscribe_num": 146,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22560,
+          "chapter_title": "1话",
+          "updatetime": 1372757188,
+          "filesize": 5659839,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 21971321,
+        "uid": 107130171,
+        "content": "幽香",
+        "createtime": 1573090428,
+        "nickname": "妹红❤️",
+        "avatar": "https://avatar.dmzj.com/61/8b/618be593bbb30c59d98ad83c31f4ad62.png"
+      },
+      {
+        "comment_id": 20336243,
+        "uid": 100259953,
+        "content": "可喜可贺(´▽｀)ノ♪",
+        "createtime": 1568560729,
+        "nickname": "开碟红红蓝",
+        "avatar": "https://avatar.dmzj.com/88/62/8862b906de07b5553a59461ec7575111.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

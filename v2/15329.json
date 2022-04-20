@@ -1,0 +1,75 @@
+{
+  "id": 15329,
+  "islong": 2,
+  "direction": 1,
+  "title": "休假魂魄 ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/xiujiahunpo.jpg",
+  "description": "东方同人，论半灵的各种食用方法。",
+  "last_updatetime": 1408432178,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiujiahunpo",
+  "hidden": 0,
+  "hot_num": 38386,
+  "hit_num": 182371,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 29824,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5461,
+      "tag_name": "yc-tv"
+    }
+  ],
+  "subscribe_num": 194,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29824,
+          "chapter_title": "1话",
+          "updatetime": 1408432178,
+          "filesize": 2216362,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 28034140,
+        "uid": 104300902,
+        "content": "最后一页给的半灵膝枕而不是妖梦",
+        "createtime": 1591675101,
+        "nickname": "幻想乡路边摊首席大厨",
+        "avatar": "https://avatar.dmzj.com/49/82/498236a40d8541951662aae8b7810f8e.png"
+      },
+      {
+        "comment_id": 19396213,
+        "uid": 107015998,
+        "content": "半灵的味道",
+        "createtime": 1565796673,
+        "nickname": "你不能通过这里",
+        "avatar": "https://avatar.dmzj.com/66/22/66221d11c09531f2992861bae9e273d3.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

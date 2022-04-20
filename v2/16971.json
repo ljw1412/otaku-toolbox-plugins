@@ -1,0 +1,54 @@
+{
+  "id": 16971,
+  "islong": 2,
+  "direction": 2,
+  "title": "最高引擎",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/0202zuigaoyinqinfml.jpg",
+  "description": "六页 关于赛车的故事 不过不是完整的",
+  "last_updatetime": 1422858793,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 2335,
+  "hit_num": 12318,
+  "uid": 100022914,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8300,
+      "tag_name": "静轩室StoRy"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35378,
+          "chapter_title": "1话",
+          "updatetime": 1422858793,
+          "filesize": 903511,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

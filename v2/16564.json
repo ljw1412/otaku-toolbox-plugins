@@ -1,0 +1,80 @@
+{
+  "id": 16564,
+  "islong": 2,
+  "direction": 2,
+  "title": "小红帽与贼渡鸦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/1230xiaohongmaoyuzeiduyafml.jpg",
+  "description": "法国出版社Dupuis出版的《小红帽与贼渡鸦》。某位可爱的女士因为被告发而送到法国警察的监狱里，与此同时，一个机灵精怪的小贼也被送进来当邻居，而美国空袭的警报适时地响起——",
+  "last_updatetime": 1419923010,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 189383,
+  "hit_num": 331559,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6604,
+      "tag_name": "DUPUIS"
+    }
+  ],
+  "subscribe_num": 1015,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33269,
+          "chapter_title": "2卷",
+          "updatetime": 1419923010,
+          "filesize": 7780067,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 33268,
+          "chapter_title": "1卷",
+          "updatetime": 1419922998,
+          "filesize": 7405205,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 26107459,
+        "uid": 107113141,
+        "content": "好看哦",
+        "createtime": 1586089762,
+        "nickname": "不净之源",
+        "avatar": "https://avatar.dmzj.com/56/04/5604e31b920729fe0ecfe11c8786999d.png"
+      },
+      {
+        "comment_id": 25990899,
+        "uid": 109146566,
+        "content": "考古",
+        "createtime": 1585848795,
+        "nickname": "满鸠",
+        "avatar": "https://avatar.dmzj.com/ca/4d/ca4d2ff6f4a789b27e5ca209f6517303.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": 18926,
+  "islong": 2,
+  "direction": 2,
+  "title": "吃货百科",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1001821561432826373.jpg",
+  "description": "才不画什么励志减肥的东西，你们懂得啦",
+  "last_updatetime": 1434107096,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 18658,
+  "hit_num": 94980,
+  "uid": 100182156,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3327,
+      "tag_name": "美食"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9441,
+      "tag_name": "朱贺"
+    }
+  ],
+  "subscribe_num": 118,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39795,
+          "chapter_title": "番外篇 古蔺麻辣鸡~！",
+          "updatetime": 1434107096,
+          "filesize": 280733,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 39581,
+          "chapter_title": "3话",
+          "updatetime": 1433492057,
+          "filesize": 264715,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 39428,
+          "chapter_title": "2话",
+          "updatetime": 1432910430,
+          "filesize": 351357,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 39336,
+          "chapter_title": "1话",
+          "updatetime": 1432826626,
+          "filesize": 286279,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "周五一更大家记得多多关注 留言  谢了",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 21444241,
+        "uid": 109721482,
+        "content": "aileaile",
+        "createtime": 1571412137,
+        "nickname": "xzlove105",
+        "avatar": "https://avatar.dmzj.com/4e/f3/4ef33f10a6d11faf2df53eb015c7318f.png"
+      },
+      {
+        "comment_id": 7988750,
+        "uid": 105301987,
+        "content": "来了",
+        "createtime": 1541736679,
+        "nickname": "boom17003",
+        "avatar": "https://avatar.dmzj.com/1c/fd/1cfdc4febe86ff777a71ec24fb9a21fa.png"
+      }
+    ]
+  }
+}

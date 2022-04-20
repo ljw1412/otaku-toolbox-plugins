@@ -1,0 +1,80 @@
+{
+  "id": 17030,
+  "islong": 2,
+  "direction": 2,
+  "title": "拜占庭之东",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/0208baizhantingzhidongfml.jpg",
+  "description": "讲述的是位于拜占庭（东罗马帝国）东边的亚美尼亚王国的历史变迁，剧情可能并不出彩，但绘画技巧、图中人物服饰、甲胄复原都达到了相当的高度，这也是欧美历史漫的一大特色吧。",
+  "last_updatetime": 1424618841,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 73488,
+  "hit_num": 524729,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8514,
+      "tag_name": "Fugitive studios"
+    }
+  ],
+  "subscribe_num": 380,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38253,
+          "chapter_title": "番外篇：百步之遥",
+          "updatetime": 1424618841,
+          "filesize": 374495,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 37845,
+          "chapter_title": "1话",
+          "updatetime": 1423381707,
+          "filesize": 3792176,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 28554204,
+        "uid": 108403252,
+        "content": "少见的历史向漫画",
+        "createtime": 1593483069,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      },
+      {
+        "comment_id": 27444272,
+        "uid": 108291532,
+        "content": "精罗在这干嘛呢，这是帝国坟场亚美尼亚",
+        "createtime": 1589680783,
+        "nickname": "人工智障花Q",
+        "avatar": "https://avatar.dmzj.com/64/54/64545593f19235c13f440932b30214a7.png"
+      }
+    ]
+  }
+}

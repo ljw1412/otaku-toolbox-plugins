@@ -1,0 +1,73 @@
+{
+  "id": 1056,
+  "islong": 2,
+  "direction": 1,
+  "title": "梦空界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/mkj.jpg",
+  "description": "梦空界",
+  "last_updatetime": 1178197740,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 96882,
+  "hit_num": 657857,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 76,
+      "tag_name": "天野こずえ"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 619,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 1350,
+          "chapter_title": "1卷",
+          "updatetime": 1178197740,
+          "filesize": 11482158,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 29344519,
+        "uid": 106268114,
+        "content": "资源毁坏了？",
+        "createtime": 1596133707,
+        "nickname": "有家似无家之人",
+        "avatar": "https://avatar.dmzj.com/72/3b/723b168c918e2c92e342fbfd59c51e25.png"
+      },
+      {
+        "comment_id": 26435778,
+        "uid": 108042306,
+        "content": "天野こずえ",
+        "createtime": 1586780073,
+        "nickname": "阿政Kars",
+        "avatar": "https://avatar.dmzj.com/1f/0b/1f0b82730c0738daf98b7fad1aed56aa.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 14744,
+  "islong": 2,
+  "direction": 1,
+  "title": "黑猫的故事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/heimaodegushi.jpg",
+  "description": "一个关于少女和猫妖的故事。",
+  "last_updatetime": 1406881107,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 229482,
+  "hit_num": 314795,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1199,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29505,
+          "chapter_title": "番外（人物篇）",
+          "updatetime": 1406881107,
+          "filesize": 772480,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 29068,
+          "chapter_title": "2话",
+          "updatetime": 1405402642,
+          "filesize": 1640345,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 28497,
+          "chapter_title": "1话",
+          "updatetime": 1402652942,
+          "filesize": 985460,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 28480,
+          "chapter_title": "0话",
+          "updatetime": 1402564896,
+          "filesize": 576466,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 29907726,
+        "uid": 107278369,
+        "content": "乍一看有点像萤火之森呀，期待一下吧",
+        "createtime": 1598270431,
+        "nickname": "梦醒之前",
+        "avatar": "https://avatar.dmzj.com/63/80/638054078b445ef6f4e94e3fab1786c8.png"
+      },
+      {
+        "comment_id": 13325838,
+        "uid": 105874076,
+        "content": "加油啊",
+        "createtime": 1553520232,
+        "nickname": "社保人偶",
+        "avatar": "https://avatar.dmzj.com/32/57/3257974cb6f5136c86763828a294a854.png"
+      }
+    ]
+  }
+}

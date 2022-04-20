@@ -1,0 +1,83 @@
+{
+  "id": 11473,
+  "islong": 2,
+  "direction": 1,
+  "title": "我那讨厌透顶的朋友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/wonataoyandepengyou1.jpg",
+  "description": "关于我那个让人讨厌透顶的朋友的故事。",
+  "last_updatetime": 1373280286,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 88135,
+  "hit_num": 525484,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6036,
+      "tag_name": "雁须磨子"
+    }
+  ],
+  "subscribe_num": 304,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22931,
+          "chapter_title": "短篇02续：little by little",
+          "updatetime": 1373280286,
+          "filesize": 1472635,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 22886,
+          "chapter_title": "短篇02",
+          "updatetime": 1372999955,
+          "filesize": 2162013,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22277,
+          "chapter_title": "短篇01",
+          "updatetime": 1369892256,
+          "filesize": 1621473,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 24966736,
+        "uid": 108444403,
+        "content": "这个剧情有点凌乱，第一话操作没看懂",
+        "createtime": 1583516637,
+        "nickname": "MisterK",
+        "avatar": "https://avatar.dmzj.com/35/69/35695d6f3b57090c2fe29c93bfe9eb68.png"
+      },
+      {
+        "comment_id": 23872728,
+        "uid": 109521041,
+        "content": "啊 01 真是妙 不知是排版的问题……不是我的问题 02真是有点脸不不不设定盲",
+        "createtime": 1581067359,
+        "nickname": "dmzj_109521041",
+        "avatar": "https://avatar.dmzj.com/4f/f6/4ff62a0e8b277700455eb0d002ee26a0.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 19180,
+  "islong": 2,
+  "direction": 1,
+  "title": "神夜与武",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/shengyeyuwufengmianl.jpg",
+  "description": "我在很久之前开始。。。就有了想见的人。。。",
+  "last_updatetime": 1434250746,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 183695,
+  "hit_num": 256537,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 882,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42036,
+          "chapter_title": "1话",
+          "updatetime": 1434250746,
+          "filesize": 4804319,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 18369652,
+        "uid": 101241546,
+        "content": "短，而且感觉都没讲完，好随便啊",
+        "createtime": 1563447026,
+        "nickname": "雷翔龍翼",
+        "avatar": "https://avatar.dmzj.com/e2/e4/e2e49199e5024f8f9d8548b1f260d120.png"
+      },
+      {
+        "comment_id": 3201755,
+        "uid": 104836762,
+        "content": "辉夜姬？",
+        "createtime": 1509395597,
+        "nickname": "行歌樣",
+        "avatar": "https://avatar.dmzj.com/37/37/373783ad213476ab14294383ed68abf1.png"
+      }
+    ]
+  }
+}

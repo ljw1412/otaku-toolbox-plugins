@@ -1,0 +1,82 @@
+{
+  "id": 19267,
+  "islong": 2,
+  "direction": 2,
+  "title": "捕蛇者说",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1002095961434631910.jpg",
+  "description": "一个古老传说中的蛇王，一个赤胆忠心的将军，一个孝感天地的少年，一场欲望之战之后，打破了蛇王以往的生活。",
+  "last_updatetime": 1440066216,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 17640,
+  "hit_num": 290292,
+  "uid": 100209596,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    },
+    {
+      "tag_id": 3324,
+      "tag_name": "武侠"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9636,
+      "tag_name": "炒饭漫画"
+    }
+  ],
+  "subscribe_num": 226,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44464,
+          "chapter_title": "2话",
+          "updatetime": 1440066216,
+          "filesize": 2089117,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42202,
+          "chapter_title": "1话",
+          "updatetime": 1434682807,
+          "filesize": 1725840,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "微博@炒饭漫画",
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 29171641,
+        "uid": 111078164,
+        "content": "大哥求求了，更新吧",
+        "createtime": 1595514905,
+        "nickname": "dmzj_111078164",
+        "avatar": "https://avatar.dmzj.com/c1/d6/c1d6cd6ecbcbabcce15271bc8ea1fa10.png"
+      },
+      {
+        "comment_id": 25410781,
+        "uid": 106049397,
+        "content": "挖坟，五年了",
+        "createtime": 1584533784,
+        "nickname": "瑟尔拉",
+        "avatar": "https://avatar.dmzj.com/36/69/3669e4d022fbdf919e4fa90cbab90b7f.png"
+      }
+    ]
+  }
+}

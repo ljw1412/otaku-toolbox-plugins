@@ -1,0 +1,73 @@
+{
+  "id": 10826,
+  "islong": 2,
+  "direction": 1,
+  "title": "你是我的",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/nishiwode.jpg",
+  "description": "松永：學妹我只能幫學姐到這了。",
+  "last_updatetime": 1365062827,
+  "copyright": 0,
+  "first_letter": "n",
+  "hot_num": 390737,
+  "hit_num": 1568523,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5757,
+      "tag_name": "スカーレットベリ子"
+    }
+  ],
+  "subscribe_num": 2014,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20862,
+          "chapter_title": "1话",
+          "updatetime": 1365062828,
+          "filesize": 3260552,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 98,
+    "latest_comment": [
+      {
+        "comment_id": 29727507,
+        "uid": 109904326,
+        "content": "13年远古老篇那时候dm之家就在运行了？",
+        "createtime": 1597593464,
+        "nickname": "odDASU",
+        "avatar": "https://avatar.dmzj.com/44/56/44565dd0600f9a6cbe0531262fd92e31.png"
+      },
+      {
+        "comment_id": 28905001,
+        "uid": 110079044,
+        "content": "这完结了吗？",
+        "createtime": 1594609788,
+        "nickname": "日常什么的，最棒了",
+        "avatar": "https://avatar.dmzj.com/ff/b9/ffb92970af7d3b39c8f1c38686acf72d.png"
+      }
+    ]
+  }
+}

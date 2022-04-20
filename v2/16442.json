@@ -1,0 +1,58 @@
+{
+  "id": 16442,
+  "islong": 2,
+  "direction": 1,
+  "title": "怪物",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/1219guaiwuyanifm.jpg",
+  "description": "小龙在班上一直被欺负，沉默寡言的他，被人叫做“怪物”——",
+  "last_updatetime": 1418969282,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 14806,
+  "hit_num": 204233,
+  "uid": 100099714,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8262,
+      "tag_name": "鲜漫动漫"
+    }
+  ],
+  "subscribe_num": 65,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36298,
+          "chapter_title": "1话",
+          "updatetime": 1418969282,
+          "filesize": 1295450,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

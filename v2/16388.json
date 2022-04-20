@@ -1,0 +1,113 @@
+{
+  "id": 16388,
+  "islong": 2,
+  "direction": 1,
+  "title": "小戏倚天",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/xiaoxiyitian.jpg",
+  "description": "大概，可能，也许，貌似，好像可以算是倚天屠龙记的前传。。。",
+  "last_updatetime": 1444901457,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 9611,
+  "hit_num": 234420,
+  "uid": 100200776,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3324,
+      "tag_name": "武侠"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8152,
+      "tag_name": "奕南"
+    }
+  ],
+  "subscribe_num": 40,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42014,
+          "chapter_title": "7话",
+          "updatetime": 1444901457,
+          "filesize": 1529664,
+          "chapter_order": 16
+        },
+        {
+          "chapter_id": 42013,
+          "chapter_title": "6话",
+          "updatetime": 1444901420,
+          "filesize": 1435164,
+          "chapter_order": 15
+        },
+        {
+          "chapter_id": 42012,
+          "chapter_title": "5话",
+          "updatetime": 1444901377,
+          "filesize": 1100012,
+          "chapter_order": 14
+        },
+        {
+          "chapter_id": 42011,
+          "chapter_title": "4话",
+          "updatetime": 1444901344,
+          "filesize": 1174481,
+          "chapter_order": 13
+        },
+        {
+          "chapter_id": 42010,
+          "chapter_title": "3话",
+          "updatetime": 1444901295,
+          "filesize": 1271740,
+          "chapter_order": 12
+        },
+        {
+          "chapter_id": 38403,
+          "chapter_title": "2话",
+          "updatetime": 1435226437,
+          "filesize": 1191999,
+          "chapter_order": 11
+        },
+        {
+          "chapter_id": 32770,
+          "chapter_title": "1话",
+          "updatetime": 1418814298,
+          "filesize": 1704010,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 492716,
+        "uid": 26968461,
+        "content": "赞一个",
+        "createtime": 1444974774,
+        "nickname": "哦呵呵君",
+        "avatar": "https://avatar.dmzj.com/77/78/7778fd93dd3b59b2a0973d445528dbc4.png"
+      },
+      {
+        "comment_id": 492497,
+        "uid": 319340,
+        "content": "画得已经比绝大多数国漫好了，其它国漫人物，场景真心各种崩。当然细节永远是最大的问题，估计也没什么好条件去完善",
+        "createtime": 1444928064,
+        "nickname": "aloop",
+        "avatar": "https://avatar.dmzj.com/84/9d/849d36cb0e94fbac3cf7a926c55155d9.png"
+      }
+    ]
+  }
+}

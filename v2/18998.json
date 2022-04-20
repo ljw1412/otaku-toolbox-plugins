@@ -1,0 +1,69 @@
+{
+  "id": 18998,
+  "islong": 2,
+  "direction": 1,
+  "title": "pretty study",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/prettystudy27l.jpg",
+  "description": "二航战百合本",
+  "last_updatetime": 1433226908,
+  "copyright": 0,
+  "first_letter": "p",
+  "hot_num": 14414,
+  "hit_num": 120385,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9481,
+      "tag_name": "こまちなろた"
+    }
+  ],
+  "subscribe_num": 107,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37656,
+          "chapter_title": "1话",
+          "updatetime": 1433226908,
+          "filesize": 3184436,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 2442301,
+        "uid": 101343116,
+        "content": "安定の二航！",
+        "createtime": 1499443121,
+        "nickname": "七转福音",
+        "avatar": "https://avatar.dmzj.com/51/95/5195614707ad59a57aa9f270bec658be.png"
+      },
+      {
+        "comment_id": 481287,
+        "uid": 100320423,
+        "content": "哇哦",
+        "createtime": 1443502553,
+        "nickname": "EMO2716",
+        "avatar": "https://avatar.dmzj.com/62/80/62800a7bca4d41aa7c43f7a67d0060a7.png"
+      }
+    ]
+  }
+}

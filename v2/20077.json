@@ -1,0 +1,73 @@
+{
+  "id": 20077,
+  "islong": 2,
+  "direction": 1,
+  "title": "Chirality",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/0721Chiralityfml.jpg",
+  "description": "广阔的宇宙为舞台，一世一代的胜负拉开了帷幕！远离着地球的人们在宇宙的尽头所想的是……？",
+  "last_updatetime": 1437450189,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 25068,
+  "hit_num": 138459,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4399,
+      "tag_name": "大石胜(大石まさる)"
+    }
+  ],
+  "subscribe_num": 161,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43214,
+          "chapter_title": "1话",
+          "updatetime": 1437450189,
+          "filesize": 4114016,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 29769970,
+        "uid": 105011297,
+        "content": "真是精致的风格 喜欢！",
+        "createtime": 1597755466,
+        "nickname": "你说干什么",
+        "avatar": "https://avatar.dmzj.com/e4/a2/e4a2de523b23972ce3a71bb6e125f92b.png"
+      },
+      {
+        "comment_id": 27126464,
+        "uid": 100493266,
+        "content": "重温一下",
+        "createtime": 1588679448,
+        "nickname": "大盗仙人掌",
+        "avatar": "https://avatar.dmzj.com/61/9d/619d117d7560adc7bc1fc7c06c9db1c5.png"
+      }
+    ]
+  }
+}

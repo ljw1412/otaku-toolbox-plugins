@@ -1,0 +1,69 @@
+{
+  "id": 10298,
+  "islong": 2,
+  "direction": 1,
+  "title": "Bigger Hunter",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/biggerhunter20130208.jpg",
+  "description": "——每隔90天 神就会在我们面前出现一次……然后被赐予了神谕的人，被当做神的眷属一起带走……只是被带走的人，却再也没有回来",
+  "last_updatetime": 1360334158,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 12538,
+  "hit_num": 403627,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5478,
+      "tag_name": "优吾"
+    }
+  ],
+  "subscribe_num": 53,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20626,
+          "chapter_title": "1话",
+          "updatetime": 1360334158,
+          "filesize": 4840428,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 101907,
+        "uid": 15325905,
+        "content": "挺好的 还希望连载看看.",
+        "createtime": 1360377525,
+        "nickname": "尛、神",
+        "avatar": "https://avatar.dmzj.com/e7/0a/e70a625eb8f4f3ec78fe6f0a96723183.png"
+      },
+      {
+        "comment_id": 101887,
+        "uid": 9803855,
+        "content": "大概会连载的吧。。恩，有可能。",
+        "createtime": 1360355727,
+        "nickname": "为我♪自己坏♬",
+        "avatar": "https://avatar.dmzj.com/ad/b1/adb1e93504926424de2f82709ad92c74.png"
+      }
+    ]
+  }
+}

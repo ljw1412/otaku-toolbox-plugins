@@ -1,0 +1,79 @@
+{
+  "id": 11671,
+  "islong": 2,
+  "direction": 1,
+  "title": "梦幻秘密",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/mhmm.jpg",
+  "description": "突然间，出现在我面前的奇妙之人……你到底……是……谁──!? ",
+  "last_updatetime": 1370961924,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mhmm",
+  "hidden": 0,
+  "hot_num": 42077,
+  "hit_num": 621931,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22260,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6136,
+      "tag_name": "德永さつき"
+    }
+  ],
+  "subscribe_num": 230,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22260,
+          "chapter_title": "14话",
+          "updatetime": 1370961924,
+          "filesize": 4077819,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 629568,
+        "uid": 100609284,
+        "content": "不错",
+        "createtime": 1455842057,
+        "nickname": "我觉得你说的有点过哦",
+        "avatar": "https://avatar.dmzj.com/19/72/1972414ade04d0b18a4cfc9ebd166e92.png"
+      },
+      {
+        "comment_id": 436176,
+        "uid": 15312149,
+        "content": "超短的感觉，死神爱上人类看个几篇这种故事，通常没有好结果呀..哈哈，画风很好看，寻找满月就是死神变成人类.还有就是死神消失的..",
+        "createtime": 1437727699,
+        "nickname": "笑颜、",
+        "avatar": "https://avatar.dmzj.com/4a/7f/4a7fd7430b9efae525eff8f04a2b01d5.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

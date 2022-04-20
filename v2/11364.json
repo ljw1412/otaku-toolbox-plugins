@@ -1,0 +1,84 @@
+{
+  "id": 11364,
+  "islong": 2,
+  "direction": 1,
+  "title": "天使之泪",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/tianshizhilei.jpg",
+  "description": "关系亲密的双胞胎恋爱了 奇迹发生了 悲恋开始了...",
+  "last_updatetime": 1379941130,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 25751,
+  "hit_num": 1347928,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5978,
+      "tag_name": "长谷瑠依"
+    }
+  ],
+  "subscribe_num": 109,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24291,
+          "chapter_title": "后篇",
+          "updatetime": 1379941130,
+          "filesize": 10851877,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 21999,
+          "chapter_title": "前篇",
+          "updatetime": 1369050270,
+          "filesize": 14691050,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 27511873,
+        "uid": 108845109,
+        "content": "感觉这种题材可以画得更好一些啊",
+        "createtime": 1589897423,
+        "nickname": "RainNovember",
+        "avatar": "https://avatar.dmzj.com/95/90/95901d0a92f4a7926b30f617c3055437.png"
+      },
+      {
+        "comment_id": 1817907,
+        "uid": 102028280,
+        "content": "心疼小葵",
+        "createtime": 1487311572,
+        "nickname": "老叶啊老叶",
+        "avatar": "https://avatar.dmzj.com/98/04/9804ca1880258c82b78a8ed302cea1e1.png"
+      }
+    ]
+  }
+}

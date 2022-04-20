@@ -1,0 +1,73 @@
+{
+  "id": 10203,
+  "islong": 2,
+  "direction": 1,
+  "title": "HAPPY GIRL(红蓝)",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/happygirl.jpg",
+  "description": "同样是红蓝，各种百合本",
+  "last_updatetime": 1359210293,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 109246,
+  "hit_num": 344832,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5423,
+      "tag_name": "やわらぎ瓶"
+    }
+  ],
+  "subscribe_num": 561,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20491,
+          "chapter_title": "1话",
+          "updatetime": 1359210293,
+          "filesize": 3986559,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 27226112,
+        "uid": 107954478,
+        "content": "我好了！",
+        "createtime": 1588962766,
+        "nickname": "早苗呱",
+        "avatar": "https://avatar.dmzj.com/c1/df/c1dfaa2aef37749dc1659e22ab242479.png"
+      },
+      {
+        "comment_id": 26715711,
+        "uid": 109295931,
+        "content": "百合控之灯\r\n待百合花香四溢时，我轻轻地来，又轻轻地走，不带走一丝花香。\r\n今日愿化指路之灯，在隐匿时刻发出微亮的光芒，指引那迷茫的同胞，指向那纯洁至臻的百合之花。",
+        "createtime": 1587525624,
+        "nickname": "湛世幽兰",
+        "avatar": "https://avatar.dmzj.com/32/40/3240f2028b9d72e0191ae20b3d259e8d.png"
+      }
+    ]
+  }
+}

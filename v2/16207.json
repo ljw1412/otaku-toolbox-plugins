@@ -1,0 +1,83 @@
+{
+  "id": 16207,
+  "islong": 2,
+  "direction": 1,
+  "title": "AKKG",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/AKKGakkg.jpg",
+  "description": "赤城与加贺的百合恋情（单恋）以及镇守府的搞笑日常",
+  "last_updatetime": 1416973785,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "akkg",
+  "hidden": 0,
+  "hot_num": 45457,
+  "hit_num": 308196,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 35866,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7145,
+      "tag_name": "猫娘亭"
+    }
+  ],
+  "subscribe_num": 316,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35866,
+          "chapter_title": "1话",
+          "updatetime": 1416973785,
+          "filesize": 4164883,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 19698742,
+        "uid": 107328023,
+        "content": "笑爆",
+        "createtime": 1566574379,
+        "nickname": "雨中山荷叶",
+        "avatar": "https://avatar.dmzj.com/9f/ab/9fab0d181adb5200609ec25de25f7a91.png"
+      },
+      {
+        "comment_id": 1843935,
+        "uid": 100096008,
+        "content": "提督:青叶你这个舰人",
+        "createtime": 1487861168,
+        "nickname": "布鲁克林",
+        "avatar": "https://avatar.dmzj.com/98/6a/986a9ebc50effa8c2ec090f2222e4295.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

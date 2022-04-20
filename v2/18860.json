@@ -1,0 +1,71 @@
+{
+  "id": 18860,
+  "islong": 2,
+  "direction": 2,
+  "title": "蜘蛛丛林",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1001785571432552443.jpg",
+  "description": "迷幻&丛林&冒险",
+  "last_updatetime": 1432553943,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 7339,
+  "hit_num": 64267,
+  "uid": 100178557,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9402,
+      "tag_name": "法拉利"
+    }
+  ],
+  "subscribe_num": 30,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41455,
+          "chapter_title": "1话",
+          "updatetime": 1432553943,
+          "filesize": 597291,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "喜欢法拉利作品的喷油请关注FairyRabin仙女拉比的微博哦！会有更金彩的作品哦~",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 11755354,
+        "uid": 100993718,
+        "content": "迷",
+        "createtime": 1550733128,
+        "nickname": "你为何这么吊",
+        "avatar": "https://avatar.dmzj.com/a4/7b/a47b1083b8549fd0670ee979735cef87.png"
+      }
+    ]
+  }
+}

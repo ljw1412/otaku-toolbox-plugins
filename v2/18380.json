@@ -1,0 +1,63 @@
+{
+  "id": 18380,
+  "islong": 2,
+  "direction": 2,
+  "title": "收割者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1001055781430119771.jpg",
+  "description": "收割者",
+  "last_updatetime": 1430186089,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 2515,
+  "hit_num": 51885,
+  "uid": 100105578,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8937,
+      "tag_name": "北巷"
+    }
+  ],
+  "subscribe_num": 7,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40638,
+          "chapter_title": "短篇",
+          "updatetime": 1430186089,
+          "filesize": 541148,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 2374204,
+        "uid": 101609308,
+        "content": "早年作品还不错嘛",
+        "createtime": 1498388292,
+        "nickname": "wulichildeashland",
+        "avatar": "https://avatar.dmzj.com/99/20/99204acbbefb67edc8e03f340f6a052c.png"
+      }
+    ]
+  }
+}

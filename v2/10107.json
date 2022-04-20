@@ -1,0 +1,73 @@
+{
+  "id": 10107,
+  "islong": 2,
+  "direction": 1,
+  "title": "切断",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/qieduan.jpg",
+  "description": "与谁都不同的这件事，正是孤独所存在的理由····",
+  "last_updatetime": 1358322400,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 52614,
+  "hit_num": 941599,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5356,
+      "tag_name": "武田みか"
+    },
+    {
+      "tag_id": 5357,
+      "tag_name": "いえばれ "
+    }
+  ],
+  "subscribe_num": 178,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22465,
+          "chapter_title": "1话",
+          "updatetime": 1358322400,
+          "filesize": 2734790,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 25584818,
+        "uid": 109521041,
+        "content": "意外的有意思",
+        "createtime": 1584932321,
+        "nickname": "dmzj_109521041",
+        "avatar": "https://avatar.dmzj.com/4f/f6/4ff62a0e8b277700455eb0d002ee26a0.png"
+      },
+      {
+        "comment_id": 1508436,
+        "uid": 101930911,
+        "content": "《窥心者》里的有关于这的也^",
+        "createtime": 1480220170,
+        "nickname": "玖雪",
+        "avatar": "https://avatar.dmzj.com/89/3b/893b13e5e1786a46a6fae35b09ee5de5.png"
+      }
+    ]
+  }
+}

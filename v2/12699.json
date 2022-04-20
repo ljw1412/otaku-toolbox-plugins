@@ -1,0 +1,69 @@
+{
+  "id": 12699,
+  "islong": 2,
+  "direction": 2,
+  "title": "毒藤女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/dutengnv.jpg",
+  "description": "dc的new52系列，毒藤女的故事，讲述她幼年的故事",
+  "last_updatetime": 1378748571,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 1915382,
+  "hit_num": 316040,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 7802,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24123,
+          "chapter_title": "1卷",
+          "updatetime": 1378748571,
+          "filesize": 4847930,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 605380,
+        "uid": 100335265,
+        "content": "没有更新的",
+        "createtime": 1454662687,
+        "nickname": "DarkMG",
+        "avatar": "https://avatar.dmzj.com/04/9a/049a283e0fd4b8a12df571a0aaef4974.png"
+      },
+      {
+        "comment_id": 155946,
+        "uid": 24982564,
+        "content": "178上已经有一个毒藤女了",
+        "createtime": 1378776830,
+        "nickname": "此ID一经发现立即封禁",
+        "avatar": "https://avatar.dmzj.com/fc/01/fc018e503b039acbbaf7edb51b2e7bd1.png"
+      }
+    ]
+  }
+}

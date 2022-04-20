@@ -1,0 +1,99 @@
+{
+  "id": 19736,
+  "islong": 2,
+  "direction": 2,
+  "title": "僵尸王日记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1002431021437231445.jpg",
+  "description": "僵尸王日记",
+  "last_updatetime": 1440253612,
+  "copyright": 1,
+  "first_letter": "j",
+  "hot_num": 28866,
+  "hit_num": 808403,
+  "uid": 100243102,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9885,
+      "tag_name": "芦鑫"
+    }
+  ],
+  "subscribe_num": 178,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42257,
+          "chapter_title": "5话",
+          "updatetime": 1440253612,
+          "filesize": 1156272,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 41972,
+          "chapter_title": "4话",
+          "updatetime": 1439652884,
+          "filesize": 1031984,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 41508,
+          "chapter_title": "3话",
+          "updatetime": 1438524562,
+          "filesize": 1044746,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 40957,
+          "chapter_title": "2话",
+          "updatetime": 1437232333,
+          "filesize": 734691,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40717,
+          "chapter_title": "1话",
+          "updatetime": 1436631858,
+          "filesize": 1616917,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 984808,
+        "uid": 101674832,
+        "content": "还没有贴吧更新快，哈哈",
+        "createtime": 1467860545,
+        "nickname": "落幕01544",
+        "avatar": "https://avatar.dmzj.com/43/07/430789b697893d24764946aba0c8a44e.png"
+      },
+      {
+        "comment_id": 538255,
+        "uid": 100272052,
+        "content": " 太监了么",
+        "createtime": 1449842654,
+        "nickname": "不锈钢脸皮",
+        "avatar": "https://avatar.dmzj.com/d8/ab/d8abcdc0ca399a7a96be8c6d9289096e.png"
+      }
+    ]
+  }
+}

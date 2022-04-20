@@ -1,0 +1,132 @@
+{
+  "id": 17015,
+  "islong": 2,
+  "direction": 2,
+  "title": "Naja",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/majameiman25.jpg",
+  "description": "这是一位女杀手的故事",
+  "last_updatetime": 1575126459,
+  "copyright": 0,
+  "first_letter": "n",
+  "hot_num": 275746,
+  "hit_num": 406704,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3596,
+      "tag_name": "Dargaud"
+    }
+  ],
+  "subscribe_num": 1440,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95466,
+          "chapter_title": "10卷",
+          "updatetime": 1575126459,
+          "filesize": 5546336,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 95210,
+          "chapter_title": "9卷",
+          "updatetime": 1574260180,
+          "filesize": 3724988,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 95032,
+          "chapter_title": "8卷",
+          "updatetime": 1573718722,
+          "filesize": 4567086,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 95031,
+          "chapter_title": "7卷",
+          "updatetime": 1573718726,
+          "filesize": 3929696,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 95030,
+          "chapter_title": "6卷",
+          "updatetime": 1573718283,
+          "filesize": 4589428,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 60753,
+          "chapter_title": "5卷",
+          "updatetime": 1480250545,
+          "filesize": 2605386,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 52512,
+          "chapter_title": "4卷",
+          "updatetime": 1459784868,
+          "filesize": 2840252,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 46492,
+          "chapter_title": "3卷",
+          "updatetime": 1444994487,
+          "filesize": 2221332,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 43408,
+          "chapter_title": "2卷",
+          "updatetime": 1437727647,
+          "filesize": 2354049,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 37749,
+          "chapter_title": "1卷",
+          "updatetime": 1423151351,
+          "filesize": 2526729,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 66,
+    "latest_comment": [
+      {
+        "comment_id": 28650405,
+        "uid": 109250134,
+        "content": "留",
+        "createtime": 1593782148,
+        "nickname": "布灵布灵",
+        "avatar": "https://avatar.dmzj.com/70/86/708649313774494de6475734c2d34937.png"
+      },
+      {
+        "comment_id": 27945777,
+        "uid": 100665872,
+        "content": "不错，很早以前看的",
+        "createtime": 1591364341,
+        "nickname": "Hestia",
+        "avatar": "https://avatar.dmzj.com/50/44/5044cf235eeace3184e451bc4b33a234.png"
+      }
+    ]
+  }
+}

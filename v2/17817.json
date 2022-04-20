@@ -1,0 +1,85 @@
+{
+  "id": 17817,
+  "islong": 2,
+  "direction": 2,
+  "title": "一位键盘侠的自白",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1001047411427775484.jpg",
+  "description": "喂汤你喝不~……笑",
+  "last_updatetime": 1427955766,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 4002,
+  "hit_num": 28690,
+  "uid": 100104741,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8906,
+      "tag_name": "今天你有哈哈哈嘛"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39801,
+          "chapter_title": "3话",
+          "updatetime": 1427955766,
+          "filesize": 498804,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 39716,
+          "chapter_title": "2话",
+          "updatetime": 1427709051,
+          "filesize": 434840,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 39717,
+          "chapter_title": "1话",
+          "updatetime": 1427698430,
+          "filesize": 610139,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 26123283,
+        "uid": 107588508,
+        "content": "乖乖",
+        "createtime": 1586107064,
+        "nickname": "dmzj_107588508",
+        "avatar": "https://avatar.dmzj.com/18/62/18624a5623f0c12bd8a7008a0baeaa4f.png"
+      },
+      {
+        "comment_id": 16204569,
+        "uid": 109139321,
+        "content": "嗯嗯",
+        "createtime": 1558419524,
+        "nickname": "阿无大人",
+        "avatar": "https://avatar.dmzj.com/87/58/8758a9701071b8c6a12ee494e39cc552.png"
+      }
+    ]
+  }
+}

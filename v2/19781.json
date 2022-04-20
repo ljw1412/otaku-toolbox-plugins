@@ -1,0 +1,63 @@
+{
+  "id": 19781,
+  "islong": 2,
+  "direction": 2,
+  "title": "欠我一个拥抱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1436929665.jpg",
+  "description": "欠我一个拥抱",
+  "last_updatetime": 1436929432,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 586,
+  "hit_num": 697,
+  "uid": 100248630,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9898,
+      "tag_name": "coolman"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40809,
+          "chapter_title": "1话",
+          "updatetime": 1436929432,
+          "filesize": 156723,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 460170,
+        "uid": 100296569,
+        "content": "这是什么",
+        "createtime": 1440411647,
+        "nickname": "love live 647456",
+        "avatar": "https://avatar.dmzj.com/81/4a/814a72ed2ad19549bcb4b64a8b766599.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 19789,
+  "islong": 2,
+  "direction": 2,
+  "title": "弱智少年欢乐多",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1002475581436862219.jpg",
+  "description": "嗯，想不出来要怎么介绍···",
+  "last_updatetime": 1436862353,
+  "copyright": 1,
+  "first_letter": "r",
+  "hot_num": 2819,
+  "hit_num": 9031,
+  "uid": 100247558,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9905,
+      "tag_name": "小森"
+    }
+  ],
+  "subscribe_num": 9,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39051,
+          "chapter_title": "1话",
+          "updatetime": 1436862353,
+          "filesize": 1921310,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 28780466,
+        "uid": 108069985,
+        "content": "我是怎么进来的？",
+        "createtime": 1594192729,
+        "nickname": "兽耳娘最棒",
+        "avatar": "https://avatar.dmzj.com/65/46/6546498bfcb1b5fb9d31ddf02a29bb6b.png"
+      },
+      {
+        "comment_id": 430028,
+        "uid": 100212332,
+        "content": "图好大啊！/委屈",
+        "createtime": 1436969204,
+        "nickname": "隔壁请喝茶",
+        "avatar": "https://avatar.dmzj.com/90/44/9044eaea5f4525c1e0bd95955f213cef.png"
+      }
+    ]
+  }
+}

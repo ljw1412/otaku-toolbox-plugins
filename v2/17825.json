@@ -1,0 +1,98 @@
+{
+  "id": 17825,
+  "islong": 1,
+  "direction": 2,
+  "title": "十万个小肉段",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1001048311427705488.jpg",
+  "description": "十万个小肉段",
+  "last_updatetime": 1427767002,
+  "last_update_chapter_name": "06",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "swgxrd",
+  "hidden": 0,
+  "hot_num": 45897,
+  "hit_num": 640043,
+  "uid": 100104831,
+  "is_lock": 0,
+  "last_update_chapter_id": 39679,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8153,
+      "tag_name": "球球的画"
+    }
+  ],
+  "subscribe_num": 252,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39679,
+          "chapter_title": "6话",
+          "updatetime": 1427767002,
+          "filesize": 463184,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 39680,
+          "chapter_title": "5话",
+          "updatetime": 1427705678,
+          "filesize": 499299,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 39681,
+          "chapter_title": "3话",
+          "updatetime": 1427705583,
+          "filesize": 275595,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 39682,
+          "chapter_title": "2话",
+          "updatetime": 1427705563,
+          "filesize": 256273,
+          "chapter_order": 2
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 3037995,
+        "uid": 105367568,
+        "content": "为什么这长时间",
+        "createtime": 1507245547,
+        "nickname": "相识相爱分离",
+        "avatar": "https://avatar.dmzj.com/83/65/83653a32624bdd60d2a016509aa64dbc.png"
+      },
+      {
+        "comment_id": 2547053,
+        "uid": 104945396,
+        "content": "哈哈哈哈哈",
+        "createtime": 1500796398,
+        "nickname": "狮心人",
+        "avatar": "https://avatar.dmzj.com/68/38/683837847bef2859cc0f5048c090d936.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

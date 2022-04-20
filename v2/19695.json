@@ -1,0 +1,75 @@
+{
+  "id": 19695,
+  "islong": 2,
+  "direction": 2,
+  "title": "约定之地",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1002379501436449608.jpg",
+  "description": "小萝莉素素和暖男阿寒的故事",
+  "last_updatetime": 1436449723,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 12334,
+  "hit_num": 239315,
+  "uid": 100237950,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9864,
+      "tag_name": "栗子liz"
+    }
+  ],
+  "subscribe_num": 104,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42823,
+          "chapter_title": "1话",
+          "updatetime": 1436449723,
+          "filesize": 1659610,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 1037745,
+        "uid": 100816248,
+        "content": "最后没在一起",
+        "createtime": 1468971308,
+        "nickname": "网名什么的吃掉就好③",
+        "avatar": "https://avatar.dmzj.com/f5/3d/f53d9ebcb4da3fbddebb66e47b1a1fdb.png"
+      },
+      {
+        "comment_id": 455704,
+        "uid": 100327361,
+        "content": "故事暖，画风暖，绘本风！作者想出绘本吗？一定买！",
+        "createtime": 1439908749,
+        "nickname": "珺四娘",
+        "avatar": "https://avatar.dmzj.com/53/04/5304294359281578507df04e333c15ed.png"
+      }
+    ]
+  }
+}

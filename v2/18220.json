@@ -1,0 +1,80 @@
+{
+  "id": 18220,
+  "islong": 2,
+  "direction": 1,
+  "title": "Parole Parade",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/ParoleParade2785l.jpg",
+  "description": "紫=鲁邦 山田=钱形（作者脑洞）……",
+  "last_updatetime": 1429421233,
+  "copyright": 0,
+  "first_letter": "p",
+  "hot_num": 77782,
+  "hit_num": 109884,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4904,
+      "tag_name": "滝太郎"
+    },
+    {
+      "tag_id": 6157,
+      "tag_name": "LETRA"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 378,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40388,
+          "chapter_title": "真Parole Parade",
+          "updatetime": 1429421233,
+          "filesize": 6581061,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 40369,
+          "chapter_title": "1话",
+          "updatetime": 1429359742,
+          "filesize": 6139740,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 27747641,
+        "uid": 105149614,
+        "content": "对四季映姬的描写很传神",
+        "createtime": 1590637443,
+        "nickname": "L656256",
+        "avatar": "https://avatar.dmzj.com/1b/5b/1b5bd9c88e4403723e4a0e3d7d7431a4.png"
+      },
+      {
+        "comment_id": 25166570,
+        "uid": 106043299,
+        "content": "彼岸组好评",
+        "createtime": 1583977868,
+        "nickname": "KODmzj",
+        "avatar": "https://avatar.dmzj.com/11/32/11321dc013019469a45a7f7ac5078661.png"
+      }
+    ]
+  }
+}

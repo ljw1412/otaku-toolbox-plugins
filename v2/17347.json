@@ -1,0 +1,61 @@
+{
+  "id": 17347,
+  "islong": 2,
+  "direction": 2,
+  "title": "成都街道由来",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/0309chengdujiedaoyoulaifml.jpg",
+  "description": "讲述成都街道的由来",
+  "last_updatetime": 1425873056,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 3735,
+  "hit_num": 19666,
+  "uid": 100085211,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8670,
+      "tag_name": "纸间欢颜"
+    }
+  ],
+  "subscribe_num": 13,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38936,
+          "chapter_title": "2话",
+          "updatetime": 1425873056,
+          "filesize": 357870,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 38935,
+          "chapter_title": "1话",
+          "updatetime": 1425873053,
+          "filesize": 620907,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

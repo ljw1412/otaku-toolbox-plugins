@@ -1,0 +1,82 @@
+{
+  "id": 19219,
+  "islong": 2,
+  "direction": 2,
+  "title": "乒乓王子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871434528635.jpg",
+  "description": "他们为了守护身边仅有的存在，用一切去探求真实，这是两个神经病打乒乓球的故事~",
+  "last_updatetime": 1434620728,
+  "copyright": 1,
+  "first_letter": "p",
+  "hot_num": 5321,
+  "hit_num": 65218,
+  "uid": 100205887,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 20,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38215,
+          "chapter_title": "2话",
+          "updatetime": 1434620728,
+          "filesize": 1180198,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 38178,
+          "chapter_title": "1话",
+          "updatetime": 1434530063,
+          "filesize": 1406293,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "他们为了守护身边仅有的存在，用一切去探求真实，这是两个神经病打乒乓球的故事~",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 27505510,
+        "uid": 105838050,
+        "content": "这我记得早完结了",
+        "createtime": 1589877262,
+        "nickname": "dmzj_105838050",
+        "avatar": "https://avatar.dmzj.com/b8/85/b88509ebdac97c6dbd59951748101089.png"
+      },
+      {
+        "comment_id": 540648,
+        "uid": 100163467,
+        "content": "史前巨坑，极乐鸟你们都懂的……",
+        "createtime": 1450059324,
+        "nickname": "夏尔的黑执事",
+        "avatar": "https://avatar.dmzj.com/1d/49/1d499bfa4c8c5b4761ad49f49d625256.png"
+      }
+    ]
+  }
+}

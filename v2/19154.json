@@ -1,0 +1,58 @@
+{
+  "id": 19154,
+  "islong": 2,
+  "direction": 2,
+  "title": "我的绘本",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1001292291433408762.jpg",
+  "description": "练习作品哈~~",
+  "last_updatetime": 1433408931,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 2974,
+  "hit_num": 7852,
+  "uid": 100129229,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9365,
+      "tag_name": "桃色粉嘟嘟"
+    }
+  ],
+  "subscribe_num": 14,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38044,
+          "chapter_title": "不定时更新",
+          "updatetime": 1433408931,
+          "filesize": 133071,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

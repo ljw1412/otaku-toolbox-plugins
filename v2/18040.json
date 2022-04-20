@@ -1,0 +1,73 @@
+{
+  "id": 18040,
+  "islong": 2,
+  "direction": 1,
+  "title": "再见了·天堂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/zjlttfengmianl.jpg",
+  "description": "画风魔性的不死组同人本",
+  "last_updatetime": 1428499054,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 214759,
+  "hit_num": 122502,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5795,
+      "tag_name": "壱"
+    }
+  ],
+  "subscribe_num": 1040,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40061,
+          "chapter_title": "1话",
+          "updatetime": 1428499054,
+          "filesize": 1956203,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 39,
+    "latest_comment": [
+      {
+        "comment_id": 29487586,
+        "uid": 101839055,
+        "content": "听别人说眼要长才能活，那我也这样吧",
+        "createtime": 1596646206,
+        "nickname": "香葱包子",
+        "avatar": "https://avatar.dmzj.com/65/d9/65d9981d1dcd3775ae864ff1574a913d.png"
+      },
+      {
+        "comment_id": 28459195,
+        "uid": 102097741,
+        "content": "有点道满晴明的味道",
+        "createtime": 1593185539,
+        "nickname": "不在服务区内",
+        "avatar": "https://avatar.dmzj.com/60/2d/602d61443b9907179bb65cf6bd42ee52.png"
+      }
+    ]
+  }
+}

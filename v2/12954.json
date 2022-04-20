@@ -1,0 +1,73 @@
+{
+  "id": 12954,
+  "islong": 2,
+  "direction": 1,
+  "title": "忍",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/ren.jpg",
+  "description": "锄强扶弱！！义贼集团“六文钱”的故事！！",
+  "last_updatetime": 1381647196,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 16549,
+  "hit_num": 299325,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6701,
+      "tag_name": "白土悠介"
+    }
+  ],
+  "subscribe_num": 61,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24576,
+          "chapter_title": "短篇",
+          "updatetime": 1381647196,
+          "filesize": 5611869,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 265778,
+        "uid": 24209401,
+        "content": "回复@地上最强萌货:都是试水吧",
+        "createtime": 1406194743,
+        "nickname": "yw殿下",
+        "avatar": "https://avatar.dmzj.com/c9/ed/c9ed8c1108372e62f7a929ebe69c8605.png"
+      },
+      {
+        "comment_id": 265437,
+        "uid": 10141090,
+        "content": "不是作者在试水，而是杂志社在扔敲门砖",
+        "createtime": 1406129928,
+        "nickname": "IAM师走",
+        "avatar": "https://avatar.dmzj.com/83/80/838039cc1f048ee2c875763e461048a8.png"
+      }
+    ]
+  }
+}

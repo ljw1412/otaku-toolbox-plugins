@@ -1,0 +1,75 @@
+{
+  "id": 18772,
+  "islong": 2,
+  "direction": 2,
+  "title": "新倚天屠龙记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0520xinyitiantulongji.jpg",
+  "description": "小同人~",
+  "last_updatetime": 1432114131,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 6056,
+  "hit_num": 63887,
+  "uid": 100217559,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9359,
+      "tag_name": "何弢"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41311,
+          "chapter_title": "1话",
+          "updatetime": 1432114131,
+          "filesize": 759306,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 669567,
+        "uid": 100399235,
+        "content": "什么跟什么？",
+        "createtime": 1457805392,
+        "nickname": "oahyio",
+        "avatar": "https://avatar.dmzj.com/43/09/4309dd65af53e0450bcdd43b632f5d96.png"
+      },
+      {
+        "comment_id": 398292,
+        "uid": 12979567,
+        "content": "叫倚天的人屠龙很搞。。。",
+        "createtime": 1432222225,
+        "nickname": "sd5745124",
+        "avatar": "https://avatar.dmzj.com/29/80/298070c54ee810681d5a41c730a4436e.png"
+      }
+    ]
+  }
+}

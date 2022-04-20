@@ -1,0 +1,87 @@
+{
+  "id": 15491,
+  "islong": 2,
+  "direction": 1,
+  "title": "我喜欢的你",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/0902wxhdrfm.jpg",
+  "description": "青梅竹马的他，已经变成了不良学生了吗？是不是还能够，和过去一样……",
+  "last_updatetime": 1420384103,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 332360,
+  "hit_num": 1363501,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4481,
+      "tag_name": "熊冈冬夕"
+    }
+  ],
+  "subscribe_num": 1845,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34422,
+          "chapter_title": "3话",
+          "updatetime": 1420384103,
+          "filesize": 3626835,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 31546,
+          "chapter_title": "2话",
+          "updatetime": 1409805207,
+          "filesize": 4600736,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 31493,
+          "chapter_title": "1话",
+          "updatetime": 1409644171,
+          "filesize": 4356730,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 28949519,
+        "uid": 105385549,
+        "content": "我喜欢的你你喜欢的他",
+        "createtime": 1594746218,
+        "nickname": "栖口",
+        "avatar": "https://avatar.dmzj.com/31/89/31896b6a39e0662c857f93b9b65e1e44.png"
+      },
+      {
+        "comment_id": 28342058,
+        "uid": 101675983,
+        "content": "哇塞",
+        "createtime": 1592781441,
+        "nickname": "Master33553",
+        "avatar": "https://avatar.dmzj.com/27/5a/275aee63c2f5b50cdc641629cfbc3346.png"
+      }
+    ]
+  }
+}

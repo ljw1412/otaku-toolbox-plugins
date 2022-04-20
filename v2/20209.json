@@ -1,0 +1,107 @@
+{
+  "id": 20209,
+  "islong": 2,
+  "direction": 1,
+  "title": "断罪之花",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1002013721437670648.jpg",
+  "description": "威尼斯的展会上，莉莉被枪击身亡。之后展开的一系列冒险故事。",
+  "last_updatetime": 1447687206,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 68092,
+  "hit_num": 902723,
+  "uid": 100201372,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9588,
+      "tag_name": "木又寸男"
+    }
+  ],
+  "subscribe_num": 596,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43760,
+          "chapter_title": "2.8话",
+          "updatetime": 1447687206,
+          "filesize": 2431029,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 41955,
+          "chapter_title": "2.2话",
+          "updatetime": 1443709488,
+          "filesize": 1065094,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 41058,
+          "chapter_title": "2话",
+          "updatetime": 1441208170,
+          "filesize": 1060973,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 39455,
+          "chapter_title": "1.5话",
+          "updatetime": 1437905386,
+          "filesize": 1769939,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 39385,
+          "chapter_title": "1话",
+          "updatetime": 1437736461,
+          "filesize": 2132187,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "喜欢本漫画的可以关注微博http://weibo.com/u/1573578065关注漫画进度",
+  "comic_notice": "喜欢本漫画的可以关注微博http://weibo.com/u/1573578065关注漫画进度",
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 27210394,
+        "uid": 104246871,
+        "content": "这个看了貌似挺不错诶",
+        "createtime": 1588929405,
+        "nickname": "Hinami",
+        "avatar": "https://avatar.dmzj.com/36/19/361986fc32e3dd3218963e37a9c6e28e.png"
+      },
+      {
+        "comment_id": 25701871,
+        "uid": 105141687,
+        "content": "蝙蝠时期，前来扫墓",
+        "createtime": 1585194835,
+        "nickname": "名字什么的真是够了",
+        "avatar": "https://avatar.dmzj.com/42/94/4294f8f706d07f2069304f7ea60c9db4.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 11420,
+  "islong": 2,
+  "direction": 1,
+  "title": "在那之后",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/zainazhihou.jpg",
+  "description": "幻想乡各种无节操的日常本。",
+  "last_updatetime": 1369384937,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zainazhihou",
+  "hidden": 0,
+  "hot_num": 44500,
+  "hit_num": 226990,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23285,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5941,
+      "tag_name": "STUDIOはまち组"
+    }
+  ],
+  "subscribe_num": 188,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23285,
+          "chapter_title": "1话",
+          "updatetime": 1369384937,
+          "filesize": 1622106,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 545451,
+        "uid": 26434526,
+        "content": "原来是伞叔的本，，，看过《加油！小伞先生》的应该都知道什么情况吧",
+        "createtime": 1450496540,
+        "nickname": "Holy hope",
+        "avatar": "https://avatar.dmzj.com/ad/b7/adb721f2d273ef2487f0c1ae8954665d.png"
+      },
+      {
+        "comment_id": 400577,
+        "uid": 21550364,
+        "content": "封面呐……",
+        "createtime": 1432550239,
+        "nickname": "DWJ 456",
+        "avatar": "https://avatar.dmzj.com/e7/ce/e7cefa8e943d1b6f340f4682522dac1a.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

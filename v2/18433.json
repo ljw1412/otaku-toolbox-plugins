@@ -1,0 +1,93 @@
+{
+  "id": 18433,
+  "islong": 2,
+  "direction": 2,
+  "title": "紫阳花之夏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1001427431430382563.jpg",
+  "description": "《特别优漫》作品",
+  "last_updatetime": 1430385493,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 34273,
+  "hit_num": 1229326,
+  "uid": 100142743,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9189,
+      "tag_name": "二次元漫画"
+    }
+  ],
+  "subscribe_num": 267,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36619,
+          "chapter_title": "03",
+          "updatetime": 1430385493,
+          "filesize": 1603996,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 36618,
+          "chapter_title": "02",
+          "updatetime": 1430382820,
+          "filesize": 1835126,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 36617,
+          "chapter_title": "01",
+          "updatetime": 1430382681,
+          "filesize": 1661266,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 2603139,
+        "uid": 104485390,
+        "content": "这部漫画原本在《优漫》连载，但是后来《优漫》倒闭了，所以这部漫画就停止连载了。。",
+        "createtime": 1501434339,
+        "nickname": "沫70503",
+        "avatar": "https://avatar.dmzj.com/86/0a/860aa71d30a2997501ef8259045c2c35.png"
+      },
+      {
+        "comment_id": 1143479,
+        "uid": 24702484,
+        "content": "封面不就是小豆梓那张图么",
+        "createtime": 1470848739,
+        "nickname": "舞雪桑",
+        "avatar": "https://avatar.dmzj.com/ac/d6/acd68feacbe0435b1f91deb1cad00862.png"
+      }
+    ]
+  }
+}

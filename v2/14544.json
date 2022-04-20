@@ -1,0 +1,80 @@
+{
+  "id": 14544,
+  "islong": 2,
+  "direction": 1,
+  "title": "●REC",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/rec1.jpg",
+  "description": "这是一个痛心疾首发人深省充满正能量的萝莉控的故事…",
+  "last_updatetime": 1423983990,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 2419696,
+  "hit_num": 2289714,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3909,
+      "tag_name": "水あさと"
+    }
+  ],
+  "subscribe_num": 10868,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34597,
+          "chapter_title": "2话",
+          "updatetime": 1423983990,
+          "filesize": 1658914,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 27987,
+          "chapter_title": "1话",
+          "updatetime": 1423983900,
+          "filesize": 488513,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1438,
+    "latest_comment": [
+      {
+        "comment_id": 29837867,
+        "uid": 109729966,
+        "content": "对不起，真的很对不起",
+        "createtime": 1598007493,
+        "nickname": "亱月皜",
+        "avatar": "https://avatar.dmzj.com/c3/0c/c30ce220311eaa8c5e8fc403e33bf431.png"
+      },
+      {
+        "comment_id": 29745676,
+        "uid": 106295864,
+        "content": "没死，一定活着！我不管！女儿就是活着！",
+        "createtime": 1597669059,
+        "nickname": "松鼠爱吃鱼",
+        "avatar": "https://avatar.dmzj.com/ad/ac/adacfc2c8b47ab073dcaf13710260126.png"
+      }
+    ]
+  }
+}

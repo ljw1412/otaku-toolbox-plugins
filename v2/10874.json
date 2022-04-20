@@ -1,0 +1,81 @@
+{
+  "id": 10874,
+  "islong": 2,
+  "direction": 1,
+  "title": "狐仙屋参上",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/huxianwucanshang.jpg",
+  "description": "哎？你看，就在身后……突然出现的不可思议……狐狸？新时代狐仙异闻短篇！",
+  "last_updatetime": 1365258053,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 75680,
+  "hit_num": 410028,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5773,
+      "tag_name": "权平ひつじ"
+    }
+  ],
+  "subscribe_num": 371,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21219,
+          "chapter_title": "1话",
+          "updatetime": 1365258053,
+          "filesize": 7009552,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 29261679,
+        "uid": 111015965,
+        "content": "back",
+        "createtime": 1595849777,
+        "nickname": "dmzj_111015965",
+        "avatar": "https://avatar.dmzj.com/02/a4/02a43f3877c8458e4210e86514769509.png"
+      },
+      {
+        "comment_id": 23054475,
+        "uid": 105107168,
+        "content": "看封面还以为是恐怖短篇……",
+        "createtime": 1578110648,
+        "nickname": "洞sama",
+        "avatar": "https://avatar.dmzj.com/62/06/6206f1ed493f70efc5379fd280d25f39.png"
+      }
+    ]
+  }
+}

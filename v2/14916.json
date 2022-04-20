@@ -1,0 +1,65 @@
+{
+  "id": 14916,
+  "islong": 2,
+  "direction": 2,
+  "title": "街头霸王2014",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/jieba2004.jpg",
+  "description": "街头霸王最新版的漫画，内含有三大章节，分别是香港劫案、敌人迫近与丘陵之下。",
+  "last_updatetime": 1404632000,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 88832,
+  "hit_num": 151415,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1586,
+      "tag_name": "capcom"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 418,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29326,
+          "chapter_title": "0卷",
+          "updatetime": 1404632000,
+          "filesize": 2824088,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 30025293,
+        "uid": 111065316,
+        "content": "？！！沙发唉！！！！",
+        "createtime": 1598708572,
+        "nickname": "今天也很卑微",
+        "avatar": "https://avatar.dmzj.com/12/70/127001dcbb217d006711ea41161dfec4.png"
+      }
+    ]
+  }
+}

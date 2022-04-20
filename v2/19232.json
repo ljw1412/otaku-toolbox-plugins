@@ -1,0 +1,88 @@
+{
+  "id": 19232,
+  "islong": 2,
+  "direction": 2,
+  "title": "声音",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1002082821434538584.jpg",
+  "description": "从被学生的声音吸引从而惺惺相惜，到被学生摒弃因妒生恨。老师杀掉了自己的学生埋在后院，但是事情并没有就此结束，他的声音一直在呼唤着他……",
+  "last_updatetime": 1434538781,
+  "last_update_chapter_name": "下篇",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "shengyin",
+  "hidden": 0,
+  "hot_num": 48867,
+  "hit_num": 166763,
+  "uid": 100208282,
+  "is_lock": 0,
+  "last_update_chapter_id": 42171,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9615,
+      "tag_name": "小摸"
+    },
+    {
+      "tag_id": 9616,
+      "tag_name": "松本弥"
+    }
+  ],
+  "subscribe_num": 135,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42171,
+          "chapter_title": "下篇",
+          "updatetime": 1434538781,
+          "filesize": 1572524,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42170,
+          "chapter_title": "上篇",
+          "updatetime": 1434538714,
+          "filesize": 1349364,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 248,
+    "latest_comment": [
+      {
+        "comment_id": 28743928,
+        "uid": 108766989,
+        "content": "来来来",
+        "createtime": 1594057244,
+        "nickname": "dmzj_108766989",
+        "avatar": "https://avatar.dmzj.com/6a/62/6a62f167c931d7a324b865699a63c632.png"
+      },
+      {
+        "comment_id": 28139481,
+        "uid": 107887420,
+        "content": "很有趣的样子",
+        "createtime": 1592064400,
+        "nickname": "弓竹",
+        "avatar": "https://avatar.dmzj.com/14/19/1419cb9780058429d222dc3cedffdb47.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

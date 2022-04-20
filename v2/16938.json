@@ -1,0 +1,79 @@
+{
+  "id": 16938,
+  "islong": 2,
+  "direction": 1,
+  "title": "STEP BY STEP",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/001step129.jpg",
+  "description": "C77的东方同人",
+  "last_updatetime": 1422539689,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "stepbystep",
+  "hidden": 0,
+  "hot_num": 45157,
+  "hit_num": 128819,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 33863,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8465,
+      "tag_name": "紅薙遥兔"
+    },
+    {
+      "tag_id": 8466,
+      "tag_name": "黑梦奈音"
+    }
+  ],
+  "subscribe_num": 213,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33863,
+          "chapter_title": "1话",
+          "updatetime": 1422539689,
+          "filesize": 3521085,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 26745934,
+        "uid": 104838185,
+        "content": "远古老本了",
+        "createtime": 1587602653,
+        "nickname": "开挖掘机的二营长",
+        "avatar": "https://avatar.dmzj.com/74/94/7494f5ff640478d1d84e1db37eb698d8.png"
+      },
+      {
+        "comment_id": 25740156,
+        "uid": 108403252,
+        "content": "漫画好看",
+        "createtime": 1585281089,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,88 @@
+{
+  "id": 17999,
+  "islong": 2,
+  "direction": 2,
+  "title": "流浪汉的钻石（第二季）",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1001009671428393206.jpg",
+  "description": "2010年，重启作品。",
+  "last_updatetime": 1428404365,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 2338,
+  "hit_num": 26598,
+  "uid": 100100967,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8980,
+      "tag_name": "春卷×0"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36053,
+          "chapter_title": "4话",
+          "updatetime": 1428404365,
+          "filesize": 1994455,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 36054,
+          "chapter_title": "3话",
+          "updatetime": 1428393298,
+          "filesize": 1792710,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 36055,
+          "chapter_title": "2话",
+          "updatetime": 1428393273,
+          "filesize": 1852484,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 36056,
+          "chapter_title": "1话",
+          "updatetime": 1428393248,
+          "filesize": 1874918,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 22422460,
+        "uid": 106929101,
+        "content": "qqq",
+        "createtime": 1575223111,
+        "nickname": "dmzj_106929101",
+        "avatar": "https://avatar.dmzj.com/86/a1/86a1e84a1ad74e3dd6d73db4366d42f6.png"
+      }
+    ]
+  }
+}

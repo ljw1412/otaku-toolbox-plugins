@@ -1,0 +1,77 @@
+{
+  "id": 19574,
+  "islong": 2,
+  "direction": 2,
+  "title": "一手短篇集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1002266311435819338.jpg",
+  "description": "一些短篇合集，有生活有奇异",
+  "last_updatetime": 1437730530,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 4440,
+  "hit_num": 104172,
+  "uid": 100226631,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9783,
+      "tag_name": "刘一手01"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39400,
+          "chapter_title": "分裂",
+          "updatetime": 1437730530,
+          "filesize": 5114784,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 38657,
+          "chapter_title": "血脉",
+          "updatetime": 1435820830,
+          "filesize": 2650866,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 38656,
+          "chapter_title": "别离时",
+          "updatetime": 1435820456,
+          "filesize": 1520880,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 20374713,
+        "uid": 107578698,
+        "content": "没人",
+        "createtime": 1568682150,
+        "nickname": "池沼",
+        "avatar": "https://avatar.dmzj.com/67/29/6729cdc9e37cf758191bdaf768ffc3c1.png"
+      }
+    ]
+  }
+}

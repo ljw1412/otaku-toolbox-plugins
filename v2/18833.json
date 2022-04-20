@@ -1,0 +1,93 @@
+{
+  "id": 18833,
+  "islong": 2,
+  "direction": 2,
+  "title": "绿灯龙帝",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/longdilvdeng.jpg",
+  "description": "史上第一个绿灯侠。李忠（Jong Li）是一名生活在唐朝初年（公元660年）中国的修行者，自幼生活在中原龙帝庙中。龙帝是传说中开创万物庇护中原大地的龙神，而龙帝庙的僧人日夜守护供奉着龙帝。在龙帝庙中，李忠自由被教导要修身养性无欲无求，舍弃凡人的喜怒哀乐，只有这样才能修成大道得到龙帝神力的眷顾。",
+  "last_updatetime": 1433652147,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lvdenglongdi",
+  "hidden": 0,
+  "hot_num": 43414,
+  "hit_num": 389760,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 37820,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5806,
+      "tag_name": "魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 206,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37820,
+          "chapter_title": "3卷",
+          "updatetime": 1433652147,
+          "filesize": 9471091,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 37337,
+          "chapter_title": "2卷",
+          "updatetime": 1432394358,
+          "filesize": 8591668,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 37336,
+          "chapter_title": "1卷",
+          "updatetime": 1432393910,
+          "filesize": 8103673,
+          "chapter_order": 20
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 25422746,
+        "uid": 101816289,
+        "content": "唐朝就有大烟？",
+        "createtime": 1584548453,
+        "nickname": "qzuser58109",
+        "avatar": "https://avatar.dmzj.com/62/97/62978f602190dc7d0002913b43a3a3ec.png"
+      },
+      {
+        "comment_id": 19317733,
+        "uid": 103534484,
+        "content": "虽然bug数量堪比月球表面，但起码是个正面形象了",
+        "createtime": 1565613889,
+        "nickname": "jojo虹",
+        "avatar": "https://avatar.dmzj.com/75/90/7590d76587db0bdea3bdfa0a1292cbc7.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

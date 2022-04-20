@@ -1,0 +1,75 @@
+{
+  "id": 19114,
+  "islong": 2,
+  "direction": 2,
+  "title": "大力姐和金刚弟弟",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1001974991433837591.jpg",
+  "description": "大力姐和少年",
+  "last_updatetime": 1434006217,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 4584,
+  "hit_num": 50914,
+  "uid": 100197499,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9544,
+      "tag_name": "里门门"
+    }
+  ],
+  "subscribe_num": 17,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38014,
+          "chapter_title": "1话",
+          "updatetime": 1434006217,
+          "filesize": 1481495,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 28532016,
+        "uid": 110438073,
+        "content": "扫墓",
+        "createtime": 1593415353,
+        "nickname": "しまだ源氏",
+        "avatar": "https://avatar.dmzj.com/90/f4/90f40c2d8b7b1eb92016162b4b7afe52.png"
+      },
+      {
+        "comment_id": 3480006,
+        "uid": 101884881,
+        "content": "画风挺怀旧的",
+        "createtime": 1512974086,
+        "nickname": "烟雨阁",
+        "avatar": "https://avatar.dmzj.com/5e/e4/5ee41ffe8886fcc0f725e49f2560a75c.png"
+      }
+    ]
+  }
+}

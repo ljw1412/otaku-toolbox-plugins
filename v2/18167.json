@@ -1,0 +1,75 @@
+{
+  "id": 18167,
+  "islong": 2,
+  "direction": 2,
+  "title": "毕士的家内传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/22343831429082142.jpg",
+  "description": "地球基佬遇到外星基佬搞基的故事",
+  "last_updatetime": 1429088641,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 2419,
+  "hit_num": 76689,
+  "uid": 2234383,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9069,
+      "tag_name": "橘手C"
+    }
+  ],
+  "subscribe_num": 20,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40271,
+          "chapter_title": "1（字多见谅）",
+          "updatetime": 1429088641,
+          "filesize": 2980900,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 18098906,
+        "uid": 104527783,
+        "content": "没评论的吗？",
+        "createtime": 1562859309,
+        "nickname": "World Dominator",
+        "avatar": "https://avatar.dmzj.com/2d/2d/2d2d2161e561470ed55948085014493e.png"
+      },
+      {
+        "comment_id": 379666,
+        "uid": 12630407,
+        "content": "9bishi和12的故事？",
+        "createtime": 1429096851,
+        "nickname": "qq972764247",
+        "avatar": "https://avatar.dmzj.com/f5/85/f58556763ba6ef86f4661826b042d5f5.png"
+      }
+    ]
+  }
+}

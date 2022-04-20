@@ -1,0 +1,79 @@
+{
+  "id": 11895,
+  "islong": 2,
+  "direction": 1,
+  "title": "响子和爸爸",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/xiangzihebaba.jpg",
+  "description": "由岩崎一家的生活片段所组成的日常小品。\n主要讲述家族与亲情，承接与补充了《睡觉的笨蛋》的部分剧情。\n就算是没有读过前作的读者也能乐在其中。",
+  "last_updatetime": 1372510763,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiangzhihebaba",
+  "hidden": 0,
+  "hot_num": 625148,
+  "hit_num": 3307510,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23929,
+  "authors": [
+    {
+      "tag_id": 1169,
+      "tag_name": "石黑正数"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "subscribe_num": 3735,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23929,
+          "chapter_title": "1卷",
+          "updatetime": 1372510763,
+          "filesize": 23593357,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 29543102,
+        "uid": 105787374,
+        "content": "来了来了",
+        "createtime": 1596859076,
+        "nickname": "兰斯dd",
+        "avatar": "https://avatar.dmzj.com/30/30/3030bfe75e93d415a8617a6e670fa95c.png"
+      },
+      {
+        "comment_id": 29334010,
+        "uid": 111070568,
+        "content": "dmzj",
+        "createtime": 1596109357,
+        "nickname": "dmzj_111070568",
+        "avatar": "https://avatar.dmzj.com/7d/4e/7d4e1545457d33f29c34839c85ead3f3.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

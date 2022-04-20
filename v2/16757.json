@@ -1,0 +1,73 @@
+{
+  "id": 16757,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔法少女SEED Hidary",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/mfsnshl.jpg",
+  "description": "寄生兽X魔法少女奈叶的本子。",
+  "last_updatetime": 1421291998,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 151006,
+  "hit_num": 295088,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 1195,
+      "tag_name": "かん奈"
+    },
+    {
+      "tag_id": 8358,
+      "tag_name": "武篠采"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "subscribe_num": 630,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37276,
+          "chapter_title": "1话",
+          "updatetime": 1421291998,
+          "filesize": 3677633,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 77,
+    "latest_comment": [
+      {
+        "comment_id": 29413874,
+        "uid": 109544240,
+        "content": "东京喰种",
+        "createtime": 1596389236,
+        "nickname": "KoirZe",
+        "avatar": "https://avatar.dmzj.com/eb/7d/eb7d587eb6b66fc9bfc7c2f0e74e314e.png"
+      },
+      {
+        "comment_id": 29413857,
+        "uid": 109544240,
+        "content": "寄生兽",
+        "createtime": 1596389207,
+        "nickname": "KoirZe",
+        "avatar": "https://avatar.dmzj.com/eb/7d/eb7d587eb6b66fc9bfc7c2f0e74e314e.png"
+      }
+    ]
+  }
+}

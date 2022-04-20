@@ -1,0 +1,79 @@
+{
+  "id": 18452,
+  "islong": 2,
+  "direction": 1,
+  "title": "满载爱慕",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/manzhaiaiyifengmianl.jpg",
+  "description": "稍有苦味的莴笋，多汁的番茄，甜蜜的玉子烧，请享用我的爱意吧",
+  "last_updatetime": 1430499728,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "manzaimu",
+  "hidden": 0,
+  "hot_num": 43539,
+  "hit_num": 263149,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 40781,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8068,
+      "tag_name": "石沢うみ"
+    }
+  ],
+  "subscribe_num": 277,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40781,
+          "chapter_title": "1话",
+          "updatetime": 1430499728,
+          "filesize": 3632892,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 18219412,
+        "uid": 100590342,
+        "content": "请不要把这篇归在“治愈”里面",
+        "createtime": 1563119882,
+        "nickname": "qzuser17569568",
+        "avatar": "https://avatar.dmzj.com/82/34/823439b7d7984f66e36002bf29ae2ce8.png"
+      },
+      {
+        "comment_id": 18219386,
+        "uid": 100590342,
+        "content": "一点都不治愈，满满的玻璃渣",
+        "createtime": 1563119823,
+        "nickname": "qzuser17569568",
+        "avatar": "https://avatar.dmzj.com/82/34/823439b7d7984f66e36002bf29ae2ce8.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

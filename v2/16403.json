@@ -1,0 +1,71 @@
+{
+  "id": 16403,
+  "islong": 2,
+  "direction": 1,
+  "title": "咸鱼病",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/1218xianyubingfm.jpg",
+  "description": "有关梦想的咸鱼病",
+  "last_updatetime": 1418869668,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 6005,
+  "hit_num": 96649,
+  "uid": 25274280,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8161,
+      "tag_name": "NekoSuki"
+    }
+  ],
+  "subscribe_num": 24,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 32776,
+          "chapter_title": "1话",
+          "updatetime": 1418869668,
+          "filesize": 1193903,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 2731654,
+        "uid": 103407233,
+        "content": "一楼 咸鱼病发病中",
+        "createtime": 1502791441,
+        "nickname": "一番の宝物61711",
+        "avatar": "https://avatar.dmzj.com/a5/92/a5920d919b49147d94f875c368ad37a0.png"
+      },
+      {
+        "comment_id": 2707410,
+        "uid": 101994968,
+        "content": "嗯，好棒",
+        "createtime": 1502539876,
+        "nickname": "猎魂九十九-樱",
+        "avatar": "https://avatar.dmzj.com/6b/1c/6b1c4071059692a71cc3e8fd46ea1d5a.png"
+      }
+    ]
+  }
+}

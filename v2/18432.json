@@ -1,0 +1,79 @@
+{
+  "id": 18432,
+  "islong": 2,
+  "direction": 2,
+  "title": "我的岛",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1001426021430374680.jpg",
+  "description": "微博：http://weibo.com/gyq176637990",
+  "last_updatetime": 1430375257,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 7240,
+  "hit_num": 89207,
+  "uid": 100142602,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8251,
+      "tag_name": "宫缘乾"
+    }
+  ],
+  "subscribe_num": 33,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40731,
+          "chapter_title": "我的岛",
+          "updatetime": 1430375257,
+          "filesize": 893610,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 27028729,
+        "uid": 109058635,
+        "content": "那个小船上有中。。。",
+        "createtime": 1588395827,
+        "nickname": "没睡醒吧唧",
+        "avatar": "https://avatar.dmzj.com/22/d9/22d9f2001bd92cfd184cd6050a73c593.png"
+      },
+      {
+        "comment_id": 11544997,
+        "uid": 105073749,
+        "content": "赞",
+        "createtime": 1550377393,
+        "nickname": "鹿呦呦",
+        "avatar": "https://avatar.dmzj.com/12/88/128815df0f5f8a4b05521001fd0f9038.png"
+      }
+    ]
+  }
+}

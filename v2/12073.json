@@ -1,0 +1,73 @@
+{
+  "id": 12073,
+  "islong": 2,
+  "direction": 1,
+  "title": "新月Rock",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/xinyuerock.jpg",
+  "description": "进入高中半年多，无论做什么也三分钟热度的森下美月，唯一持续着的是……",
+  "last_updatetime": 1373879833,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 23142,
+  "hit_num": 453289,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6308,
+      "tag_name": "松本香织"
+    }
+  ],
+  "subscribe_num": 111,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23027,
+          "chapter_title": "1话",
+          "updatetime": 1373879833,
+          "filesize": 5038436,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 3074081,
+        "uid": 104935225,
+        "content": "男配好喜欢",
+        "createtime": 1507688151,
+        "nickname": "hiflymiraclegb",
+        "avatar": "https://avatar.dmzj.com/bc/be/bcbe146f78f1c0ef57337ea63c5d2f15.png"
+      },
+      {
+        "comment_id": 1595986,
+        "uid": 101918773,
+        "content": "好赞，就喜欢这样的，真希望有续集啊～",
+        "createtime": 1482640698,
+        "nickname": "抬头，微笑",
+        "avatar": "https://avatar.dmzj.com/24/32/24321acc9c05f1c795b5346680148202.png"
+      }
+    ]
+  }
+}

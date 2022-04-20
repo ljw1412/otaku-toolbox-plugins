@@ -1,0 +1,71 @@
+{
+  "id": 19795,
+  "islong": 2,
+  "direction": 2,
+  "title": "春秋争霸",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1002093781436932763.jpg",
+  "description": "春秋争霸",
+  "last_updatetime": 1436932826,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 5749,
+  "hit_num": 229409,
+  "uid": 100209378,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9628,
+      "tag_name": "洋洋兔动漫"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42997,
+          "chapter_title": "1话",
+          "updatetime": 1436932826,
+          "filesize": 4720523,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 430039,
+        "uid": 15278937,
+        "content": "妈蛋这多出来的一堆少儿漫是什么鬼",
+        "createtime": 1436970022,
+        "nickname": "mizia",
+        "avatar": "https://avatar.dmzj.com/84/70/84701e7ba479c17c8b2888035ce7d2ea.png"
+      },
+      {
+        "comment_id": 429986,
+        "uid": 100119324,
+        "content": "不错",
+        "createtime": 1436961743,
+        "nickname": "迷茫丶白兔糖",
+        "avatar": "https://avatar.dmzj.com/88/41/8841e4e9b75ea13908c3c19c2f9b29c1.png"
+      }
+    ]
+  }
+}

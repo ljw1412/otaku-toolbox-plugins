@@ -1,0 +1,73 @@
+{
+  "id": 14860,
+  "islong": 2,
+  "direction": 1,
+  "title": "热血神话",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/rxsh248286.jpg",
+  "description": "东方的各种奇葩的热血神话之旅",
+  "last_updatetime": 1404030205,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 78632,
+  "hit_num": 42957,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5136,
+      "tag_name": "叶庭"
+    }
+  ],
+  "subscribe_num": 369,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29942,
+          "chapter_title": "1话",
+          "updatetime": 1404030205,
+          "filesize": 769684,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 27421341,
+        "uid": 105749314,
+        "content": "鲶鱼刺身，淡水鱼大丈夫？",
+        "createtime": 1589605272,
+        "nickname": "dmzj_105749314",
+        "avatar": "https://avatar.dmzj.com/14/16/1416db39a7b91048098f519e55a702d0.png"
+      },
+      {
+        "comment_id": 17745768,
+        "uid": 108985209,
+        "content": "怎么画质突然爆炸了",
+        "createtime": 1562076994,
+        "nickname": "dmzj_108985209",
+        "avatar": "https://avatar.dmzj.com/21/85/21850db22537b0bbde5ab9940e88536f.png"
+      }
+    ]
+  }
+}

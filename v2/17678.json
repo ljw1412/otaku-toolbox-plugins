@@ -1,0 +1,81 @@
+{
+  "id": 17678,
+  "islong": 2,
+  "direction": 2,
+  "title": "XO拯救计划",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0324xozjjh.jpg",
+  "description": "不良少年和暴走家姐努力奋斗成为漫画家的热血故事！家姐因偶然的发现得知自己的弟弟原来是某绘本的作者之一，于是下定决心要跟弟弟合作成为漫画家，并且不小心引发了另一个人格……",
+  "last_updatetime": 1427199569,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 1951,
+  "hit_num": 46956,
+  "uid": 100099302,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8835,
+      "tag_name": "索索"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35414,
+          "chapter_title": "3话",
+          "updatetime": 1427199569,
+          "filesize": 1824072,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 35415,
+          "chapter_title": "2话",
+          "updatetime": 1427199559,
+          "filesize": 4406487,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 35416,
+          "chapter_title": "1话",
+          "updatetime": 1427199548,
+          "filesize": 3001007,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 369644,
+        "uid": 100016772,
+        "content": "老子第一谁敢不服哇咔咔咔咔咔咔",
+        "createtime": 1427275464,
+        "nickname": "qzuser56353",
+        "avatar": "https://avatar.dmzj.com/d6/c1/d6c1be9f1a43cc7ef3620aaf70107f7c.png"
+      }
+    ]
+  }
+}

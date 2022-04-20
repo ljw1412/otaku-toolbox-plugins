@@ -1,0 +1,71 @@
+{
+  "id": 20220,
+  "islong": 2,
+  "direction": 2,
+  "title": "有约在先",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1002677431437720624.jpg",
+  "description": "两个男孩的故事",
+  "last_updatetime": 1437720662,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 7636,
+  "hit_num": 217186,
+  "uid": 100267743,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10009,
+      "tag_name": "黑麦"
+    }
+  ],
+  "subscribe_num": 77,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43434,
+          "chapter_title": "1话",
+          "updatetime": 1437720662,
+          "filesize": 2250093,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 2004053,
+        "uid": 103425879,
+        "content": "到最后两个人去荷兰",
+        "createtime": 1491296425,
+        "nickname": "小孽纸",
+        "avatar": "https://avatar.dmzj.com/ef/82/ef82a0163b09abfc6ee39cb933086ef0.png"
+      },
+      {
+        "comment_id": 2004050,
+        "uid": 103425879,
+        "content": "都以经看过了",
+        "createtime": 1491296359,
+        "nickname": "小孽纸",
+        "avatar": "https://avatar.dmzj.com/ef/82/ef82a0163b09abfc6ee39cb933086ef0.png"
+      }
+    ]
+  }
+}

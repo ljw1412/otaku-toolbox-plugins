@@ -1,0 +1,77 @@
+{
+  "id": 15632,
+  "islong": 2,
+  "direction": 1,
+  "title": "Aldnoah Zero",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/20160524aldnoahzero.jpg",
+  "description": "人类在火星上发现了史前文明以及超科学的能源,这些被称为「ALDNOAH」。某天,来自火星的「骑士」从天而降。这些钢铁巨人有着明确的来意歼灭地球上的所有人类。移居至火星的人类与地球上的人类,两个阵营间的战争就此展开。被卷入战争的少年少女们将何去何从。",
+  "last_updatetime": 1411136748,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 204451,
+  "hit_num": 3079289,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7783,
+      "tag_name": "Olympus Knights"
+    },
+    {
+      "tag_id": 7784,
+      "tag_name": "ピナケス"
+    }
+  ],
+  "subscribe_num": 1158,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34310,
+          "chapter_title": "1话",
+          "updatetime": 1411137277,
+          "filesize": 5357819,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 77,
+    "latest_comment": [
+      {
+        "comment_id": 24476473,
+        "uid": 101863979,
+        "content": "看样子是弃坑了",
+        "createtime": 1582512406,
+        "nickname": "入门程序猿",
+        "avatar": "https://avatar.dmzj.com/33/50/3350b4887cd64429f9cde3c563c1fd5e.png"
+      },
+      {
+        "comment_id": 24244666,
+        "uid": 109928661,
+        "content": "很难想象这是芳文社的！！！",
+        "createtime": 1581948770,
+        "nickname": "dmzj_109928661",
+        "avatar": "https://avatar.dmzj.com/1b/6a/1b6ab114a8e6020d2d44565d7eecf33d.png"
+      }
+    ]
+  }
+}

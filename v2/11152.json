@@ -1,0 +1,79 @@
+{
+  "id": 11152,
+  "islong": 2,
+  "direction": 1,
+  "title": "KILL GEPPU",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/killg.jpg",
+  "description": "铃仙的故事，感觉好凶残好厉害",
+  "last_updatetime": 1367571455,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "k",
+  "comic_py": "killgeppu",
+  "hidden": 0,
+  "hot_num": 1248110,
+  "hit_num": 703611,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24088,
+  "authors": [
+    {
+      "tag_id": 1879,
+      "tag_name": "ZUN"
+    },
+    {
+      "tag_id": 5630,
+      "tag_name": "威未图"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 4937,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24088,
+          "chapter_title": "1话",
+          "updatetime": 1367571455,
+          "filesize": 4061643,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 85,
+    "latest_comment": [
+      {
+        "comment_id": 29404313,
+        "uid": 109735424,
+        "content": "好像是蕾米和神妈互相认错人了",
+        "createtime": 1596371019,
+        "nickname": "カロン",
+        "avatar": "https://avatar.dmzj.com/37/84/37848c9f3dffd8a7a02df7123a235418.png"
+      },
+      {
+        "comment_id": 29404267,
+        "uid": 109735424,
+        "content": "大小姐终于威严了一次哈哈哈哈哈哈哈",
+        "createtime": 1596370865,
+        "nickname": "カロン",
+        "avatar": "https://avatar.dmzj.com/37/84/37848c9f3dffd8a7a02df7123a235418.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,73 @@
+{
+  "id": 17201,
+  "islong": 2,
+  "direction": 1,
+  "title": "Hanger Strike",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/HangerStrikel.jpg",
+  "description": "西尾维新原作短篇系列...集英社大斩开演",
+  "last_updatetime": 1424854006,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 495503,
+  "hit_num": 194408,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1541,
+      "tag_name": "西尾维新"
+    },
+    {
+      "tag_id": 4417,
+      "tag_name": "福岛铁平"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2777,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35999,
+          "chapter_title": "1话",
+          "updatetime": 1424854006,
+          "filesize": 3322509,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 24019642,
+        "uid": 102061227,
+        "content": "虽然是喜欢可爱的东西，但那补丁打的有点恐怖",
+        "createtime": 1581434279,
+        "nickname": "神与光与光之子",
+        "avatar": "https://avatar.dmzj.com/3e/a2/3ea2d5c04b256b8147b828f84cd97b1c.png"
+      },
+      {
+        "comment_id": 14254773,
+        "uid": 102194536,
+        "content": "让我想到了，当你拥有一个可爱的装备但是属性报表的那张图片了",
+        "createtime": 1555164956,
+        "nickname": "China Loser",
+        "avatar": "https://avatar.dmzj.com/16/29/16297bcfbccb4b10f750321f9714a99b.png"
+      }
+    ]
+  }
+}

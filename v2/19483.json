@@ -1,0 +1,71 @@
+{
+  "id": 19483,
+  "islong": 2,
+  "direction": 2,
+  "title": "爱的诺言",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1002229801435568574.jpg",
+  "description": "那让人战栗的背叛。",
+  "last_updatetime": 1435568636,
+  "copyright": 1,
+  "first_letter": "a",
+  "hot_num": 1635,
+  "hit_num": 10723,
+  "uid": 100222980,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9732,
+      "tag_name": "紫雨6566"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38506,
+          "chapter_title": "新的里程 ",
+          "updatetime": 1435568636,
+          "filesize": 303421,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 29419857,
+        "uid": 109491125,
+        "content": "天啊，漫画门槛已经这么低了吗",
+        "createtime": 1596421278,
+        "nickname": "dmzj_109491125",
+        "avatar": "https://avatar.dmzj.com/82/73/8273e717dfdda2d6fb8036461a16f201.png"
+      },
+      {
+        "comment_id": 2772108,
+        "uid": 104871481,
+        "content": "？？？我还以为是指绘...",
+        "createtime": 1503292172,
+        "nickname": "你看我像正经人吗",
+        "avatar": "https://avatar.dmzj.com/27/53/2753c63af5d1c4c813bd877f0b212493.png"
+      }
+    ]
+  }
+}

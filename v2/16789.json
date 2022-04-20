@@ -1,0 +1,78 @@
+{
+  "id": 16789,
+  "islong": 2,
+  "direction": 1,
+  "title": "萌仙傲天下",
+  "is_dmzj": 1,
+  "cover": "https://images.dmzj.com/webpic/15/mengxian.jpg",
+  "description": "一个淘气小萌货成长为傲视天下的仙界精英的故事。 ",
+  "last_updatetime": 1423743162,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 354777,
+  "hit_num": 4347605,
+  "uid": 100099726,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7900,
+      "tag_name": "仙侠"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8379,
+      "tag_name": "达伟"
+    }
+  ],
+  "subscribe_num": 3205,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34522,
+          "chapter_title": "2话",
+          "updatetime": 1423743162,
+          "filesize": 1125858,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 33778,
+          "chapter_title": "1话",
+          "updatetime": 1421635103,
+          "filesize": 1266902,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 92,
+    "latest_comment": [
+      {
+        "comment_id": 29515950,
+        "uid": 110383400,
+        "content": "wc吊完我胃口就跑了",
+        "createtime": 1596742205,
+        "nickname": "一阶凡夫",
+        "avatar": "https://avatar.dmzj.com/88/69/88697c544a7dc5f566712ca422980071.png"
+      },
+      {
+        "comment_id": 25431611,
+        "uid": 109723440,
+        "content": "五年未更新一集",
+        "createtime": 1584562450,
+        "nickname": "dmzj_109723440",
+        "avatar": "https://avatar.dmzj.com/96/0b/960bbdc18b3233a1c47f8decc3b85d34.png"
+      }
+    ]
+  }
+}

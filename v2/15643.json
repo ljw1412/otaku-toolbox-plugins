@@ -1,0 +1,79 @@
+{
+  "id": 15643,
+  "islong": 2,
+  "direction": 2,
+  "title": "夜行者v4",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/yexingzhe.jpg",
+  "description": "死而复生的夜行者，回到学院与x战警团队重聚。本想与爱人小别胜新婚，却遭到不速之客的袭击。（ps:新刊中的砰族很萌）",
+  "last_updatetime": 1568550730,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 28915,
+  "hit_num": 53685,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 153,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88238,
+          "chapter_title": "3卷",
+          "updatetime": 1568550730,
+          "filesize": 4532388,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 31144,
+          "chapter_title": "2卷",
+          "updatetime": 1412258548,
+          "filesize": 3454829,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 30959,
+          "chapter_title": "1卷",
+          "updatetime": 1411286306,
+          "filesize": 3299204,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 3177001,
+        "uid": 100739090,
+        "content": "夜行者！",
+        "createtime": 1509028602,
+        "nickname": "Tron23",
+        "avatar": "https://avatar.dmzj.com/b2/7c/b27cead33bed9cec01811ed0ed435686.png"
+      }
+    ]
+  }
+}

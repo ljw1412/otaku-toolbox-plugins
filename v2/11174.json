@@ -1,0 +1,75 @@
+{
+  "id": 11174,
+  "islong": 2,
+  "direction": 1,
+  "title": "雪花",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/mshaonv.jpg",
+  "description": "misokaze画的蔷薇少女同人本",
+  "last_updatetime": 1367745547,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xuehua",
+  "hidden": 0,
+  "hot_num": 29484,
+  "hit_num": 148036,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21723,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5721,
+      "tag_name": "misokaze"
+    }
+  ],
+  "subscribe_num": 133,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21723,
+          "chapter_title": "1话",
+          "updatetime": 1367745547,
+          "filesize": 2041160,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 29242736,
+        "uid": 107979001,
+        "content": "好老呀",
+        "createtime": 1595776987,
+        "nickname": "fancy穹",
+        "avatar": "https://avatar.dmzj.com/fe/ae/feae9f086997cd862b1674114ab09ac2.png"
+      },
+      {
+        "comment_id": 27189931,
+        "uid": 101586531,
+        "content": "舒服",
+        "createtime": 1588863598,
+        "nickname": "静月诗音",
+        "avatar": "https://avatar.dmzj.com/85/0c/850cdacc2e3ca562d85c6d30f9e655fb.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

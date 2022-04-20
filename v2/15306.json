@@ -1,0 +1,73 @@
+{
+  "id": 15306,
+  "islong": 2,
+  "direction": 2,
+  "title": "蔓延",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/manyan.jpg",
+  "description": "一个怪人带着婴儿穿越到全都是怪物的世界，拯救世界的故事。",
+  "last_updatetime": 1408264715,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 194643,
+  "hit_num": 152570,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2116,
+      "tag_name": "image"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 994,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30266,
+          "chapter_title": "1卷",
+          "updatetime": 1408264715,
+          "filesize": 4515321,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 25401927,
+        "uid": 109114767,
+        "content": "这个人作品都牛逼然而每个都是大坑",
+        "createtime": 1584509548,
+        "nickname": "Herr BaiYu",
+        "avatar": "https://avatar.dmzj.com/f8/b9/f8b997db7b70a3c5c81c63c424cd6ea9.png"
+      },
+      {
+        "comment_id": 24980120,
+        "uid": 107312065,
+        "content": "死亡搁浅",
+        "createtime": 1583562593,
+        "nickname": "Tatooinian",
+        "avatar": "https://avatar.dmzj.com/30/10/3010e6cc2b08d3beb2846a11fc4305ad.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": 18346,
+  "islong": 2,
+  "direction": 1,
+  "title": "RWBY小短漫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/pzhanxiaoduanpian.jpg",
+  "description": "RWBY同人短漫，P站扒取",
+  "last_updatetime": 1430036695,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 743787,
+  "hit_num": 147975,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 3418,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38170,
+          "chapter_title": "插画01-04",
+          "updatetime": 1430036695,
+          "filesize": 343948,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 38169,
+          "chapter_title": "4话",
+          "updatetime": 1430036686,
+          "filesize": 246083,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 38148,
+          "chapter_title": "3话",
+          "updatetime": 1429967289,
+          "filesize": 332683,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 38147,
+          "chapter_title": "2话",
+          "updatetime": 1429967278,
+          "filesize": 122529,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 38144,
+          "chapter_title": "1话",
+          "updatetime": 1429967252,
+          "filesize": 725692,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 29038054,
+        "uid": 107784221,
+        "content": "居然有这个！！！",
+        "createtime": 1595059809,
+        "nickname": "什么猫啊",
+        "avatar": "https://avatar.dmzj.com/8b/c0/8bc06d664a1345a97530987482b5576b.png"
+      },
+      {
+        "comment_id": 25135746,
+        "uid": 106059600,
+        "content": "6",
+        "createtime": 1583905861,
+        "nickname": "dmzj_106059600",
+        "avatar": "https://avatar.dmzj.com/ad/95/ad954c74e546e771e691cf6fe15a874b.png"
+      }
+    ]
+  }
+}

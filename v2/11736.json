@@ -1,0 +1,73 @@
+{
+  "id": 11736,
+  "islong": 2,
+  "direction": 1,
+  "title": "图书室的彼女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/tushushidebinv.jpg",
+  "description": "图书室里有女装兴趣的少年……",
+  "last_updatetime": 1371380573,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 277058,
+  "hit_num": 1584417,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3897,
+      "tag_name": "カネコナオヤ"
+    }
+  ],
+  "subscribe_num": 1259,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22322,
+          "chapter_title": "1话",
+          "updatetime": 1371380573,
+          "filesize": 3241335,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 47,
+    "latest_comment": [
+      {
+        "comment_id": 28098764,
+        "uid": 100498968,
+        "content": "擦，硬了",
+        "createtime": 1591903765,
+        "nickname": "Marie❁Rose",
+        "avatar": "https://avatar.dmzj.com/24/57/245758006a5dabffc3f44cd22295f16d.png"
+      },
+      {
+        "comment_id": 27764449,
+        "uid": 105847048,
+        "content": "龟龟，还是欧亨利式结局",
+        "createtime": 1590683855,
+        "nickname": "蛤巴罗夫斯克",
+        "avatar": "https://avatar.dmzj.com/62/24/6224d8cfc0ecaceef9918e3ef53d8c40.png"
+      }
+    ]
+  }
+}

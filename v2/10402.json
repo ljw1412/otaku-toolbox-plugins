@@ -1,0 +1,75 @@
+{
+  "id": 10402,
+  "islong": 2,
+  "direction": 1,
+  "title": "宇佐大人的大行进",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/yuzuodarendedaxingjin.jpg",
+  "description": "东方同人漫画，兔子们的地位提升大混战。",
+  "last_updatetime": 1361097624,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yuzuodarendedaxingjin",
+  "hidden": 0,
+  "hot_num": 31832,
+  "hit_num": 103937,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22825,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5475,
+      "tag_name": "SASUKE"
+    }
+  ],
+  "subscribe_num": 101,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22825,
+          "chapter_title": "1话",
+          "updatetime": 1361097624,
+          "filesize": 4145157,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 2172934,
+        "uid": 101153390,
+        "content": "在很多本子下面都能见到楼下那位的评论啊",
+        "createtime": 1494653733,
+        "nickname": "苟利國家生死以",
+        "avatar": "https://avatar.dmzj.com/32/d3/32d3803477bdfb99ca7670c066a3d2ed.png"
+      },
+      {
+        "comment_id": 149174,
+        "uid": 6220944,
+        "content": "回老家结婚吧",
+        "createtime": 1377074910,
+        "nickname": "dfgdfgdfg",
+        "avatar": "https://avatar.dmzj.com/59/83/5983d162f12eacffa4939ea65d599491.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

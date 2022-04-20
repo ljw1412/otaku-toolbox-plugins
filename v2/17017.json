@@ -1,0 +1,54 @@
+{
+  "id": 17017,
+  "islong": 2,
+  "direction": 2,
+  "title": "卿斋坊",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/0206qingzhaifangfml.jpg",
+  "description": "卿斋坊，一个传奇的存在。",
+  "last_updatetime": 1423196141,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 3238,
+  "hit_num": 49276,
+  "uid": 100054978,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8509,
+      "tag_name": "离汐"
+    }
+  ],
+  "subscribe_num": 23,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38144,
+          "chapter_title": "0话",
+          "updatetime": 1423196141,
+          "filesize": 959387,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

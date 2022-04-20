@@ -1,0 +1,75 @@
+{
+  "id": 13416,
+  "islong": 2,
+  "direction": 1,
+  "title": "八月的金星",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/bayuedejinxing.jpg",
+  "description": "山田酉子新作。",
+  "last_updatetime": 1386243528,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bayuedejinxing",
+  "hidden": 0,
+  "hot_num": 45395,
+  "hit_num": 159259,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25382,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6896,
+      "tag_name": "山田酉子"
+    }
+  ],
+  "subscribe_num": 381,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25382,
+          "chapter_title": "1话",
+          "updatetime": 1386243528,
+          "filesize": 3061597,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 29781839,
+        "uid": 101538206,
+        "content": "好多年过去了？",
+        "createtime": 1597795494,
+        "nickname": "别问我44093",
+        "avatar": "https://avatar.dmzj.com/03/94/0394783c22a733860c844e012f50496f.png"
+      },
+      {
+        "comment_id": 26024728,
+        "uid": 100664574,
+        "content": "挺好的",
+        "createtime": 1585929434,
+        "nickname": "北上北上北",
+        "avatar": "https://avatar.dmzj.com/10/4a/104af31c3d28649a72b2bdaab4f2fa77.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

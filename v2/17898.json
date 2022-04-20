@@ -1,0 +1,75 @@
+{
+  "id": 17898,
+  "islong": 2,
+  "direction": 1,
+  "title": "博丽灵梦的一天",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/bllmdyt865l.jpg",
+  "description": "讲述了灵梦的日常，暖暖的，很贴心",
+  "last_updatetime": 1427974067,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bllmdyt",
+  "hidden": 0,
+  "hot_num": 53724,
+  "hit_num": 52120,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 35723,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8942,
+      "tag_name": "雨山电信"
+    }
+  ],
+  "subscribe_num": 240,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35723,
+          "chapter_title": "1话",
+          "updatetime": 1427974067,
+          "filesize": 1986604,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 35,
+    "latest_comment": [
+      {
+        "comment_id": 28703159,
+        "uid": 107303200,
+        "content": "笑死了，可怜的魔理沙",
+        "createtime": 1593944149,
+        "nickname": "Rina里奈",
+        "avatar": "https://avatar.dmzj.com/30/57/3057a631c5672f9dec9e3fc0f9507159.png"
+      },
+      {
+        "comment_id": 28616936,
+        "uid": 110788432,
+        "content": "太谔谔了，这个",
+        "createtime": 1593685652,
+        "nickname": "Was26",
+        "avatar": "https://avatar.dmzj.com/25/09/2509385abb12aacdea56f6b9d6699d04.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

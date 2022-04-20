@@ -1,0 +1,71 @@
+{
+  "id": 16980,
+  "islong": 2,
+  "direction": 2,
+  "title": "LEFT",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/0203leftfml.jpg",
+  "description": "踏上这无尽旅途　过去飘散消散失散花火 重燃起　重燃点起鼓舞 或许到最后没有完美句号　仍然倔强冒险一一",
+  "last_updatetime": 1422947977,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 3110,
+  "hit_num": 96986,
+  "uid": 100042939,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8463,
+      "tag_name": "STAN"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37643,
+          "chapter_title": "1话",
+          "updatetime": 1422947977,
+          "filesize": 2812360,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 27478093,
+        "uid": 104142701,
+        "content": "不错",
+        "createtime": 1589790466,
+        "nickname": "聂勇",
+        "avatar": "https://avatar.dmzj.com/74/91/749187bf0204168bdbab163c648d5de9.png"
+      },
+      {
+        "comment_id": 347355,
+        "uid": 33621269,
+        "content": "什么东西，不知所谓",
+        "createtime": 1422950371,
+        "nickname": "复仇的魔女",
+        "avatar": "https://avatar.dmzj.com/69/00/6900df650d21d9d52abff0ff58c26889.png"
+      }
+    ]
+  }
+}

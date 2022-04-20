@@ -1,0 +1,94 @@
+{
+  "id": 15508,
+  "islong": 2,
+  "direction": 2,
+  "title": "Roong and Chris",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/20160524roongandchris.jpg",
+  "description": "治疗患者的女医生和杀人魔的故事",
+  "last_updatetime": 1409902652,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 284486,
+  "hit_num": 178825,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1391,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30709,
+          "chapter_title": "3话",
+          "updatetime": 1409902652,
+          "filesize": 1012524,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 30670,
+          "chapter_title": "2话",
+          "updatetime": 1409745153,
+          "filesize": 680985,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 30668,
+          "chapter_title": "1话",
+          "updatetime": 1409722915,
+          "filesize": 730983,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 30667,
+          "chapter_title": "0话",
+          "updatetime": 1409722907,
+          "filesize": 243904,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 28614032,
+        "uid": 106316170,
+        "content": "很好的题材啊真是可惜了",
+        "createtime": 1593678651,
+        "nickname": "失控扳机",
+        "avatar": "https://avatar.dmzj.com/5c/25/5c250554feb278bb6a4a0793751ef2ac.png"
+      },
+      {
+        "comment_id": 27066795,
+        "uid": 106493975,
+        "content": "不更新了吗",
+        "createtime": 1588501512,
+        "nickname": "名为谢皮利的杰洛",
+        "avatar": "https://avatar.dmzj.com/71/85/718519d1526128d5e78c174226cc088f.png"
+      }
+    ]
+  }
+}

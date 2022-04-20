@@ -1,0 +1,75 @@
+{
+  "id": 17680,
+  "islong": 2,
+  "direction": 2,
+  "title": "我的黑历史漫画集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1000992361427101414.jpg",
+  "description": "一些以前的作品。",
+  "last_updatetime": 1427201212,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 7015,
+  "hit_num": 252158,
+  "uid": 100099236,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8838,
+      "tag_name": "大头"
+    }
+  ],
+  "subscribe_num": 46,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39455,
+          "chapter_title": "1话",
+          "updatetime": 1427201212,
+          "filesize": 3596797,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 3042846,
+        "uid": 104269133,
+        "content": "哇哈哈哈，看到你们了",
+        "createtime": 1507297848,
+        "nickname": "我愿做你的Servant",
+        "avatar": "https://avatar.dmzj.com/99/65/9965196ebb928d3fa16adb7bf027fa56.png"
+      },
+      {
+        "comment_id": 3041518,
+        "uid": 105370816,
+        "content": "楼上的猪怎么卖",
+        "createtime": 1507286512,
+        "nickname": "Eine80408",
+        "avatar": "https://avatar.dmzj.com/33/ff/33ffb9ec9535d1f463691f28a62775c1.png"
+      }
+    ]
+  }
+}

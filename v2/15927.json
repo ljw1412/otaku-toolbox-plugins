@@ -1,0 +1,80 @@
+{
+  "id": 15927,
+  "islong": 2,
+  "direction": 1,
+  "title": "雷鸣泽基",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/leimingzheji.jpg",
+  "description": "作品讲述雷鸣泽基为了寻找未谋面的母亲，逃离杀手组织白色坟墓，一路上被追杀并与之奋力斗争的故事。",
+  "last_updatetime": 1414291174,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 30215,
+  "hit_num": 544471,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 671,
+      "tag_name": "车田正美"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 192,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35009,
+          "chapter_title": "特别篇",
+          "updatetime": 1414291174,
+          "filesize": 1095375,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 35008,
+          "chapter_title": "1卷",
+          "updatetime": 1414291075,
+          "filesize": 7878141,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 23999998,
+        "uid": 106503380,
+        "content": "瞅瞅",
+        "createtime": 1581388533,
+        "nickname": "dmzj_106503380",
+        "avatar": "https://avatar.dmzj.com/fa/b5/fab5a8c401df484317e62d085a847ffd.png"
+      },
+      {
+        "comment_id": 23953497,
+        "uid": 110040471,
+        "content": "很好看",
+        "createtime": 1581264682,
+        "nickname": "kakarot",
+        "avatar": "https://avatar.dmzj.com/55/04/5504e43081666b55e18addf4a881dc04.png"
+      }
+    ]
+  }
+}

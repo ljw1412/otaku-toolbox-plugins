@@ -1,0 +1,75 @@
+{
+  "id": 19118,
+  "islong": 2,
+  "direction": 2,
+  "title": "中国秘术",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1001975801433841600.jpg",
+  "description": "中国秘术\n",
+  "last_updatetime": 1433841784,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 2814,
+  "hit_num": 17419,
+  "uid": 100197580,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9548,
+      "tag_name": "秘术"
+    }
+  ],
+  "subscribe_num": 6,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37959,
+          "chapter_title": "1话",
+          "updatetime": 1433841784,
+          "filesize": 485732,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 3739296,
+        "uid": 105284304,
+        "content": "呵呵，中国惊奇先生果然找不到",
+        "createtime": 1516789636,
+        "nickname": "四狼",
+        "avatar": "https://avatar.dmzj.com/20/c4/20c4b3489b76653772ad9ff64a90bc5d.png"
+      },
+      {
+        "comment_id": 1700755,
+        "uid": 100997319,
+        "content": "第一次独领全场的感觉，呵呵",
+        "createtime": 1484970697,
+        "nickname": "喜气欢乐，近在眼前`(*∩_",
+        "avatar": "https://avatar.dmzj.com/11/73/1173948049ab4aa0920fda5d044ffd09.png"
+      }
+    ]
+  }
+}

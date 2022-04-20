@@ -1,0 +1,75 @@
+{
+  "id": 13349,
+  "islong": 2,
+  "direction": 1,
+  "title": "Last Flight",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/lastflight.jpg",
+  "description": "对于这样的我们来说，远距离恋爱是行不通的吧？",
+  "last_updatetime": 1385399297,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lastflight",
+  "hidden": 0,
+  "hot_num": 43659,
+  "hit_num": 364630,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25228,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 989,
+      "tag_name": "彬圣子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 234,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25228,
+          "chapter_title": "1话",
+          "updatetime": 1385399297,
+          "filesize": 2593732,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 2077128,
+        "uid": 100577919,
+        "content": "除转折稍有点突兀外，还是挺好的，",
+        "createtime": 1492744001,
+        "nickname": "影逸游",
+        "avatar": "https://avatar.dmzj.com/72/01/720128ff68df60665cc7e7df86695761.png"
+      },
+      {
+        "comment_id": 897475,
+        "uid": 33362162,
+        "content": "高质量的短篇，男女主角性格都不错，配上狗粮食用，风味更嘉。",
+        "createtime": 1465744880,
+        "nickname": "献给虚无的供物",
+        "avatar": "https://avatar.dmzj.com/81/47/8147cd85c1930e2822cbe26ab608e470.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

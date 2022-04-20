@@ -1,0 +1,73 @@
+{
+  "id": 18145,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方青帖·孤莲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/dfqtgl986l.jpg",
+  "description": "东方青帖系列，ヨハネ又一CP诞生...",
+  "last_updatetime": 1428980692,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 452355,
+  "hit_num": 406254,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5114,
+      "tag_name": "ヨハネ"
+    }
+  ],
+  "subscribe_num": 2130,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40236,
+          "chapter_title": "1话",
+          "updatetime": 1428980692,
+          "filesize": 4368300,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 35,
+    "latest_comment": [
+      {
+        "comment_id": 29491702,
+        "uid": 102548914,
+        "content": "定",
+        "createtime": 1596663809,
+        "nickname": "曜仁慈",
+        "avatar": "https://avatar.dmzj.com/5c/31/5c31c1842c721b6e9b9480221fecbca3.png"
+      },
+      {
+        "comment_id": 28558699,
+        "uid": 104552191,
+        "content": "开始东方系列补完",
+        "createtime": 1593499670,
+        "nickname": "矛盾结合体",
+        "avatar": "https://avatar.dmzj.com/98/50/98504afb134f0f8d5da0f7abf2ed66e6.png"
+      }
+    ]
+  }
+}

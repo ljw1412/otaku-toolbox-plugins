@@ -1,0 +1,103 @@
+{
+  "id": 19754,
+  "islong": 2,
+  "direction": 2,
+  "title": "天朝之战",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871436774709.jpg",
+  "description": "一段也许被人遗忘，也许被人铭记的轰轰烈烈的历史故事。在历史的车轮中有多少这样意义非凡的事迹，现在就让我们一起回顾那逝去的惊心动魄...",
+  "last_updatetime": 1444704629,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 37437,
+  "hit_num": 536714,
+  "uid": 100205887,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 169,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42271,
+          "chapter_title": "5话",
+          "updatetime": 1444704629,
+          "filesize": 3336990,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 42270,
+          "chapter_title": "4话",
+          "updatetime": 1444704578,
+          "filesize": 2039852,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 42269,
+          "chapter_title": "3话",
+          "updatetime": 1444704515,
+          "filesize": 2322196,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 42268,
+          "chapter_title": "2话",
+          "updatetime": 1444704494,
+          "filesize": 2609774,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 39004,
+          "chapter_title": "1话",
+          "updatetime": 1436774772,
+          "filesize": 548178,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 7185787,
+        "uid": 105298104,
+        "content": "好漫画画不下去啊",
+        "createtime": 1538698720,
+        "nickname": "皓月千里97991",
+        "avatar": "https://avatar.dmzj.com/48/72/4872d7efccd997c193fe827d6914e48a.png"
+      },
+      {
+        "comment_id": 6885184,
+        "uid": 102079590,
+        "content": "日本史书：日本名将之星闪耀了朝鲜的夜空……\n然后被李如松，麻贵，李舜臣打的妈都不认识了。",
+        "createtime": 1537270860,
+        "nickname": "虹膜",
+        "avatar": "https://avatar.dmzj.com/33/27/3327fc7754292c8c40b2520efa106dae.png"
+      }
+    ]
+  }
+}

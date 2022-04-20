@@ -1,0 +1,73 @@
+{
+  "id": 15455,
+  "islong": 2,
+  "direction": 1,
+  "title": "Distorted Container",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/woyezhanturu.jpg",
+  "description": "舰娘的同人漫画，暧昧向，画风赛高。",
+  "last_updatetime": 1409211620,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 186120,
+  "hit_num": 935404,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3391,
+      "tag_name": "皇ハマオ"
+    }
+  ],
+  "subscribe_num": 890,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33794,
+          "chapter_title": "1话",
+          "updatetime": 1409211620,
+          "filesize": 5458182,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 25590238,
+        "uid": 104375942,
+        "content": "后记作者说不是百合，哇！",
+        "createtime": 1584946509,
+        "nickname": "放下～",
+        "avatar": "https://avatar.dmzj.com/1b/83/1b834137e430c1b4be4b54d975dd45c8.png"
+      },
+      {
+        "comment_id": 25590189,
+        "uid": 104375942,
+        "content": "可怜的提督（doge）",
+        "createtime": 1584946397,
+        "nickname": "放下～",
+        "avatar": "https://avatar.dmzj.com/1b/83/1b834137e430c1b4be4b54d975dd45c8.png"
+      }
+    ]
+  }
+}

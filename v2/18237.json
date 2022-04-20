@@ -1,0 +1,77 @@
+{
+  "id": 18237,
+  "islong": 2,
+  "direction": 1,
+  "title": "红与黑（rough et noir)",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/roughetnoirfengmianl.jpg",
+  "description": "LETRA touhou fanbook#30 无节操的咲夜与衣玖……",
+  "last_updatetime": 1429410659,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 88278,
+  "hit_num": 95363,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4904,
+      "tag_name": "滝太郎"
+    },
+    {
+      "tag_id": 6157,
+      "tag_name": "LETRA"
+    }
+  ],
+  "subscribe_num": 441,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40395,
+          "chapter_title": "1话",
+          "updatetime": 1429410659,
+          "filesize": 5205925,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 18427545,
+        "uid": 108717926,
+        "content": "。。。。好久啊",
+        "createtime": 1563566577,
+        "nickname": "dmzj_108717926",
+        "avatar": "https://avatar.dmzj.com/fd/1c/fd1cf437127639840283ae52170240e1.png"
+      },
+      {
+        "comment_id": 2185410,
+        "uid": 101153390,
+        "content": "请问那盘胖次能分我一点吗啊？",
+        "createtime": 1494857112,
+        "nickname": "苟利國家生死以",
+        "avatar": "https://avatar.dmzj.com/32/d3/32d3803477bdfb99ca7670c066a3d2ed.png"
+      }
+    ]
+  }
+}

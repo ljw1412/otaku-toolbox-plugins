@@ -1,0 +1,75 @@
+{
+  "id": 19235,
+  "islong": 2,
+  "direction": 2,
+  "title": "生化危机",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1002059771434539479.jpg",
+  "description": "一场事故，一场灾难，一个阴谋，一个野心，生还是死？",
+  "last_updatetime": 1434539885,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 9066,
+  "hit_num": 106295,
+  "uid": 100205977,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9617,
+      "tag_name": "佐首"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42141,
+          "chapter_title": "1话",
+          "updatetime": 1434539885,
+          "filesize": 930177,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "不定期更新",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 10920720,
+        "uid": 107181254,
+        "content": "不好意思，走错了。。",
+        "createtime": 1549261198,
+        "nickname": "千叶雉",
+        "avatar": "https://avatar.dmzj.com/56/81/568117ca10a4941853649a3021f4cc82.png"
+      },
+      {
+        "comment_id": 8652353,
+        "uid": 101930640,
+        "content": "画的那么烂还能放上来吗",
+        "createtime": 1543904132,
+        "nickname": "洛小友",
+        "avatar": "https://avatar.dmzj.com/36/25/36257d9ac4f0bc347611bb0492483ee3.png"
+      }
+    ]
+  }
+}

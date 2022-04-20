@@ -1,0 +1,95 @@
+{
+  "id": 19936,
+  "islong": 1,
+  "direction": 2,
+  "title": "慕老师",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1002506781437032037.jpg",
+  "description": "看腻了普通高中生的故事了吧~那就来看普通老师平时在干什么吧",
+  "last_updatetime": 1437484213,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 1787,
+  "hit_num": 4304,
+  "uid": 100250678,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9922,
+      "tag_name": "三二两肉"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41057,
+          "chapter_title": "5话",
+          "updatetime": 1437484213,
+          "filesize": 436467,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 40886,
+          "chapter_title": "4话",
+          "updatetime": 1437032523,
+          "filesize": 166638,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 40885,
+          "chapter_title": "3话",
+          "updatetime": 1437032497,
+          "filesize": 216962,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 40884,
+          "chapter_title": "2话",
+          "updatetime": 1437032454,
+          "filesize": 214110,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40883,
+          "chapter_title": "1话",
+          "updatetime": 1437032424,
+          "filesize": 223380,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 19323320,
+        "uid": 40057,
+        "content": "没人？",
+        "createtime": 1565623010,
+        "nickname": "流氓五世",
+        "avatar": "https://avatar.dmzj.com/2e/df/2edf48570f3d6d5202a41fa72629e893.png"
+      }
+    ]
+  }
+}

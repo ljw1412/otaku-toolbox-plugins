@@ -1,0 +1,73 @@
+{
+  "id": 12363,
+  "islong": 2,
+  "direction": 1,
+  "title": "热狗热go",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/reigourego.jpg",
+  "description": "\n這和平的世界，出現了一個重大的危機，就是千年以前封印的魔王，就要甦醒了，\n所以我們勇者就一路上打倒被魔王污染的壞食材，一邊解救被魔王威脅的好食材們。\n",
+  "last_updatetime": 1375847841,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 4132,
+  "hit_num": 444121,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6445,
+      "tag_name": "林芷蔚"
+    }
+  ],
+  "subscribe_num": 11,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23393,
+          "chapter_title": "4卷",
+          "updatetime": 1375847841,
+          "filesize": 20616438,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 23392,
+          "chapter_title": "3卷",
+          "updatetime": 1375847832,
+          "filesize": 18669132,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 23391,
+          "chapter_title": "2卷",
+          "updatetime": 1375847824,
+          "filesize": 20867143,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23390,
+          "chapter_title": "1卷",
+          "updatetime": 1375847815,
+          "filesize": 21450541,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

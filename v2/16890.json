@@ -1,0 +1,75 @@
+{
+  "id": 16890,
+  "islong": 2,
+  "direction": 2,
+  "title": "撸啊撸-四格漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/0126lualusigemanhuafml.jpg",
+  "description": "想做一些自己游戏里面有趣的事情",
+  "last_updatetime": 1422243518,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 14559,
+  "hit_num": 195182,
+  "uid": 100040986,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8440,
+      "tag_name": "梵高高丿"
+    }
+  ],
+  "subscribe_num": 24,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37372,
+          "chapter_title": "1话",
+          "updatetime": 1422243518,
+          "filesize": 733501,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 4793270,
+        "uid": 101557270,
+        "content": "rng牛逼",
+        "createtime": 1526975222,
+        "nickname": "刃之",
+        "avatar": "https://avatar.dmzj.com/d0/16/d016fc01eee4bdce5da14d6deda7b8ed.png"
+      },
+      {
+        "comment_id": 2710178,
+        "uid": 104236152,
+        "content": "我表示看不懂",
+        "createtime": 1502556667,
+        "nickname": "求发过",
+        "avatar": "https://avatar.dmzj.com/90/48/90489a943b01b4378b1db13e7b57add8.png"
+      }
+    ]
+  }
+}

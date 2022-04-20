@@ -1,0 +1,71 @@
+{
+  "id": 17246,
+  "islong": 2,
+  "direction": 2,
+  "title": "彭尸",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/0302pengshifml.jpg",
+  "description": "末世生存之路",
+  "last_updatetime": 1425278666,
+  "copyright": 1,
+  "first_letter": "p",
+  "hot_num": 5316,
+  "hit_num": 192059,
+  "uid": 100083214,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8625,
+      "tag_name": "江桐"
+    }
+  ],
+  "subscribe_num": 30,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36144,
+          "chapter_title": "1话",
+          "updatetime": 1425278666,
+          "filesize": 2896785,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 3904584,
+        "uid": 105731516,
+        "content": "额，不更了me",
+        "createtime": 1518886047,
+        "nickname": "追到追到吐血",
+        "avatar": "https://avatar.dmzj.com/4d/c8/4dc87167a840e6f0b4a9e580d4d158ea.png"
+      },
+      {
+        "comment_id": 2678918,
+        "uid": 104205988,
+        "content": "这封面是剽窃游戏王的卡片封面吧超像",
+        "createtime": 1502264453,
+        "nickname": "●︷●Seven 7",
+        "avatar": "https://avatar.dmzj.com/88/20/8820186c6c79fad3abdb9dad3880a3a5.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 19496,
+  "islong": 2,
+  "direction": 2,
+  "title": "10分钟单人美食",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1002237581435632620.jpg",
+  "description": "10分钟也可以吃的健康？是的！1个人，1个懒人也可以享受美食！",
+  "last_updatetime": 1435632758,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 21055,
+  "hit_num": 55643,
+  "uid": 100223758,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3327,
+      "tag_name": "美食"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9742,
+      "tag_name": "点绛唇"
+    }
+  ],
+  "subscribe_num": 123,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40300,
+          "chapter_title": "最基础的",
+          "updatetime": 1435632758,
+          "filesize": 187722,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 4312571,
+        "uid": 106459954,
+        "content": "字真的看不太清楚😂",
+        "createtime": 1523345618,
+        "nickname": "鬼画皮",
+        "avatar": "https://avatar.dmzj.com/9a/b5/9ab5ad2ec78eb25db043c940d40e5b39.png"
+      },
+      {
+        "comment_id": 2724983,
+        "uid": 104556104,
+        "content": "喜欢这画风_(:з」∠)_",
+        "createtime": 1502714110,
+        "nickname": "花子喵",
+        "avatar": "https://avatar.dmzj.com/11/65/1165473462449c19709d28cc4ae0d20d.png"
+      }
+    ]
+  }
+}

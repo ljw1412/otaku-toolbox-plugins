@@ -1,0 +1,81 @@
+{
+  "id": 16228,
+  "islong": 2,
+  "direction": 1,
+  "title": "喜欢的人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/xhdr897.jpg",
+  "description": "喜欢的人是妹纸，萌萌治愈百合剧",
+  "last_updatetime": 1424935467,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 387826,
+  "hit_num": 586487,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7295,
+      "tag_name": "マウンテンプクイチ"
+    },
+    {
+      "tag_id": 8600,
+      "tag_name": "ぽんぽんお"
+    }
+  ],
+  "subscribe_num": 2178,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 32331,
+          "chapter_title": "1话",
+          "updatetime": 1424935467,
+          "filesize": 3423546,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 84,
+    "latest_comment": [
+      {
+        "comment_id": 29608772,
+        "uid": 110535582,
+        "content": "甜",
+        "createtime": 1597118398,
+        "nickname": "魔法少女123",
+        "avatar": "https://avatar.dmzj.com/15/52/1552c28520d31103e4bcb9b55ba28f39.png"
+      },
+      {
+        "comment_id": 29233995,
+        "uid": 109439836,
+        "content": "啵一个可还行",
+        "createtime": 1595752275,
+        "nickname": "dmzj_109439836",
+        "avatar": "https://avatar.dmzj.com/78/21/78213325599710e4a29b1d706116a4e8.png"
+      }
+    ]
+  }
+}

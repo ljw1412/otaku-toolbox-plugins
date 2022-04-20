@@ -1,0 +1,77 @@
+{
+  "id": 1886,
+  "islong": 2,
+  "direction": 1,
+  "title": "战海特斯提",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/GITBS_000a_3cb87df2d69dc50bfe56894b7d2fb537.jpg",
+  "description": "战争漫画",
+  "last_updatetime": 1269512055,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 62787,
+  "hit_num": 2201228,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1215,
+      "tag_name": "中里融司"
+    },
+    {
+      "tag_id": 1216,
+      "tag_name": "片山诚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 283,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 4058,
+          "chapter_title": "1卷",
+          "updatetime": 1269512002,
+          "filesize": 31750401,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 26265211,
+        "uid": 107532001,
+        "content": "我就好奇这船最后是被炸沉的还是被解体的",
+        "createtime": 1586423951,
+        "nickname": "水深三尺",
+        "avatar": "https://avatar.dmzj.com/fc/06/fc063b03cec710bebd9b0a40de1e8b84.png"
+      },
+      {
+        "comment_id": 24802741,
+        "uid": 106083528,
+        "content": "真瘠薄扯淡",
+        "createtime": 1583204810,
+        "nickname": "大風起兮雲飛揚",
+        "avatar": "https://avatar.dmzj.com/62/13/6213d9ebc8cedf9f67970fd15ffef4ce.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": 20238,
+  "islong": 2,
+  "direction": 2,
+  "title": "蛙啦蛙啦与猩猩队长的故事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1002729401437904937.jpg",
+  "description": "蛙啦蛙啦出生在普通的家庭，生活中遇见了来自遥远猩球的猩猩队长，于是，两位发生了各种新奇的故事...",
+  "last_updatetime": 1441647598,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 2857,
+  "hit_num": 22663,
+  "uid": 100272940,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10023,
+      "tag_name": "蛙啦蛙啦"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41119,
+          "chapter_title": "3话",
+          "updatetime": 1441647598,
+          "filesize": 961963,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 39932,
+          "chapter_title": "2话",
+          "updatetime": 1438797301,
+          "filesize": 512517,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 39543,
+          "chapter_title": "1话",
+          "updatetime": 1437905337,
+          "filesize": 729968,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 29158072,
+        "uid": 3329583,
+        "content": "是谁改了回去？",
+        "createtime": 1595446720,
+        "nickname": "DM358",
+        "avatar": "https://avatar.dmzj.com/e7/06/e706417739ac6593c5f30c64f2fd69ec.png"
+      },
+      {
+        "comment_id": 23653836,
+        "uid": 109473555,
+        "content": "哦，天哪",
+        "createtime": 1580458679,
+        "nickname": "dmzj_109473555",
+        "avatar": "https://avatar.dmzj.com/aa/a5/aaa57fc5636851deee31aa1899c92f7a.png"
+      }
+    ]
+  }
+}

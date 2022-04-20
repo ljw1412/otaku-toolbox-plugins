@@ -1,0 +1,97 @@
+{
+  "id": 11457,
+  "islong": 2,
+  "direction": 1,
+  "title": "Paper Braver",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/paperbraver.jpg",
+  "description": "勇者业界骚动！新的传说(预定)就要开始啦！",
+  "last_updatetime": 1377103779,
+  "copyright": 0,
+  "first_letter": "p",
+  "hot_num": 242086,
+  "hit_num": 1304638,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6028,
+      "tag_name": "藤近小梅"
+    }
+  ],
+  "subscribe_num": 1387,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26025,
+          "chapter_title": "7话",
+          "updatetime": 1377103779,
+          "filesize": 1166713,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 25833,
+          "chapter_title": "6话",
+          "updatetime": 1376066505,
+          "filesize": 1231304,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 24985,
+          "chapter_title": "4话",
+          "updatetime": 1371750838,
+          "filesize": 1259900,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 24730,
+          "chapter_title": "3话",
+          "updatetime": 1370503535,
+          "filesize": 1078319,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 24554,
+          "chapter_title": "1话",
+          "updatetime": 1369761780,
+          "filesize": 3603093,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 50,
+    "latest_comment": [
+      {
+        "comment_id": 28028590,
+        "uid": 101433802,
+        "content": "啊这，还更新吗？",
+        "createtime": 1591638759,
+        "nickname": "Jane桎烟",
+        "avatar": "https://avatar.dmzj.com/64/49/6449471197ca07cc2ddfc149ea1d74e9.png"
+      },
+      {
+        "comment_id": 24974468,
+        "uid": 109632387,
+        "content": "我去，13年的评论还能见到",
+        "createtime": 1583547398,
+        "nickname": "潜鸟鸣",
+        "avatar": "https://avatar.dmzj.com/41/17/41176a1542020f3dab9e216b4cddbf02.png"
+      }
+    ]
+  }
+}

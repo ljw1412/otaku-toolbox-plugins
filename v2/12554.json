@@ -1,0 +1,65 @@
+{
+  "id": 12554,
+  "islong": 2,
+  "direction": 2,
+  "title": "DC宇宙纪实：绿箭侠之死",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/dcyzjslvjianzhisi.jpg",
+  "description": "《DC宇宙记实：绿箭之死》——绿箭V2#101",
+  "last_updatetime": 1377399830,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 1849538,
+  "hit_num": 103774,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 7543,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23880,
+          "chapter_title": "1卷",
+          "updatetime": 1377399830,
+          "filesize": 4159558,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 21501275,
+        "uid": 107403814,
+        "content": "牛批",
+        "createtime": 1571568986,
+        "nickname": "dmzj_107403814",
+        "avatar": "https://avatar.dmzj.com/ff/b0/ffb04dbbf2544a0d3a7f67a9fa3607de.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": 16859,
+  "islong": 1,
+  "direction": 1,
+  "title": "猪丫丫事件簿",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/0122zhuyayashijianbu2fml.jpg",
+  "description": "一只可爱小猪与人类的快乐日常。",
+  "last_updatetime": 1421904998,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 1095,
+  "hit_num": 6690,
+  "uid": 100037348,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8421,
+      "tag_name": "小牧鱼时光"
+    }
+  ],
+  "subscribe_num": 16,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33899,
+          "chapter_title": "1话",
+          "updatetime": 1421904998,
+          "filesize": 636468,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 28843393,
+        "uid": 107211944,
+        "content": "1111",
+        "createtime": 1594401383,
+        "nickname": "真理子ザズイ",
+        "avatar": "https://avatar.dmzj.com/5e/2b/5e2b13a3daaeb01f3388b56cf37a0a08.png"
+      }
+    ]
+  }
+}

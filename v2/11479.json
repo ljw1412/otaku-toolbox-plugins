@@ -1,0 +1,90 @@
+{
+  "id": 11479,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方青帖·再演!!",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/dfqtzy.jpg",
+  "description": "本作是将过去三作再次编入一册，有名无实的再录本。",
+  "last_updatetime": 1370325412,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 386120,
+  "hit_num": 534641,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5114,
+      "tag_name": "ヨハネ"
+    }
+  ],
+  "subscribe_num": 1839,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22236,
+          "chapter_title": "我心如斯",
+          "updatetime": 1370325412,
+          "filesize": 2706211,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 22214,
+          "chapter_title": "初次邂逅",
+          "updatetime": 1370239985,
+          "filesize": 4752233,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 22165,
+          "chapter_title": "真正的归宿",
+          "updatetime": 1369965898,
+          "filesize": 4897427,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22159,
+          "chapter_title": "那片星空",
+          "updatetime": 1369904284,
+          "filesize": 5808231,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 19884212,
+        "uid": 101646046,
+        "content": "桥姬和魔理沙感觉很甜啊……就是漫画很少",
+        "createtime": 1567140969,
+        "nickname": "喜欢魔理沙真是太好了",
+        "avatar": "https://avatar.dmzj.com/64/61/6461ee5aeefbc6f29a0a531ae972e6f1.png"
+      },
+      {
+        "comment_id": 10566328,
+        "uid": 33416049,
+        "content": "甜到掉牙(≧ω≦)/",
+        "createtime": 1548563219,
+        "nickname": "夜王狄米特",
+        "avatar": "https://avatar.dmzj.com/f5/da/f5da1ad65784708d24bb45fd671e22ff.png"
+      }
+    ]
+  }
+}

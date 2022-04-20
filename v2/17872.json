@@ -1,0 +1,73 @@
+{
+  "id": 17872,
+  "islong": 2,
+  "direction": 2,
+  "title": "梦想",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/0402mengxiang.jpg",
+  "description": "故事讲述五个孩子的想象，和他们的家人，宠物，和朋友。",
+  "last_updatetime": 1427940650,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 4842,
+  "hit_num": 1002,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8932,
+      "tag_name": "Heaven Sent Gaming"
+    }
+  ],
+  "subscribe_num": 20,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39797,
+          "chapter_title": "漫画1（英语）",
+          "updatetime": 1427940650,
+          "filesize": 182392,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 23916756,
+        "uid": 107580724,
+        "content": "2020年",
+        "createtime": 1581174161,
+        "nickname": "Apkr",
+        "avatar": "https://avatar.dmzj.com/7f/19/7f19e23040dc184449b13513ae9a6ec2.png"
+      },
+      {
+        "comment_id": 453856,
+        "uid": 100014023,
+        "content": "等一下，这什么鬼。",
+        "createtime": 1439719435,
+        "nickname": "我一充钱快乐七天",
+        "avatar": "https://avatar.dmzj.com/54/53/5453119e5cda5ddb241753d696583af5.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": 18173,
+  "islong": 2,
+  "direction": 1,
+  "title": "YU-LIPS♥chu",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/YULIPSchufengmianl.jpg",
+  "description": "百合短漫，就算是恋爱禁止的偶像，也想谈恋爱啊",
+  "last_updatetime": 1429096856,
+  "last_update_chapter_name": "第02话",
+  "copyright": 3,
+  "first_letter": "y",
+  "comic_py": "yulipschu",
+  "hidden": 0,
+  "hot_num": 42325,
+  "hit_num": 167222,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 36130,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4324,
+      "tag_name": "森岛明子"
+    }
+  ],
+  "subscribe_num": 221,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36130,
+          "chapter_title": "2话",
+          "updatetime": 1429096856,
+          "filesize": 2761523,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 36129,
+          "chapter_title": "1话",
+          "updatetime": 1429096843,
+          "filesize": 3561365,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 45,
+    "latest_comment": [
+      {
+        "comment_id": 23949571,
+        "uid": 108156626,
+        "content": "这个老师好多好看的",
+        "createtime": 1581260025,
+        "nickname": "两仪式的女婿",
+        "avatar": "https://avatar.dmzj.com/72/46/72460fbd12c53c9fbe0ceeb7c81e01a2.png"
+      },
+      {
+        "comment_id": 23861057,
+        "uid": 108522922,
+        "content": "留下足迹证明来过",
+        "createtime": 1581019341,
+        "nickname": "清凉月色",
+        "avatar": "https://avatar.dmzj.com/2a/6c/2a6cfbd01aaf73e571ae46b8190508d7.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

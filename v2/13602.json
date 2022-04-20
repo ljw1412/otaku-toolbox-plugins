@@ -1,0 +1,80 @@
+{
+  "id": 13602,
+  "islong": 2,
+  "direction": 1,
+  "title": "少女satellite",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/shaonvweixing.jpg",
+  "description": "对于我们来说，人类无非就是这般朴素、愚昧，且惹人怜爱的存在。通过宇宙船来观察人类的行为，这就是我们的工作。我们就是——星座少女。",
+  "last_updatetime": 1388396886,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 67115,
+  "hit_num": 1058015,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6977,
+      "tag_name": "はみ"
+    }
+  ],
+  "subscribe_num": 381,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 28165,
+          "chapter_title": "2卷",
+          "updatetime": 1388396879,
+          "filesize": 11235610,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 28166,
+          "chapter_title": "1卷",
+          "updatetime": 1388396886,
+          "filesize": 14274293,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 29584482,
+        "uid": 101359718,
+        "content": "这个是完结了吗，看状态是连载，但最后一页写了end",
+        "createtime": 1597019418,
+        "nickname": "daimones",
+        "avatar": "https://avatar.dmzj.com/96/34/9634acaa3df8968e5487e50b8a027e5b.png"
+      },
+      {
+        "comment_id": 29012041,
+        "uid": 100927030,
+        "content": "看了下更新日期，真是好多年了，已经记不得最初是于何处追起的了",
+        "createtime": 1594970618,
+        "nickname": "世界昨天就没了",
+        "avatar": "https://avatar.dmzj.com/70/12/7012d0ac0d685b9de1e1f3ed04ec3aeb.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 19410,
+  "islong": 2,
+  "direction": 2,
+  "title": "关联者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1000952731435223061.jpg",
+  "description": "很早之前的练习作品~",
+  "last_updatetime": 1435223106,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 902,
+  "hit_num": 11337,
+  "uid": 100095273,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8787,
+      "tag_name": "洛娅／空城"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42340,
+          "chapter_title": "1话",
+          "updatetime": 1435223106,
+          "filesize": 1483243,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1995741,
+        "uid": 100913578,
+        "content": "画工很棒！",
+        "createtime": 1491107228,
+        "nickname": "超能零式",
+        "avatar": "https://avatar.dmzj.com/76/93/769369b653c1061670af37c6189b0061.png"
+      },
+      {
+        "comment_id": 418376,
+        "uid": 15117414,
+        "content": "这……有点跳跃",
+        "createtime": 1435243955,
+        "nickname": "↓十九层地狱",
+        "avatar": "https://avatar.dmzj.com/d6/09/d609e12db9c16f100e3d5a6c4fb31754.png"
+      }
+    ]
+  }
+}

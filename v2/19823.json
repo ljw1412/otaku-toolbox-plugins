@@ -1,0 +1,79 @@
+{
+  "id": 19823,
+  "islong": 2,
+  "direction": 2,
+  "title": "白雪公主",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1002093781436944971.jpg",
+  "description": "白雪公主",
+  "last_updatetime": 1436945141,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 7658,
+  "hit_num": 681487,
+  "uid": 100209378,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9628,
+      "tag_name": "洋洋兔动漫"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39110,
+          "chapter_title": "1话",
+          "updatetime": 1436945141,
+          "filesize": 8013099,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 20455298,
+        "uid": 103417916,
+        "content": "承认，否定。记忆，遗忘。生命，死亡。过客，迷茫地望着这川流不息的世界，自己究竟为何而来，而又何时而离去。",
+        "createtime": 1568911701,
+        "nickname": "乐小说",
+        "avatar": "https://avatar.dmzj.com/90/92/9092581577ccd0269c3665eb2c9dac03.png"
+      },
+      {
+        "comment_id": 3894789,
+        "uid": 106046664,
+        "content": "hhhhhhh嗝，dmzj这么6的吗hhhhhhhhhhhhhhh",
+        "createtime": 1518738970,
+        "nickname": "dmzj_106046664",
+        "avatar": "https://avatar.dmzj.com/f9/98/f998b3537659a6812f1effd3af91c6bd.png"
+      }
+    ]
+  }
+}

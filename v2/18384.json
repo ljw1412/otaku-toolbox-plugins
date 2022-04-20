@@ -1,0 +1,71 @@
+{
+  "id": 18384,
+  "islong": 2,
+  "direction": 2,
+  "title": "云海之上",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1001055781430119144.jpg",
+  "description": "云海之上",
+  "last_updatetime": 1430186723,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 13700,
+  "hit_num": 245236,
+  "uid": 100105578,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8937,
+      "tag_name": "北巷"
+    }
+  ],
+  "subscribe_num": 82,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36690,
+          "chapter_title": "1话",
+          "updatetime": 1430186723,
+          "filesize": 484865,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 1207122,
+        "uid": 100790429,
+        "content": "而且这还是几年前就完结的知音漫客作品",
+        "createtime": 1472031316,
+        "nickname": "旧色",
+        "avatar": "https://avatar.dmzj.com/15/96/159616056bc00f14332e6633e58e6e9b.png"
+      },
+      {
+        "comment_id": 385756,
+        "uid": 18400204,
+        "content": "这不是知音漫客的吗？我觉得还是赶快撤了比较好",
+        "createtime": 1430206300,
+        "nickname": "冷面色魔",
+        "avatar": "https://avatar.dmzj.com/73/5e/735ea725305f9cfae96474ee5f0673e4.png"
+      }
+    ]
+  }
+}

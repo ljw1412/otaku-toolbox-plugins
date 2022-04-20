@@ -1,0 +1,83 @@
+{
+  "id": 1959,
+  "islong": 2,
+  "direction": 2,
+  "title": "至黑之夜-蝙蝠侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/00_6dc4f20018be4d9f3450caef4e0041d8.jpg",
+  "description": "Blackest.Night.Batman\nGeoff Johns",
+  "last_updatetime": 1269336052,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 2383310,
+  "hit_num": 1516191,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 10759,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 5148,
+          "chapter_title": "3卷",
+          "updatetime": 1269940852,
+          "filesize": 3731141,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 5147,
+          "chapter_title": "2卷",
+          "updatetime": 1269940852,
+          "filesize": 3464908,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 5146,
+          "chapter_title": "1卷",
+          "updatetime": 1269940852,
+          "filesize": 3025458,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 27950365,
+        "uid": 107910479,
+        "content": "门，一个门",
+        "createtime": 1591373289,
+        "nickname": "忻薇",
+        "avatar": "https://avatar.dmzj.com/28/10/2810610d406988d85f598b2336ca048f.png"
+      },
+      {
+        "comment_id": 21238726,
+        "uid": 102290398,
+        "content": "门",
+        "createtime": 1570897373,
+        "nickname": "浅幸",
+        "avatar": "https://avatar.dmzj.com/f5/42/f542b451c8006028dba36456225c92ba.png"
+      }
+    ]
+  }
+}

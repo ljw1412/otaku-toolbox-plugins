@@ -1,0 +1,90 @@
+{
+  "id": 12264,
+  "islong": 2,
+  "direction": 2,
+  "title": "地狱神探：饥饿",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/diyushentanjie.jpg",
+  "description": "《地狱神探》之《饥饿》(全2册) 。",
+  "last_updatetime": 1437290997,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 86596,
+  "hit_num": 221142,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4167,
+      "tag_name": "VERTIGO"
+    }
+  ],
+  "subscribe_num": 509,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39180,
+          "chapter_title": "10卷",
+          "updatetime": 1437290997,
+          "filesize": 5457124,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 39179,
+          "chapter_title": "9卷",
+          "updatetime": 1437290963,
+          "filesize": 4896823,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 38950,
+          "chapter_title": "8卷",
+          "updatetime": 1436677322,
+          "filesize": 5054389,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23337,
+          "chapter_title": "1卷",
+          "updatetime": 1375092271,
+          "filesize": 3644810,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 29864938,
+        "uid": 110937985,
+        "content": "留",
+        "createtime": 1598106524,
+        "nickname": "千羽鶴の千鶴",
+        "avatar": "https://avatar.dmzj.com/8f/6b/8f6b8e77fe584a99cd9723c0ecd671eb.png"
+      },
+      {
+        "comment_id": 27040913,
+        "uid": 101753563,
+        "content": "可以。",
+        "createtime": 1588428982,
+        "nickname": "云中超人",
+        "avatar": "https://avatar.dmzj.com/92/02/9202c7a2886ae7640a340e2195198565.png"
+      }
+    ]
+  }
+}

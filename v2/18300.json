@@ -1,0 +1,89 @@
+{
+  "id": 18300,
+  "islong": 2,
+  "direction": 2,
+  "title": "百月年",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1001309371429620664.jpg",
+  "description": "你只是我的一部分，在我不老的生命中存在过.记忆中的你却被命运牵走着；但这一切确实你不知道、而、我却知道。",
+  "last_updatetime": 1430789457,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 6073,
+  "hit_num": 102130,
+  "uid": 100130937,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9116,
+      "tag_name": "反樵"
+    }
+  ],
+  "subscribe_num": 81,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40797,
+          "chapter_title": "03",
+          "updatetime": 1430789457,
+          "filesize": 1316004,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 40656,
+          "chapter_title": "02",
+          "updatetime": 1430271157,
+          "filesize": 916189,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40475,
+          "chapter_title": "01.事发前",
+          "updatetime": 1429685869,
+          "filesize": 606139,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "只是喜欢画画而已，偶尔猥琐下声音而已哦。",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 1317369,
+        "uid": 102131498,
+        "content": "很棒",
+        "createtime": 1474988865,
+        "nickname": "さようなら55391",
+        "avatar": "https://avatar.dmzj.com/38/33/383352ef87764becd3363ee143ebdf3e.png"
+      },
+      {
+        "comment_id": 518951,
+        "uid": 100284506,
+        "content": "画风不错，但只能猜个大概而不是看个大概",
+        "createtime": 1448001445,
+        "nickname": "大紅帽",
+        "avatar": "https://avatar.dmzj.com/ec/7b/ec7b3c8f5a09aaebac22be33eb29e8b0.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 10365,
+  "islong": 2,
+  "direction": 1,
+  "title": "Skeleton Liar",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/Skeleton-Liar.jpg",
+  "description": "东方同人本，魔里沙的故事的。",
+  "last_updatetime": 1360936619,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "skeletonliar",
+  "hidden": 0,
+  "hot_num": 34971,
+  "hit_num": 212324,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21724,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5517,
+      "tag_name": "matilda"
+    }
+  ],
+  "subscribe_num": 148,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21724,
+          "chapter_title": "1话",
+          "updatetime": 1360936619,
+          "filesize": 5341713,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 29697432,
+        "uid": 110059544,
+        "content": "蛮好看的，这本魔理沙完全就是御姐的感觉呢wwww",
+        "createtime": 1597488786,
+        "nickname": "你说这兽耳它不香嘛",
+        "avatar": "https://avatar.dmzj.com/57/90/579086d1d112c56ce9ed10bee3a0749f.png"
+      },
+      {
+        "comment_id": 22757543,
+        "uid": 108874877,
+        "content": "好本无人",
+        "createtime": 1576945299,
+        "nickname": "蕾米remilet",
+        "avatar": "https://avatar.dmzj.com/27/45/27459b64a2998e9ec1cb9343e83c0771.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

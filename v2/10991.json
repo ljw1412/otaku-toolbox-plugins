@@ -1,0 +1,75 @@
+{
+  "id": 10991,
+  "islong": 2,
+  "direction": 1,
+  "title": "萤三七子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/yingsanqizi.jpg",
+  "description": "青山、绿水、好喝的土酒，还有漫天飞舞的萤火虫…日吉濑的一切对浩来说，都是美好的回忆。未料在一次怀旧之旅中，浩发现，一切都不同了。",
+  "last_updatetime": 1366267879,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yingsanqizi",
+  "hidden": 0,
+  "hot_num": 33575,
+  "hit_num": 216302,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21077,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1277,
+      "tag_name": "千叶彻弥"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 152,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21077,
+          "chapter_title": "1卷",
+          "updatetime": 1366267879,
+          "filesize": 29396575,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 11555860,
+        "uid": 104857448,
+        "content": "好看呀",
+        "createtime": 1550392538,
+        "nickname": "张兵Apocrypha",
+        "avatar": "https://avatar.dmzj.com/59/69/596986c99e4e86881634c7a645573547.png"
+      },
+      {
+        "comment_id": 4131873,
+        "uid": 105196324,
+        "content": "一三言",
+        "createtime": 1521559475,
+        "nickname": "一席",
+        "avatar": "https://avatar.dmzj.com/23/21/2321a1de24b409dbc85f3eeb58ef7e6c.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

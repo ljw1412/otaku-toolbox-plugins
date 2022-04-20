@@ -1,0 +1,115 @@
+{
+  "id": 13692,
+  "islong": 2,
+  "direction": 2,
+  "title": "新52正义联盟3000",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/xin52zylm3000.jpg",
+  "description": "新52 31世纪正义联盟",
+  "last_updatetime": 1548652848,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 2245624,
+  "hit_num": 898841,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 9260,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85100,
+          "chapter_title": "12卷",
+          "updatetime": 1548652848,
+          "filesize": 4047446,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 45020,
+          "chapter_title": "6卷",
+          "updatetime": 1441522565,
+          "filesize": 3566109,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 30484,
+          "chapter_title": "5卷",
+          "updatetime": 1401089159,
+          "filesize": 3650530,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 29961,
+          "chapter_title": "4卷",
+          "updatetime": 1398434007,
+          "filesize": 3660646,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 29511,
+          "chapter_title": "3卷",
+          "updatetime": 1396020194,
+          "filesize": 3105634,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 28944,
+          "chapter_title": "2卷",
+          "updatetime": 1392953143,
+          "filesize": 3171654,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 28314,
+          "chapter_title": "1卷",
+          "updatetime": 1389318875,
+          "filesize": 4210688,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 31,
+    "latest_comment": [
+      {
+        "comment_id": 29655019,
+        "uid": 108369404,
+        "content": "7,8,9,10,11卷神秘失踪……",
+        "createtime": 1597306864,
+        "nickname": "小僕",
+        "avatar": "https://avatar.dmzj.com/32/56/3256dc840ff7aeb077f5cbaf3de59d7b.png"
+      },
+      {
+        "comment_id": 29450138,
+        "uid": 108022248,
+        "content": "……",
+        "createtime": 1596523377,
+        "nickname": "蝙蝠猫女",
+        "avatar": "https://avatar.dmzj.com/22/01/2201db339568cfbaf3d1a65bfd7c94b4.png"
+      }
+    ]
+  }
+}

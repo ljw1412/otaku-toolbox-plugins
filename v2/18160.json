@@ -1,0 +1,81 @@
+{
+  "id": 18160,
+  "islong": 1,
+  "direction": 2,
+  "title": "五厘米",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1001227051429014453.jpg",
+  "description": "还没想好",
+  "last_updatetime": 1429063429,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 866,
+  "hit_num": 1540,
+  "uid": 100122705,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9064,
+      "tag_name": "五厘米"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40261,
+          "chapter_title": "我没有很想你 ",
+          "updatetime": 1429063429,
+          "filesize": 37551,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 40262,
+          "chapter_title": "分手（二）",
+          "updatetime": 1429016443,
+          "filesize": 90500,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40263,
+          "chapter_title": "分手（一）",
+          "updatetime": 1429015500,
+          "filesize": 71637,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "还没想好",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 379527,
+        "uid": 9635394,
+        "content": "作者只有5cm.......",
+        "createtime": 1429075399,
+        "nickname": "红耳鹎",
+        "avatar": "https://avatar.dmzj.com/b0/4a/b04a1b9060bb25bc7ce713b800a47b6a.png"
+      }
+    ]
+  }
+}

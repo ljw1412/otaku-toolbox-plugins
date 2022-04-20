@@ -1,0 +1,91 @@
+{
+  "id": 14050,
+  "islong": 2,
+  "direction": 1,
+  "title": "舰娘KANKAN-MUSUMUSU",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/momo艦.jpg",
+  "description": "舰娘与提督的萌系日常。",
+  "last_updatetime": 1393700146,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jianniangkankanmusumusu",
+  "hidden": 0,
+  "hot_num": 44425,
+  "hit_num": 408773,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 28090,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7161,
+      "tag_name": "くろがねぎん"
+    }
+  ],
+  "subscribe_num": 257,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 28090,
+          "chapter_title": "1话",
+          "updatetime": 1393700146,
+          "filesize": 2132962,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 601176,
+        "uid": 100502306,
+        "content": "不就是画蛐蛐驱逐舰那个作者嘛",
+        "createtime": 1454435204,
+        "nickname": "吴美由纪",
+        "avatar": "https://avatar.dmzj.com/97/25/97258f9a11567fb686a52a88467a85d1.png"
+      },
+      {
+        "comment_id": 306346,
+        "uid": 27191946,
+        "content": "........",
+        "createtime": 1413588455,
+        "nickname": "dsfasdsfsdfs",
+        "avatar": "https://avatar.dmzj.com/e3/74/e3746655b26db2c762b5587991d40173.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

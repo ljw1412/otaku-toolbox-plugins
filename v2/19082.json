@@ -1,0 +1,83 @@
+{
+  "id": 19082,
+  "islong": 2,
+  "direction": 1,
+  "title": "灵画师",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/t3894918linghuashi690001.jpg",
+  "description": "因为爷爷是佛画师的缘故，画家曾根崎明可以看见灵，这种体质使他被卷入不可思议的事情中。这是一个利用绘画释放人们心中不可思议的缘和羁绊的故事！",
+  "last_updatetime": 1434205368,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 19923,
+  "hit_num": 104276,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9518,
+      "tag_name": "辰巳ドロ子"
+    }
+  ],
+  "subscribe_num": 219,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42080,
+          "chapter_title": "3话",
+          "updatetime": 1434205368,
+          "filesize": 2128957,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 42066,
+          "chapter_title": "2话",
+          "updatetime": 1434174868,
+          "filesize": 2430801,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 41900,
+          "chapter_title": "1话",
+          "updatetime": 1433784038,
+          "filesize": 2066055,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 25090278,
+        "uid": 100378600,
+        "content": "后面呢，鼻血怎么办？",
+        "createtime": 1583790099,
+        "nickname": "夏铃娜娜",
+        "avatar": "https://avatar.dmzj.com/db/bc/dbbcc208be3b1578f29f3fe63989e5ef.png"
+      },
+      {
+        "comment_id": 23657347,
+        "uid": 105073932,
+        "content": "啊，好久了",
+        "createtime": 1580472125,
+        "nickname": "千早神靈",
+        "avatar": "https://avatar.dmzj.com/94/90/9490bcda8b6fb93c7c38e631d79f670b.png"
+      }
+    ]
+  }
+}

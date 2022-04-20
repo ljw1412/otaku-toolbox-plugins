@@ -1,0 +1,76 @@
+{
+  "id": 19151,
+  "islong": 2,
+  "direction": 2,
+  "title": "MewdyStory喵娣的故事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1001918021433490487.jpg",
+  "description": "看完电影看喵娣，这是一个总围绕着院线影片的快乐格子漫画！\n有你想不到的与电影接触的各种搞笑快乐的桥段。",
+  "last_updatetime": 1433491002,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 1112,
+  "hit_num": 8113,
+  "uid": 100191802,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9571,
+      "tag_name": "sosso潇潇"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39792,
+          "chapter_title": "02-电影看哪部1",
+          "updatetime": 1433491002,
+          "filesize": 478255,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 39791,
+          "chapter_title": "01-复仇者联盟二",
+          "updatetime": 1433490945,
+          "filesize": 480624,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 39790,
+          "chapter_title": "※ 人物介绍与态度",
+          "updatetime": 1433490867,
+          "filesize": 364157,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

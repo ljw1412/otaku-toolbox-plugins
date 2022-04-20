@@ -1,0 +1,69 @@
+{
+  "id": 10549,
+  "islong": 2,
+  "direction": 2,
+  "title": "辐射漫画 All Roads",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/fushelasiweijiasi.jpg",
+  "description": "辐射新维加斯官方漫画 \n",
+  "last_updatetime": 1362652505,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 388620,
+  "hit_num": 735441,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1828,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20751,
+          "chapter_title": "1卷",
+          "updatetime": 1362652505,
+          "filesize": 6103273,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 35,
+    "latest_comment": [
+      {
+        "comment_id": 28990788,
+        "uid": 104724423,
+        "content": "我就不明白了邮差这么强到底怎么会被几个人围住击昏爆头的(°д°)",
+        "createtime": 1594899700,
+        "nickname": "月光泡沫",
+        "avatar": "https://avatar.dmzj.com/87/30/87300d61168e202c2e1818e14a383750.png"
+      },
+      {
+        "comment_id": 27523472,
+        "uid": 104605666,
+        "content": "新维加斯真的是神作啊………不过这漫画好像吃了点书来着",
+        "createtime": 1589932970,
+        "nickname": "xs23432",
+        "avatar": "https://avatar.dmzj.com/0b/72/0b72353fa869f681ecb616dfd90b73fe.png"
+      }
+    ]
+  }
+}

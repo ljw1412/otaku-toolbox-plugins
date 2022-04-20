@@ -1,0 +1,69 @@
+{
+  "id": 10368,
+  "islong": 2,
+  "direction": 1,
+  "title": "Lies and Truth",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/liesandr.jpg",
+  "description": "真还是假，明明是引发事情的2位，到好像是被卷入的",
+  "last_updatetime": 1360947203,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 21039,
+  "hit_num": 186260,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5519,
+      "tag_name": "くろすたぷ"
+    }
+  ],
+  "subscribe_num": 87,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20689,
+          "chapter_title": "1话",
+          "updatetime": 1360947203,
+          "filesize": 4012829,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 26317605,
+        "uid": 106043299,
+        "content": "评论区咋那么冷清……",
+        "createtime": 1586527448,
+        "nickname": "KODmzj",
+        "avatar": "https://avatar.dmzj.com/11/32/11321dc013019469a45a7f7ac5078661.png"
+      },
+      {
+        "comment_id": 22326843,
+        "uid": 108403252,
+        "content": "好冷清啊",
+        "createtime": 1574762084,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      }
+    ]
+  }
+}

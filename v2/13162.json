@@ -1,0 +1,73 @@
+{
+  "id": 13162,
+  "islong": 2,
+  "direction": 1,
+  "title": "SMILE MAKER",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/smilemaker.jpg",
+  "description": "百合短篇漫画。",
+  "last_updatetime": 1383487570,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 80226,
+  "hit_num": 441906,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5757,
+      "tag_name": "スカーレットベリ子"
+    }
+  ],
+  "subscribe_num": 356,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27165,
+          "chapter_title": "1话",
+          "updatetime": 1383487570,
+          "filesize": 3379621,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 20437540,
+        "uid": 105122203,
+        "content": "原来是女孩纸的吗",
+        "createtime": 1568869356,
+        "nickname": "波罗白勺海",
+        "avatar": "https://avatar.dmzj.com/18/64/1864e4dc26b6e139c89370b0ceb0430d.png"
+      },
+      {
+        "comment_id": 2384041,
+        "uid": 100572104,
+        "content": "那短发不是男的吗",
+        "createtime": 1498548435,
+        "nickname": "没落帝国的皇子",
+        "avatar": "https://avatar.dmzj.com/36/2f/362f8d022ff7648ca6d55e2b86be34b6.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": 13092,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔法少女就是本少年 巨无霸加量版再来一碗",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/zyssjsmsdzsjwbjlbzlyw.jpg",
+  "description": "★由三位漫画家以四格与连环漫画方式合作。\n★漫畫版作者さっち也在本書中提供新作漫畫。\n食客们（？）所不为人知的另一面，劲量加码大爆料！",
+  "last_updatetime": 1382883603,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zyssjsmsdzsjwbjlbzlyw",
+  "hidden": 0,
+  "hot_num": 1289620,
+  "hit_num": 3223888,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 27054,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 6316,
+      "tag_name": "轻小说"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5212,
+      "tag_name": "门濑粗"
+    },
+    {
+      "tag_id": 6218,
+      "tag_name": "木村心一"
+    }
+  ],
+  "subscribe_num": 7192,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27054,
+          "chapter_title": "1卷",
+          "updatetime": 1382883603,
+          "filesize": 17304955,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 189,
+    "latest_comment": [
+      {
+        "comment_id": 30024966,
+        "uid": 108902276,
+        "content": "班长天下第一",
+        "createtime": 1598707713,
+        "nickname": "dmzj_108902276",
+        "avatar": "https://avatar.dmzj.com/42/71/427160c250b3fe0db2d186b969722134.png"
+      },
+      {
+        "comment_id": 29908467,
+        "uid": 110785421,
+        "content": "留下眼睛防止日后的迷失，做个标记防止他日的迷茫，写下记号防止未来的消失，做一个刷波字数的呆瓜。(* ￣ー￣)",
+        "createtime": 1598272263,
+        "nickname": "dmzj_110785421",
+        "avatar": "https://avatar.dmzj.com/45/2e/452e3977349f237d12d8b0310d828bbd.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

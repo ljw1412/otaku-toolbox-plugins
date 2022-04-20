@@ -1,0 +1,75 @@
+{
+  "id": 20174,
+  "islong": 2,
+  "direction": 2,
+  "title": "蓝色雨伞",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1000214731437558182.jpg",
+  "description": "个人high的绘本作业",
+  "last_updatetime": 1437558555,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 13500,
+  "hit_num": 201780,
+  "uid": 100021473,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8284,
+      "tag_name": "空枣"
+    }
+  ],
+  "subscribe_num": 114,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39296,
+          "chapter_title": "1话",
+          "updatetime": 1437558555,
+          "filesize": 1087649,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 27342439,
+        "uid": 102436663,
+        "content": "蓝色时期谁有？？",
+        "createtime": 1589341848,
+        "nickname": "pac56t",
+        "avatar": "https://avatar.dmzj.com/c1/19/c1190c211d2476925d4e4c4c404dd3d8.png"
+      },
+      {
+        "comment_id": 2373212,
+        "uid": 101609308,
+        "content": "挖坟",
+        "createtime": 1498375639,
+        "nickname": "wulichildeashland",
+        "avatar": "https://avatar.dmzj.com/99/20/99204acbbefb67edc8e03f340f6a052c.png"
+      }
+    ]
+  }
+}

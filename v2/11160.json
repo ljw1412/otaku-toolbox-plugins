@@ -1,0 +1,82 @@
+{
+  "id": 11160,
+  "islong": 2,
+  "direction": 1,
+  "title": "飞越擂台",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/feiyueleitai20130504.jpg",
+  "description": "我的青春，只有拳击！主角高明把所立的誓言牢记心中，以夺取冠军为目标，开始激烈搏斗的每一天！！ ",
+  "last_updatetime": 1367678453,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "feiyueleitai",
+  "hidden": 0,
+  "hot_num": 42285,
+  "hit_num": 368730,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22851,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 543,
+      "tag_name": "永安巧"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 198,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22851,
+          "chapter_title": "2卷",
+          "updatetime": 1367678453,
+          "filesize": 25936954,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22850,
+          "chapter_title": "1卷",
+          "updatetime": 1367678447,
+          "filesize": 23425293,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 15351753,
+        "uid": 102318293,
+        "content": "很不错的漫画，永安巧扎实的画功，励志的故事。",
+        "createtime": 1556962111,
+        "nickname": "彩色篮球",
+        "avatar": "https://avatar.dmzj.com/45/63/4563033d891980b7cd3c199fa764feda.png"
+      },
+      {
+        "comment_id": 10550155,
+        "uid": 108609254,
+        "content": "收下了",
+        "createtime": 1548516868,
+        "nickname": "我是猫cat",
+        "avatar": "https://avatar.dmzj.com/60/14/6014a688b53fe3177777db719521092e.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

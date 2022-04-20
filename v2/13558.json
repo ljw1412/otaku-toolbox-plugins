@@ -1,0 +1,90 @@
+{
+  "id": 13558,
+  "islong": 2,
+  "direction": 1,
+  "title": "幸运☆星 破颜一笑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/xyxpyyx.jpg",
+  "description": "如果此方和小镜成为了恋人，会发生什么事情呢~",
+  "last_updatetime": 1397015442,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 257484,
+  "hit_num": 597735,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5775,
+      "tag_name": "三上小又"
+    }
+  ],
+  "subscribe_num": 1230,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27615,
+          "chapter_title": "4话",
+          "updatetime": 1397015442,
+          "filesize": 2615380,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 26003,
+          "chapter_title": "3话",
+          "updatetime": 1388124597,
+          "filesize": 1747964,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 26001,
+          "chapter_title": "2话",
+          "updatetime": 1388110535,
+          "filesize": 1845322,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 26000,
+          "chapter_title": "1话",
+          "updatetime": 1388110512,
+          "filesize": 1878449,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 46,
+    "latest_comment": [
+      {
+        "comment_id": 30034325,
+        "uid": 100894930,
+        "content": "啊这！",
+        "createtime": 1598729001,
+        "nickname": "AKB47",
+        "avatar": "https://avatar.dmzj.com/69/35/693549b6d3aea6bdbd848d389e2175ac.png"
+      },
+      {
+        "comment_id": 28994708,
+        "uid": 100592323,
+        "content": "挺不错",
+        "createtime": 1594909653,
+        "nickname": "程涣",
+        "avatar": "https://avatar.dmzj.com/46/96/4696b049884aeb748c615a2dfd8a36b3.png"
+      }
+    ]
+  }
+}

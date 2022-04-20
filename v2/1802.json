@@ -1,0 +1,69 @@
+{
+  "id": 1802,
+  "islong": 2,
+  "direction": 2,
+  "title": "奥林匹斯",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/aolinbasi.jpg",
+  "description": "一行海上冒险者误闯入奥林匹斯岛,独眼巨人、牛头人等希腊神话故事的神兽相续出现,他们该怎么应付,怎样离开这座死亡之岛……",
+  "last_updatetime": 1267604709,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 1999318,
+  "hit_num": 2330423,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 9080,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 3650,
+          "chapter_title": "1卷",
+          "updatetime": 1268209523,
+          "filesize": 12310220,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 21937960,
+        "uid": 101019386,
+        "content": "牛鬼蛇神大乱斗！",
+        "createtime": 1572965909,
+        "nickname": "梦游者陛下",
+        "avatar": "https://avatar.dmzj.com/18/27/1827ead4287edb2bd0c8e509a425d938.png"
+      },
+      {
+        "comment_id": 17096397,
+        "uid": 104813463,
+        "content": "Dc作品主页前排全是老爷，除了这个emm",
+        "createtime": 1560422699,
+        "nickname": "泊头火柴盒",
+        "avatar": "https://avatar.dmzj.com/47/66/47660e75bb202208a9d0dd7a887d0ff2.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": 17265,
+  "islong": 2,
+  "direction": 2,
+  "title": "漫威骑士：X战警",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/xzjing32MarvelKnights.jpg",
+  "description": "在某个偏远小镇出现了三位变种人，他们在这个故事里将扮演怎样的角色呢？",
+  "last_updatetime": 1430738841,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 196937,
+  "hit_num": 151466,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1007,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40785,
+          "chapter_title": "5卷",
+          "updatetime": 1430738841,
+          "filesize": 3334067,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 40605,
+          "chapter_title": "4卷",
+          "updatetime": 1430121276,
+          "filesize": 7441444,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 39456,
+          "chapter_title": "3卷",
+          "updatetime": 1427207569,
+          "filesize": 3911277,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 38885,
+          "chapter_title": "2卷",
+          "updatetime": 1425952631,
+          "filesize": 3527000,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 38644,
+          "chapter_title": "1卷",
+          "updatetime": 1425309880,
+          "filesize": 3362342,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": 10272,
+  "islong": 2,
+  "direction": 1,
+  "title": "随从猫橙日记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/scmcriji.jpg",
+  "description": "东方四格欢乐同人",
+  "last_updatetime": 1530612987,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 160455,
+  "hit_num": 415718,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5461,
+      "tag_name": "yc-tv"
+    }
+  ],
+  "subscribe_num": 825,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78325,
+          "chapter_title": "2话",
+          "updatetime": 1530612987,
+          "filesize": 6196939,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22725,
+          "chapter_title": "1话",
+          "updatetime": 1360228103,
+          "filesize": 2957581,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 23158946,
+        "uid": 106483785,
+        "content": "话说这不是2g里打老山/苍老山/砦蟹的那个地图吗，当时从上面想跳到老山背上时直接给我滑下去了，然后直接老山甩尾连击猫车。。。至今记忆尤深(≖_≖ )",
+        "createtime": 1578504106,
+        "nickname": "CHΞCH",
+        "avatar": "https://avatar.dmzj.com/87/12/87122d9604e0ed42a9097a683b11ef6c.png"
+      },
+      {
+        "comment_id": 16264050,
+        "uid": 101699325,
+        "content": "2333",
+        "createtime": 1558517858,
+        "nickname": "不笑的人",
+        "avatar": "https://avatar.dmzj.com/17/34/173477c7262c51a6ecabcbda66704673.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": 13703,
+  "islong": 1,
+  "direction": 2,
+  "title": "维斯伍德颤音",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/wswdcy.jpg",
+  "description": "一个一个跟音乐相关的小故事，色调很温暖的漫画。",
+  "last_updatetime": 1409327820,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 64966,
+  "hit_num": 480042,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 378,
+      "tag_name": "尹仁完"
+    },
+    {
+      "tag_id": 7024,
+      "tag_name": "金善熙"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3326,
+      "tag_name": "音乐舞蹈"
+    }
+  ],
+  "subscribe_num": 380,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30602,
+          "chapter_title": "5话",
+          "updatetime": 1409327820,
+          "filesize": 2223981,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 28361,
+          "chapter_title": "4话",
+          "updatetime": 1401116856,
+          "filesize": 2627075,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 27902,
+          "chapter_title": "3话",
+          "updatetime": 1398567671,
+          "filesize": 2299128,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 26229,
+          "chapter_title": "2话",
+          "updatetime": 1389445924,
+          "filesize": 2099785,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 26228,
+          "chapter_title": "1话",
+          "updatetime": 1389445918,
+          "filesize": 5000413,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 28096428,
+        "uid": 109314818,
+        "content": "14年的？作者咕咕了？",
+        "createtime": 1591895934,
+        "nickname": "dmzj_109314818",
+        "avatar": "https://avatar.dmzj.com/56/f2/56f2cd4b8935f607ac24b8c61d711da8.png"
+      },
+      {
+        "comment_id": 22162773,
+        "uid": 105449502,
+        "content": "q q",
+        "createtime": 1573991871,
+        "nickname": "郑宇翔23587",
+        "avatar": "https://avatar.dmzj.com/84/28/8428ac34eb9d2c8e38b5fbdb9e647235.png"
+      }
+    ]
+  }
+}

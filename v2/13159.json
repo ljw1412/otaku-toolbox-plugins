@@ -1,0 +1,73 @@
+{
+  "id": 13159,
+  "islong": 2,
+  "direction": 1,
+  "title": "布偶猫少年的秘密",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/buoumaoshaoniandemimi.jpg",
+  "description": "这是一个清爽宜人的初晨伊始吗……如果看不到你的脸，我会很困扰……",
+  "last_updatetime": 1383485077,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 71730,
+  "hit_num": 607147,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6791,
+      "tag_name": "伊藤里"
+    }
+  ],
+  "subscribe_num": 385,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24897,
+          "chapter_title": "1话",
+          "updatetime": 1383485077,
+          "filesize": 4888279,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 28209482,
+        "uid": 102275771,
+        "content": "还行，不错",
+        "createtime": 1592316256,
+        "nickname": "三丝白玉卷",
+        "avatar": "https://avatar.dmzj.com/5d/b9/5db9aa8fa8f5da8656e96ed1f2ee283b.png"
+      },
+      {
+        "comment_id": 28024830,
+        "uid": 102220036,
+        "content": "伊藤里，小本本记下",
+        "createtime": 1591631564,
+        "nickname": "一Papo",
+        "avatar": "https://avatar.dmzj.com/66/53/6653de70043251feb86a01ce114d1f34.png"
+      }
+    ]
+  }
+}

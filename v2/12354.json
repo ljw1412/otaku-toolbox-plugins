@@ -1,0 +1,76 @@
+{
+  "id": 12354,
+  "islong": 2,
+  "direction": 1,
+  "title": "水色的青春",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/shuisedeqingchun.jpg",
+  "description": "很温馨很浪漫的故事，一个个小短篇串接起来的……",
+  "last_updatetime": 1375780458,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 37426,
+  "hit_num": 1363655,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4399,
+      "tag_name": "大石胜(大石まさる)"
+    }
+  ],
+  "subscribe_num": 225,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23517,
+          "chapter_title": "2卷",
+          "updatetime": 1375780444,
+          "filesize": 26788838,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 23518,
+          "chapter_title": "1卷",
+          "updatetime": 1375780458,
+          "filesize": 23952876,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 49,
+    "latest_comment": [
+      {
+        "comment_id": 29677939,
+        "uid": 105907216,
+        "content": "还可以",
+        "createtime": 1597408910,
+        "nickname": "不定的信念",
+        "avatar": "https://avatar.dmzj.com/77/61/77611c610f4a4d092051f32578eab3e8.png"
+      },
+      {
+        "comment_id": 28912618,
+        "uid": 101192262,
+        "content": "好看的",
+        "createtime": 1594640265,
+        "nickname": "qzuser83813",
+        "avatar": "https://avatar.dmzj.com/31/97/3197914c548fe9e51504efe447d3fcc0.png"
+      }
+    ]
+  }
+}

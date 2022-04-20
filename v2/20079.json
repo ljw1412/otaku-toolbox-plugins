@@ -1,0 +1,92 @@
+{
+  "id": 20079,
+  "islong": 2,
+  "direction": 2,
+  "title": "五年盛夏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1002603691437456716.jpg",
+  "description": "4岁之差，姐弟恋。",
+  "last_updatetime": 1441695000,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 14932,
+  "hit_num": 117042,
+  "uid": 100260369,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9955,
+      "tag_name": "崔小烟"
+    }
+  ],
+  "subscribe_num": 70,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41214,
+          "chapter_title": "番外（1+2）",
+          "updatetime": 1441695000,
+          "filesize": 1329992,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 41156,
+          "chapter_title": "3话",
+          "updatetime": 1441465003,
+          "filesize": 935175,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 39727,
+          "chapter_title": "2话",
+          "updatetime": 1438352918,
+          "filesize": 1195660,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 39238,
+          "chapter_title": "1话",
+          "updatetime": 1437456957,
+          "filesize": 839881,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "随意吐槽，接受任何建议。谢谢。",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 23111909,
+        "uid": 107203430,
+        "content": "姐弟恋",
+        "createtime": 1578326080,
+        "nickname": "dmzj_107203430",
+        "avatar": "https://avatar.dmzj.com/d2/21/d221801b9ccc611fcac4780d00f00a6e.png"
+      },
+      {
+        "comment_id": 22975803,
+        "uid": 104229656,
+        "content": "姐弟恋",
+        "createtime": 1577787940,
+        "nickname": "凉城浮梦",
+        "avatar": "https://avatar.dmzj.com/43/85/438586f4c3154caf361f46b91b06ec76.png"
+      }
+    ]
+  }
+}

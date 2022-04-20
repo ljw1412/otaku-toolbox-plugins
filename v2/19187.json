@@ -1,0 +1,77 @@
+{
+  "id": 19187,
+  "islong": 2,
+  "direction": 2,
+  "title": "GANGSTA便利屋",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1002015761434129401.jpg",
+  "description": "万事屋类型的漫画。",
+  "last_updatetime": 1434129673,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "g",
+  "comic_py": "gangstabianliwu",
+  "hidden": 0,
+  "hot_num": 50831,
+  "hit_num": 385758,
+  "uid": 100201576,
+  "is_lock": 0,
+  "last_update_chapter_id": 42106,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9587,
+      "tag_name": "酒神的小黑猫"
+    }
+  ],
+  "subscribe_num": 193,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42106,
+          "chapter_title": "1话",
+          "updatetime": 1434129673,
+          "filesize": 1023583,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 74,
+    "latest_comment": [
+      {
+        "comment_id": 29336036,
+        "uid": 110497574,
+        "content": "球球",
+        "createtime": 1596115399,
+        "nickname": "dmzj_110497574",
+        "avatar": "https://avatar.dmzj.com/09/7d/097dae0a1e45f30ae72643559b92ad5a.png"
+      },
+      {
+        "comment_id": 28982498,
+        "uid": 101022807,
+        "content": "？黑街的漫画我昨天刚找到评论完，今天就没了？？",
+        "createtime": 1594865454,
+        "nickname": "敛过锋芒。",
+        "avatar": "https://avatar.dmzj.com/20/55/2055f35d540747fb59bdcde059b5a1ac.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

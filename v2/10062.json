@@ -1,0 +1,131 @@
+{
+  "id": 10062,
+  "islong": 2,
+  "direction": 1,
+  "title": "华园幻想曲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/huayuanhuanxiangqu.jpg",
+  "description": "国破山河在！但是绝不能放弃！我们无论如何都要延续下去！终有一天向着那美丽的星球.... ",
+  "last_updatetime": 1357624564,
+  "last_update_chapter_name": "第09话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huayuanhuanxiangqu",
+  "hidden": 0,
+  "hot_num": 36898,
+  "hit_num": 328545,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22372,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1533,
+      "tag_name": "上田信舟"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 149,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22372,
+          "chapter_title": "9话",
+          "updatetime": 1357624564,
+          "filesize": 2752344,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 22371,
+          "chapter_title": "8话",
+          "updatetime": 1357624558,
+          "filesize": 4207737,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 22370,
+          "chapter_title": "7话",
+          "updatetime": 1357624550,
+          "filesize": 4562863,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 22369,
+          "chapter_title": "6话",
+          "updatetime": 1357624544,
+          "filesize": 2118660,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 22368,
+          "chapter_title": "5话",
+          "updatetime": 1357624532,
+          "filesize": 3904194,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 22367,
+          "chapter_title": "4话",
+          "updatetime": 1357624523,
+          "filesize": 4490219,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 22366,
+          "chapter_title": "3话",
+          "updatetime": 1357624517,
+          "filesize": 4340436,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 22365,
+          "chapter_title": "2话",
+          "updatetime": 1357624507,
+          "filesize": 4432675,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22364,
+          "chapter_title": "1话",
+          "updatetime": 1357624407,
+          "filesize": 4098328,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 96900,
+        "uid": 18164819,
+        "content": "擦，竟然是男的！",
+        "createtime": 1357647978,
+        "nickname": "呵呵我只能呵呵",
+        "avatar": "https://avatar.dmzj.com/be/2f/be2fd31a892a60f183282c228f1937d0.png"
+      },
+      {
+        "comment_id": 96884,
+        "uid": 14676401,
+        "content": "男女混乱了....",
+        "createtime": 1357641240,
+        "nickname": "qetw",
+        "avatar": "https://avatar.dmzj.com/78/0f/780f3566481b0daafef166b265a9fd60.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

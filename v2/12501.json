@@ -1,0 +1,65 @@
+{
+  "id": 12501,
+  "islong": 2,
+  "direction": 2,
+  "title": "杰克与魔盒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/jiekeyumohe.jpg",
+  "description": "爸爸妈妈给了小男孩杰克一个漂亮的玩偶匣，只有打开它，才能看见它的奇妙之处……",
+  "last_updatetime": 1376959256,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 9765,
+  "hit_num": 62723,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6506,
+      "tag_name": "Art Spiegelman"
+    }
+  ],
+  "subscribe_num": 40,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23504,
+          "chapter_title": "1卷",
+          "updatetime": 1376959256,
+          "filesize": 2751762,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 148774,
+        "uid": 15626542,
+        "content": "还以为是猎奇向的  可惜啊",
+        "createtime": 1376963161,
+        "nickname": "Stephensharp",
+        "avatar": "https://avatar.dmzj.com/09/fe/09fe508b5fadcf0cce35d64682f01cb0.png"
+      }
+    ]
+  }
+}

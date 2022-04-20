@@ -1,0 +1,101 @@
+{
+  "id": 16123,
+  "islong": 2,
+  "direction": 2,
+  "title": "超能陆战队",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/chaonengluzhandui.jpg",
+  "description": "一个 14 岁的发明天才少年滨田广在同为发明家的哥哥阿正去世之后，与哥哥先前发明的医疗用机器人杯面成了好朋友。",
+  "last_updatetime": 1444742016,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 124979,
+  "hit_num": 978694,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 540,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41961,
+          "chapter_title": "5卷",
+          "updatetime": 1444742016,
+          "filesize": 3592819,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 39095,
+          "chapter_title": "4卷",
+          "updatetime": 1436929458,
+          "filesize": 3340302,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 37638,
+          "chapter_title": "3卷",
+          "updatetime": 1433170123,
+          "filesize": 4262869,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 36024,
+          "chapter_title": "2卷",
+          "updatetime": 1428773545,
+          "filesize": 3624651,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 32057,
+          "chapter_title": "1卷",
+          "updatetime": 1416070262,
+          "filesize": 4057672,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 24250358,
+        "uid": 110315656,
+        "content": "电影版超能陆战队的大白好像是借鉴了斯坦李老爷子的另一部作品里的机器人，和原作里的形象差别很大。",
+        "createtime": 1581956120,
+        "nickname": "红色幽灵EX",
+        "avatar": "https://avatar.dmzj.com/89/5e/895ec1b59129612928ef6db9e7e2e4b4.png"
+      },
+      {
+        "comment_id": 21386253,
+        "uid": 19462460,
+        "content": "大白~",
+        "createtime": 1571247180,
+        "nickname": "雪之下の谎言都市",
+        "avatar": "https://avatar.dmzj.com/1b/04/1b04ca8776b2afa322170c3ac283e38b.png"
+      }
+    ]
+  }
+}

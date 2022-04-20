@@ -1,0 +1,73 @@
+{
+  "id": 17092,
+  "islong": 2,
+  "direction": 1,
+  "title": "Life in the park",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/Lifeinthepark14785l.jpg",
+  "description": "非常严肃的社会问题漫画。",
+  "last_updatetime": 1423757435,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 15119,
+  "hit_num": 73809,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7965,
+      "tag_name": "朝田ねむい"
+    }
+  ],
+  "subscribe_num": 75,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38305,
+          "chapter_title": "1话",
+          "updatetime": 1423757435,
+          "filesize": 4103434,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 16396355,
+        "uid": 108252193,
+        "content": "这个作者的我的小小地狱很棒",
+        "createtime": 1558790564,
+        "nickname": "吱儿",
+        "avatar": "https://avatar.dmzj.com/64/56/64564bd637f40adccf23fc2b0534fa9c.png"
+      },
+      {
+        "comment_id": 1335860,
+        "uid": 24008075,
+        "content": "这点我国做的好多了。",
+        "createtime": 1475492972,
+        "nickname": "san313",
+        "avatar": "https://avatar.dmzj.com/ef/e6/efe6bb509bb1c1d94eab3b4bd2695ddd.png"
+      }
+    ]
+  }
+}

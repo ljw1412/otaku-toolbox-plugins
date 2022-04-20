@@ -1,0 +1,101 @@
+{
+  "id": 13726,
+  "islong": 2,
+  "direction": 2,
+  "title": "JSA全明星",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/jsaquanmingxing.jpg",
+  "description": "二战期间，一对变装神秘人组成了第一支，也是有史以来最伟大的一支超级英雄团队——美国正义会社……然后是训练全新一代的英雄们……",
+  "last_updatetime": 1520755039,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 1984153,
+  "hit_num": 163725,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 7717,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73535,
+          "chapter_title": "7卷",
+          "updatetime": 1520755039,
+          "filesize": 3898258,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 58603,
+          "chapter_title": "铁皮人",
+          "updatetime": 1478322137,
+          "filesize": 2007884,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 58465,
+          "chapter_title": "黑曜石起源",
+          "updatetime": 1477973683,
+          "filesize": 1635815,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 27025,
+          "chapter_title": "2卷",
+          "updatetime": 1393249271,
+          "filesize": 5870032,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 26159,
+          "chapter_title": "1卷",
+          "updatetime": 1389629068,
+          "filesize": 5680229,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 24718832,
+        "uid": 108059272,
+        "content": "这刊还更新吗",
+        "createtime": 1583029796,
+        "nickname": "dmzj_108059272",
+        "avatar": "https://avatar.dmzj.com/21/65/21650347ed3823d044d3327ef19ab385.png"
+      },
+      {
+        "comment_id": 1449200,
+        "uid": 101210573,
+        "content": "看到铁皮人的时候我还以为是末日什么战队的那个铁皮人。。。",
+        "createtime": 1478565121,
+        "nickname": "-★唯爱♂Deadpool",
+        "avatar": "https://avatar.dmzj.com/f6/8c/f68cdeaf098a89732fbadb3a4861f25c.png"
+      }
+    ]
+  }
+}

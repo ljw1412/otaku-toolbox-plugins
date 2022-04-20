@@ -1,0 +1,75 @@
+{
+  "id": 18784,
+  "islong": 2,
+  "direction": 2,
+  "title": "THe Door",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1001608451432116374.jpg",
+  "description": "一名职业作家，居住在人迹罕至的郊区，过着平淡的生活，每一天都像是上紧发条的闹钟，有条不紊，然而，突然有一天，房间的门，被风吹开了，而这风，却是……",
+  "last_updatetime": 1432116745,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 3399,
+  "hit_num": 59765,
+  "uid": 100160845,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9361,
+      "tag_name": "温特罗斯"
+    }
+  ],
+  "subscribe_num": 11,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37417,
+          "chapter_title": "No.1 New Days",
+          "updatetime": 1432116745,
+          "filesize": 1316179,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "希望画这部作品，能够有所进步吧，也希望故事能让人满意……",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 478835,
+        "uid": 100128237,
+        "content": "封面倒是挺吸引人，但独白说了一大堆，有许多感觉没什么用，还有，作者的最后一页是败笔，这是为自己的未来的可能的失败找托辞，以寻求心理安慰，可以这么想，但绝不能直接在漫画中直接表达。即使内容再好，读者也会被你这一页给暗示到：这漫画可能不行。那他就会用更严格的眼光去审视这漫画。",
+        "createtime": 1443106333,
+        "nickname": "青小铜",
+        "avatar": "https://avatar.dmzj.com/33/08/33084fdee269a96c8f3d19032281dced.png"
+      },
+      {
+        "comment_id": 478829,
+        "uid": 100128237,
+        "content": "额，字太小，又太多，看的有点吃力。\n",
+        "createtime": 1443106013,
+        "nickname": "青小铜",
+        "avatar": "https://avatar.dmzj.com/33/08/33084fdee269a96c8f3d19032281dced.png"
+      }
+    ]
+  }
+}

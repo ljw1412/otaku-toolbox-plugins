@@ -1,0 +1,73 @@
+{
+  "id": 15531,
+  "islong": 2,
+  "direction": 1,
+  "title": "八重的赏樱之时",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/bcd485641362.jpg",
+  "description": "东方众人樱花树下赏花的故事...",
+  "last_updatetime": 1410003777,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 12808,
+  "hit_num": 82542,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7738,
+      "tag_name": "りゅーしょー"
+    }
+  ],
+  "subscribe_num": 72,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31595,
+          "chapter_title": "1话",
+          "updatetime": 1410003777,
+          "filesize": 2142587,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 27304827,
+        "uid": 105877380,
+        "content": "少有的彩虹组同人，但这个画质也实在是……",
+        "createtime": 1589213157,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      },
+      {
+        "comment_id": 25607801,
+        "uid": 108194802,
+        "content": "彩虹组",
+        "createtime": 1584978329,
+        "nickname": "dmzj_108194802",
+        "avatar": "https://avatar.dmzj.com/41/74/4174afd603ab943425b889cdd141d874.png"
+      }
+    ]
+  }
+}

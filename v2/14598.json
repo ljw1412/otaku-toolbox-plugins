@@ -1,0 +1,73 @@
+{
+  "id": 14598,
+  "islong": 2,
+  "direction": 1,
+  "title": "Heroinic Hero",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/P413heroduanpiann524.jpg",
+  "description": "变身超级英雄！咦……好像可爱地有点不对？",
+  "last_updatetime": 1400589996,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 233964,
+  "hit_num": 2104287,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4095,
+      "tag_name": "菅原健二"
+    }
+  ],
+  "subscribe_num": 1306,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 28270,
+          "chapter_title": "1话",
+          "updatetime": 1400589996,
+          "filesize": 6342535,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 36,
+    "latest_comment": [
+      {
+        "comment_id": 28975293,
+        "uid": 107391124,
+        "content": "话说那个可动难道是一号和兽爷的结合体莫",
+        "createtime": 1594831943,
+        "nickname": "麦岚",
+        "avatar": "https://avatar.dmzj.com/39/56/39567d6e81ed2c5d48c15f62e3bcaffe.png"
+      },
+      {
+        "comment_id": 26277646,
+        "uid": 101623534,
+        "content": "硬核变身，i了i了",
+        "createtime": 1586446251,
+        "nickname": "滞暗终散",
+        "avatar": "https://avatar.dmzj.com/92/72/9272f49bb3099c94a544525b40c49021.png"
+      }
+    ]
+  }
+}

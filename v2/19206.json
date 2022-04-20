@@ -1,0 +1,63 @@
+{
+  "id": 19206,
+  "islong": 2,
+  "direction": 2,
+  "title": "豆豆的逗哔日记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1002071061434438181.jpg",
+  "description": "豆豆的逗哔日记",
+  "last_updatetime": 1434438237,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 658,
+  "hit_num": 5768,
+  "uid": 100207106,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9599,
+      "tag_name": "微校大使"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39898,
+          "chapter_title": "长发公主的一天",
+          "updatetime": 1434438237,
+          "filesize": 231735,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 413408,
+        "uid": 100161042,
+        "content": "逗逼阿",
+        "createtime": 1434442876,
+        "nickname": "靠北萌萌哒",
+        "avatar": "https://avatar.dmzj.com/d9/0c/d90c1aa9f1e456179f23b14b4b16dbb6.png"
+      }
+    ]
+  }
+}

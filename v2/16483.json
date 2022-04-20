@@ -1,0 +1,67 @@
+{
+  "id": 16483,
+  "islong": 2,
+  "direction": 1,
+  "title": "大梦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/dameng.jpg",
+  "description": "承生命之轻短篇漫画。。大梦",
+  "last_updatetime": 1419235900,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 3068,
+  "hit_num": 55052,
+  "uid": 100200595,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8162,
+      "tag_name": "承生命之轻"
+    }
+  ],
+  "subscribe_num": 16,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 32907,
+          "chapter_title": "1话",
+          "updatetime": 1419235900,
+          "filesize": 1613113,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 2816090,
+        "uid": 100719178,
+        "content": "看不懂…",
+        "createtime": 1503848668,
+        "nickname": "钠钠想当大魔法师",
+        "avatar": "https://avatar.dmzj.com/2c/97/2c97a36c1fc6331b065531cf9947fdee.png"
+      }
+    ]
+  }
+}

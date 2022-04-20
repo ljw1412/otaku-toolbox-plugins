@@ -1,0 +1,63 @@
+{
+  "id": 19930,
+  "islong": 2,
+  "direction": 2,
+  "title": "壁纸",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1002458661437038156.jpg",
+  "description": "我画的一些壁纸~",
+  "last_updatetime": 1437038835,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 807,
+  "hit_num": 2848,
+  "uid": 100245866,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9917,
+      "tag_name": "小纯纯"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43082,
+          "chapter_title": "1话",
+          "updatetime": 1437038835,
+          "filesize": 723182,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 19951517,
+        "uid": 105860271,
+        "content": "好看(○｀ε´○)",
+        "createtime": 1567333269,
+        "nickname": "忘菌草",
+        "avatar": "https://avatar.dmzj.com/62/11/6211301e98f421ab4ca6cd4d0cbe8ac3.png"
+      }
+    ]
+  }
+}

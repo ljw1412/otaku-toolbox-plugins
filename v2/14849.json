@@ -1,0 +1,73 @@
+{
+  "id": 14849,
+  "islong": 2,
+  "direction": 2,
+  "title": "Assassin's Creed",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/0Front24826.JPG",
+  "description": "《刺客信条》的短篇故事，是呆子萌和二泰姬的时空交错【亲妈拉郎】故事。\n",
+  "last_updatetime": 1403937489,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 286574,
+  "hit_num": 125229,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7475,
+      "tag_name": "UBISOFT"
+    }
+  ],
+  "subscribe_num": 1300,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 28764,
+          "chapter_title": "1卷",
+          "updatetime": 1403937489,
+          "filesize": 1306149,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 28414275,
+        "uid": 108388451,
+        "content": "呆萌好不容易从遗忘之地逃出来了，最后又自杀了而且媳妇也死了，我真想骂编辑",
+        "createtime": 1593034010,
+        "nickname": "dmzj_108388451",
+        "avatar": "https://avatar.dmzj.com/f3/98/f3981368b02a8010a773c635b98aa2c5.png"
+      },
+      {
+        "comment_id": 1106619,
+        "uid": 101809507,
+        "content": "这是一个短篇集，我说明一下，这应该是在刺客信条锁链后面的",
+        "createtime": 1470248898,
+        "nickname": "高曲",
+        "avatar": "https://avatar.dmzj.com/6b/c8/6bc84a8357d5c81ca52e92943f166e0b.png"
+      }
+    ]
+  }
+}

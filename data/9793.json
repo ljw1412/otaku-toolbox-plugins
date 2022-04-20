@@ -1,0 +1,87 @@
+{
+  "id": 9793,
+  "islong": 2,
+  "direction": 1,
+  "title": "小情人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/xiaoqingren.jpg",
+  "description": "手牵手点燃起的恋情……",
+  "last_updatetime": 1353986811,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaoqingren",
+  "hidden": 0,
+  "hot_num": 40252,
+  "hit_num": 298939,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 19860,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5199,
+      "tag_name": "岡田ハルキ"
+    }
+  ],
+  "subscribe_num": 213,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19860,
+          "chapter_title": "1话",
+          "updatetime": 1353986811,
+          "filesize": 2737167,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 26037366,
+        "uid": 100378600,
+        "content": "服了，男主最后的特写才看得出帅",
+        "createtime": 1585951443,
+        "nickname": "夏铃娜娜",
+        "avatar": "https://avatar.dmzj.com/db/bc/dbbcc208be3b1578f29f3fe63989e5ef.png"
+      },
+      {
+        "comment_id": 2842424,
+        "uid": 101443380,
+        "content": "还不错，短短短",
+        "createtime": 1504167369,
+        "nickname": "末夜微兮",
+        "avatar": "https://avatar.dmzj.com/b3/92/b3929b1851b337827571d12a5e6fd2db.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

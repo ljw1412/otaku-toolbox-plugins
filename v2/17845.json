@@ -1,0 +1,75 @@
+{
+  "id": 17845,
+  "islong": 2,
+  "direction": 2,
+  "title": "盛装舞会",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0401szwhui.jpg",
+  "description": "最美丽的衣服是你们的爱！\n第189期漫客新人王。",
+  "last_updatetime": 1427868356,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 16472,
+  "hit_num": 334775,
+  "uid": 100105544,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8915,
+      "tag_name": "梦之旅人"
+    }
+  ],
+  "subscribe_num": 181,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39707,
+          "chapter_title": "1话",
+          "updatetime": 1427868356,
+          "filesize": 1285744,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 2327044,
+        "uid": 100643272,
+        "content": "对外人无比温柔，对父母。。。",
+        "createtime": 1497541172,
+        "nickname": "浮生の若梦",
+        "avatar": "https://avatar.dmzj.com/3c/63/3c633ccb9450b28c29046adaddea7b0b.png"
+      },
+      {
+        "comment_id": 2327040,
+        "uid": 100643272,
+        "content": "对外人无比温柔，对父母。。。",
+        "createtime": 1497541155,
+        "nickname": "浮生の若梦",
+        "avatar": "https://avatar.dmzj.com/3c/63/3c633ccb9450b28c29046adaddea7b0b.png"
+      }
+    ]
+  }
+}

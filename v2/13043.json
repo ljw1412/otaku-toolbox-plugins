@@ -1,0 +1,75 @@
+{
+  "id": 13043,
+  "islong": 2,
+  "direction": 1,
+  "title": "半仙人生活",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/banxianrensheng.jpg",
+  "description": "有胡子的动漫漫画，还是那么萌的胡子 笑",
+  "last_updatetime": 1382553709,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bxrsh",
+  "hidden": 0,
+  "hot_num": 30890,
+  "hit_num": 178016,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24697,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5461,
+      "tag_name": "yc-tv"
+    }
+  ],
+  "subscribe_num": 133,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24697,
+          "chapter_title": "1话",
+          "updatetime": 1382553709,
+          "filesize": 5663654,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 27891354,
+        "uid": 105044648,
+        "content": "这个作者的妖梦好棒。",
+        "createtime": 1591088330,
+        "nickname": "羁旅之人",
+        "avatar": "https://avatar.dmzj.com/43/84/4384bec60575a5f70be8ce5f85150afc.png"
+      },
+      {
+        "comment_id": 25124727,
+        "uid": 109307744,
+        "content": "那我就当个第二吧",
+        "createtime": 1583865444,
+        "nickname": "dmzj_109307744",
+        "avatar": "https://avatar.dmzj.com/d1/23/d123c87af04fe459fd9884d67c1e8eee.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

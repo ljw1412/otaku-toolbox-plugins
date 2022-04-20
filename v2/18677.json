@@ -1,0 +1,74 @@
+{
+  "id": 18677,
+  "islong": 1,
+  "direction": 2,
+  "title": "原创漫画《出柜篇》",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1001596121431644403.jpg",
+  "description": "这篇漫画是作者的亲身经历，用漫画的形式把出柜的经历还原展现给大家看，希望能带给大家正能量！",
+  "last_updatetime": 1431645261,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 1864,
+  "hit_num": 8510,
+  "uid": 100159612,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9308,
+      "tag_name": "Leo"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41163,
+          "chapter_title": "出柜篇2",
+          "updatetime": 1431645261,
+          "filesize": 424517,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 41162,
+          "chapter_title": "出柜篇1",
+          "updatetime": 1431645013,
+          "filesize": 433540,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 9320742,
+        "uid": 104813467,
+        "content": "作者是女的？",
+        "createtime": 1545729011,
+        "nickname": "bishou",
+        "avatar": "https://avatar.dmzj.com/dd/5e/dd5e644b2946ea7963b006a865b9edf5.png"
+      }
+    ]
+  }
+}

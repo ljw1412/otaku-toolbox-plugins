@@ -1,0 +1,73 @@
+{
+  "id": 12202,
+  "islong": 2,
+  "direction": 1,
+  "title": "我和姐姐",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/wohejiejie1.jpg",
+  "description": "名侦探柯南，兰哀同人本。",
+  "last_updatetime": 1374735532,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 1315018,
+  "hit_num": 3336483,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 5741,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25546,
+          "chapter_title": "1话",
+          "updatetime": 1374735532,
+          "filesize": 2709891,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 363,
+    "latest_comment": [
+      {
+        "comment_id": 29752300,
+        "uid": 110909216,
+        "content": "这个画风我i了",
+        "createtime": 1597681533,
+        "nickname": "茶，",
+        "avatar": "https://avatar.dmzj.com/73/35/733519f1be280de0371c57f34ea99c8e.png"
+      },
+      {
+        "comment_id": 29505325,
+        "uid": 101730421,
+        "content": "绿 柯南 绿",
+        "createtime": 1596720608,
+        "nickname": "月战逃兵优昙华院",
+        "avatar": "https://avatar.dmzj.com/69/12/6912c111e7265edb449624fa63b8ec0e.png"
+      }
+    ]
+  }
+}

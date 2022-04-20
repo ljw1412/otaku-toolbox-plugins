@@ -1,0 +1,73 @@
+{
+  "id": 11765,
+  "islong": 2,
+  "direction": 1,
+  "title": "雏2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/chu2.jpg",
+  "description": "四格搞笑风格的东方同人本，很难得一见",
+  "last_updatetime": 1371457875,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 46261,
+  "hit_num": 76542,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6181,
+      "tag_name": "青き猫耳帝国"
+    }
+  ],
+  "subscribe_num": 206,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23718,
+          "chapter_title": "1话",
+          "updatetime": 1371457875,
+          "filesize": 2673416,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 12453616,
+        "uid": 101828359,
+        "content": "萃香这样粘着灵梦好可爱啊*٩(๑´∀`๑)ง*",
+        "createtime": 1551915438,
+        "nickname": "本命结界组",
+        "avatar": "https://avatar.dmzj.com/95/25/95253a78153ddf1a1fca4892c1398bf7.png"
+      },
+      {
+        "comment_id": 9533373,
+        "uid": 108038105,
+        "content": "快六年了",
+        "createtime": 1546257263,
+        "nickname": "心之所向，追求美好",
+        "avatar": "https://avatar.dmzj.com/90/27/9027c37474c280a7437e003812789906.png"
+      }
+    ]
+  }
+}

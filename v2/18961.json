@@ -1,0 +1,77 @@
+{
+  "id": 18961,
+  "islong": 2,
+  "direction": 1,
+  "title": "狱都事变",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/t3884574yudushibian5310002.jpg",
+  "description": "改编自同名游戏。讲述狱卒追捕亡者的故事。",
+  "last_updatetime": 1433075401,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 745766,
+  "hit_num": 894054,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9464,
+      "tag_name": "あおのなち"
+    },
+    {
+      "tag_id": 9465,
+      "tag_name": "リンネ堂"
+    }
+  ],
+  "subscribe_num": 4281,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39431,
+          "chapter_title": "1话",
+          "updatetime": 1433075401,
+          "filesize": 4053228,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 129,
+    "latest_comment": [
+      {
+        "comment_id": 29398793,
+        "uid": 105147690,
+        "content": "好看",
+        "createtime": 1596351840,
+        "nickname": "沉默的黑曜石",
+        "avatar": "https://avatar.dmzj.com/16/48/164891fb0a25b8c7c42bf9d81b45e42f.png"
+      },
+      {
+        "comment_id": 28774941,
+        "uid": 109982884,
+        "content": "下一话能去哪看啊; ;",
+        "createtime": 1594170227,
+        "nickname": "可乐牙疼不吃糖",
+        "avatar": "https://avatar.dmzj.com/98/0b/980bf0842b1c8fce1ed5c021f341d937.png"
+      }
+    ]
+  }
+}

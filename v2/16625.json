@@ -1,0 +1,78 @@
+{
+  "id": 16625,
+  "islong": 1,
+  "direction": 2,
+  "title": "一人一居",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/0104yirenyijufml.jpg",
+  "description": "一个人的独居 一个人住的甜酸苦辣",
+  "last_updatetime": 1421648572,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 5065,
+  "hit_num": 27794,
+  "uid": 100021352,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8280,
+      "tag_name": "漫画小葵"
+    }
+  ],
+  "subscribe_num": 40,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37166,
+          "chapter_title": "2话",
+          "updatetime": 1421648572,
+          "filesize": 307584,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 36850,
+          "chapter_title": "1话",
+          "updatetime": 1420355207,
+          "filesize": 342355,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 2876860,
+        "uid": 104966396,
+        "content": "谁有一人之下的订阅啊啊啊啊",
+        "createtime": 1504699483,
+        "nickname": "qzuser80568866",
+        "avatar": "https://avatar.dmzj.com/98/fc/98fc18fbf69700edaaf75809ae944857.png"
+      },
+      {
+        "comment_id": 426688,
+        "uid": 100237637,
+        "content": "/微笑",
+        "createtime": 1436529522,
+        "nickname": "✍谱写自己的人生✌",
+        "avatar": "https://avatar.dmzj.com/71/83/71831fdd6ff990fcbb6bb56f78d23e7e.png"
+      }
+    ]
+  }
+}

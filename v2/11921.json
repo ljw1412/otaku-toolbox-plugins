@@ -1,0 +1,75 @@
+{
+  "id": 11921,
+  "islong": 2,
+  "direction": 1,
+  "title": "月与泥",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/yueyuni.jpg",
+  "description": "纵使月光擦亮了夜幕，前进的路标依旧模糊。<br>\n只要不放开姬友的手，总能够找到属于自己的救赎……",
+  "last_updatetime": 1372747703,
+  "last_update_chapter_name": "全一话",
+  "copyright": 3,
+  "first_letter": "y",
+  "comic_py": "yueyuni",
+  "hidden": 0,
+  "hot_num": 42340,
+  "hit_num": 358047,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22557,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5781,
+      "tag_name": "大北纮子"
+    }
+  ],
+  "subscribe_num": 186,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22557,
+          "chapter_title": "1话",
+          "updatetime": 1372747703,
+          "filesize": 1978849,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 365649,
+        "uid": 33589253,
+        "content": "…算百合吗？",
+        "createtime": 1426575291,
+        "nickname": "漫画酱",
+        "avatar": "https://avatar.dmzj.com/b2/e9/b2e93408c55167e49f87d1b1f3ed08d8.png"
+      },
+      {
+        "comment_id": 325195,
+        "uid": 26778935,
+        "content": "超赞",
+        "createtime": 1417241984,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "is_need_login": 0
+}

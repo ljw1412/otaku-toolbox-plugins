@@ -1,0 +1,104 @@
+{
+  "id": 19726,
+  "islong": 2,
+  "direction": 2,
+  "title": "夜魔侠：烈焰拳手杰克·默多克",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/yemoxialieyanquanshoujiekemoduoke89l.jpg",
+  "description": "这篇是以马特的父亲杰克·默多克为主角的漫画。不过剧情上和原罪大事件夜魔侠的那部分有点出入。",
+  "last_updatetime": 1460706164,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yemoxialieyanquanshoujiekemoduoke",
+  "hidden": 0,
+  "hot_num": 44626,
+  "hit_num": 160417,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 51087,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 233,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 51087,
+          "chapter_title": "4话",
+          "updatetime": 1460706164,
+          "filesize": 3178318,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 43515,
+          "chapter_title": "3卷",
+          "updatetime": 1443803232,
+          "filesize": 2489085,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 42081,
+          "chapter_title": "2卷",
+          "updatetime": 1439906821,
+          "filesize": 3368663,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 40681,
+          "chapter_title": "1卷",
+          "updatetime": 1436674314,
+          "filesize": 2811218,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 27264804,
+        "uid": 109517348,
+        "content": "杰克默多克绝对是美漫界最好的父亲，他被塑造的真实，自然，有力有度。他的精神也影响这位最帅的残疾人士。",
+        "createtime": 1589100393,
+        "nickname": "dmzj_109517348",
+        "avatar": "https://avatar.dmzj.com/d8/bd/d8bda7e4fcae60ebf853a419ae8720a2.png"
+      },
+      {
+        "comment_id": 13312546,
+        "uid": 108901460,
+        "content": "父亲",
+        "createtime": 1553496117,
+        "nickname": "dmzj_108901460",
+        "avatar": "https://avatar.dmzj.com/a5/89/a5898a80b34d421273b80e5641793a3f.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,101 @@
+{
+  "id": 18191,
+  "islong": 2,
+  "direction": 1,
+  "title": "灰色的乐园",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/91ZYvOduwJLSL1500416hslyuan.jpg",
+  "description": "著名恋爱游戏灰色系列第三作的同名漫画。",
+  "last_updatetime": 1441035555,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 1925280,
+  "hit_num": 6375318,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1841,
+      "tag_name": "广濑周"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 11570,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42586,
+          "chapter_title": "5话",
+          "updatetime": 1441035555,
+          "filesize": 3722452,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 41155,
+          "chapter_title": "4话",
+          "updatetime": 1437714512,
+          "filesize": 3584115,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 40028,
+          "chapter_title": "3话",
+          "updatetime": 1434897928,
+          "filesize": 4035819,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 39169,
+          "chapter_title": "2话",
+          "updatetime": 1432431427,
+          "filesize": 3784550,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 37814,
+          "chapter_title": "1话",
+          "updatetime": 1429198843,
+          "filesize": 3596852,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 889,
+    "latest_comment": [
+      {
+        "comment_id": 30052636,
+        "uid": 111534538,
+        "content": "记号",
+        "createtime": 1598808177,
+        "nickname": "迷の路人X",
+        "avatar": "https://avatar.dmzj.com/c8/c1/c8c1ec1b303b49e610337b56709528ab.png"
+      },
+      {
+        "comment_id": 30030563,
+        "uid": 108518074,
+        "content": "好短啊，不要这么快完结啊",
+        "createtime": 1598718941,
+        "nickname": "dmzj_108518074",
+        "avatar": "https://avatar.dmzj.com/f1/63/f16356eb459eef9f8ec1229ba7186325.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 17174,
+  "islong": 2,
+  "direction": 1,
+  "title": "我不能说的秘密",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/wbnsdmm865l.jpg",
+  "description": "女装X百合爱情？！还是喜剧！！",
+  "last_updatetime": 1424587825,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 114339,
+  "hit_num": 476889,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6147,
+      "tag_name": "西臣匡子"
+    }
+  ],
+  "subscribe_num": 963,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34723,
+          "chapter_title": "1话",
+          "updatetime": 1424587825,
+          "filesize": 7587643,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 43,
+    "latest_comment": [
+      {
+        "comment_id": 26629005,
+        "uid": 105328235,
+        "content": "打卡",
+        "createtime": 1587282895,
+        "nickname": "村赤雏",
+        "avatar": "https://avatar.dmzj.com/72/69/726990dfaac59579462584ac41666079.png"
+      },
+      {
+        "comment_id": 25069230,
+        "uid": 105360181,
+        "content": "kksk",
+        "createtime": 1583757188,
+        "nickname": "篠之井辰乃",
+        "avatar": "https://avatar.dmzj.com/33/39/333943e127f37d8086d4a8a9af89a60f.png"
+      }
+    ]
+  }
+}

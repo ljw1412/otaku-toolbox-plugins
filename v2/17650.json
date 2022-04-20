@@ -1,0 +1,73 @@
+{
+  "id": 17650,
+  "islong": 2,
+  "direction": 1,
+  "title": "The Happy Prince",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/thehappyprince.jpg",
+  "description": "能带给人快乐的王子，将两个人牵在一起。",
+  "last_updatetime": 1427084999,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 385915,
+  "hit_num": 74792,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3951,
+      "tag_name": "中村明日美子"
+    }
+  ],
+  "subscribe_num": 2299,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39403,
+          "chapter_title": "1话",
+          "updatetime": 1427084999,
+          "filesize": 1258995,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 42,
+    "latest_comment": [
+      {
+        "comment_id": 24816757,
+        "uid": 110560706,
+        "content": "太漂亮 ！",
+        "createtime": 1583238299,
+        "nickname": "dmzj_110560706",
+        "avatar": "https://avatar.dmzj.com/4c/31/4c318ab1cdd1c44749e74545e05ae6ef.png"
+      },
+      {
+        "comment_id": 21692537,
+        "uid": 12179794,
+        "content": "好好好好浪漫啊……像童话故事一样",
+        "createtime": 1572147644,
+        "nickname": "Microc",
+        "avatar": "https://avatar.dmzj.com/22/45/224569ad114a3ac3f6db86ca1f00c3d0.png"
+      }
+    ]
+  }
+}

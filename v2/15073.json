@@ -1,0 +1,69 @@
+{
+  "id": 15073,
+  "islong": 2,
+  "direction": 1,
+  "title": "一如既往",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/yirujiwang.jpg",
+  "description": "因微妙的距离而感到害羞，青春期新鲜而芬芳的故事。\n",
+  "last_updatetime": 1406049450,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 10879,
+  "hit_num": 123497,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7549,
+      "tag_name": "鲇川ハル"
+    }
+  ],
+  "subscribe_num": 179,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29298,
+          "chapter_title": "1话",
+          "updatetime": 1406049450,
+          "filesize": 3015485,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 1076068,
+        "uid": 101676756,
+        "content": "终于第四话",
+        "createtime": 1469681318,
+        "nickname": "w1h3",
+        "avatar": "https://avatar.dmzj.com/5b/5b/5b5b32f7fe2e9936ab4aa9468f25e3d7.png"
+      },
+      {
+        "comment_id": 1076066,
+        "uid": 101676756,
+        "content": "上",
+        "createtime": 1469681284,
+        "nickname": "w1h3",
+        "avatar": "https://avatar.dmzj.com/5b/5b/5b5b32f7fe2e9936ab4aa9468f25e3d7.png"
+      }
+    ]
+  }
+}

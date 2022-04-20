@@ -1,0 +1,69 @@
+{
+  "id": 17951,
+  "islong": 2,
+  "direction": 1,
+  "title": "梦中樱花",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/mzygfengmianl.jpg",
+  "description": "讲述贪食的UUZ的一个梦",
+  "last_updatetime": 1428201992,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 70134,
+  "hit_num": 35894,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8928,
+      "tag_name": "高虎"
+    }
+  ],
+  "subscribe_num": 378,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37342,
+          "chapter_title": "1话",
+          "updatetime": 1428201992,
+          "filesize": 3806313,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 3977528,
+        "uid": 105157148,
+        "content": "美啊",
+        "createtime": 1519747561,
+        "nickname": "西行寺の雨师",
+        "avatar": "https://avatar.dmzj.com/59/65/596548883e40656dbf3e0ba1377684ed.png"
+      },
+      {
+        "comment_id": 2093933,
+        "uid": 103220216,
+        "content": "西行妖……吗？",
+        "createtime": 1493041429,
+        "nickname": "Kazami Yuuka",
+        "avatar": "https://avatar.dmzj.com/1f/01/1f0108904349b703cd5ae3c4a83b15fd.png"
+      }
+    ]
+  }
+}

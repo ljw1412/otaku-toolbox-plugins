@@ -1,0 +1,75 @@
+{
+  "id": 18078,
+  "islong": 2,
+  "direction": 1,
+  "title": "冬之花",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/dzhdffengmianl.jpg",
+  "description": "花妈 X ⑨妈",
+  "last_updatetime": 1428719069,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongzhihuadongfang",
+  "hidden": 0,
+  "hot_num": 53062,
+  "hit_num": 75040,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 35994,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6259,
+      "tag_name": "ハンモック"
+    }
+  ],
+  "subscribe_num": 266,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35994,
+          "chapter_title": "1话",
+          "updatetime": 1428719069,
+          "filesize": 3824600,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 27163608,
+        "uid": 109977753,
+        "content": "对啊，蕾蒂不是雪女吗怎么还怕雪崩",
+        "createtime": 1588782377,
+        "nickname": "dmzj_109977753",
+        "avatar": "https://avatar.dmzj.com/f7/dd/f7dd73f1f35442ec81e23e9c94c309f9.png"
+      },
+      {
+        "comment_id": 21971217,
+        "uid": 107130171,
+        "content": "幽香",
+        "createtime": 1573090089,
+        "nickname": "妹红❤️",
+        "avatar": "https://avatar.dmzj.com/61/8b/618be593bbb30c59d98ad83c31f4ad62.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

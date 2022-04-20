@@ -1,0 +1,73 @@
+{
+  "id": 15915,
+  "islong": 2,
+  "direction": 2,
+  "title": "超人：急速子弹",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/chaorenjisuzidan.jpg",
+  "description": "超人还是蝙蝠侠？卢瑟还是小丑？",
+  "last_updatetime": 1414123011,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 71663,
+  "hit_num": 144736,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 317,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34977,
+          "chapter_title": "1卷",
+          "updatetime": 1414123011,
+          "filesize": 7216273,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 30026869,
+        "uid": 104387374,
+        "content": "即便是超人，也无法逆转母亲玛莎的结局",
+        "createtime": 1598712262,
+        "nickname": "文月昂",
+        "avatar": "https://avatar.dmzj.com/b8/bb/b8bbfda20707a34fed4fce25ae2b66c4.png"
+      },
+      {
+        "comment_id": 28002686,
+        "uid": 110567099,
+        "content": "所以结局的时候他两个身份都没遮脸？",
+        "createtime": 1591548871,
+        "nickname": "黑夜长灯",
+        "avatar": "https://avatar.dmzj.com/25/46/2546427d1a4902f0f50ace813b9cc445.png"
+      }
+    ]
+  }
+}

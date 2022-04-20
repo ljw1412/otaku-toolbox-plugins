@@ -1,0 +1,108 @@
+{
+  "id": 13724,
+  "islong": 2,
+  "direction": 1,
+  "title": "西天游记——真假赤猿",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/xitianyoujizhenjiachiyuan22.jpg",
+  "description": "一部颠覆传统形象，结局难料的真假赤猿......",
+  "last_updatetime": 1392001099,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 58720,
+  "hit_num": 724277,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7033,
+      "tag_name": "子丁"
+    }
+  ],
+  "subscribe_num": 171,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26557,
+          "chapter_title": "6话",
+          "updatetime": 1392001099,
+          "filesize": 2439377,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 26442,
+          "chapter_title": "5话",
+          "updatetime": 1391417181,
+          "filesize": 1056189,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 26325,
+          "chapter_title": "4话",
+          "updatetime": 1390872250,
+          "filesize": 1364828,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 26165,
+          "chapter_title": "3话",
+          "updatetime": 1390355331,
+          "filesize": 2034982,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 26116,
+          "chapter_title": "2话",
+          "updatetime": 1390019510,
+          "filesize": 1095654,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 26052,
+          "chapter_title": "1话",
+          "updatetime": 1389616355,
+          "filesize": 1917959,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 12421770,
+        "uid": 108663538,
+        "content": "插眼",
+        "createtime": 1551852820,
+        "nickname": "dmzj_108663538",
+        "avatar": "https://avatar.dmzj.com/b7/bd/b7bd8c570d36337bcd92492f875a8b8c.png"
+      },
+      {
+        "comment_id": 204783,
+        "uid": 7358610,
+        "content": "回复@as3712061:吃过，书里写的。",
+        "createtime": 1392120152,
+        "nickname": "我le个去",
+        "avatar": "https://avatar.dmzj.com/31/ee/31eef4907ec4667726f517d4fe636490.png"
+      }
+    ]
+  }
+}

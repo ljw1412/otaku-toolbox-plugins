@@ -1,0 +1,73 @@
+{
+  "id": 16061,
+  "islong": 2,
+  "direction": 1,
+  "title": "路地里的魔法侦探事务所",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/1ludilimofazhentan20141109.jpg",
+  "description": "杰克是个穷鬼侦探，跟搭档一起凭着魔法到处解决疑难事件，不过处理的时候老是会添上不少乱子。。。",
+  "last_updatetime": 1415539906,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 10930,
+  "hit_num": 205926,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7990,
+      "tag_name": "大木梨沙"
+    }
+  ],
+  "subscribe_num": 72,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 32951,
+          "chapter_title": "1话",
+          "updatetime": 1415539906,
+          "filesize": 5902452,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 2288472,
+        "uid": 102211170,
+        "content": "沙发",
+        "createtime": 1496848666,
+        "nickname": "抱大腿的爬墙竹",
+        "avatar": "https://avatar.dmzj.com/54/79/547999796e8d3098f74ac05c970429b9.png"
+      },
+      {
+        "comment_id": 317595,
+        "uid": 25738502,
+        "content": "0.0",
+        "createtime": 1415547102,
+        "nickname": "星寒冰",
+        "avatar": "https://avatar.dmzj.com/1f/5c/1f5c3952286eff19a8826e43db12dfd8.png"
+      }
+    ]
+  }
+}

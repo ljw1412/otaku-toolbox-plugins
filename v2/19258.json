@@ -1,0 +1,78 @@
+{
+  "id": 19258,
+  "islong": 2,
+  "direction": 2,
+  "title": "Yes•YourHighness",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1002099341434650865.jpg",
+  "description": "Yes•YourHighness",
+  "last_updatetime": 1434650960,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 3773,
+  "hit_num": 110211,
+  "uid": 100209934,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9630,
+      "tag_name": "镜染蔷薇 "
+    }
+  ],
+  "subscribe_num": 19,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38186,
+          "chapter_title": "2话",
+          "updatetime": 1434650960,
+          "filesize": 2329184,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 38185,
+          "chapter_title": "1话",
+          "updatetime": 1434650912,
+          "filesize": 1845115,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 17508947,
+        "uid": 108585382,
+        "content": "画风挺不错了",
+        "createtime": 1561555917,
+        "nickname": "老干冰",
+        "avatar": "https://avatar.dmzj.com/69/87/6987a2d8fcbde65c8225ef999dd2034b.png"
+      },
+      {
+        "comment_id": 445331,
+        "uid": 100258623,
+        "content": "这画风",
+        "createtime": 1438756899,
+        "nickname": "卿卿初霁",
+        "avatar": "https://avatar.dmzj.com/31/17/311761a7639b27b30edaf5ba18c86c92.png"
+      }
+    ]
+  }
+}

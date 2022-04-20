@@ -1,0 +1,63 @@
+{
+  "id": 19008,
+  "islong": 1,
+  "direction": 2,
+  "title": "同类",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1001893871433313869.jpg",
+  "description": "同类",
+  "last_updatetime": 1433316170,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 773,
+  "hit_num": 11803,
+  "uid": 100189387,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9488,
+      "tag_name": "HAhatoyo"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37678,
+          "chapter_title": "1话",
+          "updatetime": 1433316170,
+          "filesize": 255226,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 888236,
+        "uid": 101281835,
+        "content": "说出了我的心声啊 ",
+        "createtime": 1465545036,
+        "nickname": "星火不曾燎原",
+        "avatar": "https://avatar.dmzj.com/22/7f/227fed9709fc0ce6645a1532786f542b.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 17196,
+  "islong": 2,
+  "direction": 1,
+  "title": "SISTERHAZARD",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/jdcxmmwj.jpg",
+  "description": "舰娘的同人。",
+  "last_updatetime": 1424830309,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 82289,
+  "hit_num": 406748,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 6437,
+      "tag_name": "颜艺"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8593,
+      "tag_name": "エイル。ドラ (drie)"
+    }
+  ],
+  "subscribe_num": 443,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35982,
+          "chapter_title": "1话",
+          "updatetime": 1424830309,
+          "filesize": 5636646,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 21747543,
+        "uid": 107788978,
+        "content": "喜欢",
+        "createtime": 1572330058,
+        "nickname": "Daniel·Oliva",
+        "avatar": "https://avatar.dmzj.com/0e/72/0e720fdaec7f2ba89bce184273dfc132.png"
+      },
+      {
+        "comment_id": 20510969,
+        "uid": 105560365,
+        "content": "像音符般的随风飘荡",
+        "createtime": 1569086683,
+        "nickname": "舒舒服服吐槽",
+        "avatar": "https://avatar.dmzj.com/98/99/989921d5816d5e8fc93c192ce2f2ad17.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 16972,
+  "islong": 2,
+  "direction": 1,
+  "title": "漫笔经心",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/fengmianl.jpg",
+  "description": "港台漫画大家马荣成为你叙述当年画漫画时候的那些事",
+  "last_updatetime": 1422862248,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 3236,
+  "hit_num": 140106,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 422,
+      "tag_name": "马荣成"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "subscribe_num": 14,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37988,
+          "chapter_title": "1话",
+          "updatetime": 1422862248,
+          "filesize": 20868969,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 18975154,
+        "uid": 107263861,
+        "content": "看一下马老师的作品",
+        "createtime": 1564840201,
+        "nickname": "dmzj_107263861",
+        "avatar": "https://avatar.dmzj.com/43/51/4351c46c011ce10d0c80811ed12f44ca.png"
+      }
+    ]
+  }
+}

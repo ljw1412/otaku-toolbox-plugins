@@ -1,0 +1,73 @@
+{
+  "id": 10927,
+  "islong": 2,
+  "direction": 1,
+  "title": "所有人都变成M",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/molisha.jpg",
+  "description": "太古时代，曾经只有一个魔理沙……",
+  "last_updatetime": 1365706735,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 55359,
+  "hit_num": 351967,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5379,
+      "tag_name": "苍"
+    }
+  ],
+  "subscribe_num": 229,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23732,
+          "chapter_title": "1话",
+          "updatetime": 1365706735,
+          "filesize": 2464669,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 23367283,
+        "uid": 105248656,
+        "content": "xswl",
+        "createtime": 1579392374,
+        "nickname": "。。。。83362",
+        "avatar": "https://avatar.dmzj.com/a5/7b/a57b5834b33d46ef72213debb608e824.png"
+      },
+      {
+        "comment_id": 21044700,
+        "uid": 108360582,
+        "content": "你们问魔理沙一开始去哪里了？哦，她刚从我家出去呢",
+        "createtime": 1570454814,
+        "nickname": "从不头槌学生的好老师",
+        "avatar": "https://avatar.dmzj.com/53/36/53366636eff4bcef20a9335935900ebb.png"
+      }
+    ]
+  }
+}

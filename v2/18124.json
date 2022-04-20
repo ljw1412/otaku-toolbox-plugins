@@ -1,0 +1,82 @@
+{
+  "id": 18124,
+  "islong": 2,
+  "direction": 2,
+  "title": "冒险王",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1001179351428674412.jpg",
+  "description": "以前的短篇故事集－冒险王",
+  "last_updatetime": 1428892746,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 9851,
+  "hit_num": 100912,
+  "uid": 100117935,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9032,
+      "tag_name": "白骁"
+    }
+  ],
+  "subscribe_num": 27,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36247,
+          "chapter_title": "2话",
+          "updatetime": 1428892746,
+          "filesize": 672915,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 36248,
+          "chapter_title": "1话",
+          "updatetime": 1428674495,
+          "filesize": 1077238,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 583033,
+        "uid": 18631483,
+        "content": "不错0.0",
+        "createtime": 1453439299,
+        "nickname": "堂上郁",
+        "avatar": "https://avatar.dmzj.com/0c/c6/0cc6f512163d5b4f87fa8c99d69f18fa.png"
+      },
+      {
+        "comment_id": 378925,
+        "uid": 20911136,
+        "content": "这是白大以前的作品吗？",
+        "createtime": 1428935915,
+        "nickname": "苍白的宅男",
+        "avatar": "https://avatar.dmzj.com/ba/7a/ba7a8beb6892a9886902e7bcf6355ade.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 18813,
+  "islong": 2,
+  "direction": 2,
+  "title": "无爱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1001292291432261404.jpg",
+  "description": "鬼彻同人~",
+  "last_updatetime": 1432261423,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 10587,
+  "hit_num": 58830,
+  "uid": 100217540,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9378,
+      "tag_name": "孤九"
+    }
+  ],
+  "subscribe_num": 72,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37272,
+          "chapter_title": "1话",
+          "updatetime": 1432261423,
+          "filesize": 342446,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 1032600,
+        "uid": 101755436,
+        "content": "还以为有黑泽",
+        "createtime": 1468860337,
+        "nickname": "白泽sama_",
+        "avatar": "https://avatar.dmzj.com/e3/f1/e3f1f577caddebc335c7de0f4e3ed1ce.png"
+      },
+      {
+        "comment_id": 633099,
+        "uid": 100849977,
+        "content": "封面人物长的像金木",
+        "createtime": 1455979246,
+        "nickname": "2016021213024222",
+        "avatar": "https://avatar.dmzj.com/ea/0a/ea0a35e12c3d5676bdc642e180eb561b.png"
+      }
+    ]
+  }
+}

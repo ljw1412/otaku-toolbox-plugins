@@ -1,0 +1,73 @@
+{
+  "id": 11842,
+  "islong": 2,
+  "direction": 1,
+  "title": "投弃区画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/touqiquhua.jpg",
+  "description": "因为脏了就往上、脏了就往上增建的巨大化住宅区。他的下方是……",
+  "last_updatetime": 1372079699,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 25019,
+  "hit_num": 123725,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6214,
+      "tag_name": "杉浦洸"
+    }
+  ],
+  "subscribe_num": 99,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25055,
+          "chapter_title": "1话",
+          "updatetime": 1372079699,
+          "filesize": 3835624,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 29334012,
+        "uid": 111070578,
+        "content": "dmzj",
+        "createtime": 1596109367,
+        "nickname": "dmzj_111070578",
+        "avatar": "https://avatar.dmzj.com/44/b8/44b8cdf6c984eb892bf0b25de15abb82.png"
+      },
+      {
+        "comment_id": 22513118,
+        "uid": 109105680,
+        "content": "有趣",
+        "createtime": 1575780340,
+        "nickname": "dmzj_109105680",
+        "avatar": "https://avatar.dmzj.com/49/44/494487997ef233b92db5d9c856d69a40.png"
+      }
+    ]
+  }
+}

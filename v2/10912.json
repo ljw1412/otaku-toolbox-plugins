@@ -1,0 +1,75 @@
+{
+  "id": 10912,
+  "islong": 2,
+  "direction": 1,
+  "title": "不要喜欢我",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/buyaoxihuanwo.jpg",
+  "description": "不要喜欢我，请伤我一生一世。",
+  "last_updatetime": 1365563742,
+  "last_update_chapter_name": "全1话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "buyaoxihuanwo",
+  "hidden": 0,
+  "hot_num": 43124,
+  "hit_num": 715921,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23684,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5788,
+      "tag_name": "御徒町鸠"
+    }
+  ],
+  "subscribe_num": 159,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23684,
+          "chapter_title": "1话",
+          "updatetime": 1365563742,
+          "filesize": 4033128,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 365783,
+        "uid": 33589253,
+        "content": "一个愿打，一个愿挨，看得我快捶墙了",
+        "createtime": 1426597120,
+        "nickname": "漫画酱",
+        "avatar": "https://avatar.dmzj.com/b2/e9/b2e93408c55167e49f87d1b1f3ed08d8.png"
+      },
+      {
+        "comment_id": 139464,
+        "uid": 24463225,
+        "content": "哎哎 不知道作者思想是咋的  /发怒 ",
+        "createtime": 1374730680,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "is_need_login": 0
+}

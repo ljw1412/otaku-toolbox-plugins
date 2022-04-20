@@ -1,0 +1,73 @@
+{
+  "id": 18240,
+  "islong": 2,
+  "direction": 1,
+  "title": "机关式千两箱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/jgsqlxfengmianl.jpg",
+  "description": "LETRA touhou fanbook#33 终于到了星莲船时代……",
+  "last_updatetime": 1429411804,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 68985,
+  "hit_num": 28931,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4904,
+      "tag_name": "滝太郎"
+    },
+    {
+      "tag_id": 6157,
+      "tag_name": "LETRA"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 336,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40387,
+          "chapter_title": "1话",
+          "updatetime": 1429411804,
+          "filesize": 4618218,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 2181415,
+        "uid": 102498033,
+        "content": "纳兹琳卖的一手好队友。",
+        "createtime": 1494780563,
+        "nickname": "秋枫叶落hjf",
+        "avatar": "https://avatar.dmzj.com/e5/0d/e50d36a1b33d7ec881ff972114e2c855.png"
+      },
+      {
+        "comment_id": 597612,
+        "uid": 100479687,
+        "content": "后面居然是兜帽吗已经不知道怎么吐槽了。。。",
+        "createtime": 1454263662,
+        "nickname": "古明地星",
+        "avatar": "https://avatar.dmzj.com/99/49/9949a555a37acc9616cd55ad659a1ff4.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 17582,
+  "islong": 2,
+  "direction": 1,
+  "title": "青蛙之国",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/qwzg963.jpg",
+  "description": "青蛙的报恩是将自己做成蛙肉串~",
+  "last_updatetime": 1426829686,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 315467,
+  "hit_num": 147613,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7793,
+      "tag_name": "药味さらい"
+    }
+  ],
+  "subscribe_num": 1610,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39336,
+          "chapter_title": "1话",
+          "updatetime": 1426829686,
+          "filesize": 3781276,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 112,
+    "latest_comment": [
+      {
+        "comment_id": 29096294,
+        "uid": 24779340,
+        "content": "最后青蛙子的笑容好可爱",
+        "createtime": 1595250771,
+        "nickname": "Darkgold",
+        "avatar": "https://avatar.dmzj.com/41/22/41220e40d7015368878bc2e8d6ccc774.png"
+      },
+      {
+        "comment_id": 28966564,
+        "uid": 24996083,
+        "content": "终于合并到一起了",
+        "createtime": 1594816225,
+        "nickname": "苍魂千载幽幽",
+        "avatar": "https://avatar.dmzj.com/2a/b4/2ab4437c24cda2a6fc2e837dd8347b8c.png"
+      }
+    ]
+  }
+}

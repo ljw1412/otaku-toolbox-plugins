@@ -1,0 +1,93 @@
+{
+  "id": 19203,
+  "islong": 1,
+  "direction": 2,
+  "title": "尚兰秀",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1002070851434436575.jpg",
+  "description": "永远的大学生时代，尚兰秀的欢乐时光。",
+  "last_updatetime": 1434504941,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 4187,
+  "hit_num": 29883,
+  "uid": 100207085,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9596,
+      "tag_name": "常月Clarence"
+    }
+  ],
+  "subscribe_num": 33,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38119,
+          "chapter_title": "特别篇",
+          "updatetime": 1434504941,
+          "filesize": 442437,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 38102,
+          "chapter_title": "4-6你好，兰兰",
+          "updatetime": 1434437471,
+          "filesize": 630645,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 38101,
+          "chapter_title": "1-3你好，尚兰秀",
+          "updatetime": 1434437322,
+          "filesize": 486333,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "欢迎加入，尚兰秀 194865389 读者群。欢迎参与，期待您的加入。",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 2190443,
+        "uid": 10112259,
+        "content": "(๑❛ᴗ❛๑)",
+        "createtime": 1494951943,
+        "nickname": "妮维",
+        "avatar": "https://avatar.dmzj.com/46/61/4661f9c8eb6de011cf20f5fd90f86b06.png"
+      },
+      {
+        "comment_id": 1590819,
+        "uid": 101201701,
+        "content": "想不到我终于有第一了",
+        "createtime": 1482489037,
+        "nickname": "绿绿寡欢",
+        "avatar": "https://avatar.dmzj.com/24/58/2458747e0b014d2c7b2043e5cd602193.png"
+      }
+    ]
+  }
+}

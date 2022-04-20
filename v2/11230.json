@@ -1,0 +1,73 @@
+{
+  "id": 11230,
+  "islong": 2,
+  "direction": 1,
+  "title": "沙之皇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/shazhihuang1.jpg",
+  "description": "从最底层向上攀爬的少年战斗与成长的故事",
+  "last_updatetime": 1368036519,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 19681,
+  "hit_num": 426280,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5916,
+      "tag_name": "ノ村优介"
+    }
+  ],
+  "subscribe_num": 77,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22940,
+          "chapter_title": "短篇",
+          "updatetime": 1368036519,
+          "filesize": 6452052,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 27037524,
+        "uid": 110747962,
+        "content": "好一个沙皇，后期无敌？",
+        "createtime": 1588421932,
+        "nickname": "花泽青菜",
+        "avatar": "https://avatar.dmzj.com/16/42/1642339041250689010cecebebf749ba.png"
+      },
+      {
+        "comment_id": 200385,
+        "uid": 12539309,
+        "content": "彼得大帝……",
+        "createtime": 1390988089,
+        "nickname": "lalaowei",
+        "avatar": "https://avatar.dmzj.com/6f/a6/6fa69abf69375dbe60b4670f9313cad0.png"
+      }
+    ]
+  }
+}

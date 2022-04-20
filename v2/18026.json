@@ -1,0 +1,67 @@
+{
+  "id": 18026,
+  "islong": 2,
+  "direction": 2,
+  "title": "天外有天",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0408tianwaiyoutian.jpg",
+  "description": "尽情挥洒青春的岁月\n在理想和热血中奔驰",
+  "last_updatetime": 1428483124,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 1968,
+  "hit_num": 51098,
+  "uid": 100114965,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9000,
+      "tag_name": "信号灯"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37495,
+          "chapter_title": "开始还是结束",
+          "updatetime": 1428483125,
+          "filesize": 2373521,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 15940320,
+        "uid": 109138476,
+        "content": "有人有信号100种死法嘛",
+        "createtime": 1557902427,
+        "nickname": "dmzj_109138476",
+        "avatar": "https://avatar.dmzj.com/0c/0a/0c0ad6dfcbb1a7c74cb7f7a3f2b8a901.png"
+      }
+    ]
+  }
+}

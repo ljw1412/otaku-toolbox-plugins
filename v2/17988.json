@@ -1,0 +1,72 @@
+{
+  "id": 17988,
+  "islong": 2,
+  "direction": 2,
+  "title": "GAMA",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1001082521428386449.jpg",
+  "description": "致敬热血漫，校园暴力作品GAMA高校",
+  "last_updatetime": 1428755852,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 3137,
+  "hit_num": 38482,
+  "uid": 100108252,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8976,
+      "tag_name": "沫"
+    }
+  ],
+  "subscribe_num": 6,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36013,
+          "chapter_title": "COUNT DOWN2",
+          "updatetime": 1428755852,
+          "filesize": 1221065,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 35873,
+          "chapter_title": "COUNT DOWN1",
+          "updatetime": 1428391250,
+          "filesize": 921839,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 35874,
+          "chapter_title": "S",
+          "updatetime": 1428386998,
+          "filesize": 1496429,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "尽量一月三更，总之还是看受欢迎程度吧",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

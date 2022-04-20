@@ -1,0 +1,90 @@
+{
+  "id": 12055,
+  "islong": 2,
+  "direction": 2,
+  "title": "觉醒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/juexingthewake1.jpg",
+  "description": "Snyder（蝙蝠侠、沼泽怪的主笔）和Sean Murphy（摇滚基督的画师）强强联合的新作。",
+  "last_updatetime": 1389531146,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 49592,
+  "hit_num": 594819,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4167,
+      "tag_name": "VERTIGO"
+    }
+  ],
+  "subscribe_num": 270,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27314,
+          "chapter_title": "4卷",
+          "updatetime": 1389531146,
+          "filesize": 2964955,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 25129,
+          "chapter_title": "3卷",
+          "updatetime": 1378441492,
+          "filesize": 2919615,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 24392,
+          "chapter_title": "2卷",
+          "updatetime": 1374929440,
+          "filesize": 2958444,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 24111,
+          "chapter_title": "1卷",
+          "updatetime": 1373616594,
+          "filesize": 3605654,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 29971137,
+        "uid": 100322879,
+        "content": "x",
+        "createtime": 1598490169,
+        "nickname": "金柳衣",
+        "avatar": "https://avatar.dmzj.com/00/81/008129487383dc6f911654690cc1caa1.png"
+      },
+      {
+        "comment_id": 17190049,
+        "uid": 8492,
+        "content": "太强了。。。",
+        "createtime": 1560675294,
+        "nickname": "132001",
+        "avatar": "https://avatar.dmzj.com/19/04/1904e5e0825e8032e29b9063c637d87d.png"
+      }
+    ]
+  }
+}

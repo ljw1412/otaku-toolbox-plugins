@@ -1,0 +1,77 @@
+{
+  "id": 16598,
+  "islong": 2,
+  "direction": 1,
+  "title": "新科幻少年",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/xkhsn6l.JPG",
+  "description": "异能觉醒，平静的日常被打破...",
+  "last_updatetime": 1420090436,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 11173,
+  "hit_num": 438793,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8263,
+      "tag_name": "阿部忍"
+    },
+    {
+      "tag_id": 8264,
+      "tag_name": "饭田让志"
+    }
+  ],
+  "subscribe_num": 84,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33175,
+          "chapter_title": "1卷",
+          "updatetime": 1420090436,
+          "filesize": 14411097,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 28678295,
+        "uid": 100700807,
+        "content": "这啥",
+        "createtime": 1593867283,
+        "nickname": "H N E",
+        "avatar": "https://avatar.dmzj.com/19/e6/19e601d287f065140c85297bb1eefda6.png"
+      },
+      {
+        "comment_id": 8305400,
+        "uid": 105962475,
+        "content": "可以啊",
+        "createtime": 1542805635,
+        "nickname": "dmzj_105962475",
+        "avatar": "https://avatar.dmzj.com/81/37/81375aae9b62805257c8179d00d2fd7f.png"
+      }
+    ]
+  }
+}

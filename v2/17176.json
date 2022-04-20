@@ -1,0 +1,73 @@
+{
+  "id": 17176,
+  "islong": 2,
+  "direction": 1,
+  "title": "数码兽传说 电子侦探",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/smscsdzzt8563l.jpg",
+  "description": "我们是，电子侦探！",
+  "last_updatetime": 1424597104,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 113202,
+  "hit_num": 221255,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8582,
+      "tag_name": "フクダイクミ"
+    }
+  ],
+  "subscribe_num": 596,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35923,
+          "chapter_title": "1话",
+          "updatetime": 1424597104,
+          "filesize": 4881496,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 28985106,
+        "uid": 104890881,
+        "content": "法姐怎么样都好美 这个画风我觉得也很合适呀hhh",
+        "createtime": 1594875699,
+        "nickname": "菠萝菠萝辛味增",
+        "avatar": "https://avatar.dmzj.com/22/14/2214af89dfc8d96ef7969571c1731dc0.png"
+      },
+      {
+        "comment_id": 28134802,
+        "uid": 101884868,
+        "content": "数码宝贝？",
+        "createtime": 1592054376,
+        "nickname": "狸绒吱",
+        "avatar": "https://avatar.dmzj.com/19/01/1901793bf9f396051ee5ebdcc02da83e.png"
+      }
+    ]
+  }
+}

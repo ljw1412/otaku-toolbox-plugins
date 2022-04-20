@@ -1,0 +1,80 @@
+{
+  "id": 14960,
+  "islong": 2,
+  "direction": 2,
+  "title": "火箭浣熊v2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/huojianhuanxiong.jpg",
+  "description": "高智商基因改造动物，火箭浣熊的故事。",
+  "last_updatetime": 1414550261,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 377318,
+  "hit_num": 179370,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1449,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35141,
+          "chapter_title": "2卷",
+          "updatetime": 1414550261,
+          "filesize": 3375700,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 30131,
+          "chapter_title": "1卷",
+          "updatetime": 1404982705,
+          "filesize": 2481959,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 28937315,
+        "uid": 102380152,
+        "content": "我想摸秃他！！！！！！！！",
+        "createtime": 1594723434,
+        "nickname": "酱·油·瓶",
+        "avatar": "https://avatar.dmzj.com/35/92/3592f473169f5ab60595db560149d343.png"
+      },
+      {
+        "comment_id": 25676806,
+        "uid": 107987754,
+        "content": "https://www.haosoutv.com/play/16633-1-1.html",
+        "createtime": 1585143702,
+        "nickname": "dmzj_107987754",
+        "avatar": "https://avatar.dmzj.com/ed/11/ed1155c12ca5c96af8b939b40c808a84.png"
+      }
+    ]
+  }
+}

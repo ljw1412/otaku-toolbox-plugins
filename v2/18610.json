@@ -1,0 +1,87 @@
+{
+  "id": 18610,
+  "islong": 2,
+  "direction": 2,
+  "title": "魔法之书 ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/mofazhishu.jpg",
+  "description": "主人公Tim Hunter，一个长得很像哈利波特的普通少年（喂，哪里普通了），对自己今后的命运（确实很惨）一无所知，某日突然遇到了四名怪叔叔。。厄，法师法师，在他们的绑架，不，带领下游历了世界与时空，他们更声称Tim将成为最强大的法师，但这这要取决于他自己的选择（stranger甚诈亚），Tim，你要肿么决定呢",
+  "last_updatetime": 1594483100,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 104845,
+  "hit_num": 193684,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 521,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 105043,
+          "chapter_title": "3卷",
+          "updatetime": 1594483100,
+          "filesize": 7730892,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 40970,
+          "chapter_title": "2卷",
+          "updatetime": 1431334001,
+          "filesize": 4832090,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 40968,
+          "chapter_title": "1卷",
+          "updatetime": 1431333593,
+          "filesize": 6033513,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 29209555,
+        "uid": 104661782,
+        "content": "卧槽卧槽卧槽，竟然更新了",
+        "createtime": 1595671532,
+        "nickname": "BEYOND♂",
+        "avatar": "https://avatar.dmzj.com/81/24/8124d01709edd0ee99a70dca13d9a8cd.png"
+      },
+      {
+        "comment_id": 28869207,
+        "uid": 15064287,
+        "content": "竟然更新了",
+        "createtime": 1594487839,
+        "nickname": "胎儿之梦",
+        "avatar": "https://avatar.dmzj.com/c3/75/c375b59350ecbc285a258c258e97c54f.png"
+      }
+    ]
+  }
+}

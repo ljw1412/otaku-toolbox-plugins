@@ -1,0 +1,75 @@
+{
+  "id": 10324,
+  "islong": 2,
+  "direction": 1,
+  "title": "八云式～零～",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/bayunshiling.jpg",
+  "description": "东方同人本",
+  "last_updatetime": 1360604068,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bayunshiling",
+  "hidden": 0,
+  "hot_num": 41304,
+  "hit_num": 168178,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20480,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5475,
+      "tag_name": "SASUKE"
+    }
+  ],
+  "subscribe_num": 154,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20480,
+          "chapter_title": "1话",
+          "updatetime": 1360604068,
+          "filesize": 2509970,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 20467363,
+        "uid": 100023272,
+        "content": "带我一个",
+        "createtime": 1568958166,
+        "nickname": "时光——流年",
+        "avatar": "https://avatar.dmzj.com/46/52/46523aff1daefed212d28dfe6638eddc.png"
+      },
+      {
+        "comment_id": 20459567,
+        "uid": 109659223,
+        "content": "沙发",
+        "createtime": 1568935806,
+        "nickname": "新路人甲",
+        "avatar": "https://avatar.dmzj.com/82/31/8231e55452546ac0ddff69a641458037.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

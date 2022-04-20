@@ -1,0 +1,75 @@
+{
+  "id": 15464,
+  "islong": 2,
+  "direction": 1,
+  "title": "1st Summer",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/08291stsummerfm.jpg",
+  "description": "交往之后 大家不会 偶尔觉得 很不安吗？<br>\n第一个一起度过的夏天<br>\n果然就应该由各种的情感来编製呐~\n",
+  "last_updatetime": 1409285441,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "1",
+  "comic_py": "1stsummer",
+  "hidden": 0,
+  "hot_num": 34512,
+  "hit_num": 327273,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 30599,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6681,
+      "tag_name": "池田春香"
+    }
+  ],
+  "subscribe_num": 183,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30599,
+          "chapter_title": "1话",
+          "updatetime": 1409285441,
+          "filesize": 5785621,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 24846313,
+        "uid": 107937560,
+        "content": "还蛮甜的其实",
+        "createtime": 1583292731,
+        "nickname": "LjaWen",
+        "avatar": "https://avatar.dmzj.com/60/41/6041a158a982c91adcec4c02d4b0faaf.png"
+      },
+      {
+        "comment_id": 2744709,
+        "uid": 102124651,
+        "content": "最後的kiss有點敗筆",
+        "createtime": 1502957079,
+        "nickname": "无使",
+        "avatar": "https://avatar.dmzj.com/40/f0/40f0f3671b472c56c96ee17a42a11d8e.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

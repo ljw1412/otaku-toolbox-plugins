@@ -1,0 +1,75 @@
+{
+  "id": 17944,
+  "islong": 2,
+  "direction": 1,
+  "title": "余命一个月的魔理沙",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/ymygydmlsfengmianl.jpg",
+  "description": "主角组的寿命论本",
+  "last_updatetime": 1428140432,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "ymygydmls",
+  "hidden": 0,
+  "hot_num": 39581,
+  "hit_num": 111248,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 35982,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8962,
+      "tag_name": "ャミザヮ"
+    }
+  ],
+  "subscribe_num": 196,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35982,
+          "chapter_title": "1话",
+          "updatetime": 1428140432,
+          "filesize": 3848125,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 29801439,
+        "uid": 101823425,
+        "content": "淡淡的忧伤...",
+        "createtime": 1597860325,
+        "nickname": "硫花",
+        "avatar": "https://avatar.dmzj.com/ed/a7/eda7024686538d36df718d003303efcf.png"
+      },
+      {
+        "comment_id": 25302357,
+        "uid": 105877380,
+        "content": "某种意义上，也算是克服了寿命论了。",
+        "createtime": 1584292666,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

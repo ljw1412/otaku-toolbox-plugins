@@ -1,0 +1,73 @@
+{
+  "id": 15511,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠与蜘蛛侠：新时代降临",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/batmanspidey00fc0904.jpg",
+  "description": "当蝙蝠侠邂逅了蜘蛛侠……",
+  "last_updatetime": 1409761780,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 604202,
+  "hit_num": 576649,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    },
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2259,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31544,
+          "chapter_title": "1卷",
+          "updatetime": 1409761780,
+          "filesize": 8402181,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 27532182,
+        "uid": 109767443,
+        "content": "甜甜甜甜",
+        "createtime": 1589961988,
+        "nickname": "Hyggy",
+        "avatar": "https://avatar.dmzj.com/2e/80/2e802efbc12d2bbe820469b88b01c683.png"
+      },
+      {
+        "comment_id": 27531595,
+        "uid": 109767443,
+        "content": "我好兴奋啊！！！",
+        "createtime": 1589960550,
+        "nickname": "Hyggy",
+        "avatar": "https://avatar.dmzj.com/2e/80/2e802efbc12d2bbe820469b88b01c683.png"
+      }
+    ]
+  }
+}

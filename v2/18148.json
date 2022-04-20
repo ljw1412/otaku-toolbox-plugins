@@ -1,0 +1,75 @@
+{
+  "id": 18148,
+  "islong": 2,
+  "direction": 2,
+  "title": "侍魂同人 武士之魂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1001179351428984221.jpg",
+  "description": "同人作品",
+  "last_updatetime": 1428991339,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 8324,
+  "hit_num": 80474,
+  "uid": 100117935,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9032,
+      "tag_name": "白骁"
+    }
+  ],
+  "subscribe_num": 22,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36087,
+          "chapter_title": "1话",
+          "updatetime": 1428991339,
+          "filesize": 754576,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 379514,
+        "uid": 12979567,
+        "content": "你确定国产？",
+        "createtime": 1429074218,
+        "nickname": "sd5745124",
+        "avatar": "https://avatar.dmzj.com/29/80/298070c54ee810681d5a41c730a4436e.png"
+      },
+      {
+        "comment_id": 379513,
+        "uid": 12979567,
+        "content": "嗯。。。",
+        "createtime": 1429074093,
+        "nickname": "sd5745124",
+        "avatar": "https://avatar.dmzj.com/29/80/298070c54ee810681d5a41c730a4436e.png"
+      }
+    ]
+  }
+}

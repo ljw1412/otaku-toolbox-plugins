@@ -1,0 +1,73 @@
+{
+  "id": 14717,
+  "islong": 2,
+  "direction": 1,
+  "title": "致我的初恋",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/0002zwdcl.jpg",
+  "description": "这是我小学四年级时候的故事...",
+  "last_updatetime": 1402109379,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 61605,
+  "hit_num": 60399,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4254,
+      "tag_name": "山田DAISY(山田デイジー)"
+    }
+  ],
+  "subscribe_num": 377,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30706,
+          "chapter_title": "1话",
+          "updatetime": 1402109379,
+          "filesize": 625250,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 6951239,
+        "uid": 105760469,
+        "content": "什么鬼",
+        "createtime": 1537638058,
+        "nickname": "dmzj_105760469",
+        "avatar": "https://avatar.dmzj.com/55/bf/55bf39b0eb3791fa4f8f7c846d8d44d8.png"
+      },
+      {
+        "comment_id": 6520287,
+        "uid": 106026749,
+        "content": "哇啊，这个，，真的，，大丈夫吗？",
+        "createtime": 1535358560,
+        "nickname": "林梺",
+        "avatar": "https://avatar.dmzj.com/19/89/198907b69249bd38ec23f1a6906324f7.png"
+      }
+    ]
+  }
+}

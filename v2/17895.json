@@ -1,0 +1,75 @@
+{
+  "id": 17895,
+  "islong": 2,
+  "direction": 2,
+  "title": "噬灵",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1001074821427967170.jpg",
+  "description": "本作品曾连载于《中国漫画》请多在支持",
+  "last_updatetime": 1427971810,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 14309,
+  "hit_num": 122211,
+  "uid": 100107482,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13113,
+      "tag_name": "鼠叔"
+    }
+  ],
+  "subscribe_num": 184,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39815,
+          "chapter_title": "1话",
+          "updatetime": 1427971810,
+          "filesize": 705207,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 28327813,
+        "uid": 105956100,
+        "content": "挖个坟",
+        "createtime": 1592739509,
+        "nickname": "黑岩射手鹰无黄泉",
+        "avatar": "https://avatar.dmzj.com/6d/6f/6d6f780cba36f57dc5c75cf57346b738.png"
+      },
+      {
+        "comment_id": 2193799,
+        "uid": 102095551,
+        "content": "怎么不更新啊啊啊",
+        "createtime": 1495031522,
+        "nickname": "qy西云",
+        "avatar": "https://avatar.dmzj.com/9b/68/9b68dadfefe048898688495fe47c7fb2.png"
+      }
+    ]
+  }
+}

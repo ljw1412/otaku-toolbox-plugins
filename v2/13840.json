@@ -1,0 +1,91 @@
+{
+  "id": 13840,
+  "islong": 2,
+  "direction": 1,
+  "title": "女装动漫店",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/nvzhuangdongmandian222.jpg",
+  "description": "突然成为动漫店长的充郎的成功物语，手下的店员以伪娘为主……",
+  "last_updatetime": 1396338927,
+  "copyright": 0,
+  "first_letter": "n",
+  "hot_num": 226430,
+  "hit_num": 1117746,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7078,
+      "tag_name": "九尾かや"
+    }
+  ],
+  "subscribe_num": 1115,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 28633,
+          "chapter_title": "3话",
+          "updatetime": 1396338927,
+          "filesize": 2289850,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 28331,
+          "chapter_title": "2话",
+          "updatetime": 1394874732,
+          "filesize": 2317203,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 27550,
+          "chapter_title": "1话",
+          "updatetime": 1390634108,
+          "filesize": 2354397,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 24545353,
+        "uid": 106973341,
+        "content": "留个眼留个眼",
+        "createtime": 1582676090,
+        "nickname": "LạcThiênY",
+        "avatar": "https://avatar.dmzj.com/d8/62/d86223d49ae1a2e1ec2ef5a73bb16776.png"
+      },
+      {
+        "comment_id": 17897334,
+        "uid": 104190196,
+        "content": "。。。。看到标题的第一想法是以全女装大佬为店员的店——然而标题也没错…店员里面有大佬……我回不了头了QoQ",
+        "createtime": 1562421323,
+        "nickname": "霏樱幻梦",
+        "avatar": "https://avatar.dmzj.com/60/00/60003c5bc4ed51bf8497ecc30c29bb37.png"
+      }
+    ]
+  }
+}

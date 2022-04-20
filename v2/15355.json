@@ -1,0 +1,75 @@
+{
+  "id": 15355,
+  "islong": 2,
+  "direction": 1,
+  "title": "栖めば都!?幻想乡",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/qixihuanxiangxiang.jpg",
+  "description": "东舰共荣不可避。",
+  "last_updatetime": 1408593328,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qiduxuanxiangxiang",
+  "hidden": 0,
+  "hot_num": 38367,
+  "hit_num": 315596,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 31007,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7662,
+      "tag_name": "Aとし"
+    }
+  ],
+  "subscribe_num": 195,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31007,
+          "chapter_title": "1话",
+          "updatetime": 1408593328,
+          "filesize": 1932901,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 38,
+    "latest_comment": [
+      {
+        "comment_id": 28436026,
+        "uid": 106510433,
+        "content": "激活码",
+        "createtime": 1593103901,
+        "nickname": "齐木Ψ楠雄",
+        "avatar": "https://avatar.dmzj.com/53/57/5357cca9b89b60464ebd665efae3faa0.png"
+      },
+      {
+        "comment_id": 22334637,
+        "uid": 109931816,
+        "content": "舰娘已经基本凉凉，大东方依然坚挺",
+        "createtime": 1574787125,
+        "nickname": "dmzj_109931816",
+        "avatar": "https://avatar.dmzj.com/2f/30/2f30d02a5df21301e408e57e40a38ae2.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

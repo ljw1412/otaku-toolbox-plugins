@@ -1,0 +1,71 @@
+{
+  "id": 19157,
+  "islong": 2,
+  "direction": 2,
+  "title": "柳金池漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1434106264.jpg",
+  "description": "柳金池漫画",
+  "last_updatetime": 1434105848,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 1439,
+  "hit_num": 44066,
+  "uid": 100201062,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9573,
+      "tag_name": "柳金池"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42047,
+          "chapter_title": "1话",
+          "updatetime": 1434105848,
+          "filesize": 2605045,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 26003017,
+        "uid": 107670083,
+        "content": "这就是青年漫画？爷i了 有深度",
+        "createtime": 1585887938,
+        "nickname": "dmzj_107670083",
+        "avatar": "https://avatar.dmzj.com/16/7b/167b7d506a811f85d9b511846c70f287.png"
+      },
+      {
+        "comment_id": 21698071,
+        "uid": 109868338,
+        "content": "创作鬼才",
+        "createtime": 1572167811,
+        "nickname": "dmzj_109868338",
+        "avatar": "https://avatar.dmzj.com/cc/9e/cc9e6144d8157714e164241f80cf16e0.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": 16022,
+  "islong": 2,
+  "direction": 1,
+  "title": "Norn9 comic anthology",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/nornncm.jpg",
+  "description": "Norn9官方同人漫画集。",
+  "last_updatetime": 1415175020,
+  "copyright": 0,
+  "first_letter": "n",
+  "hot_num": 502748,
+  "hit_num": 717081,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 2387,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35339,
+          "chapter_title": "1卷",
+          "updatetime": 1415175020,
+          "filesize": 21507210,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 27472354,
+        "uid": 109988388,
+        "content": "朗七是真的",
+        "createtime": 1589771079,
+        "nickname": "dmzj_109988388",
+        "avatar": "https://avatar.dmzj.com/d0/bc/d0bc616726974bce41f82d4469ae74a7.png"
+      },
+      {
+        "comment_id": 25187402,
+        "uid": 104261784,
+        "content": "宝藏！！！",
+        "createtime": 1584025706,
+        "nickname": "麻薯汤",
+        "avatar": "https://avatar.dmzj.com/38/08/3808d72d26010ae0c00906fd8ee5f327.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": 11186,
+  "islong": 2,
+  "direction": 1,
+  "title": "猜疑集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/caimiji.jpg",
+  "description": "手冢治虫大神的 短篇故事。",
+  "last_updatetime": 1367812504,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 80807,
+  "hit_num": 516672,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 904,
+      "tag_name": "手冢治虫"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1035,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21460,
+          "chapter_title": "1卷",
+          "updatetime": 1367812504,
+          "filesize": 9811212,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 55,
+    "latest_comment": [
+      {
+        "comment_id": 29894625,
+        "uid": 108088055,
+        "content": "几号",
+        "createtime": 1598204274,
+        "nickname": "Scolopendromorph",
+        "avatar": "https://avatar.dmzj.com/54/15/5415ab4854a79ae32596d5c9775fe695.png"
+      },
+      {
+        "comment_id": 26164260,
+        "uid": 101753563,
+        "content": "不错",
+        "createtime": 1586194066,
+        "nickname": "云中超人",
+        "avatar": "https://avatar.dmzj.com/92/02/9202c7a2886ae7640a340e2195198565.png"
+      }
+    ]
+  }
+}

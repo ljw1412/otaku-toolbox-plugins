@@ -1,0 +1,69 @@
+{
+  "id": 18635,
+  "islong": 2,
+  "direction": 1,
+  "title": "今天是什么日子？",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/001jtsxqj512.jpg",
+  "description": "我问你，今天星期几？",
+  "last_updatetime": 1431440747,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 189933,
+  "hit_num": 111966,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1488,
+      "tag_name": "香鱼子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1032,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41025,
+          "chapter_title": "短篇",
+          "updatetime": 1431440747,
+          "filesize": 1853599,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 60,
+    "latest_comment": [
+      {
+        "comment_id": 29908295,
+        "uid": 111092758,
+        "content": "哎哟",
+        "createtime": 1598271823,
+        "nickname": "玫瑰碎片",
+        "avatar": "https://avatar.dmzj.com/74/95/74957c4f7338725952a2103709a094a7.png"
+      },
+      {
+        "comment_id": 29085531,
+        "uid": 109780131,
+        "content": "真实",
+        "createtime": 1595211212,
+        "nickname": "最爱甜",
+        "avatar": "https://avatar.dmzj.com/91/c2/91c22e5840468143fe61b4f552f9fec7.png"
+      }
+    ]
+  }
+}

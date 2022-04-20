@@ -1,0 +1,76 @@
+{
+  "id": 11655,
+  "islong": 2,
+  "direction": 2,
+  "title": "未来超人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/weilaichaoren.jpg",
+  "description": "superman beyond，在我还未记事之前，我失去了我的第一个家园，死亡遍布整个星球，这是一个充满着但已与悲剧的时刻……直到我找到第二个家园……",
+  "last_updatetime": 1372832037,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 1888625,
+  "hit_num": 296350,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 7905,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23983,
+          "chapter_title": "2卷",
+          "updatetime": 1372832037,
+          "filesize": 3069559,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23632,
+          "chapter_title": "1卷",
+          "updatetime": 1370847801,
+          "filesize": 1854238,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 12575390,
+        "uid": 100310579,
+        "content": "留爪",
+        "createtime": 1552118773,
+        "nickname": "風神御",
+        "avatar": "https://avatar.dmzj.com/41/70/41703b431b7ba863cf3ec50689e8ad5c.png"
+      },
+      {
+        "comment_id": 2092086,
+        "uid": 101797047,
+        "content": "怎么未超有点蝙蝠侠的感觉==",
+        "createtime": 1493012007,
+        "nickname": "默默的。。。",
+        "avatar": "https://avatar.dmzj.com/7c/54/7c54ceac806f118b2ef4e40aa1456b43.png"
+      }
+    ]
+  }
+}

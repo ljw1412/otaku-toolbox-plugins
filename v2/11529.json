@@ -1,0 +1,73 @@
+{
+  "id": 11529,
+  "islong": 2,
+  "direction": 1,
+  "title": "Hello world",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/helloworld.jpg",
+  "description": "Hello world，东方同人本。",
+  "last_updatetime": 1370317900,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 50096,
+  "hit_num": 189240,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6063,
+      "tag_name": "たろう"
+    },
+    {
+      "tag_id": 6064,
+      "tag_name": "一之濑"
+    }
+  ],
+  "subscribe_num": 231,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22230,
+          "chapter_title": "1话",
+          "updatetime": 1370317900,
+          "filesize": 4820465,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 26662348,
+        "uid": 106226090,
+        "content": "你们，TMD????????",
+        "createtime": 1587376431,
+        "nickname": "惊鸿一现",
+        "avatar": "https://avatar.dmzj.com/33/72/337231afba81100fafd751cdd4558060.png"
+      },
+      {
+        "comment_id": 21467748,
+        "uid": 100188962,
+        "content": "封面画的真好。",
+        "createtime": 1571481091,
+        "nickname": "人在愁途",
+        "avatar": "https://avatar.dmzj.com/51/e4/51e4614f066878beb289dde88e0702ca.png"
+      }
+    ]
+  }
+}

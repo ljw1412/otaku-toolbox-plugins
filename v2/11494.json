@@ -1,0 +1,75 @@
+{
+  "id": 11494,
+  "islong": 2,
+  "direction": 1,
+  "title": "草莓、姐姐",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/caomei_jiejie.jpg",
+  "description": "这篇是桥本みつる‘再别吾友’的续篇。",
+  "last_updatetime": 1370066827,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "caomei_jiejie",
+  "hidden": 0,
+  "hot_num": 32658,
+  "hit_num": 370488,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22176,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6047,
+      "tag_name": "桥本みつる"
+    }
+  ],
+  "subscribe_num": 118,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22176,
+          "chapter_title": "1话",
+          "updatetime": 1370066827,
+          "filesize": 3565007,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 27736951,
+        "uid": 105861262,
+        "content": "找到了，外星人眼睛",
+        "createtime": 1590595174,
+        "nickname": "少女叶樱",
+        "avatar": "https://avatar.dmzj.com/77/41/77411f7b63509074f47ba9e8b2fcde44.png"
+      },
+      {
+        "comment_id": 1313138,
+        "uid": 101788132,
+        "content": "喜欢画大眼睛的作者。",
+        "createtime": 1474831086,
+        "nickname": "篠原世以子",
+        "avatar": "https://avatar.dmzj.com/22/e2/22e22d3f0ea752abf732baf1a7028406.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

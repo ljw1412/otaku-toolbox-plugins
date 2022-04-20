@@ -1,0 +1,89 @@
+{
+  "id": 11449,
+  "islong": 2,
+  "direction": 1,
+  "title": "YELLOW",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/yellow.jpg",
+  "description": "地灵殿众的本子。注：小五本命者勿入。",
+  "last_updatetime": 1426928727,
+  "last_update_chapter_name": "RED",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yellow",
+  "hidden": 0,
+  "hot_num": 546726,
+  "hit_num": 1487477,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 35532,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5640,
+      "tag_name": "恶饿鬼"
+    }
+  ],
+  "subscribe_num": 2005,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35532,
+          "chapter_title": "RED",
+          "updatetime": 1426928727,
+          "filesize": 3064705,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 35485,
+          "chapter_title": "后传ORANGE",
+          "updatetime": 1426842723,
+          "filesize": 3231337,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22115,
+          "chapter_title": "1话",
+          "updatetime": 1369648345,
+          "filesize": 1957328,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 43,
+    "latest_comment": [
+      {
+        "comment_id": 27153681,
+        "uid": 107350306,
+        "content": "每一个傻屌作者都有一颗向往正经的心（除了火鸟，笑:-D）",
+        "createtime": 1588763620,
+        "nickname": "雨下扬鸥",
+        "avatar": "https://avatar.dmzj.com/15/00/150096c41e19e0a0dc4f8e653311b3df.png"
+      },
+      {
+        "comment_id": 25917968,
+        "uid": 109433507,
+        "content": "这本一直印象很深刻啊",
+        "createtime": 1585704979,
+        "nickname": "姬宫安希",
+        "avatar": "https://avatar.dmzj.com/cb/c9/cbc94250f36c9879e2d2c58f7f37890e.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

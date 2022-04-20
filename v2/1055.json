@@ -1,0 +1,97 @@
+{
+  "id": 1055,
+  "islong": 2,
+  "direction": 2,
+  "title": "悲伤恋歌",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/bslg.jpg",
+  "description": "悲伤恋歌",
+  "last_updatetime": 1178197740,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 101239,
+  "hit_num": 2999894,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 75,
+      "tag_name": "申旨翔·旨奥"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 560,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 1651,
+          "chapter_title": "5卷",
+          "updatetime": 1178197740,
+          "filesize": 15120806,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 1650,
+          "chapter_title": "4卷",
+          "updatetime": 1178197740,
+          "filesize": 14970662,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 1649,
+          "chapter_title": "3卷",
+          "updatetime": 1178197740,
+          "filesize": 13614695,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 1648,
+          "chapter_title": "2卷",
+          "updatetime": 1178197740,
+          "filesize": 14001957,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 1647,
+          "chapter_title": "1卷",
+          "updatetime": 1178197740,
+          "filesize": 13673452,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 27278172,
+        "uid": 101101695,
+        "content": "点开我就知道不是什么好结局，但是还是想看结局到底写成什么样子，真的胃疼这结局，建议大家别入坑了……",
+        "createtime": 1589128283,
+        "nickname": "滞后者",
+        "avatar": "https://avatar.dmzj.com/81/03/8103b03f8ad655a4afb35e7ae85d5544.png"
+      },
+      {
+        "comment_id": 10897353,
+        "uid": 108678554,
+        "content": "马",
+        "createtime": 1549205934,
+        "nickname": "dmzj_108678554",
+        "avatar": "https://avatar.dmzj.com/af/a6/afa680124f7efa2f502b11ef046dc8a5.png"
+      }
+    ]
+  }
+}

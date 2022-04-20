@@ -1,0 +1,83 @@
+{
+  "id": 15823,
+  "islong": 2,
+  "direction": 1,
+  "title": "怕冷的人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/liangleng.jpg",
+  "description": "好熱好熱。。。 --------------Mimoto",
+  "last_updatetime": 1542817387,
+  "copyright": 0,
+  "first_letter": "p",
+  "hot_num": 1792250,
+  "hit_num": 315426,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7833,
+      "tag_name": " みもと(mimoto)"
+    }
+  ],
+  "subscribe_num": 8484,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78388,
+          "chapter_title": "2话",
+          "updatetime": 1542817387,
+          "filesize": 1262391,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 78387,
+          "chapter_title": "1.5话",
+          "updatetime": 1542817326,
+          "filesize": 184884,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 31344,
+          "chapter_title": "1话",
+          "updatetime": 1413251475,
+          "filesize": 423601,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 245,
+    "latest_comment": [
+      {
+        "comment_id": 30033820,
+        "uid": 102115540,
+        "content": "ll",
+        "createtime": 1598726829,
+        "nickname": "芥梦",
+        "avatar": "https://avatar.dmzj.com/81/16/811623d14ac857b6242a0e9dbd7a3abb.png"
+      },
+      {
+        "comment_id": 29916291,
+        "uid": 104923903,
+        "content": "你到底怕冷还是怕热",
+        "createtime": 1598287915,
+        "nickname": "莫得理智的咸鱼",
+        "avatar": "https://avatar.dmzj.com/70/81/7081a5ead0fc2639831346cfdadefe26.png"
+      }
+    ]
+  }
+}

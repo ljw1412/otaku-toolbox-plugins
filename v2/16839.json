@@ -1,0 +1,75 @@
+{
+  "id": 16839,
+  "islong": 2,
+  "direction": 1,
+  "title": "照不出来的亲密距离",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/zhaobuchulaidetbjl.jpg",
+  "description": "Love Live!的同人漫画。",
+  "last_updatetime": 1421813470,
+  "last_update_chapter_name": "(C87)全一话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zbcldqmjl",
+  "hidden": 0,
+  "hot_num": 51331,
+  "hit_num": 228724,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 33864,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8406,
+      "tag_name": "伊月クロ"
+    }
+  ],
+  "subscribe_num": 250,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33864,
+          "chapter_title": "1话",
+          "updatetime": 1421813470,
+          "filesize": 4239390,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 29074722,
+        "uid": 105365543,
+        "content": "啊这，这是花阳正宫的余裕吗？",
+        "createtime": 1595171980,
+        "nickname": "海绵宝宝章鱼哥",
+        "avatar": "https://avatar.dmzj.com/95/64/956480954385a75f8d7510cad7fbc9c9.png"
+      },
+      {
+        "comment_id": 29057692,
+        "uid": 105622433,
+        "content": "？三人行不好",
+        "createtime": 1595116501,
+        "nickname": "柳川沙奈",
+        "avatar": "https://avatar.dmzj.com/92/91/929130e678661105c383283afb726cbb.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

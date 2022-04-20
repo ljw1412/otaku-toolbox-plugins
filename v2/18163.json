@@ -1,0 +1,100 @@
+{
+  "id": 18163,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠：戈登法则",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/gedengfaze.jpg",
+  "description": "离开蝙蝠侠，戈登局长能凭自己解决棘手事件吗……哥谭版无间道，带你领略民风淳朴，啊不，民风彪悍的哥谭风土人情",
+  "last_updatetime": 1429071728,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gedengfaze",
+  "hidden": 0,
+  "hot_num": 55597,
+  "hit_num": 53247,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 36122,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 329,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36122,
+          "chapter_title": "4卷",
+          "updatetime": 1429071728,
+          "filesize": 4093257,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 36121,
+          "chapter_title": "3卷",
+          "updatetime": 1429071699,
+          "filesize": 4439938,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 36120,
+          "chapter_title": "2卷",
+          "updatetime": 1429071667,
+          "filesize": 4531313,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 36119,
+          "chapter_title": "1卷",
+          "updatetime": 1429071646,
+          "filesize": 5227768,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 19294305,
+        "uid": 104276045,
+        "content": "画风好酷",
+        "createtime": 1565560059,
+        "nickname": "Star Sky13453",
+        "avatar": "https://avatar.dmzj.com/40/95/409561874fd8bfbcd430f01b75b46e5d.png"
+      },
+      {
+        "comment_id": 13306674,
+        "uid": 108075666,
+        "content": "哈哈哈戈登侠",
+        "createtime": 1553483961,
+        "nickname": "巧07555",
+        "avatar": "https://avatar.dmzj.com/5b/7a/5b7ad9d50b86e3a86359f5c262c66cd6.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

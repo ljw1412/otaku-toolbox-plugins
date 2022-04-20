@@ -1,0 +1,97 @@
+{
+  "id": 19300,
+  "islong": 2,
+  "direction": 1,
+  "title": "白鹿小径",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/blxj48569l.jpg",
+  "description": "青年爱上的是一头美丽的……鹿！？",
+  "last_updatetime": 1516861895,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 521839,
+  "hit_num": 200437,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6978,
+      "tag_name": "ありいめめこ"
+    }
+  ],
+  "subscribe_num": 2696,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73401,
+          "chapter_title": "5话",
+          "updatetime": 1516861895,
+          "filesize": 1588288,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 73400,
+          "chapter_title": "4话",
+          "updatetime": 1516861881,
+          "filesize": 1821960,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 42235,
+          "chapter_title": "3话",
+          "updatetime": 1434901874,
+          "filesize": 2464482,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 42234,
+          "chapter_title": "2话",
+          "updatetime": 1434901857,
+          "filesize": 2312350,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 42233,
+          "chapter_title": "1话",
+          "updatetime": 1434901837,
+          "filesize": 3276268,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 36,
+    "latest_comment": [
+      {
+        "comment_id": 17777360,
+        "uid": 105454401,
+        "content": "我想问谁是受，我不想站反",
+        "createtime": 1562158996,
+        "nickname": "银子小姐",
+        "avatar": "https://avatar.dmzj.com/dd/b7/ddb70ff867737c2a60c1e87b262839bf.png"
+      },
+      {
+        "comment_id": 17003154,
+        "uid": 108580458,
+        "content": "鹿好可爱",
+        "createtime": 1560177260,
+        "nickname": "茕茕孑立与踽踽独行",
+        "avatar": "https://avatar.dmzj.com/af/70/af70da3335be41841f14d36a05a99a44.png"
+      }
+    ]
+  }
+}

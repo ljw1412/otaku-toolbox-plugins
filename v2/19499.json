@@ -1,0 +1,67 @@
+{
+  "id": 19499,
+  "islong": 2,
+  "direction": 2,
+  "title": "八月物语",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1002238011435632348.jpg",
+  "description": "旧作",
+  "last_updatetime": 1435632384,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 4597,
+  "hit_num": 32477,
+  "uid": 100223801,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9743,
+      "tag_name": "九魂儿"
+    }
+  ],
+  "subscribe_num": 39,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38523,
+          "chapter_title": "1话",
+          "updatetime": 1435632384,
+          "filesize": 905812,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 422950,
+        "uid": 27122549,
+        "content": "一楼先",
+        "createtime": 1435989116,
+        "nickname": "期代国产有5分",
+        "avatar": "https://avatar.dmzj.com/3d/d1/3dd1b9ebdd54d0c812756d659dfa2b60.png"
+      }
+    ]
+  }
+}

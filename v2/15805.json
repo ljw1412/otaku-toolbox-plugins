@@ -1,0 +1,77 @@
+{
+  "id": 15805,
+  "islong": 2,
+  "direction": 1,
+  "title": "娱乐部活动~",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/akph78695987.jpg",
+  "description": "发现自己即将毕业的京子，带着大家进行了一系列的娱乐部的活动~结果却发现···",
+  "last_updatetime": 1413007384,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 64957,
+  "hit_num": 185574,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6110,
+      "tag_name": "北原朋萌"
+    }
+  ],
+  "subscribe_num": 325,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34625,
+          "chapter_title": "1话",
+          "updatetime": 1413007384,
+          "filesize": 4185300,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 28322008,
+        "uid": 108449780,
+        "content": "hehie",
+        "createtime": 1592720071,
+        "nickname": "宫吧社保局",
+        "avatar": "https://avatar.dmzj.com/16/04/1604ee5add0fe5fb6233b3f9f489cf75.png"
+      },
+      {
+        "comment_id": 27977981,
+        "uid": 102408521,
+        "content": "呀嘞呀嘞daze",
+        "createtime": 1591463716,
+        "nickname": "鳰入",
+        "avatar": "https://avatar.dmzj.com/94/76/9476b4a13ab3fcb7e1558871e6c0a3f9.png"
+      }
+    ]
+  }
+}

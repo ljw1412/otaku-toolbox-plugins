@@ -1,0 +1,69 @@
+{
+  "id": 10985,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方盐不足",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/dongfangyanbuzu.jpg",
+  "description": "蕾米莉亚想在幻想乡创造海滩的无厘头故事。",
+  "last_updatetime": 1366251532,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 737798,
+  "hit_num": 436550,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5567,
+      "tag_name": "ノヤマコト(乃屋)"
+    }
+  ],
+  "subscribe_num": 3266,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22570,
+          "chapter_title": "1话",
+          "updatetime": 1366251532,
+          "filesize": 5076790,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 25552758,
+        "uid": 104730651,
+        "content": "后续清理就是个问题啊，那么大个火锅，大家都懂的。",
+        "createtime": 1584853510,
+        "nickname": "╰尒是伯爵の猫39261",
+        "avatar": "https://avatar.dmzj.com/23/00/2300143807d9339f748a7c4ff6da35dc.png"
+      },
+      {
+        "comment_id": 24031520,
+        "uid": 108633913,
+        "content": "路sea法笑死我了",
+        "createtime": 1581451704,
+        "nickname": "dmzj_108633913",
+        "avatar": "https://avatar.dmzj.com/26/64/2664cd427d94f0a13ce610f4d13c817c.png"
+      }
+    ]
+  }
+}

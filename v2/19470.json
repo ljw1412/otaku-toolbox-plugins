@@ -1,0 +1,63 @@
+{
+  "id": 19470,
+  "islong": 2,
+  "direction": 2,
+  "title": "见鬼高中生",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1002191641435310941.jpg",
+  "description": "见鬼高中生",
+  "last_updatetime": 1435311070,
+  "copyright": 1,
+  "first_letter": "j",
+  "hot_num": 3779,
+  "hit_num": 24883,
+  "uid": 100219164,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9726,
+      "tag_name": "亚琦贝莉"
+    }
+  ],
+  "subscribe_num": 23,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42420,
+          "chapter_title": "1话",
+          "updatetime": 1435311070,
+          "filesize": 660457,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 532527,
+        "uid": 100500433,
+        "content": "故事应该不错，就是画风略粗糙，最后那个“恩？”是要走搞笑路线嘛哈哈",
+        "createtime": 1449327283,
+        "nickname": "我家UU君呀",
+        "avatar": "https://avatar.dmzj.com/ea/8a/ea8a0c1cf5152835296b7c3778f20dbf.png"
+      }
+    ]
+  }
+}

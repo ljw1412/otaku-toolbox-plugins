@@ -1,0 +1,75 @@
+{
+  "id": 11415,
+  "islong": 2,
+  "direction": 1,
+  "title": "大家都爱的尾巴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/dajiadouaideweiba.jpg",
+  "description": "与蓝大人尾巴相关的同人本。",
+  "last_updatetime": 1369378101,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dajiadouaideweiba",
+  "hidden": 0,
+  "hot_num": 29813,
+  "hit_num": 218918,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23282,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6009,
+      "tag_name": "その他大勢"
+    }
+  ],
+  "subscribe_num": 146,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23282,
+          "chapter_title": "1话",
+          "updatetime": 1369378101,
+          "filesize": 4314755,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 28124975,
+        "uid": 105877380,
+        "content": "我也好想蹭一蹭啊。",
+        "createtime": 1592016312,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      },
+      {
+        "comment_id": 27179595,
+        "uid": 105147690,
+        "content": "没人啊",
+        "createtime": 1588838795,
+        "nickname": "沉默的黑曜石",
+        "avatar": "https://avatar.dmzj.com/16/48/164891fb0a25b8c7c42bf9d81b45e42f.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,73 @@
+{
+  "id": 11923,
+  "islong": 2,
+  "direction": 1,
+  "title": "进击的巨人四格小黄漫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/jurensigexiaohuangman.jpg",
+  "description": "三哥与艾伦小天使的欢乐日常。",
+  "last_updatetime": 1372750281,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 1335854,
+  "hit_num": 1974513,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5692,
+      "tag_name": "hounori"
+    }
+  ],
+  "subscribe_num": 5886,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22850,
+          "chapter_title": "第一辑",
+          "updatetime": 1372750281,
+          "filesize": 1246755,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 655,
+    "latest_comment": [
+      {
+        "comment_id": 30073219,
+        "uid": 108875963,
+        "content": "有点意思",
+        "createtime": 1598900410,
+        "nickname": "dmzj_108875963",
+        "avatar": "https://avatar.dmzj.com/93/9f/939f92de056e0db66d086a1a96b461b6.png"
+      },
+      {
+        "comment_id": 30068638,
+        "uid": 111374306,
+        "content": "还会更新吗？感觉挺棒的呢",
+        "createtime": 1598888230,
+        "nickname": "dmzj_111374306",
+        "avatar": "https://avatar.dmzj.com/e7/de/e7de32090f58543318667b46f122f222.png"
+      }
+    ]
+  }
+}

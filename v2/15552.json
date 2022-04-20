@@ -1,0 +1,97 @@
+{
+  "id": 15552,
+  "islong": 2,
+  "direction": 1,
+  "title": "今天变成马",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/IMGjtbchengma09080001.jpg",
+  "description": "在马场突然遇到赤裸上身，还热情（对自己的马）表白的帅哥！这是什么情况！？帅哥的下半身还是马！？",
+  "last_updatetime": 1430576517,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 334396,
+  "hit_num": 542534,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4812,
+      "tag_name": "慎本真"
+    }
+  ],
+  "subscribe_num": 1896,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40798,
+          "chapter_title": "6话",
+          "updatetime": 1430576517,
+          "filesize": 1178813,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 39832,
+          "chapter_title": "5话",
+          "updatetime": 1427989627,
+          "filesize": 1267336,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 35999,
+          "chapter_title": "4话",
+          "updatetime": 1417621170,
+          "filesize": 1109893,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 34711,
+          "chapter_title": "3话",
+          "updatetime": 1412949687,
+          "filesize": 1101347,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 34125,
+          "chapter_title": "1话",
+          "updatetime": 1410189837,
+          "filesize": 2141259,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 42,
+    "latest_comment": [
+      {
+        "comment_id": 29488990,
+        "uid": 105586470,
+        "content": "五年没更新了。。",
+        "createtime": 1596649074,
+        "nickname": "鸭酱",
+        "avatar": "https://avatar.dmzj.com/35/78/3578ca1788049a3f1a2b5d4cc4b0095e.png"
+      },
+      {
+        "comment_id": 27997845,
+        "uid": 108794110,
+        "content": "这个还会更新吗",
+        "createtime": 1591541399,
+        "nickname": "dmzj_108794110",
+        "avatar": "https://avatar.dmzj.com/39/98/3998d69977bc41fb4f90a1eb047c4a09.png"
+      }
+    ]
+  }
+}

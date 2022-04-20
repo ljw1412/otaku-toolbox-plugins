@@ -1,0 +1,73 @@
+{
+  "id": 11710,
+  "islong": 2,
+  "direction": 1,
+  "title": "购物的亡灵",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/gouwudewangling.jpg",
+  "description": "东方同人漫画。",
+  "last_updatetime": 1371200996,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 25035,
+  "hit_num": 216443,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6156,
+      "tag_name": "幽明樱"
+    }
+  ],
+  "subscribe_num": 90,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23681,
+          "chapter_title": "1话",
+          "updatetime": 1371200996,
+          "filesize": 2968296,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 22893001,
+        "uid": 106380904,
+        "content": "寿命论什么的最讨厌了",
+        "createtime": 1577484060,
+        "nickname": "索伦森",
+        "avatar": "https://avatar.dmzj.com/0f/db/0fdb146d5c16ac8fcd5d9e7b31ecb615.png"
+      },
+      {
+        "comment_id": 20964416,
+        "uid": 109394250,
+        "content": "就说画风这么眼熟，原来是彩社长",
+        "createtime": 1570310799,
+        "nickname": "dmzj_109394250",
+        "avatar": "https://avatar.dmzj.com/2a/11/2a117c32f327f49eaa07db66b0c3cda9.png"
+      }
+    ]
+  }
+}

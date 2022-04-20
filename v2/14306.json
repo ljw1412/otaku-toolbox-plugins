@@ -1,0 +1,73 @@
+{
+  "id": 14306,
+  "islong": 2,
+  "direction": 1,
+  "title": "LADY COOL",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/ladycoolmanh.jpg",
+  "description": "被追杀的少年与手持收音机的迷之女保镖cool的相遇，到底会发生什么呢？",
+  "last_updatetime": 1396750859,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 23194,
+  "hit_num": 141887,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 100,
+      "tag_name": "许斐刚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 98,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27762,
+          "chapter_title": "1话",
+          "updatetime": 1396750859,
+          "filesize": 1686437,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 321357,
+        "uid": 26044561,
+        "content": "＜一＞卷還在連載，但似乎漢化組棄坑了。。。",
+        "createtime": 1416300616,
+        "nickname": "京子flo",
+        "avatar": "https://avatar.dmzj.com/f2/c2/f2c23c3e9ca3d57ccfb7b2d1c442c12c.png"
+      },
+      {
+        "comment_id": 222832,
+        "uid": 12910101,
+        "content": "终于有汉化了",
+        "createtime": 1396761901,
+        "nickname": "rxczklszj",
+        "avatar": "https://avatar.dmzj.com/0b/7b/0b7b2c822ace530cf3e4b3ca99d5222b.png"
+      }
+    ]
+  }
+}

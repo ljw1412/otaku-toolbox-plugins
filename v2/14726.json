@@ -1,0 +1,75 @@
+{
+  "id": 14726,
+  "islong": 2,
+  "direction": 1,
+  "title": "Home Sweet Recipe",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/112215sizpp4pzfsi2kp43.jpg",
+  "description": "有你的厨房 幸福的时光<br>\n一起来做吧！...",
+  "last_updatetime": 1402199679,
+  "last_update_chapter_name": "全一话",
+  "copyright": 3,
+  "first_letter": "h",
+  "comic_py": "homewweetrecipe",
+  "hidden": 0,
+  "hot_num": 42886,
+  "hit_num": 117874,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 28807,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6493,
+      "tag_name": "井村瑛"
+    }
+  ],
+  "subscribe_num": 168,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 28807,
+          "chapter_title": "1话",
+          "updatetime": 1402199679,
+          "filesize": 1180208,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 29151248,
+        "uid": 101604927,
+        "content": "棒哇棒哇，留眼",
+        "createtime": 1595432660,
+        "nickname": "流鼻血不要用纸",
+        "avatar": "https://avatar.dmzj.com/ba/95/ba95ede2f9c58b61ac601f0e25535f59.png"
+      },
+      {
+        "comment_id": 25125689,
+        "uid": 107565713,
+        "content": "好！蜜柑大福我也会做了！那么女孩子哪里领",
+        "createtime": 1583867886,
+        "nickname": "互攻",
+        "avatar": "https://avatar.dmzj.com/48/85/4885a032b15ef584992965ea01eabc9e.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}
