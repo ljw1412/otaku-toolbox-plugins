@@ -27,7 +27,10 @@ function createACGRuleList(type) {
     return only(config, 'name namespace icon url type version')
   })
   console.log(list)
-  fs.writeFileSync(join(ACG_DIR, 'list.json'), JSON.stringify(list))
+  fs.writeFileSync(
+    join(ACG_DIR, 'list.json'),
+    JSON.stringify(list.filter((item) => item.version !== -999))
+  )
 }
 
 createPluginList()

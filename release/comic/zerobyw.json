@@ -1,0 +1,43 @@
+{
+  "name": "zore搬运网",
+  "namespace": "zerobyw",
+  "icon": "http://www.zerobywtxt.com/favicon.ico",
+  "url": "http://www.zerobywtxt.com",
+  "type": "comic-book",
+  "version": -999,
+  "pages": [
+    {
+      "name": "全部",
+      "url": "http://www.zerobywtxt.com/plugin.php?id=jameson_manhua&c=index&a=ku&&page={:page}",
+      "mode": "html",
+      "data": { "pageTotal": ".page .last|text|match#\\d+" },
+      "items": ".rootcate .uk-card",
+      "itemData": {
+        "id": ".uk-text-truncate a|@href|match#kuid=\\d+",
+        "path": ".uk-text-truncate a|@href|match#\\?(.+)#1",
+        "title": ".uk-text-truncate a|text",
+        "cover": ".uk-card-media-top img|@src"
+      }
+    }
+  ],
+  "details": {
+    "url": "http://www.zerobywtxt.com/plugin.php?{:path}",
+    "mode": "html",
+    "data": {
+      "title": "h3.uk-heading-line:first-child|text|match#\\S+",
+      "tags": ".cl .uk-label|map-text",
+      "cover": ".bofangwrap .uk-width-medium img|@src",
+      "desc": ".bofangwrap .uk-width-expand .uk-margin-left .uk-alert|text|trim",
+      "data.formhash": "input[name=\"formhash\"]|val",
+      "data.kuid": "a.uk-button:contains(收藏)|@onclick|match#\\((\\d+),#1",
+      "data.id": "=jameson_manhua:ajax",
+      "data.optype": "=getimglist"
+    },
+    "items": ".bofangwrap .uk-width-expand .uk-grid-collapse.uk-child-width-1-4 .muludiv",
+    "itemData": {
+      "name": "a.uk-button.uk-button-default|text|trim",
+      "path": "a.uk-button.uk-button-default|@href|match#\\?(.+)#1",
+      "data.zjid": "a.uk-button.uk-button-default|@href|match#zjid=(\\d+)#1"
+    }
+  }
+}
