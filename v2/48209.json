@@ -1,0 +1,80 @@
+{
+  "id": 48209,
+  "islong": 2,
+  "direction": 1,
+  "title": "GARROTE",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/190421garrote.jpg",
+  "description": "关于东方的短篇",
+  "last_updatetime": 1555832109,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 461188,
+  "hit_num": 14800,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15004,
+      "tag_name": "江口"
+    }
+  ],
+  "subscribe_num": 2105,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 84149,
+          "chapter_title": "2话",
+          "updatetime": 1555832109,
+          "filesize": 717144,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 84148,
+          "chapter_title": "1话",
+          "updatetime": 1555832074,
+          "filesize": 1822876,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 105,
+    "latest_comment": [
+      {
+        "comment_id": 29790504,
+        "uid": 109979682,
+        "content": "平行世界的公师傅好渣啊，下床不认人",
+        "createtime": 1597837573,
+        "nickname": "高级堕落",
+        "avatar": "https://avatar.dmzj.com/f1/61/f161945e21d2c0c7e03558728d481817.png"
+      },
+      {
+        "comment_id": 26347269,
+        "uid": 110398730,
+        "content": "留",
+        "createtime": 1586584098,
+        "nickname": "dmzj_110398730",
+        "avatar": "https://avatar.dmzj.com/a9/62/a962bf085776c27f171f7b478dfec18d.png"
+      }
+    ]
+  }
+}

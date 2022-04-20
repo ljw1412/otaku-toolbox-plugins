@@ -1,0 +1,73 @@
+{
+  "id": 4608,
+  "islong": 2,
+  "direction": 1,
+  "title": "黄帝传奇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/hdcq01-001_fcd5f3a91befbb66a9793d14e3a6edff.jpg",
+  "description": "黄帝传奇一共5期，这是合订本",
+  "last_updatetime": 1279460721,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 5984,
+  "hit_num": 521151,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1504,
+      "tag_name": "袁家宝"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 16,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10060,
+          "chapter_title": "1卷",
+          "updatetime": 1280065521,
+          "filesize": 18581874,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 19150102,
+        "uid": 107263861,
+        "content": "袁家宝的漫画还是不错的，可惜从玉皇朝出走了",
+        "createtime": 1565234410,
+        "nickname": "dmzj_107263861",
+        "avatar": "https://avatar.dmzj.com/43/51/4351c46c011ce10d0c80811ed12f44ca.png"
+      },
+      {
+        "comment_id": 9147382,
+        "uid": 104754594,
+        "content": "来瞅瞅",
+        "createtime": 1545068926,
+        "nickname": "衰帅",
+        "avatar": "https://avatar.dmzj.com/32/70/32704766fa6b44eccd892e9f28854998.png"
+      }
+    ]
+  }
+}

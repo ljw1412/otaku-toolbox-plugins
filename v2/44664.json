@@ -1,0 +1,86 @@
+{
+  "id": 44664,
+  "islong": 2,
+  "direction": 2,
+  "title": "海岛大陆",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1072993291568521220.jpg",
+  "description": "融入中国武术和武侠元素，一个关于成长、信念、友情、亲情、师徒情、爱情的故事。",
+  "last_updatetime": 1596857977,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 7099,
+  "hit_num": 178358,
+  "uid": 107299329,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 3324,
+      "tag_name": "武侠"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15133,
+      "tag_name": "猫头鹰"
+    }
+  ],
+  "subscribe_num": 31,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102085,
+          "chapter_title": "2话",
+          "updatetime": 1596857977,
+          "filesize": 2118286,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 88819,
+          "chapter_title": "1话",
+          "updatetime": 1568520858,
+          "filesize": 3850359,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "希望大家多多提意见...",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 21047321,
+        "uid": 107619162,
+        "content": "莫得人？？",
+        "createtime": 1570458050,
+        "nickname": "谜之萌友",
+        "avatar": "https://avatar.dmzj.com/74/51/7451c8227648d7a1ceb9eaf704cdcc77.png"
+      },
+      {
+        "comment_id": 11311599,
+        "uid": 104419182,
+        "content": "看完第一话，感觉不错？",
+        "createtime": 1550031574,
+        "nickname": "長武久生",
+        "avatar": "https://avatar.dmzj.com/5e/c1/5ec13017755a7ee88a179238043472c5.png"
+      }
+    ]
+  }
+}

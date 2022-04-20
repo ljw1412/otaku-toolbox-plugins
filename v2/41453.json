@@ -1,0 +1,101 @@
+{
+  "id": 41453,
+  "islong": 2,
+  "direction": 1,
+  "title": "悠哉茶室",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/170908chadao.jpg",
+  "description": "茶道新人山田忍突发奇想带着好友猿谷梨花 鲇川学一起组建了茶道部 。。原本是这样的剧情发展!?\n美少女\"茶道\" 喜剧!!",
+  "last_updatetime": 1517572187,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 463143,
+  "hit_num": 81355,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13732,
+      "tag_name": "のすく"
+    }
+  ],
+  "subscribe_num": 2205,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67586,
+          "chapter_title": "5话",
+          "updatetime": 1517572187,
+          "filesize": 977110,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 65451,
+          "chapter_title": "4话",
+          "updatetime": 1512030103,
+          "filesize": 2318758,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 64932,
+          "chapter_title": "3话",
+          "updatetime": 1510676514,
+          "filesize": 683936,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 64702,
+          "chapter_title": "2话",
+          "updatetime": 1510102999,
+          "filesize": 794306,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 62985,
+          "chapter_title": "1话",
+          "updatetime": 1504835774,
+          "filesize": 1004804,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 64,
+    "latest_comment": [
+      {
+        "comment_id": 29272089,
+        "uid": 111125494,
+        "content": "刚找到",
+        "createtime": 1595871446,
+        "nickname": "因为戴着橘色眼镜",
+        "avatar": "https://avatar.dmzj.com/51/57/5157a012a2d83028c38cb3b7da1c5b64.png"
+      },
+      {
+        "comment_id": 25163234,
+        "uid": 100168032,
+        "content": "两年没更了",
+        "createtime": 1583958085,
+        "nickname": "京子大放送",
+        "avatar": "https://avatar.dmzj.com/85/89/85892f4bda569194388affd335609101.png"
+      }
+    ]
+  }
+}

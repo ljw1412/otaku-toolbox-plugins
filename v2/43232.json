@@ -1,0 +1,77 @@
+{
+  "id": 43232,
+  "islong": 2,
+  "direction": 1,
+  "title": "乙女百合",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/yinvbaihe.jpg",
+  "description": "儿童向，最强妖怪谈笑风生的故事",
+  "last_updatetime": 1519463526,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 166089,
+  "hit_num": 32456,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14502,
+      "tag_name": "Y2"
+    },
+    {
+      "tag_id": 14503,
+      "tag_name": "草加あおい"
+    }
+  ],
+  "subscribe_num": 663,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74048,
+          "chapter_title": "1话",
+          "updatetime": 1519463526,
+          "filesize": 4100583,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 48,
+    "latest_comment": [
+      {
+        "comment_id": 27665500,
+        "uid": 101154912,
+        "content": "花田丑妇与紫色老太婆",
+        "createtime": 1590368273,
+        "nickname": "天空微雨",
+        "avatar": "https://avatar.dmzj.com/8b/98/8b98a2342dfc2dd489f947cdcf001817.png"
+      },
+      {
+        "comment_id": 24768643,
+        "uid": 109541430,
+        "content": "安定的儿童向",
+        "createtime": 1583128904,
+        "nickname": "Komeijikoishgawa",
+        "avatar": "https://avatar.dmzj.com/21/89/218953a56127cb2d4f743cf9b92ace3e.png"
+      }
+    ]
+  }
+}

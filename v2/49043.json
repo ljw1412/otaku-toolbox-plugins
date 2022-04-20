@@ -1,0 +1,69 @@
+{
+  "id": 49043,
+  "islong": 2,
+  "direction": 1,
+  "title": "2Y+Y=?",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/190703jia.jpg",
+  "description": "东方同人漫画。",
+  "last_updatetime": 1562170057,
+  "copyright": 0,
+  "first_letter": "e",
+  "hot_num": 82087,
+  "hit_num": 2554,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17318,
+      "tag_name": "泉田一角"
+    }
+  ],
+  "subscribe_num": 296,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85636,
+          "chapter_title": "1话",
+          "updatetime": 1562170057,
+          "filesize": 5591920,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 56,
+    "latest_comment": [
+      {
+        "comment_id": 22768736,
+        "uid": 105727211,
+        "content": "嘤嘤嘤",
+        "createtime": 1576999240,
+        "nickname": "上官晨墨",
+        "avatar": "https://avatar.dmzj.com/49/73/49736eef55cc3fe14c936010e5f08a0e.png"
+      },
+      {
+        "comment_id": 22206404,
+        "uid": 107805003,
+        "content": "固定诱导立场发生器",
+        "createtime": 1574187886,
+        "nickname": "子岳",
+        "avatar": "https://avatar.dmzj.com/37/20/37206e2cce5c97e3c4510f6aa9868633.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 3967,
+  "islong": 2,
+  "direction": 2,
+  "title": "黑暗映象",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/001_af9be0af1a4fe600b0aa4aced078a3bb.jpg",
+  "description": "日东升,新的一天降临.饱载着亿万人的希冀和梦想,地表苏醒了.但如我痛苦所知,同样包含的是他人徒劳的努力.在幽暗之地没有可以比拟费伦的日出之物.昼夜不分,四季不存.当黑暗无穷尽之时...",
+  "last_updatetime": 1276655482,
+  "last_update_chapter_name": "CH02",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "heianyinxian",
+  "hidden": 0,
+  "hot_num": 20622,
+  "hit_num": 111067,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 9271,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2388,
+      "tag_name": "R.A. Salvatore"
+    }
+  ],
+  "subscribe_num": 95,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9271,
+          "chapter_title": "2话",
+          "updatetime": 1277260283,
+          "filesize": 2630329,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9270,
+          "chapter_title": "1话",
+          "updatetime": 1277260283,
+          "filesize": 2190438,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "is_need_login": 0
+}

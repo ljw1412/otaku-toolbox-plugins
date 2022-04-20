@@ -1,0 +1,80 @@
+{
+  "id": 49609,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔女和银发姐妹",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/190813yinfa.jpg",
+  "description": "魔女的奥义——蜂蜜润喉糖！",
+  "last_updatetime": 1565665811,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 550499,
+  "hit_num": 13196,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17607,
+      "tag_name": "江波泽"
+    }
+  ],
+  "subscribe_num": 2497,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87787,
+          "chapter_title": "2话",
+          "updatetime": 1565665811,
+          "filesize": 313466,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 87786,
+          "chapter_title": "1话",
+          "updatetime": 1565665798,
+          "filesize": 463708,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 70,
+    "latest_comment": [
+      {
+        "comment_id": 21336626,
+        "uid": 100928605,
+        "content": "超容易搞定的魔女",
+        "createtime": 1571129822,
+        "nickname": "Ayayaaa酱",
+        "avatar": "https://avatar.dmzj.com/44/54/4454da6a6e4b10e45396bfe6b3bfd2a8.png"
+      },
+      {
+        "comment_id": 20404554,
+        "uid": 105183681,
+        "content": "？看不懂",
+        "createtime": 1568772190,
+        "nickname": "吃雪糕的猫",
+        "avatar": "https://avatar.dmzj.com/55/7c/557c1f1902b26da8d7388df04a9e483a.png"
+      }
+    ]
+  }
+}

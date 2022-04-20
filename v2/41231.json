@@ -1,0 +1,73 @@
+{
+  "id": 41231,
+  "islong": 2,
+  "direction": 1,
+  "title": "不可思议的泡澡 加贺",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/bukesiydepaiz.jpg",
+  "description": "加贺的奇妙经历",
+  "last_updatetime": 1502722187,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 420772,
+  "hit_num": 90916,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10401,
+      "tag_name": "リヨ"
+    }
+  ],
+  "subscribe_num": 1834,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66726,
+          "chapter_title": "1话",
+          "updatetime": 1502725533,
+          "filesize": 1253731,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 63,
+    "latest_comment": [
+      {
+        "comment_id": 29948097,
+        "uid": 107673693,
+        "content": "这咖喱给我来一大碗！",
+        "createtime": 1598404246,
+        "nickname": "吐槽役也有春天",
+        "avatar": "https://avatar.dmzj.com/61/51/6151290d029fd34edfcf9cc42d912440.png"
+      },
+      {
+        "comment_id": 25871942,
+        "uid": 107257894,
+        "content": "你的画风很社保，内容却很混沌，你究竟是什么人？",
+        "createtime": 1585587701,
+        "nickname": "长袊",
+        "avatar": "https://avatar.dmzj.com/12/35/1235981a9a93a127d5ca5d956062999c.png"
+      }
+    ]
+  }
+}

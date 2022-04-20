@@ -1,0 +1,103 @@
+{
+  "id": 47331,
+  "islong": 2,
+  "direction": 1,
+  "title": "碧蓝幻想官方设定集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/Granblue_Fantasy_Graphic_Archive_000.jpg",
+  "description": "碧蓝幻想(Granblue Fantasy)官方设定集",
+  "last_updatetime": 1549033228,
+  "last_update_chapter_name": "第4.5卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bilanhuanxiangguanfangshedinji",
+  "hidden": 0,
+  "hot_num": 1142491,
+  "hit_num": 1272797,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 85474,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12121,
+      "tag_name": "Cygames"
+    }
+  ],
+  "subscribe_num": 5412,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85474,
+          "chapter_title": "4.5卷",
+          "updatetime": 1549033228,
+          "filesize": 16468422,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 85473,
+          "chapter_title": "4卷",
+          "updatetime": 1549033161,
+          "filesize": 23310732,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 85470,
+          "chapter_title": "3卷",
+          "updatetime": 1549031465,
+          "filesize": 25546349,
+          "chapter_order": 12
+        },
+        {
+          "chapter_id": 85469,
+          "chapter_title": "2卷",
+          "updatetime": 1549028994,
+          "filesize": 22955849,
+          "chapter_order": 11
+        },
+        {
+          "chapter_id": 85461,
+          "chapter_title": "1卷",
+          "updatetime": 1549023005,
+          "filesize": 28795681,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 191,
+    "latest_comment": [
+      {
+        "comment_id": 30007709,
+        "uid": 107506486,
+        "content": "(T＿T)太强了",
+        "createtime": 1598629401,
+        "nickname": "dmzj_107506486",
+        "avatar": "https://avatar.dmzj.com/ce/66/ce665c92e170893d6695a132fe681332.png"
+      },
+      {
+        "comment_id": 28844003,
+        "uid": 101794281,
+        "content": "哇哦",
+        "createtime": 1594402630,
+        "nickname": "beilu",
+        "avatar": "https://avatar.dmzj.com/50/71/507124f0b72496569c9b457e60191a52.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

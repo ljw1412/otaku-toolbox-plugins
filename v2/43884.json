@@ -1,0 +1,73 @@
+{
+  "id": 43884,
+  "islong": 2,
+  "direction": 1,
+  "title": "不恶口禁",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/be0419l.jpg",
+  "description": "东方二次创作漫画，据野田文七同人小说画出来的（大概）",
+  "last_updatetime": 1524068774,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 162907,
+  "hit_num": 66350,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14792,
+      "tag_name": "こゆび"
+    },
+    {
+      "tag_id": 14793,
+      "tag_name": "野田文七"
+    }
+  ],
+  "subscribe_num": 705,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71973,
+          "chapter_title": "1话",
+          "updatetime": 1524068774,
+          "filesize": 7074783,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 15984255,
+        "uid": 108403252,
+        "content": "帅气的画风",
+        "createtime": 1557991851,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      },
+      {
+        "comment_id": 15618604,
+        "uid": 102404571,
+        "content": "眼睛是在被永仪拍肩膀时拍出去的……还行",
+        "createtime": 1557405387,
+        "nickname": "UN-DEAD",
+        "avatar": "https://avatar.dmzj.com/43/30/433002fa918ed1dc25a4305b12b746e7.png"
+      }
+    ]
+  }
+}

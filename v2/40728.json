@@ -1,0 +1,94 @@
+{
+  "id": 40728,
+  "islong": 2,
+  "direction": 2,
+  "title": "超人冒险故事V1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/chaorenmaoxianv1.jpg",
+  "description": "超人冒险故事，和2013并不是一部。",
+  "last_updatetime": 1597301165,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 57474,
+  "hit_num": 62493,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 216,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 60691,
+          "chapter_title": "593卷",
+          "updatetime": 1498316436,
+          "filesize": 3852974,
+          "chapter_order": 593
+        },
+        {
+          "chapter_id": 101722,
+          "chapter_title": "506卷",
+          "updatetime": 1597301165,
+          "filesize": 6495814,
+          "chapter_order": 506
+        },
+        {
+          "chapter_id": 75835,
+          "chapter_title": "500卷",
+          "updatetime": 1536308843,
+          "filesize": 6124054,
+          "chapter_order": 500
+        },
+        {
+          "chapter_id": 62525,
+          "chapter_title": "467卷",
+          "updatetime": 1503563162,
+          "filesize": 3520038,
+          "chapter_order": 467
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 29734675,
+        "uid": 104263360,
+        "content": "所以一开始超级小子的设定和现在不一样吗？以前的是模仿超人能力做出来的，甚至没有热视线而是有心灵感应能力，也不是超人和卢瑟基因的克隆体?",
+        "createtime": 1597625523,
+        "nickname": "梦醒时分04147",
+        "avatar": "https://avatar.dmzj.com/31/52/315225e503270e40f2ac153fd870ec03.png"
+      },
+      {
+        "comment_id": 29654195,
+        "uid": 109756060,
+        "content": "好喜欢",
+        "createtime": 1597302722,
+        "nickname": "糖醋肱二头肌",
+        "avatar": "https://avatar.dmzj.com/22/61/2261283702b53e97b3c611c484df3050.png"
+      }
+    ]
+  }
+}

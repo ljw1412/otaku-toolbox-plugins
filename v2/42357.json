@@ -1,0 +1,75 @@
+{
+  "id": 42357,
+  "islong": 2,
+  "direction": 1,
+  "title": "蕾米莉亚特训！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/171219texun.jpg",
+  "description": "丢人向，无威严的蕾米莉亚大小姐的丢人故事。",
+  "last_updatetime": 1513676568,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "leimiliyatexun",
+  "hidden": 0,
+  "hot_num": 104027,
+  "hit_num": 165341,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 71906,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5950,
+      "tag_name": "いかあし"
+    }
+  ],
+  "subscribe_num": 459,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71906,
+          "chapter_title": "1话",
+          "updatetime": 1513676568,
+          "filesize": 4125876,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 48,
+    "latest_comment": [
+      {
+        "comment_id": 25001501,
+        "uid": 105877380,
+        "content": "车速越来越快了。",
+        "createtime": 1583599217,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      },
+      {
+        "comment_id": 22813533,
+        "uid": 107204549,
+        "content": "卫星",
+        "createtime": 1577165329,
+        "nickname": "口口剑",
+        "avatar": "https://avatar.dmzj.com/59/74/5974f7cc4c884b6df2b4e7f358bcb82d.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

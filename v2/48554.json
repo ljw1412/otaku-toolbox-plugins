@@ -1,0 +1,94 @@
+{
+  "id": 48554,
+  "islong": 2,
+  "direction": 1,
+  "title": "皿三昧",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/5sarazanmai521.jpg",
+  "description": "”不管是联系着还是已经失去，不要放手，欲望是你的命“",
+  "last_updatetime": 1597807339,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 1644596,
+  "hit_num": 77260,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17076,
+      "tag_name": "ミギー"
+    }
+  ],
+  "subscribe_num": 6971,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102447,
+          "chapter_title": "4话",
+          "updatetime": 1597807339,
+          "filesize": 2841475,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 97274,
+          "chapter_title": "3话",
+          "updatetime": 1587729646,
+          "filesize": 9533329,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 88630,
+          "chapter_title": "2话",
+          "updatetime": 1568041114,
+          "filesize": 6918196,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 85135,
+          "chapter_title": "1话",
+          "updatetime": 1558441059,
+          "filesize": 2315332,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 331,
+    "latest_comment": [
+      {
+        "comment_id": 30039034,
+        "uid": 107846091,
+        "content": "巴卡钠",
+        "createtime": 1598762731,
+        "nickname": "无垠ol",
+        "avatar": "https://avatar.dmzj.com/15/21/1521f97a71d29356884afae0c799ce62.png"
+      },
+      {
+        "comment_id": 29983045,
+        "uid": 105497948,
+        "content": "留？",
+        "createtime": 1598538189,
+        "nickname": "//妄想死亡24小时//",
+        "avatar": "https://avatar.dmzj.com/81/97/81979299ad464d57abd2d9e8893e69ef.png"
+      }
+    ]
+  }
+}

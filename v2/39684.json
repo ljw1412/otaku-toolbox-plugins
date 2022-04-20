@@ -1,0 +1,75 @@
+{
+  "id": 39684,
+  "islong": 2,
+  "direction": 1,
+  "title": "熊猫女孩",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/xiongmaonvhaifengmianl.jpg",
+  "description": "开始了中学生活的我的邻桌居然是……",
+  "last_updatetime": 1485340410,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiongmaonvhai",
+  "hidden": 0,
+  "hot_num": 111213,
+  "hit_num": 20568,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 58574,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 410,
+      "tag_name": "坂野杏梨"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 929,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 58574,
+          "chapter_title": "1话",
+          "updatetime": 1485340411,
+          "filesize": 796248,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 142,
+    "latest_comment": [
+      {
+        "comment_id": 27115655,
+        "uid": 104986724,
+        "content": "如此现实，仿佛校园少女恋爱漫里追问为什么他们学习的场景那么少",
+        "createtime": 1588644204,
+        "nickname": "煎饼果子加蛋加葱",
+        "avatar": "https://avatar.dmzj.com/79/90/79907cd0bfea3b76382b1f58276abc3a.png"
+      },
+      {
+        "comment_id": 25444030,
+        "uid": 101554220,
+        "content": "DX3906",
+        "createtime": 1584602888,
+        "nickname": "者兑",
+        "avatar": "https://avatar.dmzj.com/48/89/4889df76f453619552c28c5f5da17040.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

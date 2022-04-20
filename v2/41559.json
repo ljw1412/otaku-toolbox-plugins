@@ -1,0 +1,73 @@
+{
+  "id": 41559,
+  "islong": 2,
+  "direction": 2,
+  "title": "新神：特刊",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/xinshenteka.jpg",
+  "description": "DC为了纪念“漫画国王”杰克·科比诞辰100周年而推出的特刊，全篇由三个故事组成，其中最后一个故事是由杰克·科比亲自创作的。这三个故事都跟奥利安有关，分别讲述了奥利安的成长与自我认知的过程。 ",
+  "last_updatetime": 1505920020,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 35002,
+  "hit_num": 57085,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 146,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65256,
+          "chapter_title": "1卷",
+          "updatetime": 1505920020,
+          "filesize": 5326422,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 19579965,
+        "uid": 101903540,
+        "content": "真可惜不能下载了",
+        "createtime": 1566272401,
+        "nickname": "搴舟中流",
+        "avatar": "https://avatar.dmzj.com/0e/42/0e4227bd49a5475d7b2b4bacd1f1a67c.png"
+      },
+      {
+        "comment_id": 2966935,
+        "uid": 100593570,
+        "content": "结果奥利安和射线在奇迹先生里又黑了",
+        "createtime": 1506234367,
+        "nickname": "fnajga",
+        "avatar": "https://avatar.dmzj.com/94/81/9481d5d1699af320d9b3efc31cec481a.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 41286,
+  "islong": 2,
+  "direction": 2,
+  "title": "LAOC第二章",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1051511771503247317.jpg",
+  "description": "一群无聊之人寻有趣之事。",
+  "last_updatetime": 1503248114,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 1378,
+  "hit_num": 7356,
+  "uid": 105151177,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3253,
+      "tag_name": "宅系"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13651,
+      "tag_name": "无奈的老陈"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66965,
+          "chapter_title": "2话",
+          "updatetime": 1503248114,
+          "filesize": 690967,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 66964,
+          "chapter_title": "1话",
+          "updatetime": 1503247905,
+          "filesize": 413151,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "画的超级烂，分镜特别差，剧情简直无脑，就算是这样，，，我也要继续努力啊！",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 2772396,
+        "uid": 100868423,
+        "content": "如果这是认真画的那估没救了计",
+        "createtime": 1503294738,
+        "nickname": "想传达给有你的天空",
+        "avatar": "https://avatar.dmzj.com/e0/08/e00833575199f728e4f58571060cd7ad.png"
+      }
+    ]
+  }
+}

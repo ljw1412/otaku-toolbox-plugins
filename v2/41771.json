@@ -1,0 +1,79 @@
+{
+  "id": 41771,
+  "islong": 2,
+  "direction": 2,
+  "title": "电玩无双",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1042823411507630880.jpg",
+  "description": "电玩勇者们是如何在电玩世界里独霸一方的！！",
+  "last_updatetime": 1507631163,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 16387,
+  "hit_num": 435730,
+  "uid": 104282341,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13045,
+      "tag_name": "多龙莫"
+    }
+  ],
+  "subscribe_num": 67,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 68622,
+          "chapter_title": "1.1话",
+          "updatetime": 1507631163,
+          "filesize": 3176838,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "不定期更新！",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 20765037,
+        "uid": 101614333,
+        "content": "没了啊。。",
+        "createtime": 1569849295,
+        "nickname": "忠贤菌",
+        "avatar": "https://avatar.dmzj.com/00/aa/00aa5150082af3d2d1eedbf8fb40f03f.png"
+      },
+      {
+        "comment_id": 3083579,
+        "uid": 101163904,
+        "content": "应该加个颜艺标签",
+        "createtime": 1507817173,
+        "nickname": "霓紅六桒",
+        "avatar": "https://avatar.dmzj.com/7a/af/7aaf48e3b0afa80d12ee4991163b6eeb.png"
+      }
+    ]
+  }
+}

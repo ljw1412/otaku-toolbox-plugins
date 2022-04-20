@@ -1,0 +1,73 @@
+{
+  "id": 42512,
+  "islong": 2,
+  "direction": 1,
+  "title": "红之血族",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/hongzhixuezu.jpg",
+  "description": "红美铃的战斗，以及守护斯卡蕾特姐妹两的故事~",
+  "last_updatetime": 1514713666,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 188070,
+  "hit_num": 89983,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5498,
+      "tag_name": "水镜ひより"
+    },
+    {
+      "tag_id": 5499,
+      "tag_name": "冰坂透(氷坂透)"
+    }
+  ],
+  "subscribe_num": 873,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72270,
+          "chapter_title": "1话",
+          "updatetime": 1514713669,
+          "filesize": 9044537,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 49,
+    "latest_comment": [
+      {
+        "comment_id": 27090293,
+        "uid": 105117467,
+        "content": "那个叫美铃逃的，明朝为何这个装扮？",
+        "createtime": 1588567167,
+        "nickname": "wumin",
+        "avatar": "https://avatar.dmzj.com/97/34/973440748f4e0e9d848d1cfe27a7c434.png"
+      },
+      {
+        "comment_id": 26499267,
+        "uid": 110386006,
+        "content": "看了不知道多少次了 \n真棒啊",
+        "createtime": 1586924216,
+        "nickname": "Quinoa",
+        "avatar": "https://avatar.dmzj.com/57/34/5734858bcb3448a990d1b360cc78472a.png"
+      }
+    ]
+  }
+}

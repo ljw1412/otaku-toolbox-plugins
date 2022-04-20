@@ -1,0 +1,73 @@
+{
+  "id": 44607,
+  "islong": 2,
+  "direction": 1,
+  "title": "机动忍传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/jidongrenzhuan354l.jpg",
+  "description": "忍者高达，不一样的高达故事。",
+  "last_updatetime": 1529293406,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 58869,
+  "hit_num": 62033,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15097,
+      "tag_name": "こゃま基夫"
+    }
+  ],
+  "subscribe_num": 249,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77674,
+          "chapter_title": "1卷",
+          "updatetime": 1529293406,
+          "filesize": 18088014,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 29630376,
+        "uid": 108064365,
+        "content": "草，鸭子你什么时候学的徒手接光刀？？",
+        "createtime": 1597203110,
+        "nickname": "菠萝金",
+        "avatar": "https://avatar.dmzj.com/49/25/4925d86ef721cd85f74dadf7c24ba418.png"
+      },
+      {
+        "comment_id": 23059022,
+        "uid": 2838416,
+        "content": "都有官方战国武士了，将来会出官方战国忍者我也不会觉得稀奇了。",
+        "createtime": 1578133912,
+        "nickname": "终孽剑士",
+        "avatar": "https://avatar.dmzj.com/26/63/2663044de42c0d28f40b17da9444f284.png"
+      }
+    ]
+  }
+}

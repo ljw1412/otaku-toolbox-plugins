@@ -1,0 +1,83 @@
+{
+  "id": 43640,
+  "islong": 2,
+  "direction": 1,
+  "title": "放飞自我红魔馆",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/fangfeiziwohongmoguan.jpg",
+  "description": "红魔馆全体形象崩坏",
+  "last_updatetime": 1581844324,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 378871,
+  "hit_num": 69903,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14692,
+      "tag_name": "えなみ教授"
+    }
+  ],
+  "subscribe_num": 1693,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98185,
+          "chapter_title": "3话",
+          "updatetime": 1581844324,
+          "filesize": 914390,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 75609,
+          "chapter_title": "2话",
+          "updatetime": 1527684130,
+          "filesize": 3950916,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 75580,
+          "chapter_title": "1话",
+          "updatetime": 1527684119,
+          "filesize": 3761487,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 160,
+    "latest_comment": [
+      {
+        "comment_id": 29806837,
+        "uid": 109979682,
+        "content": "翻译太过本土化",
+        "createtime": 1597893229,
+        "nickname": "高级堕落",
+        "avatar": "https://avatar.dmzj.com/f1/61/f161945e21d2c0c7e03558728d481817.png"
+      },
+      {
+        "comment_id": 27504687,
+        "uid": 101724657,
+        "content": "毒性过大sk",
+        "createtime": 1589874062,
+        "nickname": "Bruce zhu",
+        "avatar": "https://avatar.dmzj.com/d8/d4/d8d486e2fe6424be0d10ba342e531b0b.png"
+      }
+    ]
+  }
+}

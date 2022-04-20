@@ -1,0 +1,76 @@
+{
+  "id": 39414,
+  "islong": 2,
+  "direction": 2,
+  "title": "飞天小女警v3",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/20160904feitianxnj1219133001000.jpg",
+  "description": "姐妹们！我们必须要做出决定了",
+  "last_updatetime": 1485585425,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 150276,
+  "hit_num": 49530,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1206,
+      "tag_name": "IDW"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 780,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 58658,
+          "chapter_title": "2卷",
+          "updatetime": 1485585425,
+          "filesize": 4649576,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 57518,
+          "chapter_title": "1卷",
+          "updatetime": 1482077479,
+          "filesize": 2239080,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 4140036,
+        "uid": 101835089,
+        "content": "钉",
+        "createtime": 1521649221,
+        "nickname": "木慕欠欠",
+        "avatar": "https://avatar.dmzj.com/20/0d/200de853102c43177d6663ef753401f3.png"
+      },
+      {
+        "comment_id": 3377757,
+        "uid": 105622507,
+        "content": "为什么没有更了 ！！！！",
+        "createtime": 1511711716,
+        "nickname": "qzuser84096707",
+        "avatar": "https://avatar.dmzj.com/62/40/624085cd8f2aa5103015d2a5823406a0.png"
+      }
+    ]
+  }
+}

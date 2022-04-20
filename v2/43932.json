@@ -1,0 +1,75 @@
+{
+  "id": 43932,
+  "islong": 2,
+  "direction": 1,
+  "title": "Dawn",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/dawn0423.jpg",
+  "description": "主角组，如果能在谁的心中留下什么的话，那样我就很满足了。",
+  "last_updatetime": 1524475942,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dawn",
+  "hidden": 0,
+  "hot_num": 141723,
+  "hit_num": 8443,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 75934,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7698,
+      "tag_name": "miya9"
+    }
+  ],
+  "subscribe_num": 651,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 75934,
+          "chapter_title": "1话",
+          "updatetime": 1524475942,
+          "filesize": 5023896,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 22130893,
+        "uid": 108592478,
+        "content": "踩踩踩踩",
+        "createtime": 1573839354,
+        "nickname": "dmzj_108592478",
+        "avatar": "https://avatar.dmzj.com/00/50/0050eda9119251c8484c57e64b6447bf.png"
+      },
+      {
+        "comment_id": 13231647,
+        "uid": 108403252,
+        "content": "主角组喜欢",
+        "createtime": 1553258529,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

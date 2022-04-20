@@ -1,0 +1,73 @@
+{
+  "id": 41416,
+  "islong": 2,
+  "direction": 1,
+  "title": "绿色护眼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/170904lvmu.jpg",
+  "description": "一个普通的东方漫画，霖哥这次或许不用烧？（笑）",
+  "last_updatetime": 1504507289,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 57085,
+  "hit_num": 36609,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13714,
+      "tag_name": "谷川犬兔"
+    }
+  ],
+  "subscribe_num": 237,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67421,
+          "chapter_title": "1话",
+          "updatetime": 1504507289,
+          "filesize": 5510787,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 29182091,
+        "uid": 101429227,
+        "content": "意外的正经。",
+        "createtime": 1595556808,
+        "nickname": "gao852456",
+        "avatar": "https://avatar.dmzj.com/d2/b6/d2b678e113b831d074cad5177d9a72ee.png"
+      },
+      {
+        "comment_id": 29131130,
+        "uid": 105696370,
+        "content": "恋恋真可爱",
+        "createtime": 1595355942,
+        "nickname": "午夜琉璃花",
+        "avatar": "https://avatar.dmzj.com/26/82/2682734f3f11a416ac2ad88a741bde3d.png"
+      }
+    ]
+  }
+}

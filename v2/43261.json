@@ -1,0 +1,108 @@
+{
+  "id": 43261,
+  "islong": 2,
+  "direction": 1,
+  "title": "星球大战：索龙",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/Star225WarsThrawn2018001000.jpg",
+  "description": "该刊改编自蒂莫西·赞恩所写的正史小说《索龙》，讲述星球大战历史上令人闻风丧胆的优秀军事领袖索龙在银河帝国战场与官场前行的故事。",
+  "last_updatetime": 1532683446,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 156334,
+  "hit_num": 107546,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 615,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78827,
+          "chapter_title": "6卷",
+          "updatetime": 1532683446,
+          "filesize": 3220905,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 77728,
+          "chapter_title": "5卷",
+          "updatetime": 1530104156,
+          "filesize": 3621134,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 76252,
+          "chapter_title": "4卷",
+          "updatetime": 1526656083,
+          "filesize": 3677785,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 75433,
+          "chapter_title": "3卷",
+          "updatetime": 1524661336,
+          "filesize": 4740116,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 73968,
+          "chapter_title": "2卷",
+          "updatetime": 1521710561,
+          "filesize": 4343707,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 73076,
+          "chapter_title": "1卷",
+          "updatetime": 1519560547,
+          "filesize": 4734809,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 32,
+    "latest_comment": [
+      {
+        "comment_id": 5916102,
+        "uid": 8828070,
+        "content": "新的小说《索龙：同盟》上了，大帅又活了",
+        "createtime": 1532786913,
+        "nickname": "jzhao",
+        "avatar": "https://avatar.dmzj.com/94/40/9440d58ac3dbfc0d336c3a63d7e18947.png"
+      },
+      {
+        "comment_id": 5896402,
+        "uid": 14471857,
+        "content": "大帅都凉了，万托还在奇斯摸鱼",
+        "createtime": 1532700367,
+        "nickname": "starshredder",
+        "avatar": "https://avatar.dmzj.com/13/15/1315feca67a5c16445d265644db5329e.png"
+      }
+    ]
+  }
+}

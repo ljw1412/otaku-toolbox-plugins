@@ -1,0 +1,89 @@
+{
+  "id": 41152,
+  "islong": 2,
+  "direction": 2,
+  "title": "闲人记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1050450941501998684.jpg",
+  "description": "关羽，哪吒，孙悟空，贾宝玉等，这些历史或神话小说中的人物在现代演绎了一段段普通人的生活。",
+  "last_updatetime": 1502111938,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 7176,
+  "hit_num": 7507,
+  "uid": 105045094,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13567,
+      "tag_name": "嘉州的小胖儿"
+    }
+  ],
+  "subscribe_num": 21,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67698,
+          "chapter_title": "3话",
+          "updatetime": 1502111938,
+          "filesize": 59052,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 67679,
+          "chapter_title": "2话",
+          "updatetime": 1502089429,
+          "filesize": 85094,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 67657,
+          "chapter_title": "1话",
+          "updatetime": 1502000060,
+          "filesize": 63095,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "虽然是不定期更新，但是这就意味着有可能会更得很勤快哟~",
+  "comic_notice": "本作不定期更新，欢迎观看。",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 2682685,
+        "uid": 101168700,
+        "content": "好犀利的画风，元芳你怎么看?",
+        "createtime": 1502295260,
+        "nickname": "荒漠、孤狼~",
+        "avatar": "https://avatar.dmzj.com/7a/34/7a3436163d217aba5e6ae7b3fd674aa3.png"
+      },
+      {
+        "comment_id": 2682665,
+        "uid": 101168700,
+        "content": "这犀利的画风",
+        "createtime": 1502295121,
+        "nickname": "荒漠、孤狼~",
+        "avatar": "https://avatar.dmzj.com/7a/34/7a3436163d217aba5e6ae7b3fd674aa3.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 48806,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方日常录-春",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/190612dfrclc.jpg",
+  "description": "永远亭一家在春天的四格小日常~",
+  "last_updatetime": 1560339949,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 77161,
+  "hit_num": 616,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17205,
+      "tag_name": "つきみりん"
+    }
+  ],
+  "subscribe_num": 348,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89311,
+          "chapter_title": "1话",
+          "updatetime": 1560339949,
+          "filesize": 1478908,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 27,
+    "latest_comment": [
+      {
+        "comment_id": 25935943,
+        "uid": 108194802,
+        "content": "应该是翻译组加的吧。。。",
+        "createtime": 1585747619,
+        "nickname": "dmzj_108194802",
+        "avatar": "https://avatar.dmzj.com/41/74/4174afd603ab943425b889cdd141d874.png"
+      },
+      {
+        "comment_id": 18245457,
+        "uid": 105320137,
+        "content": "真不知道是作者的恶趣味还是翻译的恶趣味……\n真是恶臭",
+        "createtime": 1563181866,
+        "nickname": "秘封组快去结婚啊！",
+        "avatar": "https://avatar.dmzj.com/49/79/49793a00e899679eed51e021427b12a8.png"
+      }
+    ]
+  }
+}

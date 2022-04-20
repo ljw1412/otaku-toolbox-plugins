@@ -1,0 +1,79 @@
+{
+  "id": 45607,
+  "islong": 2,
+  "direction": 2,
+  "title": "小魔新日记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1078000351534953559.jpg",
+  "description": "一个因一堆作者合作完成而画风变化诡异的神秘漫画。主笔：小新，遇，风铃晶，狡黠，消逝，喵酱，江子筠，星辰。是一只小魔新和一只河神带着一个发卡和一瓶风油精左手一只鹰右手一个魔法棒去打两只猫一只狗一个盒子和一个土豆的故事",
+  "last_updatetime": 1534954318,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 3212,
+  "hit_num": 14611,
+  "uid": 107800035,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15582,
+      "tag_name": "小魔新日记"
+    }
+  ],
+  "subscribe_num": 13,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80256,
+          "chapter_title": "0话",
+          "updatetime": 1534954318,
+          "filesize": 767554,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "QQ读者群243250728。",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 19394699,
+        "uid": 105627036,
+        "content": "好少人看呀",
+        "createtime": 1565794500,
+        "nickname": "错光光",
+        "avatar": "https://avatar.dmzj.com/86/27/8627d2798461b90ace61ab3f81cbe49c.png"
+      },
+      {
+        "comment_id": 18667517,
+        "uid": 109506525,
+        "content": "dmzj还有这种东西啊",
+        "createtime": 1564137266,
+        "nickname": "999zzz",
+        "avatar": "https://avatar.dmzj.com/44/87/4487d9a1d1f3bde1dff255eaf03ed4d7.png"
+      }
+    ]
+  }
+}

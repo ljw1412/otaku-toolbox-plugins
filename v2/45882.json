@@ -1,0 +1,77 @@
+{
+  "id": 45882,
+  "islong": 2,
+  "direction": 2,
+  "title": "化石图鉴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/180924huashi.jpg",
+  "description": "全世界500多种以上化石的彩色图鉴。",
+  "last_updatetime": 1537801028,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 481970,
+  "hit_num": 170452,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15698,
+      "tag_name": "西尔·沃克"
+    },
+    {
+      "tag_id": 15699,
+      "tag_name": "大卫·沃德"
+    }
+  ],
+  "subscribe_num": 2228,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81094,
+          "chapter_title": "1卷",
+          "updatetime": 1537801028,
+          "filesize": 62779997,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 273,
+    "latest_comment": [
+      {
+        "comment_id": 29880932,
+        "uid": 109462277,
+        "content": "额这是什么鬼啊！(ノ°ο°)ノ",
+        "createtime": 1598165366,
+        "nickname": "云樱夕",
+        "avatar": "https://avatar.dmzj.com/28/84/28847190a5b17214ee9902d3d2ad888f.png"
+      },
+      {
+        "comment_id": 28918096,
+        "uid": 101773967,
+        "content": "绝了",
+        "createtime": 1594652552,
+        "nickname": "恭喜jdg",
+        "avatar": "https://avatar.dmzj.com/23/a1/23a1cf3fb33cc9b6c30b754ae067a24f.png"
+      }
+    ]
+  }
+}

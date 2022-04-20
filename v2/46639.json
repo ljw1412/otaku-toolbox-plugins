@@ -1,0 +1,89 @@
+{
+  "id": 46639,
+  "islong": 2,
+  "direction": 2,
+  "title": "彻骨寒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1062239661543847373.jpg",
+  "description": "风声里的伪君子藏在云后，\n暴雨下的赶路人拖着灵柩.《刘柄鑫》",
+  "last_updatetime": 1544957896,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 165794,
+  "hit_num": 1028317,
+  "uid": 106223966,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16084,
+      "tag_name": "暗黑料理"
+    }
+  ],
+  "subscribe_num": 719,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80238,
+          "chapter_title": "3话",
+          "updatetime": 1544957896,
+          "filesize": 590782,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 80051,
+          "chapter_title": "2话",
+          "updatetime": 1544353153,
+          "filesize": 596719,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 79880,
+          "chapter_title": "1话",
+          "updatetime": 1543844760,
+          "filesize": 566548,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 46,
+    "latest_comment": [
+      {
+        "comment_id": 26351637,
+        "uid": 108588809,
+        "content": "感觉再整两个活",
+        "createtime": 1586592372,
+        "nickname": "带哥整好活",
+        "avatar": "https://avatar.dmzj.com/23/04/23049437a73c81d5f521fed598f12aac.png"
+      },
+      {
+        "comment_id": 26200376,
+        "uid": 107655481,
+        "content": "抽象活快整",
+        "createtime": 1586274126,
+        "nickname": "世间沉沦",
+        "avatar": "https://avatar.dmzj.com/df/f6/dff638103207ac4f1a10a70626f8a9b5.png"
+      }
+    ]
+  }
+}

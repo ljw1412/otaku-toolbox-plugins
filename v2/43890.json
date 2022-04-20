@@ -1,0 +1,1825 @@
+{
+  "id": 43890,
+  "islong": 2,
+  "direction": 1,
+  "title": "寓言杀手",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/yuyanshashou0419.jpg",
+  "description": "故事讲述了一位被地下社会称为“寓言”的传说杀手从小便在BOSS手下工作，与搭档的女性一起葬送了无数目标。但是害怕他的身份暴露的BOSS命令他去大阪生活一年，期间不允许杀害任何人。于是他化作名为“佐藤明”的普通人，在和BOSS有老交情的暴力集团真黑组的庇护下于大阪开始普通生活。",
+  "last_updatetime": 1596860156,
+  "last_update_chapter_name": "番外11",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yuyanshashou",
+  "hidden": 1,
+  "hot_num": 27792976,
+  "hit_num": 99289322,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 106339,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14795,
+      "tag_name": "南胜久"
+    }
+  ],
+  "subscribe_num": 103740,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 106339,
+          "chapter_title": "番外11",
+          "updatetime": 1596860156,
+          "filesize": 1268159,
+          "chapter_order": 2500
+        },
+        {
+          "chapter_id": 106025,
+          "chapter_title": "番外10",
+          "updatetime": 1596270635,
+          "filesize": 1814985,
+          "chapter_order": 2490
+        },
+        {
+          "chapter_id": 106024,
+          "chapter_title": "番外09",
+          "updatetime": 1596270615,
+          "filesize": 1488700,
+          "chapter_order": 2480
+        },
+        {
+          "chapter_id": 105754,
+          "chapter_title": "番外08",
+          "updatetime": 1595688622,
+          "filesize": 697203,
+          "chapter_order": 2470
+        },
+        {
+          "chapter_id": 105336,
+          "chapter_title": "番外07",
+          "updatetime": 1595049805,
+          "filesize": 1483015,
+          "chapter_order": 2460
+        },
+        {
+          "chapter_id": 105160,
+          "chapter_title": "番外06",
+          "updatetime": 1594703628,
+          "filesize": 902696,
+          "chapter_order": 2450
+        },
+        {
+          "chapter_id": 105107,
+          "chapter_title": "番外05",
+          "updatetime": 1594621707,
+          "filesize": 1333298,
+          "chapter_order": 2440
+        },
+        {
+          "chapter_id": 105066,
+          "chapter_title": "番外04",
+          "updatetime": 1594538060,
+          "filesize": 1648148,
+          "chapter_order": 2430
+        },
+        {
+          "chapter_id": 105025,
+          "chapter_title": "番外03",
+          "updatetime": 1594445642,
+          "filesize": 1650714,
+          "chapter_order": 2420
+        },
+        {
+          "chapter_id": 104996,
+          "chapter_title": "240话",
+          "updatetime": 1594381890,
+          "filesize": 4663880,
+          "chapter_order": 2410
+        },
+        {
+          "chapter_id": 104928,
+          "chapter_title": "239话",
+          "updatetime": 1594281105,
+          "filesize": 4686198,
+          "chapter_order": 2400
+        },
+        {
+          "chapter_id": 104894,
+          "chapter_title": "238话",
+          "updatetime": 1594206257,
+          "filesize": 3493213,
+          "chapter_order": 2390
+        },
+        {
+          "chapter_id": 104850,
+          "chapter_title": "237话",
+          "updatetime": 1594130566,
+          "filesize": 3544450,
+          "chapter_order": 2380
+        },
+        {
+          "chapter_id": 104807,
+          "chapter_title": "236话",
+          "updatetime": 1594041073,
+          "filesize": 3887548,
+          "chapter_order": 2370
+        },
+        {
+          "chapter_id": 104751,
+          "chapter_title": "235话",
+          "updatetime": 1593943610,
+          "filesize": 4535642,
+          "chapter_order": 2360
+        },
+        {
+          "chapter_id": 104722,
+          "chapter_title": "234话",
+          "updatetime": 1593861961,
+          "filesize": 3471136,
+          "chapter_order": 2350
+        },
+        {
+          "chapter_id": 104673,
+          "chapter_title": "233话",
+          "updatetime": 1593757170,
+          "filesize": 4147711,
+          "chapter_order": 2340
+        },
+        {
+          "chapter_id": 104616,
+          "chapter_title": "232话",
+          "updatetime": 1593672430,
+          "filesize": 3622981,
+          "chapter_order": 2330
+        },
+        {
+          "chapter_id": 104590,
+          "chapter_title": "231话",
+          "updatetime": 1593599136,
+          "filesize": 2173777,
+          "chapter_order": 2320
+        },
+        {
+          "chapter_id": 104552,
+          "chapter_title": "230话",
+          "updatetime": 1593499851,
+          "filesize": 4097453,
+          "chapter_order": 2310
+        },
+        {
+          "chapter_id": 104516,
+          "chapter_title": "229话",
+          "updatetime": 1593416818,
+          "filesize": 4377356,
+          "chapter_order": 2300
+        },
+        {
+          "chapter_id": 104487,
+          "chapter_title": "228话",
+          "updatetime": 1593332628,
+          "filesize": 4262165,
+          "chapter_order": 2290
+        },
+        {
+          "chapter_id": 104427,
+          "chapter_title": "227话",
+          "updatetime": 1593233647,
+          "filesize": 4479035,
+          "chapter_order": 2280
+        },
+        {
+          "chapter_id": 104397,
+          "chapter_title": "226话",
+          "updatetime": 1593151131,
+          "filesize": 4993915,
+          "chapter_order": 2270
+        },
+        {
+          "chapter_id": 104368,
+          "chapter_title": "225话",
+          "updatetime": 1593084397,
+          "filesize": 2475363,
+          "chapter_order": 2260
+        },
+        {
+          "chapter_id": 104314,
+          "chapter_title": "224话",
+          "updatetime": 1592977088,
+          "filesize": 4469352,
+          "chapter_order": 2250
+        },
+        {
+          "chapter_id": 104265,
+          "chapter_title": "223话",
+          "updatetime": 1592884092,
+          "filesize": 3320164,
+          "chapter_order": 2240
+        },
+        {
+          "chapter_id": 104238,
+          "chapter_title": "222话",
+          "updatetime": 1592809476,
+          "filesize": 4241490,
+          "chapter_order": 2230
+        },
+        {
+          "chapter_id": 104195,
+          "chapter_title": "221话",
+          "updatetime": 1592732079,
+          "filesize": 3324430,
+          "chapter_order": 2220
+        },
+        {
+          "chapter_id": 104119,
+          "chapter_title": "220话",
+          "updatetime": 1592642367,
+          "filesize": 4644986,
+          "chapter_order": 2210
+        },
+        {
+          "chapter_id": 104066,
+          "chapter_title": "219话",
+          "updatetime": 1592549974,
+          "filesize": 4430867,
+          "chapter_order": 2200
+        },
+        {
+          "chapter_id": 104046,
+          "chapter_title": "218话",
+          "updatetime": 1592492486,
+          "filesize": 2103099,
+          "chapter_order": 2190
+        },
+        {
+          "chapter_id": 103940,
+          "chapter_title": "217话",
+          "updatetime": 1592374670,
+          "filesize": 3987587,
+          "chapter_order": 2180
+        },
+        {
+          "chapter_id": 103895,
+          "chapter_title": "216话",
+          "updatetime": 1592289466,
+          "filesize": 3801641,
+          "chapter_order": 2170
+        },
+        {
+          "chapter_id": 103839,
+          "chapter_title": "215话",
+          "updatetime": 1592206912,
+          "filesize": 3875948,
+          "chapter_order": 2160
+        },
+        {
+          "chapter_id": 103776,
+          "chapter_title": "214话",
+          "updatetime": 1592125320,
+          "filesize": 3546632,
+          "chapter_order": 2150
+        },
+        {
+          "chapter_id": 103671,
+          "chapter_title": "213话",
+          "updatetime": 1592026760,
+          "filesize": 4547315,
+          "chapter_order": 2140
+        },
+        {
+          "chapter_id": 103611,
+          "chapter_title": "212话",
+          "updatetime": 1591937429,
+          "filesize": 4108105,
+          "chapter_order": 2130
+        },
+        {
+          "chapter_id": 103552,
+          "chapter_title": "211话",
+          "updatetime": 1591852238,
+          "filesize": 3440501,
+          "chapter_order": 2120
+        },
+        {
+          "chapter_id": 103510,
+          "chapter_title": "210话",
+          "updatetime": 1591768381,
+          "filesize": 4329251,
+          "chapter_order": 2110
+        },
+        {
+          "chapter_id": 103483,
+          "chapter_title": "209话",
+          "updatetime": 1591700459,
+          "filesize": 3757891,
+          "chapter_order": 2100
+        },
+        {
+          "chapter_id": 103428,
+          "chapter_title": "208话",
+          "updatetime": 1591594495,
+          "filesize": 4463401,
+          "chapter_order": 2090
+        },
+        {
+          "chapter_id": 103365,
+          "chapter_title": "207话",
+          "updatetime": 1591513973,
+          "filesize": 2777355,
+          "chapter_order": 2080
+        },
+        {
+          "chapter_id": 103309,
+          "chapter_title": "206话",
+          "updatetime": 1591423031,
+          "filesize": 3987550,
+          "chapter_order": 2070
+        },
+        {
+          "chapter_id": 103282,
+          "chapter_title": "205话",
+          "updatetime": 1591360180,
+          "filesize": 4337897,
+          "chapter_order": 2060
+        },
+        {
+          "chapter_id": 103223,
+          "chapter_title": "204话",
+          "updatetime": 1591246364,
+          "filesize": 3265154,
+          "chapter_order": 2050
+        },
+        {
+          "chapter_id": 103178,
+          "chapter_title": "203话",
+          "updatetime": 1591171154,
+          "filesize": 3426556,
+          "chapter_order": 2040
+        },
+        {
+          "chapter_id": 103138,
+          "chapter_title": "202话",
+          "updatetime": 1591075257,
+          "filesize": 3315361,
+          "chapter_order": 2030
+        },
+        {
+          "chapter_id": 103072,
+          "chapter_title": "201话",
+          "updatetime": 1590980130,
+          "filesize": 4109311,
+          "chapter_order": 2020
+        },
+        {
+          "chapter_id": 103026,
+          "chapter_title": "200话",
+          "updatetime": 1590898373,
+          "filesize": 3059006,
+          "chapter_order": 2010
+        },
+        {
+          "chapter_id": 102990,
+          "chapter_title": "199话",
+          "updatetime": 1590810530,
+          "filesize": 2073421,
+          "chapter_order": 2000
+        },
+        {
+          "chapter_id": 102948,
+          "chapter_title": "198话",
+          "updatetime": 1590723871,
+          "filesize": 2541090,
+          "chapter_order": 1990
+        },
+        {
+          "chapter_id": 102897,
+          "chapter_title": "197话",
+          "updatetime": 1590637445,
+          "filesize": 2291380,
+          "chapter_order": 1980
+        },
+        {
+          "chapter_id": 102860,
+          "chapter_title": "196话",
+          "updatetime": 1590547602,
+          "filesize": 4290681,
+          "chapter_order": 1970
+        },
+        {
+          "chapter_id": 102825,
+          "chapter_title": "195话",
+          "updatetime": 1590466555,
+          "filesize": 3508941,
+          "chapter_order": 1960
+        },
+        {
+          "chapter_id": 102793,
+          "chapter_title": "194话",
+          "updatetime": 1590382912,
+          "filesize": 3340220,
+          "chapter_order": 1950
+        },
+        {
+          "chapter_id": 102762,
+          "chapter_title": "193话",
+          "updatetime": 1590311626,
+          "filesize": 4630067,
+          "chapter_order": 1940
+        },
+        {
+          "chapter_id": 102694,
+          "chapter_title": "192话",
+          "updatetime": 1590219864,
+          "filesize": 4105321,
+          "chapter_order": 1930
+        },
+        {
+          "chapter_id": 102634,
+          "chapter_title": "191话",
+          "updatetime": 1590128205,
+          "filesize": 4494267,
+          "chapter_order": 1920
+        },
+        {
+          "chapter_id": 102604,
+          "chapter_title": "190话",
+          "updatetime": 1590048376,
+          "filesize": 2994376,
+          "chapter_order": 1910
+        },
+        {
+          "chapter_id": 102553,
+          "chapter_title": "189话",
+          "updatetime": 1589951515,
+          "filesize": 3485380,
+          "chapter_order": 1900
+        },
+        {
+          "chapter_id": 102499,
+          "chapter_title": "188话",
+          "updatetime": 1589870795,
+          "filesize": 3352561,
+          "chapter_order": 1890
+        },
+        {
+          "chapter_id": 102449,
+          "chapter_title": "187话",
+          "updatetime": 1589780363,
+          "filesize": 2807746,
+          "chapter_order": 1880
+        },
+        {
+          "chapter_id": 102401,
+          "chapter_title": "186话",
+          "updatetime": 1589696077,
+          "filesize": 4289963,
+          "chapter_order": 1870
+        },
+        {
+          "chapter_id": 102372,
+          "chapter_title": "185话",
+          "updatetime": 1589621630,
+          "filesize": 2450728,
+          "chapter_order": 1860
+        },
+        {
+          "chapter_id": 102325,
+          "chapter_title": "184话",
+          "updatetime": 1589514802,
+          "filesize": 4395502,
+          "chapter_order": 1850
+        },
+        {
+          "chapter_id": 102324,
+          "chapter_title": "183话",
+          "updatetime": 1589514702,
+          "filesize": 4752243,
+          "chapter_order": 1840
+        },
+        {
+          "chapter_id": 102323,
+          "chapter_title": "182话",
+          "updatetime": 1589514641,
+          "filesize": 4480248,
+          "chapter_order": 1830
+        },
+        {
+          "chapter_id": 102279,
+          "chapter_title": "181话",
+          "updatetime": 1589425145,
+          "filesize": 2903264,
+          "chapter_order": 1820
+        },
+        {
+          "chapter_id": 102193,
+          "chapter_title": "180话",
+          "updatetime": 1589203234,
+          "filesize": 3882753,
+          "chapter_order": 1810
+        },
+        {
+          "chapter_id": 102176,
+          "chapter_title": "179话",
+          "updatetime": 1589183155,
+          "filesize": 2704853,
+          "chapter_order": 1800
+        },
+        {
+          "chapter_id": 102082,
+          "chapter_title": "178话",
+          "updatetime": 1589014228,
+          "filesize": 2462796,
+          "chapter_order": 1790
+        },
+        {
+          "chapter_id": 102046,
+          "chapter_title": "177话",
+          "updatetime": 1588928395,
+          "filesize": 4653068,
+          "chapter_order": 1780
+        },
+        {
+          "chapter_id": 102012,
+          "chapter_title": "176话",
+          "updatetime": 1588842660,
+          "filesize": 3288441,
+          "chapter_order": 1770
+        },
+        {
+          "chapter_id": 101959,
+          "chapter_title": "175话",
+          "updatetime": 1588743222,
+          "filesize": 4791670,
+          "chapter_order": 1760
+        },
+        {
+          "chapter_id": 101922,
+          "chapter_title": "174话",
+          "updatetime": 1588657591,
+          "filesize": 3474795,
+          "chapter_order": 1750
+        },
+        {
+          "chapter_id": 101843,
+          "chapter_title": "173话",
+          "updatetime": 1588569318,
+          "filesize": 5267093,
+          "chapter_order": 1740
+        },
+        {
+          "chapter_id": 101817,
+          "chapter_title": "172话",
+          "updatetime": 1588496859,
+          "filesize": 3888142,
+          "chapter_order": 1730
+        },
+        {
+          "chapter_id": 101714,
+          "chapter_title": "171话",
+          "updatetime": 1588395470,
+          "filesize": 4835807,
+          "chapter_order": 1720
+        },
+        {
+          "chapter_id": 101665,
+          "chapter_title": "170话",
+          "updatetime": 1588309500,
+          "filesize": 3275728,
+          "chapter_order": 1710
+        },
+        {
+          "chapter_id": 101634,
+          "chapter_title": "169话",
+          "updatetime": 1588221958,
+          "filesize": 3749266,
+          "chapter_order": 1700
+        },
+        {
+          "chapter_id": 101584,
+          "chapter_title": "168话",
+          "updatetime": 1588137267,
+          "filesize": 3640010,
+          "chapter_order": 1690
+        },
+        {
+          "chapter_id": 101553,
+          "chapter_title": "167话",
+          "updatetime": 1588058889,
+          "filesize": 4383508,
+          "chapter_order": 1680
+        },
+        {
+          "chapter_id": 101500,
+          "chapter_title": "166话",
+          "updatetime": 1587966272,
+          "filesize": 3147107,
+          "chapter_order": 1670
+        },
+        {
+          "chapter_id": 101454,
+          "chapter_title": "165话",
+          "updatetime": 1587871215,
+          "filesize": 2627903,
+          "chapter_order": 1660
+        },
+        {
+          "chapter_id": 101443,
+          "chapter_title": "164话",
+          "updatetime": 1587842127,
+          "filesize": 4150948,
+          "chapter_order": 1650
+        },
+        {
+          "chapter_id": 101344,
+          "chapter_title": "163话",
+          "updatetime": 1587704602,
+          "filesize": 4788644,
+          "chapter_order": 1640
+        },
+        {
+          "chapter_id": 101305,
+          "chapter_title": "162话",
+          "updatetime": 1587609925,
+          "filesize": 4933046,
+          "chapter_order": 1630
+        },
+        {
+          "chapter_id": 101239,
+          "chapter_title": "161话",
+          "updatetime": 1587525274,
+          "filesize": 3659929,
+          "chapter_order": 1620
+        },
+        {
+          "chapter_id": 101198,
+          "chapter_title": "160话",
+          "updatetime": 1587444616,
+          "filesize": 2761960,
+          "chapter_order": 1610
+        },
+        {
+          "chapter_id": 101160,
+          "chapter_title": "159话",
+          "updatetime": 1587371286,
+          "filesize": 4448253,
+          "chapter_order": 1600
+        },
+        {
+          "chapter_id": 101108,
+          "chapter_title": "158话",
+          "updatetime": 1587269460,
+          "filesize": 3644870,
+          "chapter_order": 1590
+        },
+        {
+          "chapter_id": 101067,
+          "chapter_title": "157话",
+          "updatetime": 1587183823,
+          "filesize": 4853232,
+          "chapter_order": 1580
+        },
+        {
+          "chapter_id": 101015,
+          "chapter_title": "156话",
+          "updatetime": 1587092232,
+          "filesize": 4185183,
+          "chapter_order": 1570
+        },
+        {
+          "chapter_id": 100992,
+          "chapter_title": "155话",
+          "updatetime": 1587041345,
+          "filesize": 4205876,
+          "chapter_order": 1560
+        },
+        {
+          "chapter_id": 100911,
+          "chapter_title": "154话",
+          "updatetime": 1586924947,
+          "filesize": 3466980,
+          "chapter_order": 1550
+        },
+        {
+          "chapter_id": 100866,
+          "chapter_title": "153话",
+          "updatetime": 1586840605,
+          "filesize": 2432749,
+          "chapter_order": 1540
+        },
+        {
+          "chapter_id": 100817,
+          "chapter_title": "152话",
+          "updatetime": 1586746980,
+          "filesize": 4077048,
+          "chapter_order": 1530
+        },
+        {
+          "chapter_id": 100770,
+          "chapter_title": "151话",
+          "updatetime": 1586673222,
+          "filesize": 4643367,
+          "chapter_order": 1520
+        },
+        {
+          "chapter_id": 100727,
+          "chapter_title": "150话",
+          "updatetime": 1586580356,
+          "filesize": 2939423,
+          "chapter_order": 1510
+        },
+        {
+          "chapter_id": 100707,
+          "chapter_title": "149话",
+          "updatetime": 1586499361,
+          "filesize": 3685613,
+          "chapter_order": 1500
+        },
+        {
+          "chapter_id": 100662,
+          "chapter_title": "148话",
+          "updatetime": 1586404697,
+          "filesize": 4948807,
+          "chapter_order": 1490
+        },
+        {
+          "chapter_id": 100620,
+          "chapter_title": "147话",
+          "updatetime": 1586325579,
+          "filesize": 4685443,
+          "chapter_order": 1480
+        },
+        {
+          "chapter_id": 100520,
+          "chapter_title": "146话",
+          "updatetime": 1586237716,
+          "filesize": 4381279,
+          "chapter_order": 1470
+        },
+        {
+          "chapter_id": 100459,
+          "chapter_title": "145话",
+          "updatetime": 1586152192,
+          "filesize": 4543094,
+          "chapter_order": 1460
+        },
+        {
+          "chapter_id": 100427,
+          "chapter_title": "144话",
+          "updatetime": 1586070394,
+          "filesize": 4119395,
+          "chapter_order": 1450
+        },
+        {
+          "chapter_id": 100338,
+          "chapter_title": "143话",
+          "updatetime": 1585884319,
+          "filesize": 3739628,
+          "chapter_order": 1440
+        },
+        {
+          "chapter_id": 100285,
+          "chapter_title": "142话",
+          "updatetime": 1585800063,
+          "filesize": 3777243,
+          "chapter_order": 1430
+        },
+        {
+          "chapter_id": 100246,
+          "chapter_title": "141话",
+          "updatetime": 1585729556,
+          "filesize": 4836417,
+          "chapter_order": 1420
+        },
+        {
+          "chapter_id": 100193,
+          "chapter_title": "140话",
+          "updatetime": 1585644684,
+          "filesize": 3480487,
+          "chapter_order": 1410
+        },
+        {
+          "chapter_id": 100145,
+          "chapter_title": "139话",
+          "updatetime": 1585548795,
+          "filesize": 3469233,
+          "chapter_order": 1400
+        },
+        {
+          "chapter_id": 100096,
+          "chapter_title": "138话",
+          "updatetime": 1585455865,
+          "filesize": 2281563,
+          "chapter_order": 1390
+        },
+        {
+          "chapter_id": 100057,
+          "chapter_title": "137话",
+          "updatetime": 1585373242,
+          "filesize": 2573711,
+          "chapter_order": 1380
+        },
+        {
+          "chapter_id": 100030,
+          "chapter_title": "136话",
+          "updatetime": 1585316089,
+          "filesize": 2802752,
+          "chapter_order": 1370
+        },
+        {
+          "chapter_id": 99985,
+          "chapter_title": "135话",
+          "updatetime": 1585215954,
+          "filesize": 3112590,
+          "chapter_order": 1360
+        },
+        {
+          "chapter_id": 99930,
+          "chapter_title": "134话",
+          "updatetime": 1585122805,
+          "filesize": 3667307,
+          "chapter_order": 1350
+        },
+        {
+          "chapter_id": 99895,
+          "chapter_title": "133话",
+          "updatetime": 1585030812,
+          "filesize": 3869645,
+          "chapter_order": 1340
+        },
+        {
+          "chapter_id": 99894,
+          "chapter_title": "132话",
+          "updatetime": 1585030801,
+          "filesize": 3663498,
+          "chapter_order": 1330
+        },
+        {
+          "chapter_id": 99893,
+          "chapter_title": "131话",
+          "updatetime": 1585030792,
+          "filesize": 3968383,
+          "chapter_order": 1320
+        },
+        {
+          "chapter_id": 99892,
+          "chapter_title": "130话",
+          "updatetime": 1585030782,
+          "filesize": 3702177,
+          "chapter_order": 1310
+        },
+        {
+          "chapter_id": 99704,
+          "chapter_title": "129话",
+          "updatetime": 1584670132,
+          "filesize": 2384735,
+          "chapter_order": 1300
+        },
+        {
+          "chapter_id": 99681,
+          "chapter_title": "128话",
+          "updatetime": 1584594283,
+          "filesize": 4113178,
+          "chapter_order": 1290
+        },
+        {
+          "chapter_id": 99620,
+          "chapter_title": "127话",
+          "updatetime": 1584507856,
+          "filesize": 4467627,
+          "chapter_order": 1280
+        },
+        {
+          "chapter_id": 99619,
+          "chapter_title": "126话",
+          "updatetime": 1584507838,
+          "filesize": 4199360,
+          "chapter_order": 1270
+        },
+        {
+          "chapter_id": 99531,
+          "chapter_title": "125话",
+          "updatetime": 1584348374,
+          "filesize": 3732466,
+          "chapter_order": 1260
+        },
+        {
+          "chapter_id": 99459,
+          "chapter_title": "124话",
+          "updatetime": 1584249762,
+          "filesize": 2862929,
+          "chapter_order": 1250
+        },
+        {
+          "chapter_id": 99405,
+          "chapter_title": "123话",
+          "updatetime": 1584158402,
+          "filesize": 2502083,
+          "chapter_order": 1240
+        },
+        {
+          "chapter_id": 99346,
+          "chapter_title": "122话",
+          "updatetime": 1584069654,
+          "filesize": 4248986,
+          "chapter_order": 1230
+        },
+        {
+          "chapter_id": 99336,
+          "chapter_title": "121话",
+          "updatetime": 1584024455,
+          "filesize": 4293918,
+          "chapter_order": 1220
+        },
+        {
+          "chapter_id": 99247,
+          "chapter_title": "120话",
+          "updatetime": 1583898070,
+          "filesize": 4677953,
+          "chapter_order": 1210
+        },
+        {
+          "chapter_id": 99214,
+          "chapter_title": "119话",
+          "updatetime": 1583818770,
+          "filesize": 4552152,
+          "chapter_order": 1200
+        },
+        {
+          "chapter_id": 99158,
+          "chapter_title": "118话",
+          "updatetime": 1583728458,
+          "filesize": 4792026,
+          "chapter_order": 1190
+        },
+        {
+          "chapter_id": 99121,
+          "chapter_title": "117话",
+          "updatetime": 1583642306,
+          "filesize": 4751056,
+          "chapter_order": 1180
+        },
+        {
+          "chapter_id": 99072,
+          "chapter_title": "116话",
+          "updatetime": 1583555123,
+          "filesize": 3414039,
+          "chapter_order": 1170
+        },
+        {
+          "chapter_id": 99026,
+          "chapter_title": "115话",
+          "updatetime": 1583467042,
+          "filesize": 4693112,
+          "chapter_order": 1160
+        },
+        {
+          "chapter_id": 98979,
+          "chapter_title": "114话",
+          "updatetime": 1583375371,
+          "filesize": 3310203,
+          "chapter_order": 1150
+        },
+        {
+          "chapter_id": 98935,
+          "chapter_title": "113话",
+          "updatetime": 1583297862,
+          "filesize": 3488019,
+          "chapter_order": 1140
+        },
+        {
+          "chapter_id": 98909,
+          "chapter_title": "112话",
+          "updatetime": 1583237997,
+          "filesize": 3587499,
+          "chapter_order": 1130
+        },
+        {
+          "chapter_id": 98796,
+          "chapter_title": "111话",
+          "updatetime": 1583119293,
+          "filesize": 2290743,
+          "chapter_order": 1120
+        },
+        {
+          "chapter_id": 98748,
+          "chapter_title": "110话",
+          "updatetime": 1583037667,
+          "filesize": 4061170,
+          "chapter_order": 1110
+        },
+        {
+          "chapter_id": 98719,
+          "chapter_title": "109话",
+          "updatetime": 1582955671,
+          "filesize": 3958191,
+          "chapter_order": 1100
+        },
+        {
+          "chapter_id": 98685,
+          "chapter_title": "108话",
+          "updatetime": 1582881534,
+          "filesize": 3367130,
+          "chapter_order": 1090
+        },
+        {
+          "chapter_id": 98619,
+          "chapter_title": "107话",
+          "updatetime": 1582727193,
+          "filesize": 4200158,
+          "chapter_order": 1080
+        },
+        {
+          "chapter_id": 98566,
+          "chapter_title": "106话",
+          "updatetime": 1582613901,
+          "filesize": 3785768,
+          "chapter_order": 1070
+        },
+        {
+          "chapter_id": 97764,
+          "chapter_title": "105话",
+          "updatetime": 1581178997,
+          "filesize": 5443591,
+          "chapter_order": 1060
+        },
+        {
+          "chapter_id": 97694,
+          "chapter_title": "104话",
+          "updatetime": 1581075207,
+          "filesize": 2680818,
+          "chapter_order": 1050
+        },
+        {
+          "chapter_id": 97670,
+          "chapter_title": "103话",
+          "updatetime": 1580997732,
+          "filesize": 4786882,
+          "chapter_order": 1040
+        },
+        {
+          "chapter_id": 97406,
+          "chapter_title": "102话",
+          "updatetime": 1580476215,
+          "filesize": 4718068,
+          "chapter_order": 1030
+        },
+        {
+          "chapter_id": 97370,
+          "chapter_title": "101话",
+          "updatetime": 1580398761,
+          "filesize": 4045603,
+          "chapter_order": 1020
+        },
+        {
+          "chapter_id": 97319,
+          "chapter_title": "100话",
+          "updatetime": 1580281460,
+          "filesize": 4256117,
+          "chapter_order": 1010
+        },
+        {
+          "chapter_id": 95992,
+          "chapter_title": "99话",
+          "updatetime": 1576681344,
+          "filesize": 4285805,
+          "chapter_order": 1000
+        },
+        {
+          "chapter_id": 95991,
+          "chapter_title": "98话",
+          "updatetime": 1576681307,
+          "filesize": 3579252,
+          "chapter_order": 990
+        },
+        {
+          "chapter_id": 95990,
+          "chapter_title": "97话",
+          "updatetime": 1576681269,
+          "filesize": 4658232,
+          "chapter_order": 980
+        },
+        {
+          "chapter_id": 95989,
+          "chapter_title": "96话",
+          "updatetime": 1576681228,
+          "filesize": 3357258,
+          "chapter_order": 970
+        },
+        {
+          "chapter_id": 95988,
+          "chapter_title": "95话",
+          "updatetime": 1576681171,
+          "filesize": 4434593,
+          "chapter_order": 960
+        },
+        {
+          "chapter_id": 95987,
+          "chapter_title": "94话",
+          "updatetime": 1576681125,
+          "filesize": 3641677,
+          "chapter_order": 950
+        },
+        {
+          "chapter_id": 95520,
+          "chapter_title": "93话",
+          "updatetime": 1575295227,
+          "filesize": 4165455,
+          "chapter_order": 940
+        },
+        {
+          "chapter_id": 95434,
+          "chapter_title": "92话",
+          "updatetime": 1575014832,
+          "filesize": 4881824,
+          "chapter_order": 930
+        },
+        {
+          "chapter_id": 95408,
+          "chapter_title": "91话",
+          "updatetime": 1574920209,
+          "filesize": 3948252,
+          "chapter_order": 920
+        },
+        {
+          "chapter_id": 95374,
+          "chapter_title": "90话",
+          "updatetime": 1574777716,
+          "filesize": 4404172,
+          "chapter_order": 910
+        },
+        {
+          "chapter_id": 95348,
+          "chapter_title": "89话",
+          "updatetime": 1574686557,
+          "filesize": 4242583,
+          "chapter_order": 900
+        },
+        {
+          "chapter_id": 95327,
+          "chapter_title": "88话",
+          "updatetime": 1574612532,
+          "filesize": 2523975,
+          "chapter_order": 890
+        },
+        {
+          "chapter_id": 95271,
+          "chapter_title": "87话",
+          "updatetime": 1574484987,
+          "filesize": 4847954,
+          "chapter_order": 880
+        },
+        {
+          "chapter_id": 95241,
+          "chapter_title": "86话",
+          "updatetime": 1574389465,
+          "filesize": 4878438,
+          "chapter_order": 870
+        },
+        {
+          "chapter_id": 95223,
+          "chapter_title": "85话",
+          "updatetime": 1574305473,
+          "filesize": 3363006,
+          "chapter_order": 860
+        },
+        {
+          "chapter_id": 95222,
+          "chapter_title": "84话",
+          "updatetime": 1574305459,
+          "filesize": 3820904,
+          "chapter_order": 850
+        },
+        {
+          "chapter_id": 92723,
+          "chapter_title": "83话",
+          "updatetime": 1567331239,
+          "filesize": 4428358,
+          "chapter_order": 840
+        },
+        {
+          "chapter_id": 92327,
+          "chapter_title": "82话",
+          "updatetime": 1566118410,
+          "filesize": 2944236,
+          "chapter_order": 830
+        },
+        {
+          "chapter_id": 92173,
+          "chapter_title": "81话",
+          "updatetime": 1565606569,
+          "filesize": 5137440,
+          "chapter_order": 820
+        },
+        {
+          "chapter_id": 92123,
+          "chapter_title": "80话",
+          "updatetime": 1565503479,
+          "filesize": 3181276,
+          "chapter_order": 810
+        },
+        {
+          "chapter_id": 92097,
+          "chapter_title": "79话",
+          "updatetime": 1565416394,
+          "filesize": 3283664,
+          "chapter_order": 800
+        },
+        {
+          "chapter_id": 92048,
+          "chapter_title": "78话",
+          "updatetime": 1565249148,
+          "filesize": 4363775,
+          "chapter_order": 790
+        },
+        {
+          "chapter_id": 92044,
+          "chapter_title": "77话",
+          "updatetime": 1565239592,
+          "filesize": 2592616,
+          "chapter_order": 780
+        },
+        {
+          "chapter_id": 91958,
+          "chapter_title": "76话",
+          "updatetime": 1565015914,
+          "filesize": 3725873,
+          "chapter_order": 770
+        },
+        {
+          "chapter_id": 91902,
+          "chapter_title": "75话",
+          "updatetime": 1564822263,
+          "filesize": 4232910,
+          "chapter_order": 760
+        },
+        {
+          "chapter_id": 91847,
+          "chapter_title": "74话",
+          "updatetime": 1564666131,
+          "filesize": 3988114,
+          "chapter_order": 750
+        },
+        {
+          "chapter_id": 91792,
+          "chapter_title": "73话",
+          "updatetime": 1564561310,
+          "filesize": 2191111,
+          "chapter_order": 740
+        },
+        {
+          "chapter_id": 87328,
+          "chapter_title": "72话",
+          "updatetime": 1552480804,
+          "filesize": 2545692,
+          "chapter_order": 730
+        },
+        {
+          "chapter_id": 87272,
+          "chapter_title": "71话",
+          "updatetime": 1552305125,
+          "filesize": 2601189,
+          "chapter_order": 720
+        },
+        {
+          "chapter_id": 85827,
+          "chapter_title": "70话",
+          "updatetime": 1548405444,
+          "filesize": 1754750,
+          "chapter_order": 710
+        },
+        {
+          "chapter_id": 85456,
+          "chapter_title": "69话",
+          "updatetime": 1547526179,
+          "filesize": 2516147,
+          "chapter_order": 700
+        },
+        {
+          "chapter_id": 84882,
+          "chapter_title": "番外02",
+          "updatetime": 1545643320,
+          "filesize": 988968,
+          "chapter_order": 690
+        },
+        {
+          "chapter_id": 84799,
+          "chapter_title": "番外篇01话",
+          "updatetime": 1545382546,
+          "filesize": 783506,
+          "chapter_order": 680
+        },
+        {
+          "chapter_id": 84134,
+          "chapter_title": "68话",
+          "updatetime": 1543408040,
+          "filesize": 2458389,
+          "chapter_order": 670
+        },
+        {
+          "chapter_id": 84133,
+          "chapter_title": "67话",
+          "updatetime": 1543385202,
+          "filesize": 2279616,
+          "chapter_order": 660
+        },
+        {
+          "chapter_id": 83670,
+          "chapter_title": "66话",
+          "updatetime": 1542168793,
+          "filesize": 2057589,
+          "chapter_order": 650
+        },
+        {
+          "chapter_id": 83641,
+          "chapter_title": "65话",
+          "updatetime": 1542091232,
+          "filesize": 2466988,
+          "chapter_order": 640
+        },
+        {
+          "chapter_id": 83611,
+          "chapter_title": "64话",
+          "updatetime": 1542009805,
+          "filesize": 2422813,
+          "chapter_order": 630
+        },
+        {
+          "chapter_id": 83577,
+          "chapter_title": "63话",
+          "updatetime": 1541910112,
+          "filesize": 2582300,
+          "chapter_order": 620
+        },
+        {
+          "chapter_id": 83558,
+          "chapter_title": "62话",
+          "updatetime": 1541837087,
+          "filesize": 2315542,
+          "chapter_order": 610
+        },
+        {
+          "chapter_id": 83524,
+          "chapter_title": "61话",
+          "updatetime": 1541741216,
+          "filesize": 2255219,
+          "chapter_order": 600
+        },
+        {
+          "chapter_id": 83493,
+          "chapter_title": "60话",
+          "updatetime": 1541650360,
+          "filesize": 2656024,
+          "chapter_order": 590
+        },
+        {
+          "chapter_id": 83458,
+          "chapter_title": "59话",
+          "updatetime": 1541584029,
+          "filesize": 2068179,
+          "chapter_order": 580
+        },
+        {
+          "chapter_id": 83423,
+          "chapter_title": "58话",
+          "updatetime": 1541478687,
+          "filesize": 2674056,
+          "chapter_order": 570
+        },
+        {
+          "chapter_id": 83394,
+          "chapter_title": "57话",
+          "updatetime": 1541399480,
+          "filesize": 2148688,
+          "chapter_order": 560
+        },
+        {
+          "chapter_id": 83364,
+          "chapter_title": "56话",
+          "updatetime": 1541310537,
+          "filesize": 2501320,
+          "chapter_order": 550
+        },
+        {
+          "chapter_id": 83343,
+          "chapter_title": "55话",
+          "updatetime": 1541220645,
+          "filesize": 2157872,
+          "chapter_order": 540
+        },
+        {
+          "chapter_id": 83320,
+          "chapter_title": "54话",
+          "updatetime": 1541136799,
+          "filesize": 2184060,
+          "chapter_order": 530
+        },
+        {
+          "chapter_id": 83281,
+          "chapter_title": "53话",
+          "updatetime": 1541049154,
+          "filesize": 2417320,
+          "chapter_order": 520
+        },
+        {
+          "chapter_id": 83252,
+          "chapter_title": "52话",
+          "updatetime": 1540967187,
+          "filesize": 2539125,
+          "chapter_order": 510
+        },
+        {
+          "chapter_id": 83202,
+          "chapter_title": "51话",
+          "updatetime": 1540870837,
+          "filesize": 2657796,
+          "chapter_order": 500
+        },
+        {
+          "chapter_id": 83318,
+          "chapter_title": "50话",
+          "updatetime": 1541129286,
+          "filesize": 2164048,
+          "chapter_order": 481
+        },
+        {
+          "chapter_id": 83145,
+          "chapter_title": "49话",
+          "updatetime": 1540700036,
+          "filesize": 2663091,
+          "chapter_order": 480
+        },
+        {
+          "chapter_id": 83118,
+          "chapter_title": "48话",
+          "updatetime": 1540616486,
+          "filesize": 2544460,
+          "chapter_order": 470
+        },
+        {
+          "chapter_id": 83083,
+          "chapter_title": "47话",
+          "updatetime": 1540525724,
+          "filesize": 2473103,
+          "chapter_order": 460
+        },
+        {
+          "chapter_id": 83063,
+          "chapter_title": "46话",
+          "updatetime": 1540440808,
+          "filesize": 2234789,
+          "chapter_order": 450
+        },
+        {
+          "chapter_id": 83038,
+          "chapter_title": "45话",
+          "updatetime": 1540353407,
+          "filesize": 2505218,
+          "chapter_order": 440
+        },
+        {
+          "chapter_id": 83014,
+          "chapter_title": "44话",
+          "updatetime": 1540274120,
+          "filesize": 2912464,
+          "chapter_order": 430
+        },
+        {
+          "chapter_id": 82987,
+          "chapter_title": "43话",
+          "updatetime": 1540182511,
+          "filesize": 2174107,
+          "chapter_order": 420
+        },
+        {
+          "chapter_id": 82961,
+          "chapter_title": "42话",
+          "updatetime": 1540101190,
+          "filesize": 2376452,
+          "chapter_order": 410
+        },
+        {
+          "chapter_id": 82943,
+          "chapter_title": "41话",
+          "updatetime": 1540022229,
+          "filesize": 2664007,
+          "chapter_order": 400
+        },
+        {
+          "chapter_id": 82901,
+          "chapter_title": "40话",
+          "updatetime": 1539920983,
+          "filesize": 2463122,
+          "chapter_order": 390
+        },
+        {
+          "chapter_id": 82867,
+          "chapter_title": "39话",
+          "updatetime": 1539838266,
+          "filesize": 2243901,
+          "chapter_order": 380
+        },
+        {
+          "chapter_id": 82857,
+          "chapter_title": "38话",
+          "updatetime": 1539764962,
+          "filesize": 2793816,
+          "chapter_order": 370
+        },
+        {
+          "chapter_id": 82804,
+          "chapter_title": "37话",
+          "updatetime": 1539588015,
+          "filesize": 2312896,
+          "chapter_order": 360
+        },
+        {
+          "chapter_id": 82771,
+          "chapter_title": "36话",
+          "updatetime": 1539432558,
+          "filesize": 2247643,
+          "chapter_order": 350
+        },
+        {
+          "chapter_id": 82726,
+          "chapter_title": "35话",
+          "updatetime": 1539258598,
+          "filesize": 2546627,
+          "chapter_order": 340
+        },
+        {
+          "chapter_id": 82610,
+          "chapter_title": "34话",
+          "updatetime": 1539069130,
+          "filesize": 2537471,
+          "chapter_order": 330
+        },
+        {
+          "chapter_id": 82558,
+          "chapter_title": "33话",
+          "updatetime": 1538894444,
+          "filesize": 2276470,
+          "chapter_order": 320
+        },
+        {
+          "chapter_id": 82493,
+          "chapter_title": "32话",
+          "updatetime": 1538714389,
+          "filesize": 2104339,
+          "chapter_order": 310
+        },
+        {
+          "chapter_id": 82468,
+          "chapter_title": "31话",
+          "updatetime": 1538649583,
+          "filesize": 2350389,
+          "chapter_order": 300
+        },
+        {
+          "chapter_id": 82360,
+          "chapter_title": "30话",
+          "updatetime": 1538372899,
+          "filesize": 2772594,
+          "chapter_order": 290
+        },
+        {
+          "chapter_id": 81964,
+          "chapter_title": "29话",
+          "updatetime": 1537261775,
+          "filesize": 3763979,
+          "chapter_order": 280
+        },
+        {
+          "chapter_id": 81864,
+          "chapter_title": "28话",
+          "updatetime": 1536932712,
+          "filesize": 2461179,
+          "chapter_order": 270
+        },
+        {
+          "chapter_id": 81865,
+          "chapter_title": "27话",
+          "updatetime": 1536933877,
+          "filesize": 2681292,
+          "chapter_order": 265
+        },
+        {
+          "chapter_id": 81790,
+          "chapter_title": "26话",
+          "updatetime": 1536731404,
+          "filesize": 2579625,
+          "chapter_order": 260
+        },
+        {
+          "chapter_id": 81756,
+          "chapter_title": "25话",
+          "updatetime": 1536647865,
+          "filesize": 2334797,
+          "chapter_order": 250
+        },
+        {
+          "chapter_id": 81711,
+          "chapter_title": "24话",
+          "updatetime": 1536553832,
+          "filesize": 2513814,
+          "chapter_order": 240
+        },
+        {
+          "chapter_id": 81683,
+          "chapter_title": "23话",
+          "updatetime": 1536462943,
+          "filesize": 2176357,
+          "chapter_order": 230
+        },
+        {
+          "chapter_id": 81638,
+          "chapter_title": "22话",
+          "updatetime": 1536305755,
+          "filesize": 2175478,
+          "chapter_order": 220
+        },
+        {
+          "chapter_id": 81608,
+          "chapter_title": "21话",
+          "updatetime": 1536214209,
+          "filesize": 2289682,
+          "chapter_order": 210
+        },
+        {
+          "chapter_id": 81403,
+          "chapter_title": "20话",
+          "updatetime": 1535631092,
+          "filesize": 2409076,
+          "chapter_order": 200
+        },
+        {
+          "chapter_id": 80828,
+          "chapter_title": "19话",
+          "updatetime": 1534144387,
+          "filesize": 1973007,
+          "chapter_order": 190
+        },
+        {
+          "chapter_id": 80807,
+          "chapter_title": "18话",
+          "updatetime": 1534078936,
+          "filesize": 2790209,
+          "chapter_order": 180
+        },
+        {
+          "chapter_id": 80714,
+          "chapter_title": "17话",
+          "updatetime": 1533823391,
+          "filesize": 2366361,
+          "chapter_order": 170
+        },
+        {
+          "chapter_id": 80587,
+          "chapter_title": "16话",
+          "updatetime": 1533540698,
+          "filesize": 1970744,
+          "chapter_order": 160
+        },
+        {
+          "chapter_id": 80556,
+          "chapter_title": "15话",
+          "updatetime": 1533462354,
+          "filesize": 1597641,
+          "chapter_order": 150
+        },
+        {
+          "chapter_id": 80465,
+          "chapter_title": "14话",
+          "updatetime": 1533275424,
+          "filesize": 2051296,
+          "chapter_order": 140
+        },
+        {
+          "chapter_id": 80220,
+          "chapter_title": "13话",
+          "updatetime": 1532924678,
+          "filesize": 2207662,
+          "chapter_order": 130
+        },
+        {
+          "chapter_id": 80078,
+          "chapter_title": "12话",
+          "updatetime": 1532527975,
+          "filesize": 2104832,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 79927,
+          "chapter_title": "11话",
+          "updatetime": 1532159290,
+          "filesize": 2334268,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 79032,
+          "chapter_title": "10话",
+          "updatetime": 1530163066,
+          "filesize": 2310216,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 78671,
+          "chapter_title": "9话",
+          "updatetime": 1529214621,
+          "filesize": 2038141,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 77800,
+          "chapter_title": "8话",
+          "updatetime": 1527236973,
+          "filesize": 2004817,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 77342,
+          "chapter_title": "7话",
+          "updatetime": 1526194218,
+          "filesize": 2385082,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 77272,
+          "chapter_title": "6话",
+          "updatetime": 1526015574,
+          "filesize": 2482838,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 77063,
+          "chapter_title": "5话",
+          "updatetime": 1525411352,
+          "filesize": 2191966,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 77002,
+          "chapter_title": "4话",
+          "updatetime": 1525241131,
+          "filesize": 3122225,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 76899,
+          "chapter_title": "3话",
+          "updatetime": 1524891742,
+          "filesize": 2577399,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 76782,
+          "chapter_title": "2话",
+          "updatetime": 1524630046,
+          "filesize": 3680647,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 76568,
+          "chapter_title": "1话",
+          "updatetime": 1524118169,
+          "filesize": 6153806,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 47059,
+    "latest_comment": [
+      {
+        "comment_id": 30073188,
+        "uid": 108753319,
+        "content": "留下自己的足迹",
+        "createtime": 1598900233,
+        "nickname": "一个小菜鸡",
+        "avatar": "https://avatar.dmzj.com/fc/03/fc0351ac6a934be21b11760d4a441bcb.png"
+      },
+      {
+        "comment_id": 30070362,
+        "uid": 108295860,
+        "content": "看完电影看漫画",
+        "createtime": 1598891688,
+        "nickname": "图拉丁",
+        "avatar": "https://avatar.dmzj.com/5c/b1/5cb120a22e198783d2ae6eaea0d75832.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

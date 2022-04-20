@@ -1,0 +1,71 @@
+{
+  "id": 48671,
+  "islong": 2,
+  "direction": 2,
+  "title": "AI朋友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1092275491559130594.jpg",
+  "description": "七年前的夏天，我交了第一个朋友",
+  "last_updatetime": 1559131129,
+  "copyright": 1,
+  "first_letter": "a",
+  "hot_num": 12833,
+  "hit_num": 22866,
+  "uid": 109227549,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17137,
+      "tag_name": "一叶"
+    }
+  ],
+  "subscribe_num": 56,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88941,
+          "chapter_title": "1话",
+          "updatetime": 1559131129,
+          "filesize": 72297,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "随手画，不喜欢的XX吧",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 16643336,
+        "uid": 23905237,
+        "content": "先求求字大点",
+        "createtime": 1559304302,
+        "nickname": "风语0翼",
+        "avatar": "https://avatar.dmzj.com/7c/f8/7cf878e099ed08caf18409f33c1c7a4a.png"
+      },
+      {
+        "comment_id": 16643250,
+        "uid": 101718465,
+        "content": "俺也一样",
+        "createtime": 1559304122,
+        "nickname": "明太祖朱元璋",
+        "avatar": "https://avatar.dmzj.com/98/79/98799fbc354f0a76d87a29c75744e1ca.png"
+      }
+    ]
+  }
+}

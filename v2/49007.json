@@ -1,0 +1,73 @@
+{
+  "id": 49007,
+  "islong": 2,
+  "direction": 1,
+  "title": "黑莓巧克力",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/heimeiqiaokeli0701.jpg",
+  "description": "尔虞我诈的情人节恋爱喜剧",
+  "last_updatetime": 1561913963,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 776424,
+  "hit_num": 113250,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7449,
+      "tag_name": "ミユキ蜜蜂"
+    }
+  ],
+  "subscribe_num": 2660,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89824,
+          "chapter_title": "1话",
+          "updatetime": 1561913963,
+          "filesize": 7622609,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 112,
+    "latest_comment": [
+      {
+        "comment_id": 29571861,
+        "uid": 100790391,
+        "content": "完全没法耍帅",
+        "createtime": 1596973271,
+        "nickname": "恐怖庄园的秘密",
+        "avatar": "https://avatar.dmzj.com/ce/38/ce38c27de9cf63c0d116b83fc587e6cd.png"
+      },
+      {
+        "comment_id": 29547375,
+        "uid": 105100365,
+        "content": "呜呜呜这是什么甜味狗粮嗷呜～",
+        "createtime": 1596877658,
+        "nickname": "Æ沽源",
+        "avatar": "https://avatar.dmzj.com/82/17/82171dcfe6211b169f7a7f85e314a731.png"
+      }
+    ]
+  }
+}

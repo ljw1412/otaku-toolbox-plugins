@@ -1,0 +1,73 @@
+{
+  "id": 40105,
+  "islong": 2,
+  "direction": 1,
+  "title": "午夜罗宾",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/170402wuyeluobinfml.jpg",
+  "description": "世界最快的女生来了！讲述为了赚取学费而每天悄悄拯救世界的女子高中生的故事！",
+  "last_updatetime": 1491111867,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 13842,
+  "hit_num": 88625,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13056,
+      "tag_name": "永田愁"
+    }
+  ],
+  "subscribe_num": 444,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 64133,
+          "chapter_title": "1话",
+          "updatetime": 1491111867,
+          "filesize": 5935996,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 23230389,
+        "uid": 102202190,
+        "content": "最近很多短篇重发a，不过挺好的",
+        "createtime": 1578802492,
+        "nickname": "kylan",
+        "avatar": "https://avatar.dmzj.com/d7/e1/d7e174bdda7a2f2a932e7a7e724aa1b8.png"
+      },
+      {
+        "comment_id": 23177778,
+        "uid": 102092376,
+        "content": "要是有后续就好了",
+        "createtime": 1578586974,
+        "nickname": "我不配对不起",
+        "avatar": "https://avatar.dmzj.com/18/69/1869452251581e0825fad62d0bab0c95.png"
+      }
+    ]
+  }
+}

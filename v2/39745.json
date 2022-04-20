@@ -1,0 +1,96 @@
+{
+  "id": 39745,
+  "islong": 2,
+  "direction": 2,
+  "title": "中国异闻录",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1006556221486220874.jpg",
+  "description": "镭暴工作室",
+  "last_updatetime": 1488010461,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 94474,
+  "hit_num": 757465,
+  "uid": 100655622,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11130,
+      "tag_name": "镭暴工作室"
+    }
+  ],
+  "subscribe_num": 906,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 63137,
+          "chapter_title": "4话",
+          "updatetime": 1488010461,
+          "filesize": 519374,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 62963,
+          "chapter_title": "3话",
+          "updatetime": 1487557960,
+          "filesize": 619603,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 62595,
+          "chapter_title": "2话",
+          "updatetime": 1486884013,
+          "filesize": 642805,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 62430,
+          "chapter_title": "1话",
+          "updatetime": 1486220958,
+          "filesize": 633730,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "这里是镭暴工作室，我是镭叔。\n爱喝酒，爱讲故事。\n希望大家看得开心。\n所有作品都是原创，如有雷同，是他抄我。",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 40,
+    "latest_comment": [
+      {
+        "comment_id": 20969938,
+        "uid": 109792416,
+        "content": "踩点",
+        "createtime": 1570331213,
+        "nickname": "dmzj_109792416",
+        "avatar": "https://avatar.dmzj.com/6e/9f/6e9f2b15b1c176be2e4c3a650296d0f0.png"
+      },
+      {
+        "comment_id": 20145036,
+        "uid": 108794810,
+        "content": "故事很赞",
+        "createtime": 1567964547,
+        "nickname": "阿飞DMZJ",
+        "avatar": "https://avatar.dmzj.com/57/07/57077c13fbcf0b2e66d6947116b8130a.png"
+      }
+    ]
+  }
+}

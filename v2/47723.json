@@ -1,0 +1,97 @@
+{
+  "id": 47723,
+  "islong": 2,
+  "direction": 1,
+  "title": "肉桂 Cinnamon",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/rougui20193091.jpg",
+  "description": "人外X人类 百合漫画集",
+  "last_updatetime": 1552995496,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 2791084,
+  "hit_num": 148618,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 12743,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82409,
+          "chapter_title": "5话",
+          "updatetime": 1552995496,
+          "filesize": 1553266,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 82301,
+          "chapter_title": "4话",
+          "updatetime": 1552669315,
+          "filesize": 3890611,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 82183,
+          "chapter_title": "3话",
+          "updatetime": 1552386849,
+          "filesize": 2940586,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 82128,
+          "chapter_title": "2话",
+          "updatetime": 1552270961,
+          "filesize": 4102122,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 82052,
+          "chapter_title": "1话",
+          "updatetime": 1552122858,
+          "filesize": 3414956,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 659,
+    "latest_comment": [
+      {
+        "comment_id": 29915859,
+        "uid": 104923903,
+        "content": "化验结果出来了，糖里没有一点尿素。",
+        "createtime": 1598287230,
+        "nickname": "莫得理智的咸鱼",
+        "avatar": "https://avatar.dmzj.com/70/81/7081a5ead0fc2639831346cfdadefe26.png"
+      },
+      {
+        "comment_id": 29914749,
+        "uid": 105641541,
+        "content": "留",
+        "createtime": 1598285289,
+        "nickname": "Sprout",
+        "avatar": "https://avatar.dmzj.com/38/97/38971f7e9b6b24987f0f30bd49b6bb75.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 44533,
+  "islong": 2,
+  "direction": 1,
+  "title": "铁拳勇者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1005838171528404086.jpg",
+  "description": "努力成为勇者的普通人",
+  "last_updatetime": 1528404290,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 267208,
+  "hit_num": 2249175,
+  "uid": 100583817,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15063,
+      "tag_name": "绅士菌"
+    }
+  ],
+  "subscribe_num": 1036,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72248,
+          "chapter_title": "0话",
+          "updatetime": 1528404290,
+          "filesize": 609157,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 26228048,
+        "uid": 108040818,
+        "content": "不更了吗",
+        "createtime": 1586344680,
+        "nickname": "我不是怪异",
+        "avatar": "https://avatar.dmzj.com/11/99/1199d34e68a4222147313221cae18321.png"
+      },
+      {
+        "comment_id": 18990594,
+        "uid": 108061488,
+        "content": "嘤嘤嘤",
+        "createtime": 1564864639,
+        "nickname": "嗷呜呜呜w",
+        "avatar": "https://avatar.dmzj.com/90/26/90264247ad1039f6065b8cb9e00a62d5.png"
+      }
+    ]
+  }
+}

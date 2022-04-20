@@ -1,0 +1,73 @@
+{
+  "id": 45858,
+  "islong": 2,
+  "direction": 1,
+  "title": "我的女孩",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/wodenvhai0921vbvb.jpg",
+  "description": "结界组，灵梦与八云紫纠结绵绸的百合故事~",
+  "last_updatetime": 1537520566,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 212566,
+  "hit_num": 14856,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6111,
+      "tag_name": "赤色バニラ"
+    }
+  ],
+  "subscribe_num": 945,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76275,
+          "chapter_title": "1话",
+          "updatetime": 1537520567,
+          "filesize": 5321580,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 56,
+    "latest_comment": [
+      {
+        "comment_id": 27955303,
+        "uid": 105696370,
+        "content": "猝不及防的刀子",
+        "createtime": 1591385145,
+        "nickname": "午夜琉璃花",
+        "avatar": "https://avatar.dmzj.com/26/82/2682734f3f11a416ac2ad88a741bde3d.png"
+      },
+      {
+        "comment_id": 22607445,
+        "uid": 100334869,
+        "content": "很多二设其实听作者的就好",
+        "createtime": 1576307941,
+        "nickname": "驻舰法师",
+        "avatar": "https://avatar.dmzj.com/c2/fe/c2fea30551cc80e0b47b9f2bd4d3aac6.png"
+      }
+    ]
+  }
+}

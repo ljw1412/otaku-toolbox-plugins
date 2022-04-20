@@ -1,0 +1,94 @@
+{
+  "id": 40277,
+  "islong": 2,
+  "direction": 2,
+  "title": "战锤40K：短篇辑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/170425duanpian.jpg",
+  "description": "“勇者从无疑问，他们只是践行。”",
+  "last_updatetime": 1493106070,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 630324,
+  "hit_num": 78816,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 2722,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 64733,
+          "chapter_title": "4话",
+          "updatetime": 1493106070,
+          "filesize": 509292,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 64732,
+          "chapter_title": "3话",
+          "updatetime": 1493105990,
+          "filesize": 721777,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 64731,
+          "chapter_title": "2话",
+          "updatetime": 1493105953,
+          "filesize": 1904166,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 64730,
+          "chapter_title": "1话",
+          "updatetime": 1493105912,
+          "filesize": 1936957,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 36,
+    "latest_comment": [
+      {
+        "comment_id": 24913168,
+        "uid": 23152893,
+        "content": "赞美帝皇",
+        "createtime": 1583417164,
+        "nickname": "Skilley",
+        "avatar": "https://avatar.dmzj.com/37/95/3795aea908727d9906243e366c33e134.png"
+      },
+      {
+        "comment_id": 18430755,
+        "uid": 107422987,
+        "content": "赞美翻译庭",
+        "createtime": 1563584312,
+        "nickname": "习惯了作死",
+        "avatar": "https://avatar.dmzj.com/29/98/2998d49d3132fe19e712b95649ccab20.png"
+      }
+    ]
+  }
+}

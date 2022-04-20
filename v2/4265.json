@@ -1,0 +1,75 @@
+{
+  "id": 4265,
+  "islong": 2,
+  "direction": 1,
+  "title": "爱情追追追",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/5dcomic-001_2a56918ead34d2b1ab9acfe8e551a2a7.jpg",
+  "description": "三个小故事。。1>爱情追追追 2>爱的手铐 3>[真夏的情人]后续--- 小丽的候补情人!",
+  "last_updatetime": 1278572381,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "aizzzui",
+  "hidden": 0,
+  "hot_num": 21363,
+  "hit_num": 471449,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 10516,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 745,
+      "tag_name": "高田理惠"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 150,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10516,
+          "chapter_title": "1卷",
+          "updatetime": 1279177181,
+          "filesize": 8450453,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 25554231,
+        "uid": 100378600,
+        "content": "还挺好玩的，",
+        "createtime": 1584857930,
+        "nickname": "夏铃娜娜",
+        "avatar": "https://avatar.dmzj.com/db/bc/dbbcc208be3b1578f29f3fe63989e5ef.png"
+      },
+      {
+        "comment_id": 16646565,
+        "uid": 107700304,
+        "content": "_(:3」∠❀)_",
+        "createtime": 1559310779,
+        "nickname": "名称不可显示",
+        "avatar": "https://avatar.dmzj.com/28/51/285121ba2a838d4d7f069518c5c9e6f4.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

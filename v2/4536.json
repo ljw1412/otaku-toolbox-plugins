@@ -1,0 +1,77 @@
+{
+  "id": 4536,
+  "islong": 2,
+  "direction": 1,
+  "title": "CROSS",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/02_59790089efc8ecc94e29d95f528e9010.jpg",
+  "description": "短篇漫画",
+  "last_updatetime": 1279190641,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 184164,
+  "hit_num": 3255762,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2606,
+      "tag_name": "大贺浅木"
+    }
+  ],
+  "subscribe_num": 1127,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8383,
+          "chapter_title": "1话",
+          "updatetime": 1279795441,
+          "filesize": 5700463,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 2283424,
+        "uid": 102400414,
+        "content": "画面好乱",
+        "createtime": 1496765203,
+        "nickname": "月婧纶",
+        "avatar": "https://avatar.dmzj.com/e5/1c/e51c868be3fd533aed23876dde81c759.png"
+      },
+      {
+        "comment_id": 1465765,
+        "uid": 101860509,
+        "content": "你真相了",
+        "createtime": 1479047246,
+        "nickname": "伊米忒缇",
+        "avatar": "https://avatar.dmzj.com/27/30/2730e389d9a67de9d44b72b2003611b0.png"
+      }
+    ]
+  }
+}

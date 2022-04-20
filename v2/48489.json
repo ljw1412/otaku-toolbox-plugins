@@ -1,0 +1,114 @@
+{
+  "id": 48489,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠/忍者神龟V2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/renzheshengguilaohei0517.jpg",
+  "description": "蝙蝠侠将再次与忍者神龟不打不相识，这部续作共六卷，仍然由《蝙蝠侠》与《侦探漫画》编剧James Tynion IV打造剧本，《希曼》与《霹雳猫》绘图设计Freddie Williams II绘制。",
+  "last_updatetime": 1583337480,
+  "last_update_chapter_name": "第06卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bianfuxiarenzheshenguiv2",
+  "hidden": 0,
+  "hot_num": 142282,
+  "hit_num": 35401,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94977,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 641,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94977,
+          "chapter_title": "6卷",
+          "updatetime": 1583337480,
+          "filesize": 5602557,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 90026,
+          "chapter_title": "5卷",
+          "updatetime": 1571371662,
+          "filesize": 4168074,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 90025,
+          "chapter_title": "4卷",
+          "updatetime": 1571371613,
+          "filesize": 3923698,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 86786,
+          "chapter_title": "3卷",
+          "updatetime": 1562939108,
+          "filesize": 3708153,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 86785,
+          "chapter_title": "2卷",
+          "updatetime": 1562939086,
+          "filesize": 3522094,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 84943,
+          "chapter_title": "1卷",
+          "updatetime": 1558027634,
+          "filesize": 4198580,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 35,
+    "latest_comment": [
+      {
+        "comment_id": 28825632,
+        "uid": 109932441,
+        "content": "看样子，这个系列还会继续出!蝙蝠侠与忍者神龟系列已经出了好几年了，动画电影也出了，看来官方是很重视这个系列的",
+        "createtime": 1594348667,
+        "nickname": "dmzj_109932441",
+        "avatar": "https://avatar.dmzj.com/3d/ac/3dacc1eb1e9d9eee9393aac99dd7448f.png"
+      },
+      {
+        "comment_id": 25632384,
+        "uid": 108334516,
+        "content": "该漫画由James Tynion IV撰写，Freddie Williams III、Jeremy Colwell和Tom Napolitano绘画",
+        "createtime": 1585042514,
+        "nickname": "yag是看着倒",
+        "avatar": "https://avatar.dmzj.com/73/07/730782abf413fc8a47e7ccafd9bc6df7.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,108 @@
+{
+  "id": 49378,
+  "islong": 2,
+  "direction": 2,
+  "title": "漫威宇宙史记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/190726marv.jpg",
+  "description": "这可能是史上标题最宏大的漫画刊物之一，也是漫威献给自己的八十岁生日礼物。如果说昨天希克曼的X皇室让我们领略了未来的风貌，那么这周的另一本新刊就带我们回顾了过去的辉煌。从天地鸿蒙到神明诞生，从人类在进化史上的挣扎到秘密结社崭露头角……亿万年的历史在薄薄的书页上为你呈现……本刊还附有详尽的批注，详解了每一处设定的出处。",
+  "last_updatetime": 1576900756,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 175252,
+  "hit_num": 156198,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 712,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91369,
+          "chapter_title": "6卷",
+          "updatetime": 1576900756,
+          "filesize": 7933468,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 90318,
+          "chapter_title": "5卷",
+          "updatetime": 1573886371,
+          "filesize": 8792312,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 89442,
+          "chapter_title": "4卷",
+          "updatetime": 1571586477,
+          "filesize": 8007582,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 88487,
+          "chapter_title": "3卷",
+          "updatetime": 1569053113,
+          "filesize": 8580708,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 87463,
+          "chapter_title": "2卷",
+          "updatetime": 1566475842,
+          "filesize": 8112682,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 86351,
+          "chapter_title": "1卷",
+          "updatetime": 1564111333,
+          "filesize": 7157402,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 96,
+    "latest_comment": [
+      {
+        "comment_id": 23710470,
+        "uid": 103462224,
+        "content": "说辱华的看清楚了别人是在正视错误，这是部史记就该写过去写过的，懂？",
+        "createtime": 1580633935,
+        "nickname": "国漫1垃圾",
+        "avatar": "https://avatar.dmzj.com/78/34/783466ce3b08cc0232ccd310214d7cf6.png"
+      },
+      {
+        "comment_id": 23549997,
+        "uid": 102105650,
+        "content": "看完了",
+        "createtime": 1580139866,
+        "nickname": "0000p",
+        "avatar": "https://avatar.dmzj.com/33/26/332650336419df8a1f7efa53a34a6fef.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": 45590,
+  "islong": 2,
+  "direction": 1,
+  "title": "琪露诺冠位指定",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/180829bai.jpg",
+  "description": "东方×fgo，强烈推荐！！！为了修复特异点，幻想乡的各位穿越到了三年前的幻想乡的故事~试问……你就是我的master吗？",
+  "last_updatetime": 1535545574,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 392322,
+  "hit_num": 101687,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5963,
+      "tag_name": "御月ユウヤ"
+    }
+  ],
+  "subscribe_num": 1705,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81357,
+          "chapter_title": "黑",
+          "updatetime": 1535545574,
+          "filesize": 4881637,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 81355,
+          "chapter_title": "白",
+          "updatetime": 1535534111,
+          "filesize": 4783231,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 130,
+    "latest_comment": [
+      {
+        "comment_id": 27790573,
+        "uid": 104804387,
+        "content": "画风没几年前带感了啊，可能是好几年没画了的原因吧",
+        "createtime": 1590770917,
+        "nickname": "喵喵喵49514",
+        "avatar": "https://avatar.dmzj.com/82/61/82611d3a7f2b220521519c7d98b0afe4.png"
+      },
+      {
+        "comment_id": 27209714,
+        "uid": 105696370,
+        "content": "这个作者还是黑篇舒服，白的看不惯了",
+        "createtime": 1588927042,
+        "nickname": "午夜琉璃花",
+        "avatar": "https://avatar.dmzj.com/26/82/2682734f3f11a416ac2ad88a741bde3d.png"
+      }
+    ]
+  }
+}

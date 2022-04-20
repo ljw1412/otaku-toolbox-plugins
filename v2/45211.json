@@ -1,0 +1,69 @@
+{
+  "id": 45211,
+  "islong": 2,
+  "direction": 1,
+  "title": "久米田康治插画集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/180804shedinghuaji.jpg",
+  "description": "久米田康治在ILLUST DAYS上发布的插画作品。",
+  "last_updatetime": 1533347359,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 405497,
+  "hit_num": 12307,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 223,
+      "tag_name": "久米田康治"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1901,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79206,
+          "chapter_title": "1话",
+          "updatetime": 1533347359,
+          "filesize": 860106,
+          "chapter_order": 20
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 58,
+    "latest_comment": [
+      {
+        "comment_id": 29089101,
+        "uid": 108398989,
+        "content": "不愧是久米田",
+        "createtime": 1595223776,
+        "nickname": "dmzj_108398989",
+        "avatar": "https://avatar.dmzj.com/44/65/446573b82a15935bd936d63cf328b4fe.png"
+      },
+      {
+        "comment_id": 28809402,
+        "uid": 109021897,
+        "content": "有没有隐瞒之事呢？",
+        "createtime": 1594295179,
+        "nickname": "斩月过客",
+        "avatar": "https://avatar.dmzj.com/40/46/40469c47a0d1be12d468974035fe0f03.png"
+      }
+    ]
+  }
+}

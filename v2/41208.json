@@ -1,0 +1,73 @@
+{
+  "id": 41208,
+  "islong": 2,
+  "direction": 1,
+  "title": "日本妖怪完全图解事典",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/rbygwqtjshidianfengmianl.jpg",
+  "description": "详细介绍日本151种妖怪",
+  "last_updatetime": 1502516763,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 1146267,
+  "hit_num": 1310298,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13602,
+      "tag_name": "小松和彦"
+    },
+    {
+      "tag_id": 13603,
+      "tag_name": "饭仓义之"
+    }
+  ],
+  "subscribe_num": 5197,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 62215,
+          "chapter_title": "1卷",
+          "updatetime": 1502516763,
+          "filesize": 28511688,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 173,
+    "latest_comment": [
+      {
+        "comment_id": 29783619,
+        "uid": 103419067,
+        "content": "草啊山海经",
+        "createtime": 1597805655,
+        "nickname": "啊咧咧咧咧咧",
+        "avatar": "https://avatar.dmzj.com/73/50/73508b1b220cc9bfd9e2eec942d910b9.png"
+      },
+      {
+        "comment_id": 29723182,
+        "uid": 110948563,
+        "content": "不错",
+        "createtime": 1597584453,
+        "nickname": "dmzj_110948563",
+        "avatar": "https://avatar.dmzj.com/6d/c2/6dc2849764aaf25cd5fdd97d2d22bdbc.png"
+      }
+    ]
+  }
+}

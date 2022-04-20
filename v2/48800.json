@@ -1,0 +1,89 @@
+{
+  "id": 48800,
+  "islong": 2,
+  "direction": 2,
+  "title": "魔王的赌约",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1010727711560234864.jpg",
+  "description": "与奇怪的大姐姐相爱相杀的故事。（我不是我没有",
+  "last_updatetime": 1560316366,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 169321,
+  "hit_num": 4320236,
+  "uid": 101072771,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16091,
+      "tag_name": "暮苏"
+    }
+  ],
+  "subscribe_num": 645,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90263,
+          "chapter_title": "3话",
+          "updatetime": 1560316366,
+          "filesize": 3829434,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 90262,
+          "chapter_title": "2话",
+          "updatetime": 1560315682,
+          "filesize": 2510621,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 90261,
+          "chapter_title": "1话",
+          "updatetime": 1560236711,
+          "filesize": 2962719,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 58,
+    "latest_comment": [
+      {
+        "comment_id": 28536577,
+        "uid": 110846773,
+        "content": "留",
+        "createtime": 1593430998,
+        "nickname": "dmzj_110846773",
+        "avatar": "https://avatar.dmzj.com/0d/30/0d301226be84cc4a2b1ff01b5f931873.png"
+      },
+      {
+        "comment_id": 20397530,
+        "uid": 100803828,
+        "content": "我好了！我竟然今天才看到太太的新连载x",
+        "createtime": 1568738427,
+        "nickname": "葱岚",
+        "avatar": "https://avatar.dmzj.com/a2/65/a2659ea40bb62c2b673876ab9d7f1491.png"
+      }
+    ]
+  }
+}

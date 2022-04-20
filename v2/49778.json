@@ -1,0 +1,76 @@
+{
+  "id": 49778,
+  "islong": 2,
+  "direction": 1,
+  "title": "异界偶像是传奇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/yijieouxiangshichuanqi.jpg",
+  "description": "传奇制作人异世界转生后的偶像制造之旅",
+  "last_updatetime": 1573917020,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 1827556,
+  "hit_num": 455189,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17682,
+      "tag_name": "丸和太郎"
+    }
+  ],
+  "subscribe_num": 8451,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90335,
+          "chapter_title": "2话",
+          "updatetime": 1573917020,
+          "filesize": 8623038,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 87455,
+          "chapter_title": "1话",
+          "updatetime": 1566456591,
+          "filesize": 8487406,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 407,
+    "latest_comment": [
+      {
+        "comment_id": 30040063,
+        "uid": 111253761,
+        "content": "察言观色，扩大内需",
+        "createtime": 1598767416,
+        "nickname": "灬墨染",
+        "avatar": "https://avatar.dmzj.com/7b/bd/7bbd0def63a0bba18612aa9461b5981f.png"
+      },
+      {
+        "comment_id": 29928401,
+        "uid": 105040887,
+        "content": "几百年过去了",
+        "createtime": 1598340476,
+        "nickname": "阿司匹林•",
+        "avatar": "https://avatar.dmzj.com/53/05/5305d08ae4c357f43a507bef227ff86a.png"
+      }
+    ]
+  }
+}

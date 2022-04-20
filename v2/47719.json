@@ -1,0 +1,79 @@
+{
+  "id": 47719,
+  "islong": 2,
+  "direction": 1,
+  "title": "七色明星",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/qisemingxing111.jpg",
+  "description": "东方同人漫画，传说中的偶像爱丽丝，挖掘她并和他一起走到顶峰是我经纪人生涯最引以为傲的事情。",
+  "last_updatetime": 1552097212,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qisemingxing",
+  "hidden": 0,
+  "hot_num": 130330,
+  "hit_num": 2900,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 82666,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16633,
+      "tag_name": "しじみ"
+    }
+  ],
+  "subscribe_num": 608,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82666,
+          "chapter_title": "1话",
+          "updatetime": 1552097212,
+          "filesize": 1948898,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 40,
+    "latest_comment": [
+      {
+        "comment_id": 27676078,
+        "uid": 110101748,
+        "content": "那么莎莎的小说在哪里才能买到呢？",
+        "createtime": 1590405897,
+        "nickname": "merit\\'gemini",
+        "avatar": "https://avatar.dmzj.com/77/29/7729f4e5af0b11af238a3bb51585bef5.png"
+      },
+      {
+        "comment_id": 16113687,
+        "uid": 106132777,
+        "content": "励志是什么鬼啊!",
+        "createtime": 1558251565,
+        "nickname": "哆哆哆来咪",
+        "avatar": "https://avatar.dmzj.com/06/b5/06b5d85e939af61799dd92a466731dfc.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

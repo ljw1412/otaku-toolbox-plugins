@@ -1,0 +1,75 @@
+{
+  "id": 49729,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C96)娜姿眠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/nzm20190820.jpg",
+  "description": "使用催眠术使娜姿将自己想像成宝可梦的搭档。",
+  "last_updatetime": 1566279913,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "nazimian",
+  "hidden": 0,
+  "hot_num": 836270,
+  "hit_num": 362896,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 88026,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13834,
+      "tag_name": "绯月アキラ"
+    }
+  ],
+  "subscribe_num": 12490,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88026,
+          "chapter_title": "1话",
+          "updatetime": 1566279913,
+          "filesize": 3578742,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2220,
+    "latest_comment": [
+      {
+        "comment_id": 30072995,
+        "uid": 100396884,
+        "content": "大车碾小孩",
+        "createtime": 1598899355,
+        "nickname": "真白加白",
+        "avatar": "https://avatar.dmzj.com/52/71/52716390da87123cbf1df7f2045c204c.png"
+      },
+      {
+        "comment_id": 30044821,
+        "uid": 107547391,
+        "content": "好东西",
+        "createtime": 1598789925,
+        "nickname": "沃龙",
+        "avatar": "https://avatar.dmzj.com/43/79/437946116cd11328a5f34986aba9021b.png"
+      }
+    ]
+  },
+  "is_need_login": 1
+}

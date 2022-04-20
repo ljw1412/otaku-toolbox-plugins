@@ -1,0 +1,73 @@
+{
+  "id": 43035,
+  "islong": 2,
+  "direction": 1,
+  "title": "我的小黑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/180206xiaoheijj.jpg",
+  "description": "女孩子的每一天都是冒险！\n此漫画是白浜鸥早期在《Fellows！》（现在的《ハルタ》）2011年08月号上出道的短篇。",
+  "last_updatetime": 1517909611,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 589079,
+  "hit_num": 35872,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7820,
+      "tag_name": "白浜鸥"
+    }
+  ],
+  "subscribe_num": 2715,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73839,
+          "chapter_title": "1话",
+          "updatetime": 1517909611,
+          "filesize": 3534969,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 86,
+    "latest_comment": [
+      {
+        "comment_id": 30030516,
+        "uid": 111065316,
+        "content": "繁复的画风！好香！",
+        "createtime": 1598718882,
+        "nickname": "今天也很卑微",
+        "avatar": "https://avatar.dmzj.com/12/70/127001dcbb217d006711ea41161dfec4.png"
+      },
+      {
+        "comment_id": 29049635,
+        "uid": 100821293,
+        "content": "留",
+        "createtime": 1595088269,
+        "nickname": "あの ひ日 み見",
+        "avatar": "https://avatar.dmzj.com/50/87/5087b073846872055d37c6c69a2ccfdf.png"
+      }
+    ]
+  }
+}

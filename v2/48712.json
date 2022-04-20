@@ -1,0 +1,79 @@
+{
+  "id": 48712,
+  "islong": 2,
+  "direction": 1,
+  "title": "唯我独尊摩多罗",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/wwdz20190603.jpg",
+  "description": "东方同人欢乐漫画",
+  "last_updatetime": 1559576650,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "weiwoduzunmoduoluo",
+  "hidden": 0,
+  "hot_num": 148890,
+  "hit_num": 9104,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 88928,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16395,
+      "tag_name": "古河おどろ"
+    }
+  ],
+  "subscribe_num": 653,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88928,
+          "chapter_title": "1话",
+          "updatetime": 1559576650,
+          "filesize": 3190923,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 50,
+    "latest_comment": [
+      {
+        "comment_id": 26304137,
+        "uid": 109670733,
+        "content": "有无其他摩多罗本啊",
+        "createtime": 1586504255,
+        "nickname": "JenkinsVIC",
+        "avatar": "https://avatar.dmzj.com/68/74/6874223798dcec493810b5201b02bdc4.png"
+      },
+      {
+        "comment_id": 24518778,
+        "uid": 105877380,
+        "content": "地灵殿又破产啦。",
+        "createtime": 1582613457,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

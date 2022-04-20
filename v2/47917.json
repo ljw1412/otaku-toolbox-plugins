@@ -1,0 +1,80 @@
+{
+  "id": 47917,
+  "islong": 2,
+  "direction": 2,
+  "title": "无限倒计时：冠军小队",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/guanjun20190328.jpg",
+  "description": "关于冠军小队的故事",
+  "last_updatetime": 1558083209,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 48877,
+  "hit_num": 1774,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 203,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88414,
+          "chapter_title": "2卷",
+          "updatetime": 1558083209,
+          "filesize": 3417910,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 86957,
+          "chapter_title": "1卷",
+          "updatetime": 1553778403,
+          "filesize": 5548985,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 16097231,
+        "uid": 105944506,
+        "content": "无限倒计时=啥都没有哒！",
+        "createtime": 1558224451,
+        "nickname": "dmzj_105944506",
+        "avatar": "https://avatar.dmzj.com/5e/ed/5eedf066a2ec2cb3f4bbe1b544727485.png"
+      },
+      {
+        "comment_id": 16045366,
+        "uid": 107728305,
+        "content": "这个居然更新了",
+        "createtime": 1558107589,
+        "nickname": "天生我材2015",
+        "avatar": "https://avatar.dmzj.com/82/89/828963ac0b51747ddd09b6f6871b4382.png"
+      }
+    ]
+  }
+}

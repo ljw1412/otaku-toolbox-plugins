@@ -1,0 +1,73 @@
+{
+  "id": 49249,
+  "islong": 2,
+  "direction": 1,
+  "title": "朋友关系等级为0",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/190716pengy.jpg",
+  "description": "这是一个他爱他、他爱她、她爱它的故事。",
+  "last_updatetime": 1563279379,
+  "copyright": 0,
+  "first_letter": "p",
+  "hot_num": 192895,
+  "hit_num": 10984,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17420,
+      "tag_name": "あきもと明希"
+    }
+  ],
+  "subscribe_num": 837,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86896,
+          "chapter_title": "1话",
+          "updatetime": 1563279379,
+          "filesize": 4891322,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 63,
+    "latest_comment": [
+      {
+        "comment_id": 20576012,
+        "uid": 100297884,
+        "content": "这个简介差点劝退我",
+        "createtime": 1569292122,
+        "nickname": "恋糖癖患者",
+        "avatar": "https://avatar.dmzj.com/53/26/5326997001c93f52a80e25b8dc949045.png"
+      },
+      {
+        "comment_id": 18974132,
+        "uid": 100846030,
+        "content": "它爱谁",
+        "createtime": 1564838722,
+        "nickname": "凝Z1",
+        "avatar": "https://avatar.dmzj.com/54/97/54979cc6d823c09f8819cf6dc0408ed0.png"
+      }
+    ]
+  }
+}

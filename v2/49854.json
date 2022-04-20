@@ -1,0 +1,73 @@
+{
+  "id": 49854,
+  "islong": 2,
+  "direction": 1,
+  "title": "唠唠叨叨童话",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/daodaotaotaoth0826.jpg",
+  "description": "简单易懂，富含哲理的短篇漫画新编",
+  "last_updatetime": 1566824690,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 561276,
+  "hit_num": 22044,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16611,
+      "tag_name": "ノビタ"
+    }
+  ],
+  "subscribe_num": 2587,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88231,
+          "chapter_title": "1话",
+          "updatetime": 1566824690,
+          "filesize": 980712,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 88,
+    "latest_comment": [
+      {
+        "comment_id": 26453026,
+        "uid": 108014255,
+        "content": "传送点准备投放，代号486，投放完毕。",
+        "createtime": 1586802376,
+        "nickname": "时间轴EX",
+        "avatar": "https://avatar.dmzj.com/b0/5c/b05c2fc575192c379a35fc0600ebac5e.png"
+      },
+      {
+        "comment_id": 24937351,
+        "uid": 101914008,
+        "content": "真是流啤",
+        "createtime": 1583465903,
+        "nickname": "狐狸老鸽",
+        "avatar": "https://avatar.dmzj.com/29/96/29961d22b830e492e9a8e0ac19ca453c.png"
+      }
+    ]
+  }
+}

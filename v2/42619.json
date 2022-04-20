@@ -1,0 +1,79 @@
+{
+  "id": 42619,
+  "islong": 2,
+  "direction": 2,
+  "title": "约会小日常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1035247811515070295.jpg",
+  "description": "嘻嘻嘻嘻嘻嘻嘻",
+  "last_updatetime": 1515070415,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 467783,
+  "hit_num": 2822781,
+  "uid": 103524781,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13966,
+      "tag_name": "闲君110"
+    }
+  ],
+  "subscribe_num": 2095,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 68613,
+          "chapter_title": "1话",
+          "updatetime": 1515070415,
+          "filesize": 441093,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 51,
+    "latest_comment": [
+      {
+        "comment_id": 30030764,
+        "uid": 111453402,
+        "content": "2年还在连载？",
+        "createtime": 1598719315,
+        "nickname": "dmzj_111453402",
+        "avatar": "https://avatar.dmzj.com/8b/86/8b868dbf0a1a250ab9b54477eb4758a8.png"
+      },
+      {
+        "comment_id": 26440870,
+        "uid": 106482446,
+        "content": "封面喜欢 先了",
+        "createtime": 1586787461,
+        "nickname": "百合喵咪喵",
+        "avatar": "https://avatar.dmzj.com/93/06/930677ef6895e7ca8d70c291ce977e69.png"
+      }
+    ]
+  }
+}

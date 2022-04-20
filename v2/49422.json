@@ -1,0 +1,73 @@
+{
+  "id": 49422,
+  "islong": 2,
+  "direction": 1,
+  "title": "芙兰的命运乱数",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/fldmyls20190729.jpg",
+  "description": "芙兰沉迷上了氪金游戏，姐姐蕾米莉亚用自己的方式帮助妹妹，姐妹之间温馨的日常。 “我叫蕾米，我有能操纵命运的能力，常常帮助一些非洲人，他们都叫我大小姐，我一个人睡，我房间还蛮大的，欢迎你们来我房间抽卡，抽累了就直接睡觉，没问题的。”",
+  "last_updatetime": 1564330475,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 338064,
+  "hit_num": 45924,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5567,
+      "tag_name": "ノヤマコト(乃屋)"
+    }
+  ],
+  "subscribe_num": 1501,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90691,
+          "chapter_title": "1话",
+          "updatetime": 1564330475,
+          "filesize": 4166136,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 274,
+    "latest_comment": [
+      {
+        "comment_id": 28727718,
+        "uid": 105134418,
+        "content": "你们读者不要在这里卖弄概率算法啦！\n首先这里抽卡的概率是由机器决定的，有内存以及运算力上限。也就是说它的随机数表是确定的，不同的结果单纯是因为读取乱数的起始点以及读取方向的不同。\n回到故事，大小姐是靠恶魔级的大脑，一个数接一个数依次读数的，当她以正常顺序（如从首到尾、从尾到首等。一般为了减少成本开发之初不会采取什么奇怪算法，毕竟知道这些乱数表的人基本只有开发者。更何况幻想乡里有能力破解荷取程序的人都是她不敢明面惹的人，更何况她在这领域有垄断级的优势，没必要费心思） 从不同的起始点读完了所有乱数后，当然有自信说这个概率为0。\n而大小姐要求服务对象做各种姿势，也只是为了检索从哪个方向哪个奇始点开始读数得到的对应数列可能性大罢了，证据就是：保持某姿势多长时间。",
+        "createtime": 1594020722,
+        "nickname": "乃兹社长",
+        "avatar": "https://avatar.dmzj.com/bd/4b/bd4b7a703ba951f91177f2bff420b738.png"
+      },
+      {
+        "comment_id": 28560372,
+        "uid": 109104848,
+        "content": "还行",
+        "createtime": 1593506097,
+        "nickname": "dmzj_109104848",
+        "avatar": "https://avatar.dmzj.com/a0/2e/a02e95a3181937e42abee6e5adffd68f.png"
+      }
+    ]
+  }
+}

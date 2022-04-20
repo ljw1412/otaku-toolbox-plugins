@@ -1,0 +1,73 @@
+{
+  "id": 44568,
+  "islong": 2,
+  "direction": 1,
+  "title": "献上初恋",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/06xianshangchulianx.JPG",
+  "description": "主角组。三个高糖小短篇",
+  "last_updatetime": 1528898056,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 726015,
+  "hit_num": 33224,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5369,
+      "tag_name": "べにしゃけ"
+    }
+  ],
+  "subscribe_num": 3235,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72353,
+          "chapter_title": "1话",
+          "updatetime": 1528898056,
+          "filesize": 3150235,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 52,
+    "latest_comment": [
+      {
+        "comment_id": 24001244,
+        "uid": 107367092,
+        "content": "唔嗯...小铃...不能被那种家伙骗（指魔理沙）",
+        "createtime": 1581392561,
+        "nickname": "小泉八云",
+        "avatar": "https://avatar.dmzj.com/34/75/347576d35bbf889dc756cc688987403b.png"
+      },
+      {
+        "comment_id": 17168098,
+        "uid": 107728305,
+        "content": "第三篇没看懂……",
+        "createtime": 1560615603,
+        "nickname": "天生我材2015",
+        "avatar": "https://avatar.dmzj.com/82/89/828963ac0b51747ddd09b6f6871b4382.png"
+      }
+    ]
+  }
+}

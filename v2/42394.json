@@ -1,0 +1,100 @@
+{
+  "id": 42394,
+  "islong": 1,
+  "direction": 2,
+  "title": "外星人家族",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1057337221513647227.jpg",
+  "description": "关于人类社会金字塔塔尖家族是外星人的说法流传了数千年了，在这个阶层，有一个超越人类认知的虚拟现实游戏已经火了几个世纪…… ",
+  "last_updatetime": 1517300479,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 33583,
+  "hit_num": 262061,
+  "uid": 105733722,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14133,
+      "tag_name": "瑞小"
+    }
+  ],
+  "subscribe_num": 140,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 69486,
+          "chapter_title": "4话",
+          "updatetime": 1517300479,
+          "filesize": 475212,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 68790,
+          "chapter_title": "3话",
+          "updatetime": 1515981111,
+          "filesize": 280297,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 68145,
+          "chapter_title": "2话",
+          "updatetime": 1514359910,
+          "filesize": 480136,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 67913,
+          "chapter_title": "1话",
+          "updatetime": 1513647317,
+          "filesize": 485159,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 3546673,
+        "uid": 102178355,
+        "content": "画风不错，但是剧情有点没表述清楚，可以拉长一点战线",
+        "createtime": 1513854505,
+        "nickname": "黑色麋鹿",
+        "avatar": "https://avatar.dmzj.com/82/50/8250a6cfc92fc1a1a0e5d5a549f18826.png"
+      },
+      {
+        "comment_id": 3546154,
+        "uid": 101302967,
+        "content": "神奇的画风，看不懂情节",
+        "createtime": 1513848886,
+        "nickname": "红色枫叶56265",
+        "avatar": "https://avatar.dmzj.com/09/fe/09fe77cd27fb47b79fcfb491be589baf.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 47252,
+  "islong": 2,
+  "direction": 2,
+  "title": "炸裂少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1007092701548939116.jpg",
+  "description": "期待已久的新游戏发售了，好想玩啊，到底能不能玩到呢？",
+  "last_updatetime": 1548939194,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 11274,
+  "hit_num": 123402,
+  "uid": 100709270,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16388,
+      "tag_name": "不工作猫"
+    }
+  ],
+  "subscribe_num": 42,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85198,
+          "chapter_title": "1话",
+          "updatetime": 1548939194,
+          "filesize": 734576,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 10898991,
+        "uid": 107368877,
+        "content": "？什么东西",
+        "createtime": 1549207861,
+        "nickname": "可口考拉",
+        "avatar": "https://avatar.dmzj.com/81/47/814737620cbbbda82ef346d9f84d7c35.png"
+      },
+      {
+        "comment_id": 10781626,
+        "uid": 100709270,
+        "content": "字已经放大，更新完毕了。",
+        "createtime": 1548998562,
+        "nickname": "不工作猫",
+        "avatar": "https://avatar.dmzj.com/12/89/1289729f103cd5f37917b78bbfaaf9ee.png"
+      }
+    ]
+  }
+}

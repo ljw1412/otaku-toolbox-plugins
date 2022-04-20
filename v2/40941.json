@@ -1,0 +1,79 @@
+{
+  "id": 40941,
+  "islong": 2,
+  "direction": 2,
+  "title": "异星惊途",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1048380051500001475.jpg",
+  "description": "从物种繁衍到物种灭绝，人类一直是驾驭着整个地球主宰生灵。时代的进步资源耗尽之前不得已做出远航和开垦的伟大使命。",
+  "last_updatetime": 1500002256,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 51170,
+  "hit_num": 1387639,
+  "uid": 104838005,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13456,
+      "tag_name": "细麦"
+    }
+  ],
+  "subscribe_num": 212,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65793,
+          "chapter_title": "1话",
+          "updatetime": 1500002256,
+          "filesize": 2714089,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "火星殖民先锋",
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 2845438,
+        "uid": 102021480,
+        "content": "火星救援——寻找楼主",
+        "createtime": 1504198447,
+        "nickname": "通往理想乡之路",
+        "avatar": "https://avatar.dmzj.com/41/28/4128190e4f1eaf4ffb719d34a2674c0f.png"
+      },
+      {
+        "comment_id": 2486009,
+        "uid": 104881003,
+        "content": "死亡空间。",
+        "createtime": 1500067293,
+        "nickname": "共和党",
+        "avatar": "https://avatar.dmzj.com/f0/08/f0083e2ac5e544838d2ecc1688918f89.png"
+      }
+    ]
+  }
+}

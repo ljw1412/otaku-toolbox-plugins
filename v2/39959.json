@@ -1,0 +1,81 @@
+{
+  "id": 39959,
+  "islong": 2,
+  "direction": 1,
+  "title": "NAKA-TWO",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/nakatwo.jpg",
+  "description": "舰娘同人漫画",
+  "last_updatetime": 1489209815,
+  "copyright": 0,
+  "first_letter": "n",
+  "hot_num": 13025,
+  "hit_num": 91193,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12979,
+      "tag_name": "袁"
+    }
+  ],
+  "subscribe_num": 261,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59728,
+          "chapter_title": "1话",
+          "updatetime": 1489209816,
+          "filesize": 9760343,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 1907920,
+        "uid": 101102411,
+        "content": "最后一页……解释了妖精的来源",
+        "createtime": 1489291191,
+        "nickname": "夏日勘探者",
+        "avatar": "https://avatar.dmzj.com/44/13/4413471bf8c0cee7b88227b4413e68db.png"
+      },
+      {
+        "comment_id": 1906087,
+        "uid": 100947219,
+        "content": "妖精哪珂",
+        "createtime": 1489245518,
+        "nickname": "老白干酒",
+        "avatar": "https://avatar.dmzj.com/13/88/1388c9c99a23a51d6a8521c756ed1c4e.png"
+      }
+    ]
+  }
+}

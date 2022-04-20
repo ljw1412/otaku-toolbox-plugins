@@ -1,0 +1,77 @@
+{
+  "id": 42437,
+  "islong": 2,
+  "direction": 1,
+  "title": "某魔女的恋爱物语",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/moumonvdelianaiwuyu.jpg",
+  "description": "为了让你回到我的身边",
+  "last_updatetime": 1514166944,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 368524,
+  "hit_num": 114052,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14155,
+      "tag_name": "kutopic"
+    }
+  ],
+  "subscribe_num": 1524,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72090,
+          "chapter_title": "1话",
+          "updatetime": 1514166944,
+          "filesize": 2588571,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 92,
+    "latest_comment": [
+      {
+        "comment_id": 29911180,
+        "uid": 108949888,
+        "content": "厉害了",
+        "createtime": 1598278775,
+        "nickname": "阮大大",
+        "avatar": "https://avatar.dmzj.com/a2/3d/a23df5fcab2675953bee396b289a7124.png"
+      },
+      {
+        "comment_id": 29862981,
+        "uid": 36399774,
+        "content": "..",
+        "createtime": 1598102250,
+        "nickname": "voluptuary",
+        "avatar": "https://avatar.dmzj.com/12/06/12069800742ad611be4ae464f1edbe8a.png"
+      }
+    ]
+  }
+}

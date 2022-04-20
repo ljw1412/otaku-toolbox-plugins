@@ -1,0 +1,104 @@
+{
+  "id": 47838,
+  "islong": 1,
+  "direction": 1,
+  "title": "Saturday",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/s20190319.jpg",
+  "description": "各种各样女生的百合故事",
+  "last_updatetime": 1581144807,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 2109528,
+  "hit_num": 636202,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16587,
+      "tag_name": "绮月るり"
+    }
+  ],
+  "subscribe_num": 6664,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93107,
+          "chapter_title": "6话",
+          "updatetime": 1581144807,
+          "filesize": 9291672,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 90244,
+          "chapter_title": "5话",
+          "updatetime": 1573699554,
+          "filesize": 6480932,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 86766,
+          "chapter_title": "4话",
+          "updatetime": 1565087806,
+          "filesize": 4002709,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 86584,
+          "chapter_title": "3话",
+          "updatetime": 1564590400,
+          "filesize": 3777198,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 85982,
+          "chapter_title": "2话",
+          "updatetime": 1563113904,
+          "filesize": 4020851,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 82386,
+          "chapter_title": "1话",
+          "updatetime": 1552925506,
+          "filesize": 7193223,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 477,
+    "latest_comment": [
+      {
+        "comment_id": 29612045,
+        "uid": 100927030,
+        "content": "太太的作品大合集？",
+        "createtime": 1597131079,
+        "nickname": "世界昨天就没了",
+        "avatar": "https://avatar.dmzj.com/70/12/7012d0ac0d685b9de1e1f3ed04ec3aeb.png"
+      },
+      {
+        "comment_id": 29426384,
+        "uid": 111171816,
+        "content": "这个是把作者的作品都收录了吗？怪不得我找了好久",
+        "createtime": 1596447373,
+        "nickname": "shimos",
+        "avatar": "https://avatar.dmzj.com/79/87/798735c24f6a5ac09f5386e7571a1aeb.png"
+      }
+    ]
+  }
+}

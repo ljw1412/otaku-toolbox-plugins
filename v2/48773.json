@@ -1,0 +1,99 @@
+{
+  "id": 48773,
+  "islong": 2,
+  "direction": 2,
+  "title": "缸中之脑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1084526141560049230.jpg",
+  "description": "由于某些人的存在导致了战争，直到总人口减少到一半，才勉强和平。这个世界究竟会怎么样？",
+  "last_updatetime": 1560051298,
+  "last_update_chapter_name": "宴会（假）",
+  "copyright": 1,
+  "first_letter": "g",
+  "comic_py": "gangzhongzhinao",
+  "hidden": 0,
+  "hot_num": 34353,
+  "hit_num": 165382,
+  "uid": 108452614,
+  "is_lock": 0,
+  "last_update_chapter_id": 84824,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17184,
+      "tag_name": "变态绅士博士"
+    }
+  ],
+  "subscribe_num": 143,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 84824,
+          "chapter_title": "2话",
+          "updatetime": 1560051298,
+          "filesize": 1742533,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 84823,
+          "chapter_title": "1话",
+          "updatetime": 1560050682,
+          "filesize": 686489,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 84822,
+          "chapter_title": "0话",
+          "updatetime": 1560050084,
+          "filesize": 1037183,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "初次创作，想法很多，尽力画出来",
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 29387392,
+        "uid": 105124468,
+        "content": "哇哦",
+        "createtime": 1596299737,
+        "nickname": "养猫二厂厂长",
+        "avatar": "https://avatar.dmzj.com/32/14/3214a233dc28fc669bcb9c9d37ec33fa.png"
+      },
+      {
+        "comment_id": 28770168,
+        "uid": 111087392,
+        "content": "继续加油吧，只要我们不停下来，道は続く",
+        "createtime": 1594142783,
+        "nickname": "だから止まらないで",
+        "avatar": "https://avatar.dmzj.com/42/d5/42d504c3ac84bbc40652552f094fd6d2.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

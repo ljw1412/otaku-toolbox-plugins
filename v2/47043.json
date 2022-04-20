@@ -1,0 +1,91 @@
+{
+  "id": 47043,
+  "islong": 2,
+  "direction": 1,
+  "title": "咖啡店传说",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/kfdcs0110.jpg",
+  "description": "勇者与魔物狭路相逢，你以为肯定是惊天地泣鬼神的打斗？就不能是大家坐下来，安安静静喝杯咖啡吃吃甜点呢？怎么回事？这个穿着围裙的魔物和自己想的好像不太一样！",
+  "last_updatetime": 1554603900,
+  "copyright": 0,
+  "first_letter": "k",
+  "hot_num": 1088661,
+  "hit_num": 54853,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3327,
+      "tag_name": "美食"
+    },
+    {
+      "tag_id": 5806,
+      "tag_name": "魔幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16283,
+      "tag_name": "みかんばこ"
+    }
+  ],
+  "subscribe_num": 4598,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82841,
+          "chapter_title": "3话",
+          "updatetime": 1554603900,
+          "filesize": 5363156,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 81967,
+          "chapter_title": "2话",
+          "updatetime": 1551843851,
+          "filesize": 2662335,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 80037,
+          "chapter_title": "1话",
+          "updatetime": 1547089812,
+          "filesize": 3213448,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 80,
+    "latest_comment": [
+      {
+        "comment_id": 28255872,
+        "uid": 109574628,
+        "content": "你是谁？",
+        "createtime": 1592474735,
+        "nickname": "logtin",
+        "avatar": "https://avatar.dmzj.com/31/46/3146b7bfb4b0002aa26c172bbfed1084.png"
+      },
+      {
+        "comment_id": 28255866,
+        "uid": 109574628,
+        "content": "艾有点蠢萌又认真的样子好可爱。",
+        "createtime": 1592474702,
+        "nickname": "logtin",
+        "avatar": "https://avatar.dmzj.com/31/46/3146b7bfb4b0002aa26c172bbfed1084.png"
+      }
+    ]
+  }
+}

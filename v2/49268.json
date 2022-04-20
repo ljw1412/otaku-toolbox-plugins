@@ -1,0 +1,73 @@
+{
+  "id": 49268,
+  "islong": 2,
+  "direction": 1,
+  "title": "Good-bye,Utopia",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/gbu718.jpg",
+  "description": "永别了，我梦中的理想乡",
+  "last_updatetime": 1563424601,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 110797,
+  "hit_num": 5330,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17431,
+      "tag_name": "煌ハルアキラ"
+    }
+  ],
+  "subscribe_num": 503,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86108,
+          "chapter_title": "短篇",
+          "updatetime": 1563424601,
+          "filesize": 8375851,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 42,
+    "latest_comment": [
+      {
+        "comment_id": 19964089,
+        "uid": 104877676,
+        "content": "3d打印手枪，这个形状以前在新闻上见过",
+        "createtime": 1567360154,
+        "nickname": "xyj87638",
+        "avatar": "https://avatar.dmzj.com/f3/80/f3802a0499299a7b09d3187523e1ea1e.png"
+      },
+      {
+        "comment_id": 19900171,
+        "uid": 102393008,
+        "content": "这一把糖一把刀的魔幻操作给我整懵逼了",
+        "createtime": 1567181998,
+        "nickname": "緋月墨桜",
+        "avatar": "https://avatar.dmzj.com/c1/d8/c1d8cd2ae2e84c7af7797acf50fd0c54.png"
+      }
+    ]
+  }
+}

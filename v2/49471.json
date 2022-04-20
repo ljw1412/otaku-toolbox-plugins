@@ -1,0 +1,79 @@
+{
+  "id": 49471,
+  "islong": 1,
+  "direction": 2,
+  "title": "御魂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1074630001564631549.jpg",
+  "description": "所谓御魂者，以血练精魄，以灵御神魂，以命通天地。 他从1700年前来到现世，又将何去何从？",
+  "last_updatetime": 1564633655,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 1831,
+  "hit_num": 44043,
+  "uid": 107463000,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17527,
+      "tag_name": "漫悠斋"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91143,
+          "chapter_title": "1话",
+          "updatetime": 1564633655,
+          "filesize": 1715647,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "先连更一番~",
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 19921156,
+        "uid": 105633722,
+        "content": "？",
+        "createtime": 1567252629,
+        "nickname": "五块钱一次",
+        "avatar": "https://avatar.dmzj.com/84/91/8491c1592b68b1a54353aefa3b74a12e.png"
+      },
+      {
+        "comment_id": 18910811,
+        "uid": 107272244,
+        "content": "我一看到这个名字我就肝疼……",
+        "createtime": 1564716917,
+        "nickname": "emojiTaunt",
+        "avatar": "https://avatar.dmzj.com/20/58/2058d0f1f98d1ecefd7ca32fae244a58.png"
+      }
+    ]
+  }
+}

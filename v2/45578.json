@@ -1,0 +1,73 @@
+{
+  "id": 45578,
+  "islong": 2,
+  "direction": 1,
+  "title": "mirage honey",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/180828huajisdsd.jpg",
+  "description": "画集",
+  "last_updatetime": 1535442108,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 620667,
+  "hit_num": 24583,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15565,
+      "tag_name": "ぴよ寺むちゃ"
+    },
+    {
+      "tag_id": 15566,
+      "tag_name": "うさ城まに"
+    }
+  ],
+  "subscribe_num": 2850,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 75477,
+          "chapter_title": "1话",
+          "updatetime": 1535442108,
+          "filesize": 1823377,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 248,
+    "latest_comment": [
+      {
+        "comment_id": 30041886,
+        "uid": 100651895,
+        "content": "我好了",
+        "createtime": 1598776831,
+        "nickname": "qzuser40393833",
+        "avatar": "https://avatar.dmzj.com/60/49/6049d9183cbca6e475ce5298e4703d50.png"
+      },
+      {
+        "comment_id": 28934235,
+        "uid": 104843609,
+        "content": "我好了",
+        "createtime": 1594712087,
+        "nickname": "tianzhilongxiang",
+        "avatar": "https://avatar.dmzj.com/78/03/78032793616ed79194b54563a8ecccfd.png"
+      }
+    ]
+  }
+}

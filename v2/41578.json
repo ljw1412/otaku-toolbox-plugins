@@ -1,0 +1,102 @@
+{
+  "id": 41578,
+  "islong": 2,
+  "direction": 1,
+  "title": "奈欧斯奥特曼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/naiousiaoteman.jpg",
+  "description": "本漫画为1995年中国版奥特曼企划的漫画版，连载于1995年底至1996年初，总共4话。因为是按原设展开的漫画，与2001的OVA版剧情及设定略有不同。由宫田淳一描绘的不一样的奈欧斯。",
+  "last_updatetime": 1596637060,
+  "copyright": 0,
+  "first_letter": "n",
+  "hot_num": 157020,
+  "hit_num": 73526,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2469,
+      "tag_name": "宫田淳一"
+    },
+    {
+      "tag_id": 13779,
+      "tag_name": "赤星政尚"
+    }
+  ],
+  "subscribe_num": 657,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101435,
+          "chapter_title": "4话",
+          "updatetime": 1596637057,
+          "filesize": 1216004,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 101434,
+          "chapter_title": "3话",
+          "updatetime": 1596637060,
+          "filesize": 1572354,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 63412,
+          "chapter_title": "2话",
+          "updatetime": 1506129782,
+          "filesize": 2282413,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 63411,
+          "chapter_title": "1话",
+          "updatetime": 1506129779,
+          "filesize": 1934710,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 48,
+    "latest_comment": [
+      {
+        "comment_id": 29509942,
+        "uid": 102685080,
+        "content": "看成nice奥特曼了",
+        "createtime": 1596729113,
+        "nickname": "littleBBBBB",
+        "avatar": "https://avatar.dmzj.com/40/f3/40f3029c9ba95950f05f879b48841102.png"
+      },
+      {
+        "comment_id": 29488334,
+        "uid": 108270919,
+        "content": "我寻思着奈欧斯不论是废案集还是制作团队采访都没说过这是给中国制作的奥啊？这个谣言到现在还在传吗？",
+        "createtime": 1596647594,
+        "nickname": "啊这里不行",
+        "avatar": "https://avatar.dmzj.com/82/82/8282deb1ddf749dcaa387db1a3bb4c66.png"
+      }
+    ]
+  }
+}

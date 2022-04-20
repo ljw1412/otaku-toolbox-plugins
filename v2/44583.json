@@ -1,0 +1,75 @@
+{
+  "id": 44583,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方少年少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/dfsnsn648569l.jpg",
+  "description": "东方同人",
+  "last_updatetime": 1529048822,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongfangshaonianshaonv",
+  "hidden": 0,
+  "hot_num": 123327,
+  "hit_num": 24544,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72438,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15082,
+      "tag_name": "きょーの"
+    }
+  ],
+  "subscribe_num": 593,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72438,
+          "chapter_title": "1话",
+          "updatetime": 1529048822,
+          "filesize": 8123917,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 72,
+    "latest_comment": [
+      {
+        "comment_id": 29279718,
+        "uid": 107311540,
+        "content": "看了好几遍了，真的超级温馨治愈????",
+        "createtime": 1595910941,
+        "nickname": "Refrain01",
+        "avatar": "https://avatar.dmzj.com/13/41/1341e704154b85dbcde062f9a4a37380.png"
+      },
+      {
+        "comment_id": 26990644,
+        "uid": 102540728,
+        "content": "有好康的性转类的吗，求兄弟集美萌推荐几个",
+        "createtime": 1588270089,
+        "nickname": "荷鲁斯之左眼",
+        "avatar": "https://avatar.dmzj.com/83/90/8390f288cbd4fe24f8e8acb886ac7108.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

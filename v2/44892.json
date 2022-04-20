@@ -1,0 +1,83 @@
+{
+  "id": 44892,
+  "islong": 2,
+  "direction": 1,
+  "title": "在盛夏结束之前",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/180712fgogg.jpg",
+  "description": "你别给我敬酒不吃吃罚酒！",
+  "last_updatetime": 1531790268,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 572324,
+  "hit_num": 24831,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10401,
+      "tag_name": "リヨ"
+    }
+  ],
+  "subscribe_num": 2578,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78761,
+          "chapter_title": "3话",
+          "updatetime": 1531790069,
+          "filesize": 238788,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 78742,
+          "chapter_title": "2话",
+          "updatetime": 1531718399,
+          "filesize": 150977,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 78601,
+          "chapter_title": "1话",
+          "updatetime": 1531790268,
+          "filesize": 287096,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 76,
+    "latest_comment": [
+      {
+        "comment_id": 18294396,
+        "uid": 102309175,
+        "content": "这熟悉的画风",
+        "createtime": 1563275980,
+        "nickname": "GDPM",
+        "avatar": "https://avatar.dmzj.com/27/64/2764b31a0c32378512a2de81fab867fc.png"
+      },
+      {
+        "comment_id": 11398512,
+        "uid": 101883226,
+        "content": "这画风好像咕塔子",
+        "createtime": 1550161712,
+        "nickname": "继续吃",
+        "avatar": "https://avatar.dmzj.com/79/86/7986d731407aefab71b61dbcc5a75544.png"
+      }
+    ]
+  }
+}

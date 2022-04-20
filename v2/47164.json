@@ -1,0 +1,73 @@
+{
+  "id": 47164,
+  "islong": 2,
+  "direction": 1,
+  "title": "真夜中散步",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/zhenyezhongsanbu00100.jpg",
+  "description": "没有告诉任何的夜晚冒险，顺着月光的指引。前往将夜晚赋予生命的奇妙世界",
+  "last_updatetime": 1548077026,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 864481,
+  "hit_num": 23506,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5806,
+      "tag_name": "魔幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16344,
+      "tag_name": "猫乃目瑛生"
+    }
+  ],
+  "subscribe_num": 3975,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81249,
+          "chapter_title": "1话",
+          "updatetime": 1548077026,
+          "filesize": 8034709,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 193,
+    "latest_comment": [
+      {
+        "comment_id": 28936403,
+        "uid": 111277470,
+        "content": "好喜欢这个画风！",
+        "createtime": 1594720145,
+        "nickname": "贴纸哟",
+        "avatar": "https://avatar.dmzj.com/68/30/6830ee8a2177b4bbe631866d8f18c30e.png"
+      },
+      {
+        "comment_id": 28181190,
+        "uid": 101107453,
+        "content": "好的短篇，期待下次的作品",
+        "createtime": 1592219907,
+        "nickname": "茶杯与伏特加",
+        "avatar": "https://avatar.dmzj.com/74/28/74287f97f7918c6fa00f759c2df3dd1c.png"
+      }
+    ]
+  }
+}

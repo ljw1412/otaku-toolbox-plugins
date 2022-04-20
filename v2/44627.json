@@ -1,0 +1,82 @@
+{
+  "id": 44627,
+  "islong": 2,
+  "direction": 2,
+  "title": "妹妹的告白",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1072520881529304916.jpg",
+  "description": "那一天，妹妹向姐姐告白了……",
+  "last_updatetime": 1529824562,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 568927,
+  "hit_num": 1430605,
+  "uid": 107252088,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15109,
+      "tag_name": "骨饰"
+    }
+  ],
+  "subscribe_num": 2499,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77876,
+          "chapter_title": "2话",
+          "updatetime": 1529824562,
+          "filesize": 342234,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 77720,
+          "chapter_title": "1话",
+          "updatetime": 1529304816,
+          "filesize": 396237,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 148,
+    "latest_comment": [
+      {
+        "comment_id": 29537321,
+        "uid": 109319066,
+        "content": "啊这，是弃坑了嘛",
+        "createtime": 1596823560,
+        "nickname": "白日做梦哆唻咪",
+        "avatar": "https://avatar.dmzj.com/31/41/3141cf7a50ec3275ac63b3f5d0b1ab91.png"
+      },
+      {
+        "comment_id": 28941664,
+        "uid": 110079044,
+        "content": "好看",
+        "createtime": 1594734850,
+        "nickname": "日常什么的，最棒了",
+        "avatar": "https://avatar.dmzj.com/ff/b9/ffb92970af7d3b39c8f1c38686acf72d.png"
+      }
+    ]
+  }
+}

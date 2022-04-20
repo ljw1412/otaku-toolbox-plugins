@@ -1,0 +1,87 @@
+{
+  "id": 39910,
+  "islong": 2,
+  "direction": 1,
+  "title": "蛋糕王子的名推理",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/03dangaowzdmtl35.png",
+  "description": "酸涩与甘甜，都由蛋糕来告诉你",
+  "last_updatetime": 1495812041,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 573385,
+  "hit_num": 453090,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5234,
+      "tag_name": "七月隆文"
+    },
+    {
+      "tag_id": 12239,
+      "tag_name": "星见SK"
+    }
+  ],
+  "subscribe_num": 3657,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65746,
+          "chapter_title": "2话",
+          "updatetime": 1495812041,
+          "filesize": 3027515,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 63485,
+          "chapter_title": "1.5话",
+          "updatetime": 1488900882,
+          "filesize": 2332035,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 63406,
+          "chapter_title": "1话",
+          "updatetime": 1488722627,
+          "filesize": 4671791,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 48,
+    "latest_comment": [
+      {
+        "comment_id": 29355066,
+        "uid": 110641533,
+        "content": "这就没了？",
+        "createtime": 1596186197,
+        "nickname": "yu2ta",
+        "avatar": "https://avatar.dmzj.com/58/59/5859b5b5f45c2584e593cac6b3bba63c.png"
+      },
+      {
+        "comment_id": 29317024,
+        "uid": 105687316,
+        "content": "我就说这个男主嘴这么贱不太像老师的风格啊一看果然只是作画",
+        "createtime": 1596038917,
+        "nickname": "嗷呜27481",
+        "avatar": "https://avatar.dmzj.com/5b/eb/5bebaa0e1024ce456733c94ef9a13b45.png"
+      }
+    ]
+  }
+}

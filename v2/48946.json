@@ -1,0 +1,69 @@
+{
+  "id": 48946,
+  "islong": 2,
+  "direction": 1,
+  "title": "花历",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/hl20190625.jpg",
+  "description": "这是なごり悠老师在2018年参加百合同人志时的短篇漫画。最后三张（十五年后的故事）是最近画的花絮。",
+  "last_updatetime": 1561447786,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 1347656,
+  "hit_num": 18758,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15873,
+      "tag_name": "なごり悠"
+    }
+  ],
+  "subscribe_num": 4985,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89739,
+          "chapter_title": "1话",
+          "updatetime": 1561447786,
+          "filesize": 759555,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 102,
+    "latest_comment": [
+      {
+        "comment_id": 29876924,
+        "uid": 111098421,
+        "content": "好温柔的感觉啊 (p≧w≦q)",
+        "createtime": 1598149655,
+        "nickname": "我真的有在谨慎改名",
+        "avatar": "https://avatar.dmzj.com/20/53/2053c1547dc7d4afddaaa249b04eec35.png"
+      },
+      {
+        "comment_id": 28064828,
+        "uid": 110475228,
+        "content": "留下信仰之门",
+        "createtime": 1591795071,
+        "nickname": "好，不愧是你",
+        "avatar": "https://avatar.dmzj.com/47/18/47187bbaf5ccffd1e941bb686615b8d4.png"
+      }
+    ]
+  }
+}

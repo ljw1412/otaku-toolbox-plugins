@@ -1,0 +1,79 @@
+{
+  "id": 48461,
+  "islong": 2,
+  "direction": 1,
+  "title": "季节解放",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/fnndp0515.jpg",
+  "description": "灵梦的新能力",
+  "last_updatetime": 1557889852,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jijiejiefang",
+  "hidden": 0,
+  "hot_num": 141457,
+  "hit_num": 1631,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 88429,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17021,
+      "tag_name": "木五倍子"
+    }
+  ],
+  "subscribe_num": 651,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88429,
+          "chapter_title": "1话",
+          "updatetime": 1557889852,
+          "filesize": 3156997,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 126,
+    "latest_comment": [
+      {
+        "comment_id": 25627679,
+        "uid": 108482312,
+        "content": "请务必这么对我。",
+        "createtime": 1585030535,
+        "nickname": "dmzj_108482312",
+        "avatar": "https://avatar.dmzj.com/4a/f2/4af29daedfa757c0746fb02f9fc1b2d1.png"
+      },
+      {
+        "comment_id": 24393609,
+        "uid": 105877380,
+        "content": "不愧是臭鼬娘。",
+        "createtime": 1582305380,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

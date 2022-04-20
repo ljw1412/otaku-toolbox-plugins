@@ -1,0 +1,73 @@
+{
+  "id": 45059,
+  "islong": 2,
+  "direction": 2,
+  "title": "蜘蛛侠：特别篇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/180725spider.jpg",
+  "description": "马特将要为艾迪·布鲁克——“毒液”——在法庭上辩护，他邀请来了一位特别的证人。",
+  "last_updatetime": 1532494500,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 68910,
+  "hit_num": 9177,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 271,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 75473,
+          "chapter_title": "1卷",
+          "updatetime": 1532494500,
+          "filesize": 3918955,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 16062790,
+        "uid": 100629605,
+        "content": "真香梗不是这么用的吧",
+        "createtime": 1558153076,
+        "nickname": "Zweiblumen",
+        "avatar": "https://avatar.dmzj.com/96/ac/96ac4a5a80da7e7e37e3b55ba3be9995.png"
+      },
+      {
+        "comment_id": 5848913,
+        "uid": 106100679,
+        "content": "真香",
+        "createtime": 1532505330,
+        "nickname": "dmzj_106100679",
+        "avatar": "https://avatar.dmzj.com/4f/39/4f39cb8d4d9bd6338054073955a83dee.png"
+      }
+    ]
+  }
+}

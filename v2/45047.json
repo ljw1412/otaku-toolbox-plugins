@@ -1,0 +1,80 @@
+{
+  "id": 45047,
+  "islong": 2,
+  "direction": 1,
+  "title": "兄妹的故事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/xiongmeidegushi.jpg",
+  "description": "这是出自《洛克人ZX》中的普罗米修斯与潘多拉的愉快家庭喜剧",
+  "last_updatetime": 1532784495,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 148047,
+  "hit_num": 34973,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15320,
+      "tag_name": "ひなべ"
+    }
+  ],
+  "subscribe_num": 671,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79140,
+          "chapter_title": "2话",
+          "updatetime": 1532784495,
+          "filesize": 1652716,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 79011,
+          "chapter_title": "1话",
+          "updatetime": 1532362168,
+          "filesize": 713915,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 40,
+    "latest_comment": [
+      {
+        "comment_id": 5940224,
+        "uid": 21992,
+        "content": "愉快的家庭喜剧 欢乐向 迫真",
+        "createtime": 1532884190,
+        "nickname": "小叶子0048",
+        "avatar": "https://avatar.dmzj.com/c9/11/c911fab618cf922574ed8abdca2cfa75.png"
+      },
+      {
+        "comment_id": 5928349,
+        "uid": 104412596,
+        "content": "看了真欢乐",
+        "createtime": 1532842480,
+        "nickname": "乱马",
+        "avatar": "https://avatar.dmzj.com/a3/6a/a36a51f2e9966028054893bf2bbfc84d.png"
+      }
+    ]
+  }
+}

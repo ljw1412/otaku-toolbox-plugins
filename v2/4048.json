@@ -1,0 +1,101 @@
+{
+  "id": 4048,
+  "islong": 2,
+  "direction": 1,
+  "title": "沖浪高校",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/surf_01_000_6e722457735f9e428f708c30b912a0de.jpg",
+  "description": "疯狂搞笑的漫画家泽井健的大作～ 故事讲述3个热爱冲浪的少年疯狂变態的冲浪生活～ 绝对会打动你的心的～！！ 強力推介～",
+  "last_updatetime": 1277274640,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 8114,
+  "hit_num": 511630,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 506,
+      "tag_name": "泽井健"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 34,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9228,
+          "chapter_title": "5卷",
+          "updatetime": 1277879440,
+          "filesize": 15240478,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 9227,
+          "chapter_title": "4卷",
+          "updatetime": 1277879440,
+          "filesize": 13835162,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 9226,
+          "chapter_title": "3卷",
+          "updatetime": 1277879440,
+          "filesize": 13582439,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 9225,
+          "chapter_title": "2卷",
+          "updatetime": 1277879440,
+          "filesize": 13426733,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9224,
+          "chapter_title": "1卷",
+          "updatetime": 1277879440,
+          "filesize": 14066027,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 23732250,
+        "uid": 107860515,
+        "content": "吧",
+        "createtime": 1580676638,
+        "nickname": "十庸",
+        "avatar": "https://avatar.dmzj.com/79/b6/79b67b4bdf34de68fb93cd276b15d57f.png"
+      },
+      {
+        "comment_id": 22488367,
+        "uid": 109166606,
+        "content": "引入堅強的內心，您會為洶湧的浪潮而瘋狂，而年輕的浪潮會為之瘋狂。4引起Kinezawa家人瘋狂笑的事故故事",
+        "createtime": 1575625873,
+        "nickname": "1无",
+        "avatar": "https://avatar.dmzj.com/da/37/da371aa9a9bea55ed848a10c0da1ca5f.png"
+      }
+    ]
+  }
+}

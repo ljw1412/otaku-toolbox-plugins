@@ -1,0 +1,77 @@
+{
+  "id": 48879,
+  "islong": 2,
+  "direction": 1,
+  "title": "早上的教室",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/190618zsdjs.jpg",
+  "description": "《千绪的通学路》的作者川崎直孝在推特发的短篇漫画",
+  "last_updatetime": 1560855220,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 1508720,
+  "hit_num": 90008,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8206,
+      "tag_name": "川崎直孝"
+    }
+  ],
+  "subscribe_num": 6336,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86067,
+          "chapter_title": "1话",
+          "updatetime": 1560855220,
+          "filesize": 783837,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 106,
+    "latest_comment": [
+      {
+        "comment_id": 29736537,
+        "uid": 15758083,
+        "content": "想要表情包",
+        "createtime": 1597634814,
+        "nickname": "rlnanex",
+        "avatar": "https://avatar.dmzj.com/35/82/358267bc1e6d5306c293f6ab382f250e.png"
+      },
+      {
+        "comment_id": 29378343,
+        "uid": 103548769,
+        "content": "笑死",
+        "createtime": 1596274357,
+        "nickname": "秋叶上的冷雨",
+        "avatar": "https://avatar.dmzj.com/35/82/35826f29ad5caa695ead135c4bf531c7.png"
+      }
+    ]
+  }
+}

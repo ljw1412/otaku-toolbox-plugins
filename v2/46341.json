@@ -1,0 +1,95 @@
+{
+  "id": 46341,
+  "islong": 1,
+  "direction": 2,
+  "title": "内网里的神明大人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1052547331541481044.jpg",
+  "description": "Comipo! 制作的四格漫画。一家互联网公司在日常上线祭拜时，神明真的降临了，各位员工的奇迹日常从此开始。",
+  "last_updatetime": 1542526338,
+  "last_update_chapter_name": "第03话",
+  "copyright": 1,
+  "first_letter": "n",
+  "comic_py": "neiwanglideshenmingdaren",
+  "hidden": 0,
+  "hot_num": 149619,
+  "hit_num": 1333801,
+  "uid": 105254733,
+  "is_lock": 0,
+  "last_update_chapter_id": 83104,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15937,
+      "tag_name": "Easy"
+    }
+  ],
+  "subscribe_num": 672,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 83104,
+          "chapter_title": "3话",
+          "updatetime": 1542526338,
+          "filesize": 538492,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 82900,
+          "chapter_title": "2话",
+          "updatetime": 1541919163,
+          "filesize": 603603,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 82670,
+          "chapter_title": "1话",
+          "updatetime": 1541481465,
+          "filesize": 515593,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 8236074,
+        "uid": 24475363,
+        "content": "666666",
+        "createtime": 1542598831,
+        "nickname": "tx7685026",
+        "avatar": "https://avatar.dmzj.com/38/9e/389e14d5fa8e411af968b79cd5d7d246.png"
+      },
+      {
+        "comment_id": 8109189,
+        "uid": 107305558,
+        "content": "我感觉这女神应该是蓝发才对啊",
+        "createtime": 1542119438,
+        "nickname": "dmzj_107305558",
+        "avatar": "https://avatar.dmzj.com/e7/58/e7583f7ace3e320b8d09db5a9d8062bd.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

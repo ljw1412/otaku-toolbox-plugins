@@ -1,0 +1,79 @@
+{
+  "id": 45564,
+  "islong": 2,
+  "direction": 1,
+  "title": "给你晚安",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/geiniwannanx.jpg",
+  "description": "秘封组，莲子与梅莉在一起睡觉的温馨故事~",
+  "last_updatetime": 1535382055,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "geiniwanan",
+  "hidden": 0,
+  "hot_num": 120152,
+  "hit_num": 4857,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 76767,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15557,
+      "tag_name": "マカキセキ"
+    },
+    {
+      "tag_id": 15558,
+      "tag_name": "ザネリ"
+    }
+  ],
+  "subscribe_num": 552,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76767,
+          "chapter_title": "1话",
+          "updatetime": 1535382055,
+          "filesize": 5209562,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 36,
+    "latest_comment": [
+      {
+        "comment_id": 28505747,
+        "uid": 109159350,
+        "content": "护妻莲子太帅了！！！",
+        "createtime": 1593341840,
+        "nickname": "虹依清梦",
+        "avatar": "https://avatar.dmzj.com/10/29/1029af4e16166e2e48e0d301d5865703.png"
+      },
+      {
+        "comment_id": 25064300,
+        "uid": 106043299,
+        "content": "莲梅莉是真理！！",
+        "createtime": 1583744536,
+        "nickname": "KODmzj",
+        "avatar": "https://avatar.dmzj.com/11/32/11321dc013019469a45a7f7ac5078661.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

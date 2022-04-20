@@ -1,0 +1,132 @@
+{
+  "id": 43075,
+  "islong": 2,
+  "direction": 1,
+  "title": "桶柴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/00001tongchai.png",
+  "description": "可爱柴犬的故事",
+  "last_updatetime": 1526635347,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 1563031,
+  "hit_num": 206074,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14043,
+      "tag_name": "アタモト"
+    }
+  ],
+  "subscribe_num": 7216,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77551,
+          "chapter_title": "10话",
+          "updatetime": 1526635347,
+          "filesize": 577636,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 76517,
+          "chapter_title": "9话",
+          "updatetime": 1523971130,
+          "filesize": 618630,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 76516,
+          "chapter_title": "8话",
+          "updatetime": 1523971085,
+          "filesize": 578249,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 76009,
+          "chapter_title": "7话",
+          "updatetime": 1522985772,
+          "filesize": 1543097,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 76008,
+          "chapter_title": "6话",
+          "updatetime": 1522985754,
+          "filesize": 1401384,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 75406,
+          "chapter_title": "5话",
+          "updatetime": 1522068585,
+          "filesize": 1318071,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 74730,
+          "chapter_title": "4话",
+          "updatetime": 1520245438,
+          "filesize": 1027292,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 74316,
+          "chapter_title": "3话",
+          "updatetime": 1519215929,
+          "filesize": 1215416,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 74315,
+          "chapter_title": "2话",
+          "updatetime": 1519215926,
+          "filesize": 1126790,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 73984,
+          "chapter_title": "1话",
+          "updatetime": 1518180468,
+          "filesize": 429907,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 60,
+    "latest_comment": [
+      {
+        "comment_id": 25588543,
+        "uid": 101755544,
+        "content": "来看天使",
+        "createtime": 1584941847,
+        "nickname": "春草生",
+        "avatar": "https://avatar.dmzj.com/17/73/17738f9dc3dccf42027d7de096da6130.png"
+      },
+      {
+        "comment_id": 22342531,
+        "uid": 107882109,
+        "content": "马！",
+        "createtime": 1574833518,
+        "nickname": "瑟瑟发抖的阿凯",
+        "avatar": "https://avatar.dmzj.com/17/e7/17e73c7797b09dc000a9d89c55b18e05.png"
+      }
+    ]
+  }
+}

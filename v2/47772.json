@@ -1,0 +1,75 @@
+{
+  "id": 47772,
+  "islong": 2,
+  "direction": 2,
+  "title": "鬼斗鬼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1086914821552397358.jpg",
+  "description": "鬼斗鬼",
+  "last_updatetime": 1552398194,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 24871,
+  "hit_num": 147545,
+  "uid": 108691482,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16483,
+      "tag_name": "神奇大虾"
+    }
+  ],
+  "subscribe_num": 103,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86579,
+          "chapter_title": "1.1话",
+          "updatetime": 1552398194,
+          "filesize": 842343,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 15071512,
+        "uid": 108568487,
+        "content": ".",
+        "createtime": 1556493239,
+        "nickname": "dmzj_108568487",
+        "avatar": "https://avatar.dmzj.com/ee/ca/eeca00c1d3ee8e04dea0820c7e027c65.png"
+      },
+      {
+        "comment_id": 13908313,
+        "uid": 107232825,
+        "content": "太好看了吧",
+        "createtime": 1554642650,
+        "nickname": "卷哈",
+        "avatar": "https://avatar.dmzj.com/75/28/7528de43c6260a5b77fe05530c96223a.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": 45842,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C94)夏日的白露",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/bailu20180920.jpg",
+  "description": "弹々镇守府老师的的舰队collection同人画集",
+  "last_updatetime": 1537384389,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaridebailu",
+  "hidden": 0,
+  "hot_num": 4674051,
+  "hit_num": 96547,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 80889,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15679,
+      "tag_name": "弹々镇守府"
+    }
+  ],
+  "subscribe_num": 20656,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80889,
+          "chapter_title": "1话",
+          "updatetime": 1537384389,
+          "filesize": 1001127,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 108,
+    "latest_comment": [
+      {
+        "comment_id": 29759751,
+        "uid": 106282962,
+        "content": "震惊",
+        "createtime": 1597716418,
+        "nickname": "dmzj_106282962",
+        "avatar": "https://avatar.dmzj.com/26/3d/263d590c722aea312142da19ed3f79cb.png"
+      },
+      {
+        "comment_id": 29414511,
+        "uid": 107891414,
+        "content": "下下",
+        "createtime": 1596390658,
+        "nickname": "dmzj_107891414",
+        "avatar": "https://avatar.dmzj.com/b3/b7/b3b7b183441c39a9e4a1721ae3909090.png"
+      }
+    ]
+  },
+  "is_need_login": 1
+}

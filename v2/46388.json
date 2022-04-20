@@ -1,0 +1,73 @@
+{
+  "id": 46388,
+  "islong": 2,
+  "direction": 1,
+  "title": "酒豪集合",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/jiuhao1110l.jpg",
+  "description": "舰娘同人",
+  "last_updatetime": 1541811497,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 166195,
+  "hit_num": 31925,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7687,
+      "tag_name": "津留崎优"
+    }
+  ],
+  "subscribe_num": 767,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77921,
+          "chapter_title": "1话",
+          "updatetime": 1541811497,
+          "filesize": 3263324,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 8858341,
+        "uid": 101766851,
+        "content": "上个忤逆鳳翔妈妈的已经被送去间宫食堂做贡献了",
+        "createtime": 1544462319,
+        "nickname": "任重道远的节操",
+        "avatar": "https://avatar.dmzj.com/42/b9/42b91ff7a2e00ab5d29efd6829773c90.png"
+      },
+      {
+        "comment_id": 8079178,
+        "uid": 105820077,
+        "content": "高雄，什麼時候改二",
+        "createtime": 1542029756,
+        "nickname": "齊柏林伯爵號",
+        "avatar": "https://avatar.dmzj.com/27/24/2724970db57accdc098a1dbb3bca48dc.png"
+      }
+    ]
+  }
+}

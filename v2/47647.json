@@ -1,0 +1,79 @@
+{
+  "id": 47647,
+  "islong": 2,
+  "direction": 2,
+  "title": "我的泰坦女友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1016341541551342144.jpg",
+  "description": "传说，很久很久以前，女神创造了世界。\n然而，事实却不是这样……",
+  "last_updatetime": 1551346102,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 46944,
+  "hit_num": 414061,
+  "uid": 101634154,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13748,
+      "tag_name": "limit"
+    }
+  ],
+  "subscribe_num": 190,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86183,
+          "chapter_title": "1话",
+          "updatetime": 1551346102,
+          "filesize": 806491,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "梦想已经破灭，所有作品不再更新。",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 27,
+    "latest_comment": [
+      {
+        "comment_id": 12188977,
+        "uid": 104756745,
+        "content": "真是高产啊",
+        "createtime": 1551503991,
+        "nickname": "在下惹不起",
+        "avatar": "https://avatar.dmzj.com/66/92/6692b6e7d71ad59a0104eee04e2533ac.png"
+      },
+      {
+        "comment_id": 12184227,
+        "uid": 23905237,
+        "content": "说，你们的发型让作者废了多少发胶",
+        "createtime": 1551497904,
+        "nickname": "风语0翼",
+        "avatar": "https://avatar.dmzj.com/7c/f8/7cf878e099ed08caf18409f33c1c7a4a.png"
+      }
+    ]
+  }
+}

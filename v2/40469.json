@@ -1,0 +1,73 @@
+{
+  "id": 40469,
+  "islong": 2,
+  "direction": 1,
+  "title": "BLAME学园!",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/gakuenxueyuan.jpg",
+  "description": "BLAME！学园，是各种正传人物的恶搞，还有前传外传后传短篇。为全彩短篇集",
+  "last_updatetime": 1495379941,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 2184709,
+  "hit_num": 5507110,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 691,
+      "tag_name": "贰瓶勉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 9639,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61663,
+          "chapter_title": "1卷",
+          "updatetime": 1495379941,
+          "filesize": 18210883,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 355,
+    "latest_comment": [
+      {
+        "comment_id": 30060355,
+        "uid": 105623417,
+        "content": "666666",
+        "createtime": 1598857509,
+        "nickname": "Azir89655",
+        "avatar": "https://avatar.dmzj.com/91/19/91199271e30f7f1d3e33dbbd6f4ede32.png"
+      },
+      {
+        "comment_id": 30046634,
+        "uid": 106394947,
+        "content": "就没有力，，，",
+        "createtime": 1598795495,
+        "nickname": "破灭之黎明",
+        "avatar": "https://avatar.dmzj.com/74/47/744794daeb70f07d7a4ac0262dd6cae0.png"
+      }
+    ]
+  }
+}

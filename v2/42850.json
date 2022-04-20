@@ -1,0 +1,83 @@
+{
+  "id": 42850,
+  "islong": 2,
+  "direction": 1,
+  "title": "eyecatch",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/eyecatch04.jpg",
+  "description": "ぽんかん⑧老师的画集",
+  "last_updatetime": 1548576569,
+  "copyright": 0,
+  "first_letter": "e",
+  "hot_num": 8200710,
+  "hit_num": 255610,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14339,
+      "tag_name": "ぽんかん⑧"
+    }
+  ],
+  "subscribe_num": 32162,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73439,
+          "chapter_title": "4话",
+          "updatetime": 1516930599,
+          "filesize": 1182754,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 85889,
+          "chapter_title": "3.5话",
+          "updatetime": 1548576569,
+          "filesize": 1985707,
+          "chapter_order": 35
+        },
+        {
+          "chapter_id": 85888,
+          "chapter_title": "3话",
+          "updatetime": 1548576428,
+          "filesize": 2125965,
+          "chapter_order": 30
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 320,
+    "latest_comment": [
+      {
+        "comment_id": 29880503,
+        "uid": 108547172,
+        "content": "大老师❗",
+        "createtime": 1598163423,
+        "nickname": "地下室人",
+        "avatar": "https://avatar.dmzj.com/76/82/7682392309b5add6262193fc5479d652.png"
+      },
+      {
+        "comment_id": 29686132,
+        "uid": 109588893,
+        "content": "还行",
+        "createtime": 1597428066,
+        "nickname": "dmzj_109588893",
+        "avatar": "https://avatar.dmzj.com/58/46/5846a5a804a0c08b48e733a5b8560d6e.png"
+      }
+    ]
+  }
+}

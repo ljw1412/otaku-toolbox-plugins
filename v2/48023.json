@@ -1,0 +1,73 @@
+{
+  "id": 48023,
+  "islong": 2,
+  "direction": 1,
+  "title": "台湾神魔鬼怪传说",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/taiwankongbu0407.jpg",
+  "description": "精彩的台湾的神魔鬼怪小说",
+  "last_updatetime": 1554605438,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 167934,
+  "hit_num": 64596,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16791,
+      "tag_name": "黄健和"
+    },
+    {
+      "tag_id": 16792,
+      "tag_name": "胡说斋主人"
+    }
+  ],
+  "subscribe_num": 759,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82842,
+          "chapter_title": "1卷",
+          "updatetime": 1554605438,
+          "filesize": 37872790,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 52,
+    "latest_comment": [
+      {
+        "comment_id": 27551690,
+        "uid": 107399695,
+        "content": "全是字……",
+        "createtime": 1590003872,
+        "nickname": "dmzj_107399695",
+        "avatar": "https://avatar.dmzj.com/9f/bc/9fbc283dda0761a151733062787440fd.png"
+      },
+      {
+        "comment_id": 22799061,
+        "uid": 105245563,
+        "content": "妖怪文化，很感兴趣",
+        "createtime": 1577113802,
+        "nickname": "浅笑的梁刀",
+        "avatar": "https://avatar.dmzj.com/20/77/2077d4713674bbd98e0e91b82c23fe43.png"
+      }
+    ]
+  }
+}

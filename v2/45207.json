@@ -1,0 +1,122 @@
+{
+  "id": 45207,
+  "islong": 2,
+  "direction": 1,
+  "title": "四天王-1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/180803stw.jpg",
+  "description": "四天王有五个不是常识吗？咦咦咦，怎么只有三个了？刚开局四天王最强就领了便当，接下来该咋整啊！",
+  "last_updatetime": 1583814306,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 3016067,
+  "hit_num": 404871,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15388,
+      "tag_name": "咲竹ちひろ"
+    }
+  ],
+  "subscribe_num": 13729,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98446,
+          "chapter_title": "8话",
+          "updatetime": 1583814306,
+          "filesize": 4687082,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 89183,
+          "chapter_title": "7话",
+          "updatetime": 1560153096,
+          "filesize": 3351772,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 88746,
+          "chapter_title": "6话",
+          "updatetime": 1558967985,
+          "filesize": 4403413,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 85634,
+          "chapter_title": "5话",
+          "updatetime": 1550219030,
+          "filesize": 3105398,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 84088,
+          "chapter_title": "4话",
+          "updatetime": 1545792820,
+          "filesize": 2942004,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 80164,
+          "chapter_title": "3话",
+          "updatetime": 1535418105,
+          "filesize": 1944328,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 80163,
+          "chapter_title": "2话",
+          "updatetime": 1535418011,
+          "filesize": 2103209,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 79380,
+          "chapter_title": "1话",
+          "updatetime": 1533302014,
+          "filesize": 2983744,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 293,
+    "latest_comment": [
+      {
+        "comment_id": 29345432,
+        "uid": 104523760,
+        "content": "门",
+        "createtime": 1596137899,
+        "nickname": "口袋灵兽",
+        "avatar": "https://avatar.dmzj.com/23/15/231514155733d159d9500ac2a2406a47.png"
+      },
+      {
+        "comment_id": 27511979,
+        "uid": 107456145,
+        "content": "记录",
+        "createtime": 1589897628,
+        "nickname": "dmzj_107456145",
+        "avatar": "https://avatar.dmzj.com/12/83/1283474939a334206e6223f039d0f9c6.png"
+      }
+    ]
+  }
+}

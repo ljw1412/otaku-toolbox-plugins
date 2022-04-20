@@ -1,0 +1,93 @@
+{
+  "id": 46451,
+  "islong": 1,
+  "direction": 2,
+  "title": "whimsy",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1012305631542159271.jpg",
+  "description": "出乎意料的想象",
+  "last_updatetime": 1544143861,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 56663,
+  "hit_num": 338936,
+  "uid": 101230563,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 239,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 83728,
+          "chapter_title": "4话",
+          "updatetime": 1544143861,
+          "filesize": 185327,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 83464,
+          "chapter_title": "3话",
+          "updatetime": 1543538872,
+          "filesize": 280983,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 83243,
+          "chapter_title": "2话",
+          "updatetime": 1542934520,
+          "filesize": 222663,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 83230,
+          "chapter_title": "番外編",
+          "updatetime": 1542934130,
+          "filesize": 287213,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 82974,
+          "chapter_title": "1话",
+          "updatetime": 1542163165,
+          "filesize": 190919,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 20260910,
+        "uid": 108308448,
+        "content": "哈哈哈哈哈好看",
+        "createtime": 1568342421,
+        "nickname": "是千反田鸭",
+        "avatar": "https://avatar.dmzj.com/47/41/4741b44b0090441578fca9a0524e5948.png"
+      },
+      {
+        "comment_id": 8623545,
+        "uid": 102316359,
+        "content": "人要有自知之明",
+        "createtime": 1543823567,
+        "nickname": "落世",
+        "avatar": "https://avatar.dmzj.com/2d/29/2d29e0fac07335dd3dd1d91469902733.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 42087,
+  "islong": 2,
+  "direction": 1,
+  "title": "Benetnasch",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/171124dongfang.jpg",
+  "description": "东方系列及百合系列漫画",
+  "last_updatetime": 1511516276,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 179858,
+  "hit_num": 32775,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5728,
+      "tag_name": "Kirero"
+    }
+  ],
+  "subscribe_num": 839,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71187,
+          "chapter_title": "1话",
+          "updatetime": 1511516276,
+          "filesize": 1892225,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 44,
+    "latest_comment": [
+      {
+        "comment_id": 29244281,
+        "uid": 111285789,
+        "content": "日常寿命论，习惯了",
+        "createtime": 1595779438,
+        "nickname": "dmzj_111285789",
+        "avatar": "https://avatar.dmzj.com/73/bf/73bf5b314b57f1c474070e2114564c36.png"
+      },
+      {
+        "comment_id": 26691499,
+        "uid": 106122239,
+        "content": "咲夜又死了",
+        "createtime": 1587458326,
+        "nickname": "dmzj_106122239",
+        "avatar": "https://avatar.dmzj.com/f9/d8/f9d8a4add1d0715fdb3a5d54b75af420.png"
+      }
+    ]
+  }
+}

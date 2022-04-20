@@ -1,0 +1,84 @@
+{
+  "id": 40561,
+  "islong": 2,
+  "direction": 1,
+  "title": "天邪鬼先生与我",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/tianxieguixianshenghewo.jpg",
+  "description": "推特×P站连载！ 爱捉弄人的天邪鬼与和服少女的温馨日常！",
+  "last_updatetime": 1533868864,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 5299614,
+  "hit_num": 414403,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11497,
+      "tag_name": "笹木あおこ"
+    }
+  ],
+  "subscribe_num": 23262,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79450,
+          "chapter_title": "2话",
+          "updatetime": 1533868864,
+          "filesize": 897855,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 64754,
+          "chapter_title": "1话",
+          "updatetime": 1496327597,
+          "filesize": 1201064,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 344,
+    "latest_comment": [
+      {
+        "comment_id": 29862119,
+        "uid": 102275771,
+        "content": "留",
+        "createtime": 1598100040,
+        "nickname": "三丝白玉卷",
+        "avatar": "https://avatar.dmzj.com/5d/b9/5db9aa8fa8f5da8656e96ed1f2ee283b.png"
+      },
+      {
+        "comment_id": 29787257,
+        "uid": 111301195,
+        "content": "有生之年能看到它更新吗？（落泪）\n不敢求填完坑，时不时发发糖可以吗（卑微）",
+        "createtime": 1597821416,
+        "nickname": "dmzj_111301195",
+        "avatar": "https://avatar.dmzj.com/14/74/147496dba56e392441ef23e8eef21853.png"
+      }
+    ]
+  }
+}

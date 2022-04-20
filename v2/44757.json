@@ -1,0 +1,93 @@
+{
+  "id": 44757,
+  "islong": 2,
+  "direction": 2,
+  "title": "瓦坎达万岁",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/wakandawansui0712.jpg",
+  "description": "该系列编剧为著名科幻/奇幻小说家Nnedi Okorafor，画师为Alberto Alburquerque，讲述奥耶可、阿由和阿内卡三位朵拉侍卫队成员去纽约调查一件威胁瓦坎达安全的事件，遇见蜘蛛侠、X战警和复仇者并与其合作的故事。\n",
+  "last_updatetime": 1536149091,
+  "last_update_chapter_name": "瓦坎达万岁",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wakandawansui",
+  "hidden": 0,
+  "hot_num": 119474,
+  "hit_num": 72949,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 80409,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 521,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80409,
+          "chapter_title": "3卷",
+          "updatetime": 1536149091,
+          "filesize": 4094152,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 79480,
+          "chapter_title": "2卷",
+          "updatetime": 1533471872,
+          "filesize": 4608342,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 78238,
+          "chapter_title": "1卷",
+          "updatetime": 1530450386,
+          "filesize": 5067216,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 46,
+    "latest_comment": [
+      {
+        "comment_id": 22663799,
+        "uid": 108411755,
+        "content": "广坎搭",
+        "createtime": 1576586482,
+        "nickname": "枫韵暂住",
+        "avatar": "https://avatar.dmzj.com/62/20/6220f463d276ea31f1965cadcd1223a3.png"
+      },
+      {
+        "comment_id": 11819950,
+        "uid": 104436698,
+        "content": "漫威哦",
+        "createtime": 1550848825,
+        "nickname": "qzuser54729838",
+        "avatar": "https://avatar.dmzj.com/0f/9e/0f9ed8ac31b7724299b39e7257b98e24.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

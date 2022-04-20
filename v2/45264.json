@@ -1,0 +1,79 @@
+{
+  "id": 45264,
+  "islong": 1,
+  "direction": 2,
+  "title": "元七七小剧场",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1076342761533199936.jpg",
+  "description": "生活麻辣烫，尽在元七七小剧场，看男看女看八卦，元七七是你生活的小棉垫~",
+  "last_updatetime": 1533200178,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 4222,
+  "hit_num": 30957,
+  "uid": 107634276,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3253,
+      "tag_name": "宅系"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15411,
+      "tag_name": "元七七同学"
+    }
+  ],
+  "subscribe_num": 18,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 75953,
+          "chapter_title": "1话",
+          "updatetime": 1533200178,
+          "filesize": 396188,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 6981873,
+        "uid": 104377495,
+        "content": "看我挖到了什么?",
+        "createtime": 1537783823,
+        "nickname": "[seek death] ",
+        "avatar": "https://avatar.dmzj.com/4b/a4/4ba4fa69781c143480050fdccd458b85.png"
+      },
+      {
+        "comment_id": 6130166,
+        "uid": 107116910,
+        "content": "我怎么看不懂呢",
+        "createtime": 1533644685,
+        "nickname": "dmzj_107116910",
+        "avatar": "https://avatar.dmzj.com/9e/c2/9ec251bcd85822c6f552189e860d1834.png"
+      }
+    ]
+  }
+}

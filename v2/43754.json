@@ -1,0 +1,86 @@
+{
+  "id": 43754,
+  "islong": 2,
+  "direction": 2,
+  "title": "英雄集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1064266531523073987.jpg",
+  "description": "世界浩劫将至，英雄纷纷集结续写史诗。",
+  "last_updatetime": 1582708866,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 9305,
+  "hit_num": 43262,
+  "uid": 106426653,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14735,
+      "tag_name": "146阿拉斯加雪橇"
+    }
+  ],
+  "subscribe_num": 38,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94670,
+          "chapter_title": "2话",
+          "updatetime": 1582708866,
+          "filesize": 4045302,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 94048,
+          "chapter_title": "1话",
+          "updatetime": 1581422241,
+          "filesize": 4322103,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 24041948,
+        "uid": 108691482,
+        "content": "封面好像在哪看过，作者在哪画过这作品或者是重新画的吗？",
+        "createtime": 1581494641,
+        "nickname": "神奇大虾",
+        "avatar": "https://avatar.dmzj.com/41/55/41555986f771b587b02431dac749416a.png"
+      },
+      {
+        "comment_id": 4311220,
+        "uid": 101359550,
+        "content": "好看",
+        "createtime": 1523335439,
+        "nickname": "思量",
+        "avatar": "https://avatar.dmzj.com/34/75/34753db6f08a84fe6b938664a35e1198.png"
+      }
+    ]
+  }
+}

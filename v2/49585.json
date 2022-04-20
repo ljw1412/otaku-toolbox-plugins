@@ -1,0 +1,75 @@
+{
+  "id": 49585,
+  "islong": 2,
+  "direction": 1,
+  "title": "卯月的生日派对",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/190811mydsrpd.jpg",
+  "description": "偶像大师灰姑娘同人漫画",
+  "last_updatetime": 1565501482,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "maoyuedeshengripaidui",
+  "hidden": 0,
+  "hot_num": 23114,
+  "hit_num": 11118,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 92121,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12433,
+      "tag_name": "デコスケ"
+    }
+  ],
+  "subscribe_num": 953,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92121,
+          "chapter_title": "1话",
+          "updatetime": 1565501482,
+          "filesize": 1683903,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 78,
+    "latest_comment": [
+      {
+        "comment_id": 26578500,
+        "uid": 107782566,
+        "content": "留门",
+        "createtime": 1587128939,
+        "nickname": "dmzj_107782566",
+        "avatar": "https://avatar.dmzj.com/d7/72/d7729261624f6aa9993620b2d61ce6d7.png"
+      },
+      {
+        "comment_id": 24843363,
+        "uid": 107823337,
+        "content": "这怎么是有声漫画",
+        "createtime": 1583286046,
+        "nickname": "还不够快乐",
+        "avatar": "https://avatar.dmzj.com/18/20/1820817198254b8e759d73b76eb73ed0.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,86 @@
+{
+  "id": 42310,
+  "islong": 1,
+  "direction": 2,
+  "title": "漫画角色的日常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1057003861513081690.jpg",
+  "description": "以工藤新一和毛利兰为主角展开的一系列漫画角色的日常趣事，涉及人物有犬夜叉、乱马、杀生丸、火影忍者角色以及其他…背景为现代。",
+  "last_updatetime": 1515657941,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 2305,
+  "hit_num": 12740,
+  "uid": 105700386,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14085,
+      "tag_name": "烟慧语"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72907,
+          "chapter_title": "2话",
+          "updatetime": 1515657941,
+          "filesize": 430456,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 72099,
+          "chapter_title": "1话",
+          "updatetime": 1513082766,
+          "filesize": 843491,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "不定期更新~你们的吐槽我都看见了~等我有空会画美美的福利图~",
+  "comic_notice": "同人作品，漫画中出场的都是本人喜爱的角色，由于平时比较忙，所以草稿流绘制。有好的脑洞也欢迎友情合作",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 19626517,
+        "uid": 108474641,
+        "content": "订阅4什么鬼",
+        "createtime": 1566389332,
+        "nickname": "dmzj_108474641",
+        "avatar": "https://avatar.dmzj.com/e8/07/e8078bb46e247d5ddf73dcdf38e23dff.png"
+      },
+      {
+        "comment_id": 3690092,
+        "uid": 104279767,
+        "content": "不叨扰大家了，我去日狗了。",
+        "createtime": 1516116888,
+        "nickname": "平静，，，",
+        "avatar": "https://avatar.dmzj.com/10/4f/104fd5850476a9f29ac9f80e70b1864e.png"
+      }
+    ]
+  }
+}

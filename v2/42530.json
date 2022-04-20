@@ -1,0 +1,73 @@
+{
+  "id": 42530,
+  "islong": 2,
+  "direction": 2,
+  "title": "不可思议的X战警",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/guzaoxzanjing.jpg",
+  "description": "历史上第一次的X战警始刊号：\n当惊奇女孩琴格蕾加入X战警，初代们也将第一次展开与万磁王的对决！将会发生什么呢？\n",
+  "last_updatetime": 1514817995,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 29372,
+  "hit_num": 6943,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 103,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72605,
+          "chapter_title": "1卷",
+          "updatetime": 1514817995,
+          "filesize": 3499471,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 3613418,
+        "uid": 102242710,
+        "content": "哦哦超赞！",
+        "createtime": 1514887930,
+        "nickname": "勺子侠",
+        "avatar": "https://avatar.dmzj.com/97/6b/976bdf468791c18be0c19183d39cee51.png"
+      },
+      {
+        "comment_id": 3611944,
+        "uid": 103486692,
+        "content": "地板",
+        "createtime": 1514867552,
+        "nickname": "゛ 守.護",
+        "avatar": "https://avatar.dmzj.com/30/12/3012cf62db079ea85f8f152d39f98db4.png"
+      }
+    ]
+  }
+}

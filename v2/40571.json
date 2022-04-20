@@ -1,0 +1,89 @@
+{
+  "id": 40571,
+  "islong": 2,
+  "direction": 1,
+  "title": "地球的怪兽",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/diqiudeguaishou.jpg",
+  "description": "关於守护著地球的英雄故事",
+  "last_updatetime": 1496407316,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 2028931,
+  "hit_num": 3140760,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18,
+      "tag_name": "村田雄介"
+    },
+    {
+      "tag_id": 5343,
+      "tag_name": "ONE"
+    },
+    {
+      "tag_id": 13281,
+      "tag_name": "西村キヌ"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 8447,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 64777,
+          "chapter_title": "1话",
+          "updatetime": 1496407316,
+          "filesize": 15208283,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 284,
+    "latest_comment": [
+      {
+        "comment_id": 29817707,
+        "uid": 106295864,
+        "content": "这就是真正的英雄啊！强者不一定是英雄。",
+        "createtime": 1597932458,
+        "nickname": "松鼠爱吃鱼",
+        "avatar": "https://avatar.dmzj.com/ad/ac/adacfc2c8b47ab073dcaf13710260126.png"
+      },
+      {
+        "comment_id": 29599459,
+        "uid": 105856628,
+        "content": "求灵能百分百啊",
+        "createtime": 1597074869,
+        "nickname": "区区四皇老甚平",
+        "avatar": "https://avatar.dmzj.com/69/92/69920652048c201a6566f46f6bf8a22e.png"
+      }
+    ]
+  }
+}

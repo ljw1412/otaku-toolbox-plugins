@@ -1,0 +1,77 @@
+{
+  "id": 4877,
+  "islong": 2,
+  "direction": 1,
+  "title": "歼魔战士魔矢",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/46_58340bfdf5f56cde53e62cd9dc5e8c69.jpg",
+  "description": "车田正美作品",
+  "last_updatetime": 1280210912,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 121680,
+  "hit_num": 716177,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 671,
+      "tag_name": "车田正美"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 566,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10576,
+          "chapter_title": "1卷",
+          "updatetime": 1280815712,
+          "filesize": 19298137,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 29380856,
+        "uid": 111070561,
+        "content": "one by",
+        "createtime": 1596284044,
+        "nickname": "dmzj_111070561",
+        "avatar": "https://avatar.dmzj.com/4a/71/4a710bcb2f67c463757f5591f648ec1a.png"
+      },
+      {
+        "comment_id": 21332127,
+        "uid": 10424507,
+        "content": "特别关注系列",
+        "createtime": 1571118695,
+        "nickname": "fanta1125",
+        "avatar": "https://avatar.dmzj.com/18/98/1898cf2d8395ecf2a2b07b5f19a17ba1.png"
+      }
+    ]
+  }
+}

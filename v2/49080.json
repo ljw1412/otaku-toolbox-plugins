@@ -1,0 +1,87 @@
+{
+  "id": 49080,
+  "islong": 2,
+  "direction": 1,
+  "title": "去月球外传 纸的记忆",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/qyqwzzdjy0705.jpg",
+  "description": "官方外传漫画，01是《去月球》的外传，02是续作《寻找天堂》的外传，03是共同外传",
+  "last_updatetime": 1562468727,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 468537,
+  "hit_num": 10371,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17340,
+      "tag_name": "高瞰"
+    },
+    {
+      "tag_id": 17341,
+      "tag_name": "puré"
+    }
+  ],
+  "subscribe_num": 1873,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90960,
+          "chapter_title": "3话",
+          "updatetime": 1562468727,
+          "filesize": 2454975,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 90931,
+          "chapter_title": "2话",
+          "updatetime": 1562378375,
+          "filesize": 4851274,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 90912,
+          "chapter_title": "1话",
+          "updatetime": 1562324958,
+          "filesize": 3224129,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 135,
+    "latest_comment": [
+      {
+        "comment_id": 29221325,
+        "uid": 104681746,
+        "content": "去月球？？？那个游戏？？？",
+        "createtime": 1595696888,
+        "nickname": "莫得理智刀客塔",
+        "avatar": "https://avatar.dmzj.com/83/ac/83ac025f70874d03cd4a9e944a639d0c.png"
+      },
+      {
+        "comment_id": 24900737,
+        "uid": 110545326,
+        "content": "泪，泻了出来",
+        "createtime": 1583394680,
+        "nickname": "月下的真实",
+        "avatar": "https://avatar.dmzj.com/69/33/693316d5f8c3b5817607ef1b52e65d10.png"
+      }
+    ]
+  }
+}

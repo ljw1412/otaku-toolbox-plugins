@@ -1,0 +1,80 @@
+{
+  "id": 48287,
+  "islong": 2,
+  "direction": 1,
+  "title": "索敌必杀",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/suodibishaasasa0428.jpg",
+  "description": "原作：手冢治虫，讲述了一个人造人复仇的故事",
+  "last_updatetime": 1564366886,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 973330,
+  "hit_num": 21030,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 904,
+      "tag_name": "手冢治虫"
+    },
+    {
+      "tag_id": 8669,
+      "tag_name": "兼子笃(カネコアツシ)"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 4517,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90694,
+          "chapter_title": "2话",
+          "updatetime": 1564366886,
+          "filesize": 4462526,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 87897,
+          "chapter_title": "1话",
+          "updatetime": 1556426959,
+          "filesize": 7294484,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 118,
+    "latest_comment": [
+      {
+        "comment_id": 30068291,
+        "uid": 108035231,
+        "content": "唷",
+        "createtime": 1598887475,
+        "nickname": "白首阿無",
+        "avatar": "https://avatar.dmzj.com/13/06/1306f1c0be44fb71e4fb7f223cb7041f.png"
+      },
+      {
+        "comment_id": 29963400,
+        "uid": 111065316,
+        "content": "好强啊……求更新！",
+        "createtime": 1598456821,
+        "nickname": "今天也很卑微",
+        "avatar": "https://avatar.dmzj.com/12/70/127001dcbb217d006711ea41161dfec4.png"
+      }
+    ]
+  }
+}

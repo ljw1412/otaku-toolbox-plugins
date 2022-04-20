@@ -1,0 +1,90 @@
+{
+  "id": 45095,
+  "islong": 2,
+  "direction": 2,
+  "title": "神奇四侠：1234",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/18-727shenqisixia.jpg",
+  "description": "2001年发布的四期短篇",
+  "last_updatetime": 1584620213,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 70966,
+  "hit_num": 20013,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 297,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99691,
+          "chapter_title": "4卷",
+          "updatetime": 1584620213,
+          "filesize": 3394635,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 93238,
+          "chapter_title": "3卷",
+          "updatetime": 1568719067,
+          "filesize": 3151017,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 87171,
+          "chapter_title": "2卷",
+          "updatetime": 1552130392,
+          "filesize": 2881774,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 80129,
+          "chapter_title": "1卷",
+          "updatetime": 1532687985,
+          "filesize": 3468111,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 29655407,
+        "uid": 107056222,
+        "content": "光头是不是把自己嗑药的经历代入了里德……",
+        "createtime": 1597308653,
+        "nickname": "dmzj_107056222",
+        "avatar": "https://avatar.dmzj.com/eb/76/eb76b7468b7fdf8ca0e5285371935d78.png"
+      },
+      {
+        "comment_id": 29655192,
+        "uid": 107056222,
+        "content": "莫光头写的ff！",
+        "createtime": 1597307694,
+        "nickname": "dmzj_107056222",
+        "avatar": "https://avatar.dmzj.com/eb/76/eb76b7468b7fdf8ca0e5285371935d78.png"
+      }
+    ]
+  }
+}

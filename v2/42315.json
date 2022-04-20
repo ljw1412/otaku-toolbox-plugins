@@ -1,0 +1,73 @@
+{
+  "id": 42315,
+  "islong": 2,
+  "direction": 1,
+  "title": "地球人缇拉酱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/171215diqiuren.jpg",
+  "description": "不良少年某日遇到一名自称地球分身的奇妙少女，从此引发一连串趣事……",
+  "last_updatetime": 1513307045,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 306109,
+  "hit_num": 65341,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 6437,
+      "tag_name": "颜艺"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11520,
+      "tag_name": "林圣二"
+    }
+  ],
+  "subscribe_num": 1431,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72112,
+          "chapter_title": "1话",
+          "updatetime": 1513307045,
+          "filesize": 2442418,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 39,
+    "latest_comment": [
+      {
+        "comment_id": 28891937,
+        "uid": 111065316,
+        "content": "还更新嘛……",
+        "createtime": 1594566515,
+        "nickname": "今天也很卑微",
+        "avatar": "https://avatar.dmzj.com/12/70/127001dcbb217d006711ea41161dfec4.png"
+      },
+      {
+        "comment_id": 25009696,
+        "uid": 101600000,
+        "content": "妈耶，在自己伤口里泡温泉",
+        "createtime": 1583610503,
+        "nickname": "凉宫春日的日常",
+        "avatar": "https://avatar.dmzj.com/e5/72/e57201475a92b78cb67f1077982eadf6.png"
+      }
+    ]
+  }
+}

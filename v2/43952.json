@@ -1,0 +1,90 @@
+{
+  "id": 43952,
+  "islong": 2,
+  "direction": 2,
+  "title": "善美莫蒂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/shanmeimodi0425.jpg",
+  "description": "动画中出现的小册子本体",
+  "last_updatetime": 1524646457,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 496853,
+  "hit_num": 116884,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10142,
+      "tag_name": "ONI PRESS"
+    }
+  ],
+  "subscribe_num": 2175,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 75987,
+          "chapter_title": "追加2",
+          "updatetime": 1524646457,
+          "filesize": 2072101,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 75986,
+          "chapter_title": "追加1",
+          "updatetime": 1524646443,
+          "filesize": 1583922,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 75985,
+          "chapter_title": "追加",
+          "updatetime": 1524640915,
+          "filesize": 1932311,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 75980,
+          "chapter_title": "1话",
+          "updatetime": 1524630579,
+          "filesize": 8993878,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 47,
+    "latest_comment": [
+      {
+        "comment_id": 29257923,
+        "uid": 107970539,
+        "content": "可以的啊",
+        "createtime": 1595834927,
+        "nickname": "岩山17",
+        "avatar": "https://avatar.dmzj.com/75/a9/75a9ada32c2539d35e78d1891f7f2ee0.png"
+      },
+      {
+        "comment_id": 28698328,
+        "uid": 105982603,
+        "content": "这样的都有啊",
+        "createtime": 1593925834,
+        "nickname": "Anthera",
+        "avatar": "https://avatar.dmzj.com/58/48/5848bf7993a925b039a0915112b845ab.png"
+      }
+    ]
+  }
+}

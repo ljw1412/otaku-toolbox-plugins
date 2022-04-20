@@ -1,0 +1,77 @@
+{
+  "id": 48695,
+  "islong": 2,
+  "direction": 1,
+  "title": "让我来回复你",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/190601huifu.jpg",
+  "description": "嫁出去的精灵才能使用的恢复魔法是……？",
+  "last_updatetime": 1559404384,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 1926531,
+  "hit_num": 41934,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17145,
+      "tag_name": "ダコワズ"
+    }
+  ],
+  "subscribe_num": 8979,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89984,
+          "chapter_title": "1话",
+          "updatetime": 1559404384,
+          "filesize": 2527972,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 658,
+    "latest_comment": [
+      {
+        "comment_id": 30025066,
+        "uid": 104850690,
+        "content": "又砍了一个",
+        "createtime": 1598707990,
+        "nickname": "jinjinhu36",
+        "avatar": "https://avatar.dmzj.com/23/21/2321d5f72136b13281334acfe86d88c7.png"
+      },
+      {
+        "comment_id": 29658725,
+        "uid": 111088544,
+        "content": "哦靠，照这个逻辑，和精灵不是可以无限做？觉得不行了就舔一口，完全恢复，再接着做，无限循环无限做，做到精灵宕机都能接着做？",
+        "createtime": 1597323598,
+        "nickname": "这就离谱",
+        "avatar": "https://avatar.dmzj.com/ef/0d/ef0df58b5bd7319a4a05c416bfac4dbf.png"
+      }
+    ]
+  }
+}

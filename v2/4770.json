@@ -1,0 +1,61 @@
+{
+  "id": 4770,
+  "islong": 2,
+  "direction": 1,
+  "title": "赌国风云录",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/26_12efa3a9a9f8eb30d617fb3e4ce73d0d.jpg",
+  "description": "短篇漫画集",
+  "last_updatetime": 1279783647,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 3309,
+  "hit_num": 164734,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2783,
+      "tag_name": "王宜文"
+    }
+  ],
+  "subscribe_num": 14,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10911,
+          "chapter_title": "1卷",
+          "updatetime": 1280388447,
+          "filesize": 16451391,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 4845116,
+        "uid": 101446951,
+        "content": "画风还不错诶，人体也很好...1篇和2篇就是标准的少女漫画 （90年代的剧情 到现在还有很多类似的）",
+        "createtime": 1527362253,
+        "nickname": "現実脫出",
+        "avatar": "https://avatar.dmzj.com/48/24/4824490ea7cb957f1dbe9869feb6f597.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 43003,
+  "islong": 2,
+  "direction": 1,
+  "title": "(c93)余",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/fateyu.jpg",
+  "description": "FateGrand Order全年龄同人本",
+  "last_updatetime": 1517759620,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 6444148,
+  "hit_num": 378752,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14414,
+      "tag_name": "I'e POISON"
+    }
+  ],
+  "subscribe_num": 23158,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67634,
+          "chapter_title": "1话",
+          "updatetime": 1517759620,
+          "filesize": 2830066,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 129,
+    "latest_comment": [
+      {
+        "comment_id": 29905339,
+        "uid": 111171816,
+        "content": "變身功能實在是太好用了",
+        "createtime": 1598261330,
+        "nickname": "shimos",
+        "avatar": "https://avatar.dmzj.com/79/87/798735c24f6a5ac09f5386e7571a1aeb.png"
+      },
+      {
+        "comment_id": 29888027,
+        "uid": 109462277,
+        "content": "这",
+        "createtime": 1598191969,
+        "nickname": "云樱夕",
+        "avatar": "https://avatar.dmzj.com/28/84/28847190a5b17214ee9902d3d2ad888f.png"
+      }
+    ]
+  }
+}

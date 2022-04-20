@@ -1,0 +1,101 @@
+{
+  "id": 47546,
+  "islong": 2,
+  "direction": 1,
+  "title": "流石猫前辈",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/190221lsmqb.jpg",
+  "description": "猫咪前辈和老虎后辈的松散软软(?)的日常(流石=さすが=真不愧)\n",
+  "last_updatetime": 1553699895,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 745587,
+  "hit_num": 12423,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16548,
+      "tag_name": "卯月优"
+    }
+  ],
+  "subscribe_num": 3432,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86998,
+          "chapter_title": "5话",
+          "updatetime": 1553699895,
+          "filesize": 1550600,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 86997,
+          "chapter_title": "4话",
+          "updatetime": 1553699837,
+          "filesize": 1378779,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 86190,
+          "chapter_title": "3话",
+          "updatetime": 1551146111,
+          "filesize": 774094,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 86129,
+          "chapter_title": "2话",
+          "updatetime": 1550978669,
+          "filesize": 1621799,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 86031,
+          "chapter_title": "1话",
+          "updatetime": 1550714540,
+          "filesize": 1068680,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 59,
+    "latest_comment": [
+      {
+        "comment_id": 27517666,
+        "uid": 100346640,
+        "content": "诶，不见更新了",
+        "createtime": 1589906639,
+        "nickname": "百分之s",
+        "avatar": "https://avatar.dmzj.com/74/14/7414313d928301d4135326c73e79438e.png"
+      },
+      {
+        "comment_id": 26128617,
+        "uid": 108633635,
+        "content": "hhhhh",
+        "createtime": 1586118111,
+        "nickname": "奥寺美纪",
+        "avatar": "https://avatar.dmzj.com/20/86/2086d479202c0bc2d31510b7c0a2be82.png"
+      }
+    ]
+  }
+}

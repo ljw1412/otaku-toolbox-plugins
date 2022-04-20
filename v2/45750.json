@@ -1,0 +1,69 @@
+{
+  "id": 45750,
+  "islong": 2,
+  "direction": 2,
+  "title": "使命召唤：僵尸2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/smzh20180913.jpg",
+  "description": "使命召唤：黑色行动4僵尸剧情漫画",
+  "last_updatetime": 1536827574,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 327252,
+  "hit_num": 9731,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1398,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81826,
+          "chapter_title": "1卷",
+          "updatetime": 1536827574,
+          "filesize": 2210747,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 14725451,
+        "uid": 101438145,
+        "content": "什么时候更新啊",
+        "createtime": 1555921701,
+        "nickname": "demons75638",
+        "avatar": "https://avatar.dmzj.com/2d/ea/2dea4c571a51c073dce4c2c902dbe05f.png"
+      },
+      {
+        "comment_id": 10165695,
+        "uid": 108602675,
+        "content": "期待迪亚哥肖克和斯嘉丽的背景故事",
+        "createtime": 1547652643,
+        "nickname": "dmzj_108602675",
+        "avatar": "https://avatar.dmzj.com/61/d9/61d9baadedec1ac226a85b6e1131d1b3.png"
+      }
+    ]
+  }
+}

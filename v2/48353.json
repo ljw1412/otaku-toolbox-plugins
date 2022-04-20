@@ -1,0 +1,76 @@
+{
+  "id": 48353,
+  "islong": 2,
+  "direction": 1,
+  "title": "冠军小队V3",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/guanjunxiaoduiv30504.jpg",
+  "description": "诸界之战冠军小队的支线故事",
+  "last_updatetime": 1560590921,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 44873,
+  "hit_num": 1820,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 183,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85058,
+          "chapter_title": "6卷",
+          "updatetime": 1560590921,
+          "filesize": 3610325,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 83636,
+          "chapter_title": "5卷",
+          "updatetime": 1556962628,
+          "filesize": 4525160,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 15360196,
+        "uid": 102289012,
+        "content": "第一？",
+        "createtime": 1556974848,
+        "nickname": "珑隐月",
+        "avatar": "https://avatar.dmzj.com/c7/66/c76653e357404f09881c5c7770ac012e.png"
+      },
+      {
+        "comment_id": 15357452,
+        "uid": 101387784,
+        "content": "居然单开刊了？ua貌似只打算把诸界之战部分汉化掉吧，冠军小队前面的汉化大概只到无限倒计时的样子？（v3没问题的，前面这帮小孩建的champions就是v2了，v1是1975年的老刊…）",
+        "createtime": 1556971108,
+        "nickname": "RABUMALAL",
+        "avatar": "https://avatar.dmzj.com/14/66/1466c75fe0dec23972386cf68afcb87e.png"
+      }
+    ]
+  }
+}

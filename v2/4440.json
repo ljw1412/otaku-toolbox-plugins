@@ -1,0 +1,79 @@
+{
+  "id": 4440,
+  "islong": 2,
+  "direction": 1,
+  "title": "B级天堂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/eye0001-17198_602bb80310747b0a4364f544696141ed.jpg",
+  "description": "暂无介绍",
+  "last_updatetime": 1278923777,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bjtt",
+  "hidden": 0,
+  "hot_num": 19439,
+  "hit_num": 567395,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 10616,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1858,
+      "tag_name": "波津彬子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 86,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10616,
+          "chapter_title": "1卷",
+          "updatetime": 1279528577,
+          "filesize": 17720590,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 2394552,
+        "uid": 104557704,
+        "content": "短篇漏掉太多了！",
+        "createtime": 1498729799,
+        "nickname": "Casbellianna",
+        "avatar": "https://avatar.dmzj.com/85/b6/85b61d58a7826e51a55a405ce47a2a2c.png"
+      },
+      {
+        "comment_id": 44190,
+        "uid": 10660749,
+        "content": "被标题吸引后发现没有介绍果断放弃",
+        "createtime": 1327819427,
+        "nickname": "藤村君",
+        "avatar": "https://avatar.dmzj.com/4e/d9/4ed9ce32e455fee2d07f180278269999.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

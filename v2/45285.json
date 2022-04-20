@@ -1,0 +1,75 @@
+{
+  "id": 45285,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方放火庵",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/dongfangfanghuoan0809vbvb.jpg",
+  "description": "啊，又烧了呢（冷漠）",
+  "last_updatetime": 1533780714,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongfangfanghuoan",
+  "hidden": 0,
+  "hot_num": 124844,
+  "hit_num": 13087,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 80681,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15425,
+      "tag_name": "ハルカチャンネル"
+    }
+  ],
+  "subscribe_num": 574,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80681,
+          "chapter_title": "1话",
+          "updatetime": 1533780714,
+          "filesize": 6467052,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 47,
+    "latest_comment": [
+      {
+        "comment_id": 29161033,
+        "uid": 110723858,
+        "content": "全是二设哈哈哈哈哈哈哈哈擦",
+        "createtime": 1595470174,
+        "nickname": "dmzj_110723858",
+        "avatar": "https://avatar.dmzj.com/59/3f/593fa4ca93990023a4c6832b1ef96a61.png"
+      },
+      {
+        "comment_id": 28004699,
+        "uid": 102540728,
+        "content": "感觉这作者是个画黄漫出身的",
+        "createtime": 1591553298,
+        "nickname": "荷鲁斯之左眼",
+        "avatar": "https://avatar.dmzj.com/83/90/8390f288cbd4fe24f8e8acb886ac7108.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

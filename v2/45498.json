@@ -1,0 +1,100 @@
+{
+  "id": 45498,
+  "islong": 2,
+  "direction": 2,
+  "title": "夜魔侠与蜘蛛侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/180823ddsm.jpg",
+  "description": "金并炸了！夜魔侠和蜘蛛侠要找出是谁干的！请相信这是一个严肃的故事，但是文案真的编不出什么简介了……",
+  "last_updatetime": 1542036875,
+  "last_update_chapter_name": "特别嫌疑人04",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yemoxiayuzhizhuxia",
+  "hidden": 0,
+  "hot_num": 110461,
+  "hit_num": 25919,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 78009,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 461,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78009,
+          "chapter_title": "4卷",
+          "updatetime": 1542036875,
+          "filesize": 3906722,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 77508,
+          "chapter_title": "3卷",
+          "updatetime": 1540656559,
+          "filesize": 3204598,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 76348,
+          "chapter_title": "2卷",
+          "updatetime": 1537674249,
+          "filesize": 5290829,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 75304,
+          "chapter_title": "1卷",
+          "updatetime": 1534990552,
+          "filesize": 3408607,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 27,
+    "latest_comment": [
+      {
+        "comment_id": 8505096,
+        "uid": 106460411,
+        "content": "这个漫画啥时候有的，之前网上没找到中文版，自己翻译了两卷。。。",
+        "createtime": 1543490975,
+        "nickname": "KamenStand",
+        "avatar": "https://avatar.dmzj.com/73/41/73417ea32a046ebbd2f91cddc1443527.png"
+      },
+      {
+        "comment_id": 8099655,
+        "uid": 106074748,
+        "content": "一路走好\n感谢您创造的英雄们教会了我英雄精神",
+        "createtime": 1542094397,
+        "nickname": "Ar$enal",
+        "avatar": "https://avatar.dmzj.com/7b/bb/7bbb605c4da9934c7b670305a9b609ac.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

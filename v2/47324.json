@@ -1,0 +1,73 @@
+{
+  "id": 47324,
+  "islong": 2,
+  "direction": 1,
+  "title": "猫之日",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/maozhiri111.jpg",
+  "description": "我是猫。",
+  "last_updatetime": 1548944122,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 293271,
+  "hit_num": 3734,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 147,
+      "tag_name": "志村贵子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "subscribe_num": 1288,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81620,
+          "chapter_title": "1话",
+          "updatetime": 1548944122,
+          "filesize": 605892,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 29333877,
+        "uid": 111070578,
+        "content": "d m z j",
+        "createtime": 1596109026,
+        "nickname": "dmzj_111070578",
+        "avatar": "https://avatar.dmzj.com/44/b8/44b8cdf6c984eb892bf0b25de15abb82.png"
+      },
+      {
+        "comment_id": 28835400,
+        "uid": 101788119,
+        "content": "一边威胁一边把头塞进碗里大吃特吃",
+        "createtime": 1594388574,
+        "nickname": "反派NPCw",
+        "avatar": "https://avatar.dmzj.com/83/93/8393d19af5eecd833618e4e71a169b23.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 4867,
+  "islong": 2,
+  "direction": 1,
+  "title": "少年SF短篇集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/shaoniansfduanpianji.jpg",
+  "description": "少年SF短篇故事集，文库级，不是完全版。",
+  "last_updatetime": 1280813812,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 543422,
+  "hit_num": 3976942,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1849,
+      "tag_name": "藤子·F·不二雄"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2823,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10574,
+          "chapter_title": "2卷",
+          "updatetime": 1280813802,
+          "filesize": 30749301,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 10573,
+          "chapter_title": "1卷",
+          "updatetime": 1280813798,
+          "filesize": 28746349,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 58,
+    "latest_comment": [
+      {
+        "comment_id": 29957248,
+        "uid": 105255223,
+        "content": "我在小学时只看过放血鬼，当时还是蛮震撼的",
+        "createtime": 1598442460,
+        "nickname": "金一",
+        "avatar": "https://avatar.dmzj.com/5d/ee/5dee4790835063a16fc14ce6713d2769.png"
+      },
+      {
+        "comment_id": 28571373,
+        "uid": 100077614,
+        "content": "真的厉害啊想象力，分镜功力也相当扎实，不愧是大师",
+        "createtime": 1593532608,
+        "nickname": "绅士kuma吉",
+        "avatar": "https://avatar.dmzj.com/59/d1/59d1f459a08ce9a65fc71788a94e4d33.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": 46595,
+  "islong": 2,
+  "direction": 1,
+  "title": "赶不上流行的流子小姐",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/liuzi1201l.jpg",
+  "description": "流行歌的正确打开方式",
+  "last_updatetime": 1552575331,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 1419693,
+  "hit_num": 36019,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16061,
+      "tag_name": "彩钟月"
+    }
+  ],
+  "subscribe_num": 6531,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87366,
+          "chapter_title": "3话",
+          "updatetime": 1552575331,
+          "filesize": 1384006,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 85606,
+          "chapter_title": "2话",
+          "updatetime": 1547963263,
+          "filesize": 811690,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 84221,
+          "chapter_title": "1话",
+          "updatetime": 1543633793,
+          "filesize": 824284,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 133,
+    "latest_comment": [
+      {
+        "comment_id": 28673795,
+        "uid": 108401655,
+        "content": "好可爱好可爱好可爱好可爱",
+        "createtime": 1593852760,
+        "nickname": "dmzj_108401655",
+        "avatar": "https://avatar.dmzj.com/da/16/da16d196920fbba0706306b95d2d044a.png"
+      },
+      {
+        "comment_id": 24249980,
+        "uid": 105103366,
+        "content": "好短",
+        "createtime": 1581955699,
+        "nickname": "漫漫倾云",
+        "avatar": "https://avatar.dmzj.com/18/40/184048517d6c3ed84c7a60683b407b7c.png"
+      }
+    ]
+  }
+}

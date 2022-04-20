@@ -1,0 +1,79 @@
+{
+  "id": 41861,
+  "islong": 2,
+  "direction": 2,
+  "title": "蜘蛛侠：大师计划",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/zhizhuxiadashijihua.jpg",
+  "description": "你曾经历过因为路上堵车而看电影迟到吗？在那一刻你是否羡慕过蜘蛛侠可以在空中荡着网轻松抵达剧院？那你就错了！成为一名蜘蛛侠意味着你将会有一万种看表演迟到的原因，偷车，抢银行，火灾，小混混，以及犯罪大师。最后表演显然是没有看成的，但至少彼得还是实现了一个持续了一整夜的小愿望：一只被困在树上的猫",
+  "last_updatetime": 1508603763,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhizhuxiadashijihua",
+  "hidden": 0,
+  "hot_num": 105835,
+  "hit_num": 51587,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 68902,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 428,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 68902,
+          "chapter_title": "1卷",
+          "updatetime": 1508603763,
+          "filesize": 3403586,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 13542622,
+        "uid": 100215285,
+        "content": "又找到一本小虫",
+        "createtime": 1553977408,
+        "nickname": "      @",
+        "avatar": "https://avatar.dmzj.com/84/20/84200589a102cacbba6467096f9f5758.png"
+      },
+      {
+        "comment_id": 5134814,
+        "uid": 105427572,
+        "content": "噫呜呜噫怎么会有这么可爱的小孩啊！",
+        "createtime": 1529134971,
+        "nickname": "斯塔克工业总裁",
+        "avatar": "https://avatar.dmzj.com/64/37/6437c54c7f34c1adfb961164c45dd8c0.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

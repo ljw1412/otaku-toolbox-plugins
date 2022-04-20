@@ -1,0 +1,79 @@
+{
+  "id": 48198,
+  "islong": 2,
+  "direction": 1,
+  "title": "课间那事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1062877031555672433.jpg",
+  "description": "你在看漫画，别人也在看着你",
+  "last_updatetime": 1555658770,
+  "copyright": 1,
+  "first_letter": "k",
+  "hot_num": 63620,
+  "hit_num": 2108750,
+  "uid": 106287703,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14653,
+      "tag_name": "LC"
+    }
+  ],
+  "subscribe_num": 269,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 83257,
+          "chapter_title": "1话",
+          "updatetime": 1555658770,
+          "filesize": 3308595,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "个别原因，暂时停更，，，不好意思啦，，，离开是为了更好的回来！",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 14622937,
+        "uid": 108040818,
+        "content": "？？？？",
+        "createtime": 1555764079,
+        "nickname": "我不是怪异",
+        "avatar": "https://avatar.dmzj.com/11/99/1199d34e68a4222147313221cae18321.png"
+      },
+      {
+        "comment_id": 14618319,
+        "uid": 100643716,
+        "content": "很真实∠( ᐛ 」∠)＿",
+        "createtime": 1555758512,
+        "nickname": "龏旹兦覈亠",
+        "avatar": "https://avatar.dmzj.com/b7/97/b7973f3df4ecc2c32b7efddc9f21ce55.png"
+      }
+    ]
+  }
+}

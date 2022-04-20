@@ -1,0 +1,71 @@
+{
+  "id": 40740,
+  "islong": 2,
+  "direction": 2,
+  "title": "誓人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1047377851498386485.jpg",
+  "description": "残喘于现实夹缝中的传说。",
+  "last_updatetime": 1502978643,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 24341,
+  "hit_num": 654533,
+  "uid": 104737785,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13376,
+      "tag_name": "树心EO"
+    }
+  ],
+  "subscribe_num": 62,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 68379,
+          "chapter_title": "1话",
+          "updatetime": 1502978643,
+          "filesize": 2564988,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "欢迎大家提出意见，我会努力改正。微博：树心EO",
+  "comic_notice": "每周日更新。微博：树心EO",
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 2751375,
+        "uid": 105134813,
+        "content": "这个类型很帅啊，期待第2话？",
+        "createtime": 1503043622,
+        "nickname": "隐隐奶糖",
+        "avatar": "https://avatar.dmzj.com/55/af/55af6662cf85782e7f0075da1858d7bc.png"
+      },
+      {
+        "comment_id": 2441849,
+        "uid": 104817004,
+        "content": "挺有风格的",
+        "createtime": 1499439480,
+        "nickname": "qzuser48749641",
+        "avatar": "https://avatar.dmzj.com/07/0c/070c5a484dcc849111a63af5de8465a4.png"
+      }
+    ]
+  }
+}

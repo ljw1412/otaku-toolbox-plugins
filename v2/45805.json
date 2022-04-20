@@ -1,0 +1,86 @@
+{
+  "id": 45805,
+  "islong": 2,
+  "direction": 2,
+  "title": "BOOM",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/215177711536804535.jpg",
+  "description": "是谁放下的炸弹！",
+  "last_updatetime": 1537327817,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 90310,
+  "hit_num": 1626295,
+  "uid": 21517771,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8936,
+      "tag_name": "Docurro"
+    }
+  ],
+  "subscribe_num": 376,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81998,
+          "chapter_title": "2话",
+          "updatetime": 1537327817,
+          "filesize": 3431754,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 81963,
+          "chapter_title": "1话",
+          "updatetime": 1536804667,
+          "filesize": 3643055,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "更多漫画消息请关注新浪微博@Docurro",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 19098520,
+        "uid": 100657157,
+        "content": "好了  我先\n局长是我的",
+        "createtime": 1565105388,
+        "nickname": "luluxi",
+        "avatar": "https://avatar.dmzj.com/dd/08/dd085c1eb9794da1f0cf2f0cbd52137e.png"
+      },
+      {
+        "comment_id": 8258587,
+        "uid": 102411637,
+        "content": "作者怎么所有作品都两话结束啊，这么短满足不了我哒。",
+        "createtime": 1542653748,
+        "nickname": "猫洛克。",
+        "avatar": "https://avatar.dmzj.com/c0/0d/c00dfe91ffcceb962e1ef37c99e0e18e.png"
+      }
+    ]
+  }
+}

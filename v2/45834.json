@@ -1,0 +1,76 @@
+{
+  "id": 45834,
+  "islong": 2,
+  "direction": 1,
+  "title": "天地无用-If-V",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/tiandiwuyoong0919.jpg",
+  "description": "天地无用同人漫画。",
+  "last_updatetime": 1547733609,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 4879268,
+  "hit_num": 77391,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2982,
+      "tag_name": "梶岛正树"
+    }
+  ],
+  "subscribe_num": 15486,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81147,
+          "chapter_title": "6话",
+          "updatetime": 1547733609,
+          "filesize": 1158742,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 77464,
+          "chapter_title": "1话",
+          "updatetime": 1537360894,
+          "filesize": 1125312,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 85,
+    "latest_comment": [
+      {
+        "comment_id": 29784935,
+        "uid": 110760777,
+        "content": "啊这，在哪里找的有小说啊",
+        "createtime": 1597811612,
+        "nickname": "MoonDancer",
+        "avatar": "https://avatar.dmzj.com/63/f3/63f37cc2338da57628ffa11f0e8d3c54.png"
+      },
+      {
+        "comment_id": 29238940,
+        "uid": 106444223,
+        "content": "这个是第五季",
+        "createtime": 1595770066,
+        "nickname": "JTKR会社0",
+        "avatar": "https://avatar.dmzj.com/65/17/6517145194771245102ce078858f7eec.png"
+      }
+    ]
+  }
+}

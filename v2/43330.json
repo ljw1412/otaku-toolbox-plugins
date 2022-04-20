@@ -1,0 +1,75 @@
+{
+  "id": 43330,
+  "islong": 2,
+  "direction": 1,
+  "title": "恋之热暴走",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/lianzhirebaozou.jpg",
+  "description": "经典老本。我们秘封组就算是进了幻想乡也要秀恩爱！（大雾） ",
+  "last_updatetime": 1520046497,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lianzhirebaozou",
+  "hidden": 0,
+  "hot_num": 113191,
+  "hit_num": 32325,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 74655,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6489,
+      "tag_name": "RED"
+    }
+  ],
+  "subscribe_num": 526,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74655,
+          "chapter_title": "1话",
+          "updatetime": 1520046497,
+          "filesize": 15185788,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 29447146,
+        "uid": 107489916,
+        "content": "甜死我了",
+        "createtime": 1596513918,
+        "nickname": "拉尔西多寺",
+        "avatar": "https://avatar.dmzj.com/18/06/180643e8ee4fa8bef81ebc6ebe63b35b.png"
+      },
+      {
+        "comment_id": 26860043,
+        "uid": 108754341,
+        "content": "老物，但甜度过高了，wsl，梅莉真可爱（（",
+        "createtime": 1587903473,
+        "nickname": "SCP官方",
+        "avatar": "https://avatar.dmzj.com/90/22/902234952429b18ade2feb6549b1cace.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

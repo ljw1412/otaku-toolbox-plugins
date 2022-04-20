@@ -1,0 +1,73 @@
+{
+  "id": 45546,
+  "islong": 2,
+  "direction": 1,
+  "title": "Drinks",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/drinks0826vbvbb.jpg",
+  "description": "例大祭15时所发布的东方project精美画集~",
+  "last_updatetime": 1535276683,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 315420,
+  "hit_num": 10191,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15546,
+      "tag_name": "somnia(Hajin)"
+    }
+  ],
+  "subscribe_num": 1466,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80097,
+          "chapter_title": "1话",
+          "updatetime": 1535276683,
+          "filesize": 1835852,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 42,
+    "latest_comment": [
+      {
+        "comment_id": 28464484,
+        "uid": 105696370,
+        "content": "好漂亮的画风",
+        "createtime": 1593193205,
+        "nickname": "午夜琉璃花",
+        "avatar": "https://avatar.dmzj.com/26/82/2682734f3f11a416ac2ad88a741bde3d.png"
+      },
+      {
+        "comment_id": 27639349,
+        "uid": 105860392,
+        "content": "主角组",
+        "createtime": 1590295664,
+        "nickname": "笨⑨蛋",
+        "avatar": "https://avatar.dmzj.com/11/69/1169334576c2332addcea34fffb36cea.png"
+      }
+    ]
+  }
+}

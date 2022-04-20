@@ -1,0 +1,79 @@
+{
+  "id": 47763,
+  "islong": 2,
+  "direction": 1,
+  "title": "秘封Encounters",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/mifeng190312.jpg",
+  "description": "秘封俱乐部的心跳凶宅之旅~",
+  "last_updatetime": 1552385973,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mifengencounters",
+  "hidden": 0,
+  "hot_num": 145452,
+  "hit_num": 6598,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 82182,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14994,
+      "tag_name": "鼓膜住职"
+    },
+    {
+      "tag_id": 16552,
+      "tag_name": "根黑"
+    }
+  ],
+  "subscribe_num": 654,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82182,
+          "chapter_title": "1话",
+          "updatetime": 1552385973,
+          "filesize": 2401065,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 34,
+    "latest_comment": [
+      {
+        "comment_id": 28993873,
+        "uid": 108111929,
+        "content": "根黑的梅丽超让人安心的wwww",
+        "createtime": 1594908039,
+        "nickname": "朽木夜雨",
+        "avatar": "https://avatar.dmzj.com/43/78/4378a92c7b58d0ef5e545d7388507154.png"
+      },
+      {
+        "comment_id": 28326794,
+        "uid": 109159350,
+        "content": "根黑的梅莉感觉进了幻想乡也能把大结界捅出个窟窿……",
+        "createtime": 1592736160,
+        "nickname": "虹依清梦",
+        "avatar": "https://avatar.dmzj.com/10/29/1029af4e16166e2e48e0d301d5865703.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

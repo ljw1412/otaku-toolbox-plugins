@@ -1,0 +1,1370 @@
+{
+  "id": 45432,
+  "islong": 2,
+  "direction": 1,
+  "title": "艾玛",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/xinxinermaxinfengmian10252353.jpg",
+  "description": "可爱的幽灵艾玛与朋友们的日常故事",
+  "last_updatetime": 1598699893,
+  "last_update_chapter_name": "第26话",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "aima",
+  "hidden": 0,
+  "hot_num": 6230900,
+  "hit_num": 2383236,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 106501,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15888,
+      "tag_name": "Brandon Santiago"
+    }
+  ],
+  "subscribe_num": 25067,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 106501,
+          "chapter_title": "26话",
+          "updatetime": 1598699893,
+          "filesize": 394785,
+          "chapter_order": 1850
+        },
+        {
+          "chapter_id": 83540,
+          "chapter_title": "25话",
+          "updatetime": 1544267823,
+          "filesize": 392355,
+          "chapter_order": 710
+        },
+        {
+          "chapter_id": 83496,
+          "chapter_title": "24话",
+          "updatetime": 1544154859,
+          "filesize": 411375,
+          "chapter_order": 680
+        },
+        {
+          "chapter_id": 83432,
+          "chapter_title": "23话",
+          "updatetime": 1543986834,
+          "filesize": 673983,
+          "chapter_order": 580
+        },
+        {
+          "chapter_id": 83417,
+          "chapter_title": "22话",
+          "updatetime": 1543923553,
+          "filesize": 221986,
+          "chapter_order": 550
+        },
+        {
+          "chapter_id": 83066,
+          "chapter_title": "21话",
+          "updatetime": 1543065530,
+          "filesize": 339633,
+          "chapter_order": 410
+        },
+        {
+          "chapter_id": 83016,
+          "chapter_title": "20话",
+          "updatetime": 1542957111,
+          "filesize": 406790,
+          "chapter_order": 360
+        },
+        {
+          "chapter_id": 82824,
+          "chapter_title": "19话",
+          "updatetime": 1542445003,
+          "filesize": 422982,
+          "chapter_order": 260
+        },
+        {
+          "chapter_id": 82801,
+          "chapter_title": "18话",
+          "updatetime": 1542380265,
+          "filesize": 508806,
+          "chapter_order": 210
+        },
+        {
+          "chapter_id": 82492,
+          "chapter_title": "17话",
+          "updatetime": 1541565731,
+          "filesize": 473681,
+          "chapter_order": 190
+        },
+        {
+          "chapter_id": 82408,
+          "chapter_title": "16话",
+          "updatetime": 1541388780,
+          "filesize": 428108,
+          "chapter_order": 180
+        },
+        {
+          "chapter_id": 82407,
+          "chapter_title": "15话",
+          "updatetime": 1541388765,
+          "filesize": 353944,
+          "chapter_order": 170
+        },
+        {
+          "chapter_id": 82399,
+          "chapter_title": "14话",
+          "updatetime": 1541344591,
+          "filesize": 1354621,
+          "chapter_order": 160
+        },
+        {
+          "chapter_id": 82353,
+          "chapter_title": "13话",
+          "updatetime": 1541242829,
+          "filesize": 618050,
+          "chapter_order": 150
+        },
+        {
+          "chapter_id": 82307,
+          "chapter_title": "12话",
+          "updatetime": 1541129043,
+          "filesize": 521344,
+          "chapter_order": 140
+        },
+        {
+          "chapter_id": 82284,
+          "chapter_title": "11话",
+          "updatetime": 1541071182,
+          "filesize": 537521,
+          "chapter_order": 130
+        },
+        {
+          "chapter_id": 82242,
+          "chapter_title": "10话",
+          "updatetime": 1540958487,
+          "filesize": 754696,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 82191,
+          "chapter_title": "9话",
+          "updatetime": 1540871995,
+          "filesize": 570386,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 82157,
+          "chapter_title": "8话",
+          "updatetime": 1540778426,
+          "filesize": 500243,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 82133,
+          "chapter_title": "7话",
+          "updatetime": 1540695664,
+          "filesize": 486972,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 82112,
+          "chapter_title": "6话",
+          "updatetime": 1540626207,
+          "filesize": 507723,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 82111,
+          "chapter_title": "5话",
+          "updatetime": 1540626183,
+          "filesize": 677624,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 82076,
+          "chapter_title": "4话",
+          "updatetime": 1540538317,
+          "filesize": 518406,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 82070,
+          "chapter_title": "3话",
+          "updatetime": 1540483150,
+          "filesize": 805503,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 80102,
+          "chapter_title": "2话",
+          "updatetime": 1535208481,
+          "filesize": 1773045,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 79902,
+          "chapter_title": "1话",
+          "updatetime": 1534572936,
+          "filesize": 865041,
+          "chapter_order": 20
+        }
+      ]
+    },
+    {
+      "title": "外传",
+      "data": [
+        {
+          "chapter_id": 106012,
+          "chapter_title": "回娘家73",
+          "updatetime": 1597930423,
+          "filesize": 1391023,
+          "chapter_order": 1840
+        },
+        {
+          "chapter_id": 104918,
+          "chapter_title": "回娘家72",
+          "updatetime": 1596069231,
+          "filesize": 1001478,
+          "chapter_order": 1820
+        },
+        {
+          "chapter_id": 103988,
+          "chapter_title": "回娘家71",
+          "updatetime": 1594291306,
+          "filesize": 1011637,
+          "chapter_order": 1800
+        },
+        {
+          "chapter_id": 103218,
+          "chapter_title": "回娘家70",
+          "updatetime": 1592754548,
+          "filesize": 750722,
+          "chapter_order": 1750
+        },
+        {
+          "chapter_id": 102479,
+          "chapter_title": "69话",
+          "updatetime": 1591347699,
+          "filesize": 1198761,
+          "chapter_order": 1720
+        },
+        {
+          "chapter_id": 101294,
+          "chapter_title": "回娘家68",
+          "updatetime": 1589122367,
+          "filesize": 2128917,
+          "chapter_order": 1690
+        },
+        {
+          "chapter_id": 99193,
+          "chapter_title": "回娘家67",
+          "updatetime": 1585125610,
+          "filesize": 1706568,
+          "chapter_order": 1630
+        },
+        {
+          "chapter_id": 97897,
+          "chapter_title": "回娘家66",
+          "updatetime": 1582853406,
+          "filesize": 1539460,
+          "chapter_order": 1590
+        },
+        {
+          "chapter_id": 96421,
+          "chapter_title": "回娘家65",
+          "updatetime": 1579853479,
+          "filesize": 868143,
+          "chapter_order": 1570
+        },
+        {
+          "chapter_id": 96420,
+          "chapter_title": "回娘家64",
+          "updatetime": 1579853414,
+          "filesize": 1219644,
+          "chapter_order": 1560
+        },
+        {
+          "chapter_id": 95981,
+          "chapter_title": "回娘家63",
+          "updatetime": 1578728889,
+          "filesize": 921288,
+          "chapter_order": 1490
+        },
+        {
+          "chapter_id": 94778,
+          "chapter_title": "回娘家62",
+          "updatetime": 1575303408,
+          "filesize": 1790738,
+          "chapter_order": 1430
+        },
+        {
+          "chapter_id": 94178,
+          "chapter_title": "回娘家61",
+          "updatetime": 1573522087,
+          "filesize": 1109214,
+          "chapter_order": 1390
+        },
+        {
+          "chapter_id": 93182,
+          "chapter_title": "回娘家60",
+          "updatetime": 1570975269,
+          "filesize": 1160938,
+          "chapter_order": 1320
+        },
+        {
+          "chapter_id": 92759,
+          "chapter_title": "回娘家59",
+          "updatetime": 1569858021,
+          "filesize": 757403,
+          "chapter_order": 1310
+        },
+        {
+          "chapter_id": 92356,
+          "chapter_title": "回娘家58",
+          "updatetime": 1568683248,
+          "filesize": 1247527,
+          "chapter_order": 1300
+        },
+        {
+          "chapter_id": 90855,
+          "chapter_title": "回娘家57",
+          "updatetime": 1564673927,
+          "filesize": 1591085,
+          "chapter_order": 1280
+        },
+        {
+          "chapter_id": 90331,
+          "chapter_title": "回娘家56",
+          "updatetime": 1563290628,
+          "filesize": 560432,
+          "chapter_order": 1260
+        },
+        {
+          "chapter_id": 90122,
+          "chapter_title": "回娘家55",
+          "updatetime": 1562662650,
+          "filesize": 1606761,
+          "chapter_order": 1240
+        },
+        {
+          "chapter_id": 89729,
+          "chapter_title": "回娘家54",
+          "updatetime": 1561631158,
+          "filesize": 544838,
+          "chapter_order": 1220
+        },
+        {
+          "chapter_id": 89591,
+          "chapter_title": "回娘家53",
+          "updatetime": 1561131568,
+          "filesize": 1445644,
+          "chapter_order": 1210
+        },
+        {
+          "chapter_id": 88836,
+          "chapter_title": "回娘家52",
+          "updatetime": 1559319036,
+          "filesize": 975126,
+          "chapter_order": 1180
+        },
+        {
+          "chapter_id": 88227,
+          "chapter_title": "回娘家51",
+          "updatetime": 1557506378,
+          "filesize": 1582975,
+          "chapter_order": 1150
+        },
+        {
+          "chapter_id": 88018,
+          "chapter_title": "回娘家50",
+          "updatetime": 1556874396,
+          "filesize": 1416582,
+          "chapter_order": 1140
+        },
+        {
+          "chapter_id": 87741,
+          "chapter_title": "回娘家49",
+          "updatetime": 1555918488,
+          "filesize": 824122,
+          "chapter_order": 1120
+        },
+        {
+          "chapter_id": 87336,
+          "chapter_title": "回娘家48",
+          "updatetime": 1554829963,
+          "filesize": 1149116,
+          "chapter_order": 1100
+        },
+        {
+          "chapter_id": 86723,
+          "chapter_title": "回娘家47",
+          "updatetime": 1552892043,
+          "filesize": 625902,
+          "chapter_order": 1060
+        },
+        {
+          "chapter_id": 86610,
+          "chapter_title": "回娘家46",
+          "updatetime": 1552576917,
+          "filesize": 648117,
+          "chapter_order": 1050
+        },
+        {
+          "chapter_id": 86410,
+          "chapter_title": "回娘家45",
+          "updatetime": 1552048706,
+          "filesize": 568742,
+          "chapter_order": 1040
+        },
+        {
+          "chapter_id": 86330,
+          "chapter_title": "回娘家44",
+          "updatetime": 1551799588,
+          "filesize": 625000,
+          "chapter_order": 1030
+        },
+        {
+          "chapter_id": 86323,
+          "chapter_title": "回娘家43",
+          "updatetime": 1551790387,
+          "filesize": 811031,
+          "chapter_order": 1020
+        },
+        {
+          "chapter_id": 86121,
+          "chapter_title": "回娘家42",
+          "updatetime": 1551272479,
+          "filesize": 1545142,
+          "chapter_order": 1010
+        },
+        {
+          "chapter_id": 85705,
+          "chapter_title": "回娘家41",
+          "updatetime": 1550399213,
+          "filesize": 669841,
+          "chapter_order": 990
+        },
+        {
+          "chapter_id": 85263,
+          "chapter_title": "回娘家40",
+          "updatetime": 1549201479,
+          "filesize": 1160175,
+          "chapter_order": 970
+        },
+        {
+          "chapter_id": 85021,
+          "chapter_title": "回娘家39",
+          "updatetime": 1548424606,
+          "filesize": 512784,
+          "chapter_order": 950
+        },
+        {
+          "chapter_id": 84449,
+          "chapter_title": "回娘家38",
+          "updatetime": 1546653445,
+          "filesize": 1074230,
+          "chapter_order": 930
+        },
+        {
+          "chapter_id": 84050,
+          "chapter_title": "回娘家37",
+          "updatetime": 1545661996,
+          "filesize": 548740,
+          "chapter_order": 880
+        },
+        {
+          "chapter_id": 83998,
+          "chapter_title": "回娘家36",
+          "updatetime": 1545493778,
+          "filesize": 766521,
+          "chapter_order": 860
+        },
+        {
+          "chapter_id": 83929,
+          "chapter_title": "回娘家35",
+          "updatetime": 1545295023,
+          "filesize": 525641,
+          "chapter_order": 850
+        },
+        {
+          "chapter_id": 83859,
+          "chapter_title": "回娘家34",
+          "updatetime": 1545140140,
+          "filesize": 377125,
+          "chapter_order": 830
+        },
+        {
+          "chapter_id": 83814,
+          "chapter_title": "回娘家33",
+          "updatetime": 1545038024,
+          "filesize": 810770,
+          "chapter_order": 810
+        },
+        {
+          "chapter_id": 83812,
+          "chapter_title": "回娘家32",
+          "updatetime": 1545035403,
+          "filesize": 589105,
+          "chapter_order": 800
+        },
+        {
+          "chapter_id": 83714,
+          "chapter_title": "回娘家31",
+          "updatetime": 1544712709,
+          "filesize": 409940,
+          "chapter_order": 790
+        },
+        {
+          "chapter_id": 83640,
+          "chapter_title": "回娘家30",
+          "updatetime": 1544533751,
+          "filesize": 677173,
+          "chapter_order": 760
+        },
+        {
+          "chapter_id": 83639,
+          "chapter_title": "回娘家29",
+          "updatetime": 1544527439,
+          "filesize": 435391,
+          "chapter_order": 750
+        },
+        {
+          "chapter_id": 83619,
+          "chapter_title": "回娘家28",
+          "updatetime": 1544493354,
+          "filesize": 667007,
+          "chapter_order": 730
+        },
+        {
+          "chapter_id": 83618,
+          "chapter_title": "回娘家27",
+          "updatetime": 1544493328,
+          "filesize": 469315,
+          "chapter_order": 720
+        },
+        {
+          "chapter_id": 83526,
+          "chapter_title": "回娘家26",
+          "updatetime": 1544196746,
+          "filesize": 601489,
+          "chapter_order": 700
+        },
+        {
+          "chapter_id": 83524,
+          "chapter_title": "回娘家25",
+          "updatetime": 1544191769,
+          "filesize": 515935,
+          "chapter_order": 690
+        },
+        {
+          "chapter_id": 83487,
+          "chapter_title": "回娘家24",
+          "updatetime": 1544113886,
+          "filesize": 673356,
+          "chapter_order": 670
+        },
+        {
+          "chapter_id": 83467,
+          "chapter_title": "回娘家23",
+          "updatetime": 1544085860,
+          "filesize": 625206,
+          "chapter_order": 630
+        },
+        {
+          "chapter_id": 83440,
+          "chapter_title": "回娘家22",
+          "updatetime": 1543998379,
+          "filesize": 524445,
+          "chapter_order": 590
+        },
+        {
+          "chapter_id": 83445,
+          "chapter_title": "回娘家21",
+          "updatetime": 1544003213,
+          "filesize": 1153303,
+          "chapter_order": 570
+        },
+        {
+          "chapter_id": 83419,
+          "chapter_title": "回娘家20",
+          "updatetime": 1543925973,
+          "filesize": 1093450,
+          "chapter_order": 560
+        },
+        {
+          "chapter_id": 83362,
+          "chapter_title": "回娘家19",
+          "updatetime": 1543764617,
+          "filesize": 580005,
+          "chapter_order": 540
+        },
+        {
+          "chapter_id": 83354,
+          "chapter_title": "回娘家18",
+          "updatetime": 1543759272,
+          "filesize": 431698,
+          "chapter_order": 530
+        },
+        {
+          "chapter_id": 83328,
+          "chapter_title": "回娘家17",
+          "updatetime": 1543733155,
+          "filesize": 319594,
+          "chapter_order": 510
+        },
+        {
+          "chapter_id": 83321,
+          "chapter_title": "回娘家16",
+          "updatetime": 1543690404,
+          "filesize": 352450,
+          "chapter_order": 500
+        },
+        {
+          "chapter_id": 83314,
+          "chapter_title": "回娘家15",
+          "updatetime": 1543670194,
+          "filesize": 649128,
+          "chapter_order": 490
+        },
+        {
+          "chapter_id": 83225,
+          "chapter_title": "回娘家14",
+          "updatetime": 1543476373,
+          "filesize": 1058391,
+          "chapter_order": 470
+        },
+        {
+          "chapter_id": 83220,
+          "chapter_title": "回娘家13",
+          "updatetime": 1543472455,
+          "filesize": 900118,
+          "chapter_order": 460
+        },
+        {
+          "chapter_id": 83210,
+          "chapter_title": "回娘家12",
+          "updatetime": 1543413953,
+          "filesize": 1233573,
+          "chapter_order": 450
+        },
+        {
+          "chapter_id": 83207,
+          "chapter_title": "回娘家11",
+          "updatetime": 1543407751,
+          "filesize": 434297,
+          "chapter_order": 440
+        },
+        {
+          "chapter_id": 83163,
+          "chapter_title": "回娘家10",
+          "updatetime": 1543315918,
+          "filesize": 1074587,
+          "chapter_order": 430
+        },
+        {
+          "chapter_id": 83083,
+          "chapter_title": "回娘家09",
+          "updatetime": 1543126361,
+          "filesize": 863297,
+          "chapter_order": 420
+        },
+        {
+          "chapter_id": 83024,
+          "chapter_title": "回娘家08",
+          "updatetime": 1542970969,
+          "filesize": 541948,
+          "chapter_order": 370
+        },
+        {
+          "chapter_id": 83003,
+          "chapter_title": "回娘家07",
+          "updatetime": 1542893938,
+          "filesize": 316571,
+          "chapter_order": 350
+        },
+        {
+          "chapter_id": 82996,
+          "chapter_title": "回娘家06",
+          "updatetime": 1542880191,
+          "filesize": 365110,
+          "chapter_order": 340
+        },
+        {
+          "chapter_id": 82979,
+          "chapter_title": "回娘家05",
+          "updatetime": 1542870569,
+          "filesize": 324146,
+          "chapter_order": 330
+        },
+        {
+          "chapter_id": 82969,
+          "chapter_title": "回娘家04",
+          "updatetime": 1542815226,
+          "filesize": 429538,
+          "chapter_order": 320
+        },
+        {
+          "chapter_id": 82961,
+          "chapter_title": "回娘家03",
+          "updatetime": 1542798679,
+          "filesize": 685750,
+          "chapter_order": 310
+        },
+        {
+          "chapter_id": 82942,
+          "chapter_title": "回娘家02",
+          "updatetime": 1542763501,
+          "filesize": 313668,
+          "chapter_order": 300
+        },
+        {
+          "chapter_id": 82840,
+          "chapter_title": "回娘家01",
+          "updatetime": 1542763439,
+          "filesize": 720618,
+          "chapter_order": 290
+        }
+      ]
+    },
+    {
+      "title": "其他系列",
+      "data": [
+        {
+          "chapter_id": 105434,
+          "chapter_title": "涂鸦13",
+          "updatetime": 1596978637,
+          "filesize": 567751,
+          "chapter_order": 1830
+        },
+        {
+          "chapter_id": 104772,
+          "chapter_title": "新T恤2",
+          "updatetime": 1595771207,
+          "filesize": 403605,
+          "chapter_order": 1810
+        },
+        {
+          "chapter_id": 103986,
+          "chapter_title": "动图7",
+          "updatetime": 1594289653,
+          "filesize": 164267,
+          "chapter_order": 1790
+        },
+        {
+          "chapter_id": 103509,
+          "chapter_title": "涂鸦12",
+          "updatetime": 1593352434,
+          "filesize": 541311,
+          "chapter_order": 1780
+        },
+        {
+          "chapter_id": 103250,
+          "chapter_title": "2020父亲节",
+          "updatetime": 1592873978,
+          "filesize": 226772,
+          "chapter_order": 1770
+        },
+        {
+          "chapter_id": 103249,
+          "chapter_title": "口罩",
+          "updatetime": 1592873932,
+          "filesize": 152127,
+          "chapter_order": 1760
+        },
+        {
+          "chapter_id": 103040,
+          "chapter_title": "涂鸦11",
+          "updatetime": 1592401107,
+          "filesize": 676239,
+          "chapter_order": 1740
+        },
+        {
+          "chapter_id": 102685,
+          "chapter_title": "涂鸦10",
+          "updatetime": 1591712151,
+          "filesize": 561295,
+          "chapter_order": 1730
+        },
+        {
+          "chapter_id": 101530,
+          "chapter_title": "艾玛与亲戚",
+          "updatetime": 1589590890,
+          "filesize": 1266951,
+          "chapter_order": 1710
+        },
+        {
+          "chapter_id": 101295,
+          "chapter_title": "母亲节篇",
+          "updatetime": 1589122282,
+          "filesize": 146768,
+          "chapter_order": 1700
+        },
+        {
+          "chapter_id": 101022,
+          "chapter_title": "艾玛与娃娃机",
+          "updatetime": 1588572847,
+          "filesize": 720864,
+          "chapter_order": 1680
+        },
+        {
+          "chapter_id": 100594,
+          "chapter_title": "动图6",
+          "updatetime": 1587717049,
+          "filesize": 280736,
+          "chapter_order": 1670
+        },
+        {
+          "chapter_id": 100592,
+          "chapter_title": "涂鸦9",
+          "updatetime": 1587716055,
+          "filesize": 547522,
+          "chapter_order": 1660
+        },
+        {
+          "chapter_id": 99646,
+          "chapter_title": "又到愚人节",
+          "updatetime": 1586068778,
+          "filesize": 823434,
+          "chapter_order": 1650
+        },
+        {
+          "chapter_id": 99636,
+          "chapter_title": "涂鸦8",
+          "updatetime": 1586019387,
+          "filesize": 815808,
+          "chapter_order": 1640
+        },
+        {
+          "chapter_id": 98583,
+          "chapter_title": "涂鸦与漫展结束",
+          "updatetime": 1584064009,
+          "filesize": 711486,
+          "chapter_order": 1620
+        },
+        {
+          "chapter_id": 97899,
+          "chapter_title": "动漫展",
+          "updatetime": 1582853486,
+          "filesize": 310486,
+          "chapter_order": 1610
+        },
+        {
+          "chapter_id": 97898,
+          "chapter_title": "涂鸦7",
+          "updatetime": 1582853467,
+          "filesize": 458663,
+          "chapter_order": 1600
+        },
+        {
+          "chapter_id": 97338,
+          "chapter_title": "情人节篇",
+          "updatetime": 1581771873,
+          "filesize": 885186,
+          "chapter_order": 1580
+        },
+        {
+          "chapter_id": 96419,
+          "chapter_title": "涂鸦6",
+          "updatetime": 1579852902,
+          "filesize": 582936,
+          "chapter_order": 1550
+        },
+        {
+          "chapter_id": 96409,
+          "chapter_title": "动图5",
+          "updatetime": 1579837060,
+          "filesize": 272448,
+          "chapter_order": 1540
+        },
+        {
+          "chapter_id": 96408,
+          "chapter_title": "动图4",
+          "updatetime": 1579837040,
+          "filesize": 19210,
+          "chapter_order": 1530
+        },
+        {
+          "chapter_id": 96407,
+          "chapter_title": "动图3",
+          "updatetime": 1579837011,
+          "filesize": 13602,
+          "chapter_order": 1520
+        },
+        {
+          "chapter_id": 96406,
+          "chapter_title": "动图2",
+          "updatetime": 1579836965,
+          "filesize": 16881,
+          "chapter_order": 1510
+        },
+        {
+          "chapter_id": 96179,
+          "chapter_title": "涂鸦5",
+          "updatetime": 1579264477,
+          "filesize": 305348,
+          "chapter_order": 1500
+        },
+        {
+          "chapter_id": 95980,
+          "chapter_title": "新T恤和涂鸦",
+          "updatetime": 1578728884,
+          "filesize": 460670,
+          "chapter_order": 1480
+        },
+        {
+          "chapter_id": 95775,
+          "chapter_title": "新年快乐",
+          "updatetime": 1578119558,
+          "filesize": 195909,
+          "chapter_order": 1470
+        },
+        {
+          "chapter_id": 95599,
+          "chapter_title": "动图1",
+          "updatetime": 1577595374,
+          "filesize": 14790,
+          "chapter_order": 1460
+        },
+        {
+          "chapter_id": 95436,
+          "chapter_title": "涂鸦4",
+          "updatetime": 1577195110,
+          "filesize": 189995,
+          "chapter_order": 1450
+        },
+        {
+          "chapter_id": 94789,
+          "chapter_title": "预告",
+          "updatetime": 1575349998,
+          "filesize": 233713,
+          "chapter_order": 1440
+        },
+        {
+          "chapter_id": 94769,
+          "chapter_title": "感恩节篇",
+          "updatetime": 1575296897,
+          "filesize": 134783,
+          "chapter_order": 1420
+        },
+        {
+          "chapter_id": 94770,
+          "chapter_title": "新T恤",
+          "updatetime": 1575296909,
+          "filesize": 310875,
+          "chapter_order": 1415
+        },
+        {
+          "chapter_id": 94768,
+          "chapter_title": "涂鸦3",
+          "updatetime": 1575296869,
+          "filesize": 191581,
+          "chapter_order": 1410
+        },
+        {
+          "chapter_id": 94404,
+          "chapter_title": "涂鸦2",
+          "updatetime": 1574341826,
+          "filesize": 376775,
+          "chapter_order": 1400
+        },
+        {
+          "chapter_id": 93921,
+          "chapter_title": "艾玛周下",
+          "updatetime": 1572797008,
+          "filesize": 471654,
+          "chapter_order": 1380
+        },
+        {
+          "chapter_id": 93852,
+          "chapter_title": "艾玛周中",
+          "updatetime": 1572710011,
+          "filesize": 371272,
+          "chapter_order": 1370
+        },
+        {
+          "chapter_id": 93794,
+          "chapter_title": "艾玛周上",
+          "updatetime": 1572536180,
+          "filesize": 279254,
+          "chapter_order": 1360
+        },
+        {
+          "chapter_id": 93769,
+          "chapter_title": "涂鸦1",
+          "updatetime": 1572484918,
+          "filesize": 391615,
+          "chapter_order": 1350
+        },
+        {
+          "chapter_id": 93647,
+          "chapter_title": "艾玛周预告",
+          "updatetime": 1572225599,
+          "filesize": 433600,
+          "chapter_order": 1340
+        },
+        {
+          "chapter_id": 93475,
+          "chapter_title": "三岁啦",
+          "updatetime": 1571669796,
+          "filesize": 159474,
+          "chapter_order": 1330
+        },
+        {
+          "chapter_id": 92222,
+          "chapter_title": "新坑篇",
+          "updatetime": 1568338455,
+          "filesize": 133669,
+          "chapter_order": 1290
+        },
+        {
+          "chapter_id": 90854,
+          "chapter_title": "艾玛|_・)",
+          "updatetime": 1564677707,
+          "filesize": 11225,
+          "chapter_order": 1270
+        },
+        {
+          "chapter_id": 90270,
+          "chapter_title": "互动篇",
+          "updatetime": 1563109743,
+          "filesize": 165072,
+          "chapter_order": 1250
+        },
+        {
+          "chapter_id": 89987,
+          "chapter_title": "作者篇",
+          "updatetime": 1562376664,
+          "filesize": 207568,
+          "chapter_order": 1230
+        },
+        {
+          "chapter_id": 89571,
+          "chapter_title": "足迹篇",
+          "updatetime": 1561080912,
+          "filesize": 89510,
+          "chapter_order": 1200
+        },
+        {
+          "chapter_id": 89463,
+          "chapter_title": "2019父亲节篇",
+          "updatetime": 1560773996,
+          "filesize": 88219,
+          "chapter_order": 1190
+        },
+        {
+          "chapter_id": 88697,
+          "chapter_title": "众筹成功",
+          "updatetime": 1558877664,
+          "filesize": 205223,
+          "chapter_order": 1170
+        },
+        {
+          "chapter_id": 88304,
+          "chapter_title": "2019母亲节篇",
+          "updatetime": 1557764506,
+          "filesize": 85628,
+          "chapter_order": 1160
+        },
+        {
+          "chapter_id": 87899,
+          "chapter_title": "非剧情更新01",
+          "updatetime": 1556429302,
+          "filesize": 300995,
+          "chapter_order": 1130
+        },
+        {
+          "chapter_id": 87387,
+          "chapter_title": "愚人节篇",
+          "updatetime": 1554952666,
+          "filesize": 182168,
+          "chapter_order": 1110
+        },
+        {
+          "chapter_id": 87066,
+          "chapter_title": "娘家人儿彩图介绍",
+          "updatetime": 1554040605,
+          "filesize": 161171,
+          "chapter_order": 1090
+        },
+        {
+          "chapter_id": 86771,
+          "chapter_title": "旧版T恤",
+          "updatetime": 1553044386,
+          "filesize": 122758,
+          "chapter_order": 1080
+        },
+        {
+          "chapter_id": 86724,
+          "chapter_title": "钦定？",
+          "updatetime": 1552892100,
+          "filesize": 39568,
+          "chapter_order": 1070
+        },
+        {
+          "chapter_id": 86008,
+          "chapter_title": "新外传发布",
+          "updatetime": 1551002269,
+          "filesize": 194304,
+          "chapter_order": 1000
+        },
+        {
+          "chapter_id": 85700,
+          "chapter_title": "未上传的短篇05",
+          "updatetime": 1550392414,
+          "filesize": 439953,
+          "chapter_order": 980
+        },
+        {
+          "chapter_id": 85170,
+          "chapter_title": "新版T恤",
+          "updatetime": 1548847546,
+          "filesize": 152549,
+          "chapter_order": 960
+        },
+        {
+          "chapter_id": 84577,
+          "chapter_title": "回娘家介绍表",
+          "updatetime": 1547083460,
+          "filesize": 355641,
+          "chapter_order": 940
+        },
+        {
+          "chapter_id": 84257,
+          "chapter_title": "未上传的短篇04",
+          "updatetime": 1546240507,
+          "filesize": 991440,
+          "chapter_order": 920
+        },
+        {
+          "chapter_id": 84215,
+          "chapter_title": "未上传的短篇03",
+          "updatetime": 1546133800,
+          "filesize": 656142,
+          "chapter_order": 910
+        },
+        {
+          "chapter_id": 84214,
+          "chapter_title": "未上传的短篇02",
+          "updatetime": 1546134034,
+          "filesize": 750973,
+          "chapter_order": 900
+        },
+        {
+          "chapter_id": 84203,
+          "chapter_title": "未上传的短篇01",
+          "updatetime": 1546079094,
+          "filesize": 556541,
+          "chapter_order": 890
+        },
+        {
+          "chapter_id": 83999,
+          "chapter_title": "圣诞快乐",
+          "updatetime": 1545493823,
+          "filesize": 81916,
+          "chapter_order": 870
+        },
+        {
+          "chapter_id": 83928,
+          "chapter_title": "艾玛会梦游",
+          "updatetime": 1545294548,
+          "filesize": 485501,
+          "chapter_order": 840
+        },
+        {
+          "chapter_id": 83858,
+          "chapter_title": "艾玛大福袋",
+          "updatetime": 1545140083,
+          "filesize": 189879,
+          "chapter_order": 820
+        },
+        {
+          "chapter_id": 83711,
+          "chapter_title": "艾玛爱怪物",
+          "updatetime": 1544710862,
+          "filesize": 434518,
+          "chapter_order": 780
+        },
+        {
+          "chapter_id": 83646,
+          "chapter_title": "艾玛爱恶作剧？",
+          "updatetime": 1544543499,
+          "filesize": 896219,
+          "chapter_order": 770
+        },
+        {
+          "chapter_id": 83635,
+          "chapter_title": "艾玛爱电影06",
+          "updatetime": 1544520518,
+          "filesize": 623668,
+          "chapter_order": 740
+        },
+        {
+          "chapter_id": 83482,
+          "chapter_title": "艾玛爱电影05",
+          "updatetime": 1544105220,
+          "filesize": 452816,
+          "chapter_order": 660
+        },
+        {
+          "chapter_id": 83471,
+          "chapter_title": "艾玛爱电影04",
+          "updatetime": 1544089026,
+          "filesize": 538344,
+          "chapter_order": 650
+        },
+        {
+          "chapter_id": 83470,
+          "chapter_title": "艾玛爱电影03",
+          "updatetime": 1544087140,
+          "filesize": 313323,
+          "chapter_order": 640
+        },
+        {
+          "chapter_id": 83452,
+          "chapter_title": "艾玛爱电影02",
+          "updatetime": 1544018408,
+          "filesize": 453105,
+          "chapter_order": 620
+        },
+        {
+          "chapter_id": 83448,
+          "chapter_title": "艾玛爱电影01",
+          "updatetime": 1544016708,
+          "filesize": 395151,
+          "chapter_order": 610
+        },
+        {
+          "chapter_id": 83442,
+          "chapter_title": "艾玛爱大家",
+          "updatetime": 1543999565,
+          "filesize": 454223,
+          "chapter_order": 600
+        },
+        {
+          "chapter_id": 83329,
+          "chapter_title": "艾玛爱父母",
+          "updatetime": 1543733698,
+          "filesize": 528967,
+          "chapter_order": 520
+        },
+        {
+          "chapter_id": 83041,
+          "chapter_title": "艾玛爱琪琪",
+          "updatetime": 1542977919,
+          "filesize": 366880,
+          "chapter_order": 400
+        },
+        {
+          "chapter_id": 83034,
+          "chapter_title": "艾玛爱冬季02",
+          "updatetime": 1542974344,
+          "filesize": 215632,
+          "chapter_order": 390
+        },
+        {
+          "chapter_id": 83033,
+          "chapter_title": "艾玛爱冬季01",
+          "updatetime": 1542974248,
+          "filesize": 432134,
+          "chapter_order": 380
+        },
+        {
+          "chapter_id": 82828,
+          "chapter_title": "生日惊喜2",
+          "updatetime": 1542454488,
+          "filesize": 377710,
+          "chapter_order": 280
+        },
+        {
+          "chapter_id": 82827,
+          "chapter_title": "生日惊喜1",
+          "updatetime": 1542454434,
+          "filesize": 586643,
+          "chapter_order": 270
+        },
+        {
+          "chapter_id": 82822,
+          "chapter_title": "艾玛爱公益3",
+          "updatetime": 1542443279,
+          "filesize": 255161,
+          "chapter_order": 250
+        },
+        {
+          "chapter_id": 82816,
+          "chapter_title": "艾玛爱公益2",
+          "updatetime": 1542432909,
+          "filesize": 413989,
+          "chapter_order": 240
+        },
+        {
+          "chapter_id": 82815,
+          "chapter_title": "艾玛爱公益1",
+          "updatetime": 1542432894,
+          "filesize": 483445,
+          "chapter_order": 230
+        },
+        {
+          "chapter_id": 82809,
+          "chapter_title": "艾玛看牙医2",
+          "updatetime": 1542419363,
+          "filesize": 969994,
+          "chapter_order": 220
+        },
+        {
+          "chapter_id": 82800,
+          "chapter_title": "艾玛看牙医1",
+          "updatetime": 1542378559,
+          "filesize": 943575,
+          "chapter_order": 200
+        },
+        {
+          "chapter_id": 82170,
+          "chapter_title": "前传01",
+          "updatetime": 1540805505,
+          "filesize": 632855,
+          "chapter_order": 100
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3009,
+    "latest_comment": [
+      {
+        "comment_id": 30039553,
+        "uid": 100604087,
+        "content": "突然连载.....什么？回娘家不才是连载吗",
+        "createtime": 1598765163,
+        "nickname": "什么好东西",
+        "avatar": "https://avatar.dmzj.com/cd/99/cd993fcfc7aa75cee633ad41496f9fb9.png"
+      },
+      {
+        "comment_id": 30035381,
+        "uid": 101890529,
+        "content": "，，，",
+        "createtime": 1598739703,
+        "nickname": "雷杀",
+        "avatar": "https://avatar.dmzj.com/d9/87/d98737f744eede228636508718453168.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

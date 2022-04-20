@@ -1,0 +1,115 @@
+{
+  "id": 47524,
+  "islong": 2,
+  "direction": 2,
+  "title": "美国众神v2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/190219meig.jpg",
+  "description": "本期的神话百科为大家解读这一卷的题目My ainsel背后的典故。",
+  "last_updatetime": 1571150834,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 327637,
+  "hit_num": 38692,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1465,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89810,
+          "chapter_title": "7卷",
+          "updatetime": 1571150834,
+          "filesize": 3157501,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 89809,
+          "chapter_title": "6卷",
+          "updatetime": 1571150832,
+          "filesize": 4435837,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 89808,
+          "chapter_title": "5卷",
+          "updatetime": 1571150829,
+          "filesize": 3976837,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 89807,
+          "chapter_title": "4卷",
+          "updatetime": 1571150826,
+          "filesize": 3447662,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 89806,
+          "chapter_title": "3卷",
+          "updatetime": 1571150824,
+          "filesize": 3364664,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 84806,
+          "chapter_title": "2卷",
+          "updatetime": 1557625453,
+          "filesize": 3281664,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 82169,
+          "chapter_title": "1卷",
+          "updatetime": 1550570375,
+          "filesize": 3837981,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 35,
+    "latest_comment": [
+      {
+        "comment_id": 21590410,
+        "uid": 104657680,
+        "content": "书里原句都不改下的么????",
+        "createtime": 1571818873,
+        "nickname": "buzzkiler",
+        "avatar": "https://avatar.dmzj.com/44/31/443182f7b075548ab0b8d9ba01e34244.png"
+      },
+      {
+        "comment_id": 21375165,
+        "uid": 107618986,
+        "content": "好看",
+        "createtime": 1571229733,
+        "nickname": "dmzj_107618986",
+        "avatar": "https://avatar.dmzj.com/fd/3a/fd3a7b08bb8a78365343c01af3d21221.png"
+      }
+    ]
+  }
+}

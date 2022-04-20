@@ -1,0 +1,75 @@
+{
+  "id": 45020,
+  "islong": 2,
+  "direction": 1,
+  "title": "二重森罗结界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/erchongsenluojiejie165l.jpg",
+  "description": "界组，紫妈老牛吃嫩草的甜蜜故事~",
+  "last_updatetime": 1532252921,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "e",
+  "comic_py": "erchongsenluojiejie",
+  "hidden": 0,
+  "hot_num": 118580,
+  "hit_num": 9483,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 79956,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15303,
+      "tag_name": "かじむらカジマ"
+    }
+  ],
+  "subscribe_num": 565,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79956,
+          "chapter_title": "1话",
+          "updatetime": 1532252921,
+          "filesize": 8660179,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 15499551,
+        "uid": 108788620,
+        "content": "眼",
+        "createtime": 1557208374,
+        "nickname": "dmzj_108788620",
+        "avatar": "https://avatar.dmzj.com/24/94/2494686b819d90270e82e986a65b25a7.png"
+      },
+      {
+        "comment_id": 15174310,
+        "uid": 35941,
+        "content": "结界组",
+        "createtime": 1556647771,
+        "nickname": "小白のそら",
+        "avatar": "https://avatar.dmzj.com/62/9d/629dbf94a9dccd1a43afccf320fb55cf.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

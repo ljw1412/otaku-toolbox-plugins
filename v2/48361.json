@@ -1,0 +1,79 @@
+{
+  "id": 48361,
+  "islong": 2,
+  "direction": 2,
+  "title": "漫话中草药",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1009813561546744327.jpg",
+  "description": "讲述关于中草药的故事，希望大家能有所收获。",
+  "last_updatetime": 1546744703,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 47823,
+  "hit_num": 554723,
+  "uid": 100981356,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11515,
+      "tag_name": "明漫天下"
+    }
+  ],
+  "subscribe_num": 205,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88176,
+          "chapter_title": "1话",
+          "updatetime": 1546744703,
+          "filesize": 1395300,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "作者微信：M1097826985",
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 22171635,
+        "uid": 100514029,
+        "content": "所以为啥不更了？",
+        "createtime": 1574024808,
+        "nickname": "Kane·楓",
+        "avatar": "https://avatar.dmzj.com/45/81/458134dc0a74a0e49ad457b326227492.png"
+      },
+      {
+        "comment_id": 16003234,
+        "uid": 107033635,
+        "content": "很有意思好棒！！！！",
+        "createtime": 1558020611,
+        "nickname": "负者歌途",
+        "avatar": "https://avatar.dmzj.com/55/52/55520637853d342890ec952a9976af49.png"
+      }
+    ]
+  }
+}

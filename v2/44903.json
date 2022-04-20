@@ -1,0 +1,79 @@
+{
+  "id": 44903,
+  "islong": 2,
+  "direction": 2,
+  "title": "全场最佳",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1074601261531356028.jpg",
+  "description": "讲述着关于妹妹，呃～不对 是关于篮球的故事！！",
+  "last_updatetime": 1531365298,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 8295,
+  "hit_num": 67972,
+  "uid": 107460126,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15248,
+      "tag_name": "嘻B梦"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73594,
+          "chapter_title": "0话",
+          "updatetime": 1531365298,
+          "filesize": 642840,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "如果我还没** 下周三更新！！",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 5839848,
+        "uid": 107474448,
+        "content": "快更新",
+        "createtime": 1532454213,
+        "nickname": "墨樊君",
+        "avatar": "https://avatar.dmzj.com/87/84/8784dbfc4f5b0730d4483c5c31fedd4e.png"
+      },
+      {
+        "comment_id": 5583435,
+        "uid": 105012679,
+        "content": "简单深刻",
+        "createtime": 1531460982,
+        "nickname": "漫天李",
+        "avatar": "https://avatar.dmzj.com/78/d5/78d590925ff33792f78df794bdbf9727.png"
+      }
+    ]
+  }
+}

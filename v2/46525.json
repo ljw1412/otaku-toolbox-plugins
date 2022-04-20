@@ -1,0 +1,73 @@
+{
+  "id": 46525,
+  "islong": 2,
+  "direction": 1,
+  "title": "地底的卡尔迪亚",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/didi20181122.jpg",
+  "description": "音乐奏响之时——奇迹将会降临",
+  "last_updatetime": 1543135927,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 374276,
+  "hit_num": 110532,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16021,
+      "tag_name": "中林ずん"
+    }
+  ],
+  "subscribe_num": 1727,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 84041,
+          "chapter_title": "1话",
+          "updatetime": 1543135927,
+          "filesize": 6157272,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 63,
+    "latest_comment": [
+      {
+        "comment_id": 24898589,
+        "uid": 100931472,
+        "content": "吟游诗人",
+        "createtime": 1583389843,
+        "nickname": "脱落酸柠檬",
+        "avatar": "https://avatar.dmzj.com/83/44/83446ba00f2cbb7b2921d10908f8e204.png"
+      },
+      {
+        "comment_id": 23140302,
+        "uid": 101046216,
+        "content": "论诗人的重要性",
+        "createtime": 1578428055,
+        "nickname": "丿彩虹灬丨悲伤",
+        "avatar": "https://avatar.dmzj.com/28/79/2879e95578fee7128e29dc9ea86f5873.png"
+      }
+    ]
+  }
+}

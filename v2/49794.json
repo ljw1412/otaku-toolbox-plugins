@@ -1,0 +1,80 @@
+{
+  "id": 49794,
+  "islong": 2,
+  "direction": 1,
+  "title": "天边星球通讯",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/tianbianxingqiuti0823.jpg",
+  "description": "大学毕业后，俄罗斯青年马可计划与恋人环游世界。准备了礼物兴致勃勃的他，在旅行的准备中身体突然发生了异变，被转移到了陌生的土地。这是在这片大地上的10年里，为了完成某项任务的马可的外星人交流奇谈。\n",
+  "last_updatetime": 1566791593,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 693465,
+  "hit_num": 33015,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17691,
+      "tag_name": "メノタ"
+    }
+  ],
+  "subscribe_num": 3258,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88208,
+          "chapter_title": "2话",
+          "updatetime": 1566791593,
+          "filesize": 1810899,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 88107,
+          "chapter_title": "1话",
+          "updatetime": 1566541309,
+          "filesize": 2919537,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 61,
+    "latest_comment": [
+      {
+        "comment_id": 28521817,
+        "uid": 101789587,
+        "content": "好久没更了耶",
+        "createtime": 1593367557,
+        "nickname": "黎明小女神",
+        "avatar": "https://avatar.dmzj.com/15/90/159068974d6a1ded984d7d314566870e.png"
+      },
+      {
+        "comment_id": 27920596,
+        "uid": 109869218,
+        "content": "天边星球通讯",
+        "createtime": 1591192238,
+        "nickname": "白菜滴",
+        "avatar": "https://avatar.dmzj.com/37/54/3754e59028354fc68e8196d2cffa29a3.png"
+      }
+    ]
+  }
+}

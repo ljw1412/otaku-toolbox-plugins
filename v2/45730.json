@@ -1,0 +1,75 @@
+{
+  "id": 45730,
+  "islong": 2,
+  "direction": 1,
+  "title": "游于华胥氏之国",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/youyu20190911.jpg",
+  "description": "请向佛奉上樱花，如果后世的人们对我有所信吊。",
+  "last_updatetime": 1536658215,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "youyuhuaxuzhiguo",
+  "hidden": 0,
+  "hot_num": 113072,
+  "hit_num": 9792,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 81759,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5520,
+      "tag_name": "大出长介"
+    }
+  ],
+  "subscribe_num": 518,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81759,
+          "chapter_title": "1话",
+          "updatetime": 1536658215,
+          "filesize": 5275229,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 14551824,
+        "uid": 108403252,
+        "content": "白玉楼过去",
+        "createtime": 1555650109,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      },
+      {
+        "comment_id": 6923561,
+        "uid": 100580025,
+        "content": "东方赛高！",
+        "createtime": 1537498042,
+        "nickname": "KPT",
+        "avatar": "https://avatar.dmzj.com/07/09/07094482428df31a67d2e1a6942d2ed0.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

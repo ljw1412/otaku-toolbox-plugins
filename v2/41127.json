@@ -1,0 +1,75 @@
+{
+  "id": 41127,
+  "islong": 2,
+  "direction": 1,
+  "title": "上元",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/shangyuanfengmianl.jpg",
+  "description": "幻想乡中元节的故事",
+  "last_updatetime": 1501900210,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shangyuan",
+  "hidden": 0,
+  "hot_num": 124490,
+  "hit_num": 61159,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 67596,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13554,
+      "tag_name": "砂亭"
+    }
+  ],
+  "subscribe_num": 557,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67596,
+          "chapter_title": "1话",
+          "updatetime": 1501900211,
+          "filesize": 10116081,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 61,
+    "latest_comment": [
+      {
+        "comment_id": 27790939,
+        "uid": 102521534,
+        "content": "那个，简介写错了吧，中元节是农历七月十五，俗称回家了来着。",
+        "createtime": 1590771496,
+        "nickname": "Mr.T.  ",
+        "avatar": "https://avatar.dmzj.com/82/0e/820e5bd02ae756a2333a6e6fba58f12b.png"
+      },
+      {
+        "comment_id": 27786676,
+        "uid": 105801996,
+        "content": "摸你傻这套像官作里见过",
+        "createtime": 1590764629,
+        "nickname": "煉獄の狂宴",
+        "avatar": "https://avatar.dmzj.com/72/81/7281e2fe31787d3d85655b4ae4df0f6b.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

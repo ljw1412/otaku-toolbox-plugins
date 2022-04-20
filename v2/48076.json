@@ -1,0 +1,79 @@
+{
+  "id": 48076,
+  "islong": 2,
+  "direction": 2,
+  "title": "美好世界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1023937711553755394.jpg",
+  "description": "这是个关于生命的故事",
+  "last_updatetime": 1553756945,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 39641,
+  "hit_num": 507303,
+  "uid": 102393771,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16818,
+      "tag_name": "shangyinli"
+    }
+  ],
+  "subscribe_num": 162,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87461,
+          "chapter_title": "1话",
+          "updatetime": 1553756945,
+          "filesize": 1189341,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "不定期更 有空大家找我玩",
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 18578903,
+        "uid": 102393771,
+        "content": "我是这个漫画的作者……画这部漫画的时候经历的东西还蛮多的，谢谢还有那么多人喜欢，我本来是打算画下去的，可是因为各种各样的原因我没能继续下去……不过现在看到有那么多人都觉得这个故事很有趣，真的很感谢，我会继续加油的",
+        "createtime": 1563918361,
+        "nickname": "SHANGYINLI",
+        "avatar": "https://avatar.dmzj.com/93/77/93770d6c1af8861dba5375f02a325b48.png"
+      },
+      {
+        "comment_id": 15422961,
+        "uid": 100737855,
+        "content": "虽然是草稿画风，但是表达很棒哇，，我也想画草稿漫画练练手了~~",
+        "createtime": 1557069362,
+        "nickname": "等叁等",
+        "avatar": "https://avatar.dmzj.com/47/65/476504ba806f9cfc03fce8b0165f4e63.png"
+      }
+    ]
+  }
+}

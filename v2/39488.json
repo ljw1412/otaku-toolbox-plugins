@@ -1,0 +1,73 @@
+{
+  "id": 39488,
+  "islong": 2,
+  "direction": 1,
+  "title": "Admiral March",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/admiralmarch.jpg",
+  "description": "舰娘同人漫画",
+  "last_updatetime": 1483252748,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 1024889,
+  "hit_num": 472893,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3831,
+      "tag_name": "山内泰延(ハイパーサマーウォーズ)"
+    }
+  ],
+  "subscribe_num": 7276,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56139,
+          "chapter_title": "1话",
+          "updatetime": 1483252748,
+          "filesize": 4005007,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 99,
+    "latest_comment": [
+      {
+        "comment_id": 27160963,
+        "uid": 107826048,
+        "content": "我特么......鼓掌！",
+        "createtime": 1588778726,
+        "nickname": "我TM还是人？",
+        "avatar": "https://avatar.dmzj.com/22/82/228289cb261711a8c938855d2cbb5c0d.png"
+      },
+      {
+        "comment_id": 25745217,
+        "uid": 110184385,
+        "content": "？",
+        "createtime": 1585295278,
+        "nickname": "dmzj_110184385",
+        "avatar": "https://avatar.dmzj.com/f8/6d/f86dd75d5fa16182ad7574e247930f96.png"
+      }
+    ]
+  }
+}

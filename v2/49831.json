@@ -1,0 +1,77 @@
+{
+  "id": 49831,
+  "islong": 2,
+  "direction": 1,
+  "title": "撒旦炎魔刻耳柏洛斯",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/stym825.jpg",
+  "description": "撒旦炎魔最新连载画册！",
+  "last_updatetime": 1566703229,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 112013,
+  "hit_num": 200129,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 230,
+      "tag_name": "永井豪"
+    },
+    {
+      "tag_id": 17723,
+      "tag_name": "岛山英司"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 462,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92078,
+          "chapter_title": "1卷",
+          "updatetime": 1566703229,
+          "filesize": 48222073,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 130,
+    "latest_comment": [
+      {
+        "comment_id": 30023939,
+        "uid": 107487610,
+        "content": "惊",
+        "createtime": 1598704568,
+        "nickname": "秦川德里狗头鼠",
+        "avatar": "https://avatar.dmzj.com/16/78/1678b12341b8b200e67260cb4b381ba3.png"
+      },
+      {
+        "comment_id": 29115449,
+        "uid": 108846298,
+        "content": "为什么没有翻译?话说谁有原作资源?",
+        "createtime": 1595317624,
+        "nickname": "dmzj_108846298",
+        "avatar": "https://avatar.dmzj.com/30/ee/30eeeb956f33367f5a04f6925c757dd3.png"
+      }
+    ]
+  }
+}

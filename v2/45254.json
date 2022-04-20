@@ -1,0 +1,75 @@
+{
+  "id": 45254,
+  "islong": 2,
+  "direction": 1,
+  "title": "little devil",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/180806little.jpg",
+  "description": "小恶魔捡小动物回红魔馆的温馨故事。",
+  "last_updatetime": 1533559244,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "littledevil",
+  "hidden": 0,
+  "hot_num": 128356,
+  "hit_num": 13013,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 75920,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5890,
+      "tag_name": "神无月羽兔"
+    }
+  ],
+  "subscribe_num": 588,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 75920,
+          "chapter_title": "1话",
+          "updatetime": 1533559244,
+          "filesize": 7618570,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 31,
+    "latest_comment": [
+      {
+        "comment_id": 14157281,
+        "uid": 103427221,
+        "content": "画风很独特啊",
+        "createtime": 1555013905,
+        "nickname": "猫脸雷公",
+        "avatar": "https://avatar.dmzj.com/12/37/1237650ce94423deb960f7f059dfa1b1.png"
+      },
+      {
+        "comment_id": 13217118,
+        "uid": 102434320,
+        "content": "老师早年的画风还真是惊艳啊",
+        "createtime": 1553211550,
+        "nickname": "Mitsui流河",
+        "avatar": "https://avatar.dmzj.com/54/26/54260900c404a308be095b4c1658e432.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

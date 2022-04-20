@@ -1,0 +1,73 @@
+{
+  "id": 44791,
+  "islong": 2,
+  "direction": 2,
+  "title": "展示橱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/180704zsc.jpg",
+  "description": "展示橱#22——哈尔·乔丹的第一次登场。1959年哈尔第一次登场的一话，原来刚开始哈尔成天光想着卡萝，卡萝还只能看上绿灯侠，蜜汁三角恋。",
+  "last_updatetime": 1530696586,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 22182,
+  "hit_num": 4609,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 107,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77942,
+          "chapter_title": "22卷",
+          "updatetime": 1530696586,
+          "filesize": 3245025,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 5436175,
+        "uid": 102470564,
+        "content": "说个冷笑话：\n绿灯侠死了，因为上色不当心把背景涂成了全黄",
+        "createtime": 1530719124,
+        "nickname": "夏目胖太",
+        "avatar": "https://avatar.dmzj.com/80/63/8063230f65fe03d3cddcb4bafc2e8087.png"
+      },
+      {
+        "comment_id": 5433602,
+        "uid": 101859230,
+        "content": "誓词本来就没变过",
+        "createtime": 1530710555,
+        "nickname": "以人自居",
+        "avatar": "https://avatar.dmzj.com/94/67/9467f487bc85459728bf9bb3c3d74497.png"
+      }
+    ]
+  }
+}

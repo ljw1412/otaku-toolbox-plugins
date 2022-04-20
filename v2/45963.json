@@ -1,0 +1,73 @@
+{
+  "id": 45963,
+  "islong": 2,
+  "direction": 1,
+  "title": "驱魔少年原画集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/181001qumo.jpg",
+  "description": "星野桂《驱魔少年》原画集。",
+  "last_updatetime": 1538402621,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 608749,
+  "hit_num": 171585,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 596,
+      "tag_name": "星野桂"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2847,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76588,
+          "chapter_title": "1卷",
+          "updatetime": 1538402621,
+          "filesize": 8070525,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 157,
+    "latest_comment": [
+      {
+        "comment_id": 29748851,
+        "uid": 101814257,
+        "content": "想看驱魔漫画的可以点我头像到我的评论里面找，找到以后赶紧下载吧，不然不知道哪天驱魔也被完全神隐，再也没法看了",
+        "createtime": 1597676108,
+        "nickname": "三棱TE",
+        "avatar": "https://avatar.dmzj.com/11/00/11007f13b6f3c2332da360fd63bba1e6.png"
+      },
+      {
+        "comment_id": 29598794,
+        "uid": 109503250,
+        "content": "啊呀，这里有画集!",
+        "createtime": 1597073605,
+        "nickname": "镜中欣子",
+        "avatar": "https://avatar.dmzj.com/83/63/836350a8b7787eac79aecea73542f591.png"
+      }
+    ]
+  }
+}

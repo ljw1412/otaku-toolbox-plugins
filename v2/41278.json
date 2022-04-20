@@ -1,0 +1,91 @@
+{
+  "id": 41278,
+  "islong": 2,
+  "direction": 1,
+  "title": "终末的天气",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/zhongmodetianqifengmianl.jpg",
+  "description": "一事无成的青年在做了一个奇怪的梦之后，获得了消灭他人的能力",
+  "last_updatetime": 1541342528,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 1016332,
+  "hit_num": 591521,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7427,
+      "tag_name": "作元健司"
+    },
+    {
+      "tag_id": 13644,
+      "tag_name": "津霸圭一"
+    }
+  ],
+  "subscribe_num": 4725,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77735,
+          "chapter_title": "3话",
+          "updatetime": 1541342528,
+          "filesize": 2104434,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 73637,
+          "chapter_title": "2话",
+          "updatetime": 1531546554,
+          "filesize": 2515592,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 62416,
+          "chapter_title": "1话",
+          "updatetime": 1503233238,
+          "filesize": 4089572,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 180,
+    "latest_comment": [
+      {
+        "comment_id": 27380537,
+        "uid": 101841500,
+        "content": "有趣",
+        "createtime": 1589463232,
+        "nickname": "gangaeiΣ(´∀｀；)",
+        "avatar": "https://avatar.dmzj.com/88/78/8878b8a52807496eddeca913a88248bb.png"
+      },
+      {
+        "comment_id": 25067810,
+        "uid": 107292093,
+        "content": "看看",
+        "createtime": 1583754303,
+        "nickname": "江池",
+        "avatar": "https://avatar.dmzj.com/73/66/7366c026c89393b68486de07a80f45b9.png"
+      }
+    ]
+  }
+}

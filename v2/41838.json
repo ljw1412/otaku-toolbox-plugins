@@ -1,0 +1,83 @@
+{
+  "id": 41838,
+  "islong": 2,
+  "direction": 1,
+  "title": "FGO幼稚园",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/000fgoyzy1018.jpg",
+  "description": "玛修老师与幼儿从者们的日常。",
+  "last_updatetime": 1520682911,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 8083355,
+  "hit_num": 2795899,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5815,
+      "tag_name": "座敷(RRR)"
+    }
+  ],
+  "subscribe_num": 36696,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67736,
+          "chapter_title": "3话",
+          "updatetime": 1520682911,
+          "filesize": 7018139,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 64104,
+          "chapter_title": "2话",
+          "updatetime": 1508337351,
+          "filesize": 4578401,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 65092,
+          "chapter_title": "1话",
+          "updatetime": 1511236986,
+          "filesize": 3934112,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 480,
+    "latest_comment": [
+      {
+        "comment_id": 29315070,
+        "uid": 107623517,
+        "content": "卡哇伊",
+        "createtime": 1596035769,
+        "nickname": "伊格法泽",
+        "avatar": "https://avatar.dmzj.com/30/80/3080377acd45b9f14ab26acb57f88889.png"
+      },
+      {
+        "comment_id": 29186477,
+        "uid": 109872997,
+        "content": "闘技場の戦",
+        "createtime": 1595576682,
+        "nickname": "smj040508",
+        "avatar": "https://avatar.dmzj.com/70/34/70342a332cf34305339d8fa9c11fb43a.png"
+      }
+    ]
+  }
+}

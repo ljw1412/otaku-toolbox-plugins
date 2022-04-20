@@ -1,0 +1,73 @@
+{
+  "id": 40574,
+  "islong": 2,
+  "direction": 1,
+  "title": "笑话抢鲜爆",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/xiaohuaqiangxianbao.jpg",
+  "description": "超解闷，决定笑翻全世界！",
+  "last_updatetime": 1496490607,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 17527,
+  "hit_num": 255698,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13284,
+      "tag_name": "冯国涛"
+    }
+  ],
+  "subscribe_num": 59,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61997,
+          "chapter_title": "1卷",
+          "updatetime": 1496490607,
+          "filesize": 32991371,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 2287763,
+        "uid": 100886136,
+        "content": "P.89第30.第2行，方「武」應該是方「式」吧！打錯字了",
+        "createtime": 1496839464,
+        "nickname": "禮天冰御",
+        "avatar": "https://avatar.dmzj.com/1a/17/1a179cac904e6296be8f1a7da4db93db.png"
+      },
+      {
+        "comment_id": 2287756,
+        "uid": 100886136,
+        "content": "P",
+        "createtime": 1496839380,
+        "nickname": "禮天冰御",
+        "avatar": "https://avatar.dmzj.com/1a/17/1a179cac904e6296be8f1a7da4db93db.png"
+      }
+    ]
+  }
+}

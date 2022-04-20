@@ -1,0 +1,79 @@
+{
+  "id": 46796,
+  "islong": 2,
+  "direction": 2,
+  "title": "忍者神龟30周年纪念特别刊",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/renzheshengui1218l.jpg",
+  "description": "IDW出品忍者神龟30周年纪念特别刊\n此为尼克与IDW联手推出，通过去不同漫画宇宙的重访来纪念这一特别的日子，请回当初的团队，创作一个迷你故事来叙述各自的特色。本刊包含幻影v1v4、阿奇87、漫图v3和IDW自己的v5等宇宙。",
+  "last_updatetime": 1545104538,
+  "last_update_chapter_name": "30周年特刊【暗杀】",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "renzheshengui30zhounianjiniantebiekan",
+  "hidden": 0,
+  "hot_num": 143843,
+  "hit_num": 10951,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 84122,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1206,
+      "tag_name": "IDW"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 551,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 84122,
+          "chapter_title": "1卷",
+          "updatetime": 1545104538,
+          "filesize": 7662475,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 9255950,
+        "uid": 105608248,
+        "content": "改名的画师是变性了吗，男名改女名",
+        "createtime": 1545397835,
+        "nickname": "轻哼的小调",
+        "avatar": "https://avatar.dmzj.com/48/28/48288972973f636dbd157f4c55d15479.png"
+      },
+      {
+        "comment_id": 9193597,
+        "uid": 108057086,
+        "content": "IDW哒喵",
+        "createtime": 1545186263,
+        "nickname": "dmzj_108057086",
+        "avatar": "https://avatar.dmzj.com/f8/02/f80241e0334b47f8af80eda78049794b.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

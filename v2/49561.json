@@ -1,0 +1,75 @@
+{
+  "id": 49561,
+  "islong": 2,
+  "direction": 1,
+  "title": "我的挚友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/wdzy20190809.jpg",
+  "description": "我的挚友,无论什么事情,都会模仿我",
+  "last_updatetime": 1565325839,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wodezhiyou",
+  "hidden": 0,
+  "hot_num": 914860,
+  "hit_num": 39026,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91415,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12972,
+      "tag_name": "あずさきな"
+    }
+  ],
+  "subscribe_num": 3657,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91415,
+          "chapter_title": "1话",
+          "updatetime": 1565325839,
+          "filesize": 1390398,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 146,
+    "latest_comment": [
+      {
+        "comment_id": 29524858,
+        "uid": 101782585,
+        "content": "好ex……",
+        "createtime": 1596789447,
+        "nickname": "Ayu鱼",
+        "avatar": "https://avatar.dmzj.com/50/15/501583b77003771ce319113e44836b5c.png"
+      },
+      {
+        "comment_id": 29496624,
+        "uid": 101051797,
+        "content": "明知道女主喜欢学长还……屑",
+        "createtime": 1596689757,
+        "nickname": "想睡觉困困",
+        "avatar": "https://avatar.dmzj.com/73/71/7371103d2f0de544e4ecbaa9095af681.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

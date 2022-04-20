@@ -1,0 +1,121 @@
+{
+  "id": 49217,
+  "islong": 2,
+  "direction": 1,
+  "title": "鳗鬼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/mangui20190714.jpg",
+  "description": "你知道吗？鳗鱼这种生物啊，只要是蛋白质，无论是什么都能吃个精光哦？无论是什么都能——吃个精光。",
+  "last_updatetime": 1592731963,
+  "last_update_chapter_name": "第07话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mangui",
+  "hidden": 0,
+  "hot_num": 3545160,
+  "hit_num": 1763945,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 103193,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2378,
+      "tag_name": "落合裕介"
+    },
+    {
+      "tag_id": 17406,
+      "tag_name": "高田侑"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "subscribe_num": 21449,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 103193,
+          "chapter_title": "7话",
+          "updatetime": 1592731963,
+          "filesize": 3775226,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 103087,
+          "chapter_title": "6话",
+          "updatetime": 1592547721,
+          "filesize": 3203070,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 102933,
+          "chapter_title": "5话",
+          "updatetime": 1592284105,
+          "filesize": 2877083,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 93095,
+          "chapter_title": "4话",
+          "updatetime": 1570783209,
+          "filesize": 6169108,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 91721,
+          "chapter_title": "3话",
+          "updatetime": 1566827429,
+          "filesize": 5073432,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 90583,
+          "chapter_title": "2话",
+          "updatetime": 1563953166,
+          "filesize": 6366683,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 90278,
+          "chapter_title": "1话",
+          "updatetime": 1563121553,
+          "filesize": 9121892,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 957,
+    "latest_comment": [
+      {
+        "comment_id": 30062229,
+        "uid": 107654019,
+        "content": "可以",
+        "createtime": 1598867493,
+        "nickname": "dmzj_107654019",
+        "avatar": "https://avatar.dmzj.com/29/34/2934973099766a639d9c80e072c32ad8.png"
+      },
+      {
+        "comment_id": 30026045,
+        "uid": 106443391,
+        "content": "哦(´-ω-`)",
+        "createtime": 1598710517,
+        "nickname": "dmzj_106443391",
+        "avatar": "https://avatar.dmzj.com/ae/34/ae343bb2600034444b6acafe9064aecb.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

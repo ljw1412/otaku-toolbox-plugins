@@ -1,0 +1,73 @@
+{
+  "id": 45947,
+  "islong": 2,
+  "direction": 1,
+  "title": "七大罪原画集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/180930qdzyhj.jpg",
+  "description": "七大罪原画集。",
+  "last_updatetime": 1538304525,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 497160,
+  "hit_num": 122725,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1051,
+      "tag_name": "铃木央"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2221,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81302,
+          "chapter_title": "1卷",
+          "updatetime": 1538304525,
+          "filesize": 10868704,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1002,
+    "latest_comment": [
+      {
+        "comment_id": 28850407,
+        "uid": 111264792,
+        "content": "6",
+        "createtime": 1594437911,
+        "nickname": "dmzj_111264792",
+        "avatar": "https://avatar.dmzj.com/85/29/852943c61b712a6f4ac46eb4bda2829f.png"
+      },
+      {
+        "comment_id": 28654378,
+        "uid": 107183425,
+        "content": "预留",
+        "createtime": 1593788661,
+        "nickname": "废人炀",
+        "avatar": "https://avatar.dmzj.com/70/77/707713907233e90ee76b6066a802fea8.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 45588,
+  "islong": 2,
+  "direction": 1,
+  "title": "16bit的感动",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/gandong20180906.jpg",
+  "description": "来自旧时代的感动",
+  "last_updatetime": 1537151428,
+  "copyright": 0,
+  "first_letter": "1",
+  "hot_num": 1317116,
+  "hit_num": 149701,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 444,
+      "tag_name": "若木民喜"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 6091,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76133,
+          "chapter_title": "1话",
+          "updatetime": 1537151428,
+          "filesize": 4875013,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 159,
+    "latest_comment": [
+      {
+        "comment_id": 29008451,
+        "uid": 14313236,
+        "content": "单行本化了，9月14日发售",
+        "createtime": 1594956655,
+        "nickname": "咪叫咩啰",
+        "avatar": "https://avatar.dmzj.com/5a/91/5a912ef465a244c7fec3cdef417bad0f.png"
+      },
+      {
+        "comment_id": 27142829,
+        "uid": 102169479,
+        "content": "两年了",
+        "createtime": 1588724132,
+        "nickname": " ▪",
+        "avatar": "https://avatar.dmzj.com/64/75/6475d7943be1cf095e424d51d0cc5ba6.png"
+      }
+    ]
+  }
+}

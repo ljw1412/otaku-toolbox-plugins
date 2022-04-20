@@ -1,0 +1,79 @@
+{
+  "id": 39633,
+  "islong": 2,
+  "direction": 1,
+  "title": "Starlight hill",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/StarlighthillV2.jpg",
+  "description": "阻止宇宙人侵略地球的方法！？",
+  "last_updatetime": 1484927886,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "starlighthill",
+  "hidden": 0,
+  "hot_num": 102809,
+  "hit_num": 78285,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 56598,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 410,
+      "tag_name": "坂野杏梨"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1098,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56598,
+          "chapter_title": "1话",
+          "updatetime": 1484927886,
+          "filesize": 1817278,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 34,
+    "latest_comment": [
+      {
+        "comment_id": 26082490,
+        "uid": 109715360,
+        "content": "，",
+        "createtime": 1586020515,
+        "nickname": "dmzj_109715360",
+        "avatar": "https://avatar.dmzj.com/c0/0b/c00b454b36ded7cfa29bc812caf6a369.png"
+      },
+      {
+        "comment_id": 19088619,
+        "uid": 102323182,
+        "content": "这本也没了",
+        "createtime": 1565084117,
+        "nickname": "Rin酱必须大爱",
+        "avatar": "https://avatar.dmzj.com/ca/66/ca66069d40803ed0edad5ba364750d0d.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

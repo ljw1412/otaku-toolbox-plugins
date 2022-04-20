@@ -1,0 +1,79 @@
+{
+  "id": 39453,
+  "islong": 2,
+  "direction": 1,
+  "title": "夏热令人悸动",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/xiarelingrenmengdong.jpg",
+  "description": "在你的面前，我变得不像我自己，这一定是夏天的燥热所致——",
+  "last_updatetime": 1482594219,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiarelingrenjidong",
+  "hidden": 0,
+  "hot_num": 123658,
+  "hit_num": 538466,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 55982,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8926,
+      "tag_name": "增田里穗"
+    }
+  ],
+  "subscribe_num": 1523,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 55982,
+          "chapter_title": "1话",
+          "updatetime": 1482594219,
+          "filesize": 4854101,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 54,
+    "latest_comment": [
+      {
+        "comment_id": 27121634,
+        "uid": 109182299,
+        "content": "什么女生主动不值钱 哪来的封建裹脚思想",
+        "createtime": 1588664428,
+        "nickname": "高架线",
+        "avatar": "https://avatar.dmzj.com/44/29/4429a1ca0a7ea15b38a1618bc0df3145.png"
+      },
+      {
+        "comment_id": 24428757,
+        "uid": 109800684,
+        "content": "可可可",
+        "createtime": 1582391503,
+        "nickname": "dmzj_109800684",
+        "avatar": "https://avatar.dmzj.com/2c/d3/2cd3b304c5d380c049e2214f5570b006.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

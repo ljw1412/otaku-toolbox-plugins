@@ -1,0 +1,77 @@
+{
+  "id": 42516,
+  "islong": 2,
+  "direction": 1,
+  "title": "漫图推荐：伊西斯传奇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/yisixichuanqi.jpg",
+  "description": "很奇怪的名字，不要在意。本漫画以埃及神话为基础，讲述了一个“爱上姐姐的未婚夫”的故事。故事很短，就不剧透了。",
+  "last_updatetime": 1514722154,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 81976,
+  "hit_num": 23338,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2116,
+      "tag_name": "image"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 360,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71067,
+          "chapter_title": "1卷",
+          "updatetime": 1514722158,
+          "filesize": 4058511,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 3602394,
+        "uid": 100164904,
+        "content": "好短😨",
+        "createtime": 1514730826,
+        "nickname": "麸白术",
+        "avatar": "https://avatar.dmzj.com/a7/d4/a7d44b2aa686a152b9bd1594c78f2c61.png"
+      },
+      {
+        "comment_id": 3601842,
+        "uid": 101483466,
+        "content": "image的漫画都很好看啊，看腻了漫威和DC，换换口味也不错。",
+        "createtime": 1514723225,
+        "nickname": "该用户已被永久禁言",
+        "avatar": "https://avatar.dmzj.com/83/81/83818cb28fd001e3e8653a74e48bfcaa.png"
+      }
+    ]
+  }
+}

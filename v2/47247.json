@@ -1,0 +1,108 @@
+{
+  "id": 47247,
+  "islong": 2,
+  "direction": 2,
+  "title": "THE绿灯侠V1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/thelvdengxiavyi11.jpg",
+  "description": "由莫里森和夏普带来的全新绿灯新刊！",
+  "last_updatetime": 1554481707,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 92630,
+  "hit_num": 21892,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 386,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87203,
+          "chapter_title": "6卷",
+          "updatetime": 1554481707,
+          "filesize": 4419103,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 86377,
+          "chapter_title": "5卷",
+          "updatetime": 1551959495,
+          "filesize": 4824586,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 85348,
+          "chapter_title": "4卷",
+          "updatetime": 1549597167,
+          "filesize": 3626856,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 85247,
+          "chapter_title": "3卷",
+          "updatetime": 1549159082,
+          "filesize": 4336482,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 85078,
+          "chapter_title": "2卷",
+          "updatetime": 1548583795,
+          "filesize": 3635711,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 85077,
+          "chapter_title": "1卷",
+          "updatetime": 1548583755,
+          "filesize": 5036854,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 29060641,
+        "uid": 102286938,
+        "content": "这个和绿灯侠v6不是一样的吗……",
+        "createtime": 1595129578,
+        "nickname": "具象尘埃",
+        "avatar": "https://avatar.dmzj.com/98/85/9885c6a7df7a7066320552f2cbf5e58f.png"
+      },
+      {
+        "comment_id": 13835213,
+        "uid": 107563951,
+        "content": "你们说哈尔在地球这样过日子算不算吃软饭",
+        "createtime": 1554512831,
+        "nickname": "先有E总后有天",
+        "avatar": "https://avatar.dmzj.com/65/90/65900113c2803a02cc4b64a76fc31315.png"
+      }
+    ]
+  }
+}

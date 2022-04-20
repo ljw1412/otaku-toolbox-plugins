@@ -1,0 +1,73 @@
+{
+  "id": 42913,
+  "islong": 2,
+  "direction": 1,
+  "title": "哎呀，是正太",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/aiyashizhengtai.jpg",
+  "description": "哲学向，深奥晦涩的东方同人漫画。 ",
+  "last_updatetime": 1517218042,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 648859,
+  "hit_num": 153527,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14378,
+      "tag_name": "みりの"
+    }
+  ],
+  "subscribe_num": 2760,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67428,
+          "chapter_title": "1话",
+          "updatetime": 1517218042,
+          "filesize": 3354541,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 298,
+    "latest_comment": [
+      {
+        "comment_id": 29914324,
+        "uid": 108035973,
+        "content": "ghs嘛",
+        "createtime": 1598284469,
+        "nickname": "dmzj_108035973",
+        "avatar": "https://avatar.dmzj.com/e8/b2/e8b2703100b6b58cfcac2723b0f2e7e3.png"
+      },
+      {
+        "comment_id": 29703759,
+        "uid": 108167830,
+        "content": "好看",
+        "createtime": 1597503635,
+        "nickname": "dmzj_108167830",
+        "avatar": "https://avatar.dmzj.com/30/d1/30d1eb318b77d64afcd4ddaff6bf15c0.png"
+      }
+    ]
+  }
+}

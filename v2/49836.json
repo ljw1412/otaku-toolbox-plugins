@@ -1,0 +1,83 @@
+{
+  "id": 49836,
+  "islong": 2,
+  "direction": 1,
+  "title": "新地狱少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/xin-diyushaonv.jpg",
+  "description": "新地狱少女",
+  "last_updatetime": 1567561357,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 731024,
+  "hit_num": 238415,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1021,
+      "tag_name": "永远幸"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 3346,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92398,
+          "chapter_title": "3卷",
+          "updatetime": 1567561357,
+          "filesize": 45474457,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 92203,
+          "chapter_title": "2卷",
+          "updatetime": 1566968823,
+          "filesize": 9627119,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 92088,
+          "chapter_title": "1卷",
+          "updatetime": 1566732628,
+          "filesize": 44903763,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 116,
+    "latest_comment": [
+      {
+        "comment_id": 29315909,
+        "uid": 111065316,
+        "content": "好、古早（？）的画风2333",
+        "createtime": 1596037254,
+        "nickname": "今天也很卑微",
+        "avatar": "https://avatar.dmzj.com/12/70/127001dcbb217d006711ea41161dfec4.png"
+      },
+      {
+        "comment_id": 29260239,
+        "uid": 107957995,
+        "content": "漫画的画风为啥这么陈旧，不是动画之后出的么",
+        "createtime": 1595844341,
+        "nickname": "小鸡姑姑哒",
+        "avatar": "https://avatar.dmzj.com/25/93/2593cb4f297e2ebed581e11baf81beed.png"
+      }
+    ]
+  }
+}

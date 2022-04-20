@@ -1,0 +1,75 @@
+{
+  "id": 44822,
+  "islong": 2,
+  "direction": 1,
+  "title": "永别了历史",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/ynlls274s.jpg",
+  "description": "布都的灾难假想演戏的故事，不过，到底是不是假想呢~",
+  "last_updatetime": 1530871642,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yongbielelishi",
+  "hidden": 0,
+  "hot_num": 121213,
+  "hit_num": 18640,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 78436,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15199,
+      "tag_name": "キタュキ"
+    }
+  ],
+  "subscribe_num": 589,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78436,
+          "chapter_title": "1话",
+          "updatetime": 1530871642,
+          "filesize": 4989363,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 18583936,
+        "uid": 104967075,
+        "content": "人过留名",
+        "createtime": 1563937023,
+        "nickname": "小豆糕",
+        "avatar": "https://avatar.dmzj.com/62/53/62534a827eeeb5e84ab6c27c26292217.png"
+      },
+      {
+        "comment_id": 5476518,
+        "uid": 104644289,
+        "content": "→_→问题来了，开头那些是什么文？",
+        "createtime": 1530942041,
+        "nickname": "西苍北穹",
+        "avatar": "https://avatar.dmzj.com/66/b6/66b68d22bae369cd7e4ed7db3ef6584b.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

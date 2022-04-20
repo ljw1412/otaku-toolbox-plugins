@@ -1,0 +1,73 @@
+{
+  "id": 45555,
+  "islong": 2,
+  "direction": 2,
+  "title": "超人的好朋友：吉米奥尔森",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/chaorendehaopengyou0827bvbv.jpg",
+  "description": "#超人#新氪星故事线第0期",
+  "last_updatetime": 1535344968,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 47014,
+  "hit_num": 17213,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 197,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81280,
+          "chapter_title": "1卷",
+          "updatetime": 1535344968,
+          "filesize": 10294350,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 6539455,
+        "uid": 103448030,
+        "content": "传奇欧皇……",
+        "createtime": 1535446519,
+        "nickname": "1@诡咩",
+        "avatar": "https://avatar.dmzj.com/99/75/99752d241494d9e26aaedede47e44c71.png"
+      },
+      {
+        "comment_id": 6522020,
+        "uid": 101026603,
+        "content": "连吉米都有个人刊了……",
+        "createtime": 1535365485,
+        "nickname": "卡提斯04957",
+        "avatar": "https://avatar.dmzj.com/a0/d2/a0d2dc86d97174a0b469d950dc8fcd80.png"
+      }
+    ]
+  }
+}

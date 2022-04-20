@@ -1,0 +1,73 @@
+{
+  "id": 44028,
+  "islong": 2,
+  "direction": 1,
+  "title": "惊喜",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/jx0501l.jpg",
+  "description": "以中川勇的《漫画家再入门》为契机，怀着毕生惊叹读完本卷吧！",
+  "last_updatetime": 1525175574,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 177439,
+  "hit_num": 30553,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 547,
+      "tag_name": "大友克洋"
+    },
+    {
+      "tag_id": 14853,
+      "tag_name": "中川いさみ"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 801,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 70797,
+          "chapter_title": "1卷",
+          "updatetime": 1525175574,
+          "filesize": 5920555,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 22643403,
+        "uid": 102521510,
+        "content": "可以????",
+        "createtime": 1576486351,
+        "nickname": "Elmlygoo",
+        "avatar": "https://avatar.dmzj.com/34/85/3485863500ced55e9f7c6b69cca7f2de.png"
+      },
+      {
+        "comment_id": 22520397,
+        "uid": 109839697,
+        "content": "啧啧啧",
+        "createtime": 1575814371,
+        "nickname": "小糊涂仙♡",
+        "avatar": "https://avatar.dmzj.com/e3/df/e3df113f319056d7b1b5189887b8731c.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 42245,
+  "islong": 2,
+  "direction": 1,
+  "title": "妖精大战争",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/171209yaojing.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1512796362,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yaojingdazhanzheng",
+  "hidden": 0,
+  "hot_num": 127977,
+  "hit_num": 10086,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 71953,
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 440,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71953,
+          "chapter_title": "1话",
+          "updatetime": 1512796362,
+          "filesize": 587319,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 29906528,
+        "uid": 110242322,
+        "content": "留",
+        "createtime": 1598265851,
+        "nickname": "dmzj_110242322",
+        "avatar": "https://avatar.dmzj.com/d5/17/d5173910dafed2a77198c9b035494e68.png"
+      },
+      {
+        "comment_id": 27307492,
+        "uid": 106975255,
+        "content": "脚疼",
+        "createtime": 1589217287,
+        "nickname": "墨导",
+        "avatar": "https://avatar.dmzj.com/96/20/9620edf0917013eefa368c182257d965.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

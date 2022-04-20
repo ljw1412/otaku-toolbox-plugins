@@ -1,0 +1,90 @@
+{
+  "id": 44958,
+  "islong": 2,
+  "direction": 2,
+  "title": "黑暗之魂：火之时代",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/heianzhihunhuozhishidai.jpg",
+  "description": "回归黑暗之魂的起源，描述太阳王葛温时代手下的银骑士以及王国四骑士的故事",
+  "last_updatetime": 1532408758,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "heianzhihunhuozhishidai",
+  "hidden": 0,
+  "hot_num": 1360561,
+  "hit_num": 271659,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 74048,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5547,
+      "tag_name": "Titan Comics"
+    }
+  ],
+  "subscribe_num": 6099,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74048,
+          "chapter_title": "2卷",
+          "updatetime": 1532408758,
+          "filesize": 4572034,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 73730,
+          "chapter_title": "1卷",
+          "updatetime": 1531794868,
+          "filesize": 2543544,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 204,
+    "latest_comment": [
+      {
+        "comment_id": 29469083,
+        "uid": 100616136,
+        "content": "银骑士不可能文盲到不知道恶魔诞生于火吧，伊扎里斯还是人人皆知的",
+        "createtime": 1596581130,
+        "nickname": "daggeraxe",
+        "avatar": "https://avatar.dmzj.com/59/86/5986f9694de7f9600611145b79d93f2e.png"
+      },
+      {
+        "comment_id": 28361409,
+        "uid": 111056989,
+        "content": "魂1吗？",
+        "createtime": 1592842689,
+        "nickname": "汤摇庄负责人",
+        "avatar": "https://avatar.dmzj.com/72/20/7220736c536b31c4114ef3380df9189f.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

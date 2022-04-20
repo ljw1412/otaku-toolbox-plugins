@@ -1,0 +1,93 @@
+{
+  "id": 48155,
+  "islong": 2,
+  "direction": 2,
+  "title": "一只叫大神的兔子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1076405711555379500.jpg",
+  "description": "我养了一只白色垂耳兔",
+  "last_updatetime": 1555589707,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 48061,
+  "hit_num": 89816,
+  "uid": 107640571,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16834,
+      "tag_name": "希里打哄"
+    }
+  ],
+  "subscribe_num": 222,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88398,
+          "chapter_title": "3话",
+          "updatetime": 1555589707,
+          "filesize": 68813,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 88349,
+          "chapter_title": "2话",
+          "updatetime": 1555486758,
+          "filesize": 308954,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 88312,
+          "chapter_title": "1话",
+          "updatetime": 1555379838,
+          "filesize": 72409,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 25495566,
+        "uid": 103508744,
+        "content": "挺好看的",
+        "createtime": 1584713394,
+        "nickname": "夕晨lzc",
+        "avatar": "https://avatar.dmzj.com/65/23/6523114f603c8ddd4fcb7f1a60db9471.png"
+      },
+      {
+        "comment_id": 24204080,
+        "uid": 101322712,
+        "content": "完结了？",
+        "createtime": 1581850921,
+        "nickname": "花福气的麻麻",
+        "avatar": "https://avatar.dmzj.com/15/13/151336b11cbdef4fdf3ca90aa41295db.png"
+      }
+    ]
+  }
+}

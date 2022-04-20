@@ -1,0 +1,73 @@
+{
+  "id": 44880,
+  "islong": 2,
+  "direction": 1,
+  "title": "Brotherhood",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/180711qwerty.jpg",
+  "description": "目标是成为出色的不良的山中大和、山中武藏两兄弟。进入了不良的巢穴·黑高，在那里他们与个性鲜明的人们相遇…两人的不良生活现在正式拉开了帷幕。",
+  "last_updatetime": 1531292435,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 197454,
+  "hit_num": 32539,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15235,
+      "tag_name": "村上よしゆき"
+    }
+  ],
+  "subscribe_num": 957,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79558,
+          "chapter_title": "1话",
+          "updatetime": 1531292435,
+          "filesize": 2451444,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 27329450,
+        "uid": 106408477,
+        "content": "夜 露 死 苦!",
+        "createtime": 1589296516,
+        "nickname": "补植",
+        "avatar": "https://avatar.dmzj.com/44/03/4403b1dccb09f6ccd2cf651933621b8b.png"
+      },
+      {
+        "comment_id": 26861259,
+        "uid": 104564759,
+        "content": "沙雕哈哈哈",
+        "createtime": 1587906094,
+        "nickname": "政zheng",
+        "avatar": "https://avatar.dmzj.com/94/43/9443faf9f39c8cfe1cfca271d57f06e5.png"
+      }
+    ]
+  }
+}

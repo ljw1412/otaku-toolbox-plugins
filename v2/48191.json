@@ -1,0 +1,91 @@
+{
+  "id": 48191,
+  "islong": 2,
+  "direction": 1,
+  "title": "Master Up！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/masterup0419.jpg",
+  "description": "为了实现梦想，突进吧社畜道！",
+  "last_updatetime": 1564067195,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 868570,
+  "hit_num": 9348,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7978,
+      "tag_name": "涌井想太"
+    },
+    {
+      "tag_id": 7979,
+      "tag_name": "仁藤砂雨"
+    }
+  ],
+  "subscribe_num": 4182,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90893,
+          "chapter_title": "3话",
+          "updatetime": 1564067195,
+          "filesize": 2259602,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 89240,
+          "chapter_title": "2话",
+          "updatetime": 1560172913,
+          "filesize": 1121489,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 87698,
+          "chapter_title": "1话",
+          "updatetime": 1555641540,
+          "filesize": 2940300,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 86,
+    "latest_comment": [
+      {
+        "comment_id": 29713556,
+        "uid": 104290541,
+        "content": "这个连载时间是去年？",
+        "createtime": 1597546491,
+        "nickname": "孫誠",
+        "avatar": "https://avatar.dmzj.com/26/02/2602c6274c4219665bef2e8bbbd7c669.png"
+      },
+      {
+        "comment_id": 29661778,
+        "uid": 100881346,
+        "content": "来了",
+        "createtime": 1597332125,
+        "nickname": "东方星夜空",
+        "avatar": "https://avatar.dmzj.com/52/85/52856aaf7707e8e0c217d14ee5ec6c5a.png"
+      }
+    ]
+  }
+}

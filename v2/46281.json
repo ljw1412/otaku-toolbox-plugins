@@ -1,0 +1,73 @@
+{
+  "id": 46281,
+  "islong": 2,
+  "direction": 1,
+  "title": "星火",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/181101xinghuoo.jpg",
+  "description": "我点燃的火焰，它会去向何方。",
+  "last_updatetime": 1541064691,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 668069,
+  "hit_num": 5642,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14790,
+      "tag_name": "カシワイ"
+    },
+    {
+      "tag_id": 15901,
+      "tag_name": "新美南吉"
+    }
+  ],
+  "subscribe_num": 2951,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82480,
+          "chapter_title": "1话",
+          "updatetime": 1541064691,
+          "filesize": 2316398,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 42,
+    "latest_comment": [
+      {
+        "comment_id": 27066106,
+        "uid": 109332687,
+        "content": "∥",
+        "createtime": 1588499657,
+        "nickname": "dmzj_109332687",
+        "avatar": "https://avatar.dmzj.com/87/52/8752257f6d4058b5fd13cff2f605af88.png"
+      },
+      {
+        "comment_id": 26089516,
+        "uid": 105381296,
+        "content": "浪漫作者画出来的传火短篇",
+        "createtime": 1586044940,
+        "nickname": "名字一个都不能用",
+        "avatar": "https://avatar.dmzj.com/43/69/4369a0cba3941503594db2698c8be70f.png"
+      }
+    ]
+  }
+}

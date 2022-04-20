@@ -1,0 +1,69 @@
+{
+  "id": 42165,
+  "islong": 2,
+  "direction": 1,
+  "title": "恶魔之谜",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/emozhimiduanpianfengmianl.jpg",
+  "description": "如果可以实现一个愿望，那么许什么愿好呢？",
+  "last_updatetime": 1512055080,
+  "copyright": 0,
+  "first_letter": "e",
+  "hot_num": 284090,
+  "hit_num": 199527,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5806,
+      "tag_name": "魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7976,
+      "tag_name": "萩尾彬"
+    }
+  ],
+  "subscribe_num": 1154,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71698,
+          "chapter_title": "1话",
+          "updatetime": 1512055346,
+          "filesize": 9527719,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 27,
+    "latest_comment": [
+      {
+        "comment_id": 26116646,
+        "uid": 108943465,
+        "content": "来 错 了",
+        "createtime": 1586100436,
+        "nickname": "馒头卡赛高",
+        "avatar": "https://avatar.dmzj.com/81/33/8133f9fae125e0045fed2ec9efd69c75.png"
+      },
+      {
+        "comment_id": 25548423,
+        "uid": 100070948,
+        "content": "这是那个动画的那个么。",
+        "createtime": 1584839871,
+        "nickname": "贝尔西行寺",
+        "avatar": "https://avatar.dmzj.com/6a/33/6a33baaaa78f532a36b069d4b4210c13.png"
+      }
+    ]
+  }
+}

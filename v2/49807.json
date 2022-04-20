@@ -1,0 +1,73 @@
+{
+  "id": 49807,
+  "islong": 2,
+  "direction": 1,
+  "title": "你的身边",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/nideshenbian17.jpg",
+  "description": "我身边有鬼，也许你身边也有",
+  "last_updatetime": 1566577691,
+  "copyright": 0,
+  "first_letter": "n",
+  "hot_num": 649386,
+  "hit_num": 26938,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17696,
+      "tag_name": "二阶堂幸"
+    }
+  ],
+  "subscribe_num": 2996,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91618,
+          "chapter_title": "1话",
+          "updatetime": 1566577691,
+          "filesize": 2611551,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 100,
+    "latest_comment": [
+      {
+        "comment_id": 29616323,
+        "uid": 100700437,
+        "content": "大家都是狗，凭什么？？",
+        "createtime": 1597148996,
+        "nickname": "拎着马桶搋子路过",
+        "avatar": "https://avatar.dmzj.com/11/89/118961ea580b4c49aa31f24c54398d60.png"
+      },
+      {
+        "comment_id": 27554864,
+        "uid": 109927258,
+        "content": "甜啊",
+        "createtime": 1590025813,
+        "nickname": "ryth",
+        "avatar": "https://avatar.dmzj.com/65/34/653418763575b81ed8b1daf1aec9bb52.png"
+      }
+    ]
+  }
+}

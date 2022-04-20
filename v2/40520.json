@@ -1,0 +1,77 @@
+{
+  "id": 40520,
+  "islong": 2,
+  "direction": 1,
+  "title": "紫阳花✿planet",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/170526ziyangh.jpg",
+  "description": "住在紫阳花✿planet的少女日常……",
+  "last_updatetime": 1495807624,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 980682,
+  "hit_num": 59352,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13259,
+      "tag_name": "知梨"
+    }
+  ],
+  "subscribe_num": 4464,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65745,
+          "chapter_title": "1话",
+          "updatetime": 1495807624,
+          "filesize": 674399,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 59,
+    "latest_comment": [
+      {
+        "comment_id": 28331768,
+        "uid": 105760430,
+        "content": "留",
+        "createtime": 1592749135,
+        "nickname": "命运石★黑岩",
+        "avatar": "https://avatar.dmzj.com/b9/a2/b9a25f8c8dd79998eae581d03475c07e.png"
+      },
+      {
+        "comment_id": 26965578,
+        "uid": 110779563,
+        "content": "无上的坐标之神，汝的信徒在此圣地歌颂汝的伟大功绩。神啊，请降下神迹，为吾等汝之信徒锚定航路的方向，指明朝圣的道路。请降下神迹，赐予此圣地永恒的坐标吧!",
+        "createtime": 1588188120,
+        "nickname": "おやすみなさい、",
+        "avatar": "https://avatar.dmzj.com/35/21/352156c0c43c0518ad814f10c9be9521.png"
+      }
+    ]
+  }
+}

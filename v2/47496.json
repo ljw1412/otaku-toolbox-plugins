@@ -1,0 +1,71 @@
+{
+  "id": 47496,
+  "islong": 2,
+  "direction": 2,
+  "title": "我的超级英雄",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1079316371549215536.jpg",
+  "description": "专属于“我”的超级英雄",
+  "last_updatetime": 1549216462,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 3625,
+  "hit_num": 49883,
+  "uid": 107931637,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15660,
+      "tag_name": "月灯"
+    }
+  ],
+  "subscribe_num": 13,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85944,
+          "chapter_title": "1话",
+          "updatetime": 1549216462,
+          "filesize": 2763553,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 26909186,
+        "uid": 100240071,
+        "content": "我订阅了，也希望这个漫画会有更多的人看见。",
+        "createtime": 1588038058,
+        "nickname": "无聊的时间好无聊",
+        "avatar": "https://avatar.dmzj.com/27/c9/27c9dcb03bea94254c2bdeede5b0c7a2.png"
+      },
+      {
+        "comment_id": 12995459,
+        "uid": 106983393,
+        "content": "这世界的确没有我们想的那么糟。╮(╯▽╰)╭",
+        "createtime": 1552719899,
+        "nickname": "ァカケコクゥ",
+        "avatar": "https://avatar.dmzj.com/73/67/7367f732480229cea4fbda650e995724.png"
+      }
+    ]
+  }
+}

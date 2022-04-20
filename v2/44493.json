@@ -1,0 +1,75 @@
+{
+  "id": 44493,
+  "islong": 2,
+  "direction": 1,
+  "title": "七色的赫卡提亚",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/0606qisedehekatiya.jpg",
+  "description": " 哦呀，赫卡提亚的样子？",
+  "last_updatetime": 1528382025,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qisedehekatiya",
+  "hidden": 0,
+  "hot_num": 121237,
+  "hit_num": 2520,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72150,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6252,
+      "tag_name": "じぜる"
+    }
+  ],
+  "subscribe_num": 547,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72150,
+          "chapter_title": "1话",
+          "updatetime": 1528382025,
+          "filesize": 847638,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 28559114,
+        "uid": 104552191,
+        "content": "开始东方系列补完",
+        "createtime": 1593501234,
+        "nickname": "矛盾结合体",
+        "avatar": "https://avatar.dmzj.com/98/50/98504afb134f0f8d5da0f7abf2ed66e6.png"
+      },
+      {
+        "comment_id": 5061841,
+        "uid": 42435,
+        "content": "安上橄榄球就有点像某个牛粪头了",
+        "createtime": 1528714334,
+        "nickname": "half*half",
+        "avatar": "https://avatar.dmzj.com/4c/35/4c35872825b2ca587ca3c3e676a7104a.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

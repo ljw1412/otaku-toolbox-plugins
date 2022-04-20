@@ -1,0 +1,79 @@
+{
+  "id": 44027,
+  "islong": 2,
+  "direction": 1,
+  "title": "⑨te",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/c90502l.jpg",
+  "description": "可爱的⑨，安定的大酱",
+  "last_updatetime": 1525173874,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "9",
+  "comic_py": "9te",
+  "hidden": 0,
+  "hot_num": 134316,
+  "hit_num": 27998,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 76139,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5178,
+      "tag_name": "墨"
+    },
+    {
+      "tag_id": 14852,
+      "tag_name": "すずり"
+    }
+  ],
+  "subscribe_num": 529,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76139,
+          "chapter_title": "1话",
+          "updatetime": 1525173875,
+          "filesize": 2618075,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 29103882,
+        "uid": 110328123,
+        "content": "爱了爱了",
+        "createtime": 1595263826,
+        "nickname": "东山花玖柒灯路",
+        "avatar": "https://avatar.dmzj.com/52/30/52306efb54d3443e0cfb9a17e8c5dcc6.png"
+      },
+      {
+        "comment_id": 27976978,
+        "uid": 102408521,
+        "content": "东方普通我都没通关过。",
+        "createtime": 1591461870,
+        "nickname": "鳰入",
+        "avatar": "https://avatar.dmzj.com/94/76/9476b4a13ab3fcb7e1558871e6c0a3f9.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

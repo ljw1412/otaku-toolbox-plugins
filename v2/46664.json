@@ -1,0 +1,79 @@
+{
+  "id": 46664,
+  "islong": 1,
+  "direction": 2,
+  "title": "阿恒画集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1084113131543980065.jpg",
+  "description": "恒哥阔别十余年回归作品集，还有什么比这个更加让人激动的吗？？搞笑、惊悚、奇幻……应有尽有，就怕你不来看！当然也请大家多多提意见建议，希望能再次回到当年那种单纯画漫画的时刻~",
+  "last_updatetime": 1543995053,
+  "copyright": 1,
+  "first_letter": "a",
+  "hot_num": 10749,
+  "hit_num": 334914,
+  "uid": 108411313,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1373,
+      "tag_name": "阿恒"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 46,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79927,
+          "chapter_title": "1.1话",
+          "updatetime": 1543995053,
+          "filesize": 1889291,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "不定期更新，尽量保持周更。",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 9364826,
+        "uid": 108291414,
+        "content": "这是甚么玩意儿？",
+        "createtime": 1545834088,
+        "nickname": "dmzj_108291414",
+        "avatar": "https://avatar.dmzj.com/93/35/93351b02bc32acea43c3908694f38b0a.png"
+      },
+      {
+        "comment_id": 8899868,
+        "uid": 108451852,
+        "content": "金虹。。。。你们还欠我漫画原稿纸呢，多少年了，钱寄过去了，纸没收到。。。。。",
+        "createtime": 1544545901,
+        "nickname": "胡旭插画原创",
+        "avatar": "https://avatar.dmzj.com/6e/9f/6e9f42bfc54465f9baea2cd807a5ae4c.png"
+      }
+    ]
+  }
+}

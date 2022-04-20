@@ -1,0 +1,76 @@
+{
+  "id": 47257,
+  "islong": 2,
+  "direction": 1,
+  "title": "妖怪大学校",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/yaoguai20190128.jpg",
+  "description": "幻想乡开设了一所妖怪大学，受邀而来的恋和心在这里会学到什么有趣的知识呢？",
+  "last_updatetime": 1548662927,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 226963,
+  "hit_num": 11834,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16395,
+      "tag_name": "古河おどろ"
+    }
+  ],
+  "subscribe_num": 1037,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85103,
+          "chapter_title": "2话",
+          "updatetime": 1548662927,
+          "filesize": 2064339,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 85099,
+          "chapter_title": "1话",
+          "updatetime": 1548649231,
+          "filesize": 1540169,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 49,
+    "latest_comment": [
+      {
+        "comment_id": 29423699,
+        "uid": 104582044,
+        "content": "我挂了( ；´Д｀)",
+        "createtime": 1596436189,
+        "nickname": "鸽子酱不想加班",
+        "avatar": "https://avatar.dmzj.com/88/03/8803d7936de9b2c544e188ced857e9e4.png"
+      },
+      {
+        "comment_id": 28239721,
+        "uid": 110251354,
+        "content": "居然是正经的妖怪学科普漫，古河老师太强了\n学到了很多有关妖怪的知识呢～",
+        "createtime": 1592409640,
+        "nickname": "Yumee",
+        "avatar": "https://avatar.dmzj.com/20/27/202783e6f9b13ef115d4c4ccb971b6b0.png"
+      }
+    ]
+  }
+}

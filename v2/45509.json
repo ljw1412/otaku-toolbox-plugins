@@ -1,0 +1,73 @@
+{
+  "id": 45509,
+  "islong": 2,
+  "direction": 1,
+  "title": "幻想时装秀",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/180823hxszx.jpg",
+  "description": "少女换装中",
+  "last_updatetime": 1535030885,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 182135,
+  "hit_num": 36706,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6086,
+      "tag_name": "KFC"
+    },
+    {
+      "tag_id": 15494,
+      "tag_name": "YU"
+    }
+  ],
+  "subscribe_num": 863,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76630,
+          "chapter_title": "1话",
+          "updatetime": 1535030885,
+          "filesize": 4504547,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 35,
+    "latest_comment": [
+      {
+        "comment_id": 25632152,
+        "uid": 105877380,
+        "content": "草，一看这四个我就想到暗黑四天王，结果还真是啊。",
+        "createtime": 1585041958,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      },
+      {
+        "comment_id": 22237923,
+        "uid": 108274850,
+        "content": "黑暗四天王？",
+        "createtime": 1574352719,
+        "nickname": "小兵冲锋",
+        "avatar": "https://avatar.dmzj.com/72/86/728625e10b9d72f14181d1598d1b6435.png"
+      }
+    ]
+  }
+}

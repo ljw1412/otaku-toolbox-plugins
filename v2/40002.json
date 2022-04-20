@@ -1,0 +1,79 @@
+{
+  "id": 40002,
+  "islong": 2,
+  "direction": 2,
+  "title": "这组漫画戳中了无数教练的心声",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1042284291489632546.jpg",
+  "description": "友照原创漫画：这组漫画戳中了无数教练的心声",
+  "last_updatetime": 1489632596,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 1327,
+  "hit_num": 12108,
+  "uid": 104228429,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13004,
+      "tag_name": "友照学车"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 63556,
+          "chapter_title": "1话",
+          "updatetime": 1489632596,
+          "filesize": 390852,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 2207933,
+        "uid": 101438886,
+        "content": "……",
+        "createtime": 1495343324,
+        "nickname": "几妆痕",
+        "avatar": "https://avatar.dmzj.com/94/4b/944b17f374e703f5a5bcb0c71e8c36c6.png"
+      },
+      {
+        "comment_id": 1926705,
+        "uid": 102198902,
+        "content": "这软件也药丸了，什么破玩意儿都上架",
+        "createtime": 1489692533,
+        "nickname": "黑魔导68322",
+        "avatar": "https://avatar.dmzj.com/34/07/34071a5a3b2f15640583a4ff0089256a.png"
+      }
+    ]
+  }
+}

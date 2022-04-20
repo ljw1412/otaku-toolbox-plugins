@@ -1,0 +1,73 @@
+{
+  "id": 39960,
+  "islong": 2,
+  "direction": 1,
+  "title": "CLOVER",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/cloverVjianniang.jpg",
+  "description": "舰娘同人漫画",
+  "last_updatetime": 1489210528,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 50969,
+  "hit_num": 112433,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 1187,
+      "tag_name": "寺本薰"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "subscribe_num": 578,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 63572,
+          "chapter_title": "1话",
+          "updatetime": 1489210528,
+          "filesize": 3378279,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 23074684,
+        "uid": 102548382,
+        "content": "寺本薰 CLOVER",
+        "createtime": 1578191871,
+        "nickname": "失去记忆之前",
+        "avatar": "https://avatar.dmzj.com/50/30/5030da75294fc05f5217e8ac62d53b58.png"
+      },
+      {
+        "comment_id": 4138853,
+        "uid": 100406643,
+        "content": "赞",
+        "createtime": 1521641095,
+        "nickname": "世界第一的公主殿下",
+        "avatar": "https://avatar.dmzj.com/08/db/08db02f8c146a42c69c1da3e9a19c000.png"
+      }
+    ]
+  }
+}

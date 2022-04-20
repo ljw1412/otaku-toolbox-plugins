@@ -1,0 +1,75 @@
+{
+  "id": 47551,
+  "islong": 2,
+  "direction": 1,
+  "title": "Chaussures Rouges",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/190221chaussuresrouges.jpg",
+  "description": "东方同人漫画。",
+  "last_updatetime": 1550729712,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chaussuresrouges",
+  "hidden": 0,
+  "hot_num": 115071,
+  "hit_num": 2572,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86040,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5728,
+      "tag_name": "Kirero"
+    }
+  ],
+  "subscribe_num": 510,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86040,
+          "chapter_title": "1话",
+          "updatetime": 1550729712,
+          "filesize": 1732400,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 28544730,
+        "uid": 107706616,
+        "content": "等等。。。这是rest in piece的作者？d(ŐдŐ๑)",
+        "createtime": 1593446134,
+        "nickname": "蝉藻城",
+        "avatar": "https://avatar.dmzj.com/55/03/5503283f3cd946c5a52bb9dbf09bd4ea.png"
+      },
+      {
+        "comment_id": 13184117,
+        "uid": 105902903,
+        "content": "牙白",
+        "createtime": 1553026457,
+        "nickname": "HaominZ",
+        "avatar": "https://avatar.dmzj.com/68/54/685451274c709aec0a1e9d89aa2a42d3.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

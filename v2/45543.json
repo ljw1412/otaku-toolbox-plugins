@@ -1,0 +1,97 @@
+{
+  "id": 45543,
+  "islong": 2,
+  "direction": 1,
+  "title": "勿忘草",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/wuwangcao0826vbv.jpg",
+  "description": "活着才有希望",
+  "last_updatetime": 1543486596,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 140880,
+  "hit_num": 45199,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15544,
+      "tag_name": "いふじシンセン"
+    }
+  ],
+  "subscribe_num": 706,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78686,
+          "chapter_title": "5话",
+          "updatetime": 1543486596,
+          "filesize": 3813905,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 78685,
+          "chapter_title": "4话",
+          "updatetime": 1543486566,
+          "filesize": 3706047,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 78684,
+          "chapter_title": "3话",
+          "updatetime": 1543486381,
+          "filesize": 2244001,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 78683,
+          "chapter_title": "2话",
+          "updatetime": 1543486260,
+          "filesize": 3219823,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 75430,
+          "chapter_title": "1话",
+          "updatetime": 1535275974,
+          "filesize": 6414568,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 108,
+    "latest_comment": [
+      {
+        "comment_id": 28644641,
+        "uid": 108174779,
+        "content": "欢乐。。。",
+        "createtime": 1593764687,
+        "nickname": "dmzj_108174779",
+        "avatar": "https://avatar.dmzj.com/b7/12/b712f59fa68a66f1901d6e883923eb69.png"
+      },
+      {
+        "comment_id": 23623561,
+        "uid": 107269148,
+        "content": "今天依然是美好的一天",
+        "createtime": 1580367273,
+        "nickname": "松庭霏雪",
+        "avatar": "https://avatar.dmzj.com/11/19/1119971bbf93e631d70e2b4151dbd0b5.png"
+      }
+    ]
+  }
+}

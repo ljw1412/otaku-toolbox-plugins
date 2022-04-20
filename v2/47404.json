@@ -1,0 +1,99 @@
+{
+  "id": 47404,
+  "islong": 2,
+  "direction": 2,
+  "title": "水浒传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1086914821549523651.jpg",
+  "description": "水浒",
+  "last_updatetime": 1569840477,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 38460,
+  "hit_num": 907519,
+  "uid": 108691482,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16483,
+      "tag_name": "神奇大虾"
+    }
+  ],
+  "subscribe_num": 125,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89246,
+          "chapter_title": "8话",
+          "updatetime": 1569840477,
+          "filesize": 4034664,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 89052,
+          "chapter_title": "7话",
+          "updatetime": 1568995401,
+          "filesize": 3432388,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 88670,
+          "chapter_title": "6话",
+          "updatetime": 1568032781,
+          "filesize": 3173961,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 88186,
+          "chapter_title": "5话",
+          "updatetime": 1566720684,
+          "filesize": 3219278,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 81843,
+          "chapter_title": "1话",
+          "updatetime": 1549523796,
+          "filesize": 15320888,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 52,
+    "latest_comment": [
+      {
+        "comment_id": 22581732,
+        "uid": 107426832,
+        "content": "很好",
+        "createtime": 1576159961,
+        "nickname": "强力的同志KV4",
+        "avatar": "https://avatar.dmzj.com/15/13/1513d8684ca53c8313376a6d99622ca0.png"
+      },
+      {
+        "comment_id": 21502993,
+        "uid": 107297465,
+        "content": "画风还是第一次见   意外地可以接受呢     像看黑白电影一样",
+        "createtime": 1571573261,
+        "nickname": "dmzj_107297465",
+        "avatar": "https://avatar.dmzj.com/5a/da/5adaae571e3a64af4a52df4dc72230c6.png"
+      }
+    ]
+  }
+}

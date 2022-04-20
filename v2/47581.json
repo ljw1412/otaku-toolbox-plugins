@@ -1,0 +1,75 @@
+{
+  "id": 47581,
+  "islong": 2,
+  "direction": 1,
+  "title": "哈莉·奎茵25周年特刊",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/halikuiyin25zhounian.jpg",
+  "description": "拉斯维加斯天后、蓝色忧郁、哈莉奎茵与沼泽怪物、鸟类心理学的四个独立小故事。",
+  "last_updatetime": 1550937714,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "halikuiyin25zhouniankekan",
+  "hidden": 0,
+  "hot_num": 140218,
+  "hit_num": 19444,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86118,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 632,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86118,
+          "chapter_title": "1卷",
+          "updatetime": 1550937714,
+          "filesize": 7526460,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 29530020,
+        "uid": 107083332,
+        "content": "哥谭三姐妹太可爱了！！",
+        "createtime": 1596808015,
+        "nickname": "Asena98",
+        "avatar": "https://avatar.dmzj.com/20/39/203929be94bb34219feaed570c964859.png"
+      },
+      {
+        "comment_id": 20075442,
+        "uid": 18597975,
+        "content": "丑爷原来直接叫粉丝团其他人名字。",
+        "createtime": 1567768692,
+        "nickname": "wangyuanyuyu",
+        "avatar": "https://avatar.dmzj.com/65/91/6591ca4c85d6d5b5d038fbf99d675b91.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

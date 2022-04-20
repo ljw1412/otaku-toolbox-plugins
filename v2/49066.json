@@ -1,0 +1,79 @@
+{
+  "id": 49066,
+  "islong": 2,
+  "direction": 1,
+  "title": "梦十夜",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/mengshiye.jpg",
+  "description": "梦十夜",
+  "last_updatetime": 1562260492,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mengshiye",
+  "hidden": 0,
+  "hot_num": 136523,
+  "hit_num": 197,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90031,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 457,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90031,
+          "chapter_title": "1话",
+          "updatetime": 1562260492,
+          "filesize": 380285,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 39,
+    "latest_comment": [
+      {
+        "comment_id": 24915229,
+        "uid": 106043299,
+        "content": "好清淡……",
+        "createtime": 1583419534,
+        "nickname": "KODmzj",
+        "avatar": "https://avatar.dmzj.com/11/32/11321dc013019469a45a7f7ac5078661.png"
+      },
+      {
+        "comment_id": 19127337,
+        "uid": 106501295,
+        "content": "大概这就是隙间吧",
+        "createtime": 1565180564,
+        "nickname": "颦凉",
+        "avatar": "https://avatar.dmzj.com/72/92/7292b9226de514450de8b4b8ffcd79bf.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

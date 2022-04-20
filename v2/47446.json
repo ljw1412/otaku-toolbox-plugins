@@ -1,0 +1,118 @@
+{
+  "id": 47446,
+  "islong": 2,
+  "direction": 1,
+  "title": "命运/冠位指定官方设定集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/190213fgogfsdj.jpg",
+  "description": "Fate/Grand Order(命运/冠位指定）官方设定集",
+  "last_updatetime": 1592276231,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 5468682,
+  "hit_num": 10324270,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 664,
+      "tag_name": "TYPE-MOON"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 24115,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 104980,
+          "chapter_title": "8卷",
+          "updatetime": 1592276231,
+          "filesize": 50907983,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 104730,
+          "chapter_title": "7卷",
+          "updatetime": 1591842130,
+          "filesize": 54192611,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 104684,
+          "chapter_title": "6卷",
+          "updatetime": 1591692303,
+          "filesize": 43644233,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 85774,
+          "chapter_title": "5卷",
+          "updatetime": 1550059814,
+          "filesize": 32936379,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 85773,
+          "chapter_title": "4卷",
+          "updatetime": 1550059710,
+          "filesize": 29846541,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 85772,
+          "chapter_title": "3卷",
+          "updatetime": 1550059600,
+          "filesize": 26759139,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 85771,
+          "chapter_title": "2卷",
+          "updatetime": 1550059511,
+          "filesize": 26948453,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 85770,
+          "chapter_title": "1卷",
+          "updatetime": 1550059407,
+          "filesize": 27159021,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1133,
+    "latest_comment": [
+      {
+        "comment_id": 29942273,
+        "uid": 107660363,
+        "content": "可惜不会日文",
+        "createtime": 1598374172,
+        "nickname": "dmzj_107660363",
+        "avatar": "https://avatar.dmzj.com/8a/82/8a8245dcdac28c5dfaa9b82083b6406e.png"
+      },
+      {
+        "comment_id": 29881728,
+        "uid": 109462277,
+        "content": "FGO设定集",
+        "createtime": 1598168979,
+        "nickname": "云樱夕",
+        "avatar": "https://avatar.dmzj.com/28/84/28847190a5b17214ee9902d3d2ad888f.png"
+      }
+    ]
+  }
+}

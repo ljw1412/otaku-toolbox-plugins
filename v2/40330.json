@@ -1,0 +1,107 @@
+{
+  "id": 40330,
+  "islong": 2,
+  "direction": 2,
+  "title": "天与地",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1042823411493469114.jpg",
+  "description": "一场惊心动魄的西天大冒险！",
+  "last_updatetime": 1495218052,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 209796,
+  "hit_num": 3224796,
+  "uid": 104282341,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13045,
+      "tag_name": "多龙莫"
+    }
+  ],
+  "subscribe_num": 737,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65580,
+          "chapter_title": "5话",
+          "updatetime": 1495218052,
+          "filesize": 1351809,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 65306,
+          "chapter_title": "4话",
+          "updatetime": 1494497378,
+          "filesize": 1982505,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 65277,
+          "chapter_title": "3话",
+          "updatetime": 1494436719,
+          "filesize": 1418665,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 65097,
+          "chapter_title": "2话",
+          "updatetime": 1493803295,
+          "filesize": 1432538,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 65057,
+          "chapter_title": "1话",
+          "updatetime": 1493437156,
+          "filesize": 2562620,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "微博：多龙莫dromo 每周日更新",
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 29496494,
+        "uid": 100805521,
+        "content": "断更了……太可惜了",
+        "createtime": 1596689334,
+        "nickname": "路易52705",
+        "avatar": "https://avatar.dmzj.com/f6/5e/f65e2eee5b865a7289617ec57a6917f5.png"
+      },
+      {
+        "comment_id": 29377014,
+        "uid": 101940837,
+        "content": "明明还不错的......",
+        "createtime": 1596268777,
+        "nickname": "林檎之花",
+        "avatar": "https://avatar.dmzj.com/69/74/69747f8ceb0a26c02a555ac4d4ba75bb.png"
+      }
+    ]
+  }
+}

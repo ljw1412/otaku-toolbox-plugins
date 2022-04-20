@@ -1,0 +1,75 @@
+{
+  "id": 48652,
+  "islong": 2,
+  "direction": 2,
+  "title": "Sabre",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/sabre530.jpg",
+  "description": "公元前15000年，寒冷肆虐，地球处于冰封的地质更换时期。 山顶一道奇异的闪电绽开光芒，一只小剑齿兽就此诞生。 天真烂漫、无拘无束，在身份和存在的找与寻之间，一场冒险游戏就此展开。 独特、大胆、诗意的无字漫画《小剑齿》（Sabre,Dargaud）穿梭于海洋与火山的迷幻与浪漫之间。如《2001太空漫游》般的场景，带我们徜徉于玫瑰色的末世和蔚蓝色的月光之下。",
+  "last_updatetime": 1559185103,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sabre",
+  "hidden": 0,
+  "hot_num": 127603,
+  "hit_num": 20758,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 88787,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17129,
+      "tag_name": "Éric Feres"
+    }
+  ],
+  "subscribe_num": 604,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88787,
+          "chapter_title": "1卷",
+          "updatetime": 1559185103,
+          "filesize": 27219694,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 42,
+    "latest_comment": [
+      {
+        "comment_id": 26898468,
+        "uid": 110092654,
+        "content": "无情",
+        "createtime": 1588001425,
+        "nickname": "dmzj_110092654",
+        "avatar": "https://avatar.dmzj.com/ca/48/ca48fd0c476eebdc5b4aed3aeb72e678.png"
+      },
+      {
+        "comment_id": 19515836,
+        "uid": 108497525,
+        "content": "好好看",
+        "createtime": 1566111103,
+        "nickname": "dmzj_108497525",
+        "avatar": "https://avatar.dmzj.com/ad/dd/addd096cb3372cb479af99a2868a544e.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

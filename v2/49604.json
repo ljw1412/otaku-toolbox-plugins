@@ -1,0 +1,73 @@
+{
+  "id": 49604,
+  "islong": 2,
+  "direction": 1,
+  "title": "无双骑士",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/190809wushuang01.jpg",
+  "description": "在追殺魔法師的時候，誤中陷阱的異世界女騎士來到了現代的日本！",
+  "last_updatetime": 1565625594,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 817852,
+  "hit_num": 141068,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17603,
+      "tag_name": "カガミツキ"
+    }
+  ],
+  "subscribe_num": 3594,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87779,
+          "chapter_title": "1话",
+          "updatetime": 1565625594,
+          "filesize": 3019914,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 178,
+    "latest_comment": [
+      {
+        "comment_id": 29325588,
+        "uid": 108688452,
+        "content": "又是短篇",
+        "createtime": 1596075280,
+        "nickname": "dmzj_108688452",
+        "avatar": "https://avatar.dmzj.com/6a/5c/6a5ca271c5ba2768a769f77491e0b02e.png"
+      },
+      {
+        "comment_id": 27029212,
+        "uid": 108677710,
+        "content": "最近好像多了不少这种短篇",
+        "createtime": 1588397163,
+        "nickname": "文素臣",
+        "avatar": "https://avatar.dmzj.com/35/47/35477a29a555702f4425ff17505df37d.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": 4223,
+  "islong": 2,
+  "direction": 1,
+  "title": "哆啦A梦PLUS",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/dlamplus.jpg",
+  "description": "《哆啦A梦》单行本1～45集中未收录过的作品来啰！为了让大家能好好欣赏大自然原本的样貌，哆啦A梦将会拿出什麽道具来帮助这位善心人士呢？",
+  "last_updatetime": 1426146181,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 1787219,
+  "hit_num": 29213818,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1849,
+      "tag_name": "藤子·F·不二雄"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 8792,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35010,
+          "chapter_title": "6卷",
+          "updatetime": 1426146181,
+          "filesize": 31017333,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 23627,
+          "chapter_title": "5卷",
+          "updatetime": 1377009827,
+          "filesize": 16316727,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 23626,
+          "chapter_title": "4卷",
+          "updatetime": 1377009818,
+          "filesize": 15855063,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 23625,
+          "chapter_title": "3卷",
+          "updatetime": 1377009811,
+          "filesize": 16223136,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 23624,
+          "chapter_title": "2卷",
+          "updatetime": 1377009805,
+          "filesize": 15458349,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9601,
+          "chapter_title": "1卷",
+          "updatetime": 1278905832,
+          "filesize": 19730957,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 229,
+    "latest_comment": [
+      {
+        "comment_id": 29715200,
+        "uid": 105415436,
+        "content": "www",
+        "createtime": 1597553814,
+        "nickname": "绿鲤鱼与驴69837",
+        "avatar": "https://avatar.dmzj.com/c5/dc/c5dc00ed98445ec865428c5590e1484f.png"
+      },
+      {
+        "comment_id": 29474868,
+        "uid": 105891423,
+        "content": "PLUS是什么？我还真没看过",
+        "createtime": 1596609778,
+        "nickname": "Hourglass_5781",
+        "avatar": "https://avatar.dmzj.com/87/34/8734e483f192faa762e607ad061c6768.png"
+      }
+    ]
+  }
+}

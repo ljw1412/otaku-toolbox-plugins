@@ -1,0 +1,79 @@
+{
+  "id": 49239,
+  "islong": 2,
+  "direction": 1,
+  "title": "坠入幸福",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/drxf715.jpg",
+  "description": "灵蕾，任性的蕾米莉亚把灵梦变成了自己一个人的东西。",
+  "last_updatetime": 1563199184,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "duoruxingfutang",
+  "hidden": 0,
+  "hot_num": 137613,
+  "hit_num": 6344,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86880,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5954,
+      "tag_name": "あさつき堂"
+    }
+  ],
+  "subscribe_num": 598,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86880,
+          "chapter_title": "1话",
+          "updatetime": 1563199184,
+          "filesize": 2512054,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 109,
+    "latest_comment": [
+      {
+        "comment_id": 29333825,
+        "uid": 111070568,
+        "content": "d m z j",
+        "createtime": 1596108926,
+        "nickname": "dmzj_111070568",
+        "avatar": "https://avatar.dmzj.com/7d/4e/7d4e1545457d33f29c34839c85ead3f3.png"
+      },
+      {
+        "comment_id": 25895973,
+        "uid": 110680153,
+        "content": "危，这刀有毒",
+        "createtime": 1585657011,
+        "nickname": "dmzj_110680153",
+        "avatar": "https://avatar.dmzj.com/d8/88/d8883e8a3753314ed1ce54e772ab8c4a.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

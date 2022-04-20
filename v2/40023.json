@@ -1,0 +1,100 @@
+{
+  "id": 40023,
+  "islong": 2,
+  "direction": 2,
+  "title": "星宿大冒险",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1042391731491886748.jpg",
+  "description": "二十八星宿大战大魔王",
+  "last_updatetime": 1511174585,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 7052,
+  "hit_num": 71227,
+  "uid": 104239173,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13014,
+      "tag_name": "陈福水"
+    }
+  ],
+  "subscribe_num": 27,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65211,
+          "chapter_title": "4话",
+          "updatetime": 1511174585,
+          "filesize": 1212141,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 61861,
+          "chapter_title": "3话",
+          "updatetime": 1501660229,
+          "filesize": 2153623,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 58706,
+          "chapter_title": "2话",
+          "updatetime": 1491887258,
+          "filesize": 1300163,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 58069,
+          "chapter_title": "1话",
+          "updatetime": 1489824457,
+          "filesize": 790508,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "微博：陈福水RAF 微信公众号：福水映画",
+  "comic_notice": "作者微博：陈福水RAF",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 2625754,
+        "uid": 100729280,
+        "content": "还不错吧",
+        "createtime": 1501684275,
+        "nickname": "一旦译丹",
+        "avatar": "https://avatar.dmzj.com/15/72/1572ba59756f28b1d158c98ece927ffb.png"
+      },
+      {
+        "comment_id": 2624547,
+        "uid": 100856749,
+        "content": "这个脑洞也是没谁了",
+        "createtime": 1501674879,
+        "nickname": "三月的酷哥",
+        "avatar": "https://avatar.dmzj.com/55/80/558056a8cb5ff2815fd4922dc58848c9.png"
+      }
+    ]
+  }
+}

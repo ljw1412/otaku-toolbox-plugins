@@ -1,0 +1,81 @@
+{
+  "id": 47484,
+  "islong": 2,
+  "direction": 2,
+  "title": "妖怪书包",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/190217ygsb.jpg",
+  "description": "有没有想过，如果上学途中，不小心捡到一个书包，而且是个充满魔法的书包，可以让你收服妖怪，将是个什么样的异想世界呢？",
+  "last_updatetime": 1550375634,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 24219,
+  "hit_num": 3038,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3076,
+      "tag_name": "晓君"
+    },
+    {
+      "tag_id": 16513,
+      "tag_name": "维庭"
+    },
+    {
+      "tag_id": 16514,
+      "tag_name": "元凯"
+    }
+  ],
+  "subscribe_num": 99,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82097,
+          "chapter_title": "1卷",
+          "updatetime": 1550375634,
+          "filesize": 14799670,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 11576190,
+        "uid": 100104917,
+        "content": "这东西卖250真的不值",
+        "createtime": 1550417304,
+        "nickname": "创，，，",
+        "avatar": "https://avatar.dmzj.com/85/66/85662e0b91fee630d364ff912aabd266.png"
+      },
+      {
+        "comment_id": 11562620,
+        "uid": 104922544,
+        "content": "想给这玩意加个少儿标签????",
+        "createtime": 1550401745,
+        "nickname": "VaNiHat",
+        "avatar": "https://avatar.dmzj.com/61/97/6197300445dbf8f6b6013d2951791aef.png"
+      }
+    ]
+  }
+}

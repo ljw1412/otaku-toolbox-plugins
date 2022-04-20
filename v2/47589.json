@@ -1,0 +1,75 @@
+{
+  "id": 47589,
+  "islong": 2,
+  "direction": 1,
+  "title": "不协调",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/buxietiao0224.jpg",
+  "description": "魔爱组大好!",
+  "last_updatetime": 1551022162,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "buxietiao",
+  "hidden": 0,
+  "hot_num": 145046,
+  "hit_num": 8269,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 82308,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16132,
+      "tag_name": "みつなら"
+    }
+  ],
+  "subscribe_num": 712,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82308,
+          "chapter_title": "1话",
+          "updatetime": 1551022162,
+          "filesize": 6076608,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 39,
+    "latest_comment": [
+      {
+        "comment_id": 29770135,
+        "uid": 110365412,
+        "content": "删页了诶",
+        "createtime": 1597755912,
+        "nickname": "鸢飞戾天者望峰息心",
+        "avatar": "https://avatar.dmzj.com/77/30/7730f2d0f37d2f111953d1117c80721c.png"
+      },
+      {
+        "comment_id": 29562237,
+        "uid": 108672758,
+        "content": "这不结婚？这不结婚？我TM直接化身神父",
+        "createtime": 1596930274,
+        "nickname": "a1596673286",
+        "avatar": "https://avatar.dmzj.com/85/70/85707e07ad1e2cd98dce809e51c7bac2.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

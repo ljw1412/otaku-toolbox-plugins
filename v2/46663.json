@@ -1,0 +1,73 @@
+{
+  "id": 46663,
+  "islong": 2,
+  "direction": 1,
+  "title": "委员长想确认一下",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/181205weiyuan.jpg",
+  "description": "我有一件事情总是想不明白……",
+  "last_updatetime": 1543997506,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 4037536,
+  "hit_num": 23321,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2106,
+      "tag_name": "敷诚一"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 18564,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78965,
+          "chapter_title": "1话",
+          "updatetime": 1543997506,
+          "filesize": 670273,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 299,
+    "latest_comment": [
+      {
+        "comment_id": 29758388,
+        "uid": 105472682,
+        "content": "赫鲁晓夫同志想确认一下",
+        "createtime": 1597707986,
+        "nickname": "暮光颂歌",
+        "avatar": "https://avatar.dmzj.com/57/16/5716e8d24cfa49522003feb147040854.png"
+      },
+      {
+        "comment_id": 28696995,
+        "uid": 107551514,
+        "content": "两年了。",
+        "createtime": 1593920731,
+        "nickname": "dmzj_107551514",
+        "avatar": "https://avatar.dmzj.com/53/29/53290434cb293dd3f0c45cc9f9af0f54.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 44850,
+  "islong": 2,
+  "direction": 2,
+  "title": "孤塔",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1073704591530840471.jpg",
+  "description": "遥远的大海上有一个孤独的瞭望塔，上面住着精灵，帮助出行的人们，却没有人能看见他.....",
+  "last_updatetime": 1531575281,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 11991,
+  "hit_num": 108132,
+  "uid": 107370459,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15219,
+      "tag_name": "七奎"
+    }
+  ],
+  "subscribe_num": 49,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81047,
+          "chapter_title": "2话",
+          "updatetime": 1531575281,
+          "filesize": 510466,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 79489,
+          "chapter_title": "1话",
+          "updatetime": 1530841063,
+          "filesize": 597110,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 11203597,
+        "uid": 102366778,
+        "content": "hmmmmmmm",
+        "createtime": 1549823665,
+        "nickname": "Be spoiled",
+        "avatar": "https://avatar.dmzj.com/23/78/2378b7676ed0d8dcffe4471782234fae.png"
+      },
+      {
+        "comment_id": 5522227,
+        "uid": 100932375,
+        "content": "哈哈哈",
+        "createtime": 1531153645,
+        "nickname": "中二的欧尼酱",
+        "avatar": "https://avatar.dmzj.com/bf/18/bf18a9373b3d9bedb0473e4d02196f64.png"
+      }
+    ]
+  }
+}

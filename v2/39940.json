@@ -1,0 +1,73 @@
+{
+  "id": 39940,
+  "islong": 2,
+  "direction": 2,
+  "title": "超人与蝙蝠侠：世世代代Ⅱ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/chaorenshishidaidai.jpg",
+  "description": "超人与蝙蝠侠世世代代系列第二部。",
+  "last_updatetime": 1488982113,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 92582,
+  "hit_num": 44252,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 440,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 63513,
+          "chapter_title": "1卷",
+          "updatetime": 1488982113,
+          "filesize": 9190928,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 25385609,
+        "uid": 107728305,
+        "content": "居然还有第二部",
+        "createtime": 1584464467,
+        "nickname": "天生我材2015",
+        "avatar": "https://avatar.dmzj.com/82/89/828963ac0b51747ddd09b6f6871b4382.png"
+      },
+      {
+        "comment_id": 3521079,
+        "uid": 101322668,
+        "content": "古早漫 嘿嘿嘿",
+        "createtime": 1513527448,
+        "nickname": "二次元腐萝莉",
+        "avatar": "https://avatar.dmzj.com/64/60/64603c28ff00ceb1f263c9692df7fcbc.png"
+      }
+    ]
+  }
+}

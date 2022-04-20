@@ -1,0 +1,87 @@
+{
+  "id": 39768,
+  "islong": 2,
+  "direction": 2,
+  "title": "黑骑士",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/heiqshi.jpg",
+  "description": "我名为戴恩惠特曼，不得不说，我从未想到这将是我的生活。在某一天我发现我和一个超级罪犯有联系，和所有的事情……以及他的死，他请求我重振家族遗名，引领我去传承属于我的超级英雄之路，用乌木剑，作为黑骑士。",
+  "last_updatetime": 1494739006,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 43630,
+  "hit_num": 172470,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 360,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59556,
+          "chapter_title": "3卷",
+          "updatetime": 1494739006,
+          "filesize": 3130179,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 58043,
+          "chapter_title": "2卷",
+          "updatetime": 1489892484,
+          "filesize": 3310391,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 57115,
+          "chapter_title": "1卷",
+          "updatetime": 1486825984,
+          "filesize": 3384620,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 41,
+    "latest_comment": [
+      {
+        "comment_id": 23174931,
+        "uid": 100808489,
+        "content": "第4卷成有生之年了吗",
+        "createtime": 1578581436,
+        "nickname": "江水惠泽民",
+        "avatar": "https://avatar.dmzj.com/48/67/4867c08bccba1943cd0c24c9dc7c9a57.png"
+      },
+      {
+        "comment_id": 15021181,
+        "uid": 108475921,
+        "content": "礼明",
+        "createtime": 1556415471,
+        "nickname": "dmzj_108475921",
+        "avatar": "https://avatar.dmzj.com/61/70/61702746908650ae7800e618a98489ec.png"
+      }
+    ]
+  }
+}

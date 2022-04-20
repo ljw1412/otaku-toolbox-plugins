@@ -1,0 +1,93 @@
+{
+  "id": 39825,
+  "islong": 2,
+  "direction": 2,
+  "title": "烦恼的奇伯",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1011204291487502043.jpg",
+  "description": "平淡无奇的生活，奇伯的脑浆里却像一个拳击舞台的战场，每天都是天使与恶魔的斗争",
+  "last_updatetime": 1492807220,
+  "copyright": 1,
+  "first_letter": "f",
+  "hot_num": 23392,
+  "hit_num": 274405,
+  "uid": 101120429,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12912,
+      "tag_name": "奇伯"
+    }
+  ],
+  "subscribe_num": 302,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 64784,
+          "chapter_title": "3话",
+          "updatetime": 1492807220,
+          "filesize": 1360087,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 63894,
+          "chapter_title": "2话",
+          "updatetime": 1490190747,
+          "filesize": 2325001,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 62961,
+          "chapter_title": "1话",
+          "updatetime": 1487502321,
+          "filesize": 1991595,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "不定时更新",
+  "comment": {
+    "comment_count": 38,
+    "latest_comment": [
+      {
+        "comment_id": 24460295,
+        "uid": 109994427,
+        "content": "什么时候更新啊？",
+        "createtime": 1582472730,
+        "nickname": "渐渐贱贱的健健",
+        "avatar": "https://avatar.dmzj.com/ca/ca/cacaffc9acbde42f03457847f87e75a1.png"
+      },
+      {
+        "comment_id": 24337464,
+        "uid": 101160295,
+        "content": "非常有趣的作品",
+        "createtime": 1582179755,
+        "nickname": "偷书贼与腋巫女",
+        "avatar": "https://avatar.dmzj.com/38/08/38087cc8fd82a9092d2af4c4841aa9c9.png"
+      }
+    ]
+  }
+}

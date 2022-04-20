@@ -1,0 +1,75 @@
+{
+  "id": 46409,
+  "islong": 2,
+  "direction": 1,
+  "title": "姬海棠偶像计划",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/ouxiang20181111.jpg",
+  "description": "姬海棠的偶像计划",
+  "last_updatetime": 1541915212,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jihaitangouxiangjihua",
+  "hidden": 0,
+  "hot_num": 126214,
+  "hit_num": 7957,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 79081,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15967,
+      "tag_name": "かむかむ"
+    }
+  ],
+  "subscribe_num": 588,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79081,
+          "chapter_title": "1话",
+          "updatetime": 1541915212,
+          "filesize": 4198800,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 35,
+    "latest_comment": [
+      {
+        "comment_id": 21335201,
+        "uid": 107570802,
+        "content": "没毛病，果果本来就应该出道当偶像嘛（",
+        "createtime": 1571126051,
+        "nickname": "dmzj_107570802",
+        "avatar": "https://avatar.dmzj.com/68/52/68520f053662edef655657b40e409c9d.png"
+      },
+      {
+        "comment_id": 18561388,
+        "uid": 105449188,
+        "content": "好本",
+        "createtime": 1563880199,
+        "nickname": "淡淡的立夏",
+        "avatar": "https://avatar.dmzj.com/65/62/6562bda922fca2388f08be779f64f2b3.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

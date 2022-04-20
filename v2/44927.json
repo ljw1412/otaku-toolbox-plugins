@@ -1,0 +1,77 @@
+{
+  "id": 44927,
+  "islong": 2,
+  "direction": 1,
+  "title": "腹筋俱乐部",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/fujijulebu20180714.jpg",
+  "description": "秘封俱乐部小两口去看电影的故事~",
+  "last_updatetime": 1531563591,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 172903,
+  "hit_num": 6491,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14748,
+      "tag_name": "金成(四方山)"
+    }
+  ],
+  "subscribe_num": 782,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78683,
+          "chapter_title": "1话",
+          "updatetime": 1531563591,
+          "filesize": 2433616,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 28400708,
+        "uid": 109159350,
+        "content": "秘封病患们可都在等着你们登台演出呢~",
+        "createtime": 1592998142,
+        "nickname": "虹依清梦",
+        "avatar": "https://avatar.dmzj.com/10/29/1029af4e16166e2e48e0d301d5865703.png"
+      },
+      {
+        "comment_id": 19696940,
+        "uid": 107015998,
+        "content": "意外发现",
+        "createtime": 1566571767,
+        "nickname": "你不能通过这里",
+        "avatar": "https://avatar.dmzj.com/66/22/66221d11c09531f2992861bae9e273d3.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 42105,
+  "islong": 2,
+  "direction": 1,
+  "title": "欢迎回家少名公主",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/01hyhjsmgz1126.jpg",
+  "description": "正邪与少名针妙丸的故事。",
+  "last_updatetime": 1511627662,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 279361,
+  "hit_num": 91420,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6141,
+      "tag_name": "卯林"
+    },
+    {
+      "tag_id": 7793,
+      "tag_name": "药味さらい"
+    }
+  ],
+  "subscribe_num": 1269,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71547,
+          "chapter_title": "1话",
+          "updatetime": 1511627662,
+          "filesize": 3892836,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 40,
+    "latest_comment": [
+      {
+        "comment_id": 29711455,
+        "uid": 108672758,
+        "content": "这个正邪怎么这么黑啊，谁给我来点一设洗洗脑子",
+        "createtime": 1597530776,
+        "nickname": "a1596673286",
+        "avatar": "https://avatar.dmzj.com/85/70/85707e07ad1e2cd98dce809e51c7bac2.png"
+      },
+      {
+        "comment_id": 29024258,
+        "uid": 106151320,
+        "content": "针妙丸，好可爱",
+        "createtime": 1595003324,
+        "nickname": "幻想乡的女巫",
+        "avatar": "https://avatar.dmzj.com/46/90/4690842d65df261bef3b7dd2270e275c.png"
+      }
+    ]
+  }
+}

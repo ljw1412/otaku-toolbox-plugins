@@ -1,0 +1,87 @@
+{
+  "id": 47155,
+  "islong": 2,
+  "direction": 1,
+  "title": "白露型四格漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/bailuxingsigemanhua20190120.jpg",
+  "description": "白露（时雨）级舰娘们的日常",
+  "last_updatetime": 1548219916,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 219567,
+  "hit_num": 7528,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16340,
+      "tag_name": "SIRA"
+    }
+  ],
+  "subscribe_num": 1058,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85738,
+          "chapter_title": "3话",
+          "updatetime": 1548219916,
+          "filesize": 388528,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 85632,
+          "chapter_title": "2话",
+          "updatetime": 1548040070,
+          "filesize": 332936,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 85626,
+          "chapter_title": "1话",
+          "updatetime": 1548000361,
+          "filesize": 778289,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 32,
+    "latest_comment": [
+      {
+        "comment_id": 26845978,
+        "uid": 106523664,
+        "content": "不要和夕立独处，不然…",
+        "createtime": 1587862164,
+        "nickname": "大槻",
+        "avatar": "https://avatar.dmzj.com/31/79/31799e735a95021562cf99620d447fe0.png"
+      },
+      {
+        "comment_id": 10476499,
+        "uid": 103492683,
+        "content": "出现了 ky怪",
+        "createtime": 1548371395,
+        "nickname": "Верный＜",
+        "avatar": "https://avatar.dmzj.com/54/b6/54b6ee22c2467e4d488fadcb3f391727.png"
+      }
+    ]
+  }
+}

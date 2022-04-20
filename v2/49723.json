@@ -1,0 +1,73 @@
+{
+  "id": 49723,
+  "islong": 2,
+  "direction": 2,
+  "title": "漫威超级英雄大冒险",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/mwyx20190819.jpg",
+  "description": "作为街头超英独行侠，精彩的冒险故事竟无队友可分享！那不是要憋坏我们话唠的友好邻居吗？好在当你用蛛网把罪犯的手脚和嘴全都捆上后，人人都是最好的聆听者。今天小蜘蛛给某抢劫犯讲的便是他帮助黑豹从章鱼博士手里夺回振金的故事。戳开评论中的链接，来看看小虫这次是如何运用聪明才智和科学头脑巧妙化险为夷的吧！",
+  "last_updatetime": 1566220295,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 10844,
+  "hit_num": 966,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 30,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87358,
+          "chapter_title": "1卷",
+          "updatetime": 1566220295,
+          "filesize": 3461722,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 19579758,
+        "uid": 17531881,
+        "content": "这绿巨人长的真是眉清目秀",
+        "createtime": 1566271879,
+        "nickname": "XILIJIA",
+        "avatar": "https://avatar.dmzj.com/74/95/74958e5ccaf4ecf3bd4758e087a52c57.png"
+      },
+      {
+        "comment_id": 19576618,
+        "uid": 107014654,
+        "content": "沙发qwq",
+        "createtime": 1566262859,
+        "nickname": "老七我是击败",
+        "avatar": "https://avatar.dmzj.com/15/13/15136bcea9a6c01b8d30b512d9c24fa3.png"
+      }
+    ]
+  }
+}

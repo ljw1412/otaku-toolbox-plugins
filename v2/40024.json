@@ -1,0 +1,85 @@
+{
+  "id": 40024,
+  "islong": 2,
+  "direction": 2,
+  "title": "恐龙在异世界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1042407701489840927.jpg",
+  "description": "恐龙转生到异世界的故事",
+  "last_updatetime": 1489841040,
+  "last_update_chapter_name": "恐龙在异世界",
+  "copyright": 1,
+  "first_letter": "k",
+  "comic_py": "konglongzaiyisijie",
+  "hidden": 0,
+  "hot_num": 114972,
+  "hit_num": 4412859,
+  "uid": 104240770,
+  "is_lock": 0,
+  "last_update_chapter_id": 59978,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13015,
+      "tag_name": "勤英"
+    }
+  ],
+  "subscribe_num": 455,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59978,
+          "chapter_title": "1话",
+          "updatetime": 1489841040,
+          "filesize": 3433079,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 20221718,
+        "uid": 104279143,
+        "content": "剧本很好",
+        "createtime": 1568206144,
+        "nickname": "草羽剑",
+        "avatar": "https://avatar.dmzj.com/40/94/4094e83a1c7e4aadacab70ec0c8af9c2.png"
+      },
+      {
+        "comment_id": 14746096,
+        "uid": 107985287,
+        "content": "看中了",
+        "createtime": 1555946446,
+        "nickname": "何时有过的时光",
+        "avatar": "https://avatar.dmzj.com/66/18/66184c6c65c9dfedfea880b2a27cae15.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

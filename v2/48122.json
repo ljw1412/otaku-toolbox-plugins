@@ -1,0 +1,73 @@
+{
+  "id": 48122,
+  "islong": 2,
+  "direction": 2,
+  "title": "RWBY免费漫画日(FCBD2018)特刊",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/190414rwbymfmhr2018tk.jpg",
+  "description": "RWBY图像小说前传",
+  "last_updatetime": 1555213555,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 166066,
+  "hit_num": 4082,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1715,
+      "tag_name": "三轮士郎"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 757,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87491,
+          "chapter_title": "1话",
+          "updatetime": 1555213555,
+          "filesize": 2421447,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 25778998,
+        "uid": 108014960,
+        "content": "有没有作者另一个作品DoGs呢？",
+        "createtime": 1585378459,
+        "nickname": "陶伟",
+        "avatar": "https://avatar.dmzj.com/fe/6a/fe6a2b0c5d0c07831fd963654f590270.png"
+      },
+      {
+        "comment_id": 24410243,
+        "uid": 108672443,
+        "content": "纳卡瑞大人注视着世间的一切，纳卡瑞大人也支配着它所注视的一切，伟大注视者啊，吾辈信徒为汝之双眸，愿为汝注视世间。只为了那无尽的升华与永恒。赞美纳卡瑞，赞美拉莱耶。万能的主啊，请赐下汝之明瞳，以助吾辈找寻归家之途。",
+        "createtime": 1582359840,
+        "nickname": "精神病人626号贪婪",
+        "avatar": "https://avatar.dmzj.com/e8/1f/e81f2074f8e5266f745fdd1104cea67d.png"
+      }
+    ]
+  }
+}

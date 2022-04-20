@@ -1,0 +1,75 @@
+{
+  "id": 42283,
+  "islong": 2,
+  "direction": 1,
+  "title": "紫X灵梦Priceless",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/zixlingmengpriceless.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1513128190,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zixlingmengpriceless",
+  "hidden": 0,
+  "hot_num": 108057,
+  "hit_num": 26693,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 65808,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5070,
+      "tag_name": "いよかん"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 470,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65808,
+          "chapter_title": "1话",
+          "updatetime": 1513128190,
+          "filesize": 2716717,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 21408196,
+        "uid": 100527860,
+        "content": "挖",
+        "createtime": 1571313400,
+        "nickname": "落日ロマンス",
+        "avatar": "https://avatar.dmzj.com/77/51/7751232b826c9fd0f34c0181179de8c1.png"
+      },
+      {
+        "comment_id": 19748798,
+        "uid": 107708527,
+        "content": "挖",
+        "createtime": 1566706330,
+        "nickname": "蝶恋花ling",
+        "avatar": "https://avatar.dmzj.com/20/4d/204d6241a643be8d94b7426af63cb7fd.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

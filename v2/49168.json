@@ -1,0 +1,106 @@
+{
+  "id": 49168,
+  "islong": 1,
+  "direction": 2,
+  "title": "我的狗",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1019035751562661838.jpg",
+  "description": "。。",
+  "last_updatetime": 1583134856,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 34776,
+  "hit_num": 54734,
+  "uid": 101903575,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17014,
+      "tag_name": "ygz"
+    }
+  ],
+  "subscribe_num": 120,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94243,
+          "chapter_title": "6话",
+          "updatetime": 1583134856,
+          "filesize": 131704,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 93850,
+          "chapter_title": "5话",
+          "updatetime": 1582290955,
+          "filesize": 108485,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 88905,
+          "chapter_title": "4话",
+          "updatetime": 1570173296,
+          "filesize": 169669,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 88025,
+          "chapter_title": "3话",
+          "updatetime": 1567952422,
+          "filesize": 156522,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 86011,
+          "chapter_title": "2话",
+          "updatetime": 1563176029,
+          "filesize": 108645,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 85887,
+          "chapter_title": "1话",
+          "updatetime": 1562584975,
+          "filesize": 169308,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 58,
+    "latest_comment": [
+      {
+        "comment_id": 24797582,
+        "uid": 108314151,
+        "content": "人。。人工智能？",
+        "createtime": 1583179415,
+        "nickname": "维度空间",
+        "avatar": "https://avatar.dmzj.com/50/82/50820ebfae2c2e0e4cb179751158a4f8.png"
+      },
+      {
+        "comment_id": 24789110,
+        "uid": 106044631,
+        "content": "啊 感觉很有趣的样子",
+        "createtime": 1583166169,
+        "nickname": "电车长",
+        "avatar": "https://avatar.dmzj.com/ba/32/ba3224e692598cc1082636694f5caeb6.png"
+      }
+    ]
+  }
+}

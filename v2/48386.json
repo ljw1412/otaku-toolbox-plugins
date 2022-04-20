@@ -1,0 +1,73 @@
+{
+  "id": 48386,
+  "islong": 2,
+  "direction": 1,
+  "title": "にこまき漫画总集2017-2018",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/xtlsdbh190507.jpg",
+  "description": "脇田老师1718年妮姬合集，甜哭。",
+  "last_updatetime": 1557212059,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 216649,
+  "hit_num": 2473,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16979,
+      "tag_name": "胁田ピヨスケ"
+    }
+  ],
+  "subscribe_num": 1022,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88228,
+          "chapter_title": "1话",
+          "updatetime": 1557212059,
+          "filesize": 1846522,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 60,
+    "latest_comment": [
+      {
+        "comment_id": 29333856,
+        "uid": 111070568,
+        "content": "d m z j",
+        "createtime": 1596108971,
+        "nickname": "dmzj_111070568",
+        "avatar": "https://avatar.dmzj.com/7d/4e/7d4e1545457d33f29c34839c85ead3f3.png"
+      },
+      {
+        "comment_id": 23800756,
+        "uid": 108585804,
+        "content": "留一下",
+        "createtime": 1580879221,
+        "nickname": "dmzj_108585804",
+        "avatar": "https://avatar.dmzj.com/71/6b/716bd9d50ca0c0d889df8b44e2cb1b99.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": 39942,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠：哥谭冒险",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/bianfuxiagetanmaoxian.jpg",
+  "description": "蝙蝠侠系列之哥谭冒险。",
+  "last_updatetime": 1582121031,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 94126,
+  "hit_num": 27177,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 460,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92718,
+          "chapter_title": "60卷",
+          "updatetime": 1569761797,
+          "filesize": 2350254,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 97538,
+          "chapter_title": "48卷",
+          "updatetime": 1582121031,
+          "filesize": 3989125,
+          "chapter_order": 48
+        },
+        {
+          "chapter_id": 76107,
+          "chapter_title": "37卷",
+          "updatetime": 1525140606,
+          "filesize": 3571901,
+          "chapter_order": 37
+        },
+        {
+          "chapter_id": 88663,
+          "chapter_title": "33卷",
+          "updatetime": 1558795344,
+          "filesize": 2716726,
+          "chapter_order": 33
+        },
+        {
+          "chapter_id": 89566,
+          "chapter_title": "26话",
+          "updatetime": 1561039138,
+          "filesize": 2242548,
+          "chapter_order": 26
+        },
+        {
+          "chapter_id": 63339,
+          "chapter_title": "18卷",
+          "updatetime": 1488985208,
+          "filesize": 2085919,
+          "chapter_order": 18
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 27072607,
+        "uid": 107802479,
+        "content": "哪里可以看完整版啊？",
+        "createtime": 1588515075,
+        "nickname": "dmzj_107802479",
+        "avatar": "https://avatar.dmzj.com/03/b1/03b1252bd88152616cb1687ee940f9af.png"
+      },
+      {
+        "comment_id": 26529243,
+        "uid": 110639943,
+        "content": "这封面好可怕呀。",
+        "createtime": 1586998767,
+        "nickname": "webhead",
+        "avatar": "https://avatar.dmzj.com/49/54/495421a5de99c1faca006b820a0049bf.png"
+      }
+    ]
+  }
+}

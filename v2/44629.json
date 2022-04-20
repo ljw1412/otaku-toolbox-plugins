@@ -1,0 +1,78 @@
+{
+  "id": 44629,
+  "islong": 2,
+  "direction": 2,
+  "title": "落雨书店",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1042228441529203024.jpg",
+  "description": "“与你的相遇，也是与书本的相遇。”\n暑假里不得不在书店打工的祁念对一位文学系小哥哥一见倾心，然而只在下雨天光顾的他似乎有什么秘密？",
+  "last_updatetime": 1529489167,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 38516,
+  "hit_num": 338714,
+  "uid": 104222844,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15110,
+      "tag_name": "姜恩媱"
+    }
+  ],
+  "subscribe_num": 172,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74191,
+          "chapter_title": "2话",
+          "updatetime": 1529489167,
+          "filesize": 755958,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 74139,
+          "chapter_title": "1话",
+          "updatetime": 1529203361,
+          "filesize": 1202530,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "欢迎各种意见与建议 ヾ（*´▽‘*）ﾉ   微博：@姜恩媱",
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 13545118,
+        "uid": 107432971,
+        "content": "。",
+        "createtime": 1553991879,
+        "nickname": "唯恐天下不銮",
+        "avatar": "https://avatar.dmzj.com/9b/9a/9b9ac40ce7338c0e4e341851545ae1cb.png"
+      },
+      {
+        "comment_id": 6014944,
+        "uid": 104140222,
+        "content": "小唯美",
+        "createtime": 1533198117,
+        "nickname": "红尘苍茫",
+        "avatar": "https://avatar.dmzj.com/7b/22/7b2268177c6b80687497da895e132f04.png"
+      }
+    ]
+  }
+}

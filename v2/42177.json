@@ -1,0 +1,108 @@
+{
+  "id": 42177,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔法使与众龙的天空阁",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/00mfsyzlzg122.jpg",
+  "description": "超高速战斗物语开幕！",
+  "last_updatetime": 1594733844,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 5857826,
+  "hit_num": 1501684,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1656,
+      "tag_name": "乌丸渡"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 23658,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 104227,
+          "chapter_title": "6话",
+          "updatetime": 1594733844,
+          "filesize": 5861988,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 102131,
+          "chapter_title": "5话",
+          "updatetime": 1590632644,
+          "filesize": 6567951,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 90188,
+          "chapter_title": "4话",
+          "updatetime": 1562854208,
+          "filesize": 4113308,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 83643,
+          "chapter_title": "3话",
+          "updatetime": 1544541142,
+          "filesize": 4339650,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 76904,
+          "chapter_title": "2话",
+          "updatetime": 1527090924,
+          "filesize": 9544857,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 71403,
+          "chapter_title": "1话",
+          "updatetime": 1512146117,
+          "filesize": 5986272,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 435,
+    "latest_comment": [
+      {
+        "comment_id": 30063459,
+        "uid": 101645096,
+        "content": "别真的半年以后更新",
+        "createtime": 1598873588,
+        "nickname": "一会停电",
+        "avatar": "https://avatar.dmzj.com/10/66/10660faa5ae12283d900f89fe784c968.png"
+      },
+      {
+        "comment_id": 30018417,
+        "uid": 111532267,
+        "content": "……入坑打卡",
+        "createtime": 1598679925,
+        "nickname": "雾月霜雪",
+        "avatar": "https://avatar.dmzj.com/10/92/1092f914c3c12b47b32fb8ea37762190.png"
+      }
+    ]
+  }
+}

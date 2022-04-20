@@ -1,0 +1,79 @@
+{
+  "id": 43432,
+  "islong": 2,
+  "direction": 1,
+  "title": "七拉八扯",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/qilabache.jpg",
+  "description": "软软的辉夜公主的日常~",
+  "last_updatetime": 1520760803,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qilabache",
+  "hidden": 0,
+  "hot_num": 105494,
+  "hit_num": 22461,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 74442,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8643,
+      "tag_name": "至る"
+    }
+  ],
+  "subscribe_num": 475,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74442,
+          "chapter_title": "1话",
+          "updatetime": 1520760803,
+          "filesize": 6170398,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 22358007,
+        "uid": 104823241,
+        "content": "日本那边好喜欢让永琳穿奇奇怪怪的cos服啊????",
+        "createtime": 1574897585,
+        "nickname": "多多良小伞世界第一",
+        "avatar": "https://avatar.dmzj.com/67/73/6773d906cefda959aaba21d2714596b8.png"
+      },
+      {
+        "comment_id": 4079478,
+        "uid": 105772012,
+        "content": "可爱的永琳",
+        "createtime": 1520937526,
+        "nickname": "s咲夜",
+        "avatar": "https://avatar.dmzj.com/55/15/55152b0faf814e2967f7b5c777cf3794.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

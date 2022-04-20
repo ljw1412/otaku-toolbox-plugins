@@ -1,0 +1,79 @@
+{
+  "id": 45615,
+  "islong": 2,
+  "direction": 1,
+  "title": "红魔馆的门番",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/180831yyy.jpg",
+  "description": "门番屹立于大地之上",
+  "last_updatetime": 1535712816,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hongmoguandemenfan",
+  "hidden": 0,
+  "hot_num": 111289,
+  "hit_num": 24667,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 81446,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15049,
+      "tag_name": "フウザサ"
+    }
+  ],
+  "subscribe_num": 522,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81446,
+          "chapter_title": "1话",
+          "updatetime": 1535712816,
+          "filesize": 6745965,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 78,
+    "latest_comment": [
+      {
+        "comment_id": 29840004,
+        "uid": 109979682,
+        "content": "智灵奇传里都把美铃迫害成啥样了，再看二设的忠犬美铃，这不更心疼了么。",
+        "createtime": 1598015497,
+        "nickname": "高级堕落",
+        "avatar": "https://avatar.dmzj.com/f1/61/f161945e21d2c0c7e03558728d481817.png"
+      },
+      {
+        "comment_id": 24375173,
+        "uid": 105877380,
+        "content": "全馆死亡可太少见了。",
+        "createtime": 1582270339,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

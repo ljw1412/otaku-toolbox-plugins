@@ -1,0 +1,80 @@
+{
+  "id": 45815,
+  "islong": 2,
+  "direction": 1,
+  "title": "明天再说吧",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/mingtianzaishuoba0921nvbnvn.jpg",
+  "description": "明天再说吧",
+  "last_updatetime": 1537413373,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 4050891,
+  "hit_num": 24235,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15664,
+      "tag_name": "自由人"
+    }
+  ],
+  "subscribe_num": 18362,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82045,
+          "chapter_title": "2话",
+          "updatetime": 1537413373,
+          "filesize": 491083,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 81989,
+          "chapter_title": "1话",
+          "updatetime": 1537330513,
+          "filesize": 178966,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 263,
+    "latest_comment": [
+      {
+        "comment_id": 29436588,
+        "uid": 107223889,
+        "content": "求，真的想看后续！",
+        "createtime": 1596471560,
+        "nickname": "别别别别别别别",
+        "avatar": "https://avatar.dmzj.com/34/47/344716748e8f9f8a047fc3429ad58213.png"
+      },
+      {
+        "comment_id": 29037040,
+        "uid": 108482775,
+        "content": "2020了呜呜，继续画下去吧拜托",
+        "createtime": 1595056408,
+        "nickname": "少女漫过于治愈",
+        "avatar": "https://avatar.dmzj.com/55/71/5571b2aba334c64e731e1b75b05d04f7.png"
+      }
+    ]
+  }
+}

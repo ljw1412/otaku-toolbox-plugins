@@ -1,0 +1,79 @@
+{
+  "id": 41108,
+  "islong": 2,
+  "direction": 2,
+  "title": "世代相承-至强",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/170803generations.jpg",
+  "description": "漫威世代相承系列第一册，讲述两代浩克的《至强》。由于故事承接《秘密帝国》，但秘密帝国本身进度有限，所以我们并不清楚这个所谓“消失点”的底细，只能通过对话得知，阿玛迪斯是在华盛顿特区进行大决战时被传送到了这里。在此他遇到了年轻时代的布鲁斯·班纳，而两位浩克的交流让他终于明白——不论如何抑制，浩克的存在永远都是怪物，永远都是威胁。而这段经历又会对之后的“重返浩克星球”产生怎样的影响，让我们拭目以待……",
+  "last_updatetime": 1501728958,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shidaixiangchengzhiqiang",
+  "hidden": 0,
+  "hot_num": 106051,
+  "hit_num": 135635,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 61881,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 412,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61881,
+          "chapter_title": "1卷",
+          "updatetime": 1501728958,
+          "filesize": 4206393,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 11532583,
+        "uid": 106219754,
+        "content": "M",
+        "createtime": 1550351223,
+        "nickname": "dmzj_106219754",
+        "avatar": "https://avatar.dmzj.com/64/86/648602174bf7de288518fcecc90220ab.png"
+      },
+      {
+        "comment_id": 2829484,
+        "uid": 104451136,
+        "content": "第一",
+        "createtime": 1504002358,
+        "nickname": "黄小川",
+        "avatar": "https://avatar.dmzj.com/75/6b/756bf219fccc9b702ec583cd071892b8.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

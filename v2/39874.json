@@ -1,0 +1,70 @@
+{
+  "id": 39874,
+  "islong": 1,
+  "direction": 2,
+  "title": "Q版狠西游",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1000916551487831939.jpg",
+  "description": "更多精彩请关注狠西遊官网微博微信http://weibo.com/henxiyou",
+  "last_updatetime": 1488528864,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 2281,
+  "hit_num": 12096,
+  "uid": 100091655,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8208,
+      "tag_name": "青青树"
+    }
+  ],
+  "subscribe_num": 22,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59510,
+          "chapter_title": "2话",
+          "updatetime": 1488528864,
+          "filesize": 131443,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 59378,
+          "chapter_title": "1话",
+          "updatetime": 1487832176,
+          "filesize": 246072,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1859542,
+        "uid": 100786580,
+        "content": "啊...续命？",
+        "createtime": 1488192780,
+        "nickname": "海豹突击队",
+        "avatar": "https://avatar.dmzj.com/74/73/74739092b0eaaab09252cc2d1e692605.png"
+      }
+    ]
+  }
+}

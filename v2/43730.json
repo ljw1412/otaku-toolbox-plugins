@@ -1,0 +1,79 @@
+{
+  "id": 43730,
+  "islong": 2,
+  "direction": 1,
+  "title": "赌博默示录·恋",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/dbmsll486l.jpg",
+  "description": "恋恋乱入赌博默示录的故事",
+  "last_updatetime": 1522995661,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dubomoshilulian",
+  "hidden": 0,
+  "hot_num": 896581,
+  "hit_num": 263525,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 76010,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5640,
+      "tag_name": "恶饿鬼"
+    }
+  ],
+  "subscribe_num": 3662,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76010,
+          "chapter_title": "1话",
+          "updatetime": 1522995661,
+          "filesize": 10972114,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 158,
+    "latest_comment": [
+      {
+        "comment_id": 30035282,
+        "uid": 100871227,
+        "content": "太令人羡慕了——吧！",
+        "createtime": 1598737907,
+        "nickname": "黒の剑士",
+        "avatar": "https://avatar.dmzj.com/13/57/135753b86f82c853c8ea590ea72539bf.png"
+      },
+      {
+        "comment_id": 29956121,
+        "uid": 105132905,
+        "content": "阿尔特留斯前来讨伐深渊",
+        "createtime": 1598438189,
+        "nickname": "布饼",
+        "avatar": "https://avatar.dmzj.com/36/33/3633fe1d8914a7932b272833f800a6a6.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,73 @@
+{
+  "id": 40834,
+  "islong": 2,
+  "direction": 1,
+  "title": "MIKA,arrived in the Schoolship of Anzio",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/mika4618562684769l.jpg",
+  "description": "芬兰琴魔漂流记",
+  "last_updatetime": 1499235146,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 181259,
+  "hit_num": 63237,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 3326,
+      "tag_name": "音乐舞蹈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13429,
+      "tag_name": "反骨MAX"
+    }
+  ],
+  "subscribe_num": 884,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 62871,
+          "chapter_title": "1话",
+          "updatetime": 1499235146,
+          "filesize": 3614829,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 25181056,
+        "uid": 109565249,
+        "content": "考古",
+        "createtime": 1584017104,
+        "nickname": "国王军司令",
+        "avatar": "https://avatar.dmzj.com/a3/ec/a3ecbf5e107418c4c5e28adfb7243268.png"
+      },
+      {
+        "comment_id": 9745075,
+        "uid": 106018564,
+        "content": "芬兰琴魔顺食记",
+        "createtime": 1546746821,
+        "nickname": "雾岛蔡蔡子",
+        "avatar": "https://avatar.dmzj.com/73/73/7373a2b01117eed8beafcf17449a983d.png"
+      }
+    ]
+  }
+}

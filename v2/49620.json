@@ -1,0 +1,85 @@
+{
+  "id": 49620,
+  "islong": 2,
+  "direction": 2,
+  "title": "若友花开渐变爱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1095917421565603433.jpg",
+  "description": "000A",
+  "last_updatetime": 1565603741,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "r",
+  "comic_py": "ruoyouhuakaijianbianai",
+  "hidden": 0,
+  "hot_num": 11678,
+  "hit_num": 3844,
+  "uid": 109591742,
+  "is_lock": 0,
+  "last_update_chapter_id": 92209,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17615,
+      "tag_name": "花泽间"
+    }
+  ],
+  "subscribe_num": 161,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92209,
+          "chapter_title": "1话",
+          "updatetime": 1565603741,
+          "filesize": 209062,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 21726900,
+        "uid": 109007975,
+        "content": "观望一下",
+        "createtime": 1572261321,
+        "nickname": "素质教育漏网之鱼",
+        "avatar": "https://avatar.dmzj.com/96/39/96393de185c8aec817feaf60777f00e8.png"
+      },
+      {
+        "comment_id": 21088020,
+        "uid": 58854,
+        "content": "我不道啊",
+        "createtime": 1570541664,
+        "nickname": "(๑❛ᴗ❛๑)",
+        "avatar": "https://avatar.dmzj.com/64/30/64302fbc4bce2b369167ba30d282af1a.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,75 @@
+{
+  "id": 42088,
+  "islong": 2,
+  "direction": 1,
+  "title": "惊悚学园",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1041807111511344666.jpg",
+  "description": "惊悚学园，荒诞怪奇，魔幻怪诞，多个时空的人物互相影响。",
+  "last_updatetime": 1511344734,
+  "copyright": 1,
+  "first_letter": "j",
+  "hot_num": 2543,
+  "hit_num": 14151,
+  "uid": 104180711,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12965,
+      "tag_name": "雪落"
+    }
+  ],
+  "subscribe_num": 6,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65208,
+          "chapter_title": "1话",
+          "updatetime": 1511344734,
+          "filesize": 616259,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 3493387,
+        "uid": 101000295,
+        "content": "什么鬼",
+        "createtime": 1513149953,
+        "nickname": "你失散多年的父亲88657",
+        "avatar": "https://avatar.dmzj.com/af/ed/afed788a417411e835d2f84fbb97e49f.png"
+      },
+      {
+        "comment_id": 3383907,
+        "uid": 101008867,
+        "content": "一个人都没有。。。。。",
+        "createtime": 1511780071,
+        "nickname": "舞乐夜螟",
+        "avatar": "https://avatar.dmzj.com/51/38/5138e5aca37e829dfeb0e029a4caaf3b.png"
+      }
+    ]
+  }
+}

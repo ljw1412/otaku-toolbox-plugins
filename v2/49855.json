@@ -1,0 +1,87 @@
+{
+  "id": 49855,
+  "islong": 2,
+  "direction": 1,
+  "title": "放学后病例",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/fangxuehoubingli0826.jpg",
+  "description": "新来的保健老师牧野，在课后保健室发生的温馨故事",
+  "last_updatetime": 1573220528,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 716429,
+  "hit_num": 115793,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17713,
+      "tag_name": "日生真悠"
+    }
+  ],
+  "subscribe_num": 3317,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94873,
+          "chapter_title": "3话",
+          "updatetime": 1573220528,
+          "filesize": 4259295,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 94424,
+          "chapter_title": "2话",
+          "updatetime": 1571998448,
+          "filesize": 5415170,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 92597,
+          "chapter_title": "1话",
+          "updatetime": 1566835282,
+          "filesize": 3848115,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 80,
+    "latest_comment": [
+      {
+        "comment_id": 28961777,
+        "uid": 103480509,
+        "content": "挺温馨的",
+        "createtime": 1594798827,
+        "nickname": "转瞬即逝85679",
+        "avatar": "https://avatar.dmzj.com/54/07/54074e2c6655c13ac37bc7e54f8b3f28.png"
+      },
+      {
+        "comment_id": 22499711,
+        "uid": 106133535,
+        "content": "感觉挺难说的这个事",
+        "createtime": 1575699763,
+        "nickname": "铭之棱角",
+        "avatar": "https://avatar.dmzj.com/48/31/48317e0b763844532313f778fb5f9572.png"
+      }
+    ]
+  }
+}

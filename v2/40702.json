@@ -1,0 +1,116 @@
+{
+  "id": 40702,
+  "islong": 1,
+  "direction": 2,
+  "title": "骑行篇——骑行路上的那些事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1043943911498034216.jpg",
+  "description": "骑行的过程当中我们需要做好哪方面的工作，需要堤防哪方面的问题呢？",
+  "last_updatetime": 1498035487,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 2177,
+  "hit_num": 6297,
+  "uid": 104394391,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13188,
+      "tag_name": "西野君"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66219,
+          "chapter_title": "8话",
+          "updatetime": 1498035487,
+          "filesize": 165184,
+          "chapter_order": 9
+        },
+        {
+          "chapter_id": 66218,
+          "chapter_title": "7话",
+          "updatetime": 1498035438,
+          "filesize": 179898,
+          "chapter_order": 8
+        },
+        {
+          "chapter_id": 66217,
+          "chapter_title": "6话",
+          "updatetime": 1498035388,
+          "filesize": 178962,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 66216,
+          "chapter_title": "5话",
+          "updatetime": 1498035297,
+          "filesize": 156764,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 66215,
+          "chapter_title": "4话",
+          "updatetime": 1498035214,
+          "filesize": 161790,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 66214,
+          "chapter_title": "3话",
+          "updatetime": 1498035166,
+          "filesize": 162226,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 66213,
+          "chapter_title": "2话",
+          "updatetime": 1498035089,
+          "filesize": 169168,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 66212,
+          "chapter_title": "1话",
+          "updatetime": 1498034419,
+          "filesize": 163143,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 2353320,
+        "uid": 103528515,
+        "content": "看起来不错啊",
+        "createtime": 1498042181,
+        "nickname": "苍白的存活",
+        "avatar": "https://avatar.dmzj.com/93/14/931452dd97eeaf8038b5f0e92b092494.png"
+      }
+    ]
+  }
+}

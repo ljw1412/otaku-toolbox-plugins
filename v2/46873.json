@@ -1,0 +1,82 @@
+{
+  "id": 46873,
+  "islong": 1,
+  "direction": 2,
+  "title": "反光短篇集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1005269701545566741.jpg",
+  "description": "主人公在人生的海面上航行，却误入了一片危险的海域。",
+  "last_updatetime": 1545744420,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 28622,
+  "hit_num": 517491,
+  "uid": 100526970,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14403,
+      "tag_name": "安徒生反光"
+    }
+  ],
+  "subscribe_num": 122,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79700,
+          "chapter_title": "2话",
+          "updatetime": 1545744420,
+          "filesize": 519166,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 79582,
+          "chapter_title": "1话",
+          "updatetime": 1545568104,
+          "filesize": 1843645,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "本篇想用这个故事隐喻校园欺凌现象，但将背景换位职场等等也都可行，算是一份隐喻生活的漫画。",
+  "comment": {
+    "comment_count": 45,
+    "latest_comment": [
+      {
+        "comment_id": 29367178,
+        "uid": 102059513,
+        "content": "要自信/度假",
+        "createtime": 1596216440,
+        "nickname": "柃木冷月のぃぃセィかぃ",
+        "avatar": "https://avatar.dmzj.com/90/21/90219dbf97f2f888fb0a7072e5b19862.png"
+      },
+      {
+        "comment_id": 27164056,
+        "uid": 106342862,
+        "content": "画得这么烂，基础又不好，心态还不正，干脆别画了吧？影响市场，别人看到还以为这么低水平都能上呢？你让十几岁的读者怎么看待?丢人!",
+        "createtime": 1588783083,
+        "nickname": "dmzj_106342862",
+        "avatar": "https://avatar.dmzj.com/13/29/1329f700cb33e57c36ede0a0aa4cdb8b.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 44684,
+  "islong": 2,
+  "direction": 1,
+  "title": "爱丽丝与小小的神明",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/001ailisiyuxiaoxiaosm624.jpg",
+  "description": "爱丽丝与人偶和针妙丸的温馨故事，那么爱丽丝是要向谁道谢呢~",
+  "last_updatetime": 1529841568,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "ailisiyuxiaoxiaodeshenming",
+  "hidden": 0,
+  "hot_num": 143598,
+  "hit_num": 5322,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 74297,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6177,
+      "tag_name": "アトキンソン"
+    }
+  ],
+  "subscribe_num": 657,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74297,
+          "chapter_title": "1话",
+          "updatetime": 1529841568,
+          "filesize": 1961532,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 18505696,
+        "uid": 104967075,
+        "content": "人过留名",
+        "createtime": 1563768086,
+        "nickname": "小豆糕",
+        "avatar": "https://avatar.dmzj.com/62/53/62534a827eeeb5e84ab6c27c26292217.png"
+      },
+      {
+        "comment_id": 13231180,
+        "uid": 108403252,
+        "content": "好温馨的故事",
+        "createtime": 1553257497,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

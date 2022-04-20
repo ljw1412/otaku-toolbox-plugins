@@ -1,0 +1,69 @@
+{
+  "id": 42480,
+  "islong": 2,
+  "direction": 1,
+  "title": "夜雀与山彦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/yqysy156486l.jpg",
+  "description": "夜雀与山彦的故事。",
+  "last_updatetime": 1514511820,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 75155,
+  "hit_num": 38793,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14169,
+      "tag_name": "なまうに"
+    }
+  ],
+  "subscribe_num": 336,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72491,
+          "chapter_title": "1话",
+          "updatetime": 1514511820,
+          "filesize": 8904767,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 40,
+    "latest_comment": [
+      {
+        "comment_id": 28061583,
+        "uid": 108283371,
+        "content": "是夜雀，wsl",
+        "createtime": 1591782643,
+        "nickname": "37XX",
+        "avatar": "https://avatar.dmzj.com/14/77/147728013ee08314a4e6c0e27b5c0240.png"
+      },
+      {
+        "comment_id": 25586156,
+        "uid": 107672210,
+        "content": "沙姐，不要啦()",
+        "createtime": 1584935838,
+        "nickname": "承太郎必秒Dio",
+        "avatar": "https://avatar.dmzj.com/61/72/617257e10349aaa2cd6206ee575e0540.png"
+      }
+    ]
+  }
+}

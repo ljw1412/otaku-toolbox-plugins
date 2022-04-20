@@ -1,0 +1,81 @@
+{
+  "id": 41105,
+  "islong": 2,
+  "direction": 1,
+  "title": "小轻音",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/xiaqingy0in.jpg",
+  "description": "轻音同人作品",
+  "last_updatetime": 1501682486,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 197458,
+  "hit_num": 84681,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3326,
+      "tag_name": "音乐舞蹈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 268,
+      "tag_name": "藤枝雅（あとりえ雅）"
+    },
+    {
+      "tag_id": 1809,
+      "tag_name": "源久也"
+    },
+    {
+      "tag_id": 4572,
+      "tag_name": "珠月まや"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 901,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67937,
+          "chapter_title": "1话",
+          "updatetime": 1501682487,
+          "filesize": 3492248,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 28582729,
+        "uid": 106226058,
+        "content": "等会儿，最后结局到底是什么黑深残的剧情啊？",
+        "createtime": 1593578917,
+        "nickname": "夏死人",
+        "avatar": "https://avatar.dmzj.com/ed/4f/ed4fed539544551b22ae04cc1be6755d.png"
+      },
+      {
+        "comment_id": 27831100,
+        "uid": 107200401,
+        "content": "emmm，人好少",
+        "createtime": 1590910483,
+        "nickname": "dmzj_107200401",
+        "avatar": "https://avatar.dmzj.com/65/27/65274f6565b59ae12d4f9b37f1def48b.png"
+      }
+    ]
+  }
+}

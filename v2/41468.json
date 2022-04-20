@@ -1,0 +1,97 @@
+{
+  "id": 41468,
+  "islong": 2,
+  "direction": 1,
+  "title": "新世纪超级英雄",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/xingshijichaojiyingxiongqxsfengmianl.jpg",
+  "description": "崭新的超级英雄传说，就由一场英雄大乱斗（？）话剧开始",
+  "last_updatetime": 1517101232,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 114580,
+  "hit_num": 582757,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 6316,
+      "tag_name": "轻小说"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13740,
+      "tag_name": "奇梵"
+    }
+  ],
+  "subscribe_num": 477,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67386,
+          "chapter_title": "5卷",
+          "updatetime": 1517101232,
+          "filesize": 64073510,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 66410,
+          "chapter_title": "4卷",
+          "updatetime": 1514857938,
+          "filesize": 38508055,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 65191,
+          "chapter_title": "3话",
+          "updatetime": 1511501565,
+          "filesize": 31501234,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 63985,
+          "chapter_title": "2卷",
+          "updatetime": 1508030356,
+          "filesize": 29976979,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 63050,
+          "chapter_title": "1卷",
+          "updatetime": 1505025722,
+          "filesize": 32636751,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 34,
+    "latest_comment": [
+      {
+        "comment_id": 4533743,
+        "uid": 102575140,
+        "content": "真，轻小说",
+        "createtime": 1525074016,
+        "nickname": "陈家二少",
+        "avatar": "https://avatar.dmzj.com/16/91/169149b1d7627f0fe29bd3b395e834ab.png"
+      },
+      {
+        "comment_id": 3611896,
+        "uid": 104335820,
+        "content": "投错区了",
+        "createtime": 1514867116,
+        "nickname": "咲saki衣",
+        "avatar": "https://avatar.dmzj.com/40/0d/400d2e1fd87bf759ba043669b89ddd80.png"
+      }
+    ]
+  }
+}

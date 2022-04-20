@@ -1,0 +1,75 @@
+{
+  "id": 44470,
+  "islong": 2,
+  "direction": 1,
+  "title": "难眠之夜",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/nm0605l.jpg",
+  "description": "东方同人",
+  "last_updatetime": 1528212948,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "nanmianzhiye",
+  "hidden": 0,
+  "hot_num": 136816,
+  "hit_num": 168831,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 78233,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15036,
+      "tag_name": "TAKUMI"
+    }
+  ],
+  "subscribe_num": 606,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78233,
+          "chapter_title": "1话",
+          "updatetime": 1528212948,
+          "filesize": 22396935,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 145,
+    "latest_comment": [
+      {
+        "comment_id": 29960752,
+        "uid": 106168991,
+        "content": "dmzj甚至能看油库里",
+        "createtime": 1598451819,
+        "nickname": "skyksxd",
+        "avatar": "https://avatar.dmzj.com/d4/4f/d44f162461309dc2af3c84482857ecd4.png"
+      },
+      {
+        "comment_id": 27608392,
+        "uid": 105962066,
+        "content": "家油必须死！",
+        "createtime": 1590202691,
+        "nickname": "P社玩家",
+        "avatar": "https://avatar.dmzj.com/3f/3d/3f3d8bcc80cb8fd4d2ac8651e3d9c47c.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

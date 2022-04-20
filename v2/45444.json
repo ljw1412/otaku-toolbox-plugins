@@ -1,0 +1,101 @@
+{
+  "id": 45444,
+  "islong": 2,
+  "direction": 1,
+  "title": "勇者企划ENDRO～！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/yongzheqihua0818.jpg",
+  "description": "四位萌妹子的奇幻冒险",
+  "last_updatetime": 1565511603,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 2088721,
+  "hit_num": 129098,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4177,
+      "tag_name": "いづみみなみ"
+    }
+  ],
+  "subscribe_num": 9067,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87729,
+          "chapter_title": "5话",
+          "updatetime": 1565511603,
+          "filesize": 1304114,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 87593,
+          "chapter_title": "4话",
+          "updatetime": 1565140766,
+          "filesize": 1764727,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 86677,
+          "chapter_title": "3话",
+          "updatetime": 1562656108,
+          "filesize": 2155136,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 80184,
+          "chapter_title": "2话",
+          "updatetime": 1544773288,
+          "filesize": 2428097,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 76410,
+          "chapter_title": "1话",
+          "updatetime": 1534606362,
+          "filesize": 2732249,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 327,
+    "latest_comment": [
+      {
+        "comment_id": 29736846,
+        "uid": 109354641,
+        "content": "好可爱！爷爱了",
+        "createtime": 1597635886,
+        "nickname": "兮若兰木花",
+        "avatar": "https://avatar.dmzj.com/d4/86/d486100ce0ffb2e59bb334e3f8bf9b81.png"
+      },
+      {
+        "comment_id": 29565550,
+        "uid": 107956758,
+        "content": "看封面还以为是摇曳",
+        "createtime": 1596947579,
+        "nickname": "KirisameEbi",
+        "avatar": "https://avatar.dmzj.com/fb/57/fb5747ea0ce6dd4b14dde0c53792cea6.png"
+      }
+    ]
+  }
+}

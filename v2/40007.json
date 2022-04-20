@@ -1,0 +1,79 @@
+{
+  "id": 40007,
+  "islong": 1,
+  "direction": 2,
+  "title": "小坏漫画——相亲记1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1042177361489657490.jpg",
+  "description": "亲身经历",
+  "last_updatetime": 1489657582,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 1341,
+  "hit_num": 4893,
+  "uid": 104217736,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12989,
+      "tag_name": "郝小坏"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 63582,
+          "chapter_title": "1话",
+          "updatetime": 1489657582,
+          "filesize": 216154,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 2051660,
+        "uid": 104217736,
+        "content": "画的好不好不要紧，重要的是想表达的情感",
+        "createtime": 1492216687,
+        "nickname": "郝小坏",
+        "avatar": "https://avatar.dmzj.com/80/69/8069a086e358d5cce791deab654c36ad.png"
+      },
+      {
+        "comment_id": 1953601,
+        "uid": 104217736,
+        "content": "我不是专业的插画师，也不是专业的漫画师，我就是一个爱画的人，即使画风太过于不羁，我也不会放弃我的爱好",
+        "createtime": 1490257531,
+        "nickname": "郝小坏",
+        "avatar": "https://avatar.dmzj.com/80/69/8069a086e358d5cce791deab654c36ad.png"
+      }
+    ]
+  }
+}

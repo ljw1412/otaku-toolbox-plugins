@@ -1,0 +1,79 @@
+{
+  "id": 45091,
+  "islong": 2,
+  "direction": 1,
+  "title": "梅莉的蛋",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/180727mldd.jpg",
+  "description": "梅莉孵化蛋的故事，从蛋里孵出来的究竟是谁呢",
+  "last_updatetime": 1532684666,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "meilidedan",
+  "hidden": 0,
+  "hot_num": 121723,
+  "hit_num": 16291,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 78828,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14517,
+      "tag_name": "朱衣子"
+    }
+  ],
+  "subscribe_num": 535,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78828,
+          "chapter_title": "1话",
+          "updatetime": 1532684666,
+          "filesize": 3804179,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 41,
+    "latest_comment": [
+      {
+        "comment_id": 28905233,
+        "uid": 109159350,
+        "content": "紫的母親自然就是紫媽嘛~",
+        "createtime": 1594610811,
+        "nickname": "虹依清梦",
+        "avatar": "https://avatar.dmzj.com/10/29/1029af4e16166e2e48e0d301d5865703.png"
+      },
+      {
+        "comment_id": 7975209,
+        "uid": 102404986,
+        "content": "众所周知文文是卵生的",
+        "createtime": 1541684674,
+        "nickname": "白石溪蚀骨相思风侵寒i",
+        "avatar": "https://avatar.dmzj.com/78/70/787062fbb938f74f36fb694526f3cbf8.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

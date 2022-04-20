@@ -1,0 +1,75 @@
+{
+  "id": 49706,
+  "islong": 2,
+  "direction": 1,
+  "title": "美少女梦工厂-教养全书",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/msnmgc20190819.jpg",
+  "description": "知名游戏美少女梦工厂的有关资料集",
+  "last_updatetime": 1566180622,
+  "last_update_chapter_name": "全一册",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "meishaonvmenggongcjiaoyangquanshu",
+  "hidden": 0,
+  "hot_num": 12887,
+  "hit_num": 4415,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91887,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17654,
+      "tag_name": "NINELIVES"
+    }
+  ],
+  "subscribe_num": 490,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91887,
+          "chapter_title": "1卷",
+          "updatetime": 1566180622,
+          "filesize": 5704300,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 46,
+    "latest_comment": [
+      {
+        "comment_id": 29960411,
+        "uid": 101626453,
+        "content": "这辈子玩的第一个GALGAME是真实之泪，第一个SLG就是美少女梦工厂4",
+        "createtime": 1598451074,
+        "nickname": "minimum小小的奇迹",
+        "avatar": "https://avatar.dmzj.com/6b/b6/6bb6952bbbeff0297affd29e5991e785.png"
+      },
+      {
+        "comment_id": 23302876,
+        "uid": 101827777,
+        "content": "嗯咳",
+        "createtime": 1579102111,
+        "nickname": "RE刃下心",
+        "avatar": "https://avatar.dmzj.com/3f/1a/3f1af6d006456264bdf02dafb385495f.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

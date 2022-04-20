@@ -1,0 +1,75 @@
+{
+  "id": 41059,
+  "islong": 2,
+  "direction": 1,
+  "title": "海贼王20周年杂志OPMagazine",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/haizeiwangzazhi.jpg",
+  "description": "超丰富厚道内容包括：尾田长篇访谈，艾斯小说第1章、草帽9人专题、OP粉一天漫画、ASL超萌绘本、果实大全、OP内涵挖掘、助手眼中的尾田漫画、未公开尾田原稿设定、路人眼中的草帽一伙小说、历代责编眼中的尾田，等等。",
+  "last_updatetime": 1501170389,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "haizeiwang20zhounianzazhiopmagazine",
+  "hidden": 0,
+  "hot_num": 501713,
+  "hit_num": 444157,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 63614,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 667,
+      "tag_name": "尾田荣一郎"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 2272,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 63614,
+          "chapter_title": "1卷",
+          "updatetime": 1501170389,
+          "filesize": 13801528,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 86,
+    "latest_comment": [
+      {
+        "comment_id": 29810055,
+        "uid": 105657508,
+        "content": "唐鳄贴贴！！！",
+        "createtime": 1597905379,
+        "nickname": "虓虤藥",
+        "avatar": "https://avatar.dmzj.com/78/09/7809810c98e32a45fe37e3f109f9a7af.png"
+      },
+      {
+        "comment_id": 28348310,
+        "uid": 108140611,
+        "content": "贴吧可以看OPmagazine，有人搬运过",
+        "createtime": 1592806935,
+        "nickname": "dmzj_108140611",
+        "avatar": "https://avatar.dmzj.com/3f/94/3f94222104646b1ae76b7d77b9acb46b.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,86 @@
+{
+  "id": 40832,
+  "islong": 2,
+  "direction": 2,
+  "title": "恶魔巢穴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1047652081499177898.jpg",
+  "description": "草稿初始版",
+  "last_updatetime": 1499178183,
+  "copyright": 1,
+  "first_letter": "e",
+  "hot_num": 12470,
+  "hit_num": 228569,
+  "uid": 104765208,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13428,
+      "tag_name": "黑螳·22"
+    }
+  ],
+  "subscribe_num": 33,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66725,
+          "chapter_title": "2话",
+          "updatetime": 1499178183,
+          "filesize": 1300074,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 66724,
+          "chapter_title": "1话",
+          "updatetime": 1499178129,
+          "filesize": 1261929,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 2554245,
+        "uid": 104765208,
+        "content": "这是草稿，仔细看简介",
+        "createtime": 1500875009,
+        "nickname": "Storm22131",
+        "avatar": "https://avatar.dmzj.com/64/12/6412782fd14440a5dd8145ad2c65561e.png"
+      },
+      {
+        "comment_id": 2553046,
+        "uid": 104469539,
+        "content": "这种作品没必要发表！",
+        "createtime": 1500864384,
+        "nickname": "         -95264",
+        "avatar": "https://avatar.dmzj.com/33/4d/334d1c427b19886824f01cea00ec7b16.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": 41825,
+  "islong": 2,
+  "direction": 1,
+  "title": "名侦探吕布",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/mztlb1654l.jpg",
+  "description": "最大的谜团就是我自己啦！智力1、武力100！史上最强侦探飒爽登场！！",
+  "last_updatetime": 1540172458,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 5077795,
+  "hit_num": 968950,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13869,
+      "tag_name": "长泽克泰うどん"
+    }
+  ],
+  "subscribe_num": 19998,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82983,
+          "chapter_title": "3话",
+          "updatetime": 1540172458,
+          "filesize": 2179428,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 82758,
+          "chapter_title": "番外篇: 三国志大战",
+          "updatetime": 1539405600,
+          "filesize": 2281014,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 82625,
+          "chapter_title": "2话",
+          "updatetime": 1542418608,
+          "filesize": 2533369,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 70322,
+          "chapter_title": "1话",
+          "updatetime": 1508292427,
+          "filesize": 3629518,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1300,
+    "latest_comment": [
+      {
+        "comment_id": 30033128,
+        "uid": 101391071,
+        "content": "这就是武斗派吗……",
+        "createtime": 1598724702,
+        "nickname": "明夜孤灯",
+        "avatar": "https://avatar.dmzj.com/56/39/563952136c86c183213b1c7805d9d740.png"
+      },
+      {
+        "comment_id": 29821858,
+        "uid": 101663228,
+        "content": "真的大爆笑",
+        "createtime": 1597939564,
+        "nickname": "人类使用了十进制",
+        "avatar": "https://avatar.dmzj.com/03/4b/034b0dc6d0795bccf286a4c1daa9a153.png"
+      }
+    ]
+  }
+}

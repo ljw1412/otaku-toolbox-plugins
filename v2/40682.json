@@ -1,0 +1,77 @@
+{
+  "id": 40682,
+  "islong": 2,
+  "direction": 2,
+  "title": "神奇女侠：史蒂夫·特雷弗",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/shidifurekan.JPG",
+  "description": "神奇女侠：史蒂夫·特雷弗的特刊。",
+  "last_updatetime": 1497715901,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 67093,
+  "hit_num": 72716,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 251,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66124,
+          "chapter_title": "1卷",
+          "updatetime": 1497715901,
+          "filesize": 4259105,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 2341790,
+        "uid": 102080868,
+        "content": "唉看了电影后好喜欢这对啊www",
+        "createtime": 1497831960,
+        "nickname": "诶诶-",
+        "avatar": "https://avatar.dmzj.com/e6/f7/e6f74f8ec9d893f3050a414bcb048af1.png"
+      },
+      {
+        "comment_id": 2340082,
+        "uid": 3537890,
+        "content": "想问评论里刷大号皮皮虾是什么梗。。",
+        "createtime": 1497793851,
+        "nickname": "糊最牛逼的春泥",
+        "avatar": "https://avatar.dmzj.com/22/87/2287f83ba2e39b824b865aae52a8a2dc.png"
+      }
+    ]
+  }
+}

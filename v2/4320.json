@@ -1,0 +1,77 @@
+{
+  "id": 4320,
+  "islong": 2,
+  "direction": 1,
+  "title": "歌舞伎王子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/5dcomic-001_f62dcaa5be7141e51cf45a0f0ede327c.jpg",
+  "description": "恋人是讨厌与人相处的歌舞伎演员,跟着来吧,有只黑猫会为您带路。名演员已经齐聚舞台,恋爱的戏码就要上演了",
+  "last_updatetime": 1278814625,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 140396,
+  "hit_num": 1319777,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2349,
+      "tag_name": "樱小路鹿乃子"
+    }
+  ],
+  "subscribe_num": 874,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10558,
+          "chapter_title": "1卷",
+          "updatetime": 1279419425,
+          "filesize": 7770090,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 28589937,
+        "uid": 110285205,
+        "content": "啊所以为什么在伦敦公演他就没演好啊？最后感觉有点乱",
+        "createtime": 1593607698,
+        "nickname": "毛茸茸本茸",
+        "avatar": "https://avatar.dmzj.com/b1/eb/b1ebcc2343741ec2b3ff91cd9c7c2a44.png"
+      },
+      {
+        "comment_id": 25463139,
+        "uid": 106388218,
+        "content": "这本男主好爱！",
+        "createtime": 1584635072,
+        "nickname": "kissyuuka",
+        "avatar": "https://avatar.dmzj.com/c2/89/c289ca211d82fb96db6c9a18a1a9b02f.png"
+      }
+    ]
+  }
+}

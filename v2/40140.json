@@ -1,0 +1,111 @@
+{
+  "id": 40140,
+  "islong": 2,
+  "direction": 1,
+  "title": "All My Loving",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/allmylovingfengmianl.jpg",
+  "description": "金米糖工房的K-ON!作品集第三篇，唯和特辑，时间线有和留学前与留学后的",
+  "last_updatetime": 1496409826,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 405182,
+  "hit_num": 486151,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13077,
+      "tag_name": "K-ON！"
+    }
+  ],
+  "subscribe_num": 2529,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65945,
+          "chapter_title": "7话",
+          "updatetime": 1496409826,
+          "filesize": 1214763,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 65900,
+          "chapter_title": "6话",
+          "updatetime": 1496301869,
+          "filesize": 1371702,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 65803,
+          "chapter_title": "5话",
+          "updatetime": 1496116714,
+          "filesize": 1143381,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 65508,
+          "chapter_title": "4话",
+          "updatetime": 1495121054,
+          "filesize": 5671083,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 64812,
+          "chapter_title": "3话",
+          "updatetime": 1493044815,
+          "filesize": 970454,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 64304,
+          "chapter_title": "2话",
+          "updatetime": 1491727131,
+          "filesize": 1418105,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 64285,
+          "chapter_title": "1话",
+          "updatetime": 1491631694,
+          "filesize": 3697557,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 167,
+    "latest_comment": [
+      {
+        "comment_id": 29943497,
+        "uid": 111404324,
+        "content": "All My loving（神隐百合）",
+        "createtime": 1598376556,
+        "nickname": "dmzj_111404324",
+        "avatar": "https://avatar.dmzj.com/95/63/9563a585b0f394ad32596eeb4dadbfd4.png"
+      },
+      {
+        "comment_id": 28934345,
+        "uid": 109343439,
+        "content": "还在连载，就是说还有吗？太棒了！",
+        "createtime": 1594712554,
+        "nickname": "黑化鸡歌耶",
+        "avatar": "https://avatar.dmzj.com/94/17/941771fb362e0d6b69628f3a79f0f305.png"
+      }
+    ]
+  }
+}

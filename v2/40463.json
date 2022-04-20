@@ -1,0 +1,80 @@
+{
+  "id": 40463,
+  "islong": 2,
+  "direction": 1,
+  "title": "探险时光：四堡探险",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/tanxianshiguangsibaotanxian.jpg",
+  "description": "Finn和Jake为了加入英雄公会，在“会长”蛊惑下开始了对寒冰王和肌肉公主住所的探险。",
+  "last_updatetime": 1495339435,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 156656,
+  "hit_num": 99947,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8422,
+      "tag_name": "Kaboom!"
+    }
+  ],
+  "subscribe_num": 686,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59768,
+          "chapter_title": "2话",
+          "updatetime": 1495339435,
+          "filesize": 7830802,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 59761,
+          "chapter_title": "1卷",
+          "updatetime": 1495287286,
+          "filesize": 5262243,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 2209801,
+        "uid": 100305832,
+        "content": "惊现AT(#ﾟДﾟ)",
+        "createtime": 1495377668,
+        "nickname": "呆斯可一",
+        "avatar": "https://avatar.dmzj.com/27/39/27391cd4f54c76133f16fafd443a3053.png"
+      },
+      {
+        "comment_id": 2208704,
+        "uid": 100055087,
+        "content": "又有了！",
+        "createtime": 1495358399,
+        "nickname": "膀胱爆炸男孩",
+        "avatar": "https://avatar.dmzj.com/66/37/66378fd6946d12680bf0b1b5b2545933.png"
+      }
+    ]
+  }
+}

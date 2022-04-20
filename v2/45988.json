@@ -1,0 +1,73 @@
+{
+  "id": 45988,
+  "islong": 2,
+  "direction": 1,
+  "title": "碰壁少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/181004pbsn.jpg",
+  "description": "我要保护那个受欺凌的女孩",
+  "last_updatetime": 1539610155,
+  "copyright": 0,
+  "first_letter": "p",
+  "hot_num": 1893912,
+  "hit_num": 167063,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6677,
+      "tag_name": "堤翔"
+    }
+  ],
+  "subscribe_num": 8370,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77128,
+          "chapter_title": "1话",
+          "updatetime": 1539610155,
+          "filesize": 4778257,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 152,
+    "latest_comment": [
+      {
+        "comment_id": 23893131,
+        "uid": 108033978,
+        "content": "2020年了...",
+        "createtime": 1581101380,
+        "nickname": "dmzj_108033978",
+        "avatar": "https://avatar.dmzj.com/b4/fa/b4fa0d6c3d3f97fbd289d8fdf1b8a14d.png"
+      },
+      {
+        "comment_id": 22801249,
+        "uid": 104592492,
+        "content": "ｖ（＾＿＾ｖ）♪",
+        "createtime": 1577116903,
+        "nickname": "Veet23",
+        "avatar": "https://avatar.dmzj.com/45/00/450040f01d49822e946a1f41e0332f67.png"
+      }
+    ]
+  }
+}

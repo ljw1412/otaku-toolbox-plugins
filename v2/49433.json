@@ -1,0 +1,73 @@
+{
+  "id": 49433,
+  "islong": 2,
+  "direction": 1,
+  "title": "A is for alice A",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/youdiandongxi0729.jpg",
+  "description": "等等我，兔子先生",
+  "last_updatetime": 1564398784,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 201429,
+  "hit_num": 15971,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3951,
+      "tag_name": "中村明日美子"
+    }
+  ],
+  "subscribe_num": 868,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86485,
+          "chapter_title": "1话",
+          "updatetime": 1564398784,
+          "filesize": 1382082,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 49,
+    "latest_comment": [
+      {
+        "comment_id": 28397766,
+        "uid": 110621784,
+        "content": "好棒求回复给个前因后果篇通道",
+        "createtime": 1592986866,
+        "nickname": "宛歌",
+        "avatar": "https://avatar.dmzj.com/2c/bf/2cbff0ae4771754d2c8b81e37b78ba75.png"
+      },
+      {
+        "comment_id": 26381258,
+        "uid": 109534613,
+        "content": "，，。",
+        "createtime": 1586646384,
+        "nickname": "噪音日记",
+        "avatar": "https://avatar.dmzj.com/60/29/6029c292d6a6c1e58acb9bfeca714119.png"
+      }
+    ]
+  }
+}

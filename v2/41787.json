@@ -1,0 +1,75 @@
+{
+  "id": 41787,
+  "islong": 2,
+  "direction": 1,
+  "title": "淡片集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/01danpj2137.jpg",
+  "description": "我说，你要弄到什么时候？",
+  "last_updatetime": 1507901830,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "danpianji",
+  "hidden": 0,
+  "hot_num": 116802,
+  "hit_num": 118130,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 69787,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13855,
+      "tag_name": "白暗"
+    }
+  ],
+  "subscribe_num": 508,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 69787,
+          "chapter_title": "1话",
+          "updatetime": 1507901830,
+          "filesize": 7306500,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 43,
+    "latest_comment": [
+      {
+        "comment_id": 29148425,
+        "uid": 107207861,
+        "content": "再有就是对道具的摧毁可能也是参考原作人物性格。香霖是热爱幻想乡的，不希望留下令世人争斗之物。(虽然原作里只是个没有搞懂功能的游戏机，香霖误以为控制人物发动战争是真的控制某人发动战争。\n不过该本同人作品中的道具的确危险。)",
+        "createtime": 1595428593,
+        "nickname": "普通网友",
+        "avatar": "https://avatar.dmzj.com/46/83/46835e99c0e46f7df3f32566371c12c4.png"
+      },
+      {
+        "comment_id": 29148131,
+        "uid": 107207861,
+        "content": "原作《东方香霖堂》里也多次提到火葬。",
+        "createtime": 1595428121,
+        "nickname": "普通网友",
+        "avatar": "https://avatar.dmzj.com/46/83/46835e99c0e46f7df3f32566371c12c4.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

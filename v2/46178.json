@@ -1,0 +1,75 @@
+{
+  "id": 46178,
+  "islong": 2,
+  "direction": 1,
+  "title": "心酱的报恩",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/181020xjdbe.jpg",
+  "description": "东方同人",
+  "last_updatetime": 1540018166,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xinjiangdebaoen",
+  "hidden": 0,
+  "hot_num": 137263,
+  "hit_num": 12966,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 77262,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15849,
+      "tag_name": "さくらめ "
+    }
+  ],
+  "subscribe_num": 648,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77262,
+          "chapter_title": "1话",
+          "updatetime": 1540018166,
+          "filesize": 2468241,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 31,
+    "latest_comment": [
+      {
+        "comment_id": 29546024,
+        "uid": 110365412,
+        "content": "红烧芋头好吃",
+        "createtime": 1596871738,
+        "nickname": "鸢飞戾天者望峰息心",
+        "avatar": "https://avatar.dmzj.com/77/30/7730f2d0f37d2f111953d1117c80721c.png"
+      },
+      {
+        "comment_id": 25008332,
+        "uid": 101840481,
+        "content": "布都嘟真的嘟嘟的了（指脸）",
+        "createtime": 1583607322,
+        "nickname": "柠檬精。我好酸啊",
+        "avatar": "https://avatar.dmzj.com/97/05/970540d734aefed830d501adc8c315d9.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

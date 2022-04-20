@@ -1,0 +1,79 @@
+{
+  "id": 49621,
+  "islong": 2,
+  "direction": 1,
+  "title": "守失的奇妙冒险",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/shoushideqimiaomaoxian0813.jpg",
+  "description": "现在的我，一定能和大家成为好朋友的。",
+  "last_updatetime": 1565687532,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shoushideqimiaomaoxian",
+  "hidden": 0,
+  "hot_num": 126086,
+  "hit_num": 27683,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91615,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6040,
+      "tag_name": "さいピン"
+    }
+  ],
+  "subscribe_num": 1062,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91615,
+          "chapter_title": "1话",
+          "updatetime": 1565687532,
+          "filesize": 2293876,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 129,
+    "latest_comment": [
+      {
+        "comment_id": 29720189,
+        "uid": 106598733,
+        "content": "东jo共荣不可避",
+        "createtime": 1597573419,
+        "nickname": "dmzj_106598733",
+        "avatar": "https://avatar.dmzj.com/19/9d/199d4d578a201aa6bb711a15930f9b87.png"
+      },
+      {
+        "comment_id": 29041565,
+        "uid": 110070734,
+        "content": "东jo共荣不可避",
+        "createtime": 1595071667,
+        "nickname": "古明地觉想被睡",
+        "avatar": "https://avatar.dmzj.com/51/92/51923c08dcd3a4a4618626b6c2a9d3a1.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

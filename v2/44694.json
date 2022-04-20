@@ -1,0 +1,75 @@
+{
+  "id": 44694,
+  "islong": 2,
+  "direction": 1,
+  "title": "西へ东へ春夏秋冬",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/xidongchunxiaqiudong0625ll.jpg",
+  "description": "春天的祭典，夏日的美食，秋天的远足，冬日的暖炉，四篇东方不同季节所发生的故事~",
+  "last_updatetime": 1529921844,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xidongchunxiaqiudong",
+  "hidden": 0,
+  "hot_num": 135358,
+  "hit_num": 16177,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 74341,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15149,
+      "tag_name": "ぴぴ"
+    }
+  ],
+  "subscribe_num": 652,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74341,
+          "chapter_title": "1话",
+          "updatetime": 1529921844,
+          "filesize": 4212876,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 29353693,
+        "uid": 105212809,
+        "content": "屑蕾米",
+        "createtime": 1596180740,
+        "nickname": "最帅猛男",
+        "avatar": "https://avatar.dmzj.com/9d/ac/9dac2641b93cd9f9063fb21f4627cdbb.png"
+      },
+      {
+        "comment_id": 28277724,
+        "uid": 105877380,
+        "content": "全篇都是惨剧啊。",
+        "createtime": 1592557766,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

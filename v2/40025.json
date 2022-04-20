@@ -1,0 +1,89 @@
+{
+  "id": 40025,
+  "islong": 2,
+  "direction": 2,
+  "title": "小炮炮奇遇记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1002911251489844027.jpg",
+  "description": "小炮炮深山奇怪经历",
+  "last_updatetime": 1489986361,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 9055,
+  "hit_num": 51939,
+  "uid": 100291125,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10128,
+      "tag_name": "月下猫"
+    }
+  ],
+  "subscribe_num": 48,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 63804,
+          "chapter_title": "3话",
+          "updatetime": 1489986361,
+          "filesize": 446511,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 63801,
+          "chapter_title": "2话",
+          "updatetime": 1489844265,
+          "filesize": 347088,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 63800,
+          "chapter_title": "1话",
+          "updatetime": 1489844120,
+          "filesize": 366175,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "http://weibo.com/juan82113/",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 1961801,
+        "uid": 103449138,
+        "content": "赞赞",
+        "createtime": 1490410843,
+        "nickname": "南笙小可爱",
+        "avatar": "https://avatar.dmzj.com/90/92/90927b4bc0ece97b444c4029955c61e5.png"
+      },
+      {
+        "comment_id": 1961799,
+        "uid": 103449138,
+        "content": "萌的要死",
+        "createtime": 1490410821,
+        "nickname": "南笙小可爱",
+        "avatar": "https://avatar.dmzj.com/90/92/90927b4bc0ece97b444c4029955c61e5.png"
+      }
+    ]
+  }
+}

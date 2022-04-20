@@ -1,0 +1,73 @@
+{
+  "id": 3987,
+  "islong": 2,
+  "direction": 1,
+  "title": "透明少年",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/01_202dd2a4feb7079ede7c609b209db7d4.jpg",
+  "description": "JUMP短篇",
+  "last_updatetime": 1276761312,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 9994,
+  "hit_num": 282792,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2401,
+      "tag_name": "板仓雄一"
+    }
+  ],
+  "subscribe_num": 28,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9324,
+          "chapter_title": "1话",
+          "updatetime": 1277366112,
+          "filesize": 5347849,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 8392378,
+        "uid": 104850250,
+        "content": "开心",
+        "createtime": 1543122187,
+        "nickname": "八云63479",
+        "avatar": "https://avatar.dmzj.com/e4/ec/e4ec88f575ca138274329fd7aae12c85.png"
+      },
+      {
+        "comment_id": 7627908,
+        "uid": 107400844,
+        "content": "不错的短篇，结局很好",
+        "createtime": 1540394818,
+        "nickname": "jy02269839",
+        "avatar": "https://avatar.dmzj.com/63/59/6359bda8bcd4f79ed832d9f9461dd324.png"
+      }
+    ]
+  }
+}

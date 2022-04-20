@@ -1,0 +1,73 @@
+{
+  "id": 45538,
+  "islong": 2,
+  "direction": 2,
+  "title": "秘密入侵：安魂曲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/mimiruqinanhunqu0826vbbvb.jpg",
+  "description": "初代蚁人与黄蜂女的甜蜜起源与悲惨婚变",
+  "last_updatetime": 1535254336,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 36312,
+  "hit_num": 20556,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 151,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 75417,
+          "chapter_title": "1卷",
+          "updatetime": 1535254336,
+          "filesize": 7877330,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 28441603,
+        "uid": 103501344,
+        "content": "觉得有用就用，没用就踹开…",
+        "createtime": 1593132392,
+        "nickname": "天才玩家M",
+        "avatar": "https://avatar.dmzj.com/92/4f/924f5aa9d4358c81fea2bcdd8c6cf538.png"
+      },
+      {
+        "comment_id": 6503682,
+        "uid": 100113219,
+        "content": "这合集好虐",
+        "createtime": 1535280274,
+        "nickname": "Naxxos",
+        "avatar": "https://avatar.dmzj.com/6f/93/6f93e4f720d2781693fd7688fdc79223.png"
+      }
+    ]
+  }
+}

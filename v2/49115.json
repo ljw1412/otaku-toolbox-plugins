@@ -1,0 +1,75 @@
+{
+  "id": 49115,
+  "islong": 2,
+  "direction": 1,
+  "title": "An die Freude",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/190708huangm.jpg",
+  "description": "想要永远伴在你身边。",
+  "last_updatetime": 1562600346,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "andiefreude",
+  "hidden": 0,
+  "hot_num": 122231,
+  "hit_num": 1500,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91000,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15758,
+      "tag_name": "驹碧"
+    }
+  ],
+  "subscribe_num": 527,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91000,
+          "chapter_title": "1话",
+          "updatetime": 1562600346,
+          "filesize": 594901,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 64,
+    "latest_comment": [
+      {
+        "comment_id": 29157636,
+        "uid": 105696370,
+        "content": "挺好的作品",
+        "createtime": 1595444471,
+        "nickname": "午夜琉璃花",
+        "avatar": "https://avatar.dmzj.com/26/82/2682734f3f11a416ac2ad88a741bde3d.png"
+      },
+      {
+        "comment_id": 28905478,
+        "uid": 101768841,
+        "content": "很不错",
+        "createtime": 1594611831,
+        "nickname": "须臾与永恒的昼夜骑士",
+        "avatar": "https://avatar.dmzj.com/91/43/91439c2bbe7ef53d132e517ef33859de.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

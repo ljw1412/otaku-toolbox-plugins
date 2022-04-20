@@ -1,0 +1,90 @@
+{
+  "id": 40300,
+  "islong": 2,
+  "direction": 1,
+  "title": "草莓百分百～东城的故事～",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/caomeibaifenbaidongchengdegushi.jpg",
+  "description": "时光流逝，你多少也成长了些许呢。",
+  "last_updatetime": 1501293159,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 4931890,
+  "hit_num": 2360479,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 325,
+      "tag_name": "河下水希"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 20194,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67558,
+          "chapter_title": "4话",
+          "updatetime": 1501293159,
+          "filesize": 2376810,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 66532,
+          "chapter_title": "3话",
+          "updatetime": 1498293898,
+          "filesize": 3265785,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 65804,
+          "chapter_title": "2话",
+          "updatetime": 1496116766,
+          "filesize": 3553035,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 64948,
+          "chapter_title": "1话",
+          "updatetime": 1493345699,
+          "filesize": 2617734,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1522,
+    "latest_comment": [
+      {
+        "comment_id": 29963107,
+        "uid": 109516792,
+        "content": "御姐进行时是没了吧",
+        "createtime": 1598456311,
+        "nickname": "dmzj_109516792",
+        "avatar": "https://avatar.dmzj.com/8b/1d/8b1d431f4a5b79b411c342aa8113c46d.png"
+      },
+      {
+        "comment_id": 29859815,
+        "uid": 101905434,
+        "content": "谁有僵尸百分百？",
+        "createtime": 1598092113,
+        "nickname": "飙车吧提督",
+        "avatar": "https://avatar.dmzj.com/b1/de/b1dec0b968a546685d9c728cf41a98d9.png"
+      }
+    ]
+  }
+}

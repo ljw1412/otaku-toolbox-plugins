@@ -1,0 +1,94 @@
+{
+  "id": 41944,
+  "islong": 2,
+  "direction": 2,
+  "title": "天外来客",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/tianwailaike.jpg",
+  "description": "天外文明的故事相信大家早已不陌生。然而在我们为之感到好奇时请不要忘记：我们也有可能是他们眼中的天外来客。",
+  "last_updatetime": 1519866633,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 205386,
+  "hit_num": 36116,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2116,
+      "tag_name": "image"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 906,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 70357,
+          "chapter_title": "4卷",
+          "updatetime": 1519866633,
+          "filesize": 4752891,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 70356,
+          "chapter_title": "3卷",
+          "updatetime": 1519866610,
+          "filesize": 4187485,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 66783,
+          "chapter_title": "2卷",
+          "updatetime": 1510376849,
+          "filesize": 2722977,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 66584,
+          "chapter_title": "1卷",
+          "updatetime": 1509783507,
+          "filesize": 2735533,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 3998459,
+        "uid": 105712342,
+        "content": "有bug，女主的时代应该是第一次世界大战前，可能都没有潜艇，就算她认识潜艇，也不应该认识纳粹德国的U艇，更不能知道U艇的军火库。",
+        "createtime": 1519980264,
+        "nickname": "孔融让梨克赛号",
+        "avatar": "https://avatar.dmzj.com/48/e8/48e8cf079fcabc1ceae82d9cdaa00b20.png"
+      },
+      {
+        "comment_id": 3286365,
+        "uid": 102496955,
+        "content": "艾梅利亚失踪的时候不是一个人开着红色织女星号么？",
+        "createtime": 1510532973,
+        "nickname": "钛虫00993",
+        "avatar": "https://avatar.dmzj.com/62/c3/62c3e6f8a85fd0f13a5af9fbe2458844.png"
+      }
+    ]
+  }
+}

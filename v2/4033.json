@@ -1,0 +1,80 @@
+{
+  "id": 4033,
+  "islong": 2,
+  "direction": 1,
+  "title": "世纪末学生传说",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/endcenturystudent_01_001_42b13d6424c56f2dc63c64735ea8a572.jpg",
+  "description": "小光,一个强壮的小女孩;月光,一个来自外星球的男孩.月光因救了小光的父亲得以住进小光的家里,又因小光父亲的要求成为小光的保镖",
+  "last_updatetime": 1277193109,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 18206,
+  "hit_num": 874976,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2404,
+      "tag_name": "花见泽Q太郎"
+    }
+  ],
+  "subscribe_num": 109,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9214,
+          "chapter_title": "2卷",
+          "updatetime": 1277797909,
+          "filesize": 15907172,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9213,
+          "chapter_title": "1卷",
+          "updatetime": 1277797909,
+          "filesize": 14765578,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 29101562,
+        "uid": 100723586,
+        "content": "flag",
+        "createtime": 1595260129,
+        "nickname": "路西尔德",
+        "avatar": "https://avatar.dmzj.com/54/18/541864d58c008a4f67e2ad49fd6c09a8.png"
+      },
+      {
+        "comment_id": 21435433,
+        "uid": 109166606,
+        "content": "说传生学末纪世",
+        "createtime": 1571390619,
+        "nickname": "1无",
+        "avatar": "https://avatar.dmzj.com/da/37/da371aa9a9bea55ed848a10c0da1ca5f.png"
+      }
+    ]
+  }
+}

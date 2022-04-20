@@ -1,0 +1,89 @@
+{
+  "id": 47407,
+  "islong": 2,
+  "direction": 2,
+  "title": "灭霸v1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/mieba20190209.jpg",
+  "description": "漫威宇宙中最强大,最为神秘的反派。 灭霸的征服与毁灭都被挫败。 而又是怎样的恶魔在他体内令其疯狂？！",
+  "last_updatetime": 1550218249,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "miebavyi",
+  "hidden": 0,
+  "hot_num": 126291,
+  "hit_num": 34481,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 85632,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 567,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85632,
+          "chapter_title": "3卷",
+          "updatetime": 1550370866,
+          "filesize": 6066804,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 85546,
+          "chapter_title": "2卷",
+          "updatetime": 1550075468,
+          "filesize": 4292140,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 85386,
+          "chapter_title": "1卷",
+          "updatetime": 1549725933,
+          "filesize": 3387588,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 60,
+    "latest_comment": [
+      {
+        "comment_id": 28108377,
+        "uid": 108767441,
+        "content": "灭霸",
+        "createtime": 1591953741,
+        "nickname": "日向夏",
+        "avatar": "https://avatar.dmzj.com/36/94/369493876d2c83980fbceaf52f2ca025.png"
+      },
+      {
+        "comment_id": 23596962,
+        "uid": 109854922,
+        "content": "话说 有谁知道现实控制器灭霸是哪个",
+        "createtime": 1580295651,
+        "nickname": "落笔慕卿颜",
+        "avatar": "https://avatar.dmzj.com/23/33/233358f9d0325266b302e9b4c8aeea7b.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

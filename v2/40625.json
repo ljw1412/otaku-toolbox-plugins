@@ -1,0 +1,83 @@
+{
+  "id": 40625,
+  "islong": 2,
+  "direction": 1,
+  "title": "谈恋爱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/170610tanlianai.jpg",
+  "description": "依然是もち和佃繁奈带来的短篇，这则短篇讲的是“谈”恋爱而非谈恋爱的故事。",
+  "last_updatetime": 1497094898,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tanlianai",
+  "hidden": 0,
+  "hot_num": 110963,
+  "hit_num": 35061,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 66146,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4027,
+      "tag_name": "もち"
+    },
+    {
+      "tag_id": 13172,
+      "tag_name": "佃繁奈"
+    }
+  ],
+  "subscribe_num": 442,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66146,
+          "chapter_title": "1话",
+          "updatetime": 1497094898,
+          "filesize": 853069,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 26191991,
+        "uid": 106482232,
+        "content": "这封面怎么越看越像DIO？",
+        "createtime": 1586264634,
+        "nickname": "dmzj_106482232",
+        "avatar": "https://avatar.dmzj.com/c2/59/c259d3ddd59f02375ffb27767d3e8acf.png"
+      },
+      {
+        "comment_id": 25080446,
+        "uid": 105627652,
+        "content": "所以大葱插肛治感冒是有科学道理的吗",
+        "createtime": 1583770369,
+        "nickname": "mg5th",
+        "avatar": "https://avatar.dmzj.com/42/51/4251b4d76bd3261031e1263f9cd25655.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

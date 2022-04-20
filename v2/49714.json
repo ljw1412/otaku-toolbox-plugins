@@ -1,0 +1,101 @@
+{
+  "id": 49714,
+  "islong": 2,
+  "direction": 2,
+  "title": "无畏之人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/190819wuwei.jpg",
+  "description": "在夜魔侠612期中，我们得知马特被撞得奄奄一息。福吉因此来探望情况危急的马特，而马特此时却仍处于昏迷状态，同自己的内心幻想搏斗……",
+  "last_updatetime": 1566205155,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 12258,
+  "hit_num": 1415,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 48,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88003,
+          "chapter_title": "5卷",
+          "updatetime": 1566205155,
+          "filesize": 2768829,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 88002,
+          "chapter_title": "4卷",
+          "updatetime": 1566205143,
+          "filesize": 2857016,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 88001,
+          "chapter_title": "3卷",
+          "updatetime": 1566205131,
+          "filesize": 2832702,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 88000,
+          "chapter_title": "2卷",
+          "updatetime": 1566205121,
+          "filesize": 2876857,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 87999,
+          "chapter_title": "1卷",
+          "updatetime": 1566205108,
+          "filesize": 2875209,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 20186114,
+        "uid": 105007030,
+        "content": "话说夜魔侠在漫画里有什么特别亮眼的表现吗？",
+        "createtime": 1568101912,
+        "nickname": "Parallel Universe平行宇宙",
+        "avatar": "https://avatar.dmzj.com/32/fb/32fb4df57e5a4a6c7769ac5940ba0929.png"
+      },
+      {
+        "comment_id": 19578459,
+        "uid": 108579430,
+        "content": "夜魔侠不会死去",
+        "createtime": 1566268334,
+        "nickname": "dmzj_108579430",
+        "avatar": "https://avatar.dmzj.com/42/37/4237fd7a989f7ed253ebc97aaba19623.png"
+      }
+    ]
+  }
+}

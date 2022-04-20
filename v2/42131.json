@@ -1,0 +1,87 @@
+{
+  "id": 42131,
+  "islong": 2,
+  "direction": 1,
+  "title": "Gravity Daze 2 重力眩晕追想谭",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/gravitydaze2zhonglixuanyunzhuixiangtan.JPG",
+  "description": "游戏改漫。重力公主凯特的心跳大冒险活剧。",
+  "last_updatetime": 1514687239,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 1507997,
+  "hit_num": 493747,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14014,
+      "tag_name": "くつがえる"
+    },
+    {
+      "tag_id": 14015,
+      "tag_name": "ソニー・インタラクティブエンタテインメント"
+    }
+  ],
+  "subscribe_num": 6857,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71058,
+          "chapter_title": "2话",
+          "updatetime": 1514687241,
+          "filesize": 7099850,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 70063,
+          "chapter_title": "1话",
+          "updatetime": 1511917757,
+          "filesize": 6429627,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 70040,
+          "chapter_title": "0话",
+          "updatetime": 1511842548,
+          "filesize": 3666688,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 143,
+    "latest_comment": [
+      {
+        "comment_id": 25975018,
+        "uid": 107340408,
+        "content": "补眼",
+        "createtime": 1585831219,
+        "nickname": "幻风焰",
+        "avatar": "https://avatar.dmzj.com/87/28/87283b02c338745d2972530bc7a7cc32.png"
+      },
+      {
+        "comment_id": 24481428,
+        "uid": 107658095,
+        "content": "那个跳楼模拟器？",
+        "createtime": 1582525350,
+        "nickname": "盐巴小可爱",
+        "avatar": "https://avatar.dmzj.com/59/78/59782b5b61c00cbf2919e504558e5b6d.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": 45826,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C94)ZENBU",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/zenbu0919l.jpg",
+  "description": "同人画集",
+  "last_updatetime": 1537358208,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 326429,
+  "hit_num": 78872,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5490,
+      "tag_name": "ZEN"
+    }
+  ],
+  "subscribe_num": 1525,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81057,
+          "chapter_title": "1话",
+          "updatetime": 1537358208,
+          "filesize": 3596161,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 54,
+    "latest_comment": [
+      {
+        "comment_id": 29923196,
+        "uid": 100083292,
+        "content": "这年头能有key社的同人本不容易啊，猛男落泪",
+        "createtime": 1598323983,
+        "nickname": "汐灀",
+        "avatar": "https://avatar.dmzj.com/16/14/16146453b744423b9458560991333a2f.png"
+      },
+      {
+        "comment_id": 29414521,
+        "uid": 107891414,
+        "content": "赞????",
+        "createtime": 1596390674,
+        "nickname": "dmzj_107891414",
+        "avatar": "https://avatar.dmzj.com/b3/b7/b3b7b183441c39a9e4a1721ae3909090.png"
+      }
+    ]
+  }
+}

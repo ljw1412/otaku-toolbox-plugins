@@ -1,0 +1,77 @@
+{
+  "id": 49280,
+  "islong": 2,
+  "direction": 1,
+  "title": "秘境旅人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/mjlr719.jpg",
+  "description": "游牧饭原班人马打造的新异界战记！",
+  "last_updatetime": 1563513859,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 630846,
+  "hit_num": 37601,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15921,
+      "tag_name": "ワタナベタカシ"
+    },
+    {
+      "tag_id": 15922,
+      "tag_name": "大间九郎"
+    }
+  ],
+  "subscribe_num": 2993,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91292,
+          "chapter_title": "1话",
+          "updatetime": 1563513859,
+          "filesize": 10275023,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 355,
+    "latest_comment": [
+      {
+        "comment_id": 29155770,
+        "uid": 109036320,
+        "content": "啊这，一年了已经。",
+        "createtime": 1595439577,
+        "nickname": "陈述失礼了",
+        "avatar": "https://avatar.dmzj.com/38/26/3826445e464404d3753111e5314d1d2f.png"
+      },
+      {
+        "comment_id": 28937853,
+        "uid": 102210715,
+        "content": "超越到异界……打……打牌？",
+        "createtime": 1594725451,
+        "nickname": "wb35129826",
+        "avatar": "https://avatar.dmzj.com/68/45/68450d80b934c8b20541323c27c3c0d3.png"
+      }
+    ]
+  }
+}

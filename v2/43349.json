@@ -1,0 +1,70 @@
+{
+  "id": 43349,
+  "islong": 2,
+  "direction": 1,
+  "title": "侠客",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1520218462.jpg",
+  "description": "侠客\n十步杀一人，千里不留行。 \n事了拂衣去，深藏身与名。",
+  "last_updatetime": 1522555922,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 14451,
+  "hit_num": 284078,
+  "uid": 106224901,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3324,
+      "tag_name": "武侠"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14553,
+      "tag_name": "JIA"
+    }
+  ],
+  "subscribe_num": 66,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71339,
+          "chapter_title": "1话",
+          "updatetime": 1522555922,
+          "filesize": 2420555,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 70487,
+          "chapter_title": "0话",
+          "updatetime": 1520135396,
+          "filesize": 2867504,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 4265574,
+        "uid": 105158515,
+        "content": "画得好看，感觉很用心",
+        "createtime": 1522916183,
+        "nickname": "巽芳",
+        "avatar": "https://avatar.dmzj.com/82/37/823712e8480ea095144fcaca9763fb4f.png"
+      }
+    ]
+  }
+}

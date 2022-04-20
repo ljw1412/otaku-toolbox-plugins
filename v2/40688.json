@@ -1,0 +1,75 @@
+{
+  "id": 40688,
+  "islong": 2,
+  "direction": 1,
+  "title": "雪白之间",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/xuebaizhijian.jpg",
+  "description": "发生在一个气象异常的山村中的奇幻故事……",
+  "last_updatetime": 1497839921,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xuebaizhijian",
+  "hidden": 0,
+  "hot_num": 115344,
+  "hit_num": 140903,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 60555,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13350,
+      "tag_name": "涡八"
+    }
+  ],
+  "subscribe_num": 499,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 60555,
+          "chapter_title": "1话",
+          "updatetime": 1497839921,
+          "filesize": 4564241,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 5313585,
+        "uid": 106291176,
+        "content": "封面小图。。男主的护手 我以为是一只鸭子。。。",
+        "createtime": 1530040298,
+        "nickname": "Kiyoedayuu",
+        "avatar": "https://avatar.dmzj.com/13/73/1373a5610f71098ed796bfc34c12e398.png"
+      },
+      {
+        "comment_id": 3245509,
+        "uid": 101548711,
+        "content": "这个真的很好看！！！",
+        "createtime": 1509987341,
+        "nickname": "-Fiona不吃糖-",
+        "avatar": "https://avatar.dmzj.com/35/57/35579f2a19b509a73287c36c39dd29a6.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

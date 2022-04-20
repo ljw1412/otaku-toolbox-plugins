@@ -1,0 +1,73 @@
+{
+  "id": 41824,
+  "islong": 2,
+  "direction": 2,
+  "title": "刺客信条Penny Arcade版",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/171018cikexintiao.jpg",
+  "description": "由Penny Arcade作画的刺客漫画，已被确认为非正统剧情。 剧情简介：阿泰尔受阿尔穆林之命，前往阿卡刺杀一位目标…",
+  "last_updatetime": 1508290173,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 53718,
+  "hit_num": 7737,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13868,
+      "tag_name": "Penny Arcade"
+    }
+  ],
+  "subscribe_num": 228,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66029,
+          "chapter_title": "1话",
+          "updatetime": 1508290173,
+          "filesize": 461076,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 3468260,
+        "uid": 105520106,
+        "content": "这根本就不是官方",
+        "createtime": 1512807456,
+        "nickname": "雅阁 弗莱 阁下",
+        "avatar": "https://avatar.dmzj.com/16/e5/16e51272a2eb1485749451233b2c87f2.png"
+      },
+      {
+        "comment_id": 3337101,
+        "uid": 105520106,
+        "content": "清晰度感人",
+        "createtime": 1511194652,
+        "nickname": "雅阁 弗莱 阁下",
+        "avatar": "https://avatar.dmzj.com/16/e5/16e51272a2eb1485749451233b2c87f2.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": 48339,
+  "islong": 1,
+  "direction": 2,
+  "title": "红枫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1072390531556806315.jpg",
+  "description": "山中有灵  遇而为缘",
+  "last_updatetime": 1558712342,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 223046,
+  "hit_num": 5332876,
+  "uid": 107239053,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16954,
+      "tag_name": "慧慧"
+    }
+  ],
+  "subscribe_num": 974,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85305,
+          "chapter_title": "（外）双月",
+          "updatetime": 1558712342,
+          "filesize": 1357562,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 84962,
+          "chapter_title": "3话",
+          "updatetime": 1558022237,
+          "filesize": 2936763,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 84713,
+          "chapter_title": "2话",
+          "updatetime": 1557281433,
+          "filesize": 2060608,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 84518,
+          "chapter_title": "1话",
+          "updatetime": 1556807332,
+          "filesize": 1823766,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "微博：@慧慧_zwolf  欢迎留言评论。",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 58,
+    "latest_comment": [
+      {
+        "comment_id": 27467839,
+        "uid": 107033730,
+        "content": "好有意思啊",
+        "createtime": 1589741369,
+        "nickname": "土豆观测站",
+        "avatar": "https://avatar.dmzj.com/79/75/797567f85480a4dc5fdc9b5efba20f43.png"
+      },
+      {
+        "comment_id": 27452141,
+        "uid": 105818283,
+        "content": "画的真好(✪▽✪)，加油",
+        "createtime": 1589706726,
+        "nickname": "咕哒子",
+        "avatar": "https://avatar.dmzj.com/54/08/5408bcdf2e13829eb7443e1fd6afca6b.png"
+      }
+    ]
+  }
+}

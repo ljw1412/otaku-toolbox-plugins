@@ -1,0 +1,90 @@
+{
+  "id": 44035,
+  "islong": 2,
+  "direction": 1,
+  "title": "啾的报恩",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/q0502l.jpg",
+  "description": "救了麻雀，麻雀娘化回来报恩。嗯，我选择屮鸟！",
+  "last_updatetime": 1550051345,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 17106422,
+  "hit_num": 191181,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14857,
+      "tag_name": "梵辛"
+    }
+  ],
+  "subscribe_num": 70299,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86339,
+          "chapter_title": "4话",
+          "updatetime": 1550051345,
+          "filesize": 698035,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 77434,
+          "chapter_title": "3话",
+          "updatetime": 1526375737,
+          "filesize": 795591,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 77094,
+          "chapter_title": "2话",
+          "updatetime": 1525449267,
+          "filesize": 740396,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 77009,
+          "chapter_title": "1话",
+          "updatetime": 1525264391,
+          "filesize": 492356,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2576,
+    "latest_comment": [
+      {
+        "comment_id": 29956250,
+        "uid": 101102917,
+        "content": "一年半了 这算完结了吧",
+        "createtime": 1598438750,
+        "nickname": "轻歌歌",
+        "avatar": "https://avatar.dmzj.com/57/23/57236e02a51f7b3f0e9bb3e22095d82d.png"
+      },
+      {
+        "comment_id": 29773909,
+        "uid": 109322989,
+        "content": "又是套路。",
+        "createtime": 1597763824,
+        "nickname": "dmzj_109322989",
+        "avatar": "https://avatar.dmzj.com/85/22/85227f1ca5d39f1f777f8538c72c68ce.png"
+      }
+    ]
+  }
+}

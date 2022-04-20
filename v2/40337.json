@@ -1,0 +1,75 @@
+{
+  "id": 40337,
+  "islong": 1,
+  "direction": 2,
+  "title": "灯泡君",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1011082671493690900.jpg",
+  "description": "一个热爱学习的灯泡，因为一场“意外”而诞生。听说它的智商高达200，是灯泡界里的爱因斯旦。拥有这么高的智商，它的生活又会如何，让我们一起期待吧~",
+  "last_updatetime": 1493803552,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 17198,
+  "hit_num": 257074,
+  "uid": 101108267,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13161,
+      "tag_name": "一起老师"
+    }
+  ],
+  "subscribe_num": 62,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 64985,
+          "chapter_title": "1话",
+          "updatetime": 1493803552,
+          "filesize": 694963,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 2201465,
+        "uid": 102522701,
+        "content": "不更新了呢",
+        "createtime": 1495202349,
+        "nickname": "牛奶沙奈朵",
+        "avatar": "https://avatar.dmzj.com/cd/0a/cd0a9651b577e4b6dc1d2e878dc0ccca.png"
+      },
+      {
+        "comment_id": 2132956,
+        "uid": 104221350,
+        "content": "下意识的看了一眼灯泡，只想说好亮啊！",
+        "createtime": 1493824669,
+        "nickname": "qzuser72220883",
+        "avatar": "https://avatar.dmzj.com/f1/08/f108580a37665e71d1a456b083ad6eae.png"
+      }
+    ]
+  }
+}

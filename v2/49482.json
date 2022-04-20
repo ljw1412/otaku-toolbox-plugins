@@ -1,0 +1,79 @@
+{
+  "id": 49482,
+  "islong": 2,
+  "direction": 2,
+  "title": "暑假生活",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1025153541564660211.jpg",
+  "description": "暑假，心吾回到家乡发生的故事",
+  "last_updatetime": 1564661396,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 1837,
+  "hit_num": 2152,
+  "uid": 102515354,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17532,
+      "tag_name": "魔王愿"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90879,
+          "chapter_title": "1话",
+          "updatetime": 1564661396,
+          "filesize": 661681,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 29321871,
+        "uid": 109634690,
+        "content": "草生",
+        "createtime": 1596049514,
+        "nickname": "dmzj_109634690",
+        "avatar": "https://avatar.dmzj.com/f6/2d/f62ddae61e3c25967f7c2595a7ca8bbb.png"
+      },
+      {
+        "comment_id": 19572314,
+        "uid": 109126880,
+        "content": "这能算漫画吗",
+        "createtime": 1566238845,
+        "nickname": "dmzj_109126880",
+        "avatar": "https://avatar.dmzj.com/ad/2f/ad2fbfa87104cc0f5179530cbdb1b5f0.png"
+      }
+    ]
+  }
+}

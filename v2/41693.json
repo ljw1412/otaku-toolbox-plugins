@@ -1,0 +1,510 @@
+{
+  "id": 41693,
+  "islong": 2,
+  "direction": 2,
+  "title": "漫威传承",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/maiweichuanchengfengmianl.jpg",
+  "description": "本期特刊全程由神奇先生之女瓦莱里娅旁白！这是由她讲述的故事！",
+  "last_updatetime": 1537759898,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 1834654,
+  "hit_num": 8776873,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 6038,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76371,
+          "chapter_title": "银貂#36",
+          "updatetime": 1537759898,
+          "filesize": 3148405,
+          "chapter_order": 750
+        },
+        {
+          "chapter_id": 75782,
+          "chapter_title": "悬疑故事#102红色手账03",
+          "updatetime": 1536209707,
+          "filesize": 4715316,
+          "chapter_order": 740
+        },
+        {
+          "chapter_id": 75781,
+          "chapter_title": "悬疑故事#101红色手账02",
+          "updatetime": 1536209663,
+          "filesize": 5293185,
+          "chapter_order": 730
+        },
+        {
+          "chapter_id": 75780,
+          "chapter_title": "悬疑故事#100红色手账01",
+          "updatetime": 1536209632,
+          "filesize": 4643135,
+          "chapter_order": 720
+        },
+        {
+          "chapter_id": 72543,
+          "chapter_title": "X战警：蓝队#22",
+          "updatetime": 1529307074,
+          "filesize": 4770951,
+          "chapter_order": 710
+        },
+        {
+          "chapter_id": 70459,
+          "chapter_title": "惊奇女士#28",
+          "updatetime": 1524403197,
+          "filesize": 3186369,
+          "chapter_order": 700
+        },
+        {
+          "chapter_id": 69613,
+          "chapter_title": "匪夷所思的格温侍#21",
+          "updatetime": 1522678949,
+          "filesize": 2893527,
+          "chapter_order": 690
+        },
+        {
+          "chapter_id": 69017,
+          "chapter_title": "美国队长#699",
+          "updatetime": 1521269232,
+          "filesize": 4207364,
+          "chapter_order": 680
+        },
+        {
+          "chapter_id": 68948,
+          "chapter_title": "神威雷神#704",
+          "updatetime": 1521117042,
+          "filesize": 3089181,
+          "chapter_order": 670
+        },
+        {
+          "chapter_id": 68420,
+          "chapter_title": "美国队长#698",
+          "updatetime": 1519828403,
+          "filesize": 3040782,
+          "chapter_order": 660
+        },
+        {
+          "chapter_id": 68294,
+          "chapter_title": "功夫大师v1#126",
+          "updatetime": 1519615858,
+          "filesize": 2956343,
+          "chapter_order": 650
+        },
+        {
+          "chapter_id": 67933,
+          "chapter_title": "复仇之灵#5",
+          "updatetime": 1518486431,
+          "filesize": 3468651,
+          "chapter_order": 640
+        },
+        {
+          "chapter_id": 67795,
+          "chapter_title": "夜魔侠#596",
+          "updatetime": 1518142294,
+          "filesize": 2589442,
+          "chapter_order": 630
+        },
+        {
+          "chapter_id": 67775,
+          "chapter_title": "毒液#156",
+          "updatetime": 1518076735,
+          "filesize": 3136279,
+          "chapter_order": 620
+        },
+        {
+          "chapter_id": 67713,
+          "chapter_title": "夜魔侠#595",
+          "updatetime": 1517967559,
+          "filesize": 2980195,
+          "chapter_order": 610
+        },
+        {
+          "chapter_id": 67689,
+          "chapter_title": "杰西卡·琼斯#16",
+          "updatetime": 1517895394,
+          "filesize": 3099525,
+          "chapter_order": 600
+        },
+        {
+          "chapter_id": 67640,
+          "chapter_title": "神威雷神#703",
+          "updatetime": 1517796514,
+          "filesize": 3561311,
+          "chapter_order": 590
+        },
+        {
+          "chapter_id": 67511,
+          "chapter_title": "全新金刚狼#29",
+          "updatetime": 1517448449,
+          "filesize": 2754565,
+          "chapter_order": 580
+        },
+        {
+          "chapter_id": 67510,
+          "chapter_title": "大群#01",
+          "updatetime": 1517448333,
+          "filesize": 3285780,
+          "chapter_order": 570
+        },
+        {
+          "chapter_id": 67249,
+          "chapter_title": "漫威二合一#2",
+          "updatetime": 1516810806,
+          "filesize": 13006726,
+          "chapter_order": 560
+        },
+        {
+          "chapter_id": 67223,
+          "chapter_title": "彼得·帕克:不可思议的蜘蛛侠#297",
+          "updatetime": 1516770677,
+          "filesize": 2831516,
+          "chapter_order": 550
+        },
+        {
+          "chapter_id": 67156,
+          "chapter_title": "秘密勇士V2#12",
+          "updatetime": 1516614258,
+          "filesize": 4521213,
+          "chapter_order": 540
+        },
+        {
+          "chapter_id": 67077,
+          "chapter_title": "复仇者#676",
+          "updatetime": 1516426879,
+          "filesize": 3532938,
+          "chapter_order": 530
+        },
+        {
+          "chapter_id": 67076,
+          "chapter_title": "复仇者#675",
+          "updatetime": 1516425558,
+          "filesize": 4957601,
+          "chapter_order": 520
+        },
+        {
+          "chapter_id": 67072,
+          "chapter_title": "复仇之灵#04",
+          "updatetime": 1516416497,
+          "filesize": 3516593,
+          "chapter_order": 510
+        },
+        {
+          "chapter_id": 66867,
+          "chapter_title": "蜘蛛侠与死侍#25",
+          "updatetime": 1516034120,
+          "filesize": 3506738,
+          "chapter_order": 500
+        },
+        {
+          "chapter_id": 66849,
+          "chapter_title": "WeaponX#12",
+          "updatetime": 1515985478,
+          "filesize": 3981607,
+          "chapter_order": 490
+        },
+        {
+          "chapter_id": 66783,
+          "chapter_title": "惩罚者#220",
+          "updatetime": 1515737849,
+          "filesize": 2838506,
+          "chapter_order": 480
+        },
+        {
+          "chapter_id": 66733,
+          "chapter_title": "神威雷神#702",
+          "updatetime": 1515597862,
+          "filesize": 3362379,
+          "chapter_order": 470
+        },
+        {
+          "chapter_id": 66621,
+          "chapter_title": "美国队长#697",
+          "updatetime": 1515317406,
+          "filesize": 3913911,
+          "chapter_order": 460
+        },
+        {
+          "chapter_id": 66556,
+          "chapter_title": "杰西卡·琼斯#15",
+          "updatetime": 1515119760,
+          "filesize": 3099584,
+          "chapter_order": 450
+        },
+        {
+          "chapter_id": 66532,
+          "chapter_title": "冠军小队#15",
+          "updatetime": 1515058416,
+          "filesize": 3606280,
+          "chapter_order": 440
+        },
+        {
+          "chapter_id": 66380,
+          "chapter_title": "灭霸#14",
+          "updatetime": 1514775116,
+          "filesize": 3238844,
+          "chapter_order": 430
+        },
+        {
+          "chapter_id": 66379,
+          "chapter_title": "灭霸#13",
+          "updatetime": 1514775065,
+          "filesize": 4066223,
+          "chapter_order": 420
+        },
+        {
+          "chapter_id": 66363,
+          "chapter_title": "漫威二合一石头人与霹雳火#01",
+          "updatetime": 1514730718,
+          "filesize": 5672722,
+          "chapter_order": 410
+        },
+        {
+          "chapter_id": 66256,
+          "chapter_title": "凤凰涅槃#1",
+          "updatetime": 1514430267,
+          "filesize": 4296794,
+          "chapter_order": 400
+        },
+        {
+          "chapter_id": 66218,
+          "chapter_title": "复仇者#674",
+          "updatetime": 1514300559,
+          "filesize": 2888377,
+          "chapter_order": 390
+        },
+        {
+          "chapter_id": 66065,
+          "chapter_title": "漫威二合一#01",
+          "updatetime": 1513839506,
+          "filesize": 4085482,
+          "chapter_order": 380
+        },
+        {
+          "chapter_id": 65837,
+          "chapter_title": "惩罚者#219",
+          "updatetime": 1513216748,
+          "filesize": 2881490,
+          "chapter_order": 370
+        },
+        {
+          "chapter_id": 65713,
+          "chapter_title": "复仇之灵#03",
+          "updatetime": 1512809111,
+          "filesize": 3808744,
+          "chapter_order": 360
+        },
+        {
+          "chapter_id": 65640,
+          "chapter_title": "美国队长#696",
+          "updatetime": 1512574835,
+          "filesize": 2957264,
+          "chapter_order": 350
+        },
+        {
+          "chapter_id": 65537,
+          "chapter_title": "惊奇队长#126",
+          "updatetime": 1512300534,
+          "filesize": 2428745,
+          "chapter_order": 340
+        },
+        {
+          "chapter_id": 65398,
+          "chapter_title": "全新金刚狼#27",
+          "updatetime": 1511843093,
+          "filesize": 2147441,
+          "chapter_order": 330
+        },
+        {
+          "chapter_id": 65278,
+          "chapter_title": "神威雷神#701",
+          "updatetime": 1511706461,
+          "filesize": 3830509,
+          "chapter_order": 320
+        },
+        {
+          "chapter_id": 65269,
+          "chapter_title": "冠军小队#14",
+          "updatetime": 1511687239,
+          "filesize": 3711906,
+          "chapter_order": 310
+        },
+        {
+          "chapter_id": 65248,
+          "chapter_title": "这不是漫--喂！#14",
+          "updatetime": 1511616195,
+          "filesize": 3965071,
+          "chapter_order": 300
+        },
+        {
+          "chapter_id": 65173,
+          "chapter_title": "无敌钢铁侠#594",
+          "updatetime": 1511487195,
+          "filesize": 2763843,
+          "chapter_order": 290
+        },
+        {
+          "chapter_id": 65012,
+          "chapter_title": "惩罚者#218",
+          "updatetime": 1510894277,
+          "filesize": 3299313,
+          "chapter_order": 280
+        },
+        {
+          "chapter_id": 64950,
+          "chapter_title": "惊奇队长#125",
+          "updatetime": 1510744903,
+          "filesize": 3369194,
+          "chapter_order": 270
+        },
+        {
+          "chapter_id": 64931,
+          "chapter_title": "复仇之灵#02",
+          "updatetime": 1510676129,
+          "filesize": 5724685,
+          "chapter_order": 260
+        },
+        {
+          "chapter_id": 64929,
+          "chapter_title": "复仇之灵前瞻",
+          "updatetime": 1510674475,
+          "filesize": 939285,
+          "chapter_order": 250
+        },
+        {
+          "chapter_id": 64911,
+          "chapter_title": "复仇者#673",
+          "updatetime": 1510668436,
+          "filesize": 3333958,
+          "chapter_order": 240
+        },
+        {
+          "chapter_id": 64876,
+          "chapter_title": "非凡复仇者v3#29",
+          "updatetime": 1510561062,
+          "filesize": 3591622,
+          "chapter_order": 210
+        },
+        {
+          "chapter_id": 64700,
+          "chapter_title": "神威雷神#700",
+          "updatetime": 1510067439,
+          "filesize": 8192746,
+          "chapter_order": 200
+        },
+        {
+          "chapter_id": 64545,
+          "chapter_title": "美国队长#695",
+          "updatetime": 1509598254,
+          "filesize": 6629506,
+          "chapter_order": 190
+        },
+        {
+          "chapter_id": 64507,
+          "chapter_title": "卑鄙死侍#1",
+          "updatetime": 1509445993,
+          "filesize": 3925044,
+          "chapter_order": 180
+        },
+        {
+          "chapter_id": 64334,
+          "chapter_title": "非凡复仇者v3#28",
+          "updatetime": 1508921360,
+          "filesize": 3785294,
+          "chapter_order": 170
+        },
+        {
+          "chapter_id": 64128,
+          "chapter_title": "无敌钢铁侠#593",
+          "updatetime": 1508389479,
+          "filesize": 3158674,
+          "chapter_order": 160
+        },
+        {
+          "chapter_id": 64050,
+          "chapter_title": "全新金刚狼#25",
+          "updatetime": 1508204163,
+          "filesize": 3147425,
+          "chapter_order": 150
+        },
+        {
+          "chapter_id": 64027,
+          "chapter_title": "猎鹰#1",
+          "updatetime": 1508142635,
+          "filesize": 3189390,
+          "chapter_order": 140
+        },
+        {
+          "chapter_id": 66526,
+          "chapter_title": "冠军小队#13",
+          "updatetime": 1515056508,
+          "filesize": 3792451,
+          "chapter_order": 135
+        },
+        {
+          "chapter_id": 63976,
+          "chapter_title": "复仇者#672",
+          "updatetime": 1507958332,
+          "filesize": 3348845,
+          "chapter_order": 130
+        },
+        {
+          "chapter_id": 63962,
+          "chapter_title": "复仇之灵",
+          "updatetime": 1507875283,
+          "filesize": 3101245,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 63762,
+          "chapter_title": "1卷",
+          "updatetime": 1507344080,
+          "filesize": 7884644,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 251,
+    "latest_comment": [
+      {
+        "comment_id": 28468102,
+        "uid": 111208144,
+        "content": "大佬们，问一下漫威传染病在哪看？",
+        "createtime": 1593213678,
+        "nickname": "dmzj_111208144",
+        "avatar": "https://avatar.dmzj.com/42/28/4228b791efe63846b7c5a9b6374db66d.png"
+      },
+      {
+        "comment_id": 22928894,
+        "uid": 110085517,
+        "content": "大佬们，想问一下漫威传染病在哪里看",
+        "createtime": 1577617474,
+        "nickname": "dmzj_110085517",
+        "avatar": "https://avatar.dmzj.com/17/5c/175c453538e3428de2d247c12d1be413.png"
+      }
+    ]
+  }
+}

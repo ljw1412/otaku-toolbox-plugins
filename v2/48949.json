@@ -1,0 +1,73 @@
+{
+  "id": 48949,
+  "islong": 2,
+  "direction": 1,
+  "title": "蝴蝶梦丸",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/hudiemengwan0625.jpg",
+  "description": "到底为什么，会做这样一个梦呢",
+  "last_updatetime": 1561455866,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 93996,
+  "hit_num": 418,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17279,
+      "tag_name": "桐谷"
+    }
+  ],
+  "subscribe_num": 231,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86301,
+          "chapter_title": "1话",
+          "updatetime": 1561455866,
+          "filesize": 648456,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 29768521,
+        "uid": 111107746,
+        "content": "紫菀是我第一个接触到的东方角色【本子】",
+        "createtime": 1597751003,
+        "nickname": "猩红梦魇-时崎狂三",
+        "avatar": "https://avatar.dmzj.com/78/88/788811c947d32d6c02ef83a2bec7c121.png"
+      },
+      {
+        "comment_id": 19599209,
+        "uid": 107728305,
+        "content": "我好像看过这篇？",
+        "createtime": 1566315284,
+        "nickname": "天生我材2015",
+        "avatar": "https://avatar.dmzj.com/82/89/828963ac0b51747ddd09b6f6871b4382.png"
+      }
+    ]
+  }
+}

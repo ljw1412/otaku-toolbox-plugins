@@ -1,0 +1,85 @@
+{
+  "id": 49427,
+  "islong": 1,
+  "direction": 2,
+  "title": "颠倒黑白",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1094317421564193811.jpg",
+  "description": "这是一场颠倒黑白的游戏，你愿意陪我玩到最后吗？",
+  "last_updatetime": 1565008850,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 42432,
+  "hit_num": 160193,
+  "uid": 109431742,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17500,
+      "tag_name": "肆一"
+    }
+  ],
+  "subscribe_num": 179,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91041,
+          "chapter_title": "3话",
+          "updatetime": 1565008850,
+          "filesize": 1358997,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 90739,
+          "chapter_title": "2话",
+          "updatetime": 1564394465,
+          "filesize": 1373245,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 90700,
+          "chapter_title": "1话",
+          "updatetime": 1564215477,
+          "filesize": 1098998,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 38,
+    "latest_comment": [
+      {
+        "comment_id": 24330288,
+        "uid": 107308680,
+        "content": "画的很好，但太虐了!!!",
+        "createtime": 1582155660,
+        "nickname": "今天的我中八百万了吗",
+        "avatar": "https://avatar.dmzj.com/85/38/85381a7a69668f1a308c0813bdf3d6e8.png"
+      },
+      {
+        "comment_id": 24258676,
+        "uid": 107525230,
+        "content": "是一部好作品",
+        "createtime": 1581970254,
+        "nickname": "华·咲夜",
+        "avatar": "https://avatar.dmzj.com/de/44/de44265535a54d8235b6c0674bbb3366.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": 41890,
+  "islong": 2,
+  "direction": 1,
+  "title": "爷爷咕哒日记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/yygdrj4156786l.jpg",
+  "description": "爷爷与咕哒子的日常。",
+  "last_updatetime": 1542798762,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 15901435,
+  "hit_num": 6907023,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13898,
+      "tag_name": "エイリゾ"
+    }
+  ],
+  "subscribe_num": 66596,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 83926,
+          "chapter_title": "7话",
+          "updatetime": 1542798762,
+          "filesize": 7750705,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 81838,
+          "chapter_title": "6话",
+          "updatetime": 1536891227,
+          "filesize": 5216780,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 82012,
+          "chapter_title": "5话",
+          "updatetime": 1537356302,
+          "filesize": 5746086,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 82013,
+          "chapter_title": "4话",
+          "updatetime": 1537356304,
+          "filesize": 5349749,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 76079,
+          "chapter_title": "3话",
+          "updatetime": 1523149064,
+          "filesize": 6483099,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 71409,
+          "chapter_title": "2话",
+          "updatetime": 1511315029,
+          "filesize": 4649537,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 70652,
+          "chapter_title": "1话",
+          "updatetime": 1509087486,
+          "filesize": 4603317,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1603,
+    "latest_comment": [
+      {
+        "comment_id": 29922830,
+        "uid": 100131349,
+        "content": "说一句，这漫画并没有完结，作者又出新的了",
+        "createtime": 1598322294,
+        "nickname": "Tech Genus宅39001",
+        "avatar": "https://avatar.dmzj.com/50/e0/50e04f63821435df83fd4f55d2e2b912.png"
+      },
+      {
+        "comment_id": 29773580,
+        "uid": 109322989,
+        "content": "经典。",
+        "createtime": 1597763346,
+        "nickname": "dmzj_109322989",
+        "avatar": "https://avatar.dmzj.com/85/22/85227f1ca5d39f1f777f8538c72c68ce.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": 40351,
+  "islong": 2,
+  "direction": 1,
+  "title": "Guarder",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1493978190.jpg",
+  "description": "主角流须实被告知幸运值已经耗尽，为了改变命运，流勇敢接受考验，却被告知地球竟然是...",
+  "last_updatetime": 1494612333,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 8496,
+  "hit_num": 163492,
+  "uid": 104521580,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13171,
+      "tag_name": "钢"
+    }
+  ],
+  "subscribe_num": 29,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 64304,
+          "chapter_title": "2话",
+          "updatetime": 1494612333,
+          "filesize": 1515938,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 64081,
+          "chapter_title": "1话",
+          "updatetime": 1493976910,
+          "filesize": 1009884,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "尽量每周五更新",
+  "comic_notice": "这会是一篇有趣的作品啊！虽然画工不行...",
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 2182611,
+        "uid": 104522099,
+        "content": "更新了哦",
+        "createtime": 1494814909,
+        "nickname": "粥粥丸",
+        "avatar": "https://avatar.dmzj.com/c4/5b/c45bf99d760720ba950a8aee0f3ece64.png"
+      },
+      {
+        "comment_id": 2141435,
+        "uid": 100459791,
+        "content": "17号是你吗",
+        "createtime": 1494003164,
+        "nickname": "间桐钟二",
+        "avatar": "https://avatar.dmzj.com/29/40/2940597e184f609589debf5d3d69490f.png"
+      }
+    ]
+  }
+}

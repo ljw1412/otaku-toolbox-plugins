@@ -1,0 +1,80 @@
+{
+  "id": 41956,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠-黑马王子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/171106batman.jpg",
+  "description": "本周刚刚出版的图像小说，由DC与法国达高漫画公司合作出品，意大利漫画家Enrico Marini自编自绘，一本充满欧漫风格的蝙蝠侠故事……\n看多了最近越来越白的各种丑爷，本刊则为大家带回了往日那个丧心病狂的罪犯小丑。随着他进行策划的一场绑架案，蝙丑这对宿敌再次展开了一场争夺战，而其目标竟然是——布鲁斯·韦恩的亲生女儿？不同风格的哥谭市，依然相同的正邪较量，敬请欣赏！",
+  "last_updatetime": 1530000075,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 292006,
+  "hit_num": 293813,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1269,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77676,
+          "chapter_title": "2卷",
+          "updatetime": 1530000075,
+          "filesize": 9038974,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 69383,
+          "chapter_title": "1卷",
+          "updatetime": 1509971677,
+          "filesize": 8040878,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 74,
+    "latest_comment": [
+      {
+        "comment_id": 25581642,
+        "uid": 110421083,
+        "content": "20200323还在更嘛",
+        "createtime": 1584922826,
+        "nickname": "dmzj_110421083",
+        "avatar": "https://avatar.dmzj.com/4a/d1/4ad19dd58ae3f935fe43872289ad4837.png"
+      },
+      {
+        "comment_id": 22816824,
+        "uid": 107072537,
+        "content": "小丑太帅了，我又死了。",
+        "createtime": 1577181548,
+        "nickname": "刷勇者的大魔王",
+        "avatar": "https://avatar.dmzj.com/87/54/8754ae441f9c52e9a20fe082c0686b7b.png"
+      }
+    ]
+  }
+}

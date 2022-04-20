@@ -1,0 +1,76 @@
+{
+  "id": 4820,
+  "islong": 2,
+  "direction": 1,
+  "title": "哆啦A梦映画版",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/kikansha_001_396de7c5b58b15a262cd829da503fa39.jpg",
+  "description": "哆啦A梦映画版",
+  "last_updatetime": 1279878043,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 669618,
+  "hit_num": 1280897,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1849,
+      "tag_name": "藤子·F·不二雄"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 3485,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 11007,
+          "chapter_title": "2卷",
+          "updatetime": 1280482843,
+          "filesize": 4053638,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 11006,
+          "chapter_title": "1卷",
+          "updatetime": 1280482843,
+          "filesize": 5719362,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 42,
+    "latest_comment": [
+      {
+        "comment_id": 30053434,
+        "uid": 102332887,
+        "content": "以前买过实体本",
+        "createtime": 1598810643,
+        "nickname": "1吉尔伽美什1",
+        "avatar": "https://avatar.dmzj.com/a7/34/a73428181750ade99039b3c9e3d79682.png"
+      },
+      {
+        "comment_id": 28681967,
+        "uid": 105680822,
+        "content": "我记得这个彩色版还有一部是讲七小子做了全宇宙最好吃的蛋糕的故事，特别怀念啊",
+        "createtime": 1593873888,
+        "nickname": "波德莱尔的747",
+        "avatar": "https://avatar.dmzj.com/40/5d/405d068117a59a48ed93538d025e6c73.png"
+      }
+    ]
+  }
+}

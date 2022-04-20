@@ -1,0 +1,122 @@
+{
+  "id": 47330,
+  "islong": 2,
+  "direction": 1,
+  "title": "LoveR",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/190228lover.jpg",
+  "description": "夜晚的体育馆盛开的一朵花强烈的烙印在我的眼中——",
+  "last_updatetime": 1589250542,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 4300243,
+  "hit_num": 1330904,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16448,
+      "tag_name": "カズヲダイスケ"
+    }
+  ],
+  "subscribe_num": 19232,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102205,
+          "chapter_title": "8话",
+          "updatetime": 1589250542,
+          "filesize": 4720562,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 102204,
+          "chapter_title": "7话",
+          "updatetime": 1589250527,
+          "filesize": 6500100,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 97288,
+          "chapter_title": "6话",
+          "updatetime": 1580185020,
+          "filesize": 7553409,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 96103,
+          "chapter_title": "5话",
+          "updatetime": 1577031623,
+          "filesize": 4334379,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 94349,
+          "chapter_title": "4话",
+          "updatetime": 1571799691,
+          "filesize": 5461169,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 94462,
+          "chapter_title": "3话",
+          "updatetime": 1572152021,
+          "filesize": 8463998,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 90468,
+          "chapter_title": "2话",
+          "updatetime": 1560999384,
+          "filesize": 2820327,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 86069,
+          "chapter_title": "1话",
+          "updatetime": 1549019571,
+          "filesize": 5346179,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1373,
+    "latest_comment": [
+      {
+        "comment_id": 29797830,
+        "uid": 109322989,
+        "content": "欠钱的北关。",
+        "createtime": 1597853636,
+        "nickname": "dmzj_109322989",
+        "avatar": "https://avatar.dmzj.com/85/22/85227f1ca5d39f1f777f8538c72c68ce.png"
+      },
+      {
+        "comment_id": 29652162,
+        "uid": 101659464,
+        "content": "这游戏玩了个开头就一直放着吃灰了……",
+        "createtime": 1597293919,
+        "nickname": "云朵里藏着魔王的梦",
+        "avatar": "https://avatar.dmzj.com/e1/f4/e1f40e696a6f8a6c84b81513b89b148d.png"
+      }
+    ]
+  }
+}

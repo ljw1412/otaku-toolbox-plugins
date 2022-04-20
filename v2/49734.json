@@ -1,0 +1,89 @@
+{
+  "id": 49734,
+  "islong": 2,
+  "direction": 2,
+  "title": "极魔行者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1003563561566288713.jpg",
+  "description": "几百年前，神秘人前辈遇害从而怨恨猎行者们，为了找出幕后黑手并阻止他一系列的巨大阴谋，齐雷克一伙走上了冒险的征程......",
+  "last_updatetime": 1566289026,
+  "copyright": 1,
+  "first_letter": "j",
+  "hot_num": 814,
+  "hit_num": 4302,
+  "uid": 100356356,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17667,
+      "tag_name": "赵轩"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88035,
+          "chapter_title": "3话",
+          "updatetime": 1566289026,
+          "filesize": 1506645,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 88034,
+          "chapter_title": "2话",
+          "updatetime": 1566288960,
+          "filesize": 1326753,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 88033,
+          "chapter_title": "1话",
+          "updatetime": 1566288883,
+          "filesize": 1892068,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "此漫画由作者原创 请多多支持！希望大家能够喜欢这个故事！ ",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 19593802,
+        "uid": 100713243,
+        "content": "随意加贫穷宛如吃了一碗82年的泡面，不仅掏空了身体，还让人不断的去琢磨其中到底发生了什么关键反应的过程",
+        "createtime": 1566305731,
+        "nickname": "egoist-曾亦云",
+        "avatar": "https://avatar.dmzj.com/43/52/4352037155bf43b5482c86ded3c29b02.png"
+      },
+      {
+        "comment_id": 19589480,
+        "uid": 102060854,
+        "content": "1st",
+        "createtime": 1566295148,
+        "nickname": "猪王佩奇",
+        "avatar": "https://avatar.dmzj.com/83/13/8313387b67adef78a586e3f29820a9cd.png"
+      }
+    ]
+  }
+}

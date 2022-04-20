@@ -1,0 +1,103 @@
+{
+  "id": 44632,
+  "islong": 1,
+  "direction": 2,
+  "title": "这个火锅",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1063356411529284231.jpg",
+  "description": "这是发生在火锅里的故事，主角们都是食材，同样他们都有着喜怒哀乐，坎坷人生。",
+  "last_updatetime": 1532967455,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 47652,
+  "hit_num": 603876,
+  "uid": 106335641,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15112,
+      "tag_name": "飞君"
+    }
+  ],
+  "subscribe_num": 190,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79244,
+          "chapter_title": "小剧场 我喜欢",
+          "updatetime": 1532967455,
+          "filesize": 55992,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 79048,
+          "chapter_title": "4话",
+          "updatetime": 1532442628,
+          "filesize": 800987,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 78025,
+          "chapter_title": "3话",
+          "updatetime": 1530278490,
+          "filesize": 973150,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 77832,
+          "chapter_title": "2话",
+          "updatetime": 1529663394,
+          "filesize": 978893,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 77722,
+          "chapter_title": "1话",
+          "updatetime": 1529284379,
+          "filesize": 598338,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "这个火锅 这个人生 尽量周更，希望大家喜欢。",
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 5988414,
+        "uid": 102193795,
+        "content": "挺有意思的",
+        "createtime": 1533094155,
+        "nickname": "w13776916087",
+        "avatar": "https://avatar.dmzj.com/ab/29/ab29e86beba759fd0f05ccce1da1b355.png"
+      },
+      {
+        "comment_id": 5973555,
+        "uid": 100743449,
+        "content": "诙谐的方式讲述现代青（fei）年（cai）的日常( ॑꒳ ॑ )我喜欢这个",
+        "createtime": 1533026719,
+        "nickname": "圭璋",
+        "avatar": "https://avatar.dmzj.com/20/64/20641147d945f3a99aeda2aa93380ba7.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 46361,
+  "islong": 2,
+  "direction": 2,
+  "title": "女神乐园",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1082720221541649107.jpg",
+  "description": "统治着女儿国的神明喜欢各色宝石，于是人人以奉上宝石以取神明取乐而获得权利和力量，某日，两位少女在林中寻找蓝宝石时，却发现了另外一种存在……",
+  "last_updatetime": 1542690696,
+  "copyright": 1,
+  "first_letter": "n",
+  "hot_num": 98937,
+  "hit_num": 765423,
+  "uid": 108272022,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15945,
+      "tag_name": "火星人光光"
+    }
+  ],
+  "subscribe_num": 375,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 83155,
+          "chapter_title": "2话",
+          "updatetime": 1542690696,
+          "filesize": 751122,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 82719,
+          "chapter_title": "1话",
+          "updatetime": 1541649180,
+          "filesize": 732893,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 8275963,
+        "uid": 102385606,
+        "content": "支持一下",
+        "createtime": 1542712799,
+        "nickname": "雄霸",
+        "avatar": "https://avatar.dmzj.com/31/47/3147a02365d9cf97fa468c034c2e5445.png"
+      },
+      {
+        "comment_id": 8272245,
+        "uid": 23869515,
+        "content": "国产的大多数一看封面就知道",
+        "createtime": 1542702305,
+        "nickname": "不可改动",
+        "avatar": "https://avatar.dmzj.com/07/d0/07d01f0c7b34b924cc8b6fc68babe36c.png"
+      }
+    ]
+  }
+}

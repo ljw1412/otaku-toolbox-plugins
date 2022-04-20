@@ -1,0 +1,80 @@
+{
+  "id": 43747,
+  "islong": 2,
+  "direction": 1,
+  "title": "唐纳·特洛伊归来",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/tangnateluoyiguiai.jpg",
+  "description": "无限危机倒计时特别呈现，唐纳·特洛伊归来",
+  "last_updatetime": 1523163513,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 22241,
+  "hit_num": 8076,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 98,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 75251,
+          "chapter_title": "1卷",
+          "updatetime": 1523114086,
+          "filesize": 4491225,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 75266,
+          "chapter_title": "0卷",
+          "updatetime": 1523163513,
+          "filesize": 1965888,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 4296617,
+        "uid": 105188274,
+        "content": "看见唐纳两个字进来",
+        "createtime": 1523188827,
+        "nickname": "沉默的东风",
+        "avatar": "https://avatar.dmzj.com/69/32/6932f17eb9e4ec95f96b94ec0c09b8ee.png"
+      },
+      {
+        "comment_id": 4292363,
+        "uid": 106126659,
+        "content": "第二",
+        "createtime": 1523154754,
+        "nickname": "dmzj_106126659",
+        "avatar": "https://avatar.dmzj.com/5a/43/5a438f8921dd20e9fd17b160c0e241df.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": 41640,
+  "islong": 2,
+  "direction": 1,
+  "title": "荷取的storage",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/hequdestorage.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1506831868,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hequdestorage",
+  "hidden": 0,
+  "hot_num": 128188,
+  "hit_num": 53678,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 69715,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2121,
+      "tag_name": "ととねみぎ"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 516,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 69715,
+          "chapter_title": "1卷",
+          "updatetime": 1506831874,
+          "filesize": 4606579,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 35,
+    "latest_comment": [
+      {
+        "comment_id": 23377720,
+        "uid": 108990893,
+        "content": "这个也订阅不上呢",
+        "createtime": 1579443584,
+        "nickname": "weessands",
+        "avatar": "https://avatar.dmzj.com/60/27/6027d56de8a89efde8c3aa11b9c402ac.png"
+      },
+      {
+        "comment_id": 23167701,
+        "uid": 109078101,
+        "content": "????",
+        "createtime": 1578553950,
+        "nickname": "一边睡觉一边睡觉",
+        "avatar": "https://avatar.dmzj.com/97/d0/97d03d113d91857dc24c5d3b95c28bac.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

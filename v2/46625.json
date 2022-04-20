@@ -1,0 +1,89 @@
+{
+  "id": 46625,
+  "islong": 2,
+  "direction": 2,
+  "title": "我名影舞",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1056234171522365250.jpg",
+  "description": "emmmmmmm",
+  "last_updatetime": 1586882268,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 24922,
+  "hit_num": 189357,
+  "uid": 105623417,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16076,
+      "tag_name": "V酋之首"
+    }
+  ],
+  "subscribe_num": 105,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100931,
+          "chapter_title": "3话",
+          "updatetime": 1586882268,
+          "filesize": 2025631,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 84296,
+          "chapter_title": "2话",
+          "updatetime": 1543471087,
+          "filesize": 2101406,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 84295,
+          "chapter_title": "1话",
+          "updatetime": 1543691797,
+          "filesize": 631616,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 26565755,
+        "uid": 105677185,
+        "content": "我名影舞（×）\nbecause i'm batman（√）",
+        "createtime": 1587090696,
+        "nickname": "forkkakaka",
+        "avatar": "https://avatar.dmzj.com/26/19/26193cf3d969a5a024d25e43355d7496.png"
+      },
+      {
+        "comment_id": 26511061,
+        "uid": 101317646,
+        "content": "可以",
+        "createtime": 1586955326,
+        "nickname": "kkkkkkφ",
+        "avatar": "https://avatar.dmzj.com/91/82/91827400ec72e637ed9e13c2490b3fd6.png"
+      }
+    ]
+  }
+}

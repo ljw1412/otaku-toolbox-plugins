@@ -1,0 +1,150 @@
+{
+  "id": 42447,
+  "islong": 2,
+  "direction": 2,
+  "title": "击剑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/17226jijian.jpg",
+  "description": "美漫少有的运动型漫画，日漫模式，boom studio出品",
+  "last_updatetime": 1564926383,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 304139,
+  "hit_num": 71194,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    },
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5237,
+      "tag_name": "boom"
+    }
+  ],
+  "subscribe_num": 1303,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90976,
+          "chapter_title": "12卷",
+          "updatetime": 1564926383,
+          "filesize": 5170660,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 90398,
+          "chapter_title": "11卷",
+          "updatetime": 1563462550,
+          "filesize": 5366258,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 88885,
+          "chapter_title": "10卷",
+          "updatetime": 1559474263,
+          "filesize": 5235050,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 88147,
+          "chapter_title": "9卷",
+          "updatetime": 1557283636,
+          "filesize": 2475728,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 87347,
+          "chapter_title": "8卷",
+          "updatetime": 1554864606,
+          "filesize": 5197221,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 86749,
+          "chapter_title": "7卷",
+          "updatetime": 1552995975,
+          "filesize": 2629958,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 86289,
+          "chapter_title": "6卷",
+          "updatetime": 1551707346,
+          "filesize": 2702059,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 85989,
+          "chapter_title": "5卷",
+          "updatetime": 1550936507,
+          "filesize": 2596251,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 85241,
+          "chapter_title": "4卷",
+          "updatetime": 1549113090,
+          "filesize": 2651210,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 73030,
+          "chapter_title": "3卷",
+          "updatetime": 1516782418,
+          "filesize": 5586196,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 72269,
+          "chapter_title": "2卷",
+          "updatetime": 1514712133,
+          "filesize": 4117851,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 72136,
+          "chapter_title": "1卷",
+          "updatetime": 1514255038,
+          "filesize": 2340163,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 126,
+    "latest_comment": [
+      {
+        "comment_id": 29549748,
+        "uid": 109832643,
+        "content": "我好了，我好了ˉ﹃ˉ",
+        "createtime": 1596887448,
+        "nickname": "brownianmotion",
+        "avatar": "https://avatar.dmzj.com/17/51/17513e8fae5f80b775b03eda1eb6562b.png"
+      },
+      {
+        "comment_id": 29544832,
+        "uid": 107872512,
+        "content": "又一部在梦里完结的作品",
+        "createtime": 1596866226,
+        "nickname": "dmzj_107872512",
+        "avatar": "https://avatar.dmzj.com/b7/b0/b7b004c5070e89e3563f455b459f19c8.png"
+      }
+    ]
+  }
+}

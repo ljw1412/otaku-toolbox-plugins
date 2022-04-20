@@ -1,0 +1,87 @@
+{
+  "id": 48384,
+  "islong": 2,
+  "direction": 2,
+  "title": "神奇蜘蛛侠：神秘客的宣言",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/sqzzxsmkdxy111.jpg",
+  "description": "看起来疯狂像是成为了纽约城里一种新兴的流行病，一个又一个的人看见了不应该看到的东西。这一切究竟是为了什么呢？",
+  "last_updatetime": 1565966152,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 66918,
+  "hit_num": 2715,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 259,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87907,
+          "chapter_title": "3卷",
+          "updatetime": 1565966152,
+          "filesize": 3183555,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 86077,
+          "chapter_title": "2卷",
+          "updatetime": 1560864859,
+          "filesize": 3264418,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 84647,
+          "chapter_title": "1卷",
+          "updatetime": 1557201754,
+          "filesize": 3190716,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 21804029,
+        "uid": 109878438,
+        "content": "仅剩之日后续？",
+        "createtime": 1572529734,
+        "nickname": "dmzj_109878438",
+        "avatar": "https://avatar.dmzj.com/90/8e/908ea0e4937d9d19ad9dcfb59f54ceae.png"
+      },
+      {
+        "comment_id": 19751317,
+        "uid": 101833406,
+        "content": "还是看看",
+        "createtime": 1566711553,
+        "nickname": "wonderland36160",
+        "avatar": "https://avatar.dmzj.com/40/15/40154e3ac20736200dbdd33f21f854e4.png"
+      }
+    ]
+  }
+}

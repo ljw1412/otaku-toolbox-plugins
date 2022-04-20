@@ -1,0 +1,73 @@
+{
+  "id": 48953,
+  "islong": 2,
+  "direction": 1,
+  "title": "伪装",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/190625wz.jpg",
+  "description": "入选新世纪漫画赏，作者百田棱助17岁时画的短篇。",
+  "last_updatetime": 1561473760,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 541758,
+  "hit_num": 9486,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17282,
+      "tag_name": "百田棱助"
+    }
+  ],
+  "subscribe_num": 2025,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85407,
+          "chapter_title": "1话",
+          "updatetime": 1561473760,
+          "filesize": 8067641,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 91,
+    "latest_comment": [
+      {
+        "comment_id": 29333676,
+        "uid": 111070578,
+        "content": "d   m       z    j",
+        "createtime": 1596108456,
+        "nickname": "dmzj_111070578",
+        "avatar": "https://avatar.dmzj.com/44/b8/44b8cdf6c984eb892bf0b25de15abb82.png"
+      },
+      {
+        "comment_id": 26041669,
+        "uid": 104304053,
+        "content": "换平板了 马一下",
+        "createtime": 1585967404,
+        "nickname": "nightingale123",
+        "avatar": "https://avatar.dmzj.com/72/13/72134ac8aef98b21cddf0f9d2cd28164.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": 49009,
+  "islong": 2,
+  "direction": 1,
+  "title": "恋爱吧！狸猫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/lianaibalimao0701.jpg",
+  "description": "有隐情的双胞胎！同居x婚活浪漫喜剧",
+  "last_updatetime": 1579351914,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 1295704,
+  "hit_num": 328665,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10201,
+      "tag_name": "赤瓦もどむ"
+    }
+  ],
+  "subscribe_num": 4949,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93222,
+          "chapter_title": "3话",
+          "updatetime": 1579351914,
+          "filesize": 9548522,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 92595,
+          "chapter_title": "2话",
+          "updatetime": 1577699324,
+          "filesize": 11422871,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 86450,
+          "chapter_title": "1话",
+          "updatetime": 1561914439,
+          "filesize": 8641586,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 232,
+    "latest_comment": [
+      {
+        "comment_id": 29534020,
+        "uid": 102132950,
+        "content": "奶奶，你关注的漫画已经56年没有更新了",
+        "createtime": 1596816522,
+        "nickname": "半糖少冰谢谢",
+        "avatar": "https://avatar.dmzj.com/25/62/2562b8903a78d7990daa1a9d0387478a.png"
+      },
+      {
+        "comment_id": 29527250,
+        "uid": 100955217,
+        "content": "狸猫",
+        "createtime": 1596799679,
+        "nickname": "夏明夏",
+        "avatar": "https://avatar.dmzj.com/02/c5/02c54366f889415b85d60c146db3c1b6.png"
+      }
+    ]
+  }
+}

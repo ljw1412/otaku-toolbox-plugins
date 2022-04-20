@@ -1,0 +1,73 @@
+{
+  "id": 42598,
+  "islong": 2,
+  "direction": 2,
+  "title": "疾速特攻",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/jisutegong0107.jpg",
+  "description": "dynamite根据基努李维斯同名电影改编,",
+  "last_updatetime": 1515315455,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 165458,
+  "hit_num": 29801,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2926,
+      "tag_name": "Dynamite"
+    }
+  ],
+  "subscribe_num": 721,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66620,
+          "chapter_title": "1卷",
+          "updatetime": 1515315463,
+          "filesize": 6187404,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 27623235,
+        "uid": 106083660,
+        "content": "开局一人一狗????",
+        "createtime": 1590245161,
+        "nickname": "我的名字并没想好",
+        "avatar": "https://avatar.dmzj.com/58/07/5807f0fbf7bec2c95cf89782e20114f1.png"
+      },
+      {
+        "comment_id": 26743624,
+        "uid": 110301598,
+        "content": "翻译的每一个字我都认识，但为什么合起来就看不懂了...",
+        "createtime": 1587586575,
+        "nickname": "玉藻前AYA",
+        "avatar": "https://avatar.dmzj.com/63/63/6363d4e441e5617d33ef515a975228ad.png"
+      }
+    ]
+  }
+}

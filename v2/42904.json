@@ -1,0 +1,76 @@
+{
+  "id": 42904,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C93)CL-ev 22",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/clev220129.jpg",
+  "description": "老湿画集~    （前方高能",
+  "last_updatetime": 1537352319,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 15688757,
+  "hit_num": 702807,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14231,
+      "tag_name": "吴マサヒロ"
+    }
+  ],
+  "subscribe_num": 58449,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77461,
+          "chapter_title": "2话",
+          "updatetime": 1537352319,
+          "filesize": 1709292,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 69453,
+          "chapter_title": "1话",
+          "updatetime": 1517291887,
+          "filesize": 3274680,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1754,
+    "latest_comment": [
+      {
+        "comment_id": 30010858,
+        "uid": 101710623,
+        "content": "强啊",
+        "createtime": 1598635134,
+        "nickname": "记得要微笑90074",
+        "avatar": "https://avatar.dmzj.com/6a/33/6a332cf6f027d1b2f9d1f12f637d9853.png"
+      },
+      {
+        "comment_id": 30004401,
+        "uid": 110706175,
+        "content": "天啊！",
+        "createtime": 1598622808,
+        "nickname": "dmzj_110706175",
+        "avatar": "https://avatar.dmzj.com/79/53/7953325dd8f6a785ef185c3773a33078.png"
+      }
+    ]
+  }
+}

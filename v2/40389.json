@@ -1,0 +1,77 @@
+{
+  "id": 40389,
+  "islong": 2,
+  "direction": 1,
+  "title": "汝的名字",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/rudeming.jpg",
+  "description": "你的名字的同人漫画。",
+  "last_updatetime": 1494414936,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 1918106,
+  "hit_num": 1479967,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3958,
+      "tag_name": "お嬢の浴室"
+    }
+  ],
+  "subscribe_num": 6366,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61383,
+          "chapter_title": "1话",
+          "updatetime": 1494414936,
+          "filesize": 3876310,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1079,
+    "latest_comment": [
+      {
+        "comment_id": 29862665,
+        "uid": 108358429,
+        "content": "抛锚",
+        "createtime": 1598101442,
+        "nickname": "dmzj_108358429",
+        "avatar": "https://avatar.dmzj.com/dd/d5/ddd54d1e0c0e2c1324a444da8f92210c.png"
+      },
+      {
+        "comment_id": 29844431,
+        "uid": 105479289,
+        "content": "勉强能冲",
+        "createtime": 1598025239,
+        "nickname": "0无名0",
+        "avatar": "https://avatar.dmzj.com/1e/2a/1e2a85869e6bfedc3591cfc59edaf273.png"
+      }
+    ]
+  }
+}

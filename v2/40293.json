@@ -1,0 +1,100 @@
+{
+  "id": 40293,
+  "islong": 2,
+  "direction": 2,
+  "title": "狮兔CP的日常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1044483811493179445.jpg",
+  "description": "高冷特化“狮”和呆萌侠女“兔”的互怼日常",
+  "last_updatetime": 1495684710,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 8142,
+  "hit_num": 9506,
+  "uid": 104448381,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13142,
+      "tag_name": "小狮子"
+    }
+  ],
+  "subscribe_num": 23,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59872,
+          "chapter_title": "4话",
+          "updatetime": 1495684710,
+          "filesize": 152004,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 59593,
+          "chapter_title": "3话",
+          "updatetime": 1494815164,
+          "filesize": 133007,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 59275,
+          "chapter_title": "2话",
+          "updatetime": 1493782834,
+          "filesize": 185679,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 59140,
+          "chapter_title": "1话",
+          "updatetime": 1493179513,
+          "filesize": 137336,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 2258112,
+        "uid": 101211767,
+        "content": "大概是发生在伸手不见五指的夜晚的故事吧(ง •̀_•́)ง",
+        "createtime": 1496290001,
+        "nickname": "Lemon",
+        "avatar": "https://avatar.dmzj.com/d0/67/d06773ca5162b998c8579e054059a6d4.png"
+      },
+      {
+        "comment_id": 2226119,
+        "uid": 101626133,
+        "content": "简介与内容完全无关……",
+        "createtime": 1495707122,
+        "nickname": "三白潭绿色农庄",
+        "avatar": "https://avatar.dmzj.com/e6/e1/e6e1442c59ba578ba9cd6fe6321df798.png"
+      }
+    ]
+  }
+}

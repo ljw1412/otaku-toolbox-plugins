@@ -1,0 +1,75 @@
+{
+  "id": 44868,
+  "islong": 2,
+  "direction": 1,
+  "title": "Magical Heart",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/180710rs0042.jpg",
+  "description": "美铃：今天我就要把咲夜你从大小姐身边抢过来！",
+  "last_updatetime": 1531746662,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "magicalheart",
+  "hidden": 0,
+  "hot_num": 128150,
+  "hit_num": 10932,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 73453,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16247,
+      "tag_name": "奈月なづ"
+    }
+  ],
+  "subscribe_num": 611,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73453,
+          "chapter_title": "1话",
+          "updatetime": 1531746662,
+          "filesize": 5465579,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 9344682,
+        "uid": 105301612,
+        "content": "画风好评",
+        "createtime": 1545789932,
+        "nickname": "我蛋很疼2014",
+        "avatar": "https://avatar.dmzj.com/12/c3/12c362462fb5b61623018f01dcd2c33d.png"
+      },
+      {
+        "comment_id": 6546559,
+        "uid": 105928282,
+        "content": "来一份烤大小姐的翅尾，微焦的那种(滑稽)",
+        "createtime": 1535470475,
+        "nickname": "Lingson",
+        "avatar": "https://avatar.dmzj.com/99/00/9900f54b3ff5cea55b9f5665ac048434.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

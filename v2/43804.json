@@ -1,0 +1,75 @@
+{
+  "id": 43804,
+  "islong": 2,
+  "direction": 1,
+  "title": "花赠汝名",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/180413huazengrum.jpg",
+  "description": "[戦いの軌跡 (戦友)] 君の名に花を贈る (艦隊これくしょん -艦これ-) 舰队收藏 同人",
+  "last_updatetime": 1523585256,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huazengruming",
+  "hidden": 0,
+  "hot_num": 131408,
+  "hit_num": 50222,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 71790,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6688,
+      "tag_name": "戦いの軌跡"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "subscribe_num": 623,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71790,
+          "chapter_title": "1话",
+          "updatetime": 1523585256,
+          "filesize": 13919459,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 29326133,
+        "uid": 104689050,
+        "content": "留",
+        "createtime": 1596077622,
+        "nickname": "ゆうぎあずな",
+        "avatar": "https://avatar.dmzj.com/89/94/899420caf839331c1b21c9261b0074a7.png"
+      },
+      {
+        "comment_id": 15984487,
+        "uid": 109139153,
+        "content": "……",
+        "createtime": 1557992228,
+        "nickname": "dmzj_109139153",
+        "avatar": "https://avatar.dmzj.com/4c/43/4c436c678384cb08435cb88192d07b14.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

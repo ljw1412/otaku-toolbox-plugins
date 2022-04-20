@@ -1,0 +1,79 @@
+{
+  "id": 43554,
+  "islong": 2,
+  "direction": 2,
+  "title": "我们的我们",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1059334411596090462.jpg",
+  "description": "就算没法成为漫画家，也要在离开人世前留下点什么啊。\n",
+  "last_updatetime": 1596905309,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 142613,
+  "hit_num": 2006043,
+  "uid": 105933441,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14652,
+      "tag_name": "Nobear"
+    }
+  ],
+  "subscribe_num": 574,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102070,
+          "chapter_title": "1话",
+          "updatetime": 1596905309,
+          "filesize": 8576351,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "最近适应了自己的作画节奏，大概可以保证每个星期一更一部分，然后一个月更完一话后就整合起来方便阅读这样，每次看心情更新5页左右吧，哈哈",
+  "comic_notice": "目前收录漫画：短篇《末日》",
+  "comment": {
+    "comment_count": 110,
+    "latest_comment": [
+      {
+        "comment_id": 30044874,
+        "uid": 110885714,
+        "content": "留六流。。。。。。。",
+        "createtime": 1598790153,
+        "nickname": "dmzj_110885714",
+        "avatar": "https://avatar.dmzj.com/96/87/9687ba90c127a5e5b3131ec99a593e16.png"
+      },
+      {
+        "comment_id": 29714540,
+        "uid": 105175990,
+        "content": "现有一部长一点的新作品，我还在协助他修改第一话，毕竟不是专业的还存在很多很多问题，新板子还没到也还只能用旧的，还请各位hxd谅解，真的非常感谢大伙的建议和支持～",
+        "createtime": 1597551042,
+        "nickname": "吹就完了康康我签名",
+        "avatar": "https://avatar.dmzj.com/df/ee/dfee39794a9fd34f2ea037899515b107.png"
+      }
+    ]
+  }
+}

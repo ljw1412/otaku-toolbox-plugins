@@ -1,0 +1,79 @@
+{
+  "id": 39717,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方红魔篇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/dfhmp25356l.jpg",
+  "description": "掀群狂魔来袭！",
+  "last_updatetime": 1486021789,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongfanghongmopian",
+  "hidden": 0,
+  "hot_num": 110298,
+  "hit_num": 89597,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 62221,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5963,
+      "tag_name": "御月ユウヤ"
+    }
+  ],
+  "subscribe_num": 709,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 62221,
+          "chapter_title": "1话",
+          "updatetime": 1486021789,
+          "filesize": 2492785,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 55,
+    "latest_comment": [
+      {
+        "comment_id": 23157902,
+        "uid": 100911527,
+        "content": "我特娘的就好这一口（错乱）",
+        "createtime": 1578502012,
+        "nickname": "鲁克莉莉",
+        "avatar": "https://avatar.dmzj.com/83/37/8337f9013b20faf2b465a6098a0d2972.png"
+      },
+      {
+        "comment_id": 21464405,
+        "uid": 104727897,
+        "content": "御月老师作品，看封面就知道老儿童向了",
+        "createtime": 1571474136,
+        "nickname": "Black Fox",
+        "avatar": "https://avatar.dmzj.com/33/80/3380fa1dde1c9267af9729a20c245921.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

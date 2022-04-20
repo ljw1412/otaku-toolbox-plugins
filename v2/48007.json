@@ -1,0 +1,73 @@
+{
+  "id": 48007,
+  "islong": 2,
+  "direction": 1,
+  "title": "半梦半醒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/banmengbanxing0405.jpg",
+  "description": "收录于日式恐怖短篇集『彼岸の呗』（彼岸之歌）还在连载中没有发售。",
+  "last_updatetime": 1554478734,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 1287696,
+  "hit_num": 15151,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14001,
+      "tag_name": "雨衣少女群（雨がっぱ少女群）"
+    }
+  ],
+  "subscribe_num": 5421,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87193,
+          "chapter_title": "1话",
+          "updatetime": 1554478734,
+          "filesize": 3197393,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 345,
+    "latest_comment": [
+      {
+        "comment_id": 29756902,
+        "uid": 105660787,
+        "content": "留",
+        "createtime": 1597692258,
+        "nickname": "雾霭晨曦",
+        "avatar": "https://avatar.dmzj.com/57/ee/57eefd15aaa5ff7508d7a5330f70f51e.png"
+      },
+      {
+        "comment_id": 29683101,
+        "uid": 110713826,
+        "content": "留住",
+        "createtime": 1597421353,
+        "nickname": "dmzj_110713826",
+        "avatar": "https://avatar.dmzj.com/39/d2/39d223ee4e2adea99653b68fb75e8950.png"
+      }
+    ]
+  }
+}

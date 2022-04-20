@@ -1,0 +1,93 @@
+{
+  "id": 49456,
+  "islong": 2,
+  "direction": 2,
+  "title": "偏偏喜欢你",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1017105691564463072.jpg",
+  "description": "我是女孩子，所以找不到男朋友，呜呜呜……",
+  "last_updatetime": 1564463646,
+  "copyright": 1,
+  "first_letter": "p",
+  "hot_num": 4889,
+  "hit_num": 4426,
+  "uid": 101710569,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17516,
+      "tag_name": "白龙KING"
+    }
+  ],
+  "subscribe_num": 13,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91098,
+          "chapter_title": "3话",
+          "updatetime": 1564463646,
+          "filesize": 711089,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 91097,
+          "chapter_title": "2话",
+          "updatetime": 1564463624,
+          "filesize": 764162,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 91096,
+          "chapter_title": "1话",
+          "updatetime": 1564463577,
+          "filesize": 732336,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "月更，求收藏！",
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 18859328,
+        "uid": 104258848,
+        "content": "为何我的心不会死  明白到爱失去一切都不对",
+        "createtime": 1564602515,
+        "nickname": "渋谷凛·",
+        "avatar": "https://avatar.dmzj.com/98/10/9810f6bd4395778291f227868b99d064.png"
+      },
+      {
+        "comment_id": 18848285,
+        "uid": 105232544,
+        "content": "不错哟",
+        "createtime": 1564583220,
+        "nickname": "鱼翅炒泡面",
+        "avatar": "https://avatar.dmzj.com/6c/b5/6cb5dac646f48712e8e180ddb73d3d69.png"
+      }
+    ]
+  }
+}

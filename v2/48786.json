@@ -1,0 +1,86 @@
+{
+  "id": 48786,
+  "islong": 1,
+  "direction": 2,
+  "title": "活见鬼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1056569821559875681.jpg",
+  "description": "短篇恐怖漫画",
+  "last_updatetime": 1560911719,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 47608,
+  "hit_num": 705478,
+  "uid": 105656982,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17191,
+      "tag_name": "幽游鲤"
+    }
+  ],
+  "subscribe_num": 162,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89532,
+          "chapter_title": "2话",
+          "updatetime": 1560911719,
+          "filesize": 994480,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 89275,
+          "chapter_title": "1话",
+          "updatetime": 1559875807,
+          "filesize": 798649,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "后续过不了审，已经断更了。完整版可以去TX看。谢谢小伙伴们的支持。",
+  "comic_notice": "后续过不了审",
+  "comment": {
+    "comment_count": 38,
+    "latest_comment": [
+      {
+        "comment_id": 28175803,
+        "uid": 105656982,
+        "content": "后续过不了审，断更了~目前只能在腾讯漫画看到完整版。谢谢小伙伴的支持~",
+        "createtime": 1592198940,
+        "nickname": "幽游鲤",
+        "avatar": "https://avatar.dmzj.com/89/94/899497f0baea5e8c85cb6dfa7619dbda.png"
+      },
+      {
+        "comment_id": 25657238,
+        "uid": 110477487,
+        "content": "SCP基金会在吗？在的话过来处理一下",
+        "createtime": 1585093313,
+        "nickname": "亚门上等搜查官",
+        "avatar": "https://avatar.dmzj.com/54/46/5446d0a8bd1331f35add5656fb372be7.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": 44093,
+  "islong": 2,
+  "direction": 2,
+  "title": "Pic的小伙伴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1069702071525425920.jpg",
+  "description": "以我的原创表情包形象为素材的漫画",
+  "last_updatetime": 1525426554,
+  "copyright": 1,
+  "first_letter": "p",
+  "hot_num": 13303,
+  "hit_num": 11864,
+  "uid": 106970207,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14889,
+      "tag_name": "PicShu"
+    }
+  ],
+  "subscribe_num": 57,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71018,
+          "chapter_title": "2话",
+          "updatetime": 1525426554,
+          "filesize": 61407,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 71017,
+          "chapter_title": "1话",
+          "updatetime": 1525426519,
+          "filesize": 59506,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 4612489,
+        "uid": 100895747,
+        "content": "FBI warning",
+        "createtime": 1525696250,
+        "nickname": "告诉你我是真的惹不起",
+        "avatar": "https://avatar.dmzj.com/56/08/560806757829aa6731c72bc2fc820fb5.png"
+      },
+      {
+        "comment_id": 4610427,
+        "uid": 101818982,
+        "content": "看来进来的都是道友",
+        "createtime": 1525682030,
+        "nickname": "口婴口婴口婴",
+        "avatar": "https://avatar.dmzj.com/71/36/7136f033616cdf975d47b64f8a37614e.png"
+      }
+    ]
+  }
+}

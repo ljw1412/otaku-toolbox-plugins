@@ -1,0 +1,101 @@
+{
+  "id": 48549,
+  "islong": 2,
+  "direction": 2,
+  "title": "忍者神龟2012：UK杂志配套漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/rzsg2012uk190521.jpg",
+  "description": "来自英国的儿童杂志，每期都会带1-2篇小漫画",
+  "last_updatetime": 1574866432,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 34826,
+  "hit_num": 3253,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17072,
+      "tag_name": "Panini magazines"
+    }
+  ],
+  "subscribe_num": 116,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91643,
+          "chapter_title": "5卷",
+          "updatetime": 1574866432,
+          "filesize": 4145259,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 90495,
+          "chapter_title": "4卷",
+          "updatetime": 1571908044,
+          "filesize": 3073519,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 86784,
+          "chapter_title": "3卷",
+          "updatetime": 1562936284,
+          "filesize": 2121426,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 86783,
+          "chapter_title": "2卷",
+          "updatetime": 1562936253,
+          "filesize": 2283071,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 85130,
+          "chapter_title": "1卷",
+          "updatetime": 1558424408,
+          "filesize": 2212933,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 22353317,
+        "uid": 107728305,
+        "content": "神秘博士好像也是panini的",
+        "createtime": 1574870188,
+        "nickname": "天生我材2015",
+        "avatar": "https://avatar.dmzj.com/82/89/828963ac0b51747ddd09b6f6871b4382.png"
+      },
+      {
+        "comment_id": 21660298,
+        "uid": 105353326,
+        "content": "我滴龟龟",
+        "createtime": 1572026003,
+        "nickname": "qzuser98044658",
+        "avatar": "https://avatar.dmzj.com/41/9d/419d478bda3182544e5c7125266c6e3d.png"
+      }
+    ]
+  }
+}

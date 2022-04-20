@@ -1,0 +1,73 @@
+{
+  "id": 40989,
+  "islong": 2,
+  "direction": 1,
+  "title": "星球大战：影与光",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/xingqiudazhanyingyuguang.jpg",
+  "description": "发生在星球大战：旧共和国武士之前的故事，却与瑞文的冒险联系在了一起。",
+  "last_updatetime": 1500469853,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 110282,
+  "hit_num": 14259,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 473,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 63317,
+          "chapter_title": "1卷",
+          "updatetime": 1500469853,
+          "filesize": 3294693,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 6417469,
+        "uid": 101833902,
+        "content": "在sith\n山洞里能找到他们的遗体和绝地袍子",
+        "createtime": 1534920148,
+        "nickname": "charcoal",
+        "avatar": "https://avatar.dmzj.com/68/14/68140a2912d26386033425243fe9ed04.png"
+      },
+      {
+        "comment_id": 2939429,
+        "uid": 4730865,
+        "content": "有第2話嗎？",
+        "createtime": 1505752367,
+        "nickname": "wilsonwong2143",
+        "avatar": "https://avatar.dmzj.com/86/67/8667575d1cf218f160cd4db6cfd10561.png"
+      }
+    ]
+  }
+}

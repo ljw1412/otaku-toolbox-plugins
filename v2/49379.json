@@ -1,0 +1,137 @@
+{
+  "id": 49379,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔法使黎明期",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/mfsdlm2020115.jpg",
+  "description": "我的名字叫塞维尔，是魔法学校的学生。入学之前的事情基本上都想不起来了，自己的名字和关于“那个人”的回忆……那就是我的全部了……",
+  "last_updatetime": 1593844096,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 5901858,
+  "hit_num": 4881544,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 6316,
+      "tag_name": "轻小说"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7164,
+      "tag_name": "タツヲ"
+    },
+    {
+      "tag_id": 8502,
+      "tag_name": "虎走かける"
+    }
+  ],
+  "subscribe_num": 24263,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100589,
+          "chapter_title": "9话",
+          "updatetime": 1593844096,
+          "filesize": 7800457,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 99351,
+          "chapter_title": "8话",
+          "updatetime": 1591338834,
+          "filesize": 7382041,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 96348,
+          "chapter_title": "7话",
+          "updatetime": 1586097975,
+          "filesize": 10183774,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 93121,
+          "chapter_title": "6话",
+          "updatetime": 1579142897,
+          "filesize": 5583424,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 93091,
+          "chapter_title": "5话",
+          "updatetime": 1579058839,
+          "filesize": 4897425,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 91458,
+          "chapter_title": "4话",
+          "updatetime": 1574483273,
+          "filesize": 3764102,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 91083,
+          "chapter_title": "3话",
+          "updatetime": 1573445429,
+          "filesize": 3710429,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 89167,
+          "chapter_title": "2话",
+          "updatetime": 1569602785,
+          "filesize": 4770812,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 87220,
+          "chapter_title": "1话",
+          "updatetime": 1564115060,
+          "filesize": 7500180,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1432,
+    "latest_comment": [
+      {
+        "comment_id": 30052939,
+        "uid": 100715854,
+        "content": "零书续作吗，啊这，知道的有点晚诶",
+        "createtime": 1598809009,
+        "nickname": "东风谷诹访子",
+        "avatar": "https://avatar.dmzj.com/12/71/12712b38f54098714bfda67162e0327e.png"
+      },
+      {
+        "comment_id": 29925636,
+        "uid": 107789050,
+        "content": "让我康康！",
+        "createtime": 1598331687,
+        "nickname": "dmzj_107789050",
+        "avatar": "https://avatar.dmzj.com/ea/72/ea7292d357fc63847b86c6487b39a70a.png"
+      }
+    ]
+  }
+}

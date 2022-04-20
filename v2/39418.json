@@ -1,0 +1,90 @@
+{
+  "id": 39418,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔爪大冒险之彩虹编码",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1024603231482029234.jpg",
+  "description": "《魔爪大冒险之神秘的彩虹编码》是一部少儿科幻题材漫画，讲述了主人公海克意外掉落编程世界，在编程世界的阿呆的帮助下寻找归家之路的冒险旅程。",
+  "last_updatetime": 1482029884,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 1234,
+  "hit_num": 12805,
+  "uid": 102460323,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12725,
+      "tag_name": "魔爪营漫画部"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 55835,
+          "chapter_title": "5话",
+          "updatetime": 1482029884,
+          "filesize": 849268,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 55834,
+          "chapter_title": "4话",
+          "updatetime": 1482029818,
+          "filesize": 858242,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 55833,
+          "chapter_title": "3话",
+          "updatetime": 1482029691,
+          "filesize": 869296,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 55832,
+          "chapter_title": "2话",
+          "updatetime": 1482029515,
+          "filesize": 870367,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 55831,
+          "chapter_title": "1话",
+          "updatetime": 1482029337,
+          "filesize": 736864,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "漫画读者交流QQ群235625799",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

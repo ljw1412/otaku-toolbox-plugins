@@ -1,0 +1,89 @@
+{
+  "id": 40237,
+  "islong": 1,
+  "direction": 2,
+  "title": "四格漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1042177361492679147.jpg",
+  "description": "自己想的小段子\n",
+  "last_updatetime": 1495533622,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 3800,
+  "hit_num": 17014,
+  "uid": 104217736,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12989,
+      "tag_name": "郝小坏"
+    }
+  ],
+  "subscribe_num": 7,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65468,
+          "chapter_title": "3话",
+          "updatetime": 1495533622,
+          "filesize": 329596,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 65142,
+          "chapter_title": "2话",
+          "updatetime": 1494404386,
+          "filesize": 144873,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 64476,
+          "chapter_title": "1话",
+          "updatetime": 1492679323,
+          "filesize": 121310,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 2220702,
+        "uid": 104538862,
+        "content": "你这样。。。就是披着相声外壳的冷笑话，第一段笑点在说破天？第二段是气管炎烧鸡那个没看懂，建议走一条路走好，相声冷笑话都走，只能两边都不讨喜",
+        "createtime": 1495599064,
+        "nickname": "不肥的橙猫",
+        "avatar": "https://avatar.dmzj.com/34/44/3444ff33bd8e16dc3ca9bdd8ad9b1405.png"
+      },
+      {
+        "comment_id": 2220701,
+        "uid": 104538862,
+        "content": "你这样。。。就是披着相声外壳的冷笑话，第一段笑点在说破天？第二段是气管炎烧鸡那个没看懂，建议走一条路走好，相声冷笑话都走，只能两边都不讨喜",
+        "createtime": 1495599051,
+        "nickname": "不肥的橙猫",
+        "avatar": "https://avatar.dmzj.com/34/44/3444ff33bd8e16dc3ca9bdd8ad9b1405.png"
+      }
+    ]
+  }
+}

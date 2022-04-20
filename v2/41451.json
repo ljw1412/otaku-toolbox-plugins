@@ -1,0 +1,114 @@
+{
+  "id": 41451,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠：暗影侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/bianfuxiazhianyingxia.jpg",
+  "description": "蝙蝠侠在一起凶杀案中遇到了这位30年代的经典角色 The Shadow （这里翻作暗影侠）\n大量的侦探元素、黑暗的诡谲气氛",
+  "last_updatetime": 1506755800,
+  "last_update_chapter_name": "第06卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bianfuxiaanyingxia",
+  "hidden": 0,
+  "hot_num": 126270,
+  "hit_num": 291198,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 68221,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 518,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 68221,
+          "chapter_title": "6卷",
+          "updatetime": 1506755800,
+          "filesize": 6793103,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 67938,
+          "chapter_title": "5卷",
+          "updatetime": 1505967592,
+          "filesize": 7537906,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 67827,
+          "chapter_title": "4卷",
+          "updatetime": 1505630962,
+          "filesize": 3537213,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 67788,
+          "chapter_title": "3卷",
+          "updatetime": 1505456663,
+          "filesize": 5531768,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 67787,
+          "chapter_title": "2卷",
+          "updatetime": 1505456631,
+          "filesize": 5672556,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 67548,
+          "chapter_title": "1卷",
+          "updatetime": 1504786386,
+          "filesize": 5048408,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 19320343,
+        "uid": 105442214,
+        "content": "其实我也觉得DC官网那种切割阅读有点浪费画师心血",
+        "createtime": 1565618864,
+        "nickname": "平安哥谭",
+        "avatar": "https://avatar.dmzj.com/58/43/584367afeb7ba721d8678db4454e3bea.png"
+      },
+      {
+        "comment_id": 5547859,
+        "uid": 107454770,
+        "content": "私以为因推广对象是新人，就做出把分镜切开单独成页的决定是不够妥当的。掌握一门技能是需要练习的，不练习就无法掌握，把分镜切开实际上让新人们失去了练习的机会，如此一来，他们将一直无法独立看懂漫画。那当他们面对大多数没有进行分镜切分的汉化作品时，他们又该何去何从呢？而且，分镜是为剧情的发展服务的，是有其内在逻辑的，切割分镜的同时也破坏了这种逻辑，画面和故事的连续性都将受到影响，这对所有读者都是一种损失，不论新老。",
+        "createtime": 1531295898,
+        "nickname": "dmzj_107454770",
+        "avatar": "https://avatar.dmzj.com/37/2e/372eed560717a295d9a0cc1f62f12b40.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,73 @@
+{
+  "id": 42781,
+  "islong": 1,
+  "direction": 1,
+  "title": "我的咸鱼女友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/wodexianyunvyou.jpg",
+  "description": "夏记的梦想是成为一名厨师，然而他对鲭鱼过敏……一日，他下决心再次尝试料理这种食材，结果这只鲭鱼……说话了……",
+  "last_updatetime": 1516544169,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 378747,
+  "hit_num": 94251,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14313,
+      "tag_name": "桦太ししゃも"
+    }
+  ],
+  "subscribe_num": 1560,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71800,
+          "chapter_title": "1话",
+          "updatetime": 1516544169,
+          "filesize": 788367,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 78,
+    "latest_comment": [
+      {
+        "comment_id": 22357364,
+        "uid": 101001249,
+        "content": "口什么来着？",
+        "createtime": 1574885938,
+        "nickname": "加西亚·扬",
+        "avatar": "https://avatar.dmzj.com/d1/ac/d1ac6371f9eb1287aec77945533753cc.png"
+      },
+      {
+        "comment_id": 13716487,
+        "uid": 108326821,
+        "content": "。。。。",
+        "createtime": 1554291322,
+        "nickname": "dmzj_108326821",
+        "avatar": "https://avatar.dmzj.com/a7/57/a757347d6cdc496a86d74e3410e11c2b.png"
+      }
+    ]
+  }
+}

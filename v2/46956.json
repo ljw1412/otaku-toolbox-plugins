@@ -1,0 +1,78 @@
+{
+  "id": 46956,
+  "islong": 2,
+  "direction": 1,
+  "title": "三口同学",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1018069601546324033.jpg",
+  "description": "坐在我隔壁的三口同学让人十分在意。",
+  "last_updatetime": 1551894409,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 244041,
+  "hit_num": 945109,
+  "uid": 101806960,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16240,
+      "tag_name": "K诺_DX"
+    }
+  ],
+  "subscribe_num": 1121,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86470,
+          "chapter_title": "2话",
+          "updatetime": 1551894409,
+          "filesize": 720431,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 84517,
+          "chapter_title": "1话",
+          "updatetime": 1546323802,
+          "filesize": 460621,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 80,
+    "latest_comment": [
+      {
+        "comment_id": 29495263,
+        "uid": 102163783,
+        "content": "更新呢？",
+        "createtime": 1596685188,
+        "nickname": "八云麟",
+        "avatar": "https://avatar.dmzj.com/60/61/6061b4d481577515c7d6a7b14f9ad9b8.png"
+      },
+      {
+        "comment_id": 14713590,
+        "uid": 108998018,
+        "content": "令人在意的烧酒",
+        "createtime": 1555904720,
+        "nickname": "世界の観測者76067",
+        "avatar": "https://avatar.dmzj.com/36/80/3680d65228775302b25709e30fb1a198.png"
+      }
+    ]
+  }
+}

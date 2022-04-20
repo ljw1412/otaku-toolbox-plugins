@@ -1,0 +1,78 @@
+{
+  "id": 41812,
+  "islong": 1,
+  "direction": 2,
+  "title": "无序时空",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002492071518330334.jpg",
+  "description": "    风雨交加的大夜晚，火车途中意外来到了另一个世界的小镇，这不是普通的小镇，能看见世界聚集一起的混乱场景，也能看见遥远的荒凉废土，是时空交汇的地方，可以跨约不同地方，这是无序世界。",
+  "last_updatetime": 1518331435,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 10576,
+  "hit_num": 217429,
+  "uid": 100249207,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13862,
+      "tag_name": "yang鼬"
+    }
+  ],
+  "subscribe_num": 44,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73728,
+          "chapter_title": "2话",
+          "updatetime": 1518331435,
+          "filesize": 1076742,
+          "chapter_order": 17
+        },
+        {
+          "chapter_id": 69889,
+          "chapter_title": "1话",
+          "updatetime": 1508157948,
+          "filesize": 1396582,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "大夜晚，也能看见遥远的荒凉废土，可以跨约不同地方，这是无序世界。",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 3118772,
+        "uid": 100249207,
+        "content": "没填完坑就说完结了",
+        "createtime": 1508303834,
+        "nickname": "宇智波昕",
+        "avatar": "https://avatar.dmzj.com/63/09/63094ae63d11efab2c465d180e777088.png"
+      },
+      {
+        "comment_id": 3112506,
+        "uid": 105417958,
+        "content": "占下了4楼",
+        "createtime": 1508225018,
+        "nickname": "s492591457",
+        "avatar": "https://avatar.dmzj.com/0b/1b/0b1b29c866743cf84d1128453049c7b4.png"
+      }
+    ]
+  }
+}

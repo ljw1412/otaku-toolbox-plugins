@@ -1,0 +1,73 @@
+{
+  "id": 45255,
+  "islong": 2,
+  "direction": 1,
+  "title": "走失的森林 我在这里哦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/zoushidesenlin.jpg",
+  "description": "女孩们遇鬼全灭，只有一对情侣幸免于难。",
+  "last_updatetime": 1533563512,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 225634,
+  "hit_num": 9743,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8926,
+      "tag_name": "增田里穗"
+    }
+  ],
+  "subscribe_num": 976,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80613,
+          "chapter_title": "1话",
+          "updatetime": 1533563512,
+          "filesize": 1229833,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 50,
+    "latest_comment": [
+      {
+        "comment_id": 24430623,
+        "uid": 109800684,
+        "content": "增田里穗？？",
+        "createtime": 1582393892,
+        "nickname": "dmzj_109800684",
+        "avatar": "https://avatar.dmzj.com/2c/d3/2cd3b304c5d380c049e2214f5570b006.png"
+      },
+      {
+        "comment_id": 23696438,
+        "uid": 108890491,
+        "content": "溜爪",
+        "createtime": 1580577993,
+        "nickname": "dmzj_108890491",
+        "avatar": "https://avatar.dmzj.com/3f/d0/3fd09142558b0a5088ae772f9858d3fe.png"
+      }
+    ]
+  }
+}

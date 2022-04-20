@@ -1,0 +1,87 @@
+{
+  "id": 42776,
+  "islong": 2,
+  "direction": 1,
+  "title": "妹48",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/meikong.jpg",
+  "description": "起来吧，全国的哥哥们！",
+  "last_updatetime": 1516537611,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 641168,
+  "hit_num": 556246,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14308,
+      "tag_name": "樱井ナオキ"
+    }
+  ],
+  "subscribe_num": 2889,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71796,
+          "chapter_title": "3话",
+          "updatetime": 1516537611,
+          "filesize": 1845035,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 71795,
+          "chapter_title": "2话",
+          "updatetime": 1516537571,
+          "filesize": 2430062,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 71794,
+          "chapter_title": "1话",
+          "updatetime": 1516537542,
+          "filesize": 5258144,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 59,
+    "latest_comment": [
+      {
+        "comment_id": 28001751,
+        "uid": 107428457,
+        "content": "等吧，啥时候更新完",
+        "createtime": 1591547350,
+        "nickname": "人生诺之如初见",
+        "avatar": "https://avatar.dmzj.com/f1/d7/f1d70389d0b8f1405eff629d4901ba61.png"
+      },
+      {
+        "comment_id": 27700987,
+        "uid": 110362091,
+        "content": "两年多了……还在治疗脖子嘛？",
+        "createtime": 1590485223,
+        "nickname": "打call机",
+        "avatar": "https://avatar.dmzj.com/99/30/9930a7d22bfd0f9bed283d84584e3a60.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 44618,
+  "islong": 2,
+  "direction": 2,
+  "title": "想象一下斯坦李的蝙蝠侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/0618xiangxiangyixiasitanlidebianfuxia.jpg",
+  "description": "假如蝙蝠侠在斯坦李手下。",
+  "last_updatetime": 1529327241,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 106405,
+  "hit_num": 76344,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 423,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72549,
+          "chapter_title": "1卷",
+          "updatetime": 1529327241,
+          "filesize": 9069683,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 15285050,
+        "uid": 105737395,
+        "content": "这。。。应该叫蝙蝠怪人(滑稽)",
+        "createtime": 1556852191,
+        "nickname": "NightmareFreak",
+        "avatar": "https://avatar.dmzj.com/75/35/75357bb036b73ef9893835f94d7e5d83.png"
+      },
+      {
+        "comment_id": 10490103,
+        "uid": 105650772,
+        "content": "真丑",
+        "createtime": 1548401195,
+        "nickname": "§γBruceW",
+        "avatar": "https://avatar.dmzj.com/46/04/4604ca505398a9564e9527e9e10ef1a9.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": 42928,
+  "islong": 2,
+  "direction": 1,
+  "title": "龙樱2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/longying2.jpg",
+  "description": "10年前的「龙樱」作者再次出现，向2020年日本教育改革发起挑战——！",
+  "last_updatetime": 1519290172,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 580602,
+  "hit_num": 140179,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1720,
+      "tag_name": "三田纪房"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 2607,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 68185,
+          "chapter_title": "5话",
+          "updatetime": 1519290172,
+          "filesize": 1533726,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 68088,
+          "chapter_title": "4话",
+          "updatetime": 1518959354,
+          "filesize": 2935678,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 68087,
+          "chapter_title": "3话",
+          "updatetime": 1518959244,
+          "filesize": 1839602,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 67576,
+          "chapter_title": "2话",
+          "updatetime": 1517562570,
+          "filesize": 4862460,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 67448,
+          "chapter_title": "1话",
+          "updatetime": 1517299627,
+          "filesize": 5174650,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 76,
+    "latest_comment": [
+      {
+        "comment_id": 28789439,
+        "uid": 109051360,
+        "content": "5天后中考，奥利给！..........我本来是想怎样说的，但是我直升了，嘻嘻????????",
+        "createtime": 1594219640,
+        "nickname": "烈海王小火车",
+        "avatar": "https://avatar.dmzj.com/82/85/8285c1ee1d36defc6e3b85108fa3fd79.png"
+      },
+      {
+        "comment_id": 28086986,
+        "uid": 111143702,
+        "content": "电视剧都要拍续集了，字幕组不考虑继续做吗！",
+        "createtime": 1591877429,
+        "nickname": "dmzj_111143702",
+        "avatar": "https://avatar.dmzj.com/cb/54/cb542a907dbc5e1503e2afb836d4e8eb.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": 45454,
+  "islong": 2,
+  "direction": 1,
+  "title": "Requiem",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/180819Requiem.jpg",
+  "description": "红雾异变的故事。",
+  "last_updatetime": 1534675474,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 88678,
+  "hit_num": 22908,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15506,
+      "tag_name": "かずたろ"
+    }
+  ],
+  "subscribe_num": 400,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76431,
+          "chapter_title": "1话",
+          "updatetime": 1534675474,
+          "filesize": 4256391,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 66,
+    "latest_comment": [
+      {
+        "comment_id": 25112428,
+        "uid": 107899887,
+        "content": "73、为什么要称赞他人？那是为了把对方捧到更高的地方更容易绊他的脚，为了把他从高处摔下来。这就叫做称赞杀人法。",
+        "createtime": 1583849946,
+        "nickname": "蓦然雪化，且停留",
+        "avatar": "https://avatar.dmzj.com/22/b1/22b105a93f23166b7f2563b7f6af3c1d.png"
+      },
+      {
+        "comment_id": 13230610,
+        "uid": 108403252,
+        "content": "原作剧情向喜欢",
+        "createtime": 1553255882,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      }
+    ]
+  }
+}

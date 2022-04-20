@@ -1,0 +1,73 @@
+{
+  "id": 47548,
+  "islong": 2,
+  "direction": 1,
+  "title": "此生此歌",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/190221cscg.jpg",
+  "description": "[凝固快感]的再一次冲击！",
+  "last_updatetime": 1550802070,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 785594,
+  "hit_num": 69714,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3326,
+      "tag_name": "音乐舞蹈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 274,
+      "tag_name": "新条真由"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 3476,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81511,
+          "chapter_title": "1话",
+          "updatetime": 1550802070,
+          "filesize": 5881069,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 64,
+    "latest_comment": [
+      {
+        "comment_id": 27199210,
+        "uid": 109824937,
+        "content": "哇！新作！就是节奏有点迷？",
+        "createtime": 1588882005,
+        "nickname": "dmzj_109824937",
+        "avatar": "https://avatar.dmzj.com/9c/7b/9c7b6b119fa58c9977ba686e59b4dfdb.png"
+      },
+      {
+        "comment_id": 26993468,
+        "uid": 104670192,
+        "content": "数十年如一日的下巴。",
+        "createtime": 1588280586,
+        "nickname": "毕月",
+        "avatar": "https://avatar.dmzj.com/81/95/81958139a564130cc0713c9ef9b2a091.png"
+      }
+    ]
+  }
+}

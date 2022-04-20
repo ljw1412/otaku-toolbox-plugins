@@ -1,0 +1,75 @@
+{
+  "id": 42473,
+  "islong": 2,
+  "direction": 1,
+  "title": "RURY ROAD",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/RURY ROAD.jpg",
+  "description": "东方同人漫画。",
+  "last_updatetime": 1514386038,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "furyroad",
+  "hidden": 0,
+  "hot_num": 113057,
+  "hit_num": 7716,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 66247,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6461,
+      "tag_name": "からあげ太郎"
+    }
+  ],
+  "subscribe_num": 509,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66247,
+          "chapter_title": "1话",
+          "updatetime": 1514386038,
+          "filesize": 567438,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 28367712,
+        "uid": 106418032,
+        "content": "这个作者也是奇人。画风可爱剧情温馨，结果就突然给你整个活，还有荷取楚巴卡这种鬼神夜哭级别的CP",
+        "createtime": 1592870468,
+        "nickname": "dmzj_106418032",
+        "avatar": "https://avatar.dmzj.com/df/5e/df5ee07d7ee4c05454b86c628b0cdf2d.png"
+      },
+      {
+        "comment_id": 23254022,
+        "uid": 101704354,
+        "content": "这个作者的漫画都好好看",
+        "createtime": 1578892264,
+        "nickname": "leryar",
+        "avatar": "https://avatar.dmzj.com/68/53/6853860baf6dd8beb884a34bc1fa5fb9.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

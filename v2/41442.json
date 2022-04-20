@@ -1,0 +1,86 @@
+{
+  "id": 41442,
+  "islong": 2,
+  "direction": 2,
+  "title": "小玩意",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1052411921504687163.jpg",
+  "description": "唯美  治愈小故事",
+  "last_updatetime": 1506483451,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 24547,
+  "hit_num": 402937,
+  "uid": 105241192,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13727,
+      "tag_name": "梵芝小鸟"
+    }
+  ],
+  "subscribe_num": 102,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 69242,
+          "chapter_title": "2话",
+          "updatetime": 1506483451,
+          "filesize": 1348320,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 68656,
+          "chapter_title": "1话",
+          "updatetime": 1504687433,
+          "filesize": 1427247,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "连载中",
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 4563195,
+        "uid": 101582148,
+        "content": "这个已经算是艺术了！",
+        "createtime": 1525273143,
+        "nickname": "叶冉",
+        "avatar": "https://avatar.dmzj.com/c8/ca/c8ca8a6880cff5a38e7e2a48a3aa92cf.png"
+      },
+      {
+        "comment_id": 3514108,
+        "uid": 23905237,
+        "content": "呐呐作者大大不更了吗",
+        "createtime": 1513440696,
+        "nickname": "风语0翼",
+        "avatar": "https://avatar.dmzj.com/7c/f8/7cf878e099ed08caf18409f33c1c7a4a.png"
+      }
+    ]
+  }
+}

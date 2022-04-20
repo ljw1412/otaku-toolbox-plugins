@@ -1,0 +1,87 @@
+{
+  "id": 46298,
+  "islong": 2,
+  "direction": 2,
+  "title": "WarFrame",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/warframe.jpg",
+  "description": "WarFrame同名漫画。",
+  "last_updatetime": 1541149936,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 301331,
+  "hit_num": 50654,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2116,
+      "tag_name": "image"
+    },
+    {
+      "tag_id": 15913,
+      "tag_name": "Digital EXTREMES"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1417,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77681,
+          "chapter_title": "3话",
+          "updatetime": 1541149936,
+          "filesize": 3133768,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 77680,
+          "chapter_title": "2话",
+          "updatetime": 1541149917,
+          "filesize": 2958827,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 77679,
+          "chapter_title": "1话",
+          "updatetime": 1541149906,
+          "filesize": 2791981,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 156,
+    "latest_comment": [
+      {
+        "comment_id": 27672569,
+        "uid": 102225244,
+        "content": "为什么会被屏蔽了...",
+        "createtime": 1590394115,
+        "nickname": "黑澪",
+        "avatar": "https://avatar.dmzj.com/66/10/6610e885a7ad14414188c889094889f9.png"
+      },
+      {
+        "comment_id": 26967174,
+        "uid": 100581605,
+        "content": "如此",
+        "createtime": 1588213014,
+        "nickname": "赤瞳の兔子",
+        "avatar": "https://avatar.dmzj.com/92/34/92341d76af36e48a6037e257b40cdf76.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 39550,
+  "islong": 2,
+  "direction": 2,
+  "title": "美国正义联盟：原子侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/mgzylmyzx.jpg",
+  "description": "讲述了蔡瑞安与帕尔默两任原子侠之间的故事",
+  "last_updatetime": 1483868144,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 34391,
+  "hit_num": 33258,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 205,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61791,
+          "chapter_title": "特刊",
+          "updatetime": 1483868144,
+          "filesize": 3496620,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 19583446,
+        "uid": 101903540,
+        "content": "必须支持",
+        "createtime": 1566281069,
+        "nickname": "搴舟中流",
+        "avatar": "https://avatar.dmzj.com/0e/42/0e4227bd49a5475d7b2b4bacd1f1a67c.png"
+      },
+      {
+        "comment_id": 1652427,
+        "uid": 101577837,
+        "content": "看到喜欢的两位原子真让人激动",
+        "createtime": 1483983619,
+        "nickname": "sophisy",
+        "avatar": "https://avatar.dmzj.com/75/cb/75cb4ea4cc2f4d6250fd469c20cb7bc1.png"
+      }
+    ]
+  }
+}

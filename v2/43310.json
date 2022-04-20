@@ -1,0 +1,75 @@
+{
+  "id": 43310,
+  "islong": 2,
+  "direction": 1,
+  "title": "种姐姐",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/zhongjiejie.jpg",
+  "description": "为了得到更多的可爱的姐姐，于是古明地恋种植姐姐的故事~",
+  "last_updatetime": 1519898914,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhognjiejie",
+  "hidden": 0,
+  "hot_num": 129359,
+  "hit_num": 42486,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 74611,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13784,
+      "tag_name": "荒居栂美"
+    }
+  ],
+  "subscribe_num": 579,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74611,
+          "chapter_title": "1话",
+          "updatetime": 1519898915,
+          "filesize": 5083519,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 28347449,
+        "uid": 108403252,
+        "content": "种瓜得瓜",
+        "createtime": 1592803792,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      },
+      {
+        "comment_id": 26355227,
+        "uid": 109602973,
+        "content": "后记的小说是怎么回事？",
+        "createtime": 1586598911,
+        "nickname": "dmzj_109602973",
+        "avatar": "https://avatar.dmzj.com/18/3a/183acc40b8fef72a095eca619d72b011.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

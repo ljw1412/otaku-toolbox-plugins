@@ -1,0 +1,75 @@
+{
+  "id": 43156,
+  "islong": 2,
+  "direction": 2,
+  "title": "新世界传说",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1008234811517984642.jpg",
+  "description": "想娶我的女儿吗?那就成为世界上最强的男人吧！！！女王的这一句话,改变了这个世界,世界最强男人的奋斗物语就此展开！！...真的是这样吗?",
+  "last_updatetime": 1517984879,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 4950,
+  "hit_num": 62037,
+  "uid": 100823481,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14476,
+      "tag_name": "110来了"
+    }
+  ],
+  "subscribe_num": 15,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72831,
+          "chapter_title": "1话",
+          "updatetime": 1517984879,
+          "filesize": 1754582,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 4288611,
+        "uid": 104738082,
+        "content": "爸爸李丰田在此",
+        "createtime": 1523111648,
+        "nickname": "李丰田",
+        "avatar": "https://avatar.dmzj.com/b4/7d/b47dbbb7ec8b9a9ab6e28d8d8e8203af.png"
+      },
+      {
+        "comment_id": 3918875,
+        "uid": 105142169,
+        "content": "又没人，我还是第一",
+        "createtime": 1519098530,
+        "nickname": "玄不救飞-氪不改命",
+        "avatar": "https://avatar.dmzj.com/35/36/353696a04a1cd06d7fc1d8bec6e31279.png"
+      }
+    ]
+  }
+}

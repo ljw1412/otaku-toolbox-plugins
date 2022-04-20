@@ -1,0 +1,75 @@
+{
+  "id": 45395,
+  "islong": 2,
+  "direction": 1,
+  "title": "妖怪少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/yaoguai20180815.jpg",
+  "description": "故事很零散，但是画风很萌",
+  "last_updatetime": 1534322897,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yaoguaishaonvdongfang",
+  "hidden": 0,
+  "hot_num": 127023,
+  "hit_num": 11892,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 80900,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15476,
+      "tag_name": "suい"
+    }
+  ],
+  "subscribe_num": 592,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80900,
+          "chapter_title": "1话",
+          "updatetime": 1534499426,
+          "filesize": 3963572,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 36,
+    "latest_comment": [
+      {
+        "comment_id": 27707026,
+        "uid": 100090422,
+        "content": "不一样啊",
+        "createtime": 1590502747,
+        "nickname": "丶灬閑啵秂er",
+        "avatar": "https://avatar.dmzj.com/04/14/041452de3826058c59433627a4dc53a4.png"
+      },
+      {
+        "comment_id": 25344248,
+        "uid": 100098907,
+        "content": "眼。～",
+        "createtime": 1584382126,
+        "nickname": "一航战 Agaki",
+        "avatar": "https://avatar.dmzj.com/03/0d/030dd3f750fa32f051423459d2253295.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

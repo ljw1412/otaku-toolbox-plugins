@@ -1,0 +1,83 @@
+{
+  "id": 42582,
+  "islong": 2,
+  "direction": 1,
+  "title": "确有此恋",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/111111qyclian16009.jpg",
+  "description": "从朋友之间如同恋人一般牵手开始……",
+  "last_updatetime": 1535249764,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 2010278,
+  "hit_num": 922749,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14217,
+      "tag_name": "えみりお"
+    }
+  ],
+  "subscribe_num": 8265,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80112,
+          "chapter_title": "3话",
+          "updatetime": 1535249764,
+          "filesize": 9283460,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 72443,
+          "chapter_title": "2话",
+          "updatetime": 1515169443,
+          "filesize": 8095825,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 72442,
+          "chapter_title": "1话",
+          "updatetime": 1515168621,
+          "filesize": 4736006,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 395,
+    "latest_comment": [
+      {
+        "comment_id": 30012383,
+        "uid": 109355344,
+        "content": "没看过原作但是看了好多次这短篇，真的好看",
+        "createtime": 1598639877,
+        "nickname": "请把我踩在脚底",
+        "avatar": "https://avatar.dmzj.com/37/73/377385057332ad25157cf63696080f77.png"
+      },
+      {
+        "comment_id": 30009800,
+        "uid": 108737304,
+        "content": "6666，不仅接上TV，还把军神救人的理由给解释了，这叙事真的很有条理。",
+        "createtime": 1598633021,
+        "nickname": "dmzj_108737304",
+        "avatar": "https://avatar.dmzj.com/28/87/2887f9fa7b5e71f17f7511f33411d7e9.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 42019,
+  "islong": 2,
+  "direction": 1,
+  "title": "漫画关帝",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1042515361510327895.jpg",
+  "description": "漫画关帝",
+  "last_updatetime": 1510328925,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 10007,
+  "hit_num": 205943,
+  "uid": 104251536,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13047,
+      "tag_name": "林钜晴"
+    }
+  ],
+  "subscribe_num": 42,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66931,
+          "chapter_title": "1话",
+          "updatetime": 1510328925,
+          "filesize": 2310997,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

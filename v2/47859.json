@@ -1,0 +1,111 @@
+{
+  "id": 47859,
+  "islong": 2,
+  "direction": 1,
+  "title": "978-4",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/03784325212104.jpg",
+  "description": "在北国书店发生稍微有点奇妙的……",
+  "last_updatetime": 1591457301,
+  "copyright": 0,
+  "first_letter": "9",
+  "hot_num": 2162754,
+  "hit_num": 537856,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16703,
+      "tag_name": "ヤマモトマナブ"
+    }
+  ],
+  "subscribe_num": 9698,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99415,
+          "chapter_title": "7话",
+          "updatetime": 1591457301,
+          "filesize": 6312410,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 95754,
+          "chapter_title": "6话",
+          "updatetime": 1584971139,
+          "filesize": 3820521,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 95741,
+          "chapter_title": "5话",
+          "updatetime": 1584952658,
+          "filesize": 3447814,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 94921,
+          "chapter_title": "4话",
+          "updatetime": 1583240034,
+          "filesize": 3120661,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 90038,
+          "chapter_title": "3话",
+          "updatetime": 1571400611,
+          "filesize": 4274535,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 86710,
+          "chapter_title": "2话",
+          "updatetime": 1562748217,
+          "filesize": 3032018,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 83046,
+          "chapter_title": "1话",
+          "updatetime": 1553521658,
+          "filesize": 6105179,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 220,
+    "latest_comment": [
+      {
+        "comment_id": 30059947,
+        "uid": 100216507,
+        "content": "不喜欢idol主角，但很想看，但不喜欢idol（哭）",
+        "createtime": 1598855304,
+        "nickname": "造就",
+        "avatar": "https://avatar.dmzj.com/99/16/9916072273d62324b0b459ea2356eb21.png"
+      },
+      {
+        "comment_id": 29382047,
+        "uid": 110264902,
+        "content": "知道为什么脱单难吗？因为缺神助攻",
+        "createtime": 1596287856,
+        "nickname": "dmzj_110264902",
+        "avatar": "https://avatar.dmzj.com/31/af/31afa1d2112b5f4ce7a914a825c278a0.png"
+      }
+    ]
+  }
+}

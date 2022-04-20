@@ -1,0 +1,101 @@
+{
+  "id": 40066,
+  "islong": 2,
+  "direction": 2,
+  "title": "咫尺地狱 金并",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/jinbingx.jpg",
+  "description": "running with the devil四刊联动——金并想要一本自传，到底是为了什么呢？",
+  "last_updatetime": 1500103457,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 45616,
+  "hit_num": 160819,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 243,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65804,
+          "chapter_title": "5卷",
+          "updatetime": 1500103457,
+          "filesize": 2973875,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 65662,
+          "chapter_title": "4卷",
+          "updatetime": 1499580577,
+          "filesize": 3198945,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 64037,
+          "chapter_title": "3卷",
+          "updatetime": 1493824096,
+          "filesize": 2965718,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 62879,
+          "chapter_title": "2卷",
+          "updatetime": 1490361957,
+          "filesize": 2559611,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 62878,
+          "chapter_title": "1卷",
+          "updatetime": 1490361920,
+          "filesize": 2788351,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 11724511,
+        "uid": 100434379,
+        "content": "我把我自传收入囊中",
+        "createtime": 1550674295,
+        "nickname": "THE·KINGPIN",
+        "avatar": "https://avatar.dmzj.com/10/22/102220ce555021768f0cdb1e6943f2a3.png"
+      },
+      {
+        "comment_id": 11017771,
+        "uid": 107618986,
+        "content": "好看",
+        "createtime": 1549499510,
+        "nickname": "dmzj_107618986",
+        "avatar": "https://avatar.dmzj.com/fd/3a/fd3a7b08bb8a78365343c01af3d21221.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": 40649,
+  "islong": 2,
+  "direction": 2,
+  "title": "夜间新闻",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/yejianxinwen.jpg",
+  "description": "本漫画讨论了媒体操作的多元社会对个人的影响.而今,我们为新闻的洪流所淹没.公正准确的新闻由人报道,当新闻业受到操控,该如何纠正它所带来的影响与错误?",
+  "last_updatetime": 1534901883,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 227965,
+  "hit_num": 46542,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 2116,
+      "tag_name": "image"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "subscribe_num": 993,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76565,
+          "chapter_title": "5卷",
+          "updatetime": 1534901883,
+          "filesize": 3768622,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 67730,
+          "chapter_title": "4卷",
+          "updatetime": 1513311176,
+          "filesize": 2546008,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 65104,
+          "chapter_title": "3卷",
+          "updatetime": 1505439685,
+          "filesize": 2500550,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 63720,
+          "chapter_title": "2卷",
+          "updatetime": 1501512814,
+          "filesize": 2069259,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 62250,
+          "chapter_title": "1卷",
+          "updatetime": 1497318359,
+          "filesize": 2489487,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 6458483,
+        "uid": 104208553,
+        "content": "半看半猜看完了这么多张PPT。。。",
+        "createtime": 1535086933,
+        "nickname": "Wyfian",
+        "avatar": "https://avatar.dmzj.com/3f/04/3f044cb03109bbb43a93619bb77d8aa5.png"
+      },
+      {
+        "comment_id": 6425418,
+        "uid": 104716142,
+        "content": "放大也看不清的我是不是瞎了",
+        "createtime": 1534948992,
+        "nickname": "格里马尔蒂",
+        "avatar": "https://avatar.dmzj.com/1e/3f/1e3fc8535ad6bde4e7ba2e421af8bb66.png"
+      }
+    ]
+  }
+}

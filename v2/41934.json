@@ -1,0 +1,82 @@
+{
+  "id": 41934,
+  "islong": 2,
+  "direction": 1,
+  "title": "他们的日常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1054965991509444239.jpg",
+  "description": "一群高中生的日常。微博@大史谷",
+  "last_updatetime": 1509965599,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 23479,
+  "hit_num": 139141,
+  "uid": 105496599,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13921,
+      "tag_name": "太史谷"
+    }
+  ],
+  "subscribe_num": 102,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66659,
+          "chapter_title": "2话",
+          "updatetime": 1509965599,
+          "filesize": 1071050,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 66526,
+          "chapter_title": "1话",
+          "updatetime": 1509445282,
+          "filesize": 454366,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "微博@大史谷。如果觉得有趣欢迎收藏转发卖安利~",
+  "comic_notice": "从右向左阅读，不定期不定量更新。",
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 3233064,
+        "uid": 100505347,
+        "content": "作者微博@大史谷",
+        "createtime": 1509845748,
+        "nickname": "是冬谷不是冬菇",
+        "avatar": "https://avatar.dmzj.com/79/53/7953ede2c0263c0182367d29724ce8c8.png"
+      },
+      {
+        "comment_id": 3231835,
+        "uid": 100740694,
+        "content": "终于上来了吗！打尻啊！",
+        "createtime": 1509817350,
+        "nickname": "solidlemon",
+        "avatar": "https://avatar.dmzj.com/16/77/1677b6cd2ed926a1f4f1271d44ace664.png"
+      }
+    ]
+  }
+}

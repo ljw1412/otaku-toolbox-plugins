@@ -1,0 +1,73 @@
+{
+  "id": 41300,
+  "islong": 2,
+  "direction": 1,
+  "title": "甜甜花开",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/tiantianhuakai.jpg",
+  "description": "对我来说，你一直都是光彩夺目。",
+  "last_updatetime": 1503410605,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 253109,
+  "hit_num": 303017,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6015,
+      "tag_name": "柳井若菜"
+    }
+  ],
+  "subscribe_num": 1030,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 68562,
+          "chapter_title": "1话",
+          "updatetime": 1503410605,
+          "filesize": 7780962,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 27416675,
+        "uid": 104937077,
+        "content": "啊！一见钟情！我死了！",
+        "createtime": 1589575104,
+        "nickname": "聿桑",
+        "avatar": "https://avatar.dmzj.com/b1/e2/b1e2445fd79e0c0d4e78ca99ba9c55f9.png"
+      },
+      {
+        "comment_id": 6445729,
+        "uid": 107494785,
+        "content": "接吻的时候男主变成了异形\n还有就是看脸",
+        "createtime": 1535032449,
+        "nickname": "怀孕的公兔子",
+        "avatar": "https://avatar.dmzj.com/45/28/4528934179d1e5ab5d2cb96ea3587100.png"
+      }
+    ]
+  }
+}

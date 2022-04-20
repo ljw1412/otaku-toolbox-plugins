@@ -1,0 +1,94 @@
+{
+  "id": 49819,
+  "islong": 2,
+  "direction": 1,
+  "title": "这里是兔兔王国",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/190824zjsttwg.jpg",
+  "description": "兔子的幸福是什么呢？",
+  "last_updatetime": 1595607215,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 1492345,
+  "hit_num": 403688,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17702,
+      "tag_name": "ささこ"
+    }
+  ],
+  "subscribe_num": 6756,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101460,
+          "chapter_title": "4话",
+          "updatetime": 1595607215,
+          "filesize": 3886412,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 95435,
+          "chapter_title": "3话",
+          "updatetime": 1584274614,
+          "filesize": 3470719,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 88747,
+          "chapter_title": "2话",
+          "updatetime": 1568356464,
+          "filesize": 7075600,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 88149,
+          "chapter_title": "1话",
+          "updatetime": 1566627998,
+          "filesize": 2371067,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 503,
+    "latest_comment": [
+      {
+        "comment_id": 29977017,
+        "uid": 110180757,
+        "content": "Nicenice",
+        "createtime": 1598517782,
+        "nickname": "dmzj_110180757",
+        "avatar": "https://avatar.dmzj.com/a5/e8/a5e8a5072bea18de1360cef27848d053.png"
+      },
+      {
+        "comment_id": 29627671,
+        "uid": 108774749,
+        "content": "好看好看，希望别刀",
+        "createtime": 1597189588,
+        "nickname": "dmzj_108774749",
+        "avatar": "https://avatar.dmzj.com/d8/25/d82556827d2be8de0d581517f3ad500d.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 44377,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔女与弟子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/15244618151646monvyudizi529.jpg",
+  "description": "魔女与少年的故事！",
+  "last_updatetime": 1527604765,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 1013309,
+  "hit_num": 100891,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6600,
+      "tag_name": "jin"
+    }
+  ],
+  "subscribe_num": 4640,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77073,
+          "chapter_title": "1话",
+          "updatetime": 1527604765,
+          "filesize": 1446551,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 165,
+    "latest_comment": [
+      {
+        "comment_id": 29649175,
+        "uid": 101542627,
+        "content": "点了一下作者名。。。。。怪不得这么像某个女干部(›´ω`‹ )",
+        "createtime": 1597279040,
+        "nickname": "楼震",
+        "avatar": "https://avatar.dmzj.com/43/18/4318820bb7e461e4696be5a219927910.png"
+      },
+      {
+        "comment_id": 28166891,
+        "uid": 104824036,
+        "content": "不是be，太好了",
+        "createtime": 1592154928,
+        "nickname": "咕咕咕咕咕咕选手",
+        "avatar": "https://avatar.dmzj.com/68/77/6877e0f904b3e33d636a8b230418278f.png"
+      }
+    ]
+  }
+}

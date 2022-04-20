@@ -1,0 +1,107 @@
+{
+  "id": 45378,
+  "islong": 2,
+  "direction": 2,
+  "title": "超超级宇宙修罗场",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1058295121534163717.jpg",
+  "description": "别开生面的宇宙竞技场",
+  "last_updatetime": 1542529203,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 14614,
+  "hit_num": 132261,
+  "uid": 105829512,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14228,
+      "tag_name": "强尼啊嘞嘞"
+    }
+  ],
+  "subscribe_num": 57,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78275,
+          "chapter_title": "5话",
+          "updatetime": 1542529203,
+          "filesize": 1136141,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 77938,
+          "chapter_title": "4话",
+          "updatetime": 1541764726,
+          "filesize": 1003933,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 75655,
+          "chapter_title": "3话",
+          "updatetime": 1535896723,
+          "filesize": 800318,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 75258,
+          "chapter_title": "2话",
+          "updatetime": 1534860779,
+          "filesize": 875834,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 74993,
+          "chapter_title": "1话",
+          "updatetime": 1534164109,
+          "filesize": 1147866,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "微博：强尼啊嘞嘞",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 8061966,
+        "uid": 105594742,
+        "content": "????",
+        "createtime": 1541979806,
+        "nickname": "TO♡LOVE",
+        "avatar": "https://avatar.dmzj.com/58/46/584686e938f6711f844203a73e82da03.png"
+      },
+      {
+        "comment_id": 6634179,
+        "uid": 24837685,
+        "content": "这头画的是不是太小了",
+        "createtime": 1535969197,
+        "nickname": "每天都睡不醒",
+        "avatar": "https://avatar.dmzj.com/35/90/35904f74c2120ba88ac38284a52f1443.png"
+      }
+    ]
+  }
+}

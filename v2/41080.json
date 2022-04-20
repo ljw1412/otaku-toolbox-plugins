@@ -1,0 +1,69 @@
+{
+  "id": 41080,
+  "islong": 2,
+  "direction": 1,
+  "title": "东立原创大赛",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/dongliyuanchangdasaifengmianl.jpg",
+  "description": "东立原创大赛获奖作品一览",
+  "last_updatetime": 1501407503,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 169511,
+  "hit_num": 14603,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 768,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67832,
+          "chapter_title": "4卷",
+          "updatetime": 1501407503,
+          "filesize": 30734602,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 15964460,
+        "uid": 105903437,
+        "content": "mark",
+        "createtime": 1557938042,
+        "nickname": "dmzj_105903437",
+        "avatar": "https://avatar.dmzj.com/76/54/76542a40280100300d28b398d426ee94.png"
+      },
+      {
+        "comment_id": 2603067,
+        "uid": 100362193,
+        "content": "今天的车万过气了吗(*^▽^)/★*☆？",
+        "createtime": 1501433805,
+        "nickname": "花京院俺 の嫁",
+        "avatar": "https://avatar.dmzj.com/bb/74/bb74a09f0f505d350cfb6317ae44da86.png"
+      }
+    ]
+  }
+}

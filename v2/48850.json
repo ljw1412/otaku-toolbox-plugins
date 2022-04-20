@@ -1,0 +1,79 @@
+{
+  "id": 48850,
+  "islong": 2,
+  "direction": 1,
+  "title": "永远的相册",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/xc20190616.jpg",
+  "description": "“不论回忆有多美好难忘，最终都会风化消失再无痕迹。 所以我想用这种形式，留住这些不想忘记的宝贵回忆。”",
+  "last_updatetime": 1560616977,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yongyuandexiangce",
+  "hidden": 0,
+  "hot_num": 138228,
+  "hit_num": 1714,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90359,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17218,
+      "tag_name": "真菜(まな)"
+    }
+  ],
+  "subscribe_num": 663,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90359,
+          "chapter_title": "1话",
+          "updatetime": 1560616977,
+          "filesize": 3617119,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 46,
+    "latest_comment": [
+      {
+        "comment_id": 29178872,
+        "uid": 27262373,
+        "content": "还行",
+        "createtime": 1595529011,
+        "nickname": "yotumo",
+        "avatar": "https://avatar.dmzj.com/93/48/934841250b61f4ce15001df5a2cd702d.png"
+      },
+      {
+        "comment_id": 25015894,
+        "uid": 107838194,
+        "content": "少见的辉夜寿命论（",
+        "createtime": 1583638768,
+        "nickname": "thinklive",
+        "avatar": "https://avatar.dmzj.com/31/13/31137d6e53c075727d93cda91fe9e366.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

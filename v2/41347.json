@@ -1,0 +1,176 @@
+{
+  "id": 41347,
+  "islong": 2,
+  "direction": 1,
+  "title": "A Star Wars Comic",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/astarwarscomic.jpg",
+  "description": "A Star Wars Comic是国外粉丝制作的一套非营利性网络漫画，这套漫画并不归属于所谓的“正史”或“传说”范畴，其目的是在不有意冲突正史的前提下，以选集形式探索星战宇宙的各色微小时刻、角色和主题。至于我决定汉化的原因，一方面是其制作水准还算不错，另一方面是其创作态度相对严肃。当然了，量不大也是一个考虑因素。",
+  "last_updatetime": 1528113920,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 214710,
+  "hit_num": 100940,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12949,
+      "tag_name": "吉姆"
+    },
+    {
+      "tag_id": 13682,
+      "tag_name": "亚历克斯·雷"
+    },
+    {
+      "tag_id": 13683,
+      "tag_name": "杰茜卡·斯图尔特"
+    },
+    {
+      "tag_id": 13684,
+      "tag_name": "托尼·雷"
+    }
+  ],
+  "subscribe_num": 827,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77249,
+          "chapter_title": "15卷",
+          "updatetime": 1528113920,
+          "filesize": 1390871,
+          "chapter_order": 140
+        },
+        {
+          "chapter_id": 75731,
+          "chapter_title": "14卷",
+          "updatetime": 1523880484,
+          "filesize": 566541,
+          "chapter_order": 130
+        },
+        {
+          "chapter_id": 73938,
+          "chapter_title": "13卷",
+          "updatetime": 1519041458,
+          "filesize": 914579,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 71672,
+          "chapter_title": "11卷",
+          "updatetime": 1512991670,
+          "filesize": 603242,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 71671,
+          "chapter_title": "10卷",
+          "updatetime": 1512991664,
+          "filesize": 674548,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 69871,
+          "chapter_title": "9卷",
+          "updatetime": 1508154240,
+          "filesize": 529306,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 68381,
+          "chapter_title": "8话",
+          "updatetime": 1503921821,
+          "filesize": 675899,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 68380,
+          "chapter_title": "7卷",
+          "updatetime": 1503921813,
+          "filesize": 760438,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 68379,
+          "chapter_title": "6卷",
+          "updatetime": 1503921802,
+          "filesize": 666492,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 68378,
+          "chapter_title": "5卷",
+          "updatetime": 1503921791,
+          "filesize": 711218,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 68377,
+          "chapter_title": "4卷",
+          "updatetime": 1503921428,
+          "filesize": 776609,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 68376,
+          "chapter_title": "3卷",
+          "updatetime": 1503921420,
+          "filesize": 766112,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 68375,
+          "chapter_title": "2卷",
+          "updatetime": 1503921366,
+          "filesize": 616690,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 68374,
+          "chapter_title": "1卷",
+          "updatetime": 1503920297,
+          "filesize": 651122,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 11166923,
+        "uid": 106133535,
+        "content": "´_&gt;`",
+        "createtime": 1549779008,
+        "nickname": "铭之棱角",
+        "avatar": "https://avatar.dmzj.com/48/31/48317e0b763844532313f778fb5f9572.png"
+      },
+      {
+        "comment_id": 10526403,
+        "uid": 100656869,
+        "content": "好漫画少人系列",
+        "createtime": 1548475378,
+        "nickname": "黑长直什么的最棒了",
+        "avatar": "https://avatar.dmzj.com/51/34/5134cb1c50fc4b0bb3a21709a82e2d03.png"
+      }
+    ]
+  }
+}

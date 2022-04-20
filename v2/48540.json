@@ -1,0 +1,111 @@
+{
+  "id": 48540,
+  "islong": 2,
+  "direction": 1,
+  "title": "放置少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/fangzhiplay0520.jpg",
+  "description": "放置少女官方漫画",
+  "last_updatetime": 1570783391,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 1761896,
+  "hit_num": 52724,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16542,
+      "tag_name": "Byte"
+    }
+  ],
+  "subscribe_num": 6991,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93950,
+          "chapter_title": "7话",
+          "updatetime": 1570783391,
+          "filesize": 1942067,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 90825,
+          "chapter_title": "6话",
+          "updatetime": 1562038919,
+          "filesize": 959392,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 90242,
+          "chapter_title": "5话",
+          "updatetime": 1560226580,
+          "filesize": 1277125,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 90028,
+          "chapter_title": "4话",
+          "updatetime": 1559555451,
+          "filesize": 1043915,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 89839,
+          "chapter_title": "3话",
+          "updatetime": 1558925892,
+          "filesize": 1088905,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 89661,
+          "chapter_title": "2话",
+          "updatetime": 1558497582,
+          "filesize": 1201914,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 89602,
+          "chapter_title": "1话",
+          "updatetime": 1558496764,
+          "filesize": 1571538,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 285,
+    "latest_comment": [
+      {
+        "comment_id": 30025914,
+        "uid": 105364906,
+        "content": "这和我理解的放置不太一样、",
+        "createtime": 1598710245,
+        "nickname": "路宝QAQ妈妈来了",
+        "avatar": "https://avatar.dmzj.com/53/55/53558e4ce1958dcb71c727c9f5de7ac6.png"
+      },
+      {
+        "comment_id": 29790123,
+        "uid": 108910469,
+        "content": "我他妈直接裂开",
+        "createtime": 1597835672,
+        "nickname": "dmzj_108910469",
+        "avatar": "https://avatar.dmzj.com/2d/ea/2deab735f02b76813fd3b0c10e915c4e.png"
+      }
+    ]
+  }
+}

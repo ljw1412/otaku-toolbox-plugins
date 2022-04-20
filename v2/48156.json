@@ -1,0 +1,93 @@
+{
+  "id": 48156,
+  "islong": 1,
+  "direction": 2,
+  "title": "怪谈时刻",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1075931401555389066.jpg",
+  "description": "源于生活的细思极恐与天马行空，展示出最纯粹的人性百物语，在这光怪陆离的世界里，请尽情享受吧，那些故事里让你欲罢不能的奇妙。",
+  "last_updatetime": 1556177119,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 76351,
+  "hit_num": 1344458,
+  "uid": 107593140,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16862,
+      "tag_name": "牙膏姑娘"
+    }
+  ],
+  "subscribe_num": 242,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87894,
+          "chapter_title": "3话",
+          "updatetime": 1556177119,
+          "filesize": 733830,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 87720,
+          "chapter_title": "2话",
+          "updatetime": 1555661491,
+          "filesize": 931159,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 87622,
+          "chapter_title": "1话",
+          "updatetime": 1555397056,
+          "filesize": 852724,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "原创故事，不定时更新。",
+  "comment": {
+    "comment_count": 39,
+    "latest_comment": [
+      {
+        "comment_id": 24984086,
+        "uid": 105990887,
+        "content": "剧情漂亮，同时批判冥婚迷信和重男轻女",
+        "createtime": 1583573327,
+        "nickname": "dmzj_105990887",
+        "avatar": "https://avatar.dmzj.com/fc/61/fc61edab74784412dd0084234059d2d5.png"
+      },
+      {
+        "comment_id": 18750155,
+        "uid": 105449188,
+        "content": "有点吓人",
+        "createtime": 1564335009,
+        "nickname": "淡淡的立夏",
+        "avatar": "https://avatar.dmzj.com/65/62/6562bda922fca2388f08be779f64f2b3.png"
+      }
+    ]
+  }
+}

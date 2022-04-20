@@ -1,0 +1,89 @@
+{
+  "id": 48829,
+  "islong": 2,
+  "direction": 1,
+  "title": "灵气小子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1092950501560445474.jpg",
+  "description": "少年从小地方而出，为了一个个目标而努力，为寻找师父，了解自己生世，等等，一路上不忘初心，最终成为一代天才！",
+  "last_updatetime": 1560555090,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 2804,
+  "hit_num": 26446,
+  "uid": 109295050,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17220,
+      "tag_name": "27819"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86008,
+          "chapter_title": "3话",
+          "updatetime": 1560555090,
+          "filesize": 711924,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 85947,
+          "chapter_title": "2话",
+          "updatetime": 1560446118,
+          "filesize": 797172,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 85946,
+          "chapter_title": "1话",
+          "updatetime": 1560445775,
+          "filesize": 901653,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 17366166,
+        "uid": 100428242,
+        "content": "可以的    加油",
+        "createtime": 1561104158,
+        "nickname": "Dōmo     ！  ",
+        "avatar": "https://avatar.dmzj.com/7c/1b/7c1be15161ea08040e0d9300b7aa1710.png"
+      },
+      {
+        "comment_id": 17300920,
+        "uid": 107347564,
+        "content": "我以为是封面欺诈，结果真的是封面欺诈",
+        "createtime": 1560937992,
+        "nickname": "四月12138",
+        "avatar": "https://avatar.dmzj.com/28/65/28651afc9919d34ebd90bd7d455d0e23.png"
+      }
+    ]
+  }
+}

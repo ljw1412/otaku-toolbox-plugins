@@ -1,0 +1,87 @@
+{
+  "id": 46845,
+  "islong": 2,
+  "direction": 1,
+  "title": "亲亲樱花酱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/181221qqyhj.jpg",
+  "description": "社畜和吸血鬼的欢乐生活日常。",
+  "last_updatetime": 1546701965,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 6491933,
+  "hit_num": 119747,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12077,
+      "tag_name": "十五夜"
+    }
+  ],
+  "subscribe_num": 28409,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85202,
+          "chapter_title": "3话",
+          "updatetime": 1546701965,
+          "filesize": 501456,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 84859,
+          "chapter_title": "2话",
+          "updatetime": 1545568362,
+          "filesize": 611559,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 84817,
+          "chapter_title": "1话",
+          "updatetime": 1545401887,
+          "filesize": 644114,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 485,
+    "latest_comment": [
+      {
+        "comment_id": 29178133,
+        "uid": 105635917,
+        "content": "一起睡不就好了吗！！！",
+        "createtime": 1595526988,
+        "nickname": "小鹿芸",
+        "avatar": "https://avatar.dmzj.com/44/18/4418d8836a068911adfecf6c513dfaed.png"
+      },
+      {
+        "comment_id": 28853537,
+        "uid": 107774751,
+        "content": "维生素c摄入不是会影响b12的吸收吗？有没有老哥科普一下",
+        "createtime": 1594450985,
+        "nickname": "dmzj_107774751",
+        "avatar": "https://avatar.dmzj.com/c0/bc/c0bc17d93475c70f6baab5b65d5e2ea3.png"
+      }
+    ]
+  }
+}

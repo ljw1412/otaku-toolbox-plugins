@@ -1,0 +1,82 @@
+{
+  "id": 40405,
+  "islong": 2,
+  "direction": 2,
+  "title": "黑龙之愿",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/153541494474884.jpg",
+  "description": "“传说中恶龙，可以实现胜者的愿望。”我的父亲是一个屠龙英雄，就在一天他和母亲都被龙杀掉了，妹妹也失去了视力。对黑龙的复仇之路从此开始了……",
+  "last_updatetime": 1494474954,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 93730,
+  "hit_num": 2825196,
+  "uid": 108153340,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15984,
+      "tag_name": "惊奇大地"
+    }
+  ],
+  "subscribe_num": 385,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65296,
+          "chapter_title": "2话",
+          "updatetime": 1494474954,
+          "filesize": 3067673,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 65295,
+          "chapter_title": "1话",
+          "updatetime": 1494474923,
+          "filesize": 2045926,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 14429696,
+        "uid": 104045935,
+        "content": "门",
+        "createtime": 1555421015,
+        "nickname": "取个名字好麻烦￣へ￣",
+        "avatar": "https://avatar.dmzj.com/62/32/6232f97d630b933063613f7a0dcdcfe3.png"
+      },
+      {
+        "comment_id": 11322868,
+        "uid": 102045437,
+        "content": "屠龙者终将为龙？",
+        "createtime": 1550051871,
+        "nickname": "第六天の萌王",
+        "avatar": "https://avatar.dmzj.com/82/24/8224b07cb2ca18d7823f89fa50070bf6.png"
+      }
+    ]
+  }
+}

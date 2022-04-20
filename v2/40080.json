@@ -1,0 +1,71 @@
+{
+  "id": 40080,
+  "islong": 1,
+  "direction": 2,
+  "title": "小坏漫画之PPAP变奏曲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1490684212.jpg",
+  "description": "朋友家的毛球，是我的最爱~",
+  "last_updatetime": 1490605519,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 1361,
+  "hit_num": 1993,
+  "uid": 104217736,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12989,
+      "tag_name": "郝小坏"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 64019,
+          "chapter_title": "1话",
+          "updatetime": 1490605519,
+          "filesize": 64127,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1975740,
+        "uid": 104217736,
+        "content": "喜欢一切带毛毛的玩偶/呲牙",
+        "createtime": 1490691720,
+        "nickname": "郝小坏",
+        "avatar": "https://avatar.dmzj.com/80/69/8069a086e358d5cce791deab654c36ad.png"
+      }
+    ]
+  }
+}

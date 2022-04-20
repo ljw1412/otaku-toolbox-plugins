@@ -1,0 +1,94 @@
+{
+  "id": 47482,
+  "islong": 2,
+  "direction": 2,
+  "title": "三国:全面战争",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/190217sgqmzz.jpg",
+  "description": "世嘉《三国:全面战争》官方漫画。",
+  "last_updatetime": 1554396719,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 372949,
+  "hit_num": 19963,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16511,
+      "tag_name": "SEGA"
+    }
+  ],
+  "subscribe_num": 1590,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87171,
+          "chapter_title": "4话",
+          "updatetime": 1554396719,
+          "filesize": 1224138,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 86719,
+          "chapter_title": "3话",
+          "updatetime": 1552833685,
+          "filesize": 1433080,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 86275,
+          "chapter_title": "2话",
+          "updatetime": 1551673242,
+          "filesize": 1755733,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 85693,
+          "chapter_title": "1话",
+          "updatetime": 1550364883,
+          "filesize": 843613,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 181,
+    "latest_comment": [
+      {
+        "comment_id": 24553588,
+        "uid": 110496604,
+        "content": "我去，E????居然有漫画，才发现",
+        "createtime": 1582701817,
+        "nickname": "鸟山不明",
+        "avatar": "https://avatar.dmzj.com/29/ed/29ed72f3587d0c722d622d7a04831e85.png"
+      },
+      {
+        "comment_id": 21827918,
+        "uid": 101019386,
+        "content": "广告漫画。",
+        "createtime": 1572616565,
+        "nickname": "梦游者陛下",
+        "avatar": "https://avatar.dmzj.com/18/27/1827ead4287edb2bd0c8e509a425d938.png"
+      }
+    ]
+  }
+}

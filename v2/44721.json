@@ -1,0 +1,87 @@
+{
+  "id": 44721,
+  "islong": 2,
+  "direction": 1,
+  "title": "贞德们是三姐妹",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/zhendeshisanjiemeix.jpg",
+  "description": "FATE同人漫画",
+  "last_updatetime": 1531407155,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 5087937,
+  "hit_num": 97623,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15160,
+      "tag_name": "碇真司郎"
+    }
+  ],
+  "subscribe_num": 23791,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78233,
+          "chapter_title": "七夕",
+          "updatetime": 1531407155,
+          "filesize": 213303,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 77738,
+          "chapter_title": "2话",
+          "updatetime": 1530149120,
+          "filesize": 348495,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 77737,
+          "chapter_title": "1话",
+          "updatetime": 1530149091,
+          "filesize": 221336,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 504,
+    "latest_comment": [
+      {
+        "comment_id": 29689662,
+        "uid": 104824570,
+        "content": "还会更新吗",
+        "createtime": 1597455193,
+        "nickname": "史塔克10041",
+        "avatar": "https://avatar.dmzj.com/51/30/5130a892f816b0aca0d461f0a417044a.png"
+      },
+      {
+        "comment_id": 28790365,
+        "uid": 107853275,
+        "content": "两年了淦",
+        "createtime": 1594221184,
+        "nickname": "清洁工⑨",
+        "avatar": "https://avatar.dmzj.com/67/ac/67ace34606a13bc23620280b6aac2f4f.png"
+      }
+    ]
+  }
+}

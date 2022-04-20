@@ -1,0 +1,101 @@
+{
+  "id": 49675,
+  "islong": 2,
+  "direction": 1,
+  "title": "女装风潮",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/nvzhuang20190817.jpg",
+  "description": "因事故而陷入昏迷两年的高中生古贺七树，在苏醒康复回到学校后，发现学校里全都是女孩子…可这好像是所男校来着呀！？",
+  "last_updatetime": 1596765388,
+  "copyright": 0,
+  "first_letter": "n",
+  "hot_num": 2520050,
+  "hit_num": 725079,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16096,
+      "tag_name": "品川ミクズ"
+    }
+  ],
+  "subscribe_num": 11188,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 106297,
+          "chapter_title": "5话",
+          "updatetime": 1596765388,
+          "filesize": 5127874,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 96562,
+          "chapter_title": "4话",
+          "updatetime": 1578386573,
+          "filesize": 3642402,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 96098,
+          "chapter_title": "3话",
+          "updatetime": 1577025295,
+          "filesize": 3549141,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 94303,
+          "chapter_title": "2话",
+          "updatetime": 1571675658,
+          "filesize": 3997402,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 92293,
+          "chapter_title": "1话",
+          "updatetime": 1565975272,
+          "filesize": 3042568,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 752,
+    "latest_comment": [
+      {
+        "comment_id": 29866334,
+        "uid": 109634809,
+        "content": "有意思",
+        "createtime": 1598109032,
+        "nickname": "dmzj_109634809",
+        "avatar": "https://avatar.dmzj.com/0d/76/0d76c2dbcebcaf50d27117adfa1c2dfb.png"
+      },
+      {
+        "comment_id": 29768007,
+        "uid": 109322989,
+        "content": "零次和无数次。",
+        "createtime": 1597749180,
+        "nickname": "dmzj_109322989",
+        "avatar": "https://avatar.dmzj.com/85/22/85227f1ca5d39f1f777f8538c72c68ce.png"
+      }
+    ]
+  }
+}

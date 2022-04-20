@@ -1,0 +1,87 @@
+{
+  "id": 49264,
+  "islong": 2,
+  "direction": 1,
+  "title": "看得到的力量",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/kdddll20190717.jpg",
+  "description": "少年拥有不可思议的超能力,居然是用来......",
+  "last_updatetime": 1577596345,
+  "copyright": 0,
+  "first_letter": "k",
+  "hot_num": 2235657,
+  "hit_num": 234486,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9250,
+      "tag_name": "新井春卷（あらいはるまき）"
+    }
+  ],
+  "subscribe_num": 10091,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92552,
+          "chapter_title": "3话",
+          "updatetime": 1577596345,
+          "filesize": 4735446,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 88095,
+          "chapter_title": "2话",
+          "updatetime": 1566492181,
+          "filesize": 4703308,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 86936,
+          "chapter_title": "1话",
+          "updatetime": 1563358569,
+          "filesize": 3921471,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 661,
+    "latest_comment": [
+      {
+        "comment_id": 29328401,
+        "uid": 100567328,
+        "content": "不更新了吗。。",
+        "createtime": 1596086033,
+        "nickname": "蠃稷芈月",
+        "avatar": "https://avatar.dmzj.com/80/55/80556873963db2e8fde4639b0e093ab4.png"
+      },
+      {
+        "comment_id": 27710471,
+        "uid": 100004754,
+        "content": "没有更新了",
+        "createtime": 1590508411,
+        "nickname": "大柚子叔叔",
+        "avatar": "https://avatar.dmzj.com/bd/72/bd72792d4e1329a6f7e773727939647c.png"
+      }
+    ]
+  }
+}

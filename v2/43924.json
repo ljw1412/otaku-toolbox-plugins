@@ -1,0 +1,79 @@
+{
+  "id": 43924,
+  "islong": 2,
+  "direction": 1,
+  "title": "海滨的小夜曲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/namiuchigiwanoserenade49685l.jpg",
+  "description": "舰队收藏同人",
+  "last_updatetime": 1524449451,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "namiuchigiwanoserenade",
+  "hidden": 0,
+  "hot_num": 137972,
+  "hit_num": 42340,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72102,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10778,
+      "tag_name": "deco"
+    }
+  ],
+  "subscribe_num": 640,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72102,
+          "chapter_title": "1话",
+          "updatetime": 1524449451,
+          "filesize": 13146634,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 26954634,
+        "uid": 107801070,
+        "content": "6",
+        "createtime": 1588124977,
+        "nickname": "玩得一手孤儿打野",
+        "avatar": "https://avatar.dmzj.com/49/76/4976e170c917453730214ec806dfd290.png"
+      },
+      {
+        "comment_id": 24613207,
+        "uid": 104500126,
+        "content": "是deco，我好了",
+        "createtime": 1582854599,
+        "nickname": "想撕剧本的肥猫",
+        "avatar": "https://avatar.dmzj.com/80/54/805410ed802c14e911532d3d3b7ff294.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

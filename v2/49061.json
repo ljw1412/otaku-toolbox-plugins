@@ -1,0 +1,76 @@
+{
+  "id": 49061,
+  "islong": 2,
+  "direction": 1,
+  "title": "雪女与小侍女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/190704nvenv.jpg",
+  "description": "なごり悠老师在其P站上发布的连载小故事。柔弱梦幻的雪女和元气开朗的小侍女，两人在深山之中同居的故事。",
+  "last_updatetime": 1562241199,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 1256934,
+  "hit_num": 37950,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15873,
+      "tag_name": "なごり悠"
+    }
+  ],
+  "subscribe_num": 5318,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90020,
+          "chapter_title": "2话",
+          "updatetime": 1562241199,
+          "filesize": 682087,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 90019,
+          "chapter_title": "1话",
+          "updatetime": 1562241161,
+          "filesize": 1303226,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 87,
+    "latest_comment": [
+      {
+        "comment_id": 29625392,
+        "uid": 109946909,
+        "content": "呃，我搞错了",
+        "createtime": 1597169879,
+        "nickname": "十z",
+        "avatar": "https://avatar.dmzj.com/55/05/5505687beb67c60f561df2902f7f5f0d.png"
+      },
+      {
+        "comment_id": 29625351,
+        "uid": 109946909,
+        "content": "这个是不是删了很多？我记得以前不止两话啊",
+        "createtime": 1597169779,
+        "nickname": "十z",
+        "avatar": "https://avatar.dmzj.com/55/05/5505687beb67c60f561df2902f7f5f0d.png"
+      }
+    ]
+  }
+}

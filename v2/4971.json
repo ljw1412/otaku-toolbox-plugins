@@ -1,0 +1,79 @@
+{
+  "id": 4971,
+  "islong": 2,
+  "direction": 1,
+  "title": "真白笔记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/zhenbaibiji20100805.jpg",
+  "description": "不断发傻的真白和不断吐槽的千惠的欢乐四格漫画。",
+  "last_updatetime": 1281017288,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhenbaibiji",
+  "hidden": 0,
+  "hot_num": 23970,
+  "hit_num": 47668,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 8945,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2851,
+      "tag_name": "凪庵"
+    }
+  ],
+  "subscribe_num": 101,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8945,
+          "chapter_title": "1卷",
+          "updatetime": 1281017283,
+          "filesize": 795730,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 19289865,
+        "uid": 101965848,
+        "content": "真是成鬼坑了",
+        "createtime": 1565544706,
+        "nickname": "☣觀察者•17",
+        "avatar": "https://avatar.dmzj.com/44/57/445799d3114d4b6bd7165f358c0cd3f0.png"
+      },
+      {
+        "comment_id": 1670800,
+        "uid": 101083839,
+        "content": "千年坑",
+        "createtime": 1484393165,
+        "nickname": "前世红尘",
+        "avatar": "https://avatar.dmzj.com/52/87/5287d1b9185972d80aed543884f23495.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

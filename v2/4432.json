@@ -1,0 +1,73 @@
+{
+  "id": 4432,
+  "islong": 2,
+  "direction": 1,
+  "title": "怪童丸",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/eye0001-14277_ef573efa21c2f1af8656816d331a84fc.jpg",
+  "description": "一位被卷如族里纷争而逃进山里的少女,以男孩子的身份成长。长大后被源氏收容,帮他守护京城的平安……",
+  "last_updatetime": 1278922141,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 11776,
+  "hit_num": 1785551,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2638,
+      "tag_name": "古结あかね"
+    }
+  ],
+  "subscribe_num": 32,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10010,
+          "chapter_title": "1卷",
+          "updatetime": 1279526941,
+          "filesize": 15338358,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 13894943,
+        "uid": 105845208,
+        "content": "怪童丸",
+        "createtime": 1554630333,
+        "nickname": "zoot",
+        "avatar": "https://avatar.dmzj.com/63/76/637608a562f61a228c3fad9a7cd3a770.png"
+      },
+      {
+        "comment_id": 7995116,
+        "uid": 106969235,
+        "content": "好短",
+        "createtime": 1541755554,
+        "nickname": "ylc6",
+        "avatar": "https://avatar.dmzj.com/19/85/19859a02d3721919981d5d7ba196cd6b.png"
+      }
+    ]
+  }
+}

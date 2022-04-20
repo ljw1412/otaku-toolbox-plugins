@@ -1,0 +1,73 @@
+{
+  "id": 48755,
+  "islong": 2,
+  "direction": 1,
+  "title": "五彩缤纷的，四季 × 白莲！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/wcbfdsjxbl20190608.jpg",
+  "description": "白莲:\"喝酒这种事情是不行的...\"嘴上这么说,身体却很诚实",
+  "last_updatetime": 1559972066,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 108734,
+  "hit_num": 704,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17178,
+      "tag_name": "すらんぷらいふ(扇)"
+    }
+  ],
+  "subscribe_num": 501,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90131,
+          "chapter_title": "1话",
+          "updatetime": 1559972066,
+          "filesize": 1504963,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 17387120,
+        "uid": 100479687,
+        "content": "阿伟南无三",
+        "createtime": 1561144343,
+        "nickname": "古明地星",
+        "avatar": "https://avatar.dmzj.com/99/49/9949a555a37acc9616cd55ad659a1ff4.png"
+      },
+      {
+        "comment_id": 16953119,
+        "uid": 105705263,
+        "content": "阿沃死了!",
+        "createtime": 1560067069,
+        "nickname": "米线终结者",
+        "avatar": "https://avatar.dmzj.com/42/98/42981529250552d9b44dea1cecb50e23.png"
+      }
+    ]
+  }
+}

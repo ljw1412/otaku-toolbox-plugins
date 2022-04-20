@@ -1,0 +1,80 @@
+{
+  "id": 40529,
+  "islong": 2,
+  "direction": 2,
+  "title": "新少年泰坦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/quanxinshaoniantaitan.jpg",
+  "description": "这是1980年的少年泰坦，领衔主演：罗宾、闪电小子、神奇女孩、钢骨、变形者、渡鸦和星火——青春洋溢又性格鲜明的年轻人们身怀绝技，正以冒险与友情的力量在世界上大显身手！",
+  "last_updatetime": 1495971068,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 57705,
+  "hit_num": 26996,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 243,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61820,
+          "chapter_title": "2卷",
+          "updatetime": 1495971068,
+          "filesize": 5176025,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 61819,
+          "chapter_title": "1卷",
+          "updatetime": 1495971056,
+          "filesize": 4617884,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 2240254,
+        "uid": 103434275,
+        "content": "好怀旧啊",
+        "createtime": 1495972866,
+        "nickname": "BAT68114",
+        "avatar": "https://avatar.dmzj.com/63/a0/63a0837fd23e99afd9f664a0a129122e.png"
+      },
+      {
+        "comment_id": 2240243,
+        "uid": 104360936,
+        "content": "我是第一个",
+        "createtime": 1495972733,
+        "nickname": "花好月园",
+        "avatar": "https://avatar.dmzj.com/b7/80/b7800de92cebee748a3c98be685c938c.png"
+      }
+    ]
+  }
+}

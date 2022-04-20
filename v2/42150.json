@@ -1,0 +1,73 @@
+{
+  "id": 42150,
+  "islong": 2,
+  "direction": 1,
+  "title": "我的智能女友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/wodezhinengnvyoufengmianl.jpg",
+  "description": "这是一个告知人们充完电要拔掉插头的故事",
+  "last_updatetime": 1511885368,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 786659,
+  "hit_num": 118966,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14027,
+      "tag_name": "ちだまさみ"
+    }
+  ],
+  "subscribe_num": 3366,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71639,
+          "chapter_title": "1话",
+          "updatetime": 1511885368,
+          "filesize": 1136496,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 73,
+    "latest_comment": [
+      {
+        "comment_id": 27670061,
+        "uid": 13480242,
+        "content": "淡淡的悲伤。。。",
+        "createtime": 1590384285,
+        "nickname": "妹控乃真理",
+        "avatar": "https://avatar.dmzj.com/88/10/8810444dd35e9cad797aeb9924ce39c4.png"
+      },
+      {
+        "comment_id": 24507163,
+        "uid": 104299567,
+        "content": "欢乐向收藏就对了",
+        "createtime": 1582570698,
+        "nickname": "五十嵐夜空",
+        "avatar": "https://avatar.dmzj.com/67/f7/67f7dd1d2ccdb1af07f0b53bcbf0951e.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 45439,
+  "islong": 2,
+  "direction": 1,
+  "title": "ONEDAYS幻想乡",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/ONEDAYShuanxiangx0818.jpg",
+  "description": "请静静欣赏如画般的风景",
+  "last_updatetime": 1534594132,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "o",
+  "comic_py": "onedayshuanxiangxiang",
+  "hidden": 0,
+  "hot_num": 114079,
+  "hit_num": 12550,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 76404,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13089,
+      "tag_name": "garnet"
+    }
+  ],
+  "subscribe_num": 542,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76404,
+          "chapter_title": "1话",
+          "updatetime": 1534594132,
+          "filesize": 1341781,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 12072052,
+        "uid": 108403252,
+        "content": "好看",
+        "createtime": 1551319819,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      },
+      {
+        "comment_id": 6409017,
+        "uid": 104285224,
+        "content": "少女紫…",
+        "createtime": 1534872032,
+        "nickname": "dfrevc",
+        "avatar": "https://avatar.dmzj.com/29/34/293440362b40b0b74aaf8e8b5c10ca59.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,73 @@
+{
+  "id": 44245,
+  "islong": 2,
+  "direction": 2,
+  "title": "格林童话",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/gelintonghx.jpg",
+  "description": "讲述了格林兄弟对抗童话故事之王的故事",
+  "last_updatetime": 1526748371,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 310295,
+  "hit_num": 6458,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1288,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77595,
+          "chapter_title": "1卷",
+          "updatetime": 1526748371,
+          "filesize": 979530,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 19732240,
+        "uid": 102514855,
+        "content": "没了吗",
+        "createtime": 1566660782,
+        "nickname": "也不错╮",
+        "avatar": "https://avatar.dmzj.com/22/01/22011f9040e5c62782a3ea347df3f066.png"
+      },
+      {
+        "comment_id": 4763569,
+        "uid": 104285224,
+        "content": "还有后续吧，怎么标注完结了啊？",
+        "createtime": 1526779774,
+        "nickname": "dfrevc",
+        "avatar": "https://avatar.dmzj.com/29/34/293440362b40b0b74aaf8e8b5c10ca59.png"
+      }
+    ]
+  }
+}

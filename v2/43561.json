@@ -1,0 +1,87 @@
+{
+  "id": 43561,
+  "islong": 2,
+  "direction": 2,
+  "title": "太空兔v2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/taikongtuv2.jpg",
+  "description": "新角色“炉源”登场，名字罗马音是Rhogen，其中Rho是希腊字母ρ，gen是源的罗马音\n机器蜥蜴“小不点”登场，命运一再循环 ​​​​",
+  "last_updatetime": 1523080138,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 76748,
+  "hit_num": 23244,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6553,
+      "tag_name": "坂井正彦(Stan Sakai)"
+    }
+  ],
+  "subscribe_num": 339,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74594,
+          "chapter_title": "3卷",
+          "updatetime": 1523080138,
+          "filesize": 4633784,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 74333,
+          "chapter_title": "2卷",
+          "updatetime": 1522471173,
+          "filesize": 4539828,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 74031,
+          "chapter_title": "1卷",
+          "updatetime": 1521862042,
+          "filesize": 4955711,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 4737948,
+        "uid": 102553514,
+        "content": "这里有bug，兔子额头的伤是和v1狐狸决斗后才有的，然而决斗的时候根本就不是几年前。",
+        "createtime": 1526574346,
+        "nickname": "莱奥尼尔",
+        "avatar": "https://avatar.dmzj.com/98/01/980134e0d6a633ebcdb972e3d61c9e24.png"
+      },
+      {
+        "comment_id": 4285604,
+        "uid": 100792130,
+        "content": "兔子真是独身命",
+        "createtime": 1523088837,
+        "nickname": "防弹武僧",
+        "avatar": "https://avatar.dmzj.com/69/68/69681145a037fbdbc07baf2b5c29bec5.png"
+      }
+    ]
+  }
+}

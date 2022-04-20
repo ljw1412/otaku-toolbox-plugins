@@ -1,0 +1,90 @@
+{
+  "id": 45465,
+  "islong": 2,
+  "direction": 1,
+  "title": "Akari★",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/OUTCAST20180820.jpg",
+  "description": "北原朋萌的摇曳百合全年龄同人漫画",
+  "last_updatetime": 1534759251,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 559275,
+  "hit_num": 59554,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6110,
+      "tag_name": "北原朋萌"
+    }
+  ],
+  "subscribe_num": 2468,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81069,
+          "chapter_title": "4话",
+          "updatetime": 1534759055,
+          "filesize": 5495168,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 81068,
+          "chapter_title": "3话",
+          "updatetime": 1534759172,
+          "filesize": 4637847,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 81067,
+          "chapter_title": "2话",
+          "updatetime": 1534759219,
+          "filesize": 5114461,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 81066,
+          "chapter_title": "1话",
+          "updatetime": 1534759251,
+          "filesize": 5417080,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 72,
+    "latest_comment": [
+      {
+        "comment_id": 25622459,
+        "uid": 106031594,
+        "content": "可怜的孩子",
+        "createtime": 1585016861,
+        "nickname": "阿卡林是个好孩子",
+        "avatar": "https://avatar.dmzj.com/54/77/5477ec8d907f98726c22ed58777be32b.png"
+      },
+      {
+        "comment_id": 25444990,
+        "uid": 105756838,
+        "content": "在那遥远的地方，传说有一样宝藏，得到它，即可以拥有神的力量。\n他将沿着那暗夜中的道，到达被隐秘遮盖的地方，为自己和后来者留下一个个火炬，在暗夜中永远燃烧，继续指引方向。",
+        "createtime": 1584605188,
+        "nickname": "微笑的熹",
+        "avatar": "https://avatar.dmzj.com/d9/82/d982a5d2b69d81850c23c78e3343e225.png"
+      }
+    ]
+  }
+}

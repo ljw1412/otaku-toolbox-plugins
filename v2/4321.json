@@ -1,0 +1,86 @@
+{
+  "id": 4321,
+  "islong": 2,
+  "direction": 1,
+  "title": "斗牌",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/01-000a_847a2f4f31641e05c4d3f5ce782ba850.jpg",
+  "description": "没想到…居然这麽厉害…这麽热血！偶然遇到「歌留多」的世界…那是个许多高手彼此竞争，展开极致战斗的战场！格斗游戏日本冠军‧轻部太一要在歌留多的世界拿下「宇宙第一」！",
+  "last_updatetime": 1278814653,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dp",
+  "hidden": 0,
+  "hot_num": 20612,
+  "hit_num": 557699,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 8202,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2125,
+      "tag_name": "竹下坚次朗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 108,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8202,
+          "chapter_title": "2卷",
+          "updatetime": 1279419453,
+          "filesize": 17128779,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8201,
+          "chapter_title": "1卷",
+          "updatetime": 1279419453,
+          "filesize": 18105361,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 28194844,
+        "uid": 102430251,
+        "content": "没人？",
+        "createtime": 1592258081,
+        "nickname": "无敌百厌星",
+        "avatar": "https://avatar.dmzj.com/4c/98/4c98161e01898f5f606aa688d081abfe.png"
+      },
+      {
+        "comment_id": 143867,
+        "uid": 19540102,
+        "content": "花牌情缘 + 妖狐x仆ss = 斗牌",
+        "createtime": 1375750617,
+        "nickname": "宅女第一",
+        "avatar": "https://avatar.dmzj.com/12/34/1234c4894a812a83684bd675b5d3e5ac.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

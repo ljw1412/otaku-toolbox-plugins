@@ -1,0 +1,87 @@
+{
+  "id": 47016,
+  "islong": 2,
+  "direction": 1,
+  "title": "那还真是对不起呢~",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/dous20190107.jpg",
+  "description": "困惑与喜悦交错相织的爱情喜剧~",
+  "last_updatetime": 1552188429,
+  "copyright": 0,
+  "first_letter": "n",
+  "hot_num": 3659845,
+  "hit_num": 300850,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8604,
+      "tag_name": "近由子"
+    }
+  ],
+  "subscribe_num": 15927,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86543,
+          "chapter_title": "3话",
+          "updatetime": 1552188429,
+          "filesize": 3054859,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 86244,
+          "chapter_title": "2话",
+          "updatetime": 1551274800,
+          "filesize": 3670052,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 84639,
+          "chapter_title": "1话",
+          "updatetime": 1546939731,
+          "filesize": 8318249,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 822,
+    "latest_comment": [
+      {
+        "comment_id": 30051965,
+        "uid": 109345548,
+        "content": "能在哪里买到付费的，希望有人告知网站",
+        "createtime": 1598806609,
+        "nickname": "蹲小僵尸又蹲",
+        "avatar": "https://avatar.dmzj.com/19/43/1943377dccfdec0a20d34a9a0dc75d9f.png"
+      },
+      {
+        "comment_id": 29743537,
+        "uid": 101895028,
+        "content": "抖s",
+        "createtime": 1597661815,
+        "nickname": "一年，一月",
+        "avatar": "https://avatar.dmzj.com/12/26/1226e7699874df6d89c65335382ad6b3.png"
+      }
+    ]
+  }
+}

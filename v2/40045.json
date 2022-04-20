@@ -1,0 +1,86 @@
+{
+  "id": 40045,
+  "islong": 2,
+  "direction": 2,
+  "title": "小坏漫画——生活小感慨",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1042177361490147787.jpg",
+  "description": "生活中有这样那样的事，所以常常有这样那样的小感慨~",
+  "last_updatetime": 1494984200,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 1471,
+  "hit_num": 2696,
+  "uid": 104217736,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12989,
+      "tag_name": "郝小坏"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65454,
+          "chapter_title": "2话",
+          "updatetime": 1494984200,
+          "filesize": 51609,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 63857,
+          "chapter_title": "1话",
+          "updatetime": 1490147996,
+          "filesize": 92062,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 2192460,
+        "uid": 100362193,
+        "content": "……",
+        "createtime": 1495004894,
+        "nickname": "花京院俺 の嫁",
+        "avatar": "https://avatar.dmzj.com/bb/74/bb74a09f0f505d350cfb6317ae44da86.png"
+      },
+      {
+        "comment_id": 1975744,
+        "uid": 104217736,
+        "content": "何必较真儿",
+        "createtime": 1490691834,
+        "nickname": "郝小坏",
+        "avatar": "https://avatar.dmzj.com/80/69/8069a086e358d5cce791deab654c36ad.png"
+      }
+    ]
+  }
+}

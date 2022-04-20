@@ -1,0 +1,93 @@
+{
+  "id": 48895,
+  "islong": 2,
+  "direction": 2,
+  "title": "超人：元年",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/chaorenyuannian20190620.jpg",
+  "description": "DC黑标系列最新作品，来自漫画界传奇人物弗兰克米勒与老牌画师JRJR，为您带来DC宇宙最伟大英雄的童年故事。我们将随着那个从天而降的小镇男孩一同成长，见证他的亲情，爱情与友情，探求他是如何成长为日后那个强大而坚毅的男人……",
+  "last_updatetime": 1571971224,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chaorenyuannian",
+  "hidden": 0,
+  "hot_num": 141957,
+  "hit_num": 56870,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94404,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 702,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94404,
+          "chapter_title": "3卷",
+          "updatetime": 1571971224,
+          "filesize": 15657201,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 92582,
+          "chapter_title": "2卷",
+          "updatetime": 1566800525,
+          "filesize": 7648767,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 90460,
+          "chapter_title": "1卷",
+          "updatetime": 1560965419,
+          "filesize": 7866836,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 57,
+    "latest_comment": [
+      {
+        "comment_id": 23174160,
+        "uid": 104958108,
+        "content": "拉娜和海里的人鱼哭了",
+        "createtime": 1578579588,
+        "nickname": "旭日73867",
+        "avatar": "https://avatar.dmzj.com/c3/18/c3181e79119e97fd6ac3876a783d4444.png"
+      },
+      {
+        "comment_id": 22389703,
+        "uid": 101456078,
+        "content": "对头，jrjr的画风是越看越带劲！",
+        "createtime": 1575046929,
+        "nickname": "qzuser22251914",
+        "avatar": "https://avatar.dmzj.com/66/97/6697043dd09c0860b6d6e34f8a727510.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

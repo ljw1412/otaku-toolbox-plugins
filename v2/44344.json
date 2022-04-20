@@ -1,0 +1,83 @@
+{
+  "id": 44344,
+  "islong": 1,
+  "direction": 1,
+  "title": "Esquisse",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/esquisse0528ll.jpg",
+  "description": "韩漫 一次意外的对话，促使你我之间的距离...始终未了的事。",
+  "last_updatetime": 1532081995,
+  "copyright": 0,
+  "first_letter": "e",
+  "hot_num": 45361,
+  "hit_num": 4100,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14982,
+      "tag_name": "郑summer"
+    }
+  ],
+  "subscribe_num": 200,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 75305,
+          "chapter_title": "3话",
+          "updatetime": 1532081995,
+          "filesize": 1170587,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 75304,
+          "chapter_title": "2话",
+          "updatetime": 1532081947,
+          "filesize": 1549717,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 73412,
+          "chapter_title": "1话",
+          "updatetime": 1527470884,
+          "filesize": 1808719,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 21824224,
+        "uid": 108794810,
+        "content": "话说作者为什么不更新了",
+        "createtime": 1572602717,
+        "nickname": "阿飞DMZJ",
+        "avatar": "https://avatar.dmzj.com/57/07/57077c13fbcf0b2e66d6947116b8130a.png"
+      },
+      {
+        "comment_id": 17974487,
+        "uid": 108794810,
+        "content": "这货不更新了吧？",
+        "createtime": 1562591461,
+        "nickname": "阿飞DMZJ",
+        "avatar": "https://avatar.dmzj.com/57/07/57077c13fbcf0b2e66d6947116b8130a.png"
+      }
+    ]
+  }
+}

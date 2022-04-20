@@ -1,0 +1,73 @@
+{
+  "id": 42657,
+  "islong": 2,
+  "direction": 1,
+  "title": "BLOSSOM ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/00000001blossm112.jpg",
+  "description": "《3D东方》作者minusT与Hajin一起带来的东方project精美图集~",
+  "last_updatetime": 1515756270,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 100900,
+  "hit_num": 5784,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14249,
+      "tag_name": "Hajin"
+    },
+    {
+      "tag_id": 14250,
+      "tag_name": "minusT"
+    }
+  ],
+  "subscribe_num": 500,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72638,
+          "chapter_title": "1话",
+          "updatetime": 1515756270,
+          "filesize": 1017162,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 27832679,
+        "uid": 105860392,
+        "content": "留",
+        "createtime": 1590915470,
+        "nickname": "笨⑨蛋",
+        "avatar": "https://avatar.dmzj.com/11/69/1169334576c2332addcea34fffb36cea.png"
+      },
+      {
+        "comment_id": 27041348,
+        "uid": 102047534,
+        "content": "T大的作品总是这样令人沉迷",
+        "createtime": 1588429710,
+        "nickname": "ZJX959",
+        "avatar": "https://avatar.dmzj.com/21/46/2146599fa898ea515ebe59cea01f32e0.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": 46978,
+  "islong": 2,
+  "direction": 2,
+  "title": "少年正义联盟：局外人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/01juwairenzylm132356.jpg",
+  "description": "故事从少正成立第六年开始……",
+  "last_updatetime": 1546665536,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shaonianzhengyilianmengjuwairen",
+  "hidden": 0,
+  "hot_num": 128867,
+  "hit_num": 20687,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 79920,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 606,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79920,
+          "chapter_title": "2卷",
+          "updatetime": 1546665536,
+          "filesize": 4271759,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 79894,
+          "chapter_title": "1卷",
+          "updatetime": 1546531049,
+          "filesize": 3673957,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 31,
+    "latest_comment": [
+      {
+        "comment_id": 23163929,
+        "uid": 110115492,
+        "content": "这是第二季之前还是之后？",
+        "createtime": 1578537886,
+        "nickname": "雨霖铃·寒蝉凄切",
+        "avatar": "https://avatar.dmzj.com/65/49/6549cf905913ecc75b378635d08d1240.png"
+      },
+      {
+        "comment_id": 12510278,
+        "uid": 100310579,
+        "content": "留爪",
+        "createtime": 1552017259,
+        "nickname": "風神御",
+        "avatar": "https://avatar.dmzj.com/41/70/41703b431b7ba863cf3ec50689e8ad5c.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

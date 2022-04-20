@@ -1,0 +1,75 @@
+{
+  "id": 44199,
+  "islong": 2,
+  "direction": 1,
+  "title": "宝石之国：百年孤独",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/baoshizhiguobainiangudu1564968l.jpg",
+  "description": "宝石之国同人本，南极石与金刚老师的故事。",
+  "last_updatetime": 1526378861,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "baoshizhiguobainiangudu",
+  "hidden": 0,
+  "hot_num": 1339936,
+  "hit_num": 208225,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72758,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14933,
+      "tag_name": "K.I奇艾"
+    }
+  ],
+  "subscribe_num": 5356,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72758,
+          "chapter_title": "1话",
+          "updatetime": 1526378861,
+          "filesize": 6510867,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2660,
+    "latest_comment": [
+      {
+        "comment_id": 30067056,
+        "uid": 109476839,
+        "content": "啊这",
+        "createtime": 1598884712,
+        "nickname": "dmzj_109476839",
+        "avatar": "https://avatar.dmzj.com/3c/35/3c35d91e6985bdaa04c5b52cc5e29336.png"
+      },
+      {
+        "comment_id": 30033077,
+        "uid": 107199214,
+        "content": "留门",
+        "createtime": 1598724561,
+        "nickname": "荑禾雨色",
+        "avatar": "https://avatar.dmzj.com/73/23/732384cbc8180fbbc92927b7b847e354.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

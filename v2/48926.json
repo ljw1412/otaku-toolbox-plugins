@@ -1,0 +1,69 @@
+{
+  "id": 48926,
+  "islong": 2,
+  "direction": 1,
+  "title": "双心的太星",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/sxdtx623.jpg",
+  "description": "天命，相互交错",
+  "last_updatetime": 1561263453,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 626804,
+  "hit_num": 11113,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9443,
+      "tag_name": "福田健太郎"
+    }
+  ],
+  "subscribe_num": 1621,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89690,
+          "chapter_title": "1话",
+          "updatetime": 1561263453,
+          "filesize": 7755000,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 87,
+    "latest_comment": [
+      {
+        "comment_id": 21724158,
+        "uid": 100875229,
+        "content": "虽说这部快腰斩了，不过好歹也连载十几话，怎么没汉化组接手呢",
+        "createtime": 1572251131,
+        "nickname": "烟火海贼团",
+        "avatar": "https://avatar.dmzj.com/06/9e/069eb0c609b18ef74964759b5d624c76.png"
+      },
+      {
+        "comment_id": 20865437,
+        "uid": 100226202,
+        "content": "是周刊上的ふたりの太星这部吗，应该到了15话多了吧。不知道为什么没汉化了",
+        "createtime": 1570105374,
+        "nickname": "做大死1",
+        "avatar": "https://avatar.dmzj.com/45/10/45109d8eec63318b6a6e51b1ac75719e.png"
+      }
+    ]
+  }
+}

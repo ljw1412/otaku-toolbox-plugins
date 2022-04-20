@@ -1,0 +1,75 @@
+{
+  "id": 4153,
+  "islong": 2,
+  "direction": 1,
+  "title": "焦糖苹果",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/caramel-ringo-01_000_d7ed05c3e82034a48537e503d99e27dc.jpg",
+  "description": "焦糖=最厉害的忍者！ 为了朝梦寐以求的焦糖目标迈进, 花形苹果（13岁）爆发潜力,大显身手！ 热血铁拳忍者漫画上映罗！",
+  "last_updatetime": 1301020841,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 7842,
+  "hit_num": 538643,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2507,
+      "tag_name": "內海甲介"
+    }
+  ],
+  "subscribe_num": 12,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 14038,
+          "chapter_title": "3卷",
+          "updatetime": 1301020841,
+          "filesize": 15020428,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 14032,
+          "chapter_title": "2卷",
+          "updatetime": 1300952823,
+          "filesize": 13280301,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9303,
+          "chapter_title": "1卷",
+          "updatetime": 1278064234,
+          "filesize": 18335866,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 198597,
+        "uid": 25103042,
+        "content": "这不科学",
+        "createtime": 1390647621,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  }
+}

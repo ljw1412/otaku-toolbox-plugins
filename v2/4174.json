@@ -1,0 +1,82 @@
+{
+  "id": 4174,
+  "islong": 2,
+  "direction": 1,
+  "title": "颠疯物语",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/001_0832bae866175edc8966894361f15a5a.jpg",
+  "description": "暴笑的战国漫画哦！其中包括很多历史故事,各个朝代的名人混在一起胡说八道七搞八搞,什么完壁归赵呀都有,而且还通过搞笑的方式来戏说！可以说是台湾搞笑漫画的典范！",
+  "last_updatetime": 1277711103,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 3825,
+  "hit_num": 436959,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2515,
+      "tag_name": "吳毓琦"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9011,
+          "chapter_title": "4卷",
+          "updatetime": 1278315903,
+          "filesize": 18373174,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 9010,
+          "chapter_title": "3卷",
+          "updatetime": 1278315903,
+          "filesize": 18961300,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 9009,
+          "chapter_title": "2卷",
+          "updatetime": 1278315903,
+          "filesize": 19567498,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9008,
+          "chapter_title": "1卷",
+          "updatetime": 1278315903,
+          "filesize": 19080780,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 80359,
+        "uid": 19033151,
+        "content": "很搞笑，挺好看的",
+        "createtime": 1347000141,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  }
+}

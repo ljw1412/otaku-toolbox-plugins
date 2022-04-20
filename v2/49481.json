@@ -1,0 +1,82 @@
+{
+  "id": 49481,
+  "islong": 2,
+  "direction": 2,
+  "title": "安娜的怪物图鉴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1008379921564627191.jpg",
+  "description": "小女孩安娜与各种稀奇古怪的怪物相遇的暖心小故事",
+  "last_updatetime": 1564996068,
+  "copyright": 1,
+  "first_letter": "a",
+  "hot_num": 38866,
+  "hit_num": 41070,
+  "uid": 100837992,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16025,
+      "tag_name": "漫画家小李"
+    }
+  ],
+  "subscribe_num": 133,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91263,
+          "chapter_title": "2话",
+          "updatetime": 1564996068,
+          "filesize": 767543,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 91191,
+          "chapter_title": "1话",
+          "updatetime": 1564627753,
+          "filesize": 333559,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 61,
+    "latest_comment": [
+      {
+        "comment_id": 29158053,
+        "uid": 106941285,
+        "content": "草",
+        "createtime": 1595446587,
+        "nickname": "喵刀",
+        "avatar": "https://avatar.dmzj.com/33/63/3363bd8b235c9fb99396700c291bb8ff.png"
+      },
+      {
+        "comment_id": 27387087,
+        "uid": 107673693,
+        "content": "66666",
+        "createtime": 1589474448,
+        "nickname": "吐槽役也有春天",
+        "avatar": "https://avatar.dmzj.com/61/51/6151290d029fd34edfcf9cc42d912440.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 47553,
+  "islong": 2,
+  "direction": 1,
+  "title": "毕竟",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/190221bj.jpg",
+  "description": "结界组，其中混入了UUZ",
+  "last_updatetime": 1550733748,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bijing",
+  "hidden": 0,
+  "hot_num": 123053,
+  "hit_num": 5412,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 81526,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16552,
+      "tag_name": "根黑"
+    }
+  ],
+  "subscribe_num": 578,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81526,
+          "chapter_title": "1话",
+          "updatetime": 1550733748,
+          "filesize": 3121487,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 27760739,
+        "uid": 105781483,
+        "content": "可以呀兄弟",
+        "createtime": 1590678290,
+        "nickname": "幻想乡的求索",
+        "avatar": "https://avatar.dmzj.com/23/20/23207d089399ae02253fd3f57717f42b.png"
+      },
+      {
+        "comment_id": 13538266,
+        "uid": 100097915,
+        "content": "根黑是结界咏唱推",
+        "createtime": 1553966319,
+        "nickname": "所谓正确之物——",
+        "avatar": "https://avatar.dmzj.com/77/48/774894646be75df73318d5f7d65fb03d.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

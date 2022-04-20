@@ -1,0 +1,78 @@
+{
+  "id": 40987,
+  "islong": 2,
+  "direction": 2,
+  "title": "懂球女王说足球",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1049091621500381275.jpg",
+  "description": "这里是女王陛下的足球王国，吐槽、八卦、段子，关于足球的漫画~",
+  "last_updatetime": 1500381419,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 9754,
+  "hit_num": 8874,
+  "uid": 104909162,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13497,
+      "tag_name": "懂球女王说足球"
+    }
+  ],
+  "subscribe_num": 31,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67146,
+          "chapter_title": "2话",
+          "updatetime": 1500381419,
+          "filesize": 73027,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 67145,
+          "chapter_title": "1话",
+          "updatetime": 1500381390,
+          "filesize": 73732,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 28573872,
+        "uid": 108157468,
+        "content": "这是啥",
+        "createtime": 1593536129,
+        "nickname": "dmzj_108157468",
+        "avatar": "https://avatar.dmzj.com/ab/3b/ab3bbe923c1fe2682a4178e79eba4b53.png"
+      },
+      {
+        "comment_id": 19048873,
+        "uid": 100890959,
+        "content": "一般路过球迷表示马上就懂了",
+        "createtime": 1564996974,
+        "nickname": "PinEMouse",
+        "avatar": "https://avatar.dmzj.com/ed/d4/edd40a0aefc2e33dac0e8d57a3f7aa1b.png"
+      }
+    ]
+  }
+}

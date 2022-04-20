@@ -1,0 +1,80 @@
+{
+  "id": 42002,
+  "islong": 2,
+  "direction": 2,
+  "title": "太空堡垒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/xintaikongbaolei.jpg",
+  "description": "终于汉化好了Titan Comics今年7月出版的全新《太空堡垒》漫画系列第一期。\n画风是现在比较流行的写实风格，与动画原作的日本风格大相径庭。\n官方对外宣传时，介绍新漫画故事体现了卡尔·梅塞克的原始构想。确实在画面的每一处都体现了与原作动画的差异，换句话说，这是个重启宇宙。",
+  "last_updatetime": 1510580607,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 252410,
+  "hit_num": 191812,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5547,
+      "tag_name": "Titan Comics"
+    }
+  ],
+  "subscribe_num": 1077,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 70870,
+          "chapter_title": "2卷",
+          "updatetime": 1510580607,
+          "filesize": 2149252,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 70869,
+          "chapter_title": "1卷",
+          "updatetime": 1510580560,
+          "filesize": 1700354,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 63,
+    "latest_comment": [
+      {
+        "comment_id": 13127962,
+        "uid": 104665142,
+        "content": "haha",
+        "createtime": 1552929974,
+        "nickname": "电脑线圈63923",
+        "avatar": "https://avatar.dmzj.com/d8/37/d837c9802267f25a31f6997a8294ebb4.png"
+      },
+      {
+        "comment_id": 12273111,
+        "uid": 108621258,
+        "content": "先不吐槽名字，那么为什么突然坑了？",
+        "createtime": 1551614113,
+        "nickname": "超高校级的谈崩专家",
+        "avatar": "https://avatar.dmzj.com/27/31/27310a5bf5a1f6ad4c38a88e3d4e8e34.png"
+      }
+    ]
+  }
+}

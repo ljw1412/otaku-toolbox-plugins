@@ -1,0 +1,98 @@
+{
+  "id": 41810,
+  "islong": 2,
+  "direction": 1,
+  "title": "猫侦探",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/maozhentan.jpg",
+  "description": "密室杀人，不可能犯案……。接踵而来的难事件怪事件。解开难题的猫之侦探——猫侦探！！",
+  "last_updatetime": 1517305133,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 180865,
+  "hit_num": 73801,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1100,
+      "tag_name": "そにしけんじ"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 793,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73621,
+          "chapter_title": "4话",
+          "updatetime": 1517305133,
+          "filesize": 1846633,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 71377,
+          "chapter_title": "3话",
+          "updatetime": 1511187547,
+          "filesize": 1877130,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 70567,
+          "chapter_title": "2话",
+          "updatetime": 1508857200,
+          "filesize": 1698712,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 70227,
+          "chapter_title": "1话",
+          "updatetime": 1508203668,
+          "filesize": 2036710,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 24871871,
+        "uid": 104832332,
+        "content": "貓的腦洞不夠大，明明應該是金魚用水草做弓，鳥用鳥籠做箭，然後一男射的，所以這案子是自殺的（滑稽）",
+        "createtime": 1583335358,
+        "nickname": "疾風也是風",
+        "avatar": "https://avatar.dmzj.com/47/55/47558f6505e1fc2ea5fb990fa0e7f8aa.png"
+      },
+      {
+        "comment_id": 4384472,
+        "uid": 101922556,
+        "content": "大将？",
+        "createtime": 1523878415,
+        "nickname": "可爱水果饼4427",
+        "avatar": "https://avatar.dmzj.com/a1/ee/a1ee8a124747b1afd106877ec1299d32.png"
+      }
+    ]
+  }
+}
