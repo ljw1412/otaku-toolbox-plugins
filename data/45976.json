@@ -1,0 +1,94 @@
+{
+  "id": 45976,
+  "islong": 2,
+  "direction": 1,
+  "title": "Radiant",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/181003Radiant.jpg",
+  "description": "这是一个天空中漂浮着岛屿的世界,在这里天空会降下一种令人恐惧,名为天魔(Nemisis)的怪物--而能对付它们的,只有同样令人恐惧的巫师.少年巫师赛斯为了被世人所接受,决心寻找到传说中天魔的巢穴Radiant将这一威胁一劳永逸的摧毁",
+  "last_updatetime": 1541171379,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "radiant",
+  "hidden": 0,
+  "hot_num": 1157710,
+  "hit_num": 271694,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 82532,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15749,
+      "tag_name": "Tony Valente"
+    }
+  ],
+  "subscribe_num": 5329,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82532,
+          "chapter_title": "2话",
+          "updatetime": 1541171379,
+          "filesize": 2449792,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 82531,
+          "chapter_title": "1话",
+          "updatetime": 1541171356,
+          "filesize": 13555863,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 87,
+    "latest_comment": [
+      {
+        "comment_id": 24254934,
+        "uid": 106226488,
+        "content": "QAQ",
+        "createtime": 1581962168,
+        "nickname": "dmzj_106226488",
+        "avatar": "https://avatar.dmzj.com/50/96/5096d4c7bae3d8309318d7fadf1a831e.png"
+      },
+      {
+        "comment_id": 23711834,
+        "uid": 108941918,
+        "content": "跪求大哥接坑",
+        "createtime": 1580638464,
+        "nickname": "dmzj_108941918",
+        "avatar": "https://avatar.dmzj.com/27/7e/277ec659309a55f415f3624b2fcb5fe9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

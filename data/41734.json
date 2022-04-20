@@ -1,0 +1,87 @@
+{
+  "id": 41734,
+  "islong": 2,
+  "direction": 1,
+  "title": "我的女神叫豪哥",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/wodenvshenjiaohaoge.jpg",
+  "description": "伪娘同人本。",
+  "last_updatetime": 1507650959,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wodenvshenjiaohaoge",
+  "hidden": 0,
+  "hot_num": 490007,
+  "hit_num": 286868,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 65781,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 1829,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65781,
+          "chapter_title": "1话",
+          "updatetime": 1507650959,
+          "filesize": 4170811,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 126,
+    "latest_comment": [
+      {
+        "comment_id": 26369759,
+        "uid": 104674354,
+        "content": "可惜现在鸡脖都快糊了",
+        "createtime": 1586620093,
+        "nickname": "罗海楼",
+        "avatar": "https://avatar.dmzj.com/a0/ab/a0ab1abbb4620e3d3a054a1be7511f22.png"
+      },
+      {
+        "comment_id": 22894460,
+        "uid": 100226202,
+        "content": "鸡脖，hhhh这都没得看",
+        "createtime": 1577497562,
+        "nickname": "做大死1",
+        "avatar": "https://avatar.dmzj.com/45/10/45109d8eec63318b6a6e51b1ac75719e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

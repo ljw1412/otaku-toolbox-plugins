@@ -1,0 +1,109 @@
+{
+  "id": 38879,
+  "islong": 2,
+  "direction": 1,
+  "title": "仁王~金色武士~",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/renwangjinsewshi.jpg",
+  "description": "koeitecmo出品的仁王游戏漫画版。",
+  "last_updatetime": 1485239111,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "renwangjinsewushi",
+  "hidden": 0,
+  "hot_num": 100567,
+  "hit_num": 1040181,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 58540,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10490,
+      "tag_name": "KOEI TECMO"
+    },
+    {
+      "tag_id": 12470,
+      "tag_name": "片山阳介"
+    }
+  ],
+  "subscribe_num": 1774,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 58540,
+          "chapter_title": "3话",
+          "updatetime": 1485239111,
+          "filesize": 4009441,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 56036,
+          "chapter_title": "2话",
+          "updatetime": 1477790074,
+          "filesize": 7737485,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 55087,
+          "chapter_title": "1话",
+          "updatetime": 1475062238,
+          "filesize": 8371740,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 85,
+    "latest_comment": [
+      {
+        "comment_id": 25453310,
+        "uid": 107892380,
+        "content": "我从仁王2回来了，我十分想念九十九武器",
+        "createtime": 1584623334,
+        "nickname": "Morituri",
+        "avatar": "https://avatar.dmzj.com/18/92/1892d18d1cee52ba4321fcdf8ebe5b35.png"
+      },
+      {
+        "comment_id": 14103548,
+        "uid": 106254926,
+        "content": "我看了游戏里的威廉半天，我怎么也看不出这是“金发”的外国武士。",
+        "createtime": 1554948326,
+        "nickname": "终夜暮光",
+        "avatar": "https://avatar.dmzj.com/68/8f/688fb1f810aacf33d260a38224e80832.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

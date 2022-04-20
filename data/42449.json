@@ -1,0 +1,98 @@
+{
+  "id": 42449,
+  "islong": 2,
+  "direction": 2,
+  "title": "僵尸国度",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/171226znation.jpg",
+  "description": "根据syfy同名美剧改编，Dynamite Entertainment漫画公司出品，和行尸走肉不一样的感觉",
+  "last_updatetime": 1515241443,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jiangshiguodu",
+  "hidden": 1,
+  "hot_num": 138233,
+  "hit_num": 197505,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 68513,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2926,
+      "tag_name": "Dynamite"
+    }
+  ],
+  "subscribe_num": 566,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 68513,
+          "chapter_title": "2卷",
+          "updatetime": 1515241443,
+          "filesize": 4697311,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 68078,
+          "chapter_title": "1卷",
+          "updatetime": 1514258906,
+          "filesize": 2559852,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 6891779,
+        "uid": 105688447,
+        "content": "美剧为什么还没更新",
+        "createtime": 1537312363,
+        "nickname": "剃刀阳子",
+        "avatar": "https://avatar.dmzj.com/67/39/673936ea3057a11d3347f73fce593a9c.png"
+      },
+      {
+        "comment_id": 3636594,
+        "uid": 101881812,
+        "content": "第二卷最后一P我仿佛看到了大公",
+        "createtime": 1515294626,
+        "nickname": "Raiden41182",
+        "avatar": "https://avatar.dmzj.com/72/13/721374ccf958a58c975f6a65262f3d54.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 45827,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C94)Sight",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/sight0919l.jpg",
+  "description": "同人画集",
+  "last_updatetime": 1537358457,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sight",
+  "hidden": 0,
+  "hot_num": 3635896,
+  "hit_num": 21600,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 80882,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15669,
+      "tag_name": "あるうらら"
+    }
+  ],
+  "subscribe_num": 13943,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80882,
+          "chapter_title": "1话",
+          "updatetime": 1537358457,
+          "filesize": 2690010,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 41,
+    "latest_comment": [
+      {
+        "comment_id": 25507674,
+        "uid": 109574628,
+        "content": "这里的图我全解包拿去做壁纸了。",
+        "createtime": 1584728388,
+        "nickname": "logtin",
+        "avatar": "https://avatar.dmzj.com/a3/c7/a3c7b3759bb5d887a304b78e8caaa719.png"
+      },
+      {
+        "comment_id": 18684986,
+        "uid": 101807951,
+        "content": "嗯？",
+        "createtime": 1564180075,
+        "nickname": "吾没得脑子",
+        "avatar": "https://avatar.dmzj.com/e2/86/e28676dac95c63ffa4353b96242b0b80.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

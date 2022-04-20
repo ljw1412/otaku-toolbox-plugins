@@ -1,0 +1,91 @@
+{
+  "id": 42150,
+  "islong": 2,
+  "direction": 1,
+  "title": "我的智能女友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/wodezhinengnvyoufengmianl.jpg",
+  "description": "这是一个告知人们充完电要拔掉插头的故事",
+  "last_updatetime": 1511885368,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wodezhinengnvyou",
+  "hidden": 0,
+  "hot_num": 778169,
+  "hit_num": 118150,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 71639,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14027,
+      "tag_name": "ちだまさみ"
+    }
+  ],
+  "subscribe_num": 3352,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71639,
+          "chapter_title": "1话",
+          "updatetime": 1511885368,
+          "filesize": 1136496,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 72,
+    "latest_comment": [
+      {
+        "comment_id": 24507163,
+        "uid": 104299567,
+        "content": "欢乐向收藏就对了",
+        "createtime": 1582570698,
+        "nickname": "五十嵐夜空",
+        "avatar": "https://avatar.dmzj.com/67/f7/67f7dd1d2ccdb1af07f0b53bcbf0951e.png"
+      },
+      {
+        "comment_id": 23688604,
+        "uid": 109031253,
+        "content": "几百年了",
+        "createtime": 1580567156,
+        "nickname": "方块千千",
+        "avatar": "https://avatar.dmzj.com/66/45/6645fc4a2a14a4f2081f1c65f3f8edcb.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,126 @@
+{
+  "id": 39492,
+  "islong": 2,
+  "direction": 1,
+  "title": "夏亚的日常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/CharNoNichijou000xyrc11.jpg",
+  "description": "夏亚平凡的每一天",
+  "last_updatetime": 1562942440,
+  "last_update_chapter_name": "第06卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiayaderichang",
+  "hidden": 0,
+  "hot_num": 286985,
+  "hit_num": 1716075,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90221,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12756,
+      "tag_name": "本田雅也"
+    },
+    {
+      "tag_id": 12780,
+      "tag_name": "南北"
+    }
+  ],
+  "subscribe_num": 2057,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90221,
+          "chapter_title": "6卷",
+          "updatetime": 1562942440,
+          "filesize": 21303646,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 90220,
+          "chapter_title": "5卷",
+          "updatetime": 1562942428,
+          "filesize": 24925912,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 89592,
+          "chapter_title": "4卷",
+          "updatetime": 1561132024,
+          "filesize": 21315630,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 88828,
+          "chapter_title": "3卷",
+          "updatetime": 1559305682,
+          "filesize": 19398727,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 69934,
+          "chapter_title": "2卷",
+          "updatetime": 1508233204,
+          "filesize": 22976833,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 61459,
+          "chapter_title": "1卷",
+          "updatetime": 1483279620,
+          "filesize": 24244289,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 186,
+    "latest_comment": [
+      {
+        "comment_id": 27013084,
+        "uid": 104406319,
+        "content": "夏亚？",
+        "createtime": 1588345508,
+        "nickname": "半长人/:L",
+        "avatar": "https://avatar.dmzj.com/92/d0/92d04fadfc39f36c95b943a9e1d8c2ff.png"
+      },
+      {
+        "comment_id": 26744142,
+        "uid": 107776901,
+        "content": "赤色彗星也坠落到了地面嘛/大哭",
+        "createtime": 1587591701,
+        "nickname": "光明冰砖",
+        "avatar": "https://avatar.dmzj.com/f2/84/f28451a4bc63e5c7cd6ce3b6da5d19f9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

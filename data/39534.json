@@ -1,0 +1,91 @@
+{
+  "id": 39534,
+  "islong": 2,
+  "direction": 1,
+  "title": "殿姬王子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/dianjiwangzi.png",
+  "description": "流光溢彩的演艺圈，在幕后支撑着的人们的，恋爱工作和友情。",
+  "last_updatetime": 1483717930,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dianjiwangzi",
+  "hidden": 1,
+  "hot_num": 20137,
+  "hit_num": 116971,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 58056,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4288,
+      "tag_name": "宫川匡代"
+    }
+  ],
+  "subscribe_num": 508,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 58056,
+          "chapter_title": "1话",
+          "updatetime": 1483717930,
+          "filesize": 3981919,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 10963916,
+        "uid": 101228434,
+        "content": "M",
+        "createtime": 1549372720,
+        "nickname": "佛之境禅诗吟97724",
+        "avatar": "https://avatar.dmzj.com/3a/41/3a41e98ef0407f1ca91dd7a270590409.png"
+      },
+      {
+        "comment_id": 2930438,
+        "uid": 101882240,
+        "content": "不更了吗？",
+        "createtime": 1505607305,
+        "nickname": "miyami",
+        "avatar": "https://avatar.dmzj.com/f6/02/f6029631c03c8439db68fb8e792ea7a4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

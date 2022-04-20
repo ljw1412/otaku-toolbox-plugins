@@ -1,0 +1,97 @@
+{
+  "id": 39086,
+  "islong": 2,
+  "direction": 2,
+  "title": "上山记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1022385501477587034.jpg",
+  "description": "上山与下山的奇遇",
+  "last_updatetime": 1477587976,
+  "last_update_chapter_name": "全一话",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "shangshanji",
+  "hidden": 0,
+  "hot_num": 2861,
+  "hit_num": 41221,
+  "uid": 102238550,
+  "is_lock": 0,
+  "last_update_chapter_id": 58362,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12562,
+      "tag_name": "画痴"
+    }
+  ],
+  "subscribe_num": 28,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 58362,
+          "chapter_title": "1话",
+          "updatetime": 1477587976,
+          "filesize": 1822420,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 1417251,
+        "uid": 101571345,
+        "content": "画风有点6",
+        "createtime": 1477725965,
+        "nickname": "-        半命归烟_丶",
+        "avatar": "https://avatar.dmzj.com/95/ce/95ceb6cd239305541531d9b7d021e69b.png"
+      },
+      {
+        "comment_id": 1416184,
+        "uid": 101960221,
+        "content": "故事情节还可以就是画风不习惯",
+        "createtime": 1477701887,
+        "nickname": "0~021811",
+        "avatar": "https://avatar.dmzj.com/a8/6e/a86eedae04f6661c52e0a6bcbded9396.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

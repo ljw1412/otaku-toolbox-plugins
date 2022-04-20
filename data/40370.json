@@ -1,0 +1,97 @@
+{
+  "id": 40370,
+  "islong": 2,
+  "direction": 2,
+  "title": "猜想",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1045229401493994100.jpg",
+  "description": "16岁的女生张晓独自去外地求学的故事.",
+  "last_updatetime": 1493994610,
+  "last_update_chapter_name": "全一话",
+  "copyright": 1,
+  "first_letter": "c",
+  "comic_py": "caixiang",
+  "hidden": 0,
+  "hot_num": 19608,
+  "hit_num": 314856,
+  "uid": 104522940,
+  "is_lock": 0,
+  "last_update_chapter_id": 65202,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13178,
+      "tag_name": "Dani"
+    }
+  ],
+  "subscribe_num": 82,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65202,
+          "chapter_title": "1话",
+          "updatetime": 1493994610,
+          "filesize": 1470466,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 3327790,
+        "uid": 100738922,
+        "content": "不错的故事",
+        "createtime": 1511080201,
+        "nickname": "BoyleLi",
+        "avatar": "https://avatar.dmzj.com/86/24/862477e597cab9490fb591e8eacbf689.png"
+      },
+      {
+        "comment_id": 2154752,
+        "uid": 102505885,
+        "content": "好好看！",
+        "createtime": 1494259718,
+        "nickname": "火腿蛋蛋",
+        "avatar": "https://avatar.dmzj.com/97/e3/97e32150cabd784ef7a2be1c55215f74.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

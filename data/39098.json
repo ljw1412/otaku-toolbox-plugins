@@ -1,0 +1,105 @@
+{
+  "id": 39098,
+  "islong": 2,
+  "direction": 1,
+  "title": "来自星星的弦乐",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/laizixingxingdexianyue.jpg",
+  "description": "孤独的少女、一个人的旅程。",
+  "last_updatetime": 1485421397,
+  "last_update_chapter_name": "下篇",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "laizixingxingdexianyue",
+  "hidden": 0,
+  "hot_num": 911816,
+  "hit_num": 330650,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 56725,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7955,
+      "tag_name": "つくしあきひと"
+    }
+  ],
+  "subscribe_num": 5282,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56725,
+          "chapter_title": "3话",
+          "updatetime": 1485421397,
+          "filesize": 1010456,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 54984,
+          "chapter_title": "2话",
+          "updatetime": 1479038380,
+          "filesize": 2475867,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 54647,
+          "chapter_title": "1话",
+          "updatetime": 1477815519,
+          "filesize": 936341,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 703,
+    "latest_comment": [
+      {
+        "comment_id": 27075051,
+        "uid": 107864150,
+        "content": "来自深渊",
+        "createtime": 1588518640,
+        "nickname": "卡尼阿德斯",
+        "avatar": "https://avatar.dmzj.com/85/65/856510b1030d535d1c41a141ab8b3568.png"
+      },
+      {
+        "comment_id": 27068209,
+        "uid": 109558151,
+        "content": "来自深渊",
+        "createtime": 1588505206,
+        "nickname": "dmzj_109558151",
+        "avatar": "https://avatar.dmzj.com/4d/75/4d756fabbc858c8b5dfabe95a4b79b4a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

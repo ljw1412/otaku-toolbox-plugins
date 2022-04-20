@@ -1,0 +1,101 @@
+{
+  "id": 44110,
+  "islong": 2,
+  "direction": 1,
+  "title": "璨璨七拍子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/qp0508l.jpg",
+  "description": "小短篇，共三篇。",
+  "last_updatetime": 1528018333,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "cancanqipaizi",
+  "hidden": 0,
+  "hot_num": 489490,
+  "hit_num": 74135,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 78158,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14898,
+      "tag_name": "神山彩"
+    }
+  ],
+  "subscribe_num": 2295,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78158,
+          "chapter_title": "3话",
+          "updatetime": 1528018333,
+          "filesize": 2581035,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 77419,
+          "chapter_title": "2话",
+          "updatetime": 1526349124,
+          "filesize": 1363284,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 77201,
+          "chapter_title": "1话",
+          "updatetime": 1525775236,
+          "filesize": 1872749,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 54,
+    "latest_comment": [
+      {
+        "comment_id": 19667385,
+        "uid": 102087318,
+        "content": "黎明时的东风",
+        "createtime": 1566491823,
+        "nickname": "苦果",
+        "avatar": "https://avatar.dmzj.com/41/13/4113ba83d056cd107a65645de83a82d6.png"
+      },
+      {
+        "comment_id": 19487366,
+        "uid": 100484941,
+        "content": "第一话，第二话，第三话都是不同作者画的吧。第一话画风有点新奇，比较有意思",
+        "createtime": 1566037185,
+        "nickname": "陆仁甲",
+        "avatar": "https://avatar.dmzj.com/7a/8d/7a8d949553eb94fe15223e0a1a1ed277.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

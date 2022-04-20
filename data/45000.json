@@ -1,0 +1,115 @@
+{
+  "id": 45000,
+  "islong": 2,
+  "direction": 1,
+  "title": "想和猫搞好关系",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/01hemaozuopengyou720.jpg",
+  "description": "猫奴宅男和自家侄女之间的日常。",
+  "last_updatetime": 1580793762,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xianghemaozuopengyou",
+  "hidden": 0,
+  "hot_num": 4461857,
+  "hit_num": 403813,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97556,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7465,
+      "tag_name": "汐村友"
+    }
+  ],
+  "subscribe_num": 20739,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97556,
+          "chapter_title": "5话",
+          "updatetime": 1580793762,
+          "filesize": 1881730,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 90345,
+          "chapter_title": "4话",
+          "updatetime": 1560593808,
+          "filesize": 3014649,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 85009,
+          "chapter_title": "3话",
+          "updatetime": 1546006680,
+          "filesize": 2606913,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 80479,
+          "chapter_title": "2话",
+          "updatetime": 1533300409,
+          "filesize": 2481847,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 79907,
+          "chapter_title": "1话",
+          "updatetime": 1532101985,
+          "filesize": 3265324,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 436,
+    "latest_comment": [
+      {
+        "comment_id": 27029162,
+        "uid": 100356859,
+        "content": "看看",
+        "createtime": 1588397036,
+        "nickname": "我是单脚站立的稻草人",
+        "avatar": "https://avatar.dmzj.com/36/78/36786acbdf778a3562771ff755090e01.png"
+      },
+      {
+        "comment_id": 26991734,
+        "uid": 105449137,
+        "content": "来了来了 订阅",
+        "createtime": 1588272491,
+        "nickname": "零0000",
+        "avatar": "https://avatar.dmzj.com/de/fb/defb088dc8a40882faa4ca263530041d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

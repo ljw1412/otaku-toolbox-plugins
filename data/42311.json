@@ -1,0 +1,100 @@
+{
+  "id": 42311,
+  "islong": 2,
+  "direction": 2,
+  "title": "小黑很烦恼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1042256051512996278.jpg",
+  "description": "普通四格漫画而已",
+  "last_updatetime": 1513561020,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiaoheihenfannao",
+  "hidden": 0,
+  "hot_num": 1304,
+  "hit_num": 4799,
+  "uid": 104225605,
+  "is_lock": 0,
+  "last_update_chapter_id": 70739,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3253,
+      "tag_name": "宅系"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14086,
+      "tag_name": "简单"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 70739,
+          "chapter_title": "1话",
+          "updatetime": 1513561020,
+          "filesize": 164172,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 70514,
+          "chapter_title": "0话",
+          "updatetime": 1512996529,
+          "filesize": 696440,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 13135229,
+        "uid": 108648863,
+        "content": "意外点进来。似乎是个一个巨坑没填",
+        "createtime": 1552953087,
+        "nickname": "dmzj_108648863",
+        "avatar": "https://avatar.dmzj.com/c1/86/c186fe63f8a0eb709f2cdda0570281ae.png"
+      },
+      {
+        "comment_id": 3504060,
+        "uid": 104225605,
+        "content": "没人",
+        "createtime": 1513300098,
+        "nickname": "守望者们",
+        "avatar": "https://avatar.dmzj.com/14/32/1432c391aa6eff405f354e82cedf6a1c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

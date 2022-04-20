@@ -1,0 +1,119 @@
+{
+  "id": 39836,
+  "islong": 2,
+  "direction": 2,
+  "title": "搏击俱乐部2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/bojijulebufengmianl.jpg",
+  "description": "找儿子啊找儿子…各种方法找儿子…",
+  "last_updatetime": 1487686719,
+  "last_update_chapter_name": "番外篇",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bjijulebuer",
+  "hidden": 1,
+  "hot_num": 148028,
+  "hit_num": 80930,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 62010,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 846,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 62010,
+          "chapter_title": "番外篇",
+          "updatetime": 1487686719,
+          "filesize": 1685922,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 62009,
+          "chapter_title": "4卷",
+          "updatetime": 1487686652,
+          "filesize": 3959642,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 62008,
+          "chapter_title": "3卷",
+          "updatetime": 1487686624,
+          "filesize": 3794409,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 62007,
+          "chapter_title": "2卷",
+          "updatetime": 1487686591,
+          "filesize": 3732667,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 62006,
+          "chapter_title": "1卷",
+          "updatetime": 1487686568,
+          "filesize": 4269324,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 26846178,
+        "uid": 108431045,
+        "content": "什么情况",
+        "createtime": 1587862802,
+        "nickname": "dmzj_108431045",
+        "avatar": "https://avatar.dmzj.com/0d/d8/0dd840d4d50182db9fd5be34fcbb1276.png"
+      },
+      {
+        "comment_id": 22131004,
+        "uid": 106518938,
+        "content": "7777",
+        "createtime": 1573839719,
+        "nickname": "Yamagsumi",
+        "avatar": "https://avatar.dmzj.com/1d/dd/1ddd9734545b063ed2f8259bcd90897a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

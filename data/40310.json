@@ -1,0 +1,91 @@
+{
+  "id": 40310,
+  "islong": 2,
+  "direction": 1,
+  "title": "怪鸭霍华德MAX",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/guaiyahuohuademax.jpg",
+  "description": "本名霍华德·T·鸭（Howard T. Duck），原是鸭子世界（Duckworld）的居民，因遭遇意外被困在了地球。",
+  "last_updatetime": 1493457548,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "guaiyahuohuademax",
+  "hidden": 1,
+  "hot_num": 31827,
+  "hit_num": 44227,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 64983,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3483,
+      "tag_name": "MAX Comics"
+    }
+  ],
+  "subscribe_num": 126,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 64983,
+          "chapter_title": "1卷",
+          "updatetime": 1493457548,
+          "filesize": 2474139,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 2162564,
+        "uid": 101060942,
+        "content": "不是漫威的啊我靠",
+        "createtime": 1494430034,
+        "nickname": "qzuser08134895",
+        "avatar": "https://avatar.dmzj.com/78/ba/78ba95731a69bc8bad9f556ad25e2de1.png"
+      },
+      {
+        "comment_id": 2115658,
+        "uid": 100226165,
+        "content": "看成怪盜飛天德……還有怪醫杜立德……",
+        "createtime": 1493488746,
+        "nickname": "cybershottime@gmail.",
+        "avatar": "https://avatar.dmzj.com/10/df/10df2994a9db6a3f71bd4492608abfe3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

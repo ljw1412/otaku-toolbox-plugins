@@ -1,0 +1,119 @@
+{
+  "id": 39738,
+  "islong": 2,
+  "direction": 1,
+  "title": "星球大战：达斯摩尔",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/Darth2517Mau001000a.jpg",
+  "description": "本漫画由漫威出品。为达斯摩尔的个人刊。",
+  "last_updatetime": 1504362025,
+  "last_update_chapter_name": "第05卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xingqiudazhandasimoer",
+  "hidden": 0,
+  "hot_num": 113704,
+  "hit_num": 222080,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 62825,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 562,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 62825,
+          "chapter_title": "5卷",
+          "updatetime": 1504362025,
+          "filesize": 2887250,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 61925,
+          "chapter_title": "4卷",
+          "updatetime": 1501827171,
+          "filesize": 2838044,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 60710,
+          "chapter_title": "3卷",
+          "updatetime": 1498381334,
+          "filesize": 3366959,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 58551,
+          "chapter_title": "2卷",
+          "updatetime": 1491454420,
+          "filesize": 5352766,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 56970,
+          "chapter_title": "1卷",
+          "updatetime": 1486302135,
+          "filesize": 4816389,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 3908433,
+        "uid": 106121664,
+        "content": "如果学徒都这么强，就没ppt什么事了",
+        "createtime": 1518951283,
+        "nickname": "dmzj_106121664",
+        "avatar": "https://avatar.dmzj.com/91/08/910865565fe1c3c61628587aa294660b.png"
+      },
+      {
+        "comment_id": 2642467,
+        "uid": 102439159,
+        "content": "坐等某个疯狂喷绝地的哥们出场...",
+        "createtime": 1501874402,
+        "nickname": "liu刘宇恒",
+        "avatar": "https://avatar.dmzj.com/ce/35/ce35308d545626d7b21993936bae2cbd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

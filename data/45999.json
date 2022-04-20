@@ -1,0 +1,87 @@
+{
+  "id": 45999,
+  "islong": 2,
+  "direction": 1,
+  "title": "吾亦红",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/wuyihong1005l.jpg",
+  "description": "不是有了国家才有历史，是有了历史才会形成国家。",
+  "last_updatetime": 1538714272,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wuyihong",
+  "hidden": 0,
+  "hot_num": 130537,
+  "hit_num": 12972,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 77949,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15758,
+      "tag_name": "驹碧"
+    }
+  ],
+  "subscribe_num": 635,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77949,
+          "chapter_title": "1话",
+          "updatetime": 1538714272,
+          "filesize": 5975501,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 46,
+    "latest_comment": [
+      {
+        "comment_id": 26234244,
+        "uid": 100837915,
+        "content": "吾亦红",
+        "createtime": 1586354981,
+        "nickname": "悲しくない",
+        "avatar": "https://avatar.dmzj.com/25/46/25463752698a55f1e9c72a8046aaca85.png"
+      },
+      {
+        "comment_id": 25770727,
+        "uid": 101936759,
+        "content": "中下卷呢，，还有駒碧老师的新刊，都是神作",
+        "createtime": 1585344817,
+        "nickname": "好人milkiway",
+        "avatar": "https://avatar.dmzj.com/35/31/353147d60cc8c943aeccf2e991c70f66.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

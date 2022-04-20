@@ -1,0 +1,94 @@
+{
+  "id": 46148,
+  "islong": 2,
+  "direction": 1,
+  "title": "FuFu",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/181018hehe.jpg",
+  "description": "あづち涼老师的推特漫画",
+  "last_updatetime": 1542465568,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fufuliang",
+  "hidden": 0,
+  "hot_num": 3941979,
+  "hit_num": 158187,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 78232,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4041,
+      "tag_name": "あづち涼"
+    }
+  ],
+  "subscribe_num": 18462,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78232,
+          "chapter_title": "2话",
+          "updatetime": 1542465568,
+          "filesize": 1957789,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 77196,
+          "chapter_title": "1话",
+          "updatetime": 1539831592,
+          "filesize": 2178734,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 377,
+    "latest_comment": [
+      {
+        "comment_id": 26915627,
+        "uid": 110623254,
+        "content": "还行吧",
+        "createtime": 1588057990,
+        "nickname": "折原临也》",
+        "avatar": "https://avatar.dmzj.com/2a/83/2a83f3fe2eb3ce4e550c6ae584b36d33.png"
+      },
+      {
+        "comment_id": 26645461,
+        "uid": 105755059,
+        "content": "沙雕（狗头）",
+        "createtime": 1587316347,
+        "nickname": "miss馒头君",
+        "avatar": "https://avatar.dmzj.com/40/f9/40f9e2a1646a480138a611cb327cd909.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

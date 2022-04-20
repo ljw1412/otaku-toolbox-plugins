@@ -1,0 +1,112 @@
+{
+  "id": 47510,
+  "islong": 2,
+  "direction": 1,
+  "title": "进击的巨人原画集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/190219jjdjryhj.jpg",
+  "description": "进击的巨人原画集。",
+  "last_updatetime": 1550490113,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jinjidejurenyuanhuaji",
+  "hidden": 0,
+  "hot_num": 1717757,
+  "hit_num": 1040242,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86573,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3126,
+      "tag_name": "諌山创(谏山创)"
+    },
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 7464,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86573,
+          "chapter_title": "4卷",
+          "updatetime": 1550490113,
+          "filesize": 23778214,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 86572,
+          "chapter_title": "3卷",
+          "updatetime": 1550490036,
+          "filesize": 29965865,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 86571,
+          "chapter_title": "2卷",
+          "updatetime": 1550489892,
+          "filesize": 18730663,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 86570,
+          "chapter_title": "1卷",
+          "updatetime": 1550489417,
+          "filesize": 21114466,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2615,
+    "latest_comment": [
+      {
+        "comment_id": 27073302,
+        "uid": 105775743,
+        "content": "如果不赶紧留下点什么，***********，该如何留住它呢?应该像我这样无情码字，这么多，大概可以了吧?没错没错!无情复制\n哦吼吼，我是个无情的复制机╮(￣▽￣)╭",
+        "createtime": 1588516175,
+        "nickname": "dmzj_105775743",
+        "avatar": "https://avatar.dmzj.com/32/78/32781775f272a57b1b8153793a108876.png"
+      },
+      {
+        "comment_id": 26926340,
+        "uid": 110690530,
+        "content": "这是漫画？",
+        "createtime": 1588079693,
+        "nickname": "dmzj_110690530",
+        "avatar": "https://avatar.dmzj.com/39/a5/39a5c0812005ddd571f5c318582e5190.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

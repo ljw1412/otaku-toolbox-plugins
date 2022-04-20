@@ -1,0 +1,86 @@
+{
+  "id": 39370,
+  "islong": 1,
+  "direction": 2,
+  "title": "段子王",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1007514101481194380.jpg",
+  "description": "此漫画作品收录了现实、生活中各种有趣、搞笑、搞怪、开心的段子。在周而复始，平淡无奇的学习、工作、生活中，帮我们一起找寻另一种开心的方式，增添生活乐趣，释放自我。",
+  "last_updatetime": 1481609392,
+  "last_update_chapter_name": "无药可救",
+  "copyright": 1,
+  "first_letter": "d",
+  "comic_py": "duanziwang",
+  "hidden": 0,
+  "hot_num": 581,
+  "hit_num": 762,
+  "uid": 100751410,
+  "is_lock": 0,
+  "last_update_chapter_id": 61182,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11263,
+      "tag_name": "纸少爷"
+    }
+  ],
+  "subscribe_num": 9,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61182,
+          "chapter_title": "3话",
+          "updatetime": 1481609392,
+          "filesize": 96739,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 61137,
+          "chapter_title": "2话",
+          "updatetime": 1481338677,
+          "filesize": 80971,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 61081,
+          "chapter_title": "1话",
+          "updatetime": 1481196562,
+          "filesize": 89441,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "我们在每周二、周四、周六新品更新，希望得到大家的关注和支持，并为我们提出宝贵的改善意见和建议。",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

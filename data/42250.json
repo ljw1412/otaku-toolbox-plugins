@@ -1,0 +1,87 @@
+{
+  "id": 42250,
+  "islong": 2,
+  "direction": 1,
+  "title": "小铃与老爷爷",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/171209xiaol.jpg",
+  "description": "治愈向，小铃和一位亲切的老爷爷的故事。",
+  "last_updatetime": 1512814938,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaolingyulaoyeye",
+  "hidden": 0,
+  "hot_num": 123157,
+  "hit_num": 48589,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 71957,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14064,
+      "tag_name": "にくたまそば"
+    }
+  ],
+  "subscribe_num": 552,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71957,
+          "chapter_title": "1话",
+          "updatetime": 1512814938,
+          "filesize": 3448666,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 54,
+    "latest_comment": [
+      {
+        "comment_id": 26738110,
+        "uid": 101804576,
+        "content": "黑过头了吧。",
+        "createtime": 1587573657,
+        "nickname": "里克66",
+        "avatar": "https://avatar.dmzj.com/53/79/537901e45c9a04c0c272143894e43309.png"
+      },
+      {
+        "comment_id": 25832133,
+        "uid": 105877380,
+        "content": "我看傻了，这老头子究竟是什么个情况，阿求怎么一下就出手了。",
+        "createtime": 1585498867,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

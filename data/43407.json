@@ -1,0 +1,91 @@
+{
+  "id": 43407,
+  "islong": 2,
+  "direction": 1,
+  "title": "秘封BL",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/mf0309l.jpg",
+  "description": "秘封组，这是全年龄向男体化恶搞漫画~",
+  "last_updatetime": 1520587827,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mifengbl",
+  "hidden": 0,
+  "hot_num": 506234,
+  "hit_num": 39221,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 74417,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5076,
+      "tag_name": "是乃"
+    }
+  ],
+  "subscribe_num": 2003,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74417,
+          "chapter_title": "1话",
+          "updatetime": 1520587827,
+          "filesize": 2230007,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 75,
+    "latest_comment": [
+      {
+        "comment_id": 26608235,
+        "uid": 104890343,
+        "content": "BL（博丽）",
+        "createtime": 1587219733,
+        "nickname": "qzuser4786216",
+        "avatar": "https://avatar.dmzj.com/40/07/4007765ff41bd85ecdeb04915feeeb54.png"
+      },
+      {
+        "comment_id": 26513320,
+        "uid": 109981631,
+        "content": "左 莲 子",
+        "createtime": 1586959193,
+        "nickname": "dmzj_109981631",
+        "avatar": "https://avatar.dmzj.com/4c/66/4c66547d5fc99a0240fb70dddb86b09b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

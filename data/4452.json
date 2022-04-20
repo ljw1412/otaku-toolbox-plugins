@@ -1,0 +1,87 @@
+{
+  "id": 4452,
+  "islong": 2,
+  "direction": 1,
+  "title": "塞尔达传说-时空之章",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/srdbksygsskzz.jpg",
+  "description": "任天堂公司的人气单机游戏作品的改编漫画。风格十分清新。\n推荐给所有喜欢ZELDA系列和喜欢林克的朋友！",
+  "last_updatetime": 1279591904,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "saierdachuanshuoshikongzhizhang",
+  "hidden": 0,
+  "hot_num": 99456,
+  "hit_num": 332094,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 10022,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2114,
+      "tag_name": "姬川明"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 492,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10022,
+          "chapter_title": "1卷",
+          "updatetime": 1279591900,
+          "filesize": 18059290,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 22079564,
+        "uid": 106256235,
+        "content": "画的真的不错",
+        "createtime": 1573603544,
+        "nickname": "Kefeather",
+        "avatar": "https://avatar.dmzj.com/2a/8f/2a8f6cffc983dc7bc16a854df7d7a95c.png"
+      },
+      {
+        "comment_id": 20905557,
+        "uid": 109395294,
+        "content": "时空之章里的迷宫都挺不错的，只是有些难。",
+        "createtime": 1570194040,
+        "nickname": "Repain",
+        "avatar": "https://avatar.dmzj.com/34/82/34827fdd31fb989f16dd73ffe2878437.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

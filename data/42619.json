@@ -1,0 +1,97 @@
+{
+  "id": 42619,
+  "islong": 2,
+  "direction": 2,
+  "title": "约会小日常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1035247811515070295.jpg",
+  "description": "嘻嘻嘻嘻嘻嘻嘻",
+  "last_updatetime": 1515070415,
+  "last_update_chapter_name": "小日常",
+  "copyright": 1,
+  "first_letter": "y",
+  "comic_py": "yuehuixiaorichang",
+  "hidden": 0,
+  "hot_num": 436742,
+  "hit_num": 2820927,
+  "uid": 103524781,
+  "is_lock": 0,
+  "last_update_chapter_id": 68613,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13966,
+      "tag_name": "闲君110"
+    }
+  ],
+  "subscribe_num": 2022,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 68613,
+          "chapter_title": "1话",
+          "updatetime": 1515070415,
+          "filesize": 441093,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 50,
+    "latest_comment": [
+      {
+        "comment_id": 26440870,
+        "uid": 106482446,
+        "content": "封面喜欢 先了",
+        "createtime": 1586787461,
+        "nickname": "百合喵咪喵",
+        "avatar": "https://avatar.dmzj.com/93/06/930677ef6895e7ca8d70c291ce977e69.png"
+      },
+      {
+        "comment_id": 26419857,
+        "uid": 110518788,
+        "content": "哇哇哇哇哇好！",
+        "createtime": 1586743404,
+        "nickname": "鲨鱼ge",
+        "avatar": "https://avatar.dmzj.com/89/17/8917da89ae5dc0621c6c2b14d746a866.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

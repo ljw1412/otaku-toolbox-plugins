@@ -1,0 +1,87 @@
+{
+  "id": 42249,
+  "islong": 2,
+  "direction": 2,
+  "title": "DC2017假日特刊",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/dcelyqjiaritekanfengmianl.jpg",
+  "description": "用十一段故事为您讲述DC宇宙英雄们的圣诞故事……",
+  "last_updatetime": 1512812684,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dcelyqjiaritekan",
+  "hidden": 0,
+  "hot_num": 76320,
+  "hit_num": 106581,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 67576,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 316,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67576,
+          "chapter_title": "1卷",
+          "updatetime": 1512812684,
+          "filesize": 12568733,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 22735272,
+        "uid": 101297932,
+        "content": "看完wonderbat那篇我怎么觉得是wb在冬至篝火聚会时策划了封面的活动？→_→",
+        "createtime": 1576854692,
+        "nickname": "因缺斯厅",
+        "avatar": "https://avatar.dmzj.com/9c/72/9c720207663e95c3b20b5f6c67870ee3.png"
+      },
+      {
+        "comment_id": 22600597,
+        "uid": 101297932,
+        "content": "真不好找",
+        "createtime": 1576257157,
+        "nickname": "因缺斯厅",
+        "avatar": "https://avatar.dmzj.com/9c/72/9c720207663e95c3b20b5f6c67870ee3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

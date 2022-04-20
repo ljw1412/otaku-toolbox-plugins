@@ -1,0 +1,87 @@
+{
+  "id": 42740,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C93)祈愿掉落UP本",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/qiyuandiaoluoupben.jpg",
+  "description": "☆画野朗老师舰娘画集",
+  "last_updatetime": 1516347093,
+  "last_update_chapter_name": "画集",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qiyuandiaoluoupben",
+  "hidden": 0,
+  "hot_num": 5374607,
+  "hit_num": 54522,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 73191,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6707,
+      "tag_name": "☆画野朗"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "subscribe_num": 20017,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73191,
+          "chapter_title": "1话",
+          "updatetime": 1516347093,
+          "filesize": 1586759,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 34,
+    "latest_comment": [
+      {
+        "comment_id": 24053837,
+        "uid": 102167201,
+        "content": "我随意，诸君好了",
+        "createtime": 1581519689,
+        "nickname": "SakagamiSora",
+        "avatar": "https://avatar.dmzj.com/66/20/66202b2e6256d13d72cd75e40db1c6c3.png"
+      },
+      {
+        "comment_id": 24032494,
+        "uid": 108748138,
+        "content": "打卡",
+        "createtime": 1581456276,
+        "nickname": "昵称我ID",
+        "avatar": "https://avatar.dmzj.com/37/51/37510da258cd8d89f0a6786c01e03017.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

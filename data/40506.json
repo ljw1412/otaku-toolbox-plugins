@@ -1,0 +1,101 @@
+{
+  "id": 40506,
+  "islong": 2,
+  "direction": 1,
+  "title": "BallaxOpera",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/0525bxo.jpg",
+  "description": "跟《Bloody+Mary》同一个世界的天使恶魔死神帅萌帅萌的新连载！主角第一页就死了创造了新纪录！\n",
+  "last_updatetime": 1507536152,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "ballaxopera",
+  "hidden": 0,
+  "hot_num": 1416813,
+  "hit_num": 628663,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 68500,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3911,
+      "tag_name": "サマミヤァカザ"
+    }
+  ],
+  "subscribe_num": 6389,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 68500,
+          "chapter_title": "3话",
+          "updatetime": 1507536152,
+          "filesize": 5836738,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 67153,
+          "chapter_title": "2话",
+          "updatetime": 1503799083,
+          "filesize": 7427747,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 64585,
+          "chapter_title": "1话",
+          "updatetime": 1495647409,
+          "filesize": 7242948,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 194,
+    "latest_comment": [
+      {
+        "comment_id": 27006505,
+        "uid": 101374587,
+        "content": "这本已经完结了，只不过这里没有传",
+        "createtime": 1588330827,
+        "nickname": "君意",
+        "avatar": "https://avatar.dmzj.com/57/17/57175fe0c674f83b2dc14e145698efa6.png"
+      },
+      {
+        "comment_id": 26712319,
+        "uid": 101582284,
+        "content": "我和作者比命长",
+        "createtime": 1587514583,
+        "nickname": "lfbeDevil",
+        "avatar": "https://avatar.dmzj.com/18/22/1822acfad898dfa4c91f545cbf63778c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

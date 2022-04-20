@@ -1,0 +1,87 @@
+{
+  "id": 47670,
+  "islong": 2,
+  "direction": 1,
+  "title": "一本花",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/0205yibenhua332210.jpg",
+  "description": "「一本花」是日本的丧事习俗之一，是将一朵花放在佛具中并置于枕边的供桌，绝大多数为白色菊花",
+  "last_updatetime": 1551622317,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yibenhua",
+  "hidden": 0,
+  "hot_num": 1129269,
+  "hit_num": 73322,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86996,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4524,
+      "tag_name": "横枪メンゴ（横枪萌果）"
+    }
+  ],
+  "subscribe_num": 4747,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86996,
+          "chapter_title": "1话",
+          "updatetime": 1551622317,
+          "filesize": 2358291,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 170,
+    "latest_comment": [
+      {
+        "comment_id": 27033593,
+        "uid": 107514090,
+        "content": "真人真事？",
+        "createtime": 1588410260,
+        "nickname": "dmzj_107514090",
+        "avatar": "https://avatar.dmzj.com/24/74/2474c2b77394d9d9eb63a3b2364d06c0.png"
+      },
+      {
+        "comment_id": 27011894,
+        "uid": 110243726,
+        "content": "“我”就是作者吧，如果我没记错作者就是一个左撇子.",
+        "createtime": 1588343760,
+        "nickname": "hugoo",
+        "avatar": "https://avatar.dmzj.com/38/83/3883658a62d8f643da47df485eb15652.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

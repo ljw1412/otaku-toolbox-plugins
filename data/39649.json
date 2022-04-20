@@ -1,0 +1,87 @@
+{
+  "id": 39649,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔女的秘密",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/monvdemimi.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1484980631,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "monvdemimi",
+  "hidden": 0,
+  "hot_num": 30377,
+  "hit_num": 38499,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 58473,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12824,
+      "tag_name": "柳月凑"
+    }
+  ],
+  "subscribe_num": 308,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 58473,
+          "chapter_title": "1话",
+          "updatetime": 1484980631,
+          "filesize": 2161450,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 23203943,
+        "uid": 102053168,
+        "content": "更新了个什么?！",
+        "createtime": 1578694368,
+        "nickname": "白夜行僵",
+        "avatar": "https://avatar.dmzj.com/89/79/89793a4520f4a842fe9d8ad7e3093660.png"
+      },
+      {
+        "comment_id": 17511387,
+        "uid": 106415629,
+        "content": "科学与魔法？",
+        "createtime": 1561560110,
+        "nickname": "宇佐见-堇子",
+        "avatar": "https://avatar.dmzj.com/57/28/572813e57fb7709b3ae0138577097ba5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,89 @@
+{
+  "id": 45606,
+  "islong": 2,
+  "direction": 2,
+  "title": "鬼异录",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1077957881534918207.jpg",
+  "description": "冷漠的都市，人们之间互不关心，发生在你身边的灵异恐怖事件也许你并未发觉，小心，一旦你接触过一次，你可能成为下个故事的主角。",
+  "last_updatetime": 1534918427,
+  "last_update_chapter_name": "药",
+  "copyright": 1,
+  "first_letter": "g",
+  "comic_py": "guiyilu",
+  "hidden": 0,
+  "hot_num": 3751,
+  "hit_num": 19830,
+  "uid": 107795788,
+  "is_lock": 0,
+  "last_update_chapter_id": 80320,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15581,
+      "tag_name": "甲子"
+    }
+  ],
+  "subscribe_num": 15,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80320,
+          "chapter_title": "1话",
+          "updatetime": 1534918427,
+          "filesize": 529388,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "此漫画为真实事件或作者的奇思妙想改编，希望画成漫画和大家分享，希望大家喜欢。",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 20828899,
+        "uid": 106230127,
+        "content": "第一",
+        "createtime": 1570019306,
+        "nickname": "dmzj_106230127",
+        "avatar": "https://avatar.dmzj.com/88/7a/887ad7b96819ef24abba2ed44a27cc3c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

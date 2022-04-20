@@ -1,0 +1,91 @@
+{
+  "id": 41094,
+  "islong": 2,
+  "direction": 1,
+  "title": "舰队Collection 洛杉矶战役",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/luoshanjizhanyi.jpg",
+  "description": "北上与大井的温馨故事",
+  "last_updatetime": 1501588583,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jianduicollectionluoshanjizhanyi",
+  "hidden": 0,
+  "hot_num": 441762,
+  "hit_num": 122948,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 63723,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10401,
+      "tag_name": "リヨ"
+    }
+  ],
+  "subscribe_num": 1919,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 63723,
+          "chapter_title": "1话",
+          "updatetime": 1501588583,
+          "filesize": 2266777,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 42,
+    "latest_comment": [
+      {
+        "comment_id": 25970504,
+        "uid": 107452006,
+        "content": "一年一人",
+        "createtime": 1585822017,
+        "nickname": "dmzj_107452006",
+        "avatar": "https://avatar.dmzj.com/09/3a/093a932b37d72848403113ddc0d2cdfd.png"
+      },
+      {
+        "comment_id": 12826330,
+        "uid": 104210678,
+        "content": "留名",
+        "createtime": 1552458181,
+        "nickname": "Mrkkkk",
+        "avatar": "https://avatar.dmzj.com/80/89/8089cbfa78950b84a82356af5fc125f1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

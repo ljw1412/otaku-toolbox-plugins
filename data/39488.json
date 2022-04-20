@@ -1,0 +1,91 @@
+{
+  "id": 39488,
+  "islong": 2,
+  "direction": 1,
+  "title": "Admiral March",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/admiralmarch.jpg",
+  "description": "舰娘同人漫画",
+  "last_updatetime": 1483252748,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "admiralmarch",
+  "hidden": 0,
+  "hot_num": 995030,
+  "hit_num": 465878,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 56139,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3831,
+      "tag_name": "山内泰延(ハイパーサマーウォーズ)"
+    }
+  ],
+  "subscribe_num": 7206,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56139,
+          "chapter_title": "1话",
+          "updatetime": 1483252748,
+          "filesize": 4005007,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 98,
+    "latest_comment": [
+      {
+        "comment_id": 25745217,
+        "uid": 110184385,
+        "content": "？",
+        "createtime": 1585295278,
+        "nickname": "dmzj_110184385",
+        "avatar": "https://avatar.dmzj.com/f8/6d/f86dd75d5fa16182ad7574e247930f96.png"
+      },
+      {
+        "comment_id": 24525012,
+        "uid": 110434238,
+        "content": "你们第九页看的到吗？我给个原图。不懂日文应该也看得懂吧",
+        "createtime": 1582631480,
+        "nickname": "Wolfhall",
+        "avatar": "https://avatar.dmzj.com/d5/f0/d5f08d1cb2ca409b690f85b40b0c4ce1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,101 @@
+{
+  "id": 39816,
+  "islong": 2,
+  "direction": 2,
+  "title": "薇卡:奥博龙之怒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/weikaaobolongzhinu.jpg",
+  "description": "血腥骑士镇魂曲画师再度出手，究极华丽的巴洛克画风",
+  "last_updatetime": 1495259920,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "weikaaobolongzhinu",
+  "hidden": 1,
+  "hot_num": 121603,
+  "hit_num": 172871,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 64464,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5806,
+      "tag_name": "魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12960,
+      "tag_name": "Glenat"
+    }
+  ],
+  "subscribe_num": 823,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 64464,
+          "chapter_title": "3卷",
+          "updatetime": 1495259920,
+          "filesize": 5910594,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 64463,
+          "chapter_title": "2卷",
+          "updatetime": 1495259835,
+          "filesize": 5086084,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 61864,
+          "chapter_title": "1卷",
+          "updatetime": 1487427995,
+          "filesize": 3840098,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 40,
+    "latest_comment": [
+      {
+        "comment_id": 26664746,
+        "uid": 101930265,
+        "content": "厉害了这个漫画",
+        "createtime": 1587383158,
+        "nickname": "漫友12345",
+        "avatar": "https://avatar.dmzj.com/bb/52/bb5258edaacd0a8b39c8f1ac0d4f74d0.png"
+      },
+      {
+        "comment_id": 26007583,
+        "uid": 25862750,
+        "content": "突然假更新",
+        "createtime": 1585899781,
+        "nickname": "钢甲暴龙",
+        "avatar": "https://avatar.dmzj.com/7f/54/7f54db9f3c9508363e923f936695dab1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

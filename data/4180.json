@@ -1,0 +1,87 @@
+{
+  "id": 4180,
+  "islong": 2,
+  "direction": 1,
+  "title": "银色绘本",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/eye0001-14663_982c5f017792223514b7a25300bc6eb3.jpg",
+  "description": "千津美和藤臣的故事",
+  "last_updatetime": 1277712646,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yinsehb",
+  "hidden": 0,
+  "hot_num": 66697,
+  "hit_num": 414588,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 10275,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2514,
+      "tag_name": "冰川京子"
+    }
+  ],
+  "subscribe_num": 361,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10275,
+          "chapter_title": "1卷",
+          "updatetime": 1278317446,
+          "filesize": 13149536,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 16480848,
+        "uid": 106297782,
+        "content": "聪明骄傲女告诉了读者感情笨拙男真正喜欢什么样的女孩子。",
+        "createtime": 1558957536,
+        "nickname": "Peko-",
+        "avatar": "https://avatar.dmzj.com/26/51/265101039f922c46903f0b7f4f81ba4a.png"
+      },
+      {
+        "comment_id": 10251582,
+        "uid": 101759947,
+        "content": "嗯，蛮不错的!（☆_☆）",
+        "createtime": 1547857153,
+        "nickname": "漪涟溦夏",
+        "avatar": "https://avatar.dmzj.com/f0/39/f03928a101edb2961840b6db4a89851e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

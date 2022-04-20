@@ -1,0 +1,98 @@
+{
+  "id": 38935,
+  "islong": 2,
+  "direction": 1,
+  "title": "超级机器人大战IMPACT",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/cjjqrdzimpact568694l.jpg",
+  "description": "飞舞在天空中的战士们~~",
+  "last_updatetime": 1475734992,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chaojijiqirendazhanimpact",
+  "hidden": 0,
+  "hot_num": 271581,
+  "hit_num": 228078,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 59420,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3325,
+      "tag_name": "机战"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 1149,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59420,
+          "chapter_title": "2卷",
+          "updatetime": 1475734992,
+          "filesize": 14834414,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 59419,
+          "chapter_title": "1话",
+          "updatetime": 1475734947,
+          "filesize": 18470312,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 26191941,
+        "uid": 101028594,
+        "content": "留个脚印",
+        "createtime": 1586264580,
+        "nickname": "ZVIRLO",
+        "avatar": "https://avatar.dmzj.com/94/75/94751faf8cf7b02916279843480e5210.png"
+      },
+      {
+        "comment_id": 22820762,
+        "uid": 108176131,
+        "content": "康康",
+        "createtime": 1577196968,
+        "nickname": "dmzj_108176131",
+        "avatar": "https://avatar.dmzj.com/12/16/1216d6a92bf464fc5ce0350bd4be30fd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

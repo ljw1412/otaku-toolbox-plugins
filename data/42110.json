@@ -1,0 +1,91 @@
+{
+  "id": 42110,
+  "islong": 2,
+  "direction": 1,
+  "title": "恋物语",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/lianwuyuquanyihua.jpg",
+  "description": "就算你出了车祸伤了脑子谁都不认识了我还是爱着你的——治愈漫（并不是",
+  "last_updatetime": 1511674926,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lianwuyushirukabakaudon",
+  "hidden": 0,
+  "hot_num": 243731,
+  "hit_num": 168443,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 71552,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13439,
+      "tag_name": "知るかバカうどん"
+    }
+  ],
+  "subscribe_num": 1000,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71552,
+          "chapter_title": "1话",
+          "updatetime": 1511674927,
+          "filesize": 11126805,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 133,
+    "latest_comment": [
+      {
+        "comment_id": 25959046,
+        "uid": 102178351,
+        "content": "其实我是在找乌冬老师的被你所爱，真的很痛，希望有大佬看见给我指点下吧",
+        "createtime": 1585795482,
+        "nickname": "kyo icczy",
+        "avatar": "https://avatar.dmzj.com/56/61/566108b3cdb1cc441926363bac7b8036.png"
+      },
+      {
+        "comment_id": 25811517,
+        "uid": 104817944,
+        "content": "真治愈啊",
+        "createtime": 1585459560,
+        "nickname": "日川纲坂",
+        "avatar": "https://avatar.dmzj.com/45/66/4566fafe04bcebbacbdc20f1f692e7a7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

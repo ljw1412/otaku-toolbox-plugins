@@ -1,0 +1,97 @@
+{
+  "id": 44050,
+  "islong": 1,
+  "direction": 2,
+  "title": "看九霄话中华",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1065876531524832799.jpg",
+  "description": "《九霄奔云传》旗下搞笑科普条漫，诙谐幽默解读中国上古神话，看到就会乐到，乐到就会学到，学到就会爽到！",
+  "last_updatetime": 1524832954,
+  "last_update_chapter_name": "龙生九子",
+  "copyright": 1,
+  "first_letter": "k",
+  "comic_py": "kanjiuxiaohuazhonghua",
+  "hidden": 0,
+  "hot_num": 14519,
+  "hit_num": 198187,
+  "uid": 106587653,
+  "is_lock": 0,
+  "last_update_chapter_id": 77043,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    },
+    {
+      "tag_id": 7900,
+      "tag_name": "仙侠"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14798,
+      "tag_name": "九霄奔云传"
+    }
+  ],
+  "subscribe_num": 67,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77043,
+          "chapter_title": "1话",
+          "updatetime": 1524832954,
+          "filesize": 823755,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 4577638,
+        "uid": 23337141,
+        "content": "订阅48，点击5可以的",
+        "createtime": 1525396059,
+        "nickname": "GokouRuriLove",
+        "avatar": "https://avatar.dmzj.com/5d/16/5d169791ec9646f3549601bfe30db875.png"
+      },
+      {
+        "comment_id": 4576613,
+        "uid": 100331235,
+        "content": "乱乱的，不知道讲什么",
+        "createtime": 1525375252,
+        "nickname": "orange24161",
+        "avatar": "https://avatar.dmzj.com/7a/7e/7a7ed8750864d7faeed1c4365c4f97ea.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

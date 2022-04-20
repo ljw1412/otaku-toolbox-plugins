@@ -1,0 +1,87 @@
+{
+  "id": 40910,
+  "islong": 2,
+  "direction": 1,
+  "title": "她的男友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/tadenanyou.jpg",
+  "description": "他们是青梅竹马，她很文静，他还能开朗，两个人很适合……",
+  "last_updatetime": 1499859542,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tadenanyou",
+  "hidden": 1,
+  "hot_num": 64244,
+  "hit_num": 24926,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 67027,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13465,
+      "tag_name": "前田友(前田とも)"
+    }
+  ],
+  "subscribe_num": 242,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67027,
+          "chapter_title": "1话",
+          "updatetime": 1499859542,
+          "filesize": 872358,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 5098378,
+        "uid": 104313177,
+        "content": "这。。这个有点黑暗呐～",
+        "createtime": 1528908835,
+        "nickname": "瞳々、",
+        "avatar": "https://avatar.dmzj.com/70/f3/70f33256564568b94313990fe129cba6.png"
+      },
+      {
+        "comment_id": 2734992,
+        "uid": 100490443,
+        "content": "画风好像尸鬼",
+        "createtime": 1502823792,
+        "nickname": "卑鄙的玛维斯",
+        "avatar": "https://avatar.dmzj.com/2d/5d/2d5d4280bbf6cc695e67cafa91590a32.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

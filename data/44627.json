@@ -1,0 +1,100 @@
+{
+  "id": 44627,
+  "islong": 2,
+  "direction": 2,
+  "title": "妹妹的告白",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1072520881529304916.jpg",
+  "description": "那一天，妹妹向姐姐告白了……",
+  "last_updatetime": 1529824562,
+  "last_update_chapter_name": "情感",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "meimeidegaobai",
+  "hidden": 0,
+  "hot_num": 546063,
+  "hit_num": 1429754,
+  "uid": 107252088,
+  "is_lock": 0,
+  "last_update_chapter_id": 77876,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15109,
+      "tag_name": "骨饰"
+    }
+  ],
+  "subscribe_num": 2576,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77876,
+          "chapter_title": "2话",
+          "updatetime": 1529824562,
+          "filesize": 342234,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 77720,
+          "chapter_title": "1话",
+          "updatetime": 1529304816,
+          "filesize": 396237,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 145,
+    "latest_comment": [
+      {
+        "comment_id": 26079435,
+        "uid": 110634547,
+        "content": "宝藏",
+        "createtime": 1586017323,
+        "nickname": "dmzj_110634547",
+        "avatar": "https://avatar.dmzj.com/6f/56/6f5629648bb55acab069faa1c4c9c0dd.png"
+      },
+      {
+        "comment_id": 26066544,
+        "uid": 110616028,
+        "content": "亲亲之情通称亲情",
+        "createtime": 1586007909,
+        "nickname": "平静的百合控生活",
+        "avatar": "https://avatar.dmzj.com/73/86/7386b4bdae7ee821597640de55680d29.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

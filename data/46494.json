@@ -1,0 +1,87 @@
+{
+  "id": 46494,
+  "islong": 2,
+  "direction": 1,
+  "title": "才不是碧池",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/181118cbsbc.jpg",
+  "description": "江山易改，碧池难变。",
+  "last_updatetime": 1542554867,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "caibushibichi",
+  "hidden": 1,
+  "hot_num": 83677,
+  "hit_num": 5087,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 79354,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16003,
+      "tag_name": "夏目文花"
+    }
+  ],
+  "subscribe_num": 446,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79354,
+          "chapter_title": "1话",
+          "updatetime": 1542554867,
+          "filesize": 5356363,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 215,
+    "latest_comment": [
+      {
+        "comment_id": 26644043,
+        "uid": 109199762,
+        "content": "这也太真实了",
+        "createtime": 1587314473,
+        "nickname": "dmzj—cl",
+        "avatar": "https://avatar.dmzj.com/a3/17/a3179a70c894742d86041dce274984e0.png"
+      },
+      {
+        "comment_id": 26357574,
+        "uid": 110520819,
+        "content": "啊啊啊啊",
+        "createtime": 1586603299,
+        "nickname": "dmzj_110520819",
+        "avatar": "https://avatar.dmzj.com/56/d0/56d0d5a7467b3f4b636e36d6ba19a2d0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

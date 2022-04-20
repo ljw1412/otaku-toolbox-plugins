@@ -1,0 +1,116 @@
+{
+  "id": 42056,
+  "islong": 2,
+  "direction": 2,
+  "title": "刺客信条：末裔 - 轨迹",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/cikexintiaomoyiguiji.jpg",
+  "description": "本系列现代剧情位于《末裔》和《可汗陵》之间，古代线延续《末裔》剧情并与《枭雄》联动。和朋友们被带往鹰巢后，肖恩·莫洛伊在以赛亚的支持下，继续化身为汤米·格雷林，开始新一段的冒险。",
+  "last_updatetime": 1512225851,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "cikexintiaomoyiguiji",
+  "hidden": 0,
+  "hot_num": 564695,
+  "hit_num": 138555,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 70173,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5547,
+      "tag_name": "Titan Comics"
+    },
+    {
+      "tag_id": 7475,
+      "tag_name": "UBISOFT"
+    }
+  ],
+  "subscribe_num": 2435,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 70173,
+          "chapter_title": "4卷",
+          "updatetime": 1512225851,
+          "filesize": 3647288,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 69971,
+          "chapter_title": "3卷",
+          "updatetime": 1511663524,
+          "filesize": 3285846,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 69961,
+          "chapter_title": "2卷",
+          "updatetime": 1511616332,
+          "filesize": 5629737,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 69770,
+          "chapter_title": "1卷",
+          "updatetime": 1511153344,
+          "filesize": 3736840,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 40,
+    "latest_comment": [
+      {
+        "comment_id": 26007242,
+        "uid": 104767270,
+        "content": "我怎么记得老葛好像没啥战斗力啊",
+        "createtime": 1585898907,
+        "nickname": "送往繁星～",
+        "avatar": "https://avatar.dmzj.com/ab/57/ab57f3272ee07bcf2dec20cca1f70191.png"
+      },
+      {
+        "comment_id": 25512699,
+        "uid": 106312902,
+        "content": "萌新刚玩刺客信条来补补课",
+        "createtime": 1584753491,
+        "nickname": "麓芥",
+        "avatar": "https://avatar.dmzj.com/51/93/51932ff9d45bea1b5c1c4df9502ae609.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

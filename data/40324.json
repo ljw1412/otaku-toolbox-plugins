@@ -1,0 +1,91 @@
+{
+  "id": 40324,
+  "islong": 2,
+  "direction": 2,
+  "title": "变形金刚：假日特刊",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/bianxingjingangjiaritekan.jpg",
+  "description": "天选节的打油诗；旋刃带宝宝；老威被强推；文青的恶搞剧本…",
+  "last_updatetime": 1493647191,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bianxingjingangjiaritekan",
+  "hidden": 1,
+  "hot_num": 134982,
+  "hit_num": 46082,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 61165,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1206,
+      "tag_name": "IDW"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 563,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61165,
+          "chapter_title": "1卷",
+          "updatetime": 1493647191,
+          "filesize": 4577031,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 26799959,
+        "uid": 104275964,
+        "content": "指正",
+        "createtime": 1587741073,
+        "nickname": "跳跳鱼",
+        "avatar": "https://avatar.dmzj.com/4c/cf/4ccff9bc3dd50fa6e733fb94ac436cd2.png"
+      },
+      {
+        "comment_id": 24690645,
+        "uid": 106272796,
+        "content": "拜读",
+        "createtime": 1582985681,
+        "nickname": "风神八剑",
+        "avatar": "https://avatar.dmzj.com/46/55/4655e141e02310f330008113e0892b17.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

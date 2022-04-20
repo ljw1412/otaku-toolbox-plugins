@@ -1,0 +1,87 @@
+{
+  "id": 47041,
+  "islong": 2,
+  "direction": 1,
+  "title": "我的第一星",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/swodediyixing111.jpg",
+  "description": "秘封糖",
+  "last_updatetime": 1547051520,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wodediyixing",
+  "hidden": 0,
+  "hot_num": 125388,
+  "hit_num": 2298,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 84697,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16282,
+      "tag_name": " J-Dragn"
+    }
+  ],
+  "subscribe_num": 585,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 84697,
+          "chapter_title": "1话",
+          "updatetime": 1547051520,
+          "filesize": 594834,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 69,
+    "latest_comment": [
+      {
+        "comment_id": 25700023,
+        "uid": 110312788,
+        "content": "甜 浪漫 awsl",
+        "createtime": 1585190646,
+        "nickname": "草莓牛奶骑士",
+        "avatar": "https://avatar.dmzj.com/60/03/6003b57d637c23cff5414b33de48db52.png"
+      },
+      {
+        "comment_id": 25312648,
+        "uid": 105877380,
+        "content": "收到，我马上叫阿伟过来。",
+        "createtime": 1584328666,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

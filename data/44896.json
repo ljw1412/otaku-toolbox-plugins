@@ -1,0 +1,91 @@
+{
+  "id": 44896,
+  "islong": 2,
+  "direction": 2,
+  "title": "异人族v3",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/yirenzuv3.jpg",
+  "description": "异人族系列漫画命数之星",
+  "last_updatetime": 1531403724,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yirenzuv3",
+  "hidden": 0,
+  "hot_num": 35938,
+  "hit_num": 7617,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 78230,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 164,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78230,
+          "chapter_title": "1卷",
+          "updatetime": 1531403724,
+          "filesize": 3720302,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 5604984,
+        "uid": 105562402,
+        "content": "异人♂救星",
+        "createtime": 1531555027,
+        "nickname": "失语者19241",
+        "avatar": "https://avatar.dmzj.com/15/71/15714a4ee0b0eb0711e348fa7edde6bd.png"
+      },
+      {
+        "comment_id": 5586077,
+        "uid": 102012382,
+        "content": "黑fa♂王",
+        "createtime": 1531471005,
+        "nickname": "月翊",
+        "avatar": "https://avatar.dmzj.com/94/84/9484611ba7acbe4f1404ac55a13155aa.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

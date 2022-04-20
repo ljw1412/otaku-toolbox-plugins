@@ -1,0 +1,87 @@
+{
+  "id": 45763,
+  "islong": 2,
+  "direction": 1,
+  "title": "少女前线：服务器维护中",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/fw914l.jpg",
+  "description": "R6X少女前线",
+  "last_updatetime": 1536916471,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shaonvqianxianfuwuqiweihuzhong",
+  "hidden": 0,
+  "hot_num": 245204,
+  "hit_num": 13585,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 76046,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 976,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76046,
+          "chapter_title": "1话",
+          "updatetime": 1536916471,
+          "filesize": 969297,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 40,
+    "latest_comment": [
+      {
+        "comment_id": 23289192,
+        "uid": 102297826,
+        "content": "云联动来了来了",
+        "createtime": 1579029541,
+        "nickname": "宮沢竜馬",
+        "avatar": "https://avatar.dmzj.com/29/17/291799f5b2bd08d05aff217912d7f8a9.png"
+      },
+      {
+        "comment_id": 17770107,
+        "uid": 17624405,
+        "content": "(•̀ϖ•́ )",
+        "createtime": 1562141528,
+        "nickname": "阿斯卡隆Tear",
+        "avatar": "https://avatar.dmzj.com/81/13/8113dfc4ed778de406c334cf511e67b4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

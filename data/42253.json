@@ -1,0 +1,87 @@
+{
+  "id": 42253,
+  "islong": 2,
+  "direction": 1,
+  "title": "Love your Life",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/loveyoulifefengmianl.jpg",
+  "description": "魔法少女奈葉同人",
+  "last_updatetime": 1512816101,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "loveyoulife",
+  "hidden": 1,
+  "hot_num": 151871,
+  "hit_num": 22257,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 65718,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7198,
+      "tag_name": "風川なぎ"
+    }
+  ],
+  "subscribe_num": 702,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65718,
+          "chapter_title": "1话",
+          "updatetime": 1512816102,
+          "filesize": 897303,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 18683461,
+        "uid": 101298229,
+        "content": "车来了",
+        "createtime": 1564168225,
+        "nickname": "泰斯特罗莎",
+        "avatar": "https://avatar.dmzj.com/60/60/606059924eee14be2bf296d49dc80498.png"
+      },
+      {
+        "comment_id": 3928490,
+        "uid": 102539570,
+        "content": "这么正常的封面，没想到……",
+        "createtime": 1519211128,
+        "nickname": "芒果慕斯灬",
+        "avatar": "https://avatar.dmzj.com/6c/02/6c02579268ca9db893736ec1dd8de122.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

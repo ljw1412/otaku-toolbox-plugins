@@ -1,0 +1,101 @@
+{
+  "id": 40454,
+  "islong": 2,
+  "direction": 1,
+  "title": "中国妖怪故事（小说扫图）",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/zgyggs45684l.jpg",
+  "description": "从一个个鲜活的妖怪故事出发,亲近中国传统历史文化。",
+  "last_updatetime": 1495172958,
+  "last_update_chapter_name": "杂怪篇",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhongguoyaoguaigushi",
+  "hidden": 1,
+  "hot_num": 173502,
+  "hit_num": 530123,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 61607,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13226,
+      "tag_name": "管家琪"
+    }
+  ],
+  "subscribe_num": 720,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61607,
+          "chapter_title": "3卷",
+          "updatetime": 1495172958,
+          "filesize": 23862549,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 61605,
+          "chapter_title": "2卷",
+          "updatetime": 1495172138,
+          "filesize": 23589763,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 61604,
+          "chapter_title": "1卷",
+          "updatetime": 1495172125,
+          "filesize": 23110170,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 19855463,
+        "uid": 108949888,
+        "content": "啵啵啵你呢",
+        "createtime": 1566970383,
+        "nickname": "阮大大",
+        "avatar": "https://avatar.dmzj.com/a2/3d/a23df5fcab2675953bee396b289a7124.png"
+      },
+      {
+        "comment_id": 19612283,
+        "uid": 104584133,
+        "content": "似乎现在想要标记漫画的话评论需要发长一点，但我不知道应该有多长，不知道现在够不够长了，不过应该差不多了吧，嗯，就这样（复制了，顺便求一下回复）",
+        "createtime": 1566356410,
+        "nickname": "Clock&",
+        "avatar": "https://avatar.dmzj.com/07/a1/07a1c685c429799e743d8ad6378c7fa3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

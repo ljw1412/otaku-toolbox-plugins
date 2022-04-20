@@ -1,0 +1,87 @@
+{
+  "id": 44232,
+  "islong": 2,
+  "direction": 1,
+  "title": "夏日",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/xairi0518.jpg",
+  "description": "秘封组，果然夏天就要去海边戏水~",
+  "last_updatetime": 1526639100,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiari",
+  "hidden": 0,
+  "hot_num": 267360,
+  "hit_num": 27638,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 76755,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14945,
+      "tag_name": "しろし"
+    }
+  ],
+  "subscribe_num": 1204,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76755,
+          "chapter_title": "1话",
+          "updatetime": 1526639100,
+          "filesize": 2175528,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 34,
+    "latest_comment": [
+      {
+        "comment_id": 26045192,
+        "uid": 102309754,
+        "content": "哇哦，在站里看到这个作者就跟过来",
+        "createtime": 1585974716,
+        "nickname": "骷髅2",
+        "avatar": "https://avatar.dmzj.com/99/21/9921e901f583a0145b47e1bd3e5579d2.png"
+      },
+      {
+        "comment_id": 24908437,
+        "uid": 107672210,
+        "content": "h图？画，随便画！",
+        "createtime": 1583411428,
+        "nickname": "承太郎必秒Dio",
+        "avatar": "https://avatar.dmzj.com/61/72/617257e10349aaa2cd6206ee575e0540.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

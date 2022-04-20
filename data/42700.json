@@ -1,0 +1,87 @@
+{
+  "id": 42700,
+  "islong": 2,
+  "direction": 1,
+  "title": "伊卡洛斯",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/180115yikals.jpg",
+  "description": "伊卡洛斯（希腊文：Ίκαρος英文名称：Icarus）是希腊神话中代达罗斯的儿子，与代达罗斯使用蜡和羽毛造的翼逃离克里特岛时，他因飞得太高，双翼上的蜡遭太阳融化跌落水中丧生，被埋葬在一个海岛上。为了纪念伊卡洛斯，埋葬伊卡洛斯的海岛命名为伊卡利亚。",
+  "last_updatetime": 1516007937,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yikaluosi",
+  "hidden": 0,
+  "hot_num": 679791,
+  "hit_num": 119933,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 73037,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7793,
+      "tag_name": "药味さらい"
+    }
+  ],
+  "subscribe_num": 2869,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73037,
+          "chapter_title": "1话",
+          "updatetime": 1516007937,
+          "filesize": 11406697,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 70,
+    "latest_comment": [
+      {
+        "comment_id": 26728563,
+        "uid": 100748873,
+        "content": "伊卡洛斯",
+        "createtime": 1587561909,
+        "nickname": "v伊卡v",
+        "avatar": "https://avatar.dmzj.com/f4/a5/f4a545370dd6059cbbe25118c5ea2008.png"
+      },
+      {
+        "comment_id": 24365354,
+        "uid": 101144030,
+        "content": "东方之力",
+        "createtime": 1582230880,
+        "nickname": "神音守望",
+        "avatar": "https://avatar.dmzj.com/fc/d5/fcd5fad651d7f904137e7e1ea1a8ff2c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

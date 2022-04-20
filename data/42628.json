@@ -1,0 +1,87 @@
+{
+  "id": 42628,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方×水果",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/180109shuiguo.jpg",
+  "description": "将东方project里的少女们与水果对应起来的东方同人漫画，这些年轻的少女们会与什么样的水果对应呢~",
+  "last_updatetime": 1515491323,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongfangshuiguo",
+  "hidden": 0,
+  "hot_num": 270080,
+  "hit_num": 40556,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 66691,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14238,
+      "tag_name": "锅岛テツヒロ"
+    }
+  ],
+  "subscribe_num": 1243,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66691,
+          "chapter_title": "1话",
+          "updatetime": 1515491323,
+          "filesize": 874605,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 56,
+    "latest_comment": [
+      {
+        "comment_id": 22130224,
+        "uid": 108592478,
+        "content": "哈哈哈哈哈",
+        "createtime": 1573837259,
+        "nickname": "dmzj_108592478",
+        "avatar": "https://avatar.dmzj.com/00/50/0050eda9119251c8484c57e64b6447bf.png"
+      },
+      {
+        "comment_id": 18750691,
+        "uid": 107086859,
+        "content": "awsl",
+        "createtime": 1564335886,
+        "nickname": "我为诚哥看动漫",
+        "avatar": "https://avatar.dmzj.com/8e/33/8e332016e643a057ce2c5e94586abcfe.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

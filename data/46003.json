@@ -1,0 +1,87 @@
+{
+  "id": 46003,
+  "islong": 2,
+  "direction": 1,
+  "title": "除夕",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/chuxi1005l.jpg",
+  "description": "关系融洽的竹林组",
+  "last_updatetime": 1538738072,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chuxi",
+  "hidden": 0,
+  "hot_num": 160625,
+  "hit_num": 5684,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 76703,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15761,
+      "tag_name": "煎兵卫"
+    }
+  ],
+  "subscribe_num": 773,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76703,
+          "chapter_title": "1话",
+          "updatetime": 1538738072,
+          "filesize": 3573050,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 27,
+    "latest_comment": [
+      {
+        "comment_id": 22214636,
+        "uid": 107562625,
+        "content": "我好了",
+        "createtime": 1574245091,
+        "nickname": "提灯盏",
+        "avatar": "https://avatar.dmzj.com/11/84/1184500c5650f3cd99457e379870d25d.png"
+      },
+      {
+        "comment_id": 20713963,
+        "uid": 107805003,
+        "content": "固定诱导立场发生器",
+        "createtime": 1569698431,
+        "nickname": "子岳",
+        "avatar": "https://avatar.dmzj.com/37/20/37206e2cce5c97e3c4510f6aa9868633.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 44996,
+  "islong": 2,
+  "direction": 1,
+  "title": "UNKNOWN BOX",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/unknownbox0720sbs.jpg",
+  "description": "使人无法识别真实样貌程度的鵺，也是有怕寂寞的时候~",
+  "last_updatetime": 1532078932,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "u",
+  "comic_py": "unknownbox",
+  "hidden": 0,
+  "hot_num": 87817,
+  "hit_num": 5423,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 78545,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6190,
+      "tag_name": "羊箱"
+    }
+  ],
+  "subscribe_num": 420,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78545,
+          "chapter_title": "1话",
+          "updatetime": 1532078932,
+          "filesize": 3554765,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 6490482,
+        "uid": 105365971,
+        "content": "鵺坑了整整一个妖族好可怕",
+        "createtime": 1535213611,
+        "nickname": "qzuser82537471",
+        "avatar": "https://avatar.dmzj.com/33/17/3317a3c93564a0bef495e3f56788ac49.png"
+      },
+      {
+        "comment_id": 6034018,
+        "uid": 105164962,
+        "content": "哇哦，是KABUTO欸",
+        "createtime": 1533273305,
+        "nickname": "第六驱逐舰队是必要的",
+        "avatar": "https://avatar.dmzj.com/94/19/9419c80a226b1e076509cd4520e800e1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

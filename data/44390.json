@@ -1,0 +1,87 @@
+{
+  "id": 44390,
+  "islong": 2,
+  "direction": 1,
+  "title": "小矮个桑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/xiaoaigesang0530.jpg",
+  "description": "艦隊これくしょん -艦これ-，艦隊收藏同人。",
+  "last_updatetime": 1527674302,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaoaigesang",
+  "hidden": 0,
+  "hot_num": 170460,
+  "hit_num": 29935,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 78001,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11471,
+      "tag_name": "乙津恵"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "subscribe_num": 811,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78001,
+          "chapter_title": "1话",
+          "updatetime": 1527674302,
+          "filesize": 4020712,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 22824066,
+        "uid": 108312693,
+        "content": "喝酒后就能变回去，莫名想到柯南了",
+        "createtime": 1577203516,
+        "nickname": "普罗旺斯的春天",
+        "avatar": "https://avatar.dmzj.com/cb/cf/cbcf97364b90f5204b70ed5f87a2221b.png"
+      },
+      {
+        "comment_id": 22276055,
+        "uid": 35495452,
+        "content": "喝酒就能变回去，万年小学生吗？",
+        "createtime": 1574532104,
+        "nickname": "千里卯月",
+        "avatar": "https://avatar.dmzj.com/90/44/90444178176ae3adeeffe9d11000b533.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

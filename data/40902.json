@@ -1,0 +1,91 @@
+{
+  "id": 40902,
+  "islong": 2,
+  "direction": 1,
+  "title": "Liberty",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/170712liberty.jpg",
+  "description": "在沉睡不醒的现实里，是你为我描绘了未来的模样……",
+  "last_updatetime": 1499838319,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "liberty",
+  "hidden": 0,
+  "hot_num": 639714,
+  "hit_num": 98680,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 66902,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5989,
+      "tag_name": "百乃モト(モト)"
+    },
+    {
+      "tag_id": 13461,
+      "tag_name": "橘田いずみ"
+    }
+  ],
+  "subscribe_num": 2924,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66902,
+          "chapter_title": "1话",
+          "updatetime": 1499838319,
+          "filesize": 2405588,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 153,
+    "latest_comment": [
+      {
+        "comment_id": 26802912,
+        "uid": 100479274,
+        "content": "从这里找出神隐的佳作，就是吾辈的职责",
+        "createtime": 1587745023,
+        "nickname": "C.C. 灰色魔女",
+        "avatar": "https://avatar.dmzj.com/72/9a/729af9b5ce9bda7f269a95a0f63784d5.png"
+      },
+      {
+        "comment_id": 26667169,
+        "uid": 104856390,
+        "content": "百合12",
+        "createtime": 1587388266,
+        "nickname": "楼兰",
+        "avatar": "https://avatar.dmzj.com/ab/2d/ab2deb88536759a621fee5274a94e6be.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

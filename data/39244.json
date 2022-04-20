@@ -1,0 +1,97 @@
+{
+  "id": 39244,
+  "islong": 2,
+  "direction": 2,
+  "title": "樱氮",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1022939281478693101.jpg",
+  "description": "这里是治愈的天堂，也是恐怖的地狱。",
+  "last_updatetime": 1479472456,
+  "last_update_chapter_name": "我们就是同桌辣",
+  "copyright": 1,
+  "first_letter": "y",
+  "comic_py": "yingdan",
+  "hidden": 0,
+  "hot_num": 6467,
+  "hit_num": 6501,
+  "uid": 102293928,
+  "is_lock": 0,
+  "last_update_chapter_id": 56748,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12645,
+      "tag_name": "隳域雨锡Eva"
+    }
+  ],
+  "subscribe_num": 35,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56748,
+          "chapter_title": "1话",
+          "updatetime": 1479472456,
+          "filesize": 92101,
+          "chapter_order": 2
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "漫画如果没有原因，一般周一，周五，周日更新。",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 2830916,
+        "uid": 105129777,
+        "content": "",
+        "createtime": 1504016563,
+        "nickname": "2017081721005467",
+        "avatar": "https://avatar.dmzj.com/63/29/6329707c0e50513a01e3c9e1bf26100a.png"
+      },
+      {
+        "comment_id": 2830914,
+        "uid": 105129777,
+        "content": "这是我见过最少的‘漫画’’",
+        "createtime": 1504016558,
+        "nickname": "2017081721005467",
+        "avatar": "https://avatar.dmzj.com/63/29/6329707c0e50513a01e3c9e1bf26100a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

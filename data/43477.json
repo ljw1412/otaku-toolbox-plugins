@@ -1,0 +1,87 @@
+{
+  "id": 43477,
+  "islong": 2,
+  "direction": 1,
+  "title": "Futurelog",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/futurelog48989l.jpg",
+  "description": "Futurelog 村田莲尔画集",
+  "last_updatetime": 1521090262,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "futurelog",
+  "hidden": 1,
+  "hot_num": 834814,
+  "hit_num": 1310248,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 74568,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14615,
+      "tag_name": "村田莲尔"
+    }
+  ],
+  "subscribe_num": 4193,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74568,
+          "chapter_title": "1卷",
+          "updatetime": 1521090262,
+          "filesize": 18373254,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 221,
+    "latest_comment": [
+      {
+        "comment_id": 26660338,
+        "uid": 100414555,
+        "content": "好看",
+        "createtime": 1587370428,
+        "nickname": "Taigei",
+        "avatar": "https://avatar.dmzj.com/a2/42/a2427383de549153b63482f0ea0d1e66.png"
+      },
+      {
+        "comment_id": 26494458,
+        "uid": 108949888,
+        "content": "看看",
+        "createtime": 1586910330,
+        "nickname": "阮大大",
+        "avatar": "https://avatar.dmzj.com/a2/3d/a23df5fcab2675953bee396b289a7124.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

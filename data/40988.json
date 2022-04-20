@@ -1,0 +1,91 @@
+{
+  "id": 40988,
+  "islong": 2,
+  "direction": 1,
+  "title": "深海碟中谍",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/shenhaidiezhongdie.jpg",
+  "description": "舰娘同人漫画",
+  "last_updatetime": 1500457344,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shenhaidiezhongdie",
+  "hidden": 0,
+  "hot_num": 328065,
+  "hit_num": 222819,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 61433,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13498,
+      "tag_name": "山鸟おふう"
+    }
+  ],
+  "subscribe_num": 1502,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61433,
+          "chapter_title": "1话",
+          "updatetime": 1500457344,
+          "filesize": 6555130,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 27,
+    "latest_comment": [
+      {
+        "comment_id": 25718408,
+        "uid": 110184385,
+        "content": "啊",
+        "createtime": 1585231906,
+        "nickname": "dmzj_110184385",
+        "avatar": "https://avatar.dmzj.com/f8/6d/f86dd75d5fa16182ad7574e247930f96.png"
+      },
+      {
+        "comment_id": 25241015,
+        "uid": 104364175,
+        "content": "大爱深海！！！",
+        "createtime": 1584157530,
+        "nickname": "骷髅王113",
+        "avatar": "https://avatar.dmzj.com/35/75/3575cebfb278faaa2adfcc82731669f2.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

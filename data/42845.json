@@ -1,0 +1,113 @@
+{
+  "id": 42845,
+  "islong": 2,
+  "direction": 1,
+  "title": "向着雨的远方",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/cyudeyuafang1250002.jpg",
+  "description": "当时，我还在那里",
+  "last_updatetime": 1586145113,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiangzheyudeyuanfang",
+  "hidden": 0,
+  "hot_num": 196354,
+  "hit_num": 35866,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100455,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11317,
+      "tag_name": "ばんじます"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "subscribe_num": 870,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100455,
+          "chapter_title": "3话",
+          "updatetime": 1586145113,
+          "filesize": 4921049,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 92153,
+          "chapter_title": "2话",
+          "updatetime": 1565574322,
+          "filesize": 3961420,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 92152,
+          "chapter_title": "1话",
+          "updatetime": 1565574303,
+          "filesize": 3305635,
+          "chapter_order": 20
+        }
+      ]
+    },
+    {
+      "title": "其它汉化版",
+      "data": [
+        {
+          "chapter_id": 73424,
+          "chapter_title": "1话",
+          "updatetime": 1516879313,
+          "filesize": 4620773,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 48,
+    "latest_comment": [
+      {
+        "comment_id": 26488856,
+        "uid": 103455717,
+        "content": "柱岛泊地咸鱼一枚，好久没玩没想到账号还在，虽然游戏不大玩了但同人还是要看的",
+        "createtime": 1586885542,
+        "nickname": "SA_cv",
+        "avatar": "https://avatar.dmzj.com/70/15/7015ea615ff80d66370c0e62c3a31a7b.png"
+      },
+      {
+        "comment_id": 26474520,
+        "uid": 106945738,
+        "content": "睦月。。。。。",
+        "createtime": 1586869350,
+        "nickname": "舰舰清洁工",
+        "avatar": "https://avatar.dmzj.com/56/53/565351356205cad72e4ca03efee3934e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

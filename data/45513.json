@@ -1,0 +1,98 @@
+{
+  "id": 45513,
+  "islong": 2,
+  "direction": 1,
+  "title": "幽子同学想被看着",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/youzitongxuebeikanzhe0824bvb.jpg",
+  "description": "被烦人幽灵缠上的高中生的故事。",
+  "last_updatetime": 1535890801,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "youzitongxuexiangbeikanzhe",
+  "hidden": 0,
+  "hot_num": 14553018,
+  "hit_num": 783652,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 75646,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5845,
+      "tag_name": "若林稔弥"
+    }
+  ],
+  "subscribe_num": 68878,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 75646,
+          "chapter_title": "2话",
+          "updatetime": 1535890801,
+          "filesize": 3012820,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 75353,
+          "chapter_title": "1话",
+          "updatetime": 1535086230,
+          "filesize": 2668475,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1084,
+    "latest_comment": [
+      {
+        "comment_id": 26638885,
+        "uid": 110785421,
+        "content": "...",
+        "createtime": 1587307601,
+        "nickname": "dmzj_110785421",
+        "avatar": "https://avatar.dmzj.com/45/2e/452e3977349f237d12d8b0310d828bbd.png"
+      },
+      {
+        "comment_id": 26615177,
+        "uid": 104366318,
+        "content": "长达近两年的连载，不如直接标上个完结让我死心好了",
+        "createtime": 1587229813,
+        "nickname": "「Mr.星の夏」",
+        "avatar": "https://avatar.dmzj.com/59/18/5918009135ec5518d833622509312cd5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

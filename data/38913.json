@@ -1,0 +1,101 @@
+{
+  "id": 38913,
+  "islong": 2,
+  "direction": 2,
+  "title": "凯奇v2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/lkkq64879l.jpg",
+  "description": "卢克·凯奇大致是一个用拳头说话的英雄，没有特殊的武器，一身80年代黑人摇滚歌手的露胸夹克，系一条铁链腰带，绝对的硬汉角色。",
+  "last_updatetime": 1588480816,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "lukekaiqi",
+  "hidden": 1,
+  "hot_num": 16632,
+  "hit_num": 48923,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97185,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3483,
+      "tag_name": "MAX Comics"
+    }
+  ],
+  "subscribe_num": 151,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97185,
+          "chapter_title": "3卷",
+          "updatetime": 1588480816,
+          "filesize": 4942610,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 96909,
+          "chapter_title": "2卷",
+          "updatetime": 1587952005,
+          "filesize": 3397279,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 53901,
+          "chapter_title": "1卷",
+          "updatetime": 1475733385,
+          "filesize": 6144459,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 1772611,
+        "uid": 103469994,
+        "content": "这真是我看过的luke的最粗糙的一版",
+        "createtime": 1486453154,
+        "nickname": "小哪吒阿澍",
+        "avatar": "https://avatar.dmzj.com/33/67/3367c9ed880401acb50eb25f292ae16a.png"
+      },
+      {
+        "comment_id": 1348179,
+        "uid": 100782316,
+        "content": "我是绝地",
+        "createtime": 1475758067,
+        "nickname": "天启75502",
+        "avatar": "https://avatar.dmzj.com/c6/97/c6976b248d9c711f5d7899bed6f7afdf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

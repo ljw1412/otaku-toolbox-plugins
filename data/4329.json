@@ -1,0 +1,112 @@
+{
+  "id": 4329,
+  "islong": 2,
+  "direction": 1,
+  "title": "黄土之战",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/黄土之战_第1卷_0001_b79a214f0a5f36782752075508200c03.jpg",
+  "description": "描写了“华侨与战争”的故事 \n",
+  "last_updatetime": 1278815309,
+  "last_update_chapter_name": "VOL04",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huangtuzhizhan",
+  "hidden": 1,
+  "hot_num": 33252,
+  "hit_num": 1009107,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 9251,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 892,
+      "tag_name": "川口开治"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 152,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9251,
+          "chapter_title": "4卷",
+          "updatetime": 1279420109,
+          "filesize": 16684393,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 9250,
+          "chapter_title": "3卷",
+          "updatetime": 1279420109,
+          "filesize": 18750152,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 9249,
+          "chapter_title": "2卷",
+          "updatetime": 1279420109,
+          "filesize": 17773019,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9248,
+          "chapter_title": "1卷",
+          "updatetime": 1279420109,
+          "filesize": 17307354,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 26844271,
+        "uid": 101692157,
+        "content": "这部突然就隐藏了",
+        "createtime": 1587849673,
+        "nickname": "flutterguy66576",
+        "avatar": "https://avatar.dmzj.com/cd/b1/cdb1c73b5c685219e5ec475a03a10c63.png"
+      },
+      {
+        "comment_id": 15239224,
+        "uid": 108475921,
+        "content": "礼明",
+        "createtime": 1556768970,
+        "nickname": "dmzj_108475921",
+        "avatar": "https://avatar.dmzj.com/61/70/61702746908650ae7800e618a98489ec.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 46739,
+  "islong": 2,
+  "direction": 1,
+  "title": "绝对不能输哟",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/jueduibunengshuyo156.jpg",
+  "description": "BanG Dream!同人短篇漫画。",
+  "last_updatetime": 1544597424,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jueduibunengshuyo",
+  "hidden": 0,
+  "hot_num": 578734,
+  "hit_num": 24639,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 80114,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13990,
+      "tag_name": "HAM"
+    }
+  ],
+  "subscribe_num": 2736,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80114,
+          "chapter_title": "1话",
+          "updatetime": 1544597424,
+          "filesize": 1373878,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 76,
+    "latest_comment": [
+      {
+        "comment_id": 25761490,
+        "uid": 110243726,
+        "content": "是双子啊",
+        "createtime": 1585324415,
+        "nickname": "hugoo",
+        "avatar": "https://avatar.dmzj.com/38/83/3883658a62d8f643da47df485eb15652.png"
+      },
+      {
+        "comment_id": 25509855,
+        "uid": 19444,
+        "content": "彩看上去就像第二集最先牺牲的角色",
+        "createtime": 1584734327,
+        "nickname": "qzuser10108419",
+        "avatar": "https://avatar.dmzj.com/91/23/912302838e5b41e096ecdc5d6bd81c07.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

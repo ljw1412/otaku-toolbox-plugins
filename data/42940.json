@@ -1,0 +1,87 @@
+{
+  "id": 42940,
+  "islong": 2,
+  "direction": 1,
+  "title": "REVERENCE",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/reverence1656l.jpg",
+  "description": "儿童向+哲学向，温馨又富有寓意的东方同人漫画。",
+  "last_updatetime": 1517390919,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "reverence",
+  "hidden": 0,
+  "hot_num": 91836,
+  "hit_num": 18061,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 73654,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6252,
+      "tag_name": "じぜる"
+    }
+  ],
+  "subscribe_num": 419,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73654,
+          "chapter_title": "1话",
+          "updatetime": 1517390919,
+          "filesize": 4656149,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 19280718,
+        "uid": 107015998,
+        "content": "瓦不信",
+        "createtime": 1565533560,
+        "nickname": "Aivicil",
+        "avatar": "https://avatar.dmzj.com/66/22/66221d11c09531f2992861bae9e273d3.png"
+      },
+      {
+        "comment_id": 19046634,
+        "uid": 106256831,
+        "content": "很棒啊",
+        "createtime": 1564991873,
+        "nickname": "雾上神奈",
+        "avatar": "https://avatar.dmzj.com/20/62/20621c70c44c90fedb4080b485b1f1c9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

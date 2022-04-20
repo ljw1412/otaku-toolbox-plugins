@@ -1,0 +1,91 @@
+{
+  "id": 45429,
+  "islong": 2,
+  "direction": 1,
+  "title": "前辈酱与俺",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/180818qbjya.jpg",
+  "description": "俺的前辈超可爱der",
+  "last_updatetime": 1534561312,
+  "last_update_chapter_name": "烈篇",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qianbeijiangyuan",
+  "hidden": 0,
+  "hot_num": 1546117,
+  "hit_num": 23802,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 76401,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15496,
+      "tag_name": "大塚まひろ"
+    }
+  ],
+  "subscribe_num": 7237,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76401,
+          "chapter_title": "1话",
+          "updatetime": 1534561312,
+          "filesize": 1714022,
+          "chapter_order": 20
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 112,
+    "latest_comment": [
+      {
+        "comment_id": 25927418,
+        "uid": 100229649,
+        "content": "。。。。。。。。。",
+        "createtime": 1585728629,
+        "nickname": "老子的名字叫做赵日天",
+        "avatar": "https://avatar.dmzj.com/e7/74/e7742202b6b8672cf06566bb5162fa21.png"
+      },
+      {
+        "comment_id": 25179094,
+        "uid": 107609645,
+        "content": "俺物语谁有",
+        "createtime": 1584013180,
+        "nickname": "dmzj_107609645",
+        "avatar": "https://avatar.dmzj.com/64/67/6467185aea7ee58f4497f4c8f7a52aea.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

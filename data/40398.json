@@ -1,0 +1,87 @@
+{
+  "id": 40398,
+  "islong": 2,
+  "direction": 2,
+  "title": "站立的拳手",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/154521494486063.jpg",
+  "description": "激情迸发的拳台上挥洒青春的汗水与热泪，为了燃烧着的梦想，挥拳开启抗争的回合！",
+  "last_updatetime": 1494486142,
+  "last_update_chapter_name": "后篇",
+  "copyright": 1,
+  "first_letter": "z",
+  "comic_py": "zhanlidequanshou",
+  "hidden": 0,
+  "hot_num": 16975,
+  "hit_num": 570134,
+  "uid": 108153340,
+  "is_lock": 0,
+  "last_update_chapter_id": 59464,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15984,
+      "tag_name": "惊奇大地"
+    }
+  ],
+  "subscribe_num": 74,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59464,
+          "chapter_title": "2话",
+          "updatetime": 1494486142,
+          "filesize": 3901597,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 59463,
+          "chapter_title": "1话",
+          "updatetime": 1494486108,
+          "filesize": 3628706,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

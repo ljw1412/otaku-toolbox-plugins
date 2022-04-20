@@ -1,0 +1,87 @@
+{
+  "id": 44751,
+  "islong": 2,
+  "direction": 1,
+  "title": "Innocent Blood",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/innoccentblood0701kjl.jpg",
+  "description": "红雾异变源起的故事。",
+  "last_updatetime": 1530428926,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "i",
+  "comic_py": "innocentblood",
+  "hidden": 0,
+  "hot_num": 54364,
+  "hit_num": 17043,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 77828,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15174,
+      "tag_name": "カズハネ"
+    }
+  ],
+  "subscribe_num": 268,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77828,
+          "chapter_title": "1话",
+          "updatetime": 1530428926,
+          "filesize": 3149701,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 8636237,
+        "uid": 107144362,
+        "content": "是红魔组啊！多谢款待",
+        "createtime": 1543851700,
+        "nickname": "妹红是世界的珍宝！！！",
+        "avatar": "https://avatar.dmzj.com/54/95/549594601b599a6a1f6f226e93ab39fc.png"
+      },
+      {
+        "comment_id": 5391022,
+        "uid": 44020,
+        "content": "16p的帕秋莉真是神了",
+        "createtime": 1530468215,
+        "nickname": "见陇原扛把子",
+        "avatar": "https://avatar.dmzj.com/1f/e1/1fe1ed66dcc7bba9c926c9b1a957622f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

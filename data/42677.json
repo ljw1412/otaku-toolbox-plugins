@@ -1,0 +1,246 @@
+{
+  "id": 42677,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔物之国的漫步指南",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/b9492mowuzhig1132218.jpg",
+  "description": "史莱姆的外传故事，漫步在魔物之国的所见所闻",
+  "last_updatetime": 1587223361,
+  "last_update_chapter_name": "第22话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mowuzhiguodemanbuzhinan",
+  "hidden": 0,
+  "hot_num": 25331572,
+  "hit_num": 9794456,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100312,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3701,
+      "tag_name": "冈雾硝"
+    },
+    {
+      "tag_id": 4289,
+      "tag_name": "川上泰树"
+    },
+    {
+      "tag_id": 9028,
+      "tag_name": "伏濑"
+    }
+  ],
+  "subscribe_num": 116725,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100312,
+          "chapter_title": "22话",
+          "updatetime": 1587223361,
+          "filesize": 5897295,
+          "chapter_order": 220
+        },
+        {
+          "chapter_id": 99867,
+          "chapter_title": "21话",
+          "updatetime": 1586449710,
+          "filesize": 6852067,
+          "chapter_order": 210
+        },
+        {
+          "chapter_id": 99346,
+          "chapter_title": "20话",
+          "updatetime": 1585413783,
+          "filesize": 4964437,
+          "chapter_order": 200
+        },
+        {
+          "chapter_id": 98231,
+          "chapter_title": "19话",
+          "updatetime": 1583424161,
+          "filesize": 5233354,
+          "chapter_order": 190
+        },
+        {
+          "chapter_id": 95183,
+          "chapter_title": "18话",
+          "updatetime": 1576426077,
+          "filesize": 6221945,
+          "chapter_order": 180
+        },
+        {
+          "chapter_id": 90379,
+          "chapter_title": "17话",
+          "updatetime": 1563380517,
+          "filesize": 6010887,
+          "chapter_order": 170
+        },
+        {
+          "chapter_id": 89086,
+          "chapter_title": "16话",
+          "updatetime": 1559987219,
+          "filesize": 2403688,
+          "chapter_order": 160
+        },
+        {
+          "chapter_id": 89085,
+          "chapter_title": "15话",
+          "updatetime": 1559987187,
+          "filesize": 3011855,
+          "chapter_order": 150
+        },
+        {
+          "chapter_id": 88377,
+          "chapter_title": "14话",
+          "updatetime": 1557992446,
+          "filesize": 4792376,
+          "chapter_order": 140
+        },
+        {
+          "chapter_id": 88376,
+          "chapter_title": "13话",
+          "updatetime": 1557992406,
+          "filesize": 3457800,
+          "chapter_order": 130
+        },
+        {
+          "chapter_id": 88143,
+          "chapter_title": "12话",
+          "updatetime": 1557245429,
+          "filesize": 2703225,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 85125,
+          "chapter_title": "11话",
+          "updatetime": 1548690340,
+          "filesize": 2348080,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 81510,
+          "chapter_title": "10话",
+          "updatetime": 1538927200,
+          "filesize": 1277883,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 81455,
+          "chapter_title": "9话",
+          "updatetime": 1538752988,
+          "filesize": 3988073,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 77670,
+          "chapter_title": "8话",
+          "updatetime": 1529288321,
+          "filesize": 4682190,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 72677,
+          "chapter_title": "7话",
+          "updatetime": 1515853635,
+          "filesize": 1079022,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 72676,
+          "chapter_title": "6话",
+          "updatetime": 1515853603,
+          "filesize": 2005929,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 72675,
+          "chapter_title": "5话",
+          "updatetime": 1515853574,
+          "filesize": 1635816,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 72674,
+          "chapter_title": "4话",
+          "updatetime": 1515853541,
+          "filesize": 2711819,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 72673,
+          "chapter_title": "3话",
+          "updatetime": 1515853513,
+          "filesize": 2565542,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 72672,
+          "chapter_title": "2话",
+          "updatetime": 1515853482,
+          "filesize": 2613865,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 72671,
+          "chapter_title": "1话",
+          "updatetime": 1515853445,
+          "filesize": 3660936,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7172,
+    "latest_comment": [
+      {
+        "comment_id": 27094759,
+        "uid": 110267366,
+        "content": "https://m.mkzhan.com/214450/\n这是40话的漫画网站",
+        "createtime": 1588580524,
+        "nickname": "九户籍和女孩",
+        "avatar": "https://avatar.dmzj.com/18/21/182141e5069e5fc4c7bb272af9fe97da.png"
+      },
+      {
+        "comment_id": 27088638,
+        "uid": 108281152,
+        "content": "我记得萌王在小说结尾了都是处啊，不愧是大贤者，呸，是智慧之王。",
+        "createtime": 1588561762,
+        "nickname": "布伦史塔德",
+        "avatar": "https://avatar.dmzj.com/74/87/7487e3f8d13fe8df737d6bc0b43f4ff1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

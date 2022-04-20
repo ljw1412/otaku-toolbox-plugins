@@ -1,0 +1,124 @@
+{
+  "id": 39182,
+  "islong": 2,
+  "direction": 2,
+  "title": "泰坦V2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/161111titans.jpg",
+  "description": "泰坦受袭！所有曾经身为泰坦的英雄都遭到猛烈攻击，伤亡惨重，这令他们再度团结到一起。“渡鸦……告诉我，我的想法是错的……”“不，你是对的。是他回来了。”",
+  "last_updatetime": 1583118654,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "taitanv2",
+  "hidden": 0,
+  "hot_num": 82023,
+  "hit_num": 56958,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 98070,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 387,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98070,
+          "chapter_title": "3卷",
+          "updatetime": 1583118654,
+          "filesize": 2981226,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 97283,
+          "chapter_title": "东部特刊",
+          "updatetime": 1581687437,
+          "filesize": 7456017,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 97171,
+          "chapter_title": "2卷",
+          "updatetime": 1581595190,
+          "filesize": 5460849,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 96237,
+          "chapter_title": "1卷",
+          "updatetime": 1579406900,
+          "filesize": 6121004,
+          "chapter_order": 20
+        }
+      ]
+    },
+    {
+      "title": "其它汉化版",
+      "data": [
+        {
+          "chapter_id": 59954,
+          "chapter_title": "1卷",
+          "updatetime": 1478827982,
+          "filesize": 4423111,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 25948192,
+        "uid": 109712446,
+        "content": "这刊真的好磕而且大家都好好看！！！",
+        "createtime": 1585760615,
+        "nickname": "云起一天河",
+        "avatar": "https://avatar.dmzj.com/18/51/1851f8ffe2bf78d0bd7eb37fafda884b.png"
+      },
+      {
+        "comment_id": 25180942,
+        "uid": 106176178,
+        "content": "是迪星我没了",
+        "createtime": 1584016880,
+        "nickname": "Guuuu",
+        "avatar": "https://avatar.dmzj.com/d9/65/d965ee838414ee8cd28c40e59832ce3b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

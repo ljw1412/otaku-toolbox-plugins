@@ -1,0 +1,87 @@
+{
+  "id": 42557,
+  "islong": 2,
+  "direction": 1,
+  "title": "雨之谣",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/yuzhiyao41674869l.jpg",
+  "description": "雨天里的多多良小伞回忆往事的故事~",
+  "last_updatetime": 1514973100,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yuzhiyao",
+  "hidden": 0,
+  "hot_num": 141304,
+  "hit_num": 16434,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72361,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5795,
+      "tag_name": "壱"
+    }
+  ],
+  "subscribe_num": 607,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72361,
+          "chapter_title": "1话",
+          "updatetime": 1514973104,
+          "filesize": 4045005,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 34,
+    "latest_comment": [
+      {
+        "comment_id": 24328769,
+        "uid": 100683994,
+        "content": "开幕死妈",
+        "createtime": 1582143644,
+        "nickname": "楠哥BRONAN",
+        "avatar": "https://avatar.dmzj.com/76/05/7605af076c18c962a629583d35e5bf1b.png"
+      },
+      {
+        "comment_id": 20944062,
+        "uid": 101133717,
+        "content": "壱老师牛逼（绝叫）",
+        "createtime": 1570274721,
+        "nickname": "宿山",
+        "avatar": "https://avatar.dmzj.com/74/05/7405cc702d5904d79cbc85118efaf2ee.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

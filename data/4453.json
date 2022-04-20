@@ -1,0 +1,87 @@
+{
+  "id": 4453,
+  "islong": 2,
+  "direction": 1,
+  "title": "塞尔达传说-梅祖拉面具",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/001_ba519c3f1560b79b1ba0d48042a8e74a.jpg",
+  "description": "任天堂公司的人气单机游戏作品的改编漫画。风格十分清新。\n推荐给所有喜欢ZELDA系列和喜欢林克的朋友！",
+  "last_updatetime": 1279591963,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "saierdachuanshuomeizulamianju",
+  "hidden": 0,
+  "hot_num": 121125,
+  "hit_num": 470581,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 9768,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2114,
+      "tag_name": "姬川明"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 595,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9768,
+          "chapter_title": "1卷",
+          "updatetime": 1279591958,
+          "filesize": 18274557,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 22079562,
+        "uid": 106256235,
+        "content": "最黑暗的一作",
+        "createtime": 1573603514,
+        "nickname": "Kefeather",
+        "avatar": "https://avatar.dmzj.com/2a/8f/2a8f6cffc983dc7bc16a854df7d7a95c.png"
+      },
+      {
+        "comment_id": 20160038,
+        "uid": 107434939,
+        "content": "漫画最后的番外是什么意思？没太看懂啊",
+        "createtime": 1568022695,
+        "nickname": "dmzj_107434939",
+        "avatar": "https://avatar.dmzj.com/25/32/2532ee2f3bcf7cc464768957158edd47.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

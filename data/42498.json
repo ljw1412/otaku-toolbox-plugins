@@ -1,0 +1,87 @@
+{
+  "id": 42498,
+  "islong": 2,
+  "direction": 1,
+  "title": "舰队司令狂想曲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/001jianduisilkxqu1230.jpg",
+  "description": "这是发生在不久的将来的故事",
+  "last_updatetime": 1514639068,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jianduisilingkuangxiangqu",
+  "hidden": 0,
+  "hot_num": 99851,
+  "hit_num": 90055,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 66339,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14178,
+      "tag_name": "hyper summer wars"
+    }
+  ],
+  "subscribe_num": 468,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66339,
+          "chapter_title": "1话",
+          "updatetime": 1514639068,
+          "filesize": 7415788,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 19661810,
+        "uid": 109550554,
+        "content": "。。。。",
+        "createtime": 1566483307,
+        "nickname": "为了苏联",
+        "avatar": "https://avatar.dmzj.com/fc/b0/fcb0ab89382c2fb8c91d5c1ba9b52150.png"
+      },
+      {
+        "comment_id": 14651705,
+        "uid": 101842848,
+        "content": "啊？这么搞谁还能找得着？",
+        "createtime": 1555811543,
+        "nickname": "肇事电车老太婆",
+        "avatar": "https://avatar.dmzj.com/21/57/21579c4e28b226328ee9b3e53cdc5534.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

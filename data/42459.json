@@ -1,0 +1,87 @@
+{
+  "id": 42459,
+  "islong": 2,
+  "direction": 1,
+  "title": "Lunatic旧话",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/lunatijiouhuafengmianl.jpg",
+  "description": "收录于《东方外来韦篇》的同人漫画。早苗：“在座各位都是装逼高手，是在下输了。” 灵梦：“继续吹啊，快和真的一样了。” ",
+  "last_updatetime": 1514305772,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lunatijiouhua",
+  "hidden": 0,
+  "hot_num": 152545,
+  "hit_num": 36782,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 68106,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9038,
+      "tag_name": "ふすま吃茶(水中花火)"
+    }
+  ],
+  "subscribe_num": 688,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 68106,
+          "chapter_title": "1话",
+          "updatetime": 1514305774,
+          "filesize": 2941087,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 21760297,
+        "uid": 105269488,
+        "content": "ddd",
+        "createtime": 1572367274,
+        "nickname": "PSX52610",
+        "avatar": "https://avatar.dmzj.com/82/20/82209a4e3f72c61c387e73e97daf1588.png"
+      },
+      {
+        "comment_id": 19892590,
+        "uid": 106418032,
+        "content": "（装X大奖赛",
+        "createtime": 1567162525,
+        "nickname": "dmzj_106418032",
+        "avatar": "https://avatar.dmzj.com/df/5e/df5ee07d7ee4c05454b86c628b0cdf2d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

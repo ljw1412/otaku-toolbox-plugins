@@ -1,0 +1,87 @@
+{
+  "id": 48440,
+  "islong": 2,
+  "direction": 1,
+  "title": "想到就做的摄影纪念日",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/xdsy190513.jpg",
+  "description": "一个轻松愉快的短篇故事",
+  "last_updatetime": 1557718875,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiangdaojiuzuodesheyingjinianri",
+  "hidden": 0,
+  "hot_num": 171191,
+  "hit_num": 395,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 89382,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5686,
+      "tag_name": "苍空市场"
+    }
+  ],
+  "subscribe_num": 771,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89382,
+          "chapter_title": "1话",
+          "updatetime": 1557718875,
+          "filesize": 698992,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 52,
+    "latest_comment": [
+      {
+        "comment_id": 24201476,
+        "uid": 108874877,
+        "content": "老师，走好",
+        "createtime": 1581843850,
+        "nickname": "蕾米remilet",
+        "avatar": "https://avatar.dmzj.com/27/45/27459b64a2998e9ec1cb9343e83c0771.png"
+      },
+      {
+        "comment_id": 23434891,
+        "uid": 105595212,
+        "content": "so our days will pass us by……",
+        "createtime": 1579688815,
+        "nickname": "奥兰洽",
+        "avatar": "https://avatar.dmzj.com/89/47/8947da8fe0eebb442b6d1b413bb3bf2f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

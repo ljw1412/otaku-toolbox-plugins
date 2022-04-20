@@ -1,0 +1,91 @@
+{
+  "id": 40485,
+  "islong": 2,
+  "direction": 1,
+  "title": "战锤40K六版规则书：泰伦虫族",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/zhanchuitailunchongzu.jpg",
+  "description": "没有人知道它们从哪来，它们是宇宙里的蝗虫，大片的吞食一个又一个生机勃勃的星球。在人类帝国的殖民星球－泰伦被这些生物短时间内吞噬殆尽后，人们便用“泰伦”这个词来称呼这些恐怖的异形。",
+  "last_updatetime": 1495442527,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhanchui40kliubanguizeshutailunchongzu",
+  "hidden": 1,
+  "hot_num": 545805,
+  "hit_num": 1246155,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 65611,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13135,
+      "tag_name": "Games Workshop"
+    }
+  ],
+  "subscribe_num": 2388,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65611,
+          "chapter_title": "1卷",
+          "updatetime": 1495442528,
+          "filesize": 25892158,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 123,
+    "latest_comment": [
+      {
+        "comment_id": 26661156,
+        "uid": 100762616,
+        "content": "吃，只有吃",
+        "createtime": 1587372874,
+        "nickname": "╄→斷デ點℡",
+        "avatar": "https://avatar.dmzj.com/fc/59/fc598f62aad473d786cc8df6e071ee7d.png"
+      },
+      {
+        "comment_id": 26628940,
+        "uid": 6745712,
+        "content": "test",
+        "createtime": 1587282655,
+        "nickname": "Sovil",
+        "avatar": "https://avatar.dmzj.com/b3/d3/b3d319cd4e483284d9dcebf3e9c93f38.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

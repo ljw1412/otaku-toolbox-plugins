@@ -1,0 +1,87 @@
+{
+  "id": 45122,
+  "islong": 2,
+  "direction": 1,
+  "title": "即使身至黃泉彼岸",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/jishishenzhihuangquanbian.jpg",
+  "description": "东方同人漫画.",
+  "last_updatetime": 1532869238,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jishishenzhihuangquanbian",
+  "hidden": 0,
+  "hot_num": 145128,
+  "hit_num": 8414,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 79182,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14701,
+      "tag_name": "市叶叶市"
+    }
+  ],
+  "subscribe_num": 655,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79182,
+          "chapter_title": "1话",
+          "updatetime": 1532869238,
+          "filesize": 3395574,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 34,
+    "latest_comment": [
+      {
+        "comment_id": 22439912,
+        "uid": 108833024,
+        "content": "跑到了天界，估计又得走后门了，永江依玖是不会就这么允许他们三个进去的吧。",
+        "createtime": 1575336399,
+        "nickname": "dmzj_108833024",
+        "avatar": "https://avatar.dmzj.com/52/b6/52b638b8b2bd142d45fbd0419401c597.png"
+      },
+      {
+        "comment_id": 19870903,
+        "uid": 106418032,
+        "content": "这本的人里一般村民，好想再见到他们。",
+        "createtime": 1567004080,
+        "nickname": "dmzj_106418032",
+        "avatar": "https://avatar.dmzj.com/df/5e/df5ee07d7ee4c05454b86c628b0cdf2d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

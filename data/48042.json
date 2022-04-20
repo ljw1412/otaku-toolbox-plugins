@@ -1,0 +1,87 @@
+{
+  "id": 48042,
+  "islong": 2,
+  "direction": 1,
+  "title": "妖怪大小姐",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/ygdxj190408.jpg",
+  "description": "一提到性就会脸红的丢人魅魔。",
+  "last_updatetime": 1554712041,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yaoguaidaxiaojie",
+  "hidden": 0,
+  "hot_num": 1644593,
+  "hit_num": 4786,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 87307,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14527,
+      "tag_name": "わたりさえ"
+    }
+  ],
+  "subscribe_num": 7295,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87307,
+          "chapter_title": "1话",
+          "updatetime": 1554712041,
+          "filesize": 902400,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 180,
+    "latest_comment": [
+      {
+        "comment_id": 27063198,
+        "uid": 102198813,
+        "content": "插旗",
+        "createtime": 1588491320,
+        "nickname": "Joker假面",
+        "avatar": "https://avatar.dmzj.com/2f/3e/2f3e56818efed8e9e2a7a3eaab7b856f.png"
+      },
+      {
+        "comment_id": 26371598,
+        "uid": 109387848,
+        "content": "好短啊",
+        "createtime": 1586622009,
+        "nickname": "某天使の超苹果派",
+        "avatar": "https://avatar.dmzj.com/86/67/8667921ca73590fea9c78a667c2a9659.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

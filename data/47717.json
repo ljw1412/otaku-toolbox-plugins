@@ -1,0 +1,87 @@
+{
+  "id": 47717,
+  "islong": 2,
+  "direction": 1,
+  "title": "友达自贩机",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/ydzfj190308.jpg",
+  "description": "这一个酸酸甜甜的温暖小故事",
+  "last_updatetime": 1552040109,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "youdazifanji",
+  "hidden": 0,
+  "hot_num": 1152649,
+  "hit_num": 32250,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86407,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3253,
+      "tag_name": "宅系"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16632,
+      "tag_name": "シガタケ"
+    }
+  ],
+  "subscribe_num": 5362,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86407,
+          "chapter_title": "1话",
+          "updatetime": 1552040109,
+          "filesize": 2544521,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 363,
+    "latest_comment": [
+      {
+        "comment_id": 26806299,
+        "uid": 104591787,
+        "content": "新分类，宅系",
+        "createtime": 1587748968,
+        "nickname": "花鸣り",
+        "avatar": "https://avatar.dmzj.com/88/13/8813cb78cc4e1fd7ce7157cd064ea3c8.png"
+      },
+      {
+        "comment_id": 26493600,
+        "uid": 107420129,
+        "content": "6666",
+        "createtime": 1586906461,
+        "nickname": "我的网名叫萝卜",
+        "avatar": "https://avatar.dmzj.com/37/69/3769bd0156970ca87d65f998c3cab89d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

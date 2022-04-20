@@ -1,0 +1,108 @@
+{
+  "id": 43859,
+  "islong": 2,
+  "direction": 1,
+  "title": "love",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/shizixi.jpg",
+  "description": "Magnetic Press出品的love系列漫画",
+  "last_updatetime": 1527499624,
+  "last_update_chapter_name": "恐龙",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lovemagneticpress",
+  "hidden": 0,
+  "hot_num": 530224,
+  "hit_num": 783130,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 73432,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14778,
+      "tag_name": "magnetic Press"
+    }
+  ],
+  "subscribe_num": 2485,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73432,
+          "chapter_title": "4卷",
+          "updatetime": 1527499624,
+          "filesize": 9523492,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 71896,
+          "chapter_title": "3卷",
+          "updatetime": 1523888799,
+          "filesize": 35278087,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 72005,
+          "chapter_title": "2卷",
+          "updatetime": 1524189240,
+          "filesize": 11464325,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 71917,
+          "chapter_title": "1卷",
+          "updatetime": 1524063033,
+          "filesize": 20013207,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 120,
+    "latest_comment": [
+      {
+        "comment_id": 19897918,
+        "uid": 104234641,
+        "content": "标个眼，很好看，看名字本来不想看来着（",
+        "createtime": 1567177473,
+        "nickname": "__空无",
+        "avatar": "https://avatar.dmzj.com/28/c7/28c74d88c213fc6b1dedd342582d4303.png"
+      },
+      {
+        "comment_id": 19192142,
+        "uid": 100922808,
+        "content": "这是动物世界吗",
+        "createtime": 1565338234,
+        "nickname": "西门only酱",
+        "avatar": "https://avatar.dmzj.com/90/95/909533be86d08ac0ad6c232e4243abda.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

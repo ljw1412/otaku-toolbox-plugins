@@ -1,0 +1,91 @@
+{
+  "id": 3878,
+  "islong": 2,
+  "direction": 1,
+  "title": "死不足惜的阿依玛",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/001_060f6068756f46de075012811a666568.jpg",
+  "description": "短篇漫画",
+  "last_updatetime": 1276151669,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sbzxdaym",
+  "hidden": 0,
+  "hot_num": 20495,
+  "hit_num": 758889,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 8965,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2343,
+      "tag_name": "朔来廉子"
+    }
+  ],
+  "subscribe_num": 93,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8965,
+          "chapter_title": "1话",
+          "updatetime": 1276756469,
+          "filesize": 6379443,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 24935188,
+        "uid": 100430704,
+        "content": "这啥哦",
+        "createtime": 1583459996,
+        "nickname": "风见响子",
+        "avatar": "https://avatar.dmzj.com/91/71/91716defa323223125535c6664759f6a.png"
+      },
+      {
+        "comment_id": 16421409,
+        "uid": 109203990,
+        "content": "司马东溪？",
+        "createtime": 1558844862,
+        "nickname": "别回复我，会被封",
+        "avatar": "https://avatar.dmzj.com/69/59/6959c52bbe5967c4ad00f2b70a493a6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

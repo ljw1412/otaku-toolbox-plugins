@@ -1,0 +1,87 @@
+{
+  "id": 44980,
+  "islong": 2,
+  "direction": 1,
+  "title": "beautiful world",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/beautifulworld.jpg",
+  "description": "通过镜头拍下全世界",
+  "last_updatetime": 1531922580,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "beautifulworld",
+  "hidden": 0,
+  "hot_num": 135049,
+  "hit_num": 6469,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 79807,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6105,
+      "tag_name": "しまどりる"
+    }
+  ],
+  "subscribe_num": 619,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79807,
+          "chapter_title": "1话",
+          "updatetime": 1531922580,
+          "filesize": 1849104,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 24070855,
+        "uid": 107802943,
+        "content": "你本来与全体格格不入，可是你屈服与群体，于是，你便失去了自我——古斯塔夫《乌合之众》",
+        "createtime": 1581560154,
+        "nickname": "牧师不偷牌",
+        "avatar": "https://avatar.dmzj.com/e6/05/e605cc1761a0430b34aa14da6956651d.png"
+      },
+      {
+        "comment_id": 22937954,
+        "uid": 106445331,
+        "content": "侦查守卫",
+        "createtime": 1577635607,
+        "nickname": "白给玩家铃仙",
+        "avatar": "https://avatar.dmzj.com/81/41/8141a6e73a7afeca4d29ad33ca40bfe9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 41985,
+  "islong": 2,
+  "direction": 1,
+  "title": "宠物少女2nd",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/chongwushaonverndfengmianl.jpg",
+  "description": "登场全员异常，劲爆犯罪故事回归",
+  "last_updatetime": 1510381500,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chongwushaonvernd",
+  "hidden": 1,
+  "hot_num": 2381753,
+  "hit_num": 891850,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 71097,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13952,
+      "tag_name": "筱原九"
+    }
+  ],
+  "subscribe_num": 10688,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71097,
+          "chapter_title": "1话",
+          "updatetime": 1510381500,
+          "filesize": 9923687,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 372,
+    "latest_comment": [
+      {
+        "comment_id": 26943248,
+        "uid": 106303570,
+        "content": "让我康康",
+        "createtime": 1588095052,
+        "nickname": "泠瑟呀",
+        "avatar": "https://avatar.dmzj.com/98/70/98706c61f5363d75b45741b889f627f1.png"
+      },
+      {
+        "comment_id": 26581022,
+        "uid": 106173829,
+        "content": "康康",
+        "createtime": 1587133702,
+        "nickname": "dmzj_106173829",
+        "avatar": "https://avatar.dmzj.com/63/a8/63a899797b4386558398b0da87546516.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

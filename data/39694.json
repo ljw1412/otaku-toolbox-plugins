@@ -1,0 +1,98 @@
+{
+  "id": 39694,
+  "islong": 2,
+  "direction": 1,
+  "title": "小桃太郎",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/xiaotaotailang.jpg",
+  "description": "小小的桃太郎要消灭的鬼怪竟然是个女孩子！？",
+  "last_updatetime": 1485486574,
+  "last_update_chapter_name": "下篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaotaotailang",
+  "hidden": 1,
+  "hot_num": 132628,
+  "hit_num": 373464,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 58617,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12852,
+      "tag_name": "DRE"
+    }
+  ],
+  "subscribe_num": 1553,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 58617,
+          "chapter_title": "2话",
+          "updatetime": 1485486574,
+          "filesize": 4739411,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 58616,
+          "chapter_title": "1话",
+          "updatetime": 1485486559,
+          "filesize": 5721647,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 132,
+    "latest_comment": [
+      {
+        "comment_id": 25163138,
+        "uid": 105112996,
+        "content": "记号",
+        "createtime": 1583957743,
+        "nickname": "菠萝王52251",
+        "avatar": "https://avatar.dmzj.com/52/53/5253c9fd5d919e529b18084cb462f196.png"
+      },
+      {
+        "comment_id": 24952735,
+        "uid": 107723064,
+        "content": "做个记号",
+        "createtime": 1583500193,
+        "nickname": "dmzj_107723064",
+        "avatar": "https://avatar.dmzj.com/37/9a/379a829dc65a5f8113afe80dde72d216.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

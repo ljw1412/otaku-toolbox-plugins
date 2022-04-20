@@ -1,0 +1,91 @@
+{
+  "id": 40425,
+  "islong": 2,
+  "direction": 1,
+  "title": "讲真，我很想做！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/jiangzhenwohenxiangzuo.jpg",
+  "description": "有点色色的（？）超优等生的恋爱方式是？",
+  "last_updatetime": 1494738104,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jiangzhenwohenxiangzuo",
+  "hidden": 1,
+  "hot_num": 5351396,
+  "hit_num": 1737581,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 65360,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13210,
+      "tag_name": "嘉村朗"
+    }
+  ],
+  "subscribe_num": 22810,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65360,
+          "chapter_title": "1话",
+          "updatetime": 1494738104,
+          "filesize": 2074138,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 449,
+    "latest_comment": [
+      {
+        "comment_id": 26755818,
+        "uid": 100691185,
+        "content": "按爪",
+        "createtime": 1587627728,
+        "nickname": "Blood Galaxy",
+        "avatar": "https://avatar.dmzj.com/52/51/52514bdc7263de733b0d1ff0c9d39586.png"
+      },
+      {
+        "comment_id": 26419083,
+        "uid": 104335695,
+        "content": "按下爪印",
+        "createtime": 1586741153,
+        "nickname": "・ひかり・",
+        "avatar": "https://avatar.dmzj.com/85/31/853143dd32f760c3f2ae2e8a0f686fdd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

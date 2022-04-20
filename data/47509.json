@@ -1,0 +1,94 @@
+{
+  "id": 47509,
+  "islong": 2,
+  "direction": 1,
+  "title": "Love Live! - NozoNico Witchcraft",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/190218NozoNicoWitchcraft.jpg",
+  "description": "魔法相关的温馨小故事，爆炸是艺术的？",
+  "last_updatetime": 1550554632,
+  "last_update_chapter_name": "下篇",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lovelivenozonicowitchcraft",
+  "hidden": 0,
+  "hot_num": 123676,
+  "hit_num": 2427,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 82156,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15294,
+      "tag_name": "チロ"
+    }
+  ],
+  "subscribe_num": 591,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82156,
+          "chapter_title": "2话",
+          "updatetime": 1550554632,
+          "filesize": 3449653,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 82144,
+          "chapter_title": "1话",
+          "updatetime": 1550486808,
+          "filesize": 2185984,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 11666944,
+        "uid": 104669189,
+        "content": "艺术就是派大星",
+        "createtime": 1550584483,
+        "nickname": "雪乌墨狐",
+        "avatar": "https://avatar.dmzj.com/85/c3/85c35f2b08030e32f9950963796fa8de.png"
+      },
+      {
+        "comment_id": 11659453,
+        "uid": 101826962,
+        "content": "遭天谴的房子",
+        "createtime": 1550574420,
+        "nickname": "江南烟雨云遮月",
+        "avatar": "https://avatar.dmzj.com/59/31/5931188c2da25e34a468a9dcfd2aab85.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

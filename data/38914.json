@@ -1,0 +1,101 @@
+{
+  "id": 38914,
+  "islong": 2,
+  "direction": 1,
+  "title": "Tomorrow to you",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/001tomorrowtoyou103.jpg",
+  "description": "无论是怎样的命运都将迎来离别的话， 那么、为什么我们还会相遇呢？ ",
+  "last_updatetime": 1528098404,
+  "last_update_chapter_name": "短篇01",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tomorrowtoyou",
+  "hidden": 0,
+  "hot_num": 637933,
+  "hit_num": 986894,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 73665,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6396,
+      "tag_name": "石川惠美"
+    }
+  ],
+  "subscribe_num": 5214,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 70500,
+          "chapter_title": "短篇03",
+          "updatetime": 1520245637,
+          "filesize": 10994630,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 55255,
+          "chapter_title": "短篇02",
+          "updatetime": 1475500482,
+          "filesize": 9024732,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 73665,
+          "chapter_title": "短篇01",
+          "updatetime": 1528098404,
+          "filesize": 9886851,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 189,
+    "latest_comment": [
+      {
+        "comment_id": 26213415,
+        "uid": 105038671,
+        "content": "看哭了woc不要虐我啊qwq",
+        "createtime": 1586308627,
+        "nickname": "洛雒小天使",
+        "avatar": "https://avatar.dmzj.com/36/37/36379f80d25f27ca68dd56545b4352c0.png"
+      },
+      {
+        "comment_id": 26213321,
+        "uid": 105038671,
+        "content": "这笔记本绝对是红娘吧？？？",
+        "createtime": 1586308316,
+        "nickname": "洛雒小天使",
+        "avatar": "https://avatar.dmzj.com/36/37/36379f80d25f27ca68dd56545b4352c0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

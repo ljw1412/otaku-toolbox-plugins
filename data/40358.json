@@ -1,0 +1,87 @@
+{
+  "id": 40358,
+  "islong": 2,
+  "direction": 1,
+  "title": "雨声相结",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/yushengxiangjie.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1494138186,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yushengxiangjie",
+  "hidden": 0,
+  "hot_num": 214521,
+  "hit_num": 73802,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 59349,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5783,
+      "tag_name": "よぬりめ"
+    }
+  ],
+  "subscribe_num": 942,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59349,
+          "chapter_title": "1话",
+          "updatetime": 1494138186,
+          "filesize": 3495580,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 23439247,
+        "uid": 103523405,
+        "content": "已经在一起啦",
+        "createtime": 1579702590,
+        "nickname": "慎用抗生素",
+        "avatar": "https://avatar.dmzj.com/50/02/50029ec40fe75d7c932d6f09d1646ee7.png"
+      },
+      {
+        "comment_id": 23218300,
+        "uid": 105967206,
+        "content": "wsl awsl awsl 太甜了",
+        "createtime": 1578756382,
+        "nickname": "苹果苹果苹果糖",
+        "avatar": "https://avatar.dmzj.com/73/46/73467e5e883fc7d997fc516922bb9314.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

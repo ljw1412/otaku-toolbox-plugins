@@ -1,0 +1,104 @@
+{
+  "id": 38979,
+  "islong": 2,
+  "direction": 2,
+  "title": "替换",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1020029001476421580.jpg",
+  "description": "为了你我愿意与魔鬼做交易",
+  "last_updatetime": 1476706622,
+  "last_update_chapter_name": "初章-恋慕",
+  "copyright": 1,
+  "first_letter": "t",
+  "comic_py": "tihuan",
+  "hidden": 0,
+  "hot_num": 5191,
+  "hit_num": 64839,
+  "uid": 102002900,
+  "is_lock": 0,
+  "last_update_chapter_id": 55699,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12509,
+      "tag_name": "hana"
+    }
+  ],
+  "subscribe_num": 72,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 55699,
+          "chapter_title": "2话",
+          "updatetime": 1476706622,
+          "filesize": 791101,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 55474,
+          "chapter_title": "1话",
+          "updatetime": 1476161306,
+          "filesize": 935831,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "脑洞很大，估计月更？因为工作在身w如果您能阅读我的作品那真的非常荣幸！",
+  "comic_notice": "脑洞很大",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 1972768,
+        "uid": 101254507,
+        "content": "好厉害，更了两话后就停更了",
+        "createtime": 1490621162,
+        "nickname": "傻孩子←",
+        "avatar": "https://avatar.dmzj.com/52/32/52329cb957d022d15fe9c3dbd9cd1df2.png"
+      },
+      {
+        "comment_id": 1365368,
+        "uid": 101480456,
+        "content": "我还以为是CC",
+        "createtime": 1476194724,
+        "nickname": "颠.国.之.亮",
+        "avatar": "https://avatar.dmzj.com/75/2b/752b59d28133055d76c08ea1679c1509.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

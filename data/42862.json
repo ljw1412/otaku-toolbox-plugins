@@ -1,0 +1,95 @@
+{
+  "id": 42862,
+  "islong": 2,
+  "direction": 1,
+  "title": "妖猫传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/003yaomaozhuan1261924.jpg",
+  "description": "导演：陈凯歌 × 原作：夢枕獏共同呈现、东宝 × KADOKAWA共同配给作品、超大作电影漫画化!!\n",
+  "last_updatetime": 1516966009,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yaomaozhuandy",
+  "hidden": 0,
+  "hot_num": 612772,
+  "hit_num": 45569,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 73168,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8195,
+      "tag_name": "梦枕獏"
+    },
+    {
+      "tag_id": 14346,
+      "tag_name": "睦月れい"
+    }
+  ],
+  "subscribe_num": 2720,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73168,
+          "chapter_title": "1话",
+          "updatetime": 1516966009,
+          "filesize": 2755058,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 31,
+    "latest_comment": [
+      {
+        "comment_id": 19933236,
+        "uid": 101466569,
+        "content": "一话一等就是一年半",
+        "createtime": 1567273133,
+        "nickname": "陈了不起",
+        "avatar": "https://avatar.dmzj.com/37/66/37664dd8e9c945aefabfae492432700d.png"
+      },
+      {
+        "comment_id": 16652030,
+        "uid": 107670252,
+        "content": "不错",
+        "createtime": 1559318572,
+        "nickname": "dmzj_107670252",
+        "avatar": "https://avatar.dmzj.com/0a/3b/0a3b18bf745322b941c14600b4fde953.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

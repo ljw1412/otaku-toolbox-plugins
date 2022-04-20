@@ -1,0 +1,87 @@
+{
+  "id": 44827,
+  "islong": 2,
+  "direction": 1,
+  "title": "无聊的大小姐",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/wuliaodedaxiaojie0707hjg.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1530928430,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wuliaodedaxiaojie",
+  "hidden": 0,
+  "hot_num": 86864,
+  "hit_num": 8417,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 78446,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15205,
+      "tag_name": "伊吹莲"
+    }
+  ],
+  "subscribe_num": 418,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78446,
+          "chapter_title": "1话",
+          "updatetime": 1530928430,
+          "filesize": 2801721,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 8237381,
+        "uid": 107367732,
+        "content": "/度假",
+        "createtime": 1542603032,
+        "nickname": "-沉没-",
+        "avatar": "https://avatar.dmzj.com/49/53/4953f4e39ba6eacdf8680672fd0902a3.png"
+      },
+      {
+        "comment_id": 5481167,
+        "uid": 101854178,
+        "content": "看过他们的本子",
+        "createtime": 1530959744,
+        "nickname": "SCP404",
+        "avatar": "https://avatar.dmzj.com/39/13/391307170d0ed419be634662d056109b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 42570,
+  "islong": 2,
+  "direction": 1,
+  "title": "MISERBLE",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/180104miserble.jpg",
+  "description": "蕾米莉亚与咲夜的过往与现如今酸甜苦辣的故事~",
+  "last_updatetime": 1515059991,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "miserble",
+  "hidden": 0,
+  "hot_num": 151189,
+  "hit_num": 60541,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72685,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5728,
+      "tag_name": "Kirero"
+    }
+  ],
+  "subscribe_num": 691,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72685,
+          "chapter_title": "1话",
+          "updatetime": 1515059991,
+          "filesize": 10245192,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 17445640,
+        "uid": 107733847,
+        "content": "正常向",
+        "createtime": 1561393454,
+        "nickname": "dmzj_107733847",
+        "avatar": "https://avatar.dmzj.com/d8/db/d8dbd6cf89e8439f4d0983b608242624.png"
+      },
+      {
+        "comment_id": 16149590,
+        "uid": 105365543,
+        "content": "寿命论是红魔组，悲情必备好不好！",
+        "createtime": 1558314916,
+        "nickname": "bego",
+        "avatar": "https://avatar.dmzj.com/61/29/612980954385a75f8d7510cad7fbc9c9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

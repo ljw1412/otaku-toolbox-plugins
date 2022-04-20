@@ -1,0 +1,87 @@
+{
+  "id": 42264,
+  "islong": 2,
+  "direction": 1,
+  "title": "瞑Conference",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/mingConference.jpg",
+  "description": "舰娘同人漫画",
+  "last_updatetime": 1512921007,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mingconference",
+  "hidden": 0,
+  "hot_num": 132941,
+  "hit_num": 106801,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 67601,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11281,
+      "tag_name": "鹤龟"
+    }
+  ],
+  "subscribe_num": 602,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67601,
+          "chapter_title": "1话",
+          "updatetime": 1512921007,
+          "filesize": 3809945,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 3495604,
+        "uid": 101198320,
+        "content": "这个作者——明明可以靠唯美的画风圈粉，但是偏偏要靠画在屎掺毒生活",
+        "createtime": 1513177462,
+        "nickname": "火神九号",
+        "avatar": "https://avatar.dmzj.com/03/10/0310d6df120552865e0da696ec644c71.png"
+      },
+      {
+        "comment_id": 3480450,
+        "uid": 102559949,
+        "content": "超级巨毒",
+        "createtime": 1512981800,
+        "nickname": "Clement",
+        "avatar": "https://avatar.dmzj.com/a4/86/a486e7221675d44464c24f8901b64d28.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

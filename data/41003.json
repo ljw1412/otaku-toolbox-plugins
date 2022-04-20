@@ -1,0 +1,87 @@
+{
+  "id": 41003,
+  "islong": 2,
+  "direction": 1,
+  "title": "妖怪手表妖怪大图鉴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/ygsbygdtj46856l.jpg",
+  "description": "动画妖怪手表中出现的各种妖怪图鉴",
+  "last_updatetime": 1500635419,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yaoguaishoubiaoyaoguaidatujian",
+  "hidden": 0,
+  "hot_num": 154766,
+  "hit_num": 48664,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 61507,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 575,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61507,
+          "chapter_title": "1卷",
+          "updatetime": 1500635419,
+          "filesize": 4970059,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 23743034,
+        "uid": 109312054,
+        "content": "求妖怪名单，谢谢",
+        "createtime": 1580721974,
+        "nickname": "dmzj_109312054",
+        "avatar": "https://avatar.dmzj.com/3a/e1/3ae170217ee4188d6ebfc04e64ad7805.png"
+      },
+      {
+        "comment_id": 8277812,
+        "uid": 102436751,
+        "content": "想起妖表我就想起，最近FF14和妖表的联动复刻（肝疼）",
+        "createtime": 1542717942,
+        "nickname": "魂伤淡心yoll",
+        "avatar": "https://avatar.dmzj.com/c4/ff/c4ffa1b866c585ea98eed9b30a8fb761.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

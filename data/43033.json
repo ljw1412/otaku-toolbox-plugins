@@ -1,0 +1,87 @@
+{
+  "id": 43033,
+  "islong": 2,
+  "direction": 1,
+  "title": "REMIND ME",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/180206remindme.jpg",
+  "description": "东方同人漫画。",
+  "last_updatetime": 1517901774,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "remindme",
+  "hidden": 0,
+  "hot_num": 172864,
+  "hit_num": 15493,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 67691,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5925,
+      "tag_name": "ふあん亭"
+    }
+  ],
+  "subscribe_num": 737,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67691,
+          "chapter_title": "1话",
+          "updatetime": 1517901774,
+          "filesize": 4036054,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 15634906,
+        "uid": 106390908,
+        "content": "莫得立绘大酱",
+        "createtime": 1557425905,
+        "nickname": "crAzy–diAmond",
+        "avatar": "https://avatar.dmzj.com/cb/2c/cb2c96e594c4f760a9e7473301178339.png"
+      },
+      {
+        "comment_id": 9539141,
+        "uid": 105937291,
+        "content": "11p只是三月精捡来的口红而已你们都在想些什么（滑稽）",
+        "createtime": 1546266046,
+        "nickname": "灵梦世界第一可爱",
+        "avatar": "https://avatar.dmzj.com/58/25/58254ea2a118873ad715155879b2d6d9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 42523,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C93)SSW vol.5",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/sswvol5.jpg",
+  "description": "グランブルーファンタジー（Granblue Fantasy），碧蓝幻想同人画集。",
+  "last_updatetime": 1514775651,
+  "last_update_chapter_name": "画集",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sswvol5",
+  "hidden": 0,
+  "hot_num": 6096506,
+  "hit_num": 83967,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 66382,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14190,
+      "tag_name": "水野早樱"
+    }
+  ],
+  "subscribe_num": 23310,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66382,
+          "chapter_title": "画集",
+          "updatetime": 1514775651,
+          "filesize": 1895372,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 40,
+    "latest_comment": [
+      {
+        "comment_id": 24986484,
+        "uid": 108492960,
+        "content": "是真的好看。",
+        "createtime": 1583579487,
+        "nickname": "dmzj_108492960",
+        "avatar": "https://avatar.dmzj.com/9f/8b/9f8b4dc9d10d349202139430499d33df.png"
+      },
+      {
+        "comment_id": 22485881,
+        "uid": 109853420,
+        "content": "足迹。",
+        "createtime": 1575613205,
+        "nickname": "dmzj_109853420",
+        "avatar": "https://avatar.dmzj.com/d5/36/d53639a45f8185fa88cdbc72ab8996b9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

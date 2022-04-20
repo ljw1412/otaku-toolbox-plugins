@@ -1,0 +1,105 @@
+{
+  "id": 46613,
+  "islong": 2,
+  "direction": 1,
+  "title": "佐贺偶像同人小漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/190130zhoxtr.jpg",
+  "description": "佐贺偶像是传奇的同人小漫画",
+  "last_updatetime": 1549369920,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zuoheouxiangtongrenxiaomanhua",
+  "hidden": 0,
+  "hot_num": 2736887,
+  "hit_num": 73719,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 81004,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16070,
+      "tag_name": "优希辉"
+    }
+  ],
+  "subscribe_num": 11902,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81004,
+          "chapter_title": "2话",
+          "updatetime": 1549369920,
+          "filesize": 276336,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 79892,
+          "chapter_title": "C95单行本",
+          "updatetime": 1546527566,
+          "filesize": 4342031,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 78818,
+          "chapter_title": "1话",
+          "updatetime": 1543765876,
+          "filesize": 1253801,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 196,
+    "latest_comment": [
+      {
+        "comment_id": 26714497,
+        "uid": 105818100,
+        "content": "太可爱了",
+        "createtime": 1587522263,
+        "nickname": "欧皇的寂寞",
+        "avatar": "https://avatar.dmzj.com/98/54/9854c9830af9eaa4de1e50ff2717ca1a.png"
+      },
+      {
+        "comment_id": 24823813,
+        "uid": 108831068,
+        "content": "加油，支持作者",
+        "createtime": 1583247184,
+        "nickname": "dmzj_108831068",
+        "avatar": "https://avatar.dmzj.com/57/e7/57e7187abe9b040c7ec4555e01d79d76.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

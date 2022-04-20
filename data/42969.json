@@ -1,0 +1,91 @@
+{
+  "id": 42969,
+  "islong": 2,
+  "direction": 2,
+  "title": "漫威骑士：蜘蛛侠与夜魔侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/mwqszzxyymx498645l.jpg",
+  "description": "蜘蛛侠与夜魔侠，纽约是他们共同居住的家园。接下来的这个故事讲的是他们人生中的一个夜晚……",
+  "last_updatetime": 1565344023,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "manweiqishizhizhuxiayuyemoxia",
+  "hidden": 0,
+  "hot_num": 223910,
+  "hit_num": 22042,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 87674,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1006,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87674,
+          "chapter_title": "1卷",
+          "updatetime": 1565344023,
+          "filesize": 1915430,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 25249917,
+        "uid": 101601438,
+        "content": "蜘蛛侠与死侍是没了吗？????",
+        "createtime": 1584181796,
+        "nickname": "犯二君",
+        "avatar": "https://avatar.dmzj.com/99/df/99dfbb96af6ee4be1ed87c8eb730dc92.png"
+      },
+      {
+        "comment_id": 19202731,
+        "uid": 33420154,
+        "content": "卡面耐打！",
+        "createtime": 1565362856,
+        "nickname": "多拉贡之支配者",
+        "avatar": "https://avatar.dmzj.com/83/23/8323a8289aaa82ff6a46b6ad1ef09cf9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

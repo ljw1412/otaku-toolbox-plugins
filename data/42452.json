@@ -1,0 +1,87 @@
+{
+  "id": 42452,
+  "islong": 2,
+  "direction": 1,
+  "title": "圣诞物语",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/171226christmas.jpg",
+  "description": "物语系列同人短篇",
+  "last_updatetime": 1514271915,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shengdanwuyu",
+  "hidden": 0,
+  "hot_num": 118767,
+  "hit_num": 5666,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72141,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 458,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72141,
+          "chapter_title": "1话",
+          "updatetime": 1514271915,
+          "filesize": 534598,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 4048755,
+        "uid": 100818700,
+        "content": "感觉还不错",
+        "createtime": 1520571652,
+        "nickname": "那不舍难以抹去丶",
+        "avatar": "https://avatar.dmzj.com/2f/73/2f73519938ce4d33a5b097b22f31d882.png"
+      },
+      {
+        "comment_id": 3655547,
+        "uid": 105526901,
+        "content": "有点污啊这个",
+        "createtime": 1515595117,
+        "nickname": "香多",
+        "avatar": "https://avatar.dmzj.com/29/27/2927102242aa248a4ca9a0b0bd7e6b5f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

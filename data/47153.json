@@ -1,0 +1,87 @@
+{
+  "id": 47153,
+  "islong": 2,
+  "direction": 1,
+  "title": "迷你战争",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/quanmianzhanzheng20190120.jpg",
+  "description": "因为天空是蓝色的 今天依旧是晴天。今天的日本，还是和往常一样和平…\n",
+  "last_updatetime": 1547987931,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "minizhanzheng",
+  "hidden": 0,
+  "hot_num": 108207,
+  "hit_num": 8946,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 80371,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16338,
+      "tag_name": "日柳一"
+    }
+  ],
+  "subscribe_num": 542,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80371,
+          "chapter_title": "1话",
+          "updatetime": 1547987931,
+          "filesize": 2204459,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 38,
+    "latest_comment": [
+      {
+        "comment_id": 16029033,
+        "uid": 101295398,
+        "content": "？",
+        "createtime": 1558076229,
+        "nickname": "とびいち おりがみ71095",
+        "avatar": "https://avatar.dmzj.com/4c/21/4c211ca2f93ebd3d77d3b68dd2aa3da6.png"
+      },
+      {
+        "comment_id": 16014897,
+        "uid": 107670252,
+        "content": "标记38",
+        "createtime": 1558044207,
+        "nickname": "dmzj_107670252",
+        "avatar": "https://avatar.dmzj.com/0a/3b/0a3b18bf745322b941c14600b4fde953.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

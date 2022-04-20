@@ -1,0 +1,94 @@
+{
+  "id": 48039,
+  "islong": 2,
+  "direction": 1,
+  "title": "小叮当科学趣味小百科",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/xddmudbk190408.jpg",
+  "description": "益智谜语小百科。",
+  "last_updatetime": 1582682374,
+  "last_update_chapter_name": "第10卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaodingdangkexuequweixiaobaike",
+  "hidden": 0,
+  "hot_num": 250573,
+  "hit_num": 41965,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94648,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 828,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94648,
+          "chapter_title": "10卷",
+          "updatetime": 1582682374,
+          "filesize": 23030213,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 83537,
+          "chapter_title": "8卷",
+          "updatetime": 1554697496,
+          "filesize": 21339570,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 52,
+    "latest_comment": [
+      {
+        "comment_id": 25255086,
+        "uid": 104198689,
+        "content": "这。。。。。。。。",
+        "createtime": 1584191711,
+        "nickname": "fff团五星上将",
+        "avatar": "https://avatar.dmzj.com/2c/aa/2caa3f63910017412c6126564612800d.png"
+      },
+      {
+        "comment_id": 24578613,
+        "uid": 111827,
+        "content": "那么动漫之家有没有葫芦娃大战变形金刚系列？",
+        "createtime": 1582760549,
+        "nickname": "喵姆理沙",
+        "avatar": "https://avatar.dmzj.com/fa/f1/faf13d9166b7c989945cc92d03001dba.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

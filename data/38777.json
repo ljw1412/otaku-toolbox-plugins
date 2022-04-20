@@ -1,0 +1,94 @@
+{
+  "id": 38777,
+  "islong": 2,
+  "direction": 1,
+  "title": "夏日之鲸",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/xiarizhijing.jpg",
+  "description": "运动就是青春！",
+  "last_updatetime": 1478787255,
+  "last_update_chapter_name": "后篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiarizhijing",
+  "hidden": 0,
+  "hot_num": 103449,
+  "hit_num": 478798,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 59947,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6480,
+      "tag_name": "中河友里"
+    }
+  ],
+  "subscribe_num": 1989,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59947,
+          "chapter_title": "2话",
+          "updatetime": 1478787255,
+          "filesize": 2854678,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 58221,
+          "chapter_title": "1话",
+          "updatetime": 1473782415,
+          "filesize": 3356361,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 37,
+    "latest_comment": [
+      {
+        "comment_id": 24278871,
+        "uid": 100922996,
+        "content": "女主真的很厉害，我可能就算被男主那么说也许还是会放弃，很没自信",
+        "createtime": 1582035496,
+        "nickname": "萤清水",
+        "avatar": "https://avatar.dmzj.com/28/e9/28e9c9a74ed222737b19e4278ba811d3.png"
+      },
+      {
+        "comment_id": 8477240,
+        "uid": 107584747,
+        "content": "反响不咋滴没连载",
+        "createtime": 1543406470,
+        "nickname": "Tma仔",
+        "avatar": "https://avatar.dmzj.com/82/57/82571f9e398cd60b89b03da43f826895.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

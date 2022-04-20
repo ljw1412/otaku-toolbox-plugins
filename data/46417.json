@@ -1,0 +1,87 @@
+{
+  "id": 46417,
+  "islong": 2,
+  "direction": 1,
+  "title": "刺客信条：记忆",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/cekexintiaojiyi1112l.jpg",
+  "description": "在过去寻求指引，在背后留下往未来的路。",
+  "last_updatetime": 1541981749,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "cikexintiaojiyi",
+  "hidden": 0,
+  "hot_num": 283658,
+  "hit_num": 40521,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 82656,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15971,
+      "tag_name": "ひのえ"
+    }
+  ],
+  "subscribe_num": 1288,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82656,
+          "chapter_title": "1卷",
+          "updatetime": 1541981749,
+          "filesize": 5750552,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 59,
+    "latest_comment": [
+      {
+        "comment_id": 24855557,
+        "uid": 107684687,
+        "content": "淦啊，戴斯蒙最后不还是为了拯救世界牺牲了……",
+        "createtime": 1583314082,
+        "nickname": "风见育空",
+        "avatar": "https://avatar.dmzj.com/39/38/393889add516b9768d51836c754e2515.png"
+      },
+      {
+        "comment_id": 21331566,
+        "uid": 21092154,
+        "content": "艾奇欧的孩子不是女儿吗...",
+        "createtime": 1571117541,
+        "nickname": "FRK003",
+        "avatar": "https://avatar.dmzj.com/b9/40/b94007631fed3999da688ffd9b22fde5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

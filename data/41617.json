@@ -1,0 +1,91 @@
+{
+  "id": 41617,
+  "islong": 2,
+  "direction": 1,
+  "title": "你的第一次属于我",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/170928diyici.jpg",
+  "description": "又是一个竹马短篇……关于第一次……",
+  "last_updatetime": 1506566648,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "nidediyicishuyuwo",
+  "hidden": 0,
+  "hot_num": 350259,
+  "hit_num": 297527,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 69256,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13797,
+      "tag_name": "杉尻尾"
+    }
+  ],
+  "subscribe_num": 1437,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 69256,
+          "chapter_title": "1话",
+          "updatetime": 1506566648,
+          "filesize": 8986759,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 27,
+    "latest_comment": [
+      {
+        "comment_id": 25502562,
+        "uid": 106145100,
+        "content": "甜甜甜",
+        "createtime": 1584721612,
+        "nickname": "ヾ❀5.0╹no◡╹ﾉ~",
+        "avatar": "https://avatar.dmzj.com/58/97/58971a316c931b3189908a191959a3eb.png"
+      },
+      {
+        "comment_id": 24895186,
+        "uid": 109182299,
+        "content": "记录",
+        "createtime": 1583382968,
+        "nickname": "树的隐喻",
+        "avatar": "https://avatar.dmzj.com/75/19/7519a1ca0a7ea15b38a1618bc0df3145.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

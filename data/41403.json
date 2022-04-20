@@ -1,0 +1,87 @@
+{
+  "id": 41403,
+  "islong": 2,
+  "direction": 1,
+  "title": "NEST",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/nestfengmianl.jpg",
+  "description": "我想只有我是这样的，除此之外别无可能。",
+  "last_updatetime": 1504343235,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "nest",
+  "hidden": 0,
+  "hot_num": 263206,
+  "hit_num": 85303,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 62820,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13707,
+      "tag_name": "我岛ヒロ"
+    }
+  ],
+  "subscribe_num": 1064,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 62820,
+          "chapter_title": "1话",
+          "updatetime": 1504343235,
+          "filesize": 1805990,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 25045339,
+        "uid": 108011827,
+        "content": "就一话？？？玩呢？？？没后续了？？？",
+        "createtime": 1583688684,
+        "nickname": "夏陌秋生",
+        "avatar": "https://avatar.dmzj.com/91/47/9147dedfe5e91cf37a16904d997fe34b.png"
+      },
+      {
+        "comment_id": 24592390,
+        "uid": 108734787,
+        "content": "来辽－－－",
+        "createtime": 1582803251,
+        "nickname": "菠菜徐坤",
+        "avatar": "https://avatar.dmzj.com/39/90/39907747b4cecac823659cd9f2d744c7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

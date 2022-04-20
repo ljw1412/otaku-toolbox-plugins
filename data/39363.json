@@ -1,0 +1,87 @@
+{
+  "id": 39363,
+  "islong": 2,
+  "direction": 1,
+  "title": "两个人与两个人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/lgrylgr64856l.jpg",
+  "description": "两个人，然后三个人，之后四个人？",
+  "last_updatetime": 1481197561,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lianggerenyulianggeren",
+  "hidden": 1,
+  "hot_num": 242106,
+  "hit_num": 154255,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 55571,
+  "authors": [
+    {
+      "tag_id": 1022,
+      "tag_name": "吉富昭仁"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "subscribe_num": 1845,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 55571,
+          "chapter_title": "1话",
+          "updatetime": 1481197561,
+          "filesize": 1544094,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 179,
+    "latest_comment": [
+      {
+        "comment_id": 26647258,
+        "uid": 105122203,
+        "content": "老物发现",
+        "createtime": 1587319563,
+        "nickname": "波罗白勺海",
+        "avatar": "https://avatar.dmzj.com/18/64/1864e4dc26b6e139c89370b0ceb0430d.png"
+      },
+      {
+        "comment_id": 26551531,
+        "uid": 105517879,
+        "content": "得得得，眼睛",
+        "createtime": 1587050130,
+        "nickname": "幻影的霸主34001",
+        "avatar": "https://avatar.dmzj.com/40/00/4000265e217f76a51c4857202f9b6199.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

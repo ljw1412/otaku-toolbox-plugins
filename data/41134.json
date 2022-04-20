@@ -1,0 +1,87 @@
+{
+  "id": 41134,
+  "islong": 2,
+  "direction": 1,
+  "title": "纤弱之蝶",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/xianruozhidie.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1501982958,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xianruozhidie",
+  "hidden": 0,
+  "hot_num": 119447,
+  "hit_num": 40452,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 63876,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12826,
+      "tag_name": "あとき"
+    }
+  ],
+  "subscribe_num": 524,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 63876,
+          "chapter_title": "1话",
+          "updatetime": 1501982958,
+          "filesize": 1926075,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 36,
+    "latest_comment": [
+      {
+        "comment_id": 25321867,
+        "uid": 101576861,
+        "content": "这令人胃疼的气息",
+        "createtime": 1584352581,
+        "nickname": ", ,",
+        "avatar": "https://avatar.dmzj.com/58/03/5803312dc0aa0a8821bb88d46485b9a8.png"
+      },
+      {
+        "comment_id": 22923245,
+        "uid": 105451437,
+        "content": "监视守卫",
+        "createtime": 1577596580,
+        "nickname": "亡路人",
+        "avatar": "https://avatar.dmzj.com/b5/df/b5dfa8a6f60b36c77c316aa6d3cd1b53.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

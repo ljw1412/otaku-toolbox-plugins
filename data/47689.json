@@ -1,0 +1,87 @@
+{
+  "id": 47689,
+  "islong": 2,
+  "direction": 1,
+  "title": "舰娘默示录",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/jnmsl0305.jpg",
+  "description": "舰娘就是男人的浪漫（不是高达吗。。。）",
+  "last_updatetime": 1551764998,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jianniangmoshilu",
+  "hidden": 1,
+  "hot_num": 271732,
+  "hit_num": 24382,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 82564,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6068,
+      "tag_name": "濑尾辰也"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "subscribe_num": 1291,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82564,
+          "chapter_title": "短篇",
+          "updatetime": 1551764998,
+          "filesize": 17204740,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 84,
+    "latest_comment": [
+      {
+        "comment_id": 22414996,
+        "uid": 100678527,
+        "content": "来一发",
+        "createtime": 1575196321,
+        "nickname": "峰临火山",
+        "avatar": "https://avatar.dmzj.com/97/96/9796644d8a52c3aeb59711dccc51df42.png"
+      },
+      {
+        "comment_id": 22032357,
+        "uid": 102477108,
+        "content": "滴滴滴",
+        "createtime": 1573381604,
+        "nickname": "rx178mk2",
+        "avatar": "https://avatar.dmzj.com/51/79/51791bae3a8d7c417de555b692a2d1dc.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

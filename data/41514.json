@@ -1,0 +1,87 @@
+{
+  "id": 41514,
+  "islong": 2,
+  "direction": 1,
+  "title": "Voyager1947",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/voyager1947V1.jpg",
+  "description": "舰娘同人漫画",
+  "last_updatetime": 1505447414,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "v",
+  "comic_py": "voyager1947",
+  "hidden": 0,
+  "hot_num": 67719,
+  "hit_num": 75836,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 65111,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13755,
+      "tag_name": "フジノキ"
+    }
+  ],
+  "subscribe_num": 305,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65111,
+          "chapter_title": "1话",
+          "updatetime": 1505447414,
+          "filesize": 2544707,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 26239881,
+        "uid": 107868058,
+        "content": "非常温馨的串联短篇呢",
+        "createtime": 1586360861,
+        "nickname": "秘封梦魇日记",
+        "avatar": "https://avatar.dmzj.com/55/98/559831a3fb86e4825061728d7d50674c.png"
+      },
+      {
+        "comment_id": 23186033,
+        "uid": 102286510,
+        "content": "怎么最近好多几年前订阅的都诈尸出来了，明明都没更新",
+        "createtime": 1578632043,
+        "nickname": "Every小时",
+        "avatar": "https://avatar.dmzj.com/83/69/83698da334175b2c781751c317fee0e3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

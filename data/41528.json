@@ -1,0 +1,101 @@
+{
+  "id": 41528,
+  "islong": 2,
+  "direction": 1,
+  "title": "雷神3：诸神黄昏前奏漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/M916arvelsThorRagnarok.jpg",
+  "description": "故事从巴西的贫民窟开始……",
+  "last_updatetime": 1529457494,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "leishensanzhushenhuanghunqianzoumanhua",
+  "hidden": 0,
+  "hot_num": 173939,
+  "hit_num": 316113,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72606,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 633,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72606,
+          "chapter_title": "3卷",
+          "updatetime": 1529457494,
+          "filesize": 4379524,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 69273,
+          "chapter_title": "2卷",
+          "updatetime": 1521941797,
+          "filesize": 3630996,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 63226,
+          "chapter_title": "1卷",
+          "updatetime": 1505564420,
+          "filesize": 4054611,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 4187053,
+        "uid": 103510640,
+        "content": "浩克电影",
+        "createtime": 1522205993,
+        "nickname": "Eddie79241",
+        "avatar": "https://avatar.dmzj.com/9d/f8/9df8b8c2669311c9c68ee3f870bf29db.png"
+      },
+      {
+        "comment_id": 4165811,
+        "uid": 104590665,
+        "content": "电影两小时漫画10分钟",
+        "createtime": 1521965548,
+        "nickname": "是病娇哦",
+        "avatar": "https://avatar.dmzj.com/98/85/9885ccaa3a45ebf22f891897a736eade.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

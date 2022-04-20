@@ -1,0 +1,89 @@
+{
+  "id": 42021,
+  "islong": 2,
+  "direction": 2,
+  "title": "他们",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1055548921510797270.jpg",
+  "description": "在另一个时空，他们有危险了！",
+  "last_updatetime": 1510797369,
+  "last_update_chapter_name": "故事X",
+  "copyright": 1,
+  "first_letter": "t",
+  "comic_py": "tamendxby",
+  "hidden": 0,
+  "hot_num": 9860,
+  "hit_num": 291822,
+  "uid": 105554892,
+  "is_lock": 0,
+  "last_update_chapter_id": 69651,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13967,
+      "tag_name": "大小不一"
+    }
+  ],
+  "subscribe_num": 35,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 69651,
+          "chapter_title": "1话",
+          "updatetime": 1510797369,
+          "filesize": 2014668,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 3309395,
+        "uid": 102029671,
+        "content": "看成他们大小不一（......",
+        "createtime": 1510842109,
+        "nickname": "悲观自卑的开心小丑",
+        "avatar": "https://avatar.dmzj.com/24/48/2448f3a737f01af5c40496916189eaba.png"
+      },
+      {
+        "comment_id": 3307233,
+        "uid": 102320544,
+        "content": "就看到了自带马赛克的衣服",
+        "createtime": 1510818615,
+        "nickname": "LEONET",
+        "avatar": "https://avatar.dmzj.com/64/78/6478d9c6ffe6179e25df590c40becf20.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

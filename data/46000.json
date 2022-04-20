@@ -1,0 +1,87 @@
+{
+  "id": 46000,
+  "islong": 2,
+  "direction": 1,
+  "title": "恶魔之光",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/emozhiguang1005l.jpg",
+  "description": "无莲梅莉啾啾，秘封组过万圣节的故事",
+  "last_updatetime": 1538721266,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "e",
+  "comic_py": "emozhiguang",
+  "hidden": 0,
+  "hot_num": 75523,
+  "hit_num": 6860,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 82495,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15759,
+      "tag_name": "YoMoYaMa"
+    }
+  ],
+  "subscribe_num": 374,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82495,
+          "chapter_title": "1话",
+          "updatetime": 1538721266,
+          "filesize": 1913031,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 16124712,
+        "uid": 107121087,
+        "content": "看画风就觉得眼熟，看评论果然是四方山的啊",
+        "createtime": 1558267868,
+        "nickname": "dmzj_107121087",
+        "avatar": "https://avatar.dmzj.com/6b/5d/6b5df78c73b1eda5f89aff6a85e4e8b1.png"
+      },
+      {
+        "comment_id": 11972278,
+        "uid": 108403252,
+        "content": "秘封组喜欢",
+        "createtime": 1551141115,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

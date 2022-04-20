@@ -1,0 +1,91 @@
+{
+  "id": 46053,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方兽耳传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/181009dongf.jpg",
+  "description": "幻想乡美少女超绝兽耳化中~",
+  "last_updatetime": 1539076595,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongfangshouerzhuan",
+  "hidden": 0,
+  "hot_num": 162929,
+  "hit_num": 48886,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 76849,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15789,
+      "tag_name": "きちんとトンチキ"
+    }
+  ],
+  "subscribe_num": 756,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76849,
+          "chapter_title": "1话",
+          "updatetime": 1539076595,
+          "filesize": 9140475,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 15970450,
+        "uid": 108183439,
+        "content": "mark",
+        "createtime": 1557953639,
+        "nickname": "dmzj_108183439",
+        "avatar": "https://avatar.dmzj.com/cc/39/cc394c86db56a8cb9cbd0d9ed618bffb.png"
+      },
+      {
+        "comment_id": 13491603,
+        "uid": 108403252,
+        "content": "兽耳异变",
+        "createtime": 1553861530,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

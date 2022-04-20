@@ -1,0 +1,100 @@
+{
+  "id": 48102,
+  "islong": 2,
+  "direction": 2,
+  "title": "假的赛博百合原作版",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1087815911554797542.jpg",
+  "description": "赛博朋克社会的百合...冒险故事，冒险为主百合为辅。",
+  "last_updatetime": 1561541315,
+  "last_update_chapter_name": "第0.5话",
+  "copyright": 1,
+  "first_letter": "j",
+  "comic_py": "jiadesaibobaiheyuanzuoban",
+  "hidden": 0,
+  "hot_num": 46172,
+  "hit_num": 161587,
+  "uid": 108781591,
+  "is_lock": 0,
+  "last_update_chapter_id": 89711,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16586,
+      "tag_name": "陈二成"
+    }
+  ],
+  "subscribe_num": 186,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89711,
+          "chapter_title": "0.5话",
+          "updatetime": 1561541315,
+          "filesize": 286846,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 89559,
+          "chapter_title": "0话",
+          "updatetime": 1560851108,
+          "filesize": 260481,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "713187477\n催更群，今天的二成画画了吗",
+  "comic_notice": "某个赛博文字游戏的官方线。不过画的非常粗糙就是了，毕竟要干的事情非常多。",
+  "comment": {
+    "comment_count": 32,
+    "latest_comment": [
+      {
+        "comment_id": 26541897,
+        "uid": 101820342,
+        "content": "建议参考一下stjepan sejic的画风，B站有相关视频，dmzj上也有他的作品",
+        "createtime": 1587031341,
+        "nickname": "kilis",
+        "avatar": "https://avatar.dmzj.com/24/10/2410cadcacf72bbb86b37dab2b37157b.png"
+      },
+      {
+        "comment_id": 25184255,
+        "uid": 108424374,
+        "content": "有些直白的说有些地方感觉有点基础就能画出来，眼睛有时候感觉怪怪的，就是感觉比例有些不一样，不过还是祝你加油，订阅喽，越来越好吧（ps：0.5话第二页那个脸是真有点怪），有些话希望不要生气啊",
+        "createtime": 1584022076,
+        "nickname": "dmzj_108424374",
+        "avatar": "https://avatar.dmzj.com/fc/11/fc11894638cb01fd3ff42c0c8361ee66.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

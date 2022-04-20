@@ -1,0 +1,105 @@
+{
+  "id": 41439,
+  "islong": 2,
+  "direction": 1,
+  "title": "和殿下同在一起",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/hedianxiayiqi.png",
+  "description": "漫画以战国时代为舞台，集合了所有历史上登场的战国武将的故事，虽然故事中的素材全部取自真实历史记载。但是经过大幅度的夸张变形之后，战功赫赫的一代名将们都将化身为一代吐槽天才。",
+  "last_updatetime": 1504709585,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hedianxiatongzaiyiqi",
+  "hidden": 0,
+  "hot_num": 59861,
+  "hit_num": 176041,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 64873,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13725,
+      "tag_name": "大羽快"
+    }
+  ],
+  "subscribe_num": 275,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 64873,
+          "chapter_title": "3卷",
+          "updatetime": 1504709585,
+          "filesize": 9218975,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 64872,
+          "chapter_title": "2卷",
+          "updatetime": 1504709428,
+          "filesize": 9980031,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 64871,
+          "chapter_title": "1卷",
+          "updatetime": 1504709412,
+          "filesize": 10196209,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 19672991,
+        "uid": 106881054,
+        "content": "贴吧有第4卷生肉",
+        "createtime": 1566510505,
+        "nickname": "雪菜碧？",
+        "avatar": "https://avatar.dmzj.com/97/88/9788200626b44cb4aa0b4a153ec5141f.png"
+      },
+      {
+        "comment_id": 14331642,
+        "uid": 101766851,
+        "content": "很有趣就是了",
+        "createtime": 1555263374,
+        "nickname": "任重道远的节操",
+        "avatar": "https://avatar.dmzj.com/42/b9/42b91ff7a2e00ab5d29efd6829773c90.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

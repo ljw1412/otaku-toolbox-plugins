@@ -1,0 +1,91 @@
+{
+  "id": 44439,
+  "islong": 2,
+  "direction": 1,
+  "title": "美铃彩虹",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/meilingcaihong0603.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1528012589,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "meilingcaihong",
+  "hidden": 0,
+  "hot_num": 398964,
+  "hit_num": 32739,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 73627,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6399,
+      "tag_name": "南方纯"
+    },
+    {
+      "tag_id": 14658,
+      "tag_name": "晩杯あきら"
+    }
+  ],
+  "subscribe_num": 1788,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73627,
+          "chapter_title": "1话",
+          "updatetime": 1528012589,
+          "filesize": 3549983,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 39,
+    "latest_comment": [
+      {
+        "comment_id": 25857650,
+        "uid": 104287759,
+        "content": "好看",
+        "createtime": 1585570158,
+        "nickname": "★ げんぱく☆",
+        "avatar": "https://avatar.dmzj.com/28/39/2839f394c7e28edc8213befea662fbf3.png"
+      },
+      {
+        "comment_id": 24343280,
+        "uid": 109055866,
+        "content": "东方的世界观有大佬可以解释，吗",
+        "createtime": 1582196442,
+        "nickname": "赖着45的9",
+        "avatar": "https://avatar.dmzj.com/95/90/9590d7bce4f9113b62a7492c065d5e82.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

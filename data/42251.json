@@ -1,0 +1,87 @@
+{
+  "id": 42251,
+  "islong": 2,
+  "direction": 1,
+  "title": "阿礼风范",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/171209ali.jpg",
+  "description": "欢乐向，小铃与阿求的戏剧故事，内含灵梦死库水场景~",
+  "last_updatetime": 1512815226,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "alifengfan",
+  "hidden": 0,
+  "hot_num": 82753,
+  "hit_num": 20141,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 70346,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9241,
+      "tag_name": "Public Planet(公星)"
+    }
+  ],
+  "subscribe_num": 384,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 70346,
+          "chapter_title": "1话",
+          "updatetime": 1512815226,
+          "filesize": 3801016,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 22328517,
+        "uid": 100287000,
+        "content": "没了",
+        "createtime": 1574769299,
+        "nickname": "卧是仁",
+        "avatar": "https://avatar.dmzj.com/16/56/16562fb54605c7ded1c62a0b4d82d008.png"
+      },
+      {
+        "comment_id": 22276169,
+        "uid": 107661131,
+        "content": "我好一万次",
+        "createtime": 1574532478,
+        "nickname": "dmzj_107661131",
+        "avatar": "https://avatar.dmzj.com/c0/c1/c0c1531ec1095d08016fd0bfca80e57a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

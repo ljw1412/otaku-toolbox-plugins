@@ -1,0 +1,87 @@
+{
+  "id": 43480,
+  "islong": 2,
+  "direction": 1,
+  "title": "FAR EAST COPY",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/fareastcopy.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1521104849,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fareastcopy",
+  "hidden": 0,
+  "hot_num": 88850,
+  "hit_num": 13969,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 75083,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6352,
+      "tag_name": "皇征介"
+    }
+  ],
+  "subscribe_num": 403,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 75083,
+          "chapter_title": "1话",
+          "updatetime": 1521104849,
+          "filesize": 2539827,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 21355244,
+        "uid": 104823241,
+        "content": "没有博丽灵符差评",
+        "createtime": 1571181116,
+        "nickname": "多多良小伞世界第一",
+        "avatar": "https://avatar.dmzj.com/67/73/6773d906cefda959aaba21d2714596b8.png"
+      },
+      {
+        "comment_id": 4103044,
+        "uid": 100907594,
+        "content": "这作者界面里四个漫画……结界组那个正常的不得了，然后剩下三本他究竟经历了什么？？？",
+        "createtime": 1521223742,
+        "nickname": "泳装终突毛二力",
+        "avatar": "https://avatar.dmzj.com/87/21/872162754d87dd1e264d0a5218adb792.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

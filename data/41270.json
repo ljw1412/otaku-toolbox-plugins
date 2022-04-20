@@ -1,0 +1,87 @@
+{
+  "id": 41270,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C92)SWIMWEAR COLLECTION",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/001c92hjhsune818.jpg",
+  "description": "来自はすね的c92画集。",
+  "last_updatetime": 1503069938,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "swinmwearcollection",
+  "hidden": 0,
+  "hot_num": 484845,
+  "hit_num": 108504,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 68464,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13639,
+      "tag_name": "はすね"
+    }
+  ],
+  "subscribe_num": 2241,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 68464,
+          "chapter_title": "1话",
+          "updatetime": 1503069938,
+          "filesize": 1267299,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 52,
+    "latest_comment": [
+      {
+        "comment_id": 25289953,
+        "uid": 104480640,
+        "content": "6",
+        "createtime": 1584277624,
+        "nickname": "干物之路",
+        "avatar": "https://avatar.dmzj.com/72/43/7243777ce87da0811117f748c8a5b8e5.png"
+      },
+      {
+        "comment_id": 24274855,
+        "uid": 110256811,
+        "content": "香",
+        "createtime": 1582028448,
+        "nickname": "dmzj_110256811",
+        "avatar": "https://avatar.dmzj.com/22/22/22223e537be1e776da4f5879992692ee.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

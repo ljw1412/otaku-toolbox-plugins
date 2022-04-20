@@ -1,0 +1,87 @@
+{
+  "id": 45698,
+  "islong": 2,
+  "direction": 1,
+  "title": "雪之华",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/xuezhihua098.jpg",
+  "description": "东方同人漫画。",
+  "last_updatetime": 1536405976,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xuezhihua",
+  "hidden": 0,
+  "hot_num": 151320,
+  "hit_num": 13943,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 75875,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15057,
+      "tag_name": "风良まり"
+    }
+  ],
+  "subscribe_num": 724,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 75875,
+          "chapter_title": "1话",
+          "updatetime": 1536405976,
+          "filesize": 3643703,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 27,
+    "latest_comment": [
+      {
+        "comment_id": 23630519,
+        "uid": 107741784,
+        "content": "留",
+        "createtime": 1580388502,
+        "nickname": "dmzj_107741784",
+        "avatar": "https://avatar.dmzj.com/51/07/51077d8bec30568aa7e0b2c3ab80d328.png"
+      },
+      {
+        "comment_id": 6889589,
+        "uid": 100890027,
+        "content": "世界美咲剧场 awsl",
+        "createtime": 1537288575,
+        "nickname": "花田丑妇",
+        "avatar": "https://avatar.dmzj.com/26/86/2686ea7dae3fd3eb3f8486d9c01637ab.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

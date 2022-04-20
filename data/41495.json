@@ -1,0 +1,79 @@
+{
+  "id": 41495,
+  "islong": 1,
+  "direction": 2,
+  "title": "呗呗牛",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1052409251505202644.jpg",
+  "description": "苦逼的职场生活需要逗逼的故事",
+  "last_updatetime": 1505202749,
+  "last_update_chapter_name": "加班跟单身是否有关系？",
+  "copyright": 1,
+  "first_letter": "b",
+  "comic_py": "beibeiniu",
+  "hidden": 0,
+  "hot_num": 871,
+  "hit_num": 1231,
+  "uid": 105240925,
+  "is_lock": 0,
+  "last_update_chapter_id": 69178,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13749,
+      "tag_name": "小布rube"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 69178,
+          "chapter_title": "2话",
+          "updatetime": 1505202749,
+          "filesize": 83252,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 69177,
+          "chapter_title": "1话",
+          "updatetime": 1505202689,
+          "filesize": 80051,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

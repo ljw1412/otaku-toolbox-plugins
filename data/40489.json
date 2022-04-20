@@ -1,0 +1,112 @@
+{
+  "id": 40489,
+  "islong": 2,
+  "direction": 2,
+  "title": "战锤40K：战争黎明",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/zhanchui40Kzhanzhengliming.jpg",
+  "description": "赎罪。。。赎罪。。。赎罪。。。 永恒且伟大的帝皇与黄金王座啊，宽恕我们吧。",
+  "last_updatetime": 1518102749,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhanchui40kzhanzhengliming",
+  "hidden": 0,
+  "hot_num": 708536,
+  "hit_num": 568670,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 69666,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13135,
+      "tag_name": "Games Workshop"
+    }
+  ],
+  "subscribe_num": 2972,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 69746,
+          "chapter_title": "4卷",
+          "updatetime": 1517994929,
+          "filesize": 5706056,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 69666,
+          "chapter_title": "3卷",
+          "updatetime": 1518102749,
+          "filesize": 6475637,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 65593,
+          "chapter_title": "2卷",
+          "updatetime": 1507080576,
+          "filesize": 6701631,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 61704,
+          "chapter_title": "1卷",
+          "updatetime": 1495503422,
+          "filesize": 7604318,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 156,
+    "latest_comment": [
+      {
+        "comment_id": 26469497,
+        "uid": 102382885,
+        "content": "塔库斯，作战要用脑袋！    是的，大人！",
+        "createtime": 1586858551,
+        "nickname": "shiningStardust",
+        "avatar": "https://avatar.dmzj.com/94/67/94679e602a2d23da98078cfb2a1c40d8.png"
+      },
+      {
+        "comment_id": 26464170,
+        "uid": 105647081,
+        "content": "别扯千子了，就血鸦这种智库信k的行为，那个千子会承认？",
+        "createtime": 1586843037,
+        "nickname": "A.J in Chaos",
+        "avatar": "https://avatar.dmzj.com/03/f1/03f1afc17347118848246fe262db0610.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

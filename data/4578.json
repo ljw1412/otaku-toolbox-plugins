@@ -1,0 +1,119 @@
+{
+  "id": 4578,
+  "islong": 2,
+  "direction": 1,
+  "title": "安",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/5_320cd9494ae5d0f88e495dd9fa85f695.jpg",
+  "description": "台湾漫画，很日本风格，将中国古典文化与现代幻想结合的作品，《安ANNE》的人间修行",
+  "last_updatetime": 1279456111,
+  "last_update_chapter_name": "VOL5",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "anne",
+  "hidden": 1,
+  "hot_num": 22985,
+  "hit_num": 1254537,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 10027,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2706,
+      "tag_name": "高庆忠"
+    }
+  ],
+  "subscribe_num": 61,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10027,
+          "chapter_title": "5卷",
+          "updatetime": 1280060911,
+          "filesize": 25201372,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 10026,
+          "chapter_title": "4卷",
+          "updatetime": 1280060911,
+          "filesize": 19461906,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 10025,
+          "chapter_title": "3卷",
+          "updatetime": 1280060911,
+          "filesize": 20080288,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 10024,
+          "chapter_title": "2卷",
+          "updatetime": 1280060911,
+          "filesize": 20145250,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 10023,
+          "chapter_title": "1卷",
+          "updatetime": 1280060911,
+          "filesize": 24781569,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 26601605,
+        "uid": 104940511,
+        "content": "科幻漫画",
+        "createtime": 1587203699,
+        "nickname": "火火-小卡",
+        "avatar": "https://avatar.dmzj.com/93/27/9327e2f13571c0d9a9f0a3b802b8b7c1.png"
+      },
+      {
+        "comment_id": 25528916,
+        "uid": 100775472,
+        "content": "可怕",
+        "createtime": 1584795999,
+        "nickname": "秋色小小空",
+        "avatar": "https://avatar.dmzj.com/92/04/9204c87f3db9b9fb788d05fe292ffbbe.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,111 @@
+{
+  "id": 39779,
+  "islong": 1,
+  "direction": 2,
+  "title": "穗子的无聊杂事记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1034950361486730491.jpg",
+  "description": "见过这么无聊的漫画吗？",
+  "last_updatetime": 1487297389,
+  "last_update_chapter_name": "穗子养狗",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "suizidewuliaozashiji",
+  "hidden": 0,
+  "hot_num": 914,
+  "hit_num": 2600,
+  "uid": 103495036,
+  "is_lock": 0,
+  "last_update_chapter_id": 59150,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3253,
+      "tag_name": "宅系"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12885,
+      "tag_name": "跑得飞快"
+    }
+  ],
+  "subscribe_num": 13,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59150,
+          "chapter_title": "3话",
+          "updatetime": 1487297389,
+          "filesize": 145764,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 59115,
+          "chapter_title": "2话",
+          "updatetime": 1487222361,
+          "filesize": 257596,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 58978,
+          "chapter_title": "1话",
+          "updatetime": 1486730558,
+          "filesize": 95960,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 1814163,
+        "uid": 101571556,
+        "content": "开启前六的门扉",
+        "createtime": 1487232103,
+        "nickname": "mjkydtxko8521",
+        "avatar": "https://avatar.dmzj.com/77/62/7762f59cd64384bd21e4969247e7aec5.png"
+      },
+      {
+        "comment_id": 1805011,
+        "uid": 101764806,
+        "content": "关上前五的大门",
+        "createtime": 1487037330,
+        "nickname": "一人心碎一人心累",
+        "avatar": "https://avatar.dmzj.com/1c/e4/1ce4e6a3125e43e995f4612f17d4f7fa.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

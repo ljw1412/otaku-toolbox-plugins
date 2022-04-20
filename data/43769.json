@@ -1,0 +1,87 @@
+{
+  "id": 43769,
+  "islong": 2,
+  "direction": 1,
+  "title": "洩矢绘草子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/xshcz486949l.jpg",
+  "description": "为《东方风神录》各个设定配图的绘本，附以二设向随笔+原捏考据向注释",
+  "last_updatetime": 1523266557,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xieshihuicaozi",
+  "hidden": 0,
+  "hot_num": 255390,
+  "hit_num": 8690,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 71594,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14740,
+      "tag_name": "べにたま"
+    }
+  ],
+  "subscribe_num": 1240,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71594,
+          "chapter_title": "1话",
+          "updatetime": 1523266557,
+          "filesize": 4327842,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 24042742,
+        "uid": 104148887,
+        "content": "先留个爪印",
+        "createtime": 1581496570,
+        "nickname": "空格60740",
+        "avatar": "https://avatar.dmzj.com/e8/f3/e8f3033869399b3d1f527ecf5d7f4a90.png"
+      },
+      {
+        "comment_id": 11496262,
+        "uid": 101271912,
+        "content": "画风爽到不行!\n啊啊，我真是嗨到不行了",
+        "createtime": 1550310503,
+        "nickname": "奇妙莲华",
+        "avatar": "https://avatar.dmzj.com/31/04/310417cb73ce2358825ad582c5192129.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

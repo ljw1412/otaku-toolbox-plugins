@@ -1,0 +1,91 @@
+{
+  "id": 47556,
+  "islong": 2,
+  "direction": 1,
+  "title": "Valentine DASH",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/190221valentinedash.jpg",
+  "description": "恋爱短篇（好甜，wsl）",
+  "last_updatetime": 1550740197,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "v",
+  "comic_py": "valentinedash",
+  "hidden": 0,
+  "hot_num": 857761,
+  "hit_num": 7756,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86050,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7808,
+      "tag_name": "横山太一"
+    }
+  ],
+  "subscribe_num": 3897,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86050,
+          "chapter_title": "1话",
+          "updatetime": 1550740197,
+          "filesize": 885671,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 46,
+    "latest_comment": [
+      {
+        "comment_id": 24237706,
+        "uid": 109727427,
+        "content": "——吃了个寂寞？",
+        "createtime": 1581933435,
+        "nickname": "时透无一郎天下第一",
+        "avatar": "https://avatar.dmzj.com/df/30/df3013b1b359b3d35f8f589e9d37c0c3.png"
+      },
+      {
+        "comment_id": 23036322,
+        "uid": 109745019,
+        "content": "简介涉嫌诈骗（滑稽\n太短啦，糖没进嘴里就化了。",
+        "createtime": 1578028529,
+        "nickname": "奚攸奈",
+        "avatar": "https://avatar.dmzj.com/a4/f8/a4f81f02fa14e13cb467191e1798338d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 45463,
+  "islong": 2,
+  "direction": 1,
+  "title": "食品化沙龙",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/shipinshalong0820vbv.jpg",
+  "description": "如果能变成食物还能复原你会想体会一下吗？",
+  "last_updatetime": 1534752699,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shipinhuashalong",
+  "hidden": 1,
+  "hot_num": 116393,
+  "hit_num": 9589,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 75207,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15078,
+      "tag_name": "Hazuki"
+    }
+  ],
+  "subscribe_num": 535,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 75207,
+          "chapter_title": "1话",
+          "updatetime": 1534752699,
+          "filesize": 2523771,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 48,
+    "latest_comment": [
+      {
+        "comment_id": 9842371,
+        "uid": 105846972,
+        "content": "真滴恐怖",
+        "createtime": 1546960193,
+        "nickname": "一轉攻勢",
+        "avatar": "https://avatar.dmzj.com/43/13/4313cbfbf70517622e373a8856cad865.png"
+      },
+      {
+        "comment_id": 6394125,
+        "uid": 102122566,
+        "content": "细思极恐 碗好像尸块做的",
+        "createtime": 1534825609,
+        "nickname": "=д=",
+        "avatar": "https://avatar.dmzj.com/76/41/7641f2e4ff704acb5e07b3ce585efa5c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

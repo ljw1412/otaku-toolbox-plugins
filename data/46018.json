@@ -1,0 +1,105 @@
+{
+  "id": 46018,
+  "islong": 2,
+  "direction": 1,
+  "title": "七龙珠超",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/qilongzhuchao106.jpg",
+  "description": "龙珠的同人漫画。",
+  "last_updatetime": 1555158126,
+  "last_update_chapter_name": "后編",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qilongzhuchao",
+  "hidden": 0,
+  "hot_num": 730319,
+  "hit_num": 676673,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 83052,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15769,
+      "tag_name": "ヤングなおゆき"
+    }
+  ],
+  "subscribe_num": 3264,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 83052,
+          "chapter_title": "3卷",
+          "updatetime": 1555158126,
+          "filesize": 13068278,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 76748,
+          "chapter_title": "2话",
+          "updatetime": 1538833997,
+          "filesize": 5526257,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 76747,
+          "chapter_title": "1话",
+          "updatetime": 1538833941,
+          "filesize": 5657162,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 168,
+    "latest_comment": [
+      {
+        "comment_id": 26948169,
+        "uid": 109720585,
+        "content": "想起了《超宇宙2》基纽跟黑悟空换身体……简直笑死。????????????????",
+        "createtime": 1588102368,
+        "nickname": "雾霾王",
+        "avatar": "https://avatar.dmzj.com/58/72/5872d04428af99b6b68327ce87489a69.png"
+      },
+      {
+        "comment_id": 26692334,
+        "uid": 104832894,
+        "content": "龙珠的作画水平比大部分漫画都要好。看了好多同人无论作画水平还是剧情都很好。龙珠的同人作品都是一流水准",
+        "createtime": 1587461334,
+        "nickname": "天罗诡道",
+        "avatar": "https://avatar.dmzj.com/18/81/188170bd93702c6add84010562a8c6f9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

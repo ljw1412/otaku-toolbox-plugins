@@ -1,0 +1,87 @@
+{
+  "id": 45325,
+  "islong": 2,
+  "direction": 1,
+  "title": "MEMORIAL MG",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/moemorialmg0811vbvb.jpg",
+  "description": "FGO咕哒玛塔的故事",
+  "last_updatetime": 1533975290,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "memorialmg",
+  "hidden": 0,
+  "hot_num": 253177,
+  "hit_num": 76295,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 80766,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15445,
+      "tag_name": "せきはら"
+    }
+  ],
+  "subscribe_num": 1209,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80766,
+          "chapter_title": "1话",
+          "updatetime": 1533975290,
+          "filesize": 13028693,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 64,
+    "latest_comment": [
+      {
+        "comment_id": 26136374,
+        "uid": 108846613,
+        "content": "终于又找到这本了",
+        "createtime": 1586147574,
+        "nickname": "uuz吃翠香",
+        "avatar": "https://avatar.dmzj.com/10/30/1030103717fbe933431ebe3d4ec94c5d.png"
+      },
+      {
+        "comment_id": 22875477,
+        "uid": 100347566,
+        "content": "型月百合廚請務必看\n（民政局我已經搬過來了",
+        "createtime": 1577417415,
+        "nickname": "SeeleVollereii",
+        "avatar": "https://avatar.dmzj.com/98/20/98208e657319c634c26fb16027348e07.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

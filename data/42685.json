@@ -1,0 +1,91 @@
+{
+  "id": 42685,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C93)WHITE ALBUM2 Heroine's Book",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/WHITEALBUM2HeroinesBook.jpg",
+  "description": "白色相簿2画集",
+  "last_updatetime": 1516009914,
+  "last_update_chapter_name": "画集",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "whitealbum2heroinesbook",
+  "hidden": 0,
+  "hot_num": 8435764,
+  "hit_num": 245615,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72988,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5441,
+      "tag_name": "丸户史明"
+    },
+    {
+      "tag_id": 14269,
+      "tag_name": "なかむらたけし"
+    }
+  ],
+  "subscribe_num": 33416,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72988,
+          "chapter_title": "1话",
+          "updatetime": 1516009914,
+          "filesize": 2083895,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 334,
+    "latest_comment": [
+      {
+        "comment_id": 27096606,
+        "uid": 107809743,
+        "content": "我永远喜欢小木曾雪菜",
+        "createtime": 1588586281,
+        "nickname": "dmzj_107809743",
+        "avatar": "https://avatar.dmzj.com/a8/c7/a8c70d2b512d109a9a139a69255af26e.png"
+      },
+      {
+        "comment_id": 26815925,
+        "uid": 110482764,
+        "content": "白学ᐕ",
+        "createtime": 1587784733,
+        "nickname": "穆泽",
+        "avatar": "https://avatar.dmzj.com/65/05/6505354157ed6537e4ae29644c50f5f7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

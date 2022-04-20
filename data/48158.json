@@ -1,0 +1,89 @@
+{
+  "id": 48158,
+  "islong": 2,
+  "direction": 2,
+  "title": "短笺",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1011887101555399881.jpg",
+  "description": "我喜欢你，你知道吗？",
+  "last_updatetime": 1555399962,
+  "last_update_chapter_name": "全一话",
+  "copyright": 1,
+  "first_letter": "d",
+  "comic_py": "duanjianhsrs",
+  "hidden": 0,
+  "hot_num": 46815,
+  "hit_num": 274914,
+  "uid": 101188710,
+  "is_lock": 0,
+  "last_update_chapter_id": 83144,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16342,
+      "tag_name": "海上榕树"
+    }
+  ],
+  "subscribe_num": 194,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 83144,
+          "chapter_title": "1话",
+          "updatetime": 1555399962,
+          "filesize": 1572087,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 14458074,
+        "uid": 101416093,
+        "content": "其实感觉这男生不要一开始交出来比较好",
+        "createtime": 1555471275,
+        "nickname": "SB的铅笔",
+        "avatar": "https://avatar.dmzj.com/94/59/94599e2ad8f8c6bda302f89b429c0b72.png"
+      },
+      {
+        "comment_id": 14457174,
+        "uid": 104353964,
+        "content": "评论区的鬼才吗哈",
+        "createtime": 1555469912,
+        "nickname": "你的68582",
+        "avatar": "https://avatar.dmzj.com/86/68/86684c972af483e907fa844b5ec24598.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

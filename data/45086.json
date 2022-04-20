@@ -1,0 +1,91 @@
+{
+  "id": 45086,
+  "islong": 2,
+  "direction": 1,
+  "title": "食梦者设定集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/180727smz.jpg",
+  "description": "设定画集",
+  "last_updatetime": 1532666293,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shimengzheshedingji",
+  "hidden": 0,
+  "hot_num": 377088,
+  "hit_num": 232440,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 78820,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 112,
+      "tag_name": "小畑健"
+    },
+    {
+      "tag_id": 390,
+      "tag_name": "大场鸫"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1817,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78820,
+          "chapter_title": "1卷",
+          "updatetime": 1532666293,
+          "filesize": 36804913,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 52,
+    "latest_comment": [
+      {
+        "comment_id": 25111200,
+        "uid": 105627652,
+        "content": "把这个最高的左袖子看成了莱子，以为是性转，还想着其他人怎么没性转 :D",
+        "createtime": 1583848293,
+        "nickname": "mg5th",
+        "avatar": "https://avatar.dmzj.com/42/51/4251b4d76bd3261031e1263f9cd25655.png"
+      },
+      {
+        "comment_id": 24091269,
+        "uid": 100340815,
+        "content": "我竟然买过这个书，原作都没买",
+        "createtime": 1581606713,
+        "nickname": "雪落九天",
+        "avatar": "https://avatar.dmzj.com/27/49/274948b7eaa4c8e744f8c5d7a2ec3709.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

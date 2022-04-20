@@ -1,0 +1,87 @@
+{
+  "id": 43321,
+  "islong": 2,
+  "direction": 1,
+  "title": "恶魔先生与歌",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/emoxianshengyuguo.jpg",
+  "description": "唱歌很烂的天真孩童，实际上切开是黑的，一个黑吃黑的故事",
+  "last_updatetime": 1519992116,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "e",
+  "comic_py": "emoxianshengyuge",
+  "hidden": 0,
+  "hot_num": 1990921,
+  "hit_num": 115682,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 73251,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8662,
+      "tag_name": "森下真"
+    }
+  ],
+  "subscribe_num": 8432,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73251,
+          "chapter_title": "1话",
+          "updatetime": 1519992116,
+          "filesize": 880877,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 135,
+    "latest_comment": [
+      {
+        "comment_id": 25982123,
+        "uid": 109699521,
+        "content": "吓吓吓吓我一跳",
+        "createtime": 1585839872,
+        "nickname": "竹酒仙儿",
+        "avatar": "https://avatar.dmzj.com/90/93/9093f02fb0012c2f16b271f78570e2b6.png"
+      },
+      {
+        "comment_id": 22144908,
+        "uid": 108352552,
+        "content": "奥利给",
+        "createtime": 1573911530,
+        "nickname": "koko酱",
+        "avatar": "https://avatar.dmzj.com/77/28/7728aadca0bcf4b08df10949d50b97c3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 45230,
+  "islong": 2,
+  "direction": 1,
+  "title": "Seyana",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/Seyana20180805.jpg",
+  "description": "VOICEROID名曲官方作品",
+  "last_updatetime": 1533464950,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "seyana",
+  "hidden": 0,
+  "hot_num": 1434405,
+  "hit_num": 48836,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 80558,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9005,
+      "tag_name": "GYARI"
+    }
+  ],
+  "subscribe_num": 6590,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80558,
+          "chapter_title": "1话",
+          "updatetime": 1533464950,
+          "filesize": 1216089,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 302,
+    "latest_comment": [
+      {
+        "comment_id": 26290222,
+        "uid": 109692067,
+        "content": "戳爆萌点",
+        "createtime": 1586480496,
+        "nickname": "dmzj_109692067",
+        "avatar": "https://avatar.dmzj.com/bd/60/bd604bed61c16ef0585c657c6008900e.png"
+      },
+      {
+        "comment_id": 26134907,
+        "uid": 105593499,
+        "content": "se~ya~na~",
+        "createtime": 1586144197,
+        "nickname": "liuguang",
+        "avatar": "https://avatar.dmzj.com/78/85/78851bf5afd89adad7f0e99246815120.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

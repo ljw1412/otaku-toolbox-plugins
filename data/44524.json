@@ -1,0 +1,108 @@
+{
+  "id": 44524,
+  "islong": 2,
+  "direction": 1,
+  "title": "犬Ripper",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/quanRipper.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1528611762,
+  "last_update_chapter_name": "Ripper Lipper",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "quanripper",
+  "hidden": 0,
+  "hot_num": 138827,
+  "hit_num": 26170,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 73842,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15004,
+      "tag_name": "江口"
+    }
+  ],
+  "subscribe_num": 657,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73841,
+          "chapter_title": "汉化组考据",
+          "updatetime": 1528611466,
+          "filesize": 1181989,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 73833,
+          "chapter_title": "3话",
+          "updatetime": 1528611703,
+          "filesize": 3429878,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 73835,
+          "chapter_title": "2话",
+          "updatetime": 1528605085,
+          "filesize": 9188439,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 73842,
+          "chapter_title": "1话",
+          "updatetime": 1528611762,
+          "filesize": 6212408,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 37,
+    "latest_comment": [
+      {
+        "comment_id": 15288886,
+        "uid": 107993717,
+        "content": "好看",
+        "createtime": 1556858059,
+        "nickname": "亘古战魂",
+        "avatar": "https://avatar.dmzj.com/66/04/66046d896c821eda90b1befdd4921934.png"
+      },
+      {
+        "comment_id": 7124091,
+        "uid": 101879141,
+        "content": "dmzj有星屑之舟吗，",
+        "createtime": 1538473689,
+        "nickname": "迪恩车卡",
+        "avatar": "https://avatar.dmzj.com/68/16/68164ea5023bc94d09130ef006802fbc.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

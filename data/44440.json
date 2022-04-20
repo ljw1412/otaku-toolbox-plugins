@@ -1,0 +1,91 @@
+{
+  "id": 44440,
+  "islong": 2,
+  "direction": 1,
+  "title": "花与匕首",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/huayubishou0603.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1528012994,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huayubishou",
+  "hidden": 0,
+  "hot_num": 377246,
+  "hit_num": 14938,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 78155,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6399,
+      "tag_name": "南方纯"
+    },
+    {
+      "tag_id": 10781,
+      "tag_name": "こずみっく"
+    }
+  ],
+  "subscribe_num": 1716,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78155,
+          "chapter_title": "1话",
+          "updatetime": 1528012994,
+          "filesize": 1774937,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 59,
+    "latest_comment": [
+      {
+        "comment_id": 25852069,
+        "uid": 104287759,
+        "content": "好",
+        "createtime": 1585556208,
+        "nickname": "★ げんぱく☆",
+        "avatar": "https://avatar.dmzj.com/28/39/2839f394c7e28edc8213befea662fbf3.png"
+      },
+      {
+        "comment_id": 24976510,
+        "uid": 105877380,
+        "content": "咲夜你终于开窍了！学你爹就完事了！",
+        "createtime": 1583553340,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

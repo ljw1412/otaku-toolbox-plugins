@@ -1,0 +1,87 @@
+{
+  "id": 47170,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔法书国历险记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/mofasjhuguolixianji20190122.jpg",
+  "description": "拼命贯彻自己所选择的生存之道，才是人类的活法，不是吗? ",
+  "last_updatetime": 1548130452,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mofashuguolixianji",
+  "hidden": 0,
+  "hot_num": 210148,
+  "hit_num": 7943,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 85670,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13677,
+      "tag_name": "もや造"
+    }
+  ],
+  "subscribe_num": 922,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85670,
+          "chapter_title": "1话",
+          "updatetime": 1548130452,
+          "filesize": 5234597,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 32,
+    "latest_comment": [
+      {
+        "comment_id": 24141454,
+        "uid": 107672210,
+        "content": "不做人不做人！",
+        "createtime": 1581695563,
+        "nickname": "承太郎必秒Dio",
+        "avatar": "https://avatar.dmzj.com/61/72/617257e10349aaa2cd6206ee575e0540.png"
+      },
+      {
+        "comment_id": 22894539,
+        "uid": 100614065,
+        "content": "小偷组",
+        "createtime": 1577497898,
+        "nickname": "虚空37264",
+        "avatar": "https://avatar.dmzj.com/dc/70/dc703d9016c571b0308d54c83f4f8d3d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

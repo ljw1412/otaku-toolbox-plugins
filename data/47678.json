@@ -1,0 +1,100 @@
+{
+  "id": 47678,
+  "islong": 2,
+  "direction": 2,
+  "title": "能力者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1087276061551105840.jpg",
+  "description": "一个能力者的故事",
+  "last_updatetime": 1551798985,
+  "last_update_chapter_name": "第02话",
+  "copyright": 1,
+  "first_letter": "n",
+  "comic_py": "nenglizhe",
+  "hidden": 0,
+  "hot_num": 65498,
+  "hit_num": 1080206,
+  "uid": 108727606,
+  "is_lock": 0,
+  "last_update_chapter_id": 81973,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16618,
+      "tag_name": "丢了个丢"
+    }
+  ],
+  "subscribe_num": 258,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81973,
+          "chapter_title": "2话",
+          "updatetime": 1551798985,
+          "filesize": 3040682,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 81879,
+          "chapter_title": "1话",
+          "updatetime": 1550363539,
+          "filesize": 1486059,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 16925765,
+        "uid": 108133740,
+        "content": "帮助了基友就没有了后续。感觉第二话最后几句话说得还不错。",
+        "createtime": 1560000268,
+        "nickname": "dmzj_108133740",
+        "avatar": "https://avatar.dmzj.com/dc/69/dc694f493294fc18ef2dd9b7627885b4.png"
+      },
+      {
+        "comment_id": 12444541,
+        "uid": 108170145,
+        "content": "可以 但感觉故事发生得太快了 剧情有点赶",
+        "createtime": 1551888071,
+        "nickname": "请谨设置昵称",
+        "avatar": "https://avatar.dmzj.com/48/73/4873d0ddd6ad1f809ed32748f19dab53.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

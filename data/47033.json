@@ -1,0 +1,87 @@
+{
+  "id": 47033,
+  "islong": 2,
+  "direction": 1,
+  "title": "Starry Sky",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/20190109stsrrysky.jpg",
+  "description": "偶像大师闪耀色彩同人。",
+  "last_updatetime": 1547001369,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "starrysky",
+  "hidden": 0,
+  "hot_num": 209506,
+  "hit_num": 11638,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 80000,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14326,
+      "tag_name": "zooya"
+    }
+  ],
+  "subscribe_num": 1062,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80000,
+          "chapter_title": "1话",
+          "updatetime": 1547001369,
+          "filesize": 3338962,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 34,
+    "latest_comment": [
+      {
+        "comment_id": 15900022,
+        "uid": 105635631,
+        "content": "太可爱了我死了",
+        "createtime": 1557833855,
+        "nickname": "EMXlight",
+        "avatar": "https://avatar.dmzj.com/88/25/882576f8600214edf9bda5cd1b5c1158.png"
+      },
+      {
+        "comment_id": 15283899,
+        "uid": 107460008,
+        "content": "hgfh",
+        "createtime": 1556850346,
+        "nickname": "dmzj_107460008",
+        "avatar": "https://avatar.dmzj.com/19/62/1962315399880b52f0d579a3db0604e4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

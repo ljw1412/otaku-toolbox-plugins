@@ -1,0 +1,87 @@
+{
+  "id": 39760,
+  "islong": 2,
+  "direction": 1,
+  "title": "Embrace blue",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/embraceblue.jpg",
+  "description": "めんくい老师画集",
+  "last_updatetime": 1486794948,
+  "last_update_chapter_name": "画集",
+  "copyright": 0,
+  "first_letter": "e",
+  "comic_py": "embraceblue",
+  "hidden": 0,
+  "hot_num": 704370,
+  "hit_num": 76020,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 62538,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12877,
+      "tag_name": "めんくい (谷拓也)"
+    }
+  ],
+  "subscribe_num": 5611,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 62538,
+          "chapter_title": "1话",
+          "updatetime": 1486794948,
+          "filesize": 1449007,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 38,
+    "latest_comment": [
+      {
+        "comment_id": 25829502,
+        "uid": 104353925,
+        "content": "超级传送门",
+        "createtime": 1585496076,
+        "nickname": "浅弄残阳",
+        "avatar": "https://avatar.dmzj.com/dc/f5/dcf50d3a109d0d18f784cad4c19b112b.png"
+      },
+      {
+        "comment_id": 25623685,
+        "uid": 109432982,
+        "content": "老师nb",
+        "createtime": 1585020010,
+        "nickname": "dmzj_109432982",
+        "avatar": "https://avatar.dmzj.com/f1/f8/f1f86165759cb938253b930792b34f76.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

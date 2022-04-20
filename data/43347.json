@@ -1,0 +1,93 @@
+{
+  "id": 43347,
+  "islong": 2,
+  "direction": 1,
+  "title": "人生阶梯",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1008859111520045304.jpg",
+  "description": "一步一阶梯，后面的路无法回去。",
+  "last_updatetime": 1519994137,
+  "last_update_chapter_name": "序章",
+  "copyright": 1,
+  "first_letter": "r",
+  "comic_py": "renshengjieti",
+  "hidden": 0,
+  "hot_num": 12465,
+  "hit_num": 92547,
+  "uid": 100885911,
+  "is_lock": 0,
+  "last_update_chapter_id": 74278,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14552,
+      "tag_name": "吴光"
+    }
+  ],
+  "subscribe_num": 53,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74278,
+          "chapter_title": "0话",
+          "updatetime": 1519994137,
+          "filesize": 799082,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "超短篇1",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 4039237,
+        "uid": 101610824,
+        "content": "感觉塑造的真不错",
+        "createtime": 1520449368,
+        "nickname": "Mr.xian yu",
+        "avatar": "https://avatar.dmzj.com/46/47/4647e7914c924ee9f03ea57a8db59650.png"
+      },
+      {
+        "comment_id": 4021215,
+        "uid": 104517299,
+        "content": "母上，教师，同学，女儿，孙女～未完待续～",
+        "createtime": 1520220286,
+        "nickname": "心随花落淡",
+        "avatar": "https://avatar.dmzj.com/e3/13/e313a4fa0209cda31e4c0ad5e2806ddf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

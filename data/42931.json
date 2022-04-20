@@ -1,0 +1,105 @@
+{
+  "id": 42931,
+  "islong": 2,
+  "direction": 1,
+  "title": "筋肉香霖摔跤",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/jinrouxianglinshuaijiao.jpg",
+  "description": "哲学向，深奥晦涩的东方同人漫画。",
+  "last_updatetime": 1517306533,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jinrouxianglinshuaijiao",
+  "hidden": 0,
+  "hot_num": 139023,
+  "hit_num": 100017,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72275,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    },
+    {
+      "tag_id": 6219,
+      "tag_name": "节操"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14384,
+      "tag_name": "しげる"
+    }
+  ],
+  "subscribe_num": 527,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72275,
+          "chapter_title": "3话",
+          "updatetime": 1517306533,
+          "filesize": 2925329,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 72273,
+          "chapter_title": "2话",
+          "updatetime": 1517306256,
+          "filesize": 3127238,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 72271,
+          "chapter_title": "1话",
+          "updatetime": 1517304761,
+          "filesize": 2105092,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 130,
+    "latest_comment": [
+      {
+        "comment_id": 27046537,
+        "uid": 107351833,
+        "content": "什么时候画战斗篇呢",
+        "createtime": 1588436734,
+        "nickname": "追云ヽ逐日",
+        "avatar": "https://avatar.dmzj.com/37/13/3713868bc26febf16d66f25518ebf333.png"
+      },
+      {
+        "comment_id": 25253841,
+        "uid": 100399600,
+        "content": "再来再来",
+        "createtime": 1584189836,
+        "nickname": "古拉格大统领",
+        "avatar": "https://avatar.dmzj.com/26/38/2638b811cd353070e2bca594ae60ee49.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

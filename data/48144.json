@@ -1,0 +1,101 @@
+{
+  "id": 48144,
+  "islong": 1,
+  "direction": 1,
+  "title": "绘莉纱南",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/hlsn190415.jpg",
+  "description": "排球部的前辈与后辈的故事~",
+  "last_updatetime": 1557457142,
+  "last_update_chapter_name": "普通话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huilishanan",
+  "hidden": 0,
+  "hot_num": 571175,
+  "hit_num": 2615,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 84760,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16481,
+      "tag_name": "すず林檎"
+    }
+  ],
+  "subscribe_num": 2532,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 84760,
+          "chapter_title": "1话",
+          "updatetime": 1557457142,
+          "filesize": 1544659,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 84759,
+          "chapter_title": "粤语",
+          "updatetime": 1557457055,
+          "filesize": 1548271,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 84615,
+          "chapter_title": "潮汕话",
+          "updatetime": 1557072626,
+          "filesize": 1887969,
+          "chapter_order": 20
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 158,
+    "latest_comment": [
+      {
+        "comment_id": 26697745,
+        "uid": 105209663,
+        "content": "好短",
+        "createtime": 1587476082,
+        "nickname": "谜拟",
+        "avatar": "https://avatar.dmzj.com/37/73/377383be2a3b9fb3182bb63eeeb8fe62.png"
+      },
+      {
+        "comment_id": 24399800,
+        "uid": 107137788,
+        "content": "潮汕人看不懂",
+        "createtime": 1582320561,
+        "nickname": "ovov1234",
+        "avatar": "https://avatar.dmzj.com/90/47/9047ef6cb9b3c5d4ee586a60214e6f4f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

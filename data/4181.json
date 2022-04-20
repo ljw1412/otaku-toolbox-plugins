@@ -1,0 +1,98 @@
+{
+  "id": 4181,
+  "islong": 2,
+  "direction": 1,
+  "title": "龙姬",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/longjiV2.jpg",
+  "description": "一个女生变成神龙",
+  "last_updatetime": 1277713328,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "longji",
+  "hidden": 0,
+  "hot_num": 26530,
+  "hit_num": 1043436,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 7811,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 218,
+      "tag_name": "藤崎真绪"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 137,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 7811,
+          "chapter_title": "2卷",
+          "updatetime": 1278318128,
+          "filesize": 12527899,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 7810,
+          "chapter_title": "1卷",
+          "updatetime": 1278318128,
+          "filesize": 12491270,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 17341590,
+        "uid": 107297967,
+        "content": "龙姬。",
+        "createtime": 1561037555,
+        "nickname": "御辛",
+        "avatar": "https://avatar.dmzj.com/31/23/3123adf8a4f228da6f86cb0a394a212c.png"
+      },
+      {
+        "comment_id": 11420032,
+        "uid": 100700645,
+        "content": "看看",
+        "createtime": 1550206209,
+        "nickname": "wdy",
+        "avatar": "https://avatar.dmzj.com/0f/76/0f766de79dbecf223af88fe8ef09fefa.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

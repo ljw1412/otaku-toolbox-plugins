@@ -1,0 +1,87 @@
+{
+  "id": 41167,
+  "islong": 2,
+  "direction": 1,
+  "title": "迷你魔理主义",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/minimolizhuyi.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1502158117,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "minimolizhuyi",
+  "hidden": 0,
+  "hot_num": 151538,
+  "hit_num": 80674,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 67692,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9478,
+      "tag_name": "十误一会 (会帆)"
+    }
+  ],
+  "subscribe_num": 683,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67692,
+          "chapter_title": "1话",
+          "updatetime": 1502158117,
+          "filesize": 3896765,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 72,
+    "latest_comment": [
+      {
+        "comment_id": 25587462,
+        "uid": 108060134,
+        "content": "在座的各位都是好兄弟",
+        "createtime": 1584939137,
+        "nickname": "dmzj_108060134",
+        "avatar": "https://avatar.dmzj.com/7d/72/7d726342288f1752079e9b6b2a0150a1.png"
+      },
+      {
+        "comment_id": 25136436,
+        "uid": 101616195,
+        "content": "爱了爱了，爷的心都融了。",
+        "createtime": 1583907735,
+        "nickname": "_Sro低调╰",
+        "avatar": "https://avatar.dmzj.com/b9/eb/b9ebe0724aa4ab524e60e55e05775e5e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

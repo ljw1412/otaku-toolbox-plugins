@@ -1,0 +1,91 @@
+{
+  "id": 45588,
+  "islong": 2,
+  "direction": 1,
+  "title": "16bit的感动",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/gandong20180906.jpg",
+  "description": "来自旧时代的感动",
+  "last_updatetime": 1537151428,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "1",
+  "comic_py": "16bitdegandong",
+  "hidden": 0,
+  "hot_num": 1292721,
+  "hit_num": 138172,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 76133,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 444,
+      "tag_name": "若木民喜"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 6101,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76133,
+          "chapter_title": "1话",
+          "updatetime": 1537151428,
+          "filesize": 4875013,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 156,
+    "latest_comment": [
+      {
+        "comment_id": 26775673,
+        "uid": 101634011,
+        "content": "下一次更新是不是兆进制啊",
+        "createtime": 1587666548,
+        "nickname": "Millo",
+        "avatar": "https://avatar.dmzj.com/46/55/4655eceee3b11fd635d2d0e38a833dd6.png"
+      },
+      {
+        "comment_id": 25829251,
+        "uid": 108763147,
+        "content": "女主角今年50多岁……",
+        "createtime": 1585495827,
+        "nickname": "dmzj_108763147",
+        "avatar": "https://avatar.dmzj.com/54/62/54621b04f9030c568b260e66ab4033dc.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

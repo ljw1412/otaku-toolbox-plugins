@@ -1,0 +1,122 @@
+{
+  "id": 40263,
+  "islong": 2,
+  "direction": 1,
+  "title": "日本妖怪大全",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/ribenyaoguaidaquan.jpg",
+  "description": "日本最嚣张的423种妖怪大全",
+  "last_updatetime": 1493033677,
+  "last_update_chapter_name": "第02卷下",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "ribenyaoguaidaquan",
+  "hidden": 0,
+  "hot_num": 570850,
+  "hit_num": 1578495,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 59098,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2495,
+      "tag_name": "水木茂"
+    }
+  ],
+  "subscribe_num": 3208,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59098,
+          "chapter_title": "2.3卷",
+          "updatetime": 1493033677,
+          "filesize": 13159174,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 59097,
+          "chapter_title": "2.2卷",
+          "updatetime": 1493033661,
+          "filesize": 13368899,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 59096,
+          "chapter_title": "2.1卷",
+          "updatetime": 1493033641,
+          "filesize": 13175228,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 59087,
+          "chapter_title": "1.3卷",
+          "updatetime": 1493016140,
+          "filesize": 16960690,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 59086,
+          "chapter_title": "1.2卷",
+          "updatetime": 1493016112,
+          "filesize": 16425970,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 59085,
+          "chapter_title": "1.1卷",
+          "updatetime": 1493016077,
+          "filesize": 16033810,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 192,
+    "latest_comment": [
+      {
+        "comment_id": 26559604,
+        "uid": 104152820,
+        "content": "留",
+        "createtime": 1587060828,
+        "nickname": "qzuser89735834",
+        "avatar": "https://avatar.dmzj.com/f3/bf/f3bf68d2751c554ea70c38fad0098ce6.png"
+      },
+      {
+        "comment_id": 26360986,
+        "uid": 108851389,
+        "content": "哇",
+        "createtime": 1586609532,
+        "nickname": "dmzj_108851389",
+        "avatar": "https://avatar.dmzj.com/b5/84/b58434e7b18eec075f6a71179ae83ffa.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

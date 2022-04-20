@@ -1,0 +1,189 @@
+{
+  "id": 41860,
+  "islong": 2,
+  "direction": 2,
+  "title": "全明星蝙蝠侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/02.jpg",
+  "description": "全明星蝙蝠侠，这是个蝙蝠侠的公路故事",
+  "last_updatetime": 1549546287,
+  "last_update_chapter_name": "第12卷",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "quanmingxingbianfuxia2",
+  "hidden": 0,
+  "hot_num": 210180,
+  "hit_num": 175293,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86192,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 894,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86130,
+          "chapter_title": "14卷",
+          "updatetime": 1549293596,
+          "filesize": 4434804,
+          "chapter_order": 150
+        },
+        {
+          "chapter_id": 86129,
+          "chapter_title": "13卷",
+          "updatetime": 1549293508,
+          "filesize": 3976709,
+          "chapter_order": 140
+        },
+        {
+          "chapter_id": 86192,
+          "chapter_title": "12卷",
+          "updatetime": 1549546287,
+          "filesize": 4146731,
+          "chapter_order": 130
+        },
+        {
+          "chapter_id": 70466,
+          "chapter_title": "11卷",
+          "updatetime": 1508601591,
+          "filesize": 4487023,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 70465,
+          "chapter_title": "10卷",
+          "updatetime": 1508601554,
+          "filesize": 3988756,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 70464,
+          "chapter_title": "9卷",
+          "updatetime": 1508600881,
+          "filesize": 3555004,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 70463,
+          "chapter_title": "8卷",
+          "updatetime": 1508600865,
+          "filesize": 4459629,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 70462,
+          "chapter_title": "7卷",
+          "updatetime": 1508600852,
+          "filesize": 3939392,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 70461,
+          "chapter_title": "6卷",
+          "updatetime": 1508599174,
+          "filesize": 4583762,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 70460,
+          "chapter_title": "5卷",
+          "updatetime": 1508599154,
+          "filesize": 5671183,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 70459,
+          "chapter_title": "4卷",
+          "updatetime": 1508599087,
+          "filesize": 13689617,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 70458,
+          "chapter_title": "3卷",
+          "updatetime": 1508597577,
+          "filesize": 4706723,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 70457,
+          "chapter_title": "2卷",
+          "updatetime": 1508596185,
+          "filesize": 5177606,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 70456,
+          "chapter_title": "1卷",
+          "updatetime": 1508596128,
+          "filesize": 6246268,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 70451,
+          "chapter_title": "诅咒之轮#01",
+          "updatetime": 1508590802,
+          "filesize": 7092612,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 21935546,
+        "uid": 107059822,
+        "content": "123",
+        "createtime": 1572961089,
+        "nickname": "dmzj_107059822",
+        "avatar": "https://avatar.dmzj.com/91/c0/91c051f5db14a0522646f1fd78a084a3.png"
+      },
+      {
+        "comment_id": 12226232,
+        "uid": 101578021,
+        "content": "话说哈维不是在n52《蝙蝠侠与罗宾》28话自杀了吗，这中间有交代吗？",
+        "createtime": 1551545812,
+        "nickname": "尘·风",
+        "avatar": "https://avatar.dmzj.com/e5/10/e510c86df483b873034eeab75af015ab.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 40836,
+  "islong": 2,
+  "direction": 1,
+  "title": "觉醒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/juexing6565684l.jpg",
+  "description": "艾玛纽埃尔·勒巴热的短篇《觉醒》",
+  "last_updatetime": 1499240747,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "juexing",
+  "hidden": 1,
+  "hot_num": 72888,
+  "hit_num": 20270,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 65575,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13431,
+      "tag_name": "艾玛纽埃尔·勒巴热"
+    }
+  ],
+  "subscribe_num": 316,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65575,
+          "chapter_title": "1话",
+          "updatetime": 1499240747,
+          "filesize": 1063174,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 16569413,
+        "uid": 24769510,
+        "content": "无意中点进来，感觉画风很不错，是我喜欢的类型",
+        "createtime": 1559124964,
+        "nickname": "aibajing",
+        "avatar": "https://avatar.dmzj.com/28/53/28530241ce8e902a7215118ccbefee63.png"
+      },
+      {
+        "comment_id": 13270942,
+        "uid": 102320643,
+        "content": "马",
+        "createtime": 1553382784,
+        "nickname": "司力司",
+        "avatar": "https://avatar.dmzj.com/51/65/5165a7dbbe698a0dcc1099b9ff137bcd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

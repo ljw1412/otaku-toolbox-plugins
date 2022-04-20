@@ -1,0 +1,101 @@
+{
+  "id": 47667,
+  "islong": 2,
+  "direction": 1,
+  "title": "昭和异记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/zhaoheyiji111.jpg",
+  "description": "《朝雾的巫女》的同人。虽然设定上是鬼神题材，但实际剧情都是日常向的。",
+  "last_updatetime": 1583137449,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhaoheyiji",
+  "hidden": 0,
+  "hot_num": 211165,
+  "hit_num": 24121,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 98085,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16613,
+      "tag_name": "驮菓子"
+    }
+  ],
+  "subscribe_num": 975,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98085,
+          "chapter_title": "3话",
+          "updatetime": 1583137449,
+          "filesize": 2580001,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 95852,
+          "chapter_title": "2话",
+          "updatetime": 1578245637,
+          "filesize": 3703476,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 86240,
+          "chapter_title": "1话",
+          "updatetime": 1551603430,
+          "filesize": 1836999,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 24943653,
+        "uid": 108488955,
+        "content": "没看过前作，小女孩是亲生的还是收养的？男女主是夫妻吗？",
+        "createtime": 1583481715,
+        "nickname": "svsqfgo",
+        "avatar": "https://avatar.dmzj.com/21/15/2115fe2ca5331bad5e440056df0bc0ca.png"
+      },
+      {
+        "comment_id": 24773071,
+        "uid": 104368907,
+        "content": "看题目就至内容，拜服！",
+        "createtime": 1583141347,
+        "nickname": "非洲老咸鱼",
+        "avatar": "https://avatar.dmzj.com/71/69/7169474b78b6524f3389eaec7d27b530.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

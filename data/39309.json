@@ -1,0 +1,104 @@
+{
+  "id": 39309,
+  "islong": 2,
+  "direction": 2,
+  "title": "我是猫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1012926501480422105.jpg",
+  "description": "一只猫的故事。",
+  "last_updatetime": 1480553107,
+  "last_update_chapter_name": "失恋",
+  "copyright": 1,
+  "first_letter": "w",
+  "comic_py": "woshimaoheiyang",
+  "hidden": 0,
+  "hot_num": 23117,
+  "hit_num": 406084,
+  "uid": 101292650,
+  "is_lock": 0,
+  "last_update_chapter_id": 57055,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11806,
+      "tag_name": "黑羊"
+    }
+  ],
+  "subscribe_num": 213,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 57055,
+          "chapter_title": "2话",
+          "updatetime": 1480553107,
+          "filesize": 1510984,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 57041,
+          "chapter_title": "1话",
+          "updatetime": 1480422183,
+          "filesize": 2215184,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "一只猫的故事。",
+  "comment": {
+    "comment_count": 21,
+    "latest_comment": [
+      {
+        "comment_id": 12844437,
+        "uid": 103896480,
+        "content": "。",
+        "createtime": 1552483519,
+        "nickname": "てち",
+        "avatar": "https://avatar.dmzj.com/41/72/41727a273c4fb2f7d3f2fbd44a64478a.png"
+      },
+      {
+        "comment_id": 10277991,
+        "uid": 100933909,
+        "content": "很温馨吧",
+        "createtime": 1547911469,
+        "nickname": "纯天然萌音",
+        "avatar": "https://avatar.dmzj.com/c6/94/c694d242d2a2c98337a0c04e3ff218a4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

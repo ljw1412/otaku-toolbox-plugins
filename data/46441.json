@@ -1,0 +1,87 @@
+{
+  "id": 46441,
+  "islong": 2,
+  "direction": 1,
+  "title": "非凡绅士联盟",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/feifanshenshilianmeng1114l.jpg",
+  "description": "《非凡绅士联盟》（The League of Extraordinary Gentlemen）是阿兰·摩尔的一部经典漫画，以各种维多利亚时代的奇幻小说的故事为背景，多种小说角色在本篇互动，可以说是一个另类的超级英雄联盟。精彩程度不亚于现在正火的复仇者联盟。 《非凡绅士联盟》曾经有过一部电影，肖恩·康纳利演的，主要根据第一册故事改编。",
+  "last_updatetime": 1542168230,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "feifanshenshilianmeng",
+  "hidden": 0,
+  "hot_num": 159968,
+  "hit_num": 122613,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 82952,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15981,
+      "tag_name": "阿兰·摩尔"
+    }
+  ],
+  "subscribe_num": 762,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82952,
+          "chapter_title": "1卷",
+          "updatetime": 1542168230,
+          "filesize": 23436637,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 11700205,
+        "uid": 100554896,
+        "content": "呀",
+        "createtime": 1550639763,
+        "nickname": "田村橘子",
+        "avatar": "https://avatar.dmzj.com/19/36/1936c30630a9d273b9631bc26f8c4ebd.png"
+      },
+      {
+        "comment_id": 9227191,
+        "uid": 105282220,
+        "content": "终于有人汉化了",
+        "createtime": 1545245525,
+        "nickname": "谁守护着沙滩呢",
+        "avatar": "https://avatar.dmzj.com/89/00/890021a21bdc436e7c726229201a9e73.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

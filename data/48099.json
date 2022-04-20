@@ -1,0 +1,114 @@
+{
+  "id": 48099,
+  "islong": 2,
+  "direction": 2,
+  "title": "阿卓拉-朱鹮之梦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1006119031554521924.jpg",
+  "description": "在那片森林中，与谁同行？",
+  "last_updatetime": 1554692819,
+  "last_update_chapter_name": "第02话 迷失2",
+  "copyright": 1,
+  "first_letter": "a",
+  "comic_py": "azhuolazhuhuanzhimeng",
+  "hidden": 0,
+  "hot_num": 6806,
+  "hit_num": 48650,
+  "uid": 100611903,
+  "is_lock": 0,
+  "last_update_chapter_id": 83701,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11073,
+      "tag_name": "桔五味"
+    }
+  ],
+  "subscribe_num": 29,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 83701,
+          "chapter_title": "2.2话",
+          "updatetime": 1554692819,
+          "filesize": 914362,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 83700,
+          "chapter_title": "2.1话",
+          "updatetime": 1554692637,
+          "filesize": 611706,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 83699,
+          "chapter_title": "1.2话",
+          "updatetime": 1554692576,
+          "filesize": 663212,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 83698,
+          "chapter_title": "1话",
+          "updatetime": 1554522603,
+          "filesize": 509643,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 17960589,
+        "uid": 102003651,
+        "content": "_(:з」∠)_怎么都没什么人",
+        "createtime": 1562563693,
+        "nickname": "柏可喵",
+        "avatar": "https://avatar.dmzj.com/24/82/248261eb8fc7d00db9e025c4eb3dbd52.png"
+      },
+      {
+        "comment_id": 14185800,
+        "uid": 101825736,
+        "content": "第一",
+        "createtime": 1555062981,
+        "nickname": "第一次的茉莉",
+        "avatar": "https://avatar.dmzj.com/9f/75/9f758b82ea884b3682b0a6b7bfb06833.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

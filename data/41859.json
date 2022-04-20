@@ -1,0 +1,102 @@
+{
+  "id": 41859,
+  "islong": 2,
+  "direction": 2,
+  "title": "虐杀原形2：官方漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/nueshayuanxing2.jpg",
+  "description": "《虐杀原形2》的官方漫画是由三个故事组成，详述了《虐杀原形》和《虐杀原形2》之间发生的故事。该漫画于2012年1月17日是“黑马漫画”和“Radical Entertainment游戏工作室”之间的合作的漫画作品。 这个漫画的脚本是Dan Jolley写的，同时他还写了《虐杀原形2》的游戏剧本。每章漫画的已由不同的漫画家绘画。",
+  "last_updatetime": 1508589461,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "nueshayuanxing2",
+  "hidden": 1,
+  "hot_num": 572827,
+  "hit_num": 107159,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 66151,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 2502,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66151,
+          "chapter_title": "2卷",
+          "updatetime": 1508589461,
+          "filesize": 1419272,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 66147,
+          "chapter_title": "1卷",
+          "updatetime": 1508563007,
+          "filesize": 1465918,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 113,
+    "latest_comment": [
+      {
+        "comment_id": 26960550,
+        "uid": 104730177,
+        "content": "打卡",
+        "createtime": 1588164739,
+        "nickname": "VEZ＇NAN S",
+        "avatar": "https://avatar.dmzj.com/20/48/2048d716d97452cc839db0bcb69137c3.png"
+      },
+      {
+        "comment_id": 25676033,
+        "uid": 109307856,
+        "content": "没了？",
+        "createtime": 1585142637,
+        "nickname": "臣妻曰六喰",
+        "avatar": "https://avatar.dmzj.com/e2/76/e276a6253b81946539ad5aa5b67c7224.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 42105,
+  "islong": 2,
+  "direction": 1,
+  "title": "欢迎回家少名公主",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/01hyhjsmgz1126.jpg",
+  "description": "正邪与少名针妙丸的故事。",
+  "last_updatetime": 1511627662,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huanyinghuijiashaominggongzhu",
+  "hidden": 0,
+  "hot_num": 221956,
+  "hit_num": 83024,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 71547,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5104,
+      "tag_name": "ゾウノセ"
+    },
+    {
+      "tag_id": 6141,
+      "tag_name": "卯林"
+    }
+  ],
+  "subscribe_num": 935,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71547,
+          "chapter_title": "1话",
+          "updatetime": 1511627662,
+          "filesize": 3892836,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 37,
+    "latest_comment": [
+      {
+        "comment_id": 24249550,
+        "uid": 104847222,
+        "content": "可以，挺不错的",
+        "createtime": 1581955157,
+        "nickname": "落樱星尘",
+        "avatar": "https://avatar.dmzj.com/52/50/5250aa6d00d3f5b53b7db74048c84ca5.png"
+      },
+      {
+        "comment_id": 22239418,
+        "uid": 105917928,
+        "content": "突然药味",
+        "createtime": 1574356916,
+        "nickname": "木木枭Ծ‸Ծ",
+        "avatar": "https://avatar.dmzj.com/20/24/20243d916beaf11738414406d5cbdb71.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

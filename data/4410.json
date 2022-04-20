@@ -1,0 +1,98 @@
+{
+  "id": 4410,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔石传奇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/moshichuanqiV2.jpg",
+  "description": "每天夢想和莉莉香重逢的希里璐，努力地在城裡求學。但因「傳說中的力量」覺醒，使他被捲入一場宮廷之戰…另一方面，莉莉香的身邊也有異樣",
+  "last_updatetime": 1278841126,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mscq",
+  "hidden": 0,
+  "hot_num": 12018,
+  "hit_num": 461985,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 10599,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 646,
+      "tag_name": "杜真琴"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 50,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10599,
+          "chapter_title": "2卷",
+          "updatetime": 1279445926,
+          "filesize": 15807080,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 10598,
+          "chapter_title": "1卷",
+          "updatetime": 1279445926,
+          "filesize": 15275611,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 26504650,
+        "uid": 108197967,
+        "content": "抢沙发",
+        "createtime": 1586938853,
+        "nickname": "夏＃汐",
+        "avatar": "https://avatar.dmzj.com/10/be/10be8e6913b15a3167bef91c63a4377c.png"
+      },
+      {
+        "comment_id": 959644,
+        "uid": 15312149,
+        "content": "没怎么看懂/晕...",
+        "createtime": 1467263615,
+        "nickname": "笑颜、",
+        "avatar": "https://avatar.dmzj.com/4a/7f/4a7fd7430b9efae525eff8f04a2b01d5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

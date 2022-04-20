@@ -1,0 +1,87 @@
+{
+  "id": 4679,
+  "islong": 2,
+  "direction": 1,
+  "title": "神秘男孩",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/eye0001-19258_64ada254671e81e697af802ff70d698b.jpg",
+  "description": "少女能想到的最佳爱情梦想",
+  "last_updatetime": 1279619915,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "smnh",
+  "hidden": 0,
+  "hot_num": 54143,
+  "hit_num": 1078110,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 9602,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2743,
+      "tag_name": "池野恋"
+    }
+  ],
+  "subscribe_num": 241,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9602,
+          "chapter_title": "1卷",
+          "updatetime": 1280224715,
+          "filesize": 15289281,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 25703025,
+        "uid": 100378600,
+        "content": "挺不错的姐弟恋",
+        "createtime": 1585197763,
+        "nickname": "夏铃娜娜",
+        "avatar": "https://avatar.dmzj.com/db/bc/dbbcc208be3b1578f29f3fe63989e5ef.png"
+      },
+      {
+        "comment_id": 2550426,
+        "uid": 102309500,
+        "content": "一般",
+        "createtime": 1500826844,
+        "nickname": "qzuser6103471",
+        "avatar": "https://avatar.dmzj.com/38/15/3815101e86d7c49159693fe58d466531.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

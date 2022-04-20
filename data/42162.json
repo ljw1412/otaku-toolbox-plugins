@@ -1,0 +1,87 @@
+{
+  "id": 42162,
+  "islong": 2,
+  "direction": 1,
+  "title": "爱情满载",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/171130aiqing.jpg",
+  "description": "来自魔界的神绮大人到红魔馆开家长会的故事。",
+  "last_updatetime": 1512036191,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "aiqingmanzai",
+  "hidden": 0,
+  "hot_num": 436958,
+  "hit_num": 122094,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 71364,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5064,
+      "tag_name": "粟米汤（さとうきび）"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 1937,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71364,
+          "chapter_title": "1话",
+          "updatetime": 1512036191,
+          "filesize": 3543697,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 70,
+    "latest_comment": [
+      {
+        "comment_id": 26245708,
+        "uid": 106019561,
+        "content": "游戏王乱入了啊",
+        "createtime": 1586367203,
+        "nickname": "Ndevil",
+        "avatar": "https://avatar.dmzj.com/0b/12/0b1244b21b777f8ccea9e76f16da5a48.png"
+      },
+      {
+        "comment_id": 24855233,
+        "uid": 109612203,
+        "content": "aws了",
+        "createtime": 1583313284,
+        "nickname": "莫得名字取",
+        "avatar": "https://avatar.dmzj.com/60/17/60177ae7ceee1e22e80fddcaacc79312.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

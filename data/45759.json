@@ -1,0 +1,91 @@
+{
+  "id": 45759,
+  "islong": 2,
+  "direction": 1,
+  "title": "安妮日记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/an0914l.jpg",
+  "description": "《安妮日记》漫画版，德籍犹太人安妮·弗兰克写的日记，是其藏身密室时的生活和情感的记载。",
+  "last_updatetime": 1536914031,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "anniriji",
+  "hidden": 0,
+  "hot_num": 97327,
+  "hit_num": 60226,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 77321,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15634,
+      "tag_name": "安妮·弗兰克"
+    },
+    {
+      "tag_id": 15635,
+      "tag_name": "大卫·波隆斯基"
+    }
+  ],
+  "subscribe_num": 461,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77321,
+          "chapter_title": "1卷",
+          "updatetime": 1536914031,
+          "filesize": 34186717,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 25837509,
+        "uid": 107399832,
+        "content": "这也有吗？",
+        "createtime": 1585505536,
+        "nickname": "幽冥暗影58",
+        "avatar": "https://avatar.dmzj.com/01/c0/01c0dab5aa6cbe8b385668739f3b7ede.png"
+      },
+      {
+        "comment_id": 24714888,
+        "uid": 26056371,
+        "content": "经典",
+        "createtime": 1583010605,
+        "nickname": "孙小小空",
+        "avatar": "https://avatar.dmzj.com/4c/de/4cde506563ff354c68884020bf617420.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

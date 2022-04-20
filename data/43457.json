@@ -1,0 +1,87 @@
+{
+  "id": 43457,
+  "islong": 2,
+  "direction": 1,
+  "title": "Stella Place",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/stellaplace.jpg",
+  "description": "斯特拉的魔法(ステラのまほう) 同人",
+  "last_updatetime": 1520906026,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "stellaplace",
+  "hidden": 1,
+  "hot_num": 158242,
+  "hit_num": 20444,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 74493,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9192,
+      "tag_name": "永山ゆうのん"
+    }
+  ],
+  "subscribe_num": 739,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74493,
+          "chapter_title": "1话",
+          "updatetime": 1520906026,
+          "filesize": 5080392,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 59,
+    "latest_comment": [
+      {
+        "comment_id": 22827823,
+        "uid": 102510264,
+        "content": "你好",
+        "createtime": 1577211622,
+        "nickname": "绅士@百合",
+        "avatar": "https://avatar.dmzj.com/ce/6c/ce6cde0d26f5863f3fae2f90848d24ea.png"
+      },
+      {
+        "comment_id": 6453912,
+        "uid": 103502836,
+        "content": "Stella——————",
+        "createtime": 1535068485,
+        "nickname": "Efrannet",
+        "avatar": "https://avatar.dmzj.com/81/29/8129d276de83ee3e48f78d503cc93944.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,154 @@
+{
+  "id": 41199,
+  "islong": 1,
+  "direction": 2,
+  "title": "危城",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/170811weicheng.jpg",
+  "description": "一个女孩和触手之间发生的温暖故事",
+  "last_updatetime": 1550140112,
+  "last_update_chapter_name": "番外01",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "weichengparororo",
+  "hidden": 0,
+  "hot_num": 4570547,
+  "hit_num": 811567,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 82007,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13597,
+      "tag_name": "Parororo(Paroro)"
+    }
+  ],
+  "subscribe_num": 20214,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82007,
+          "chapter_title": "番外01",
+          "updatetime": 1550140112,
+          "filesize": 344510,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 80592,
+          "chapter_title": "第2部07话",
+          "updatetime": 1545833015,
+          "filesize": 220498,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 79838,
+          "chapter_title": "第2部06话",
+          "updatetime": 1543824130,
+          "filesize": 381131,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 78722,
+          "chapter_title": "第2部05话",
+          "updatetime": 1540961124,
+          "filesize": 316309,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 77837,
+          "chapter_title": "第2部04话",
+          "updatetime": 1538399838,
+          "filesize": 412123,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 76627,
+          "chapter_title": "第2部03话2",
+          "updatetime": 1535022717,
+          "filesize": 689115,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 76541,
+          "chapter_title": "第2部03话",
+          "updatetime": 1534835285,
+          "filesize": 735866,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 76430,
+          "chapter_title": "第2部02话",
+          "updatetime": 1534674208,
+          "filesize": 714890,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 76403,
+          "chapter_title": "第2部01话",
+          "updatetime": 1534580454,
+          "filesize": 427322,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 64083,
+          "chapter_title": "1话",
+          "updatetime": 1502441332,
+          "filesize": 2690338,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1455,
+    "latest_comment": [
+      {
+        "comment_id": 27004518,
+        "uid": 107514090,
+        "content": "好看",
+        "createtime": 1588324157,
+        "nickname": "dmzj_107514090",
+        "avatar": "https://avatar.dmzj.com/24/74/2474c2b77394d9d9eb63a3b2364d06c0.png"
+      },
+      {
+        "comment_id": 26868260,
+        "uid": 100350443,
+        "content": "过于治愈",
+        "createtime": 1587917074,
+        "nickname": "槐安楠",
+        "avatar": "https://avatar.dmzj.com/13/12/13120c04a6a75f02cafeb00faac5385e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 39772,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方青帖·两种喧闹",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/dongfangqingtieliangzhongxuannaofengmianl.jpg",
+  "description": "厄神与丰收神的故事",
+  "last_updatetime": 1486873544,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongfangqingtieliangzhongxuannao",
+  "hidden": 0,
+  "hot_num": 262026,
+  "hit_num": 57963,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 62467,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5114,
+      "tag_name": "ヨハネ"
+    }
+  ],
+  "subscribe_num": 1434,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 62467,
+          "chapter_title": "1话",
+          "updatetime": 1486873544,
+          "filesize": 5078896,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 35,
+    "latest_comment": [
+      {
+        "comment_id": 25854857,
+        "uid": 104500126,
+        "content": "好看",
+        "createtime": 1585563298,
+        "nickname": "想撕剧本的肥猫",
+        "avatar": "https://avatar.dmzj.com/80/54/805410ed802c14e911532d3d3b7ff294.png"
+      },
+      {
+        "comment_id": 24160462,
+        "uid": 105500434,
+        "content": "青帖",
+        "createtime": 1581742335,
+        "nickname": "大新van",
+        "avatar": "https://avatar.dmzj.com/5e/8f/5e8f0943e10731cf9a47f981b7751f85.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

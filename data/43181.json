@@ -1,0 +1,91 @@
+{
+  "id": 43181,
+  "islong": 2,
+  "direction": 1,
+  "title": "The Town Slept",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/thetownslept.jpg",
+  "description": "Fate EXTRA CCC同人漫画",
+  "last_updatetime": 1519015099,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "thetownslept",
+  "hidden": 0,
+  "hot_num": 301502,
+  "hit_num": 117527,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72886,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1343,
+      "tag_name": "樱太助"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1329,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72886,
+          "chapter_title": "1话",
+          "updatetime": 1519015099,
+          "filesize": 5231915,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 52,
+    "latest_comment": [
+      {
+        "comment_id": 25069282,
+        "uid": 105683531,
+        "content": "噢噢噢噢是扎比子我的妈，我也想抱扎比子睡觉！（被制裁）",
+        "createtime": 1583757275,
+        "nickname": "特啊",
+        "avatar": "https://avatar.dmzj.com/84/45/8445cdd19e30be1dd1dc724f1af4a544.png"
+      },
+      {
+        "comment_id": 24891895,
+        "uid": 108376253,
+        "content": "诶，有大佬知道完整版的在那可以买吗？",
+        "createtime": 1583376830,
+        "nickname": "白藤",
+        "avatar": "https://avatar.dmzj.com/69/99/6999fcb97ccb8309eeac37045f36ccac.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

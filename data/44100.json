@@ -1,0 +1,112 @@
+{
+  "id": 44100,
+  "islong": 2,
+  "direction": 2,
+  "title": "异形：尘归尘",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/yixingzhouchuyinmm.jpg",
+  "description": "LV-871的Trono殖民地正在遭受攻击。紧急疏散命令。12岁的马科森和他的妈妈都要去太空港。除了它们……异形!",
+  "last_updatetime": 1575475849,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yixingzouchuyinmai",
+  "hidden": 0,
+  "hot_num": 661224,
+  "hit_num": 117224,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 95565,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 2773,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95565,
+          "chapter_title": "4卷",
+          "updatetime": 1575475849,
+          "filesize": 5378188,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 89863,
+          "chapter_title": "3卷",
+          "updatetime": 1558976064,
+          "filesize": 4912805,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 87173,
+          "chapter_title": "2卷",
+          "updatetime": 1552133305,
+          "filesize": 4415422,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 77168,
+          "chapter_title": "1卷",
+          "updatetime": 1525700330,
+          "filesize": 3559032,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 101,
+    "latest_comment": [
+      {
+        "comment_id": 26758616,
+        "uid": 107083239,
+        "content": "谁有怪形mua？",
+        "createtime": 1587636931,
+        "nickname": "乌尔班大炮",
+        "avatar": "https://avatar.dmzj.com/a9/14/a9149e3dfe88c7e1ef8cf306046a9b8f.png"
+      },
+      {
+        "comment_id": 25533322,
+        "uid": 108513805,
+        "content": "还好还好哈",
+        "createtime": 1584802269,
+        "nickname": "dmzj_108513805",
+        "avatar": "https://avatar.dmzj.com/b8/0f/b80f713a200cf8f8a28394478d0671b7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 45221,
+  "islong": 2,
+  "direction": 1,
+  "title": "MOON CHILD",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/MOON CHILD20180805.jpg",
+  "description": "红美玲X十六夜咲夜的百合",
+  "last_updatetime": 1533435245,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "moonchild",
+  "hidden": 0,
+  "hot_num": 141596,
+  "hit_num": 14990,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 79239,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15057,
+      "tag_name": "风良まり"
+    }
+  ],
+  "subscribe_num": 667,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79239,
+          "chapter_title": "1话",
+          "updatetime": 1533435245,
+          "filesize": 7008306,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 45,
+    "latest_comment": [
+      {
+        "comment_id": 23790026,
+        "uid": 104190351,
+        "content": "美咲：杂瓦鲁多！",
+        "createtime": 1580836905,
+        "nickname": "虎视眈眈丶",
+        "avatar": "https://avatar.dmzj.com/51/18/5118a5816b147042aced3265ede28829.png"
+      },
+      {
+        "comment_id": 23624871,
+        "uid": 107741784,
+        "content": "留",
+        "createtime": 1580371484,
+        "nickname": "dmzj_107741784",
+        "avatar": "https://avatar.dmzj.com/51/07/51077d8bec30568aa7e0b2c3ab80d328.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

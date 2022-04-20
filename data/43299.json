@@ -1,0 +1,273 @@
+{
+  "id": 43299,
+  "islong": 2,
+  "direction": 2,
+  "title": "卓越群英",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/ueyingxiong.jpg",
+  "description": "本刊是《黑暗之夜-金属》的后续衍生企划“超级英雄新纪元”刊物之一，也是其中为数不多的老角色故事。一群久违的英雄在黑暗多元宇宙风波之后重回我们的视野，其中包括一个严肃的科学天才、一个搞笑的话唠、一个暴躁肌肉哥和一位冷静的女性，甚至还有来自艾伦·摩尔自创品牌“全美最佳漫画”中的老角色汤姆·斯壮，看得叫人不禁疑问——这是不是个假DC?",
+  "last_updatetime": 1584242547,
+  "last_update_chapter_name": "第26卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhuoyuequnying",
+  "hidden": 0,
+  "hot_num": 265702,
+  "hit_num": 176323,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 95405,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1165,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95405,
+          "chapter_title": "26卷",
+          "updatetime": 1584242547,
+          "filesize": 4010757,
+          "chapter_order": 270
+        },
+        {
+          "chapter_id": 94303,
+          "chapter_title": "25卷",
+          "updatetime": 1581858290,
+          "filesize": 6220121,
+          "chapter_order": 260
+        },
+        {
+          "chapter_id": 93660,
+          "chapter_title": "24卷",
+          "updatetime": 1580528168,
+          "filesize": 4449086,
+          "chapter_order": 250
+        },
+        {
+          "chapter_id": 92759,
+          "chapter_title": "23卷",
+          "updatetime": 1578199956,
+          "filesize": 4571660,
+          "chapter_order": 240
+        },
+        {
+          "chapter_id": 91689,
+          "chapter_title": "22卷",
+          "updatetime": 1575033477,
+          "filesize": 2936407,
+          "chapter_order": 230
+        },
+        {
+          "chapter_id": 90583,
+          "chapter_title": "21卷",
+          "updatetime": 1572106159,
+          "filesize": 4009220,
+          "chapter_order": 220
+        },
+        {
+          "chapter_id": 89175,
+          "chapter_title": "20卷",
+          "updatetime": 1569653909,
+          "filesize": 4906369,
+          "chapter_order": 210
+        },
+        {
+          "chapter_id": 88365,
+          "chapter_title": "19卷",
+          "updatetime": 1567329833,
+          "filesize": 6496223,
+          "chapter_order": 200
+        },
+        {
+          "chapter_id": 87267,
+          "chapter_title": "18卷",
+          "updatetime": 1564219585,
+          "filesize": 3455571,
+          "chapter_order": 190
+        },
+        {
+          "chapter_id": 86411,
+          "chapter_title": "17卷",
+          "updatetime": 1561810983,
+          "filesize": 3619396,
+          "chapter_order": 180
+        },
+        {
+          "chapter_id": 85303,
+          "chapter_title": "16卷",
+          "updatetime": 1558883888,
+          "filesize": 3850505,
+          "chapter_order": 170
+        },
+        {
+          "chapter_id": 84339,
+          "chapter_title": "15卷",
+          "updatetime": 1556365756,
+          "filesize": 3790219,
+          "chapter_order": 160
+        },
+        {
+          "chapter_id": 83258,
+          "chapter_title": "14卷",
+          "updatetime": 1554038169,
+          "filesize": 4876876,
+          "chapter_order": 150
+        },
+        {
+          "chapter_id": 82531,
+          "chapter_title": "13卷",
+          "updatetime": 1551682067,
+          "filesize": 4342616,
+          "chapter_order": 140
+        },
+        {
+          "chapter_id": 81687,
+          "chapter_title": "12卷",
+          "updatetime": 1549159362,
+          "filesize": 2805234,
+          "chapter_order": 130
+        },
+        {
+          "chapter_id": 80872,
+          "chapter_title": "11卷",
+          "updatetime": 1546740518,
+          "filesize": 3069996,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 79841,
+          "chapter_title": "10卷",
+          "updatetime": 1543826347,
+          "filesize": 2968090,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 78932,
+          "chapter_title": "年刊#01",
+          "updatetime": 1541507973,
+          "filesize": 7206706,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 78658,
+          "chapter_title": "9卷",
+          "updatetime": 1540806785,
+          "filesize": 4429220,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 77785,
+          "chapter_title": "8卷",
+          "updatetime": 1538297872,
+          "filesize": 5389573,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 76730,
+          "chapter_title": "7卷",
+          "updatetime": 1535336134,
+          "filesize": 3847025,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 75608,
+          "chapter_title": "6卷",
+          "updatetime": 1532870392,
+          "filesize": 4423481,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 74629,
+          "chapter_title": "5话",
+          "updatetime": 1530594090,
+          "filesize": 3941683,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 73300,
+          "chapter_title": "4卷",
+          "updatetime": 1527213950,
+          "filesize": 3122932,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 72288,
+          "chapter_title": "3卷",
+          "updatetime": 1524974497,
+          "filesize": 4515584,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 71267,
+          "chapter_title": "2卷",
+          "updatetime": 1522425710,
+          "filesize": 3677033,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 70351,
+          "chapter_title": "1卷",
+          "updatetime": 1519833039,
+          "filesize": 3825835,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 47,
+    "latest_comment": [
+      {
+        "comment_id": 25278705,
+        "uid": 105699567,
+        "content": "话说人蝠你怎么在魔法侧和科学侧都有出场？????",
+        "createtime": 1584246944,
+        "nickname": "dmzj_105699567",
+        "avatar": "https://avatar.dmzj.com/cb/f5/cbf52b5642217abcb8363f659752dd03.png"
+      },
+      {
+        "comment_id": 25278378,
+        "uid": 110455274,
+        "content": "25期碉堡了",
+        "createtime": 1584245972,
+        "nickname": "kingmob",
+        "avatar": "https://avatar.dmzj.com/89/28/8928c11e55372479b8cd4378bb7fec48.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

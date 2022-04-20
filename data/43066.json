@@ -1,0 +1,94 @@
+{
+  "id": 43066,
+  "islong": 2,
+  "direction": 1,
+  "title": "动物朋友同人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/180209dongwu.jpg",
+  "description": "[クイック贿派]动物朋友同人",
+  "last_updatetime": 1518153392,
+  "last_update_chapter_name": "最终话妄想漫画",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongwupengyoutongren",
+  "hidden": 0,
+  "hot_num": 79732,
+  "hit_num": 47423,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72608,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14054,
+      "tag_name": "クイック贿派"
+    }
+  ],
+  "subscribe_num": 382,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72608,
+          "chapter_title": "2话",
+          "updatetime": 1518153392,
+          "filesize": 4745643,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 72607,
+          "chapter_title": "1话",
+          "updatetime": 1518153055,
+          "filesize": 3725734,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 20245471,
+        "uid": 104623075,
+        "content": "最早见到的贿派作品",
+        "createtime": 1568289027,
+        "nickname": "鹧鸪斋主",
+        "avatar": "https://avatar.dmzj.com/36/32/363251e91fb3b1354793209cacd2e86b.png"
+      },
+      {
+        "comment_id": 3851049,
+        "uid": 13175319,
+        "content": "草原斑纹大蛞蝓！",
+        "createtime": 1518183169,
+        "nickname": "太阳薄荷",
+        "avatar": "https://avatar.dmzj.com/76/21/762109c0cef87f9337b1073822b30794.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

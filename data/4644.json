@@ -1,0 +1,98 @@
+{
+  "id": 4644,
+  "islong": 2,
+  "direction": 1,
+  "title": "无谋队长",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/000-a_000fb36eea71ec2fee79af3335394bbc.jpg",
+  "description": "故事分成上下两集。上集还像是校园柔道漫画的样子,下集什么机器人外星人超能力者都跑出来了……这就是漫画狂的柔道版啊！",
+  "last_updatetime": 1279521980,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wumouduizhan",
+  "hidden": 0,
+  "hot_num": 24833,
+  "hit_num": 240141,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 9556,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2707,
+      "tag_name": "岛本和彦"
+    }
+  ],
+  "subscribe_num": 110,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9556,
+          "chapter_title": "2卷",
+          "updatetime": 1280126780,
+          "filesize": 15969974,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9555,
+          "chapter_title": "1卷",
+          "updatetime": 1280126780,
+          "filesize": 17330778,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 10194401,
+        "uid": 102492968,
+        "content": "幸运星！这个特别像幸运星里头的一个店长！",
+        "createtime": 1547728448,
+        "nickname": "冬一",
+        "avatar": "https://avatar.dmzj.com/50/01/5001a39a2af8a3efb56b8af57ec24b74.png"
+      },
+      {
+        "comment_id": 2475354,
+        "uid": 100021290,
+        "content": "这个详细介绍很扯，完全不懂岛本和彦的风格啊……无谋与其说像漫画狂战记，不如说比较接近逆境NINE",
+        "createtime": 1499931666,
+        "nickname": "敛锋猫",
+        "avatar": "https://avatar.dmzj.com/08/f9/08f9b3ebe1e878b1c3c5584242090111.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

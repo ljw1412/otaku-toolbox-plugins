@@ -1,0 +1,409 @@
+{
+  "id": 39330,
+  "islong": 2,
+  "direction": 1,
+  "title": "异世界食堂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/yishijieshitangv2.jpg",
+  "description": "这间食堂的门扉可以从异世界前来……",
+  "last_updatetime": 1563530849,
+  "last_update_chapter_name": "30话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yishijieshitang",
+  "hidden": 0,
+  "hot_num": 16239414,
+  "hit_num": 25970417,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91344,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3327,
+      "tag_name": "美食"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    },
+    {
+      "tag_id": 6316,
+      "tag_name": "轻小说"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1401,
+      "tag_name": "九月タカアキ"
+    },
+    {
+      "tag_id": 12696,
+      "tag_name": "犬塚惇平"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 91989,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91204,
+          "chapter_title": "30话",
+          "updatetime": 1563208248,
+          "filesize": 5838520,
+          "chapter_order": 430
+        },
+        {
+          "chapter_id": 91203,
+          "chapter_title": "29话",
+          "updatetime": 1563208230,
+          "filesize": 5483587,
+          "chapter_order": 420
+        },
+        {
+          "chapter_id": 88835,
+          "chapter_title": "28话",
+          "updatetime": 1556724314,
+          "filesize": 2424733,
+          "chapter_order": 410
+        },
+        {
+          "chapter_id": 88689,
+          "chapter_title": "27话",
+          "updatetime": 1556294691,
+          "filesize": 5851844,
+          "chapter_order": 400
+        },
+        {
+          "chapter_id": 88538,
+          "chapter_title": "26话",
+          "updatetime": 1555948539,
+          "filesize": 5641103,
+          "chapter_order": 390
+        },
+        {
+          "chapter_id": 87946,
+          "chapter_title": "25话",
+          "updatetime": 1554654291,
+          "filesize": 5904780,
+          "chapter_order": 370
+        },
+        {
+          "chapter_id": 87927,
+          "chapter_title": "24话",
+          "updatetime": 1554567059,
+          "filesize": 5029554,
+          "chapter_order": 360
+        },
+        {
+          "chapter_id": 87926,
+          "chapter_title": "23话",
+          "updatetime": 1554566963,
+          "filesize": 5731600,
+          "chapter_order": 350
+        },
+        {
+          "chapter_id": 87938,
+          "chapter_title": "22话",
+          "updatetime": 1554654250,
+          "filesize": 5339902,
+          "chapter_order": 340
+        },
+        {
+          "chapter_id": 87714,
+          "chapter_title": "21话",
+          "updatetime": 1553936467,
+          "filesize": 4602082,
+          "chapter_order": 240
+        },
+        {
+          "chapter_id": 87937,
+          "chapter_title": "20话",
+          "updatetime": 1554621482,
+          "filesize": 4123121,
+          "chapter_order": 230
+        },
+        {
+          "chapter_id": 87700,
+          "chapter_title": "19.5话",
+          "updatetime": 1553872284,
+          "filesize": 3388915,
+          "chapter_order": 220
+        },
+        {
+          "chapter_id": 87526,
+          "chapter_title": "19话",
+          "updatetime": 1552924723,
+          "filesize": 4520846,
+          "chapter_order": 190
+        },
+        {
+          "chapter_id": 87553,
+          "chapter_title": "18话",
+          "updatetime": 1553010444,
+          "filesize": 2368026,
+          "chapter_order": 180
+        },
+        {
+          "chapter_id": 77573,
+          "chapter_title": "17话",
+          "updatetime": 1526746719,
+          "filesize": 3955635,
+          "chapter_order": 160
+        },
+        {
+          "chapter_id": 75228,
+          "chapter_title": "16话",
+          "updatetime": 1521559257,
+          "filesize": 2390874,
+          "chapter_order": 150
+        },
+        {
+          "chapter_id": 73901,
+          "chapter_title": "15话",
+          "updatetime": 1518010978,
+          "filesize": 2393069,
+          "chapter_order": 140
+        },
+        {
+          "chapter_id": 73900,
+          "chapter_title": "14话",
+          "updatetime": 1518010970,
+          "filesize": 2400464,
+          "chapter_order": 130
+        },
+        {
+          "chapter_id": 72606,
+          "chapter_title": "13话",
+          "updatetime": 1514819257,
+          "filesize": 2081408,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 72333,
+          "chapter_title": "12话",
+          "updatetime": 1514043118,
+          "filesize": 2401861,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 71840,
+          "chapter_title": "11话",
+          "updatetime": 1512483795,
+          "filesize": 2045605,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 68730,
+          "chapter_title": "10话",
+          "updatetime": 1503931576,
+          "filesize": 1976786,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 66498,
+          "chapter_title": "9话",
+          "updatetime": 1498138354,
+          "filesize": 2495397,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 66471,
+          "chapter_title": "8话",
+          "updatetime": 1498061358,
+          "filesize": 1824142,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 66108,
+          "chapter_title": "7话",
+          "updatetime": 1496934101,
+          "filesize": 2323993,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 87818,
+          "chapter_title": "6话",
+          "updatetime": 1554296543,
+          "filesize": 1760057,
+          "chapter_order": 51
+        },
+        {
+          "chapter_id": 65018,
+          "chapter_title": "5话",
+          "updatetime": 1493626226,
+          "filesize": 3672526,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 64170,
+          "chapter_title": "4话",
+          "updatetime": 1491313157,
+          "filesize": 2733573,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 62038,
+          "chapter_title": "3话",
+          "updatetime": 1484664405,
+          "filesize": 2065286,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 61380,
+          "chapter_title": "2话",
+          "updatetime": 1482248313,
+          "filesize": 3109967,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 60903,
+          "chapter_title": "1话",
+          "updatetime": 1480693492,
+          "filesize": 7396577,
+          "chapter_order": 10
+        }
+      ]
+    },
+    {
+      "title": "其它汉化版",
+      "data": [
+        {
+          "chapter_id": 91344,
+          "chapter_title": "30话",
+          "updatetime": 1563530849,
+          "filesize": 3231340,
+          "chapter_order": 450
+        },
+        {
+          "chapter_id": 91276,
+          "chapter_title": "29话",
+          "updatetime": 1563453960,
+          "filesize": 4260333,
+          "chapter_order": 440
+        },
+        {
+          "chapter_id": 88344,
+          "chapter_title": "28话",
+          "updatetime": 1555492746,
+          "filesize": 6114413,
+          "chapter_order": 380
+        },
+        {
+          "chapter_id": 87899,
+          "chapter_title": "27话",
+          "updatetime": 1554525518,
+          "filesize": 3545108,
+          "chapter_order": 330
+        },
+        {
+          "chapter_id": 87898,
+          "chapter_title": "26话",
+          "updatetime": 1554525498,
+          "filesize": 3508797,
+          "chapter_order": 320
+        },
+        {
+          "chapter_id": 87897,
+          "chapter_title": "25话",
+          "updatetime": 1554525475,
+          "filesize": 3772738,
+          "chapter_order": 310
+        },
+        {
+          "chapter_id": 87896,
+          "chapter_title": "24话",
+          "updatetime": 1554525454,
+          "filesize": 3101759,
+          "chapter_order": 300
+        },
+        {
+          "chapter_id": 87895,
+          "chapter_title": "23话",
+          "updatetime": 1554525418,
+          "filesize": 3279199,
+          "chapter_order": 290
+        },
+        {
+          "chapter_id": 87894,
+          "chapter_title": "22话",
+          "updatetime": 1554525391,
+          "filesize": 3240155,
+          "chapter_order": 280
+        },
+        {
+          "chapter_id": 87759,
+          "chapter_title": "21话",
+          "updatetime": 1554086475,
+          "filesize": 2205664,
+          "chapter_order": 260
+        },
+        {
+          "chapter_id": 87635,
+          "chapter_title": "20话",
+          "updatetime": 1553657430,
+          "filesize": 4931576,
+          "chapter_order": 210
+        },
+        {
+          "chapter_id": 87541,
+          "chapter_title": "番外猪肉角煮",
+          "updatetime": 1552982121,
+          "filesize": 1882868,
+          "chapter_order": 200
+        },
+        {
+          "chapter_id": 87509,
+          "chapter_title": "19话",
+          "updatetime": 1552909798,
+          "filesize": 4567253,
+          "chapter_order": 170
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4707,
+    "latest_comment": [
+      {
+        "comment_id": 27047868,
+        "uid": 110482764,
+        "content": "时空之门30•下饭",
+        "createtime": 1588438463,
+        "nickname": "穆泽",
+        "avatar": "https://avatar.dmzj.com/65/05/6505354157ed6537e4ae29644c50f5f7.png"
+      },
+      {
+        "comment_id": 27042746,
+        "uid": 100706097,
+        "content": "参观",
+        "createtime": 1588431682,
+        "nickname": "飞翔的意大利面",
+        "avatar": "https://avatar.dmzj.com/45/06/4506399f1214a0f000013b00f5293d40.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

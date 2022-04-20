@@ -1,0 +1,109 @@
+{
+  "id": 48191,
+  "islong": 2,
+  "direction": 1,
+  "title": "Master Up！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/masterup0419.jpg",
+  "description": "为了实现梦想，突进吧社畜道！",
+  "last_updatetime": 1564067195,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "masterup",
+  "hidden": 0,
+  "hot_num": 804504,
+  "hit_num": 2763,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90893,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7978,
+      "tag_name": "涌井想太"
+    },
+    {
+      "tag_id": 7979,
+      "tag_name": "仁藤砂雨"
+    }
+  ],
+  "subscribe_num": 3884,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90893,
+          "chapter_title": "3话",
+          "updatetime": 1564067195,
+          "filesize": 2259602,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 89240,
+          "chapter_title": "2话",
+          "updatetime": 1560172913,
+          "filesize": 1121489,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 87698,
+          "chapter_title": "1话",
+          "updatetime": 1555641540,
+          "filesize": 2940300,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 78,
+    "latest_comment": [
+      {
+        "comment_id": 19638963,
+        "uid": 109281636,
+        "content": "看看",
+        "createtime": 1566413491,
+        "nickname": "GodIsAnAstronaut",
+        "avatar": "https://avatar.dmzj.com/36/59/3659d4bfca573310631eb16b7cc8b799.png"
+      },
+      {
+        "comment_id": 18664644,
+        "uid": 100895192,
+        "content": "过于真实。。。\n隔壁青叶幸运多了。。。\n想起之前的公司。。。",
+        "createtime": 1564130986,
+        "nickname": "竹叶橘。",
+        "avatar": "https://avatar.dmzj.com/16/73/1673814d995ce478e45913172067960c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

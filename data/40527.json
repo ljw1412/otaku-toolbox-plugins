@@ -1,0 +1,87 @@
+{
+  "id": 40527,
+  "islong": 2,
+  "direction": 1,
+  "title": "奇幻世界大百科",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/qihuanshijiedabaikefengmianl.jpg",
+  "description": "电影《魔戒首部曲》、《纳尼亚传奇》……\n游戏《勇者斗恶龙》、《创世纪》、《太空战士》……\n而这类奇幻世界的原型、\n就是横跨西元5世纪到15世纪、\n持续超过1千年的中世纪欧洲！",
+  "last_updatetime": 1495939226,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qihanshijiedabaike",
+  "hidden": 1,
+  "hot_num": 204542,
+  "hit_num": 496297,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 65580,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13264,
+      "tag_name": "幻想世界史研究会"
+    }
+  ],
+  "subscribe_num": 925,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65580,
+          "chapter_title": "1卷",
+          "updatetime": 1495939227,
+          "filesize": 23922281,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 25753197,
+        "uid": 100864641,
+        "content": "好糊",
+        "createtime": 1585314066,
+        "nickname": "鸦陌",
+        "avatar": "https://avatar.dmzj.com/81/28/81288078f537cb9f489695a1caa068fb.png"
+      },
+      {
+        "comment_id": 24585042,
+        "uid": 105875184,
+        "content": "肝啊",
+        "createtime": 1582781025,
+        "nickname": "dmzj_105875184",
+        "avatar": "https://avatar.dmzj.com/a2/78/a278bd36bdf98bbb1739ba909d41d5d9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

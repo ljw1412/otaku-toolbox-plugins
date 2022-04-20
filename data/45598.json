@@ -1,0 +1,91 @@
+{
+  "id": 45598,
+  "islong": 2,
+  "direction": 1,
+  "title": "女装海峡",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/180830nvz.jpg",
+  "description": "女装海峡発売記念ショート漫画！",
+  "last_updatetime": 1535595581,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "nvzhuanghaixia",
+  "hidden": 0,
+  "hot_num": 970717,
+  "hit_num": 25062,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 75524,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4595,
+      "tag_name": "あおぎりぺんた"
+    }
+  ],
+  "subscribe_num": 4405,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 75524,
+          "chapter_title": "1话",
+          "updatetime": 1535595581,
+          "filesize": 1355572,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 185,
+    "latest_comment": [
+      {
+        "comment_id": 26117054,
+        "uid": 107098152,
+        "content": "天啊",
+        "createtime": 1586100830,
+        "nickname": "凤王之瞳",
+        "avatar": "https://avatar.dmzj.com/67/98/6798871a6909b87eab461dfcb662d007.png"
+      },
+      {
+        "comment_id": 25522776,
+        "uid": 106161158,
+        "content": "キャラメルBOX ensemble 脑内彼女 男の娘ソフト Catear CAGE Navel  おとこの娘倶楽部 デジタルＧパワー\nノアールソフト フリルボーイ  マリンハート  さいくらの～しゅ  请记住这些为伪娘发展做出贡献的社团",
+        "createtime": 1584781422,
+        "nickname": "路西法传教士路人A",
+        "avatar": "https://avatar.dmzj.com/89/21/892162e41db9c61f84e5ff3d0a7a864c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

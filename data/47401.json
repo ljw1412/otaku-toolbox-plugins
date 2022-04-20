@@ -1,0 +1,96 @@
+{
+  "id": 47401,
+  "islong": 2,
+  "direction": 2,
+  "title": "寻——霹雳日月同人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1002546261549166255.jpg",
+  "description": "霹雳日月同人，素还真X谈无欲",
+  "last_updatetime": 1549168089,
+  "last_update_chapter_name": "第02话 白莲",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xun-piliriyuetongren",
+  "hidden": 0,
+  "hot_num": 11470,
+  "hit_num": 56729,
+  "uid": 100254626,
+  "is_lock": 0,
+  "last_update_chapter_id": 85644,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16482,
+      "tag_name": "吾从梦"
+    }
+  ],
+  "subscribe_num": 48,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85644,
+          "chapter_title": "2话",
+          "updatetime": 1549168089,
+          "filesize": 638476,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 85643,
+          "chapter_title": "1话",
+          "updatetime": 1549177696,
+          "filesize": 1086951,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "不要吐槽白莲花不是白的（笑），调色失败了",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 12300945,
+        "uid": 101754468,
+        "content": "居然还有这个，日月啊啊啊啊，我的素还真和谈谈啊",
+        "createtime": 1551658603,
+        "nickname": "男神阿托斯",
+        "avatar": "https://avatar.dmzj.com/11/94/119490587f5319715f7e26fbfdab53c3.png"
+      },
+      {
+        "comment_id": 11971705,
+        "uid": 100954021,
+        "content": "道友",
+        "createtime": 1551139460,
+        "nickname": "加布瑞恩",
+        "avatar": "https://avatar.dmzj.com/63/62/6362d532d61f3a607bded58399f5afd7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

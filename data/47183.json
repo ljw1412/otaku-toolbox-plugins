@@ -1,0 +1,91 @@
+{
+  "id": 47183,
+  "islong": 2,
+  "direction": 1,
+  "title": "咲魔理闺中密谈",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/xiaomoliguizhongmitan1111.jpg",
+  "description": "东方的同人日常漫画。",
+  "last_updatetime": 1548165431,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaomoliguizhongmitan",
+  "hidden": 0,
+  "hot_num": 156398,
+  "hit_num": 5156,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 80445,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16353,
+      "tag_name": "Tungsten"
+    }
+  ],
+  "subscribe_num": 749,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80445,
+          "chapter_title": "1话",
+          "updatetime": 1548165431,
+          "filesize": 3683021,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 71,
+    "latest_comment": [
+      {
+        "comment_id": 17346875,
+        "uid": 106256831,
+        "content": "寻宝大师驾到，这本也毫不犹豫的收下啦~",
+        "createtime": 1561045980,
+        "nickname": "雾上神奈",
+        "avatar": "https://avatar.dmzj.com/20/62/20621c70c44c90fedb4080b485b1f1c9.png"
+      },
+      {
+        "comment_id": 15171447,
+        "uid": 105417913,
+        "content": "这个有点少啊",
+        "createtime": 1556644367,
+        "nickname": "泽希利亚DAZE",
+        "avatar": "https://avatar.dmzj.com/c3/79/c379e3f8c51e290bcc7c6f32f6bd601c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 39358,
+  "islong": 2,
+  "direction": 1,
+  "title": "猫汤",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/640maotang127.jpg",
+  "description": "猎奇，阴暗，弱肉强食的猫汤世界物语",
+  "last_updatetime": 1481040340,
+  "last_update_chapter_name": "大魔道师之卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "maotang",
+  "hidden": 1,
+  "hot_num": 197427,
+  "hit_num": 95408,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 55536,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12702,
+      "tag_name": "ねこぢる"
+    }
+  ],
+  "subscribe_num": 1295,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 55536,
+          "chapter_title": "1卷",
+          "updatetime": 1481040341,
+          "filesize": 810193,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 88,
+    "latest_comment": [
+      {
+        "comment_id": 26428283,
+        "uid": 104691387,
+        "content": "看不了马一下先",
+        "createtime": 1586764430,
+        "nickname": "直到失去了才懂得珍惜",
+        "avatar": "https://avatar.dmzj.com/69/14/691428b1a2ae2cc7f7b54f09db0132d5.png"
+      },
+      {
+        "comment_id": 26064632,
+        "uid": 101587726,
+        "content": "黑暗童话",
+        "createtime": 1586006270,
+        "nickname": "尕雅＊东",
+        "avatar": "https://avatar.dmzj.com/eb/42/eb4295b4ae19eafdba112fef9a1b6778.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

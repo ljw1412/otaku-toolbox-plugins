@@ -1,0 +1,95 @@
+{
+  "id": 39181,
+  "islong": 2,
+  "direction": 2,
+  "title": "浮士德",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/fushide.jpg",
+  "description": "德语漫画发布，世界名著系列——《浮士德》。",
+  "last_updatetime": 1478783570,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fushide",
+  "hidden": 1,
+  "hot_num": 12743,
+  "hit_num": 64535,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 58788,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12611,
+      "tag_name": "bsv"
+    },
+    {
+      "tag_id": 12612,
+      "tag_name": "约翰·沃尔夫冈·冯·歌德"
+    }
+  ],
+  "subscribe_num": 192,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 58788,
+          "chapter_title": "1卷",
+          "updatetime": 1478783570,
+          "filesize": 6104136,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 25911457,
+        "uid": 101753563,
+        "content": "非常棒！",
+        "createtime": 1585676433,
+        "nickname": "云中超人",
+        "avatar": "https://avatar.dmzj.com/92/02/9202c7a2886ae7640a340e2195198565.png"
+      },
+      {
+        "comment_id": 25261462,
+        "uid": 106100064,
+        "content": "歌德流啤",
+        "createtime": 1584199697,
+        "nickname": "dmzj_106100064",
+        "avatar": "https://avatar.dmzj.com/d2/4f/d24f28d7d32e61f8c5d1b5cd7608a44a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 42036,
+  "islong": 2,
+  "direction": 1,
+  "title": "心形巧克力",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/687a7714c353d445bb127b6bbohewuxl1117.jpg",
+  "description": "薄荷舞系列",
+  "last_updatetime": 1510929344,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xinxingqiaokeli",
+  "hidden": 0,
+  "hot_num": 472288,
+  "hit_num": 49838,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 69705,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4945,
+      "tag_name": "笃见唯子"
+    }
+  ],
+  "subscribe_num": 2167,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 69705,
+          "chapter_title": "1话",
+          "updatetime": 1510929344,
+          "filesize": 1152829,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 49,
+    "latest_comment": [
+      {
+        "comment_id": 26840385,
+        "uid": 110489262,
+        "content": "平淡赛高",
+        "createtime": 1587835978,
+        "nickname": "No7",
+        "avatar": "https://avatar.dmzj.com/15/23/15237d369678b193479a71277b3b091c.png"
+      },
+      {
+        "comment_id": 25971205,
+        "uid": 105622433,
+        "content": "笃见画了好多天麻本啊",
+        "createtime": 1585823667,
+        "nickname": "柳川沙奈",
+        "avatar": "https://avatar.dmzj.com/92/91/929130e678661105c383283afb726cbb.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

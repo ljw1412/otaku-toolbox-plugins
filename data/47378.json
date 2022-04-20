@@ -1,0 +1,87 @@
+{
+  "id": 47378,
+  "islong": 2,
+  "direction": 1,
+  "title": "发情之书",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/190206fqzs.jpg",
+  "description": "是乃还是老样子啊",
+  "last_updatetime": 1549425251,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "faqingzhishu",
+  "hidden": 0,
+  "hot_num": 1229749,
+  "hit_num": 97128,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 81012,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5076,
+      "tag_name": "是乃"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 5338,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81012,
+          "chapter_title": "1话",
+          "updatetime": 1549425251,
+          "filesize": 3521133,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 601,
+    "latest_comment": [
+      {
+        "comment_id": 27066873,
+        "uid": 110644583,
+        "content": "wdnmd，太可怕了[狗头]",
+        "createtime": 1588501707,
+        "nickname": "达斯维达857",
+        "avatar": "https://avatar.dmzj.com/85/02/850231caac76af460c484a13f6506a7d.png"
+      },
+      {
+        "comment_id": 26858908,
+        "uid": 107483390,
+        "content": "不愧是是乃老师！轻而易举就想到了别人想不到的play！",
+        "createtime": 1587900125,
+        "nickname": "某个死宅",
+        "avatar": "https://avatar.dmzj.com/95/12/9512682a69c04f79ebea7df78099c054.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

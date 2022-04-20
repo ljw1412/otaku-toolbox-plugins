@@ -1,0 +1,91 @@
+{
+  "id": 47324,
+  "islong": 2,
+  "direction": 1,
+  "title": "猫之日",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/maozhiri111.jpg",
+  "description": "我是猫。",
+  "last_updatetime": 1548944122,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "maozhiri",
+  "hidden": 0,
+  "hot_num": 270300,
+  "hit_num": 2705,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 81620,
+  "authors": [
+    {
+      "tag_id": 147,
+      "tag_name": "志村贵子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "subscribe_num": 1212,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81620,
+          "chapter_title": "1话",
+          "updatetime": 1548944122,
+          "filesize": 605892,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 18431718,
+        "uid": 106389222,
+        "content": "想看原文( ﾉД`)这个口吻应该是猫咪在渐渐忘记人类的语言吗？",
+        "createtime": 1563587135,
+        "nickname": "鸮无声息",
+        "avatar": "https://avatar.dmzj.com/15/40/1540cb376e42ba45e5691e6e596c9104.png"
+      },
+      {
+        "comment_id": 17962539,
+        "uid": 105456572,
+        "content": "深陷三角恋且死去的女孩成了另外一对情侣的猫?",
+        "createtime": 1562567755,
+        "nickname": "小苋川千明",
+        "avatar": "https://avatar.dmzj.com/74/96/7496fed19e7bc34739e51f0e03aa7124.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

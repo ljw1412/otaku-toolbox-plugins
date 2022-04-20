@@ -1,0 +1,100 @@
+{
+  "id": 44701,
+  "islong": 2,
+  "direction": 2,
+  "title": "天堂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1008169961530944920.jpg",
+  "description": "就是小日常吧，随便画画看，顺便存脑洞",
+  "last_updatetime": 1530454908,
+  "last_update_chapter_name": "第01话：这个见钱眼开的世界",
+  "copyright": 1,
+  "first_letter": "t",
+  "comic_py": "tiantang",
+  "hidden": 0,
+  "hot_num": 1975,
+  "hit_num": 7203,
+  "uid": 100816996,
+  "is_lock": 0,
+  "last_update_chapter_id": 77943,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15151,
+      "tag_name": "小譶"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77943,
+          "chapter_title": "1话",
+          "updatetime": 1530454908,
+          "filesize": 210090,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 77678,
+          "chapter_title": "0话",
+          "updatetime": 1529738363,
+          "filesize": 379544,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "更新时间：作者什么时候不懒",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 5517488,
+        "uid": 100487454,
+        "content": "贫穷连重生都限制了吗。。。。",
+        "createtime": 1531138484,
+        "nickname": "白羽知",
+        "avatar": "https://avatar.dmzj.com/22/21/222133e0709fcbd6eb83d17944481c53.png"
+      },
+      {
+        "comment_id": 5304966,
+        "uid": 100487454,
+        "content": "关注，默默地等待更新",
+        "createtime": 1530009546,
+        "nickname": "白羽知",
+        "avatar": "https://avatar.dmzj.com/22/21/222133e0709fcbd6eb83d17944481c53.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

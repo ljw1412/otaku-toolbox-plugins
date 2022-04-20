@@ -1,0 +1,98 @@
+{
+  "id": 47224,
+  "islong": 2,
+  "direction": 1,
+  "title": "直到世界尽头",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/20190126zdsjjt.jpg",
+  "description": "这是女孩子、大叔、小哥哥小姐姐们充满烦恼、欢笑与悲伤的旅途\n",
+  "last_updatetime": 1549619406,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhidaoshijiejintou",
+  "hidden": 0,
+  "hot_num": 873789,
+  "hit_num": 51806,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 81829,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11660,
+      "tag_name": "こう1"
+    }
+  ],
+  "subscribe_num": 4153,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81829,
+          "chapter_title": "2话",
+          "updatetime": 1549619406,
+          "filesize": 1836603,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 81419,
+          "chapter_title": "1话",
+          "updatetime": 1548481913,
+          "filesize": 1651475,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 94,
+    "latest_comment": [
+      {
+        "comment_id": 23817901,
+        "uid": 100677288,
+        "content": "这标题？欢乐向？还有断更都一年了",
+        "createtime": 1580918073,
+        "nickname": "Zaffiro",
+        "avatar": "https://avatar.dmzj.com/74/40/74400b16eb6834c40dde23e64caa708c.png"
+      },
+      {
+        "comment_id": 20179663,
+        "uid": 100380593,
+        "content": "这被腰斩了吗？好久没更新了",
+        "createtime": 1568085099,
+        "nickname": "Ao北川",
+        "avatar": "https://avatar.dmzj.com/84/55/8455f8b054b13ccd3df8c76e45fb34e1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

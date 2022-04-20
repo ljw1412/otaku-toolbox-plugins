@@ -1,0 +1,91 @@
+{
+  "id": 41619,
+  "islong": 2,
+  "direction": 1,
+  "title": "不良×写生",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/170928buliangfml.jpg",
+  "description": "人生中只有打架的不良，遇上了最为凶恶的偷袭！",
+  "last_updatetime": 1506568066,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "buliangxiesheng",
+  "hidden": 0,
+  "hot_num": 188049,
+  "hit_num": 222504,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 65449,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12333,
+      "tag_name": "ヨシカゲ"
+    }
+  ],
+  "subscribe_num": 812,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65449,
+          "chapter_title": "1话",
+          "updatetime": 1506568066,
+          "filesize": 8174858,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 23210455,
+        "uid": 101853325,
+        "content": "额，我什么时候订阅的",
+        "createtime": 1578731280,
+        "nickname": "逝去将不在",
+        "avatar": "https://avatar.dmzj.com/54/96/5496f3f7ada168e7c9c8823acef580d3.png"
+      },
+      {
+        "comment_id": 22768053,
+        "uid": 107860515,
+        "content": "操",
+        "createtime": 1576995701,
+        "nickname": "十庸",
+        "avatar": "https://avatar.dmzj.com/79/b6/79b67b4bdf34de68fb93cd276b15d57f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

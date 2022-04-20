@@ -1,0 +1,91 @@
+{
+  "id": 4205,
+  "islong": 2,
+  "direction": 2,
+  "title": "宁静号",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/serenity.jpg",
+  "description": "只有一季的Firefly却被之后捧为经典 然而在电影版推出后 再出剧集已是很难 只有靠动漫来补足空档了 在这里展示了未来社会是一个说英语写中文的时代 所以人物们经常会冷不丁地冒几句中文。 此剧时空背景设定于2517年，人类已探索远行到新的星系。 这个未来世界，只剩美国和中国两个超级强权，两国共组中央联邦政府，文化相互融合，称为“星际联盟”。",
+  "last_updatetime": 1278487212,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "ningjinghao",
+  "hidden": 0,
+  "hot_num": 14888,
+  "hit_num": 122192,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 10422,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2530,
+      "tag_name": "Joss Whedon "
+    },
+    {
+      "tag_id": 2531,
+      "tag_name": "Brett Matthews"
+    }
+  ],
+  "subscribe_num": 81,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10422,
+          "chapter_title": "1话",
+          "updatetime": 1278487207,
+          "filesize": 3068300,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 26763810,
+        "uid": 103446872,
+        "content": "那么经典的萤火虫一季就被砍了",
+        "createtime": 1587649301,
+        "nickname": "转世魔女",
+        "avatar": "https://avatar.dmzj.com/3e/66/3e66f18c28a59f0954db059c34649cee.png"
+      },
+      {
+        "comment_id": 152832,
+        "uid": 460218,
+        "content": "怎么不更了",
+        "createtime": 1377871833,
+        "nickname": "zpcmatrix",
+        "avatar": "https://avatar.dmzj.com/ee/33/ee33417ecce820aa945ee0917724f611.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

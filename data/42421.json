@@ -1,0 +1,111 @@
+{
+  "id": 42421,
+  "islong": 2,
+  "direction": 1,
+  "title": "漫画分镜编剧道",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1002864521514050966.jpg",
+  "description": "道先生近年从事漫画教学业的心得分享，内容涵盖漫画技法、集结学生的问题解答、观念迷思，希望提供漫画创作者多元的观念。藉由观察、归纳、思考、演练来学习漫画吧！",
+  "last_updatetime": 1514906632,
+  "last_update_chapter_name": "内外/时空/图像/文字/三角形/基础功",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "manhuafenjingbianjudao",
+  "hidden": 0,
+  "hot_num": 64171,
+  "hit_num": 567467,
+  "uid": 100286452,
+  "is_lock": 0,
+  "last_update_chapter_id": 71167,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10116,
+      "tag_name": "黄道"
+    }
+  ],
+  "subscribe_num": 292,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71167,
+          "chapter_title": "3话",
+          "updatetime": 1514906632,
+          "filesize": 774963,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 70825,
+          "chapter_title": "2话",
+          "updatetime": 1514052494,
+          "filesize": 750634,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 70824,
+          "chapter_title": "1话",
+          "updatetime": 1514051928,
+          "filesize": 443705,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "我的微博欢迎加入！！https://weibo.com/u/3966548579",
+  "comic_notice": "Lofter道先生：http://mangado0715.lofter.com",
+  "comment": {
+    "comment_count": 21,
+    "latest_comment": [
+      {
+        "comment_id": 22993019,
+        "uid": 100805521,
+        "content": "非常感谢您！",
+        "createtime": 1577863766,
+        "nickname": "路易52705",
+        "avatar": "https://avatar.dmzj.com/f6/5e/f65e2eee5b865a7289617ec57a6917f5.png"
+      },
+      {
+        "comment_id": 22668103,
+        "uid": 108585382,
+        "content": "很喜欢这种干货",
+        "createtime": 1576600830,
+        "nickname": "砚冰凝",
+        "avatar": "https://avatar.dmzj.com/69/87/6987a2d8fcbde65c8225ef999dd2034b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

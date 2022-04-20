@@ -1,0 +1,91 @@
+{
+  "id": 45296,
+  "islong": 2,
+  "direction": 1,
+  "title": "秘密的事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/mimi20180809.jpg",
+  "description": "高糖，主角组，灵梦和魔理沙的甜蜜故事~",
+  "last_updatetime": 1533806639,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mimideshi",
+  "hidden": 0,
+  "hot_num": 175173,
+  "hit_num": 14141,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 79426,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15429,
+      "tag_name": "いつき"
+    }
+  ],
+  "subscribe_num": 840,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79426,
+          "chapter_title": "1话",
+          "updatetime": 1533806639,
+          "filesize": 3313560,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 19895224,
+        "uid": 104771421,
+        "content": "秘密的事",
+        "createtime": 1567170883,
+        "nickname": "莹之冢",
+        "avatar": "https://avatar.dmzj.com/60/85/60853074f4c8d0b57297ea85ed79acde.png"
+      },
+      {
+        "comment_id": 17539816,
+        "uid": 107123909,
+        "content": "好看",
+        "createtime": 1561636758,
+        "nickname": "秋十",
+        "avatar": "https://avatar.dmzj.com/33/24/3324dc4ca6733dea4f697bd7310c1d29.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

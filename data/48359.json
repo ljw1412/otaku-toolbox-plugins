@@ -1,0 +1,112 @@
+{
+  "id": 48359,
+  "islong": 2,
+  "direction": 1,
+  "title": "奇恋",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/190505ql.jpg",
+  "description": "在路上捡到一只屌的少女，和名流度过的夏天，满载着各种奇幻恋情的短篇集",
+  "last_updatetime": 1565772432,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qiliannikumanko",
+  "hidden": 1,
+  "hot_num": 302526,
+  "hit_num": 13903,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 87842,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    },
+    {
+      "tag_id": 6219,
+      "tag_name": "节操"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16966,
+      "tag_name": "にくまん子"
+    }
+  ],
+  "subscribe_num": 1585,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87842,
+          "chapter_title": "4话",
+          "updatetime": 1565772432,
+          "filesize": 8118688,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 85881,
+          "chapter_title": "3话",
+          "updatetime": 1560330084,
+          "filesize": 2001781,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 85385,
+          "chapter_title": "2话",
+          "updatetime": 1559138027,
+          "filesize": 834020,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 84573,
+          "chapter_title": "1话",
+          "updatetime": 1557038327,
+          "filesize": 3045066,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 325,
+    "latest_comment": [
+      {
+        "comment_id": 26723737,
+        "uid": 102221823,
+        "content": "有点意思",
+        "createtime": 1587550398,
+        "nickname": "驻扎南极圈资深专家",
+        "avatar": "https://avatar.dmzj.com/57/36/5736a14a4b8498f0e38b8d068b9aa81e.png"
+      },
+      {
+        "comment_id": 26590230,
+        "uid": 104903922,
+        "content": "第四话也太现实了(…)",
+        "createtime": 1587157508,
+        "nickname": "sosososuki",
+        "avatar": "https://avatar.dmzj.com/e8/75/e8754304d2f4b162a39221d149831a8b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

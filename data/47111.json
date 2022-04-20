@@ -1,0 +1,147 @@
+{
+  "id": 47111,
+  "islong": 2,
+  "direction": 2,
+  "title": "漫威精彩呈现",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/manweijingcaichengxian111.jpg",
+  "description": "本刊是漫威八十周年纪念的特别项目，每期都通过三个小故事描述漫威宇宙十年之中发生的故事。通过本系列，我们将与漫威漫画一起回顾八十年来悠久的历史，并展望更加辉煌的未来……\n首期将聚焦上世纪40年代，漫威最早的一批超级英雄：美国队长与纳摩，将在二战中为整个漫威宇宙奠基。",
+  "last_updatetime": 1569662029,
+  "last_update_chapter_name": "第09卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "manweijingcaichengxian",
+  "hidden": 0,
+  "hot_num": 215325,
+  "hit_num": 73871,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93267,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1061,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93267,
+          "chapter_title": "9卷",
+          "updatetime": 1569662029,
+          "filesize": 6590559,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 92084,
+          "chapter_title": "8卷",
+          "updatetime": 1566723961,
+          "filesize": 5238625,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 91245,
+          "chapter_title": "7卷",
+          "updatetime": 1564924617,
+          "filesize": 5308212,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 89923,
+          "chapter_title": "6卷",
+          "updatetime": 1561972984,
+          "filesize": 5915187,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 88775,
+          "chapter_title": "5卷",
+          "updatetime": 1558834383,
+          "filesize": 6548982,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 87984,
+          "chapter_title": "4卷",
+          "updatetime": 1556506755,
+          "filesize": 5623232,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 87137,
+          "chapter_title": "3卷",
+          "updatetime": 1554102715,
+          "filesize": 8059537,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 86347,
+          "chapter_title": "2卷",
+          "updatetime": 1551581544,
+          "filesize": 5146246,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 84960,
+          "chapter_title": "1卷",
+          "updatetime": 1547734440,
+          "filesize": 5816112,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 25657892,
+        "uid": 105361545,
+        "content": "漫威完全可以出个exe战警的限定连载来着",
+        "createtime": 1585095909,
+        "nickname": "老乔冲冲冲",
+        "avatar": "https://avatar.dmzj.com/62/44/6244f353b44882b0b7608124e1fe282f.png"
+      },
+      {
+        "comment_id": 24502753,
+        "uid": 102214275,
+        "content": "就是这个卡",
+        "createtime": 1582563951,
+        "nickname": "JO尼",
+        "avatar": "https://avatar.dmzj.com/92/18/9218382342377564a1edd12ad029ece6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

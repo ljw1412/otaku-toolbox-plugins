@@ -1,0 +1,91 @@
+{
+  "id": 45210,
+  "islong": 2,
+  "direction": 1,
+  "title": "海贼王blue deep 资料设定集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/180804hzwsdhj.jpg",
+  "description": "设定画集",
+  "last_updatetime": 1533346392,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "haizeiwangbluedeepziliaoshedingji",
+  "hidden": 0,
+  "hot_num": 313724,
+  "hit_num": 431188,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 80492,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 667,
+      "tag_name": "尾田荣一郎"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1417,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80492,
+          "chapter_title": "1卷",
+          "updatetime": 1533346392,
+          "filesize": 40608565,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 57,
+    "latest_comment": [
+      {
+        "comment_id": 21969329,
+        "uid": 101604499,
+        "content": "真好鹅",
+        "createtime": 1573072078,
+        "nickname": "污到没朋友",
+        "avatar": "https://avatar.dmzj.com/1e/68/1e68e5f054ce86ebd77d7682ef070d92.png"
+      },
+      {
+        "comment_id": 17816382,
+        "uid": 105940616,
+        "content": "666",
+        "createtime": 1562251858,
+        "nickname": "孙中二",
+        "avatar": "https://avatar.dmzj.com/51/83/51833f183a597ba7763d706cfad86abb.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

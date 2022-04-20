@@ -1,0 +1,95 @@
+{
+  "id": 45150,
+  "islong": 2,
+  "direction": 1,
+  "title": "哆啦A梦大百科",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/180731dlamdbk.jpg",
+  "description": "哆啦A梦大百科",
+  "last_updatetime": 1533018792,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "duolaamengdabaike",
+  "hidden": 0,
+  "hot_num": 217902,
+  "hit_num": 374632,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 80286,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1049,
+      "tag_name": "藤子不二雄A"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1027,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80286,
+          "chapter_title": "2卷",
+          "updatetime": 1533018792,
+          "filesize": 38774041,
+          "chapter_order": 20
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 47,
+    "latest_comment": [
+      {
+        "comment_id": 27086914,
+        "uid": 105147690,
+        "content": "还不错",
+        "createtime": 1588556292,
+        "nickname": "沉默的黑曜石",
+        "avatar": "https://avatar.dmzj.com/16/48/164891fb0a25b8c7c42bf9d81b45e42f.png"
+      },
+      {
+        "comment_id": 27069531,
+        "uid": 100802648,
+        "content": "从来都无法得知，人们是究竟为什么会爱上另一个人。我猜也许我们心上都有一个缺口，呼呼往灵魂里灌着寒风，我们急切需要一个正好形状的心来填上它",
+        "createtime": 1588508766,
+        "nickname": "lisnshark",
+        "avatar": "https://avatar.dmzj.com/16/56/16568cd06e0cc6bf877f94e583c776b2.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,101 @@
+{
+  "id": 44776,
+  "islong": 2,
+  "direction": 1,
+  "title": "Cynical",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/cynicaldog5875l.jpg",
+  "description": "傲娇年下主人X老司机年上宠物。",
+  "last_updatetime": 1530611556,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "cynicaldog",
+  "hidden": 0,
+  "hot_num": 8216898,
+  "hit_num": 223030,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 77888,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8586,
+      "tag_name": "高梨りんご(ringo)"
+    }
+  ],
+  "subscribe_num": 38769,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77888,
+          "chapter_title": "3话",
+          "updatetime": 1530611556,
+          "filesize": 812626,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 77887,
+          "chapter_title": "2话",
+          "updatetime": 1530611545,
+          "filesize": 848227,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 77877,
+          "chapter_title": "1话",
+          "updatetime": 1530583250,
+          "filesize": 721420,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1513,
+    "latest_comment": [
+      {
+        "comment_id": 27061309,
+        "uid": 109337051,
+        "content": "我好像在e站见过",
+        "createtime": 1588485340,
+        "nickname": "醋拌檸檬",
+        "avatar": "https://avatar.dmzj.com/95/94/9594c53de456bb55e882b214bb9bbbda.png"
+      },
+      {
+        "comment_id": 27006662,
+        "uid": 110956345,
+        "content": "删了几页有颜色的",
+        "createtime": 1588331306,
+        "nickname": "dmzj_110956345",
+        "avatar": "https://avatar.dmzj.com/37/d4/37d428545687fcca17cbb582c10e2268.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

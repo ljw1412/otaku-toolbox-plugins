@@ -1,0 +1,133 @@
+{
+  "id": 46041,
+  "islong": 2,
+  "direction": 1,
+  "title": "龙珠 巴达克AFTER",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/longzhubadake008.jpg",
+  "description": "龙珠同人漫画巴达克AFTER。",
+  "last_updatetime": 1539009670,
+  "last_update_chapter_name": "第07话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "longzhubadakeafter",
+  "hidden": 0,
+  "hot_num": 256500,
+  "hit_num": 759848,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 81765,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15781,
+      "tag_name": "YOUNGJIJI"
+    }
+  ],
+  "subscribe_num": 1125,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81765,
+          "chapter_title": "7话",
+          "updatetime": 1539009670,
+          "filesize": 5779772,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 81764,
+          "chapter_title": "6话",
+          "updatetime": 1539009659,
+          "filesize": 5769422,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 81763,
+          "chapter_title": "5话",
+          "updatetime": 1539009649,
+          "filesize": 5758041,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 81762,
+          "chapter_title": "4话",
+          "updatetime": 1539009635,
+          "filesize": 5776822,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 81761,
+          "chapter_title": "3话",
+          "updatetime": 1539009625,
+          "filesize": 5664162,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 81760,
+          "chapter_title": "2话",
+          "updatetime": 1539009613,
+          "filesize": 5728755,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 81759,
+          "chapter_title": "1话",
+          "updatetime": 1539009564,
+          "filesize": 5335599,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 38,
+    "latest_comment": [
+      {
+        "comment_id": 25549228,
+        "uid": 110113854,
+        "content": "恩",
+        "createtime": 1584842664,
+        "nickname": "dmzj_110113854",
+        "avatar": "https://avatar.dmzj.com/8b/25/8b25ee5bbfa0c30a6003fceeb815758d.png"
+      },
+      {
+        "comment_id": 25246419,
+        "uid": 109046394,
+        "content": "齐尔德手下质量比弗利萨的高啊",
+        "createtime": 1584172369,
+        "nickname": "dmzj_109046394",
+        "avatar": "https://avatar.dmzj.com/41/15/4115e7a40ad72ac485bd67417c75d3d0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 39670,
+  "islong": 2,
+  "direction": 2,
+  "title": "弗瑞",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/furui.jpg",
+  "description": "弗瑞的个人刊。",
+  "last_updatetime": 1485183249,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "furui",
+  "hidden": 1,
+  "hot_num": 11128,
+  "hit_num": 22565,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 62179,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3483,
+      "tag_name": "MAX Comics"
+    }
+  ],
+  "subscribe_num": 111,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 62179,
+          "chapter_title": "1卷",
+          "updatetime": 1485183249,
+          "filesize": 3292522,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 26813185,
+        "uid": 107584964,
+        "content": "吊",
+        "createtime": 1587777149,
+        "nickname": "sunshine天师",
+        "avatar": "https://avatar.dmzj.com/44/83/44833985a02ad7d8bda3173d4daffd50.png"
+      },
+      {
+        "comment_id": 1722330,
+        "uid": 101269602,
+        "content": "很屌",
+        "createtime": 1485419197,
+        "nickname": "A小匪侠",
+        "avatar": "https://avatar.dmzj.com/89/4d/894d19b9af6efbb8faf16838ffe4af6f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 44579,
+  "islong": 2,
+  "direction": 1,
+  "title": "辟卡迪三度",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/0614pikadisandu.jpg",
+  "description": "fate的同人漫画",
+  "last_updatetime": 1528990335,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "p",
+  "comic_py": "pikadisandu",
+  "hidden": 0,
+  "hot_num": 192817,
+  "hit_num": 60760,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 73990,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15077,
+      "tag_name": "丹雨"
+    }
+  ],
+  "subscribe_num": 912,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73990,
+          "chapter_title": "1话",
+          "updatetime": 1528990335,
+          "filesize": 6376355,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 72,
+    "latest_comment": [
+      {
+        "comment_id": 26060527,
+        "uid": 109620426,
+        "content": "留名，甜爆了",
+        "createtime": 1586002522,
+        "nickname": "人活着就是为了切嗣",
+        "avatar": "https://avatar.dmzj.com/a0/2e/a02ebb569b5ee1f0dee6c2222e4080be.png"
+      },
+      {
+        "comment_id": 24952300,
+        "uid": 105931497,
+        "content": "留下这个传送门",
+        "createtime": 1583499496,
+        "nickname": "一笑笑笑笑笑",
+        "avatar": "https://avatar.dmzj.com/64/83/6483eeeef3eb44b29ed7ce3b627b59bd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

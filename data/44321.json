@@ -1,0 +1,87 @@
+{
+  "id": 44321,
+  "islong": 2,
+  "direction": 1,
+  "title": "冰精妖梦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/yh0526l1.jpg",
+  "description": "儿童向，简单易懂的东方同人漫画。",
+  "last_updatetime": 1527327952,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bingjingyaomeng",
+  "hidden": 0,
+  "hot_num": 380486,
+  "hit_num": 90360,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 76538,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5963,
+      "tag_name": "御月ユウヤ"
+    }
+  ],
+  "subscribe_num": 1341,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76538,
+          "chapter_title": "1话",
+          "updatetime": 1527327952,
+          "filesize": 3390470,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 408,
+    "latest_comment": [
+      {
+        "comment_id": 26913457,
+        "uid": 108978119,
+        "content": "作者应该去画JOJO",
+        "createtime": 1588051257,
+        "nickname": "dmzj_108978119",
+        "avatar": "https://avatar.dmzj.com/97/cd/97cd7fbe70b07021767dac60ea938f69.png"
+      },
+      {
+        "comment_id": 26778971,
+        "uid": 108568792,
+        "content": "boom",
+        "createtime": 1587687392,
+        "nickname": "dmzj_108568792",
+        "avatar": "https://avatar.dmzj.com/33/62/33622137e3e8ad5f310f4309c9f74191.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 47076,
+  "islong": 2,
+  "direction": 1,
+  "title": "DigiMon Story 游戏设定集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/DigiMonStoryshedinji111.jpg",
+  "description": "DigiMon Story 游戏设定集。",
+  "last_updatetime": 1547359388,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "digimonstoryouxishedingji",
+  "hidden": 0,
+  "hot_num": 158016,
+  "hit_num": 94224,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 84794,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14480,
+      "tag_name": "BANDAI NAMCO"
+    }
+  ],
+  "subscribe_num": 708,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 84794,
+          "chapter_title": "1卷",
+          "updatetime": 1547359388,
+          "filesize": 5581440,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 43,
+    "latest_comment": [
+      {
+        "comment_id": 23270778,
+        "uid": 104406805,
+        "content": "看你了耶！？",
+        "createtime": 1578947428,
+        "nickname": "a466497613",
+        "avatar": "https://avatar.dmzj.com/82/96/8296b85a8cc5891451bb5c9033caefba.png"
+      },
+      {
+        "comment_id": 14270452,
+        "uid": 104467107,
+        "content": "看不了啊",
+        "createtime": 1555184957,
+        "nickname": "要优雅，不要污57208",
+        "avatar": "https://avatar.dmzj.com/8c/a4/8ca466d2696a861ce1112cdcda934088.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

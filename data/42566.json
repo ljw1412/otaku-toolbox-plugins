@@ -1,0 +1,87 @@
+{
+  "id": 42566,
+  "islong": 2,
+  "direction": 1,
+  "title": "囚犯",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/180104qiufan.jpg",
+  "description": "被囚禁的男人们——。",
+  "last_updatetime": 1515044937,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qiufan",
+  "hidden": 0,
+  "hot_num": 1271860,
+  "hit_num": 92832,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 71208,
+  "authors": [
+    {
+      "tag_id": 1169,
+      "tag_name": "石黑正数"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "subscribe_num": 5719,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71208,
+          "chapter_title": "1话",
+          "updatetime": 1515044937,
+          "filesize": 1095393,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 260,
+    "latest_comment": [
+      {
+        "comment_id": 26755911,
+        "uid": 110623254,
+        "content": "有趣啊",
+        "createtime": 1587628084,
+        "nickname": "折原临也》",
+        "avatar": "https://avatar.dmzj.com/2a/83/2a83f3fe2eb3ce4e550c6ae584b36d33.png"
+      },
+      {
+        "comment_id": 26657232,
+        "uid": 104910270,
+        "content": "真的是鬼才！",
+        "createtime": 1587361846,
+        "nickname": "bilibili药丸",
+        "avatar": "https://avatar.dmzj.com/d1/31/d13131e8f7409721ebe9c6251c011631.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

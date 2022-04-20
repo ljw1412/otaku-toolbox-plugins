@@ -1,0 +1,119 @@
+{
+  "id": 47434,
+  "islong": 2,
+  "direction": 2,
+  "title": "龙之纪元 法师克星",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/long20190212.jpg",
+  "description": "龙之纪元 法师克星",
+  "last_updatetime": 1553713409,
+  "last_update_chapter_name": "第05卷",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "longzhijiyuanfashikexing",
+  "hidden": 0,
+  "hot_num": 377252,
+  "hit_num": 20214,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 83148,
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    },
+    {
+      "tag_id": 4826,
+      "tag_name": "EA"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "subscribe_num": 1535,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 83148,
+          "chapter_title": "5卷",
+          "updatetime": 1553713409,
+          "filesize": 3148407,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 82949,
+          "chapter_title": "4卷",
+          "updatetime": 1552834893,
+          "filesize": 2912968,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 82307,
+          "chapter_title": "3卷",
+          "updatetime": 1551016196,
+          "filesize": 6242849,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 82306,
+          "chapter_title": "2卷",
+          "updatetime": 1551016225,
+          "filesize": 5656032,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 81911,
+          "chapter_title": "1卷",
+          "updatetime": 1549965334,
+          "filesize": 2756108,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 60,
+    "latest_comment": [
+      {
+        "comment_id": 13687260,
+        "uid": 104903058,
+        "content": "眼啊",
+        "createtime": 1554254721,
+        "nickname": "摩狄霍神喻",
+        "avatar": "https://avatar.dmzj.com/a0/a0/a0a0c07ceacd514d242101d54c7c3106.png"
+      },
+      {
+        "comment_id": 13495518,
+        "uid": 105859810,
+        "content": "眼",
+        "createtime": 1553868435,
+        "nickname": "奕云OvO",
+        "avatar": "https://avatar.dmzj.com/92/00/9200197c9be6a17fa8ec760cc416be76.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

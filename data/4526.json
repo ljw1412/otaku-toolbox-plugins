@@ -1,0 +1,87 @@
+{
+  "id": 4526,
+  "islong": 2,
+  "direction": 1,
+  "title": "海德博士的实验笔记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/20080528102857_5_261a408515e52325ed9b9ca3854c5880.jpg",
+  "description": "短篇漫画",
+  "last_updatetime": 1279189127,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hdbsdsybj",
+  "hidden": 0,
+  "hot_num": 152232,
+  "hit_num": 975419,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 8381,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1066,
+      "tag_name": "助野嘉昭"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1012,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8381,
+          "chapter_title": "1话",
+          "updatetime": 1279793927,
+          "filesize": 4476142,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 56,
+    "latest_comment": [
+      {
+        "comment_id": 26609399,
+        "uid": 102551348,
+        "content": "。。。咋说呢，看完了总想说点啥，然后发现对这漫画吐槽又吐槽不过来，说说感想又感觉五味杂陈，真的是。。。",
+        "createtime": 1587221481,
+        "nickname": "ひきがや はちまん77517",
+        "avatar": "https://avatar.dmzj.com/b1/80/b1802f05d47d65eb926c69d28a10a0a4.png"
+      },
+      {
+        "comment_id": 26463672,
+        "uid": 106343814,
+        "content": "时光机，草",
+        "createtime": 1586841694,
+        "nickname": "dmzj_106343814",
+        "avatar": "https://avatar.dmzj.com/20/9c/209cfffbd6c514e1d61cb83ece043887.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

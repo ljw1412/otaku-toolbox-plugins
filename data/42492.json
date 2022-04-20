@@ -1,0 +1,87 @@
+{
+  "id": 42492,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方青帖·我心如斯",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/dongfangqingtiewoxinrusi.jpg",
+  "description": "爱丽丝为魔理沙准备人偶的甜蜜故事~",
+  "last_updatetime": 1514626868,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongfangqingtiewoxinrusi",
+  "hidden": 0,
+  "hot_num": 219361,
+  "hit_num": 8020,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72256,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5114,
+      "tag_name": "ヨハネ"
+    }
+  ],
+  "subscribe_num": 891,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72256,
+          "chapter_title": "1话",
+          "updatetime": 1514626868,
+          "filesize": 2021854,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 23161731,
+        "uid": 105927021,
+        "content": "哇⊙ω⊙",
+        "createtime": 1578516421,
+        "nickname": "贪婪的白白",
+        "avatar": "https://avatar.dmzj.com/86/87/86875e0881bd83c88abcadb506e059de.png"
+      },
+      {
+        "comment_id": 23153135,
+        "uid": 104440737,
+        "content": "回来了",
+        "createtime": 1578493879,
+        "nickname": "冰菓57049",
+        "avatar": "https://avatar.dmzj.com/6a/9f/6a9fc23d141b665d211690170820205a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

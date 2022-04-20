@@ -1,0 +1,87 @@
+{
+  "id": 42252,
+  "islong": 2,
+  "direction": 1,
+  "title": "战姬绝唱SYMPHOGEAR 同人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/zhanjijuechangsymphogeartonrenfengmianl.jpg",
+  "description": "戰姬絕唱SYMPHOGEAR 無印一季同人 (漫畫作者與原名不詳)",
+  "last_updatetime": 1512816125,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhanjijuechangsymphogeartonren",
+  "hidden": 0,
+  "hot_num": 131172,
+  "hit_num": 8497,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 71612,
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3326,
+      "tag_name": "音乐舞蹈"
+    }
+  ],
+  "subscribe_num": 512,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71612,
+          "chapter_title": "1话",
+          "updatetime": 1512816125,
+          "filesize": 747612,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 23529814,
+        "uid": 106014971,
+        "content": "歪镜警告 永爱警告",
+        "createtime": 1580058874,
+        "nickname": "TonyLopez",
+        "avatar": "https://avatar.dmzj.com/96/82/9682fe7bf0aee57b0732358e5e803ace.png"
+      },
+      {
+        "comment_id": 18294861,
+        "uid": 105101467,
+        "content": "嗯",
+        "createtime": 1563276955,
+        "nickname": "第一魔法使",
+        "avatar": "https://avatar.dmzj.com/99/93/999352b33f083d19501267a096e9d670.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

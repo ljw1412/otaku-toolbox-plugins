@@ -1,0 +1,87 @@
+{
+  "id": 39386,
+  "islong": 2,
+  "direction": 1,
+  "title": "知恋之夏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/zhilianzhixiafengmianl.jpg",
+  "description": "夏天与海边，正值青（xing）春（yu）的年纪，属于那个夏天的回忆，将永远刻在心底……",
+  "last_updatetime": 1481598876,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhilianzhixia",
+  "hidden": 1,
+  "hot_num": 19099,
+  "hit_num": 175004,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 59911,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4657,
+      "tag_name": "あやもと美叶"
+    }
+  ],
+  "subscribe_num": 444,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59911,
+          "chapter_title": "1话",
+          "updatetime": 1481598876,
+          "filesize": 3966292,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 7572594,
+        "uid": 102382175,
+        "content": "emmmm",
+        "createtime": 1540203524,
+        "nickname": "酩羽",
+        "avatar": "https://avatar.dmzj.com/34/92/34921c1e154c914487a13ca4f1fc3683.png"
+      },
+      {
+        "comment_id": 6202430,
+        "uid": 101427631,
+        "content": "绝配",
+        "createtime": 1533954001,
+        "nickname": "乌莱莱",
+        "avatar": "https://avatar.dmzj.com/11/f0/11f06330d85d0ceb7d20f637e6b27a41.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

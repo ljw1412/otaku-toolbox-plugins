@@ -1,0 +1,87 @@
+{
+  "id": 44029,
+  "islong": 2,
+  "direction": 1,
+  "title": "生命的碎片",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/sm0501l.jpg",
+  "description": "来自深渊同人",
+  "last_updatetime": 1525186581,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shengmingdesuipian",
+  "hidden": 0,
+  "hot_num": 140963,
+  "hit_num": 30859,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72361,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14854,
+      "tag_name": "小川ひだり"
+    }
+  ],
+  "subscribe_num": 640,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72361,
+          "chapter_title": "1话",
+          "updatetime": 1525186581,
+          "filesize": 6782768,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 40,
+    "latest_comment": [
+      {
+        "comment_id": 21959032,
+        "uid": 102436260,
+        "content": "重新发现",
+        "createtime": 1573047370,
+        "nickname": "wonder2012",
+        "avatar": "https://avatar.dmzj.com/3b/5c/3b5c155e6d43456e1f6f9d8e5379bfec.png"
+      },
+      {
+        "comment_id": 6803830,
+        "uid": 102554600,
+        "content": "滴，订阅",
+        "createtime": 1536844712,
+        "nickname": "Ξ Become frenzied Σ",
+        "avatar": "https://avatar.dmzj.com/cb/48/cb4802a42159b66fb15dcf637ee32d5b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,94 @@
+{
+  "id": 40629,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方天王禄",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/dftianwnaglufengmianl.jpg",
+  "description": "整个系列讲述的是天子成长的故事",
+  "last_updatetime": 1497161977,
+  "last_update_chapter_name": "天 祈祷编",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongfangtianwnaglu",
+  "hidden": 0,
+  "hot_num": 128987,
+  "hit_num": 193919,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 62193,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6574,
+      "tag_name": "树土风"
+    }
+  ],
+  "subscribe_num": 548,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 62193,
+          "chapter_title": "2话",
+          "updatetime": 1497161977,
+          "filesize": 10677667,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 62192,
+          "chapter_title": "1话",
+          "updatetime": 1497161953,
+          "filesize": 9806179,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 43,
+    "latest_comment": [
+      {
+        "comment_id": 26510253,
+        "uid": 108403252,
+        "content": "发现新坑",
+        "createtime": 1586953872,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      },
+      {
+        "comment_id": 26311198,
+        "uid": 106976517,
+        "content": "金可怜",
+        "createtime": 1586517540,
+        "nickname": "lixn",
+        "avatar": "https://avatar.dmzj.com/45/53/455360a4c1af99bc7cec6d7ebaaa856c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

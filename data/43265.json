@@ -1,0 +1,87 @@
+{
+  "id": 43265,
+  "islong": 2,
+  "direction": 1,
+  "title": "花名",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/180226huaming.jpg",
+  "description": "如童话一般的美丽画风，享受即可",
+  "last_updatetime": 1519624929,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huaming",
+  "hidden": 0,
+  "hot_num": 193387,
+  "hit_num": 51475,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 74444,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8928,
+      "tag_name": "高虎"
+    }
+  ],
+  "subscribe_num": 874,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74444,
+          "chapter_title": "1话",
+          "updatetime": 1519624929,
+          "filesize": 9532055,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 21872933,
+        "uid": 106501295,
+        "content": "画风太惊艳了…",
+        "createtime": 1572769876,
+        "nickname": "颦凉",
+        "avatar": "https://avatar.dmzj.com/72/92/7292b9226de514450de8b4b8ffcd79bf.png"
+      },
+      {
+        "comment_id": 8189564,
+        "uid": 103420606,
+        "content": "老师",
+        "createtime": 1542431724,
+        "nickname": "（；￣ェ￣）40013",
+        "avatar": "https://avatar.dmzj.com/d4/6f/d46fd61116c96b1df7294f4d6319811f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

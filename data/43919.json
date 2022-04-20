@@ -1,0 +1,94 @@
+{
+  "id": 43919,
+  "islong": 2,
+  "direction": 1,
+  "title": "惊奇女士V4",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/MMarve0284222153000.jpg",
+  "description": "二代“惊奇女士”卡玛拉·可汗的个刊",
+  "last_updatetime": 1533211490,
+  "last_update_chapter_name": "第27卷",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jingqinvshivsi",
+  "hidden": 0,
+  "hot_num": 60550,
+  "hit_num": 17274,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 75783,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 275,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72078,
+          "chapter_title": "28卷",
+          "updatetime": 1524405153,
+          "filesize": 3186369,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 75783,
+          "chapter_title": "27卷",
+          "updatetime": 1533211490,
+          "filesize": 3301351,
+          "chapter_order": 5
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 10215017,
+        "uid": 101387784,
+        "content": "只有两卷是因为这两卷有惊奇队长，卡罗尔军团就是做她的汉化的，前后的故事只有找生肉了",
+        "createtime": 1547778522,
+        "nickname": "CorvusGlaive",
+        "avatar": "https://avatar.dmzj.com/14/66/1466c75fe0dec23972386cf68afcb87e.png"
+      },
+      {
+        "comment_id": 6137603,
+        "uid": 102128317,
+        "content": "嗯，谁知道布鲁诺最近怎么样了？",
+        "createtime": 1533674980,
+        "nickname": "Hjj777",
+        "avatar": "https://avatar.dmzj.com/79/ee/79eeff845d2df1b8e2032c8f5bd7fcdf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

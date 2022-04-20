@@ -1,0 +1,85 @@
+{
+  "id": 39273,
+  "islong": 2,
+  "direction": 2,
+  "title": "童年故事新解",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1013643561479976833.jpg",
+  "description": "童年故事新解-小美毁童年",
+  "last_updatetime": 1479976899,
+  "last_update_chapter_name": "囫囵吞枣",
+  "copyright": 1,
+  "first_letter": "t",
+  "comic_py": "tongniangushixinjie",
+  "hidden": 0,
+  "hot_num": 795,
+  "hit_num": 4722,
+  "uid": 101364356,
+  "is_lock": 0,
+  "last_update_chapter_id": 55285,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11938,
+      "tag_name": "小美"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 55285,
+          "chapter_title": "1话",
+          "updatetime": 1479976899,
+          "filesize": 428802,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1504468,
+        "uid": 101290617,
+        "content": "第一   好看",
+        "createtime": 1480101712,
+        "nickname": "离落17833",
+        "avatar": "https://avatar.dmzj.com/31/28/3128d0509a89e04718a7cd61c3031150.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

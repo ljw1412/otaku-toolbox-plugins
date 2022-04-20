@@ -1,0 +1,112 @@
+{
+  "id": 42050,
+  "islong": 2,
+  "direction": 1,
+  "title": "夜魔",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/yemoluofukelafutejiezuoji.jpg",
+  "description": "克苏鲁神话之父洛夫克拉夫特小说本格漫画化短篇集",
+  "last_updatetime": 1519650028,
+  "last_update_chapter_name": "夜魔03",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yemoluofukelatejiezuoji",
+  "hidden": 0,
+  "hot_num": 4654878,
+  "hit_num": 1168105,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 74467,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6499,
+      "tag_name": "HP·洛夫克拉夫特"
+    },
+    {
+      "tag_id": 13249,
+      "tag_name": "田边刚"
+    }
+  ],
+  "subscribe_num": 20772,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74467,
+          "chapter_title": "3话",
+          "updatetime": 1519650028,
+          "filesize": 7352446,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 73234,
+          "chapter_title": "2话",
+          "updatetime": 1516512337,
+          "filesize": 8529272,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 72408,
+          "chapter_title": "1话",
+          "updatetime": 1514210938,
+          "filesize": 5859631,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 71332,
+          "chapter_title": "达贡",
+          "updatetime": 1511076602,
+          "filesize": 7500435,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 334,
+    "latest_comment": [
+      {
+        "comment_id": 27065009,
+        "uid": 104364175,
+        "content": "我又来掉san值了。。。",
+        "createtime": 1588496678,
+        "nickname": "骷髅王113",
+        "avatar": "https://avatar.dmzj.com/35/75/3575cebfb278faaa2adfcc82731669f2.png"
+      },
+      {
+        "comment_id": 26734559,
+        "uid": 101640090,
+        "content": "再来一次5",
+        "createtime": 1587569601,
+        "nickname": "锁锁卡吖",
+        "avatar": "https://avatar.dmzj.com/66/64/666409321706bbd5d98afbce19fa5327.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

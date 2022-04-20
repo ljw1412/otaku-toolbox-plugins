@@ -1,0 +1,91 @@
+{
+  "id": 42223,
+  "islong": 2,
+  "direction": 1,
+  "title": "GA KU SE I SE I KA TU",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/mofashaonvnaiye.jpg",
+  "description": "魔法少女奈叶同人",
+  "last_updatetime": 1512564025,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gakuseiseikatu",
+  "hidden": 1,
+  "hot_num": 326779,
+  "hit_num": 77131,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 65634,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8736,
+      "tag_name": "七色"
+    }
+  ],
+  "subscribe_num": 1481,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65634,
+          "chapter_title": "1话",
+          "updatetime": 1512564025,
+          "filesize": 1860472,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 27,
+    "latest_comment": [
+      {
+        "comment_id": 25072328,
+        "uid": 107805003,
+        "content": "固定诱导立场发生器",
+        "createtime": 1583761575,
+        "nickname": "子岳",
+        "avatar": "https://avatar.dmzj.com/37/20/37206e2cce5c97e3c4510f6aa9868633.png"
+      },
+      {
+        "comment_id": 21109603,
+        "uid": 105675306,
+        "content": "看看咋样吧",
+        "createtime": 1570596851,
+        "nickname": "南月樫雫",
+        "avatar": "https://avatar.dmzj.com/52/48/5248523d6b0ca555c63bc36dc1e86979.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 45430,
+  "islong": 2,
+  "direction": 1,
+  "title": "圣诞夜的礼物",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/shengdanye20180818.jpg",
+  "description": "全彩小短篇，单纯的莉格露被无良的幽香坑到哭……",
+  "last_updatetime": 1534567818,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shendganyedeliwu",
+  "hidden": 0,
+  "hot_num": 67598,
+  "hit_num": 5984,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 81001,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6666,
+      "tag_name": "粒状斑"
+    }
+  ],
+  "subscribe_num": 314,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81001,
+          "chapter_title": "1话",
+          "updatetime": 1534567818,
+          "filesize": 315169,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 26502393,
+        "uid": 110711400,
+        "content": "考古。。。这封面。。。",
+        "createtime": 1586932742,
+        "nickname": "Cyoeraeth",
+        "avatar": "https://avatar.dmzj.com/26/48/26488a3c1ef881263124d7f3be12e683.png"
+      },
+      {
+        "comment_id": 13230673,
+        "uid": 108403252,
+        "content": "封面太那啥",
+        "createtime": 1553256065,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

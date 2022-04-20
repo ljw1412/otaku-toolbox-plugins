@@ -1,0 +1,87 @@
+{
+  "id": 45320,
+  "islong": 2,
+  "direction": 1,
+  "title": "迷醉忘忧酌",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/0001zhijianzhuo8110.jpg",
+  "description": "明明如此灼热，为何指尖却……",
+  "last_updatetime": 1533914671,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mizuiwangyouzhuo",
+  "hidden": 0,
+  "hot_num": 65206,
+  "hit_num": 5689,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 80757,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15443,
+      "tag_name": "永泽"
+    }
+  ],
+  "subscribe_num": 307,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80757,
+          "chapter_title": "1话",
+          "updatetime": 1533914671,
+          "filesize": 3598652,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 36,
+    "latest_comment": [
+      {
+        "comment_id": 17380026,
+        "uid": 106256831,
+        "content": "魔咲三连，彻夜难眠",
+        "createtime": 1561131896,
+        "nickname": "雾上神奈",
+        "avatar": "https://avatar.dmzj.com/20/62/20621c70c44c90fedb4080b485b1f1c9.png"
+      },
+      {
+        "comment_id": 15107087,
+        "uid": 107944882,
+        "content": "我就想问一下永泽是谁？为毛找不到他的ip。",
+        "createtime": 1556550057,
+        "nickname": "dmzj_107944882",
+        "avatar": "https://avatar.dmzj.com/0b/52/0b5250a099621c31032a38a8d38eddcc.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

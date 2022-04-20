@@ -1,0 +1,87 @@
+{
+  "id": 46097,
+  "islong": 2,
+  "direction": 1,
+  "title": "Full color 红薯",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/181013hs.jpg",
+  "description": "一个蛮有趣的无厘头喜剧短篇",
+  "last_updatetime": 1539394171,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fullcolorhongshu",
+  "hidden": 0,
+  "hot_num": 90331,
+  "hit_num": 3847,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 81661,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15815,
+      "tag_name": "あおブルー"
+    }
+  ],
+  "subscribe_num": 433,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81661,
+          "chapter_title": "1话",
+          "updatetime": 1539394172,
+          "filesize": 2929389,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 7398902,
+        "uid": 35945479,
+        "content": "作者：懒得上色了",
+        "createtime": 1539538604,
+        "nickname": "绝对聚慎传说卿",
+        "avatar": "https://avatar.dmzj.com/1e/ac/1eac37be196def64453fa0de77c66667.png"
+      },
+      {
+        "comment_id": 7382052,
+        "uid": 104675497,
+        "content": "无厘头也挺有趣的，看样子应该有后续？",
+        "createtime": 1539490098,
+        "nickname": "悠悠型丶狂三",
+        "avatar": "https://avatar.dmzj.com/44/12/4412486f60d69c5766f0e03c8cc61bdc.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

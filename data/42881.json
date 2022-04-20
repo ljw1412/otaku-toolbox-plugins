@@ -1,0 +1,87 @@
+{
+  "id": 42881,
+  "islong": 2,
+  "direction": 1,
+  "title": "Wrestle X Roses",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/wrestlexroses.jpg",
+  "description": "女子摔跤比赛",
+  "last_updatetime": 1517038981,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wrestlexroses",
+  "hidden": 0,
+  "hot_num": 116315,
+  "hit_num": 48748,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72137,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14364,
+      "tag_name": "NEXAS"
+    }
+  ],
+  "subscribe_num": 547,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72137,
+          "chapter_title": "1话",
+          "updatetime": 1517038981,
+          "filesize": 1994168,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 12863808,
+        "uid": 100082523,
+        "content": "一下就打死我了",
+        "createtime": 1552499641,
+        "nickname": "七罪笑靥",
+        "avatar": "https://avatar.dmzj.com/97/49/97496d35fefd382655d65bd4706130bb.png"
+      },
+      {
+        "comment_id": 6476098,
+        "uid": 100975100,
+        "content": "什么鬼哦",
+        "createtime": 1535162610,
+        "nickname": "Za_",
+        "avatar": "https://avatar.dmzj.com/95/96/9596d9419e1154c1b1bd6790856e4d1c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

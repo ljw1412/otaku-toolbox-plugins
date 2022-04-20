@@ -1,0 +1,91 @@
+{
+  "id": 44698,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔物夜话",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/mowuyehua0625.jpg",
+  "description": "只有心怀烦恼的人和非人之物才能造访的客栈「丛云屋」，作为留宿费用所支付的是自身的「秘密」。这次的来访者是——？敬请倾听，在不可思议的客栈中编织出的令人咄咄称奇的百鬼夜谈——…。",
+  "last_updatetime": 1529935177,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mowuyehua",
+  "hidden": 0,
+  "hot_num": 655986,
+  "hit_num": 115962,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72902,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9253,
+      "tag_name": "マツリ"
+    }
+  ],
+  "subscribe_num": 3124,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72902,
+          "chapter_title": "1话",
+          "updatetime": 1529935177,
+          "filesize": 6230402,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 60,
+    "latest_comment": [
+      {
+        "comment_id": 26758352,
+        "uid": 105980912,
+        "content": "这…又掉坑里了",
+        "createtime": 1587636162,
+        "nickname": "dmzj_105980912",
+        "avatar": "https://avatar.dmzj.com/8f/b5/8fb5aba5f6c37fe4a8887e7456a6e1f7.png"
+      },
+      {
+        "comment_id": 25566935,
+        "uid": 100264625,
+        "content": "这……怕是再也不会填了吧",
+        "createtime": 1584888243,
+        "nickname": "五谷杂粮艾草",
+        "avatar": "https://avatar.dmzj.com/16/72/16721b4f7de6e1fbb45c051afb86cfea.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

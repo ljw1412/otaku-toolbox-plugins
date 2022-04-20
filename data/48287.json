@@ -1,0 +1,98 @@
+{
+  "id": 48287,
+  "islong": 2,
+  "direction": 1,
+  "title": "索敌必杀",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/suodibishaasasa0428.jpg",
+  "description": "原作：手冢治虫，讲述了一个人造人复仇的故事",
+  "last_updatetime": 1564366886,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "suodibisha",
+  "hidden": 0,
+  "hot_num": 931785,
+  "hit_num": 15327,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90694,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 904,
+      "tag_name": "手冢治虫"
+    },
+    {
+      "tag_id": 8669,
+      "tag_name": "兼子笃(カネコアツシ)"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 4799,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90694,
+          "chapter_title": "2话",
+          "updatetime": 1564366886,
+          "filesize": 4462526,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 87897,
+          "chapter_title": "1话",
+          "updatetime": 1556426959,
+          "filesize": 7294484,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 114,
+    "latest_comment": [
+      {
+        "comment_id": 25537179,
+        "uid": 104638294,
+        "content": "新画风",
+        "createtime": 1584806944,
+        "nickname": "万铨",
+        "avatar": "https://avatar.dmzj.com/78/56/78561d6c587cbeb8dfff90174726f4e5.png"
+      },
+      {
+        "comment_id": 19467397,
+        "uid": 109080382,
+        "content": "甚至有种邪典的感觉",
+        "createtime": 1565975608,
+        "nickname": "非阿贝尔离散蛞蝓",
+        "avatar": "https://avatar.dmzj.com/da/42/da421c46a25842d4059ac799c44bce16.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

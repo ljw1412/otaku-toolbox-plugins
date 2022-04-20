@@ -1,0 +1,101 @@
+{
+  "id": 43640,
+  "islong": 2,
+  "direction": 1,
+  "title": "放飞自我红魔馆",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/fangfeiziwohongmoguan.jpg",
+  "description": "红魔馆全体形象崩坏",
+  "last_updatetime": 1581844324,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fangfeiziwohonhmoguan",
+  "hidden": 0,
+  "hot_num": 364999,
+  "hit_num": 65644,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 98185,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14692,
+      "tag_name": "えなみ教授"
+    }
+  ],
+  "subscribe_num": 1720,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98185,
+          "chapter_title": "3话",
+          "updatetime": 1581844324,
+          "filesize": 914390,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 75609,
+          "chapter_title": "2话",
+          "updatetime": 1527684130,
+          "filesize": 3950916,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 75580,
+          "chapter_title": "1话",
+          "updatetime": 1527684119,
+          "filesize": 3761487,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 155,
+    "latest_comment": [
+      {
+        "comment_id": 25510619,
+        "uid": 108005688,
+        "content": "うん.ありがとう",
+        "createtime": 1584738327,
+        "nickname": "戻気",
+        "avatar": "https://avatar.dmzj.com/14/95/1495f1cbf1faf2b260de4393d0dc5f5d.png"
+      },
+      {
+        "comment_id": 25248287,
+        "uid": 101429227,
+        "content": "这作者认真的画风其实还挺好看的，比如画的年长女性都会有知性美。",
+        "createtime": 1584177301,
+        "nickname": "gao852456",
+        "avatar": "https://avatar.dmzj.com/d2/b6/d2b678e113b831d074cad5177d9a72ee.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

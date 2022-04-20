@@ -1,0 +1,87 @@
+{
+  "id": 42474,
+  "islong": 2,
+  "direction": 1,
+  "title": "脱皮",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/tuopi.jpg",
+  "description": "黑兔子带来的清凉小故事 真的，只不过是，忽悠人吗？",
+  "last_updatetime": 1514386199,
+  "last_update_chapter_name": "1话完结",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tuopi",
+  "hidden": 0,
+  "hot_num": 143804,
+  "hit_num": 123511,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 68150,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14031,
+      "tag_name": "にひまる"
+    }
+  ],
+  "subscribe_num": 608,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 68150,
+          "chapter_title": "1话",
+          "updatetime": 1514386199,
+          "filesize": 4218605,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 23108841,
+        "uid": 105608437,
+        "content": "纯正的妖怪文化，都市传说，怪力乱神，这类题材的东方同人真的赞",
+        "createtime": 1578320888,
+        "nickname": "moda",
+        "avatar": "https://avatar.dmzj.com/25/95/259527ba68f66f34092ed49967c718d4.png"
+      },
+      {
+        "comment_id": 21620979,
+        "uid": 109166606,
+        "content": "皮脫",
+        "createtime": 1571909062,
+        "nickname": "1无",
+        "avatar": "https://avatar.dmzj.com/da/37/da371aa9a9bea55ed848a10c0da1ca5f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

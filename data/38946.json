@@ -1,0 +1,91 @@
+{
+  "id": 38946,
+  "islong": 2,
+  "direction": 1,
+  "title": "棒球学园",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/BaseballSchool.jpg",
+  "description": "有希うさぎ的短篇漫画合集。",
+  "last_updatetime": 1475759174,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bangqiuxueyuan",
+  "hidden": 1,
+  "hot_num": 6292,
+  "hit_num": 109062,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 57725,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12493,
+      "tag_name": "有希うさぎ"
+    }
+  ],
+  "subscribe_num": 84,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 57725,
+          "chapter_title": "1卷",
+          "updatetime": 1475759174,
+          "filesize": 23648128,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 1349182,
+        "uid": 101769588,
+        "content": "画风还可以，就是话太多了！",
+        "createtime": 1475770965,
+        "nickname": "MI04280",
+        "avatar": "https://avatar.dmzj.com/93/d1/93d1383ffaf34afd61f06166132cf499.png"
+      },
+      {
+        "comment_id": 1348670,
+        "uid": 100492308,
+        "content": "我是个多老的漫都看得人啊!!! 嗯我很资深´&lt;_`",
+        "createtime": 1475764934,
+        "nickname": "`RDG -X ",
+        "avatar": "https://avatar.dmzj.com/79/01/7901607bf8643814f11e0f32c8c9c531.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 39839,
+  "islong": 2,
+  "direction": 1,
+  "title": "GOLEM HEARTS",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/170222golemfml.jpg",
+  "description": "Jump新春读切福袋第二弹。\n100年前由魔法学师们创造出来的魔法人偶，是一种会遵从所有者命令的生命泥人，如今已经发展到各个方面都离不开它们了。某日在禁止摆渡的小岛上，有一个奇怪的阳光少年搭着小船前来，并被大炮击沉了……",
+  "last_updatetime": 1487735513,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "golemhearts",
+  "hidden": 0,
+  "hot_num": 24793,
+  "hit_num": 174685,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 59271,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12923,
+      "tag_name": "大须贺玄"
+    }
+  ],
+  "subscribe_num": 700,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59271,
+          "chapter_title": "1话",
+          "updatetime": 1487735513,
+          "filesize": 6651322,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 23446595,
+        "uid": 100157769,
+        "content": "好久以前看订阅了  现在还是一集",
+        "createtime": 1579717091,
+        "nickname": "冚家铃",
+        "avatar": "https://avatar.dmzj.com/21/15/211577ba7d3eb63494cb5773613456c8.png"
+      },
+      {
+        "comment_id": 23196867,
+        "uid": 100593930,
+        "content": "不是已经出过很多话了吗，之前我还看到快结局了",
+        "createtime": 1578669089,
+        "nickname": "别再哔哔叫了",
+        "avatar": "https://avatar.dmzj.com/c2/6c/c26c3d05405d96c94af0b0af4db4ffc5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

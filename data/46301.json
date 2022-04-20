@@ -1,0 +1,98 @@
+{
+  "id": 46301,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠：秘密档案",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/181102bfxmmda.jpg",
+  "description": "本刊由小故事组成，这些故事也许简短，也许未完。但都向我们展示了身为“普通人”的布鲁斯·韦恩和蝙蝠侠的辛秘。\n",
+  "last_updatetime": 1564883660,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bianfuxiamimidangan",
+  "hidden": 0,
+  "hot_num": 134879,
+  "hit_num": 31582,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91229,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 778,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91229,
+          "chapter_title": "2卷",
+          "updatetime": 1564883660,
+          "filesize": 6285624,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 82530,
+          "chapter_title": "1卷",
+          "updatetime": 1541169623,
+          "filesize": 5030723,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 18999728,
+        "uid": 108767236,
+        "content": "心理海盗自从COIE起就一直是个大bug",
+        "createtime": 1564891145,
+        "nickname": "可乐味方便面",
+        "avatar": "https://avatar.dmzj.com/36/49/364948c3bf4d0d9f116ef2bf43a25d37.png"
+      },
+      {
+        "comment_id": 18998944,
+        "uid": 105066502,
+        "content": "第二期真奇怪，明明封面上有6个反派，但内容却只有5个反派的故事。难道腹语者未来真的有什么特别的待遇？在蝙蝠侠最新大事件《贝恩之城》里总觉得这个角色会有大动作",
+        "createtime": 1564889758,
+        "nickname": "高大屋",
+        "avatar": "https://avatar.dmzj.com/52/92/5292256463491a1df664c06f5f02f69b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,104 @@
+{
+  "id": 42235,
+  "islong": 2,
+  "direction": 2,
+  "title": "东方琳琅录",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1056744031512631617.jpg",
+  "description": "本作是根据《东方project》系列游戏为背景改编东方同人漫。为方便各位不熟悉东方的读者入坑，琳琅录会以博丽灵梦和雾雨魔理沙为主线，讲述两位少女在幻想乡发生的故事。本作可能会跟原作有所出入，请各位dalao见谅。",
+  "last_updatetime": 1512631833,
+  "last_update_chapter_name": "第01话 奇怪的红雾",
+  "copyright": 1,
+  "first_letter": "d",
+  "comic_py": "dongfanglinlanglu",
+  "hidden": 0,
+  "hot_num": 54717,
+  "hit_num": 284269,
+  "uid": 105674403,
+  "is_lock": 0,
+  "last_update_chapter_id": 71941,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14059,
+      "tag_name": "五文"
+    }
+  ],
+  "subscribe_num": 225,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71941,
+          "chapter_title": "1话",
+          "updatetime": 1512631833,
+          "filesize": 535979,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 71940,
+          "chapter_title": "0话",
+          "updatetime": 1512631747,
+          "filesize": 150764,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "作者是上班狗，不定期更新。",
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 3508019,
+        "uid": 104643035,
+        "content": "入坑向的话还是少用二设梗吧……有点误导新人？？",
+        "createtime": 1513348437,
+        "nickname": "今年还在等马晓晨",
+        "avatar": "https://avatar.dmzj.com/82/60/826072065262e49532900d88a8375158.png"
+      },
+      {
+        "comment_id": 3501963,
+        "uid": 101070186,
+        "content": "前几天在贴吧看到的  现在居然在这看见了。。（｀Δ´）！",
+        "createtime": 1513263313,
+        "nickname": "羽崎",
+        "avatar": "https://avatar.dmzj.com/29/30/29306d41b6dae6474c517e135599ebfd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

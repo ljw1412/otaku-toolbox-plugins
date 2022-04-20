@@ -1,0 +1,91 @@
+{
+  "id": 40766,
+  "islong": 2,
+  "direction": 2,
+  "title": "全职杀手",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/qzss41365l.jpg",
+  "description": "HItman的真名叫汤米莫纳汉，本来只是哥谭市的一位普通的杀手，被外星人咬了之后获得了读心术和透视眼，成为了一位“处理超自然事件”的杀手。",
+  "last_updatetime": 1498621652,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "quanzhishashou",
+  "hidden": 1,
+  "hot_num": 30384,
+  "hit_num": 24050,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 65422,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 121,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65422,
+          "chapter_title": "1卷",
+          "updatetime": 1498621652,
+          "filesize": 3374635,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 24004007,
+        "uid": 109823354,
+        "content": "有没有猎人啊",
+        "createtime": 1581400565,
+        "nickname": "dmzj_109823354",
+        "avatar": "https://avatar.dmzj.com/31/74/31743800131acabc6f2c132ccbe934a7.png"
+      },
+      {
+        "comment_id": 22832000,
+        "uid": 104412042,
+        "content": "测试",
+        "createtime": 1577243248,
+        "nickname": "上音",
+        "avatar": "https://avatar.dmzj.com/28/52/2852a7b75e0f16b2b3ecc9a9e4d38bcb.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

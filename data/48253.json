@@ -1,0 +1,87 @@
+{
+  "id": 48253,
+  "islong": 2,
+  "direction": 1,
+  "title": "晚饭",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/wf190425.jpg",
+  "description": "晚饭的路上请小心背后",
+  "last_updatetime": 1556179815,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wanfan",
+  "hidden": 1,
+  "hot_num": 151482,
+  "hit_num": 76,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 83402,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14433,
+      "tag_name": "SeNMU "
+    }
+  ],
+  "subscribe_num": 726,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 83402,
+          "chapter_title": "1话",
+          "updatetime": 1556179815,
+          "filesize": 466242,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 50,
+    "latest_comment": [
+      {
+        "comment_id": 22113439,
+        "uid": 108493995,
+        "content": "漫画意思差不多是这样的，告诫女性一个人在外面小心点，你看最后两页那两个女的一起走那个怪物看都不看一眼。",
+        "createtime": 1573752606,
+        "nickname": "奥利给干他",
+        "avatar": "https://avatar.dmzj.com/35/03/35034bb3b7d55d25be16966047cb8e8a.png"
+      },
+      {
+        "comment_id": 19686889,
+        "uid": 105415868,
+        "content": "emmmm恐怖",
+        "createtime": 1566550429,
+        "nickname": "小花枪",
+        "avatar": "https://avatar.dmzj.com/8f/81/8f811931ace2b8c53606e490fab97410.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

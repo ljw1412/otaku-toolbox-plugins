@@ -1,0 +1,87 @@
+{
+  "id": 4299,
+  "islong": 2,
+  "direction": 1,
+  "title": "架空庭院",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/架空庭院_第01卷_0001_0d662d9ee14bba44be11e47f1966601b.jpg",
+  "description": "架空庭院",
+  "last_updatetime": 1278671942,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jkty",
+  "hidden": 0,
+  "hot_num": 18819,
+  "hit_num": 528966,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 9236,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2578,
+      "tag_name": "坂井久仁江"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "subscribe_num": 92,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9236,
+          "chapter_title": "1卷",
+          "updatetime": 1279276742,
+          "filesize": 4368487,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 26924889,
+        "uid": 110333297,
+        "content": "一言难尽",
+        "createtime": 1588077825,
+        "nickname": "dmzj_110333297",
+        "avatar": "https://avatar.dmzj.com/3b/d0/3bd02943c0d73b1eee06b21df001ef34.png"
+      },
+      {
+        "comment_id": 21954894,
+        "uid": 109166606,
+        "content": "Emptycourtyard",
+        "createtime": 1573033192,
+        "nickname": "1无",
+        "avatar": "https://avatar.dmzj.com/da/37/da371aa9a9bea55ed848a10c0da1ca5f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

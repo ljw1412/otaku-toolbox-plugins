@@ -1,0 +1,87 @@
+{
+  "id": 39483,
+  "islong": 2,
+  "direction": 1,
+  "title": "Canvas",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/2canval1230dp.jpg",
+  "description": "只有头和四肢的校园故事",
+  "last_updatetime": 1483101839,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "canvas",
+  "hidden": 0,
+  "hot_num": 17350,
+  "hit_num": 52687,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 56107,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6852,
+      "tag_name": "仲间りょう"
+    }
+  ],
+  "subscribe_num": 250,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56107,
+          "chapter_title": "1话",
+          "updatetime": 1483101839,
+          "filesize": 3572805,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 61,
+    "latest_comment": [
+      {
+        "comment_id": 24234055,
+        "uid": 101178148,
+        "content": "想找矶部矶兵卫来的，结果【【【",
+        "createtime": 1581923378,
+        "nickname": "鍵のかかった魔王",
+        "avatar": "https://avatar.dmzj.com/29/63/2963a2d62989635b0f28743b1ed55341.png"
+      },
+      {
+        "comment_id": 21235213,
+        "uid": 105517131,
+        "content": "6666",
+        "createtime": 1570892495,
+        "nickname": "。水中点火 。",
+        "avatar": "https://avatar.dmzj.com/ea/39/ea39771028be6dcb57735355e77397de.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

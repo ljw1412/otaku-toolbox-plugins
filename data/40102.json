@@ -1,0 +1,87 @@
+{
+  "id": 40102,
+  "islong": 2,
+  "direction": 1,
+  "title": "西住异变",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/xizhuyibian.jpg",
+  "description": "少女与战车同人漫画",
+  "last_updatetime": 1491010749,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xizhuyibian",
+  "hidden": 0,
+  "hot_num": 110727,
+  "hit_num": 81133,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 63942,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4904,
+      "tag_name": "滝太郎"
+    }
+  ],
+  "subscribe_num": 960,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 63942,
+          "chapter_title": "1话",
+          "updatetime": 1491010749,
+          "filesize": 3487457,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 26788404,
+        "uid": 110789838,
+        "content": "很好",
+        "createtime": 1587715865,
+        "nickname": "dmzj_110789838",
+        "avatar": "https://avatar.dmzj.com/43/51/43514b8d7dad04a50624a38124634d53.png"
+      },
+      {
+        "comment_id": 25304686,
+        "uid": 102319137,
+        "content": "姐妹三明治",
+        "createtime": 1584296622,
+        "nickname": "咸鱼咸鱼跳",
+        "avatar": "https://avatar.dmzj.com/0e/63/0e637ecdac874eb55f3eeca16ca9f437.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

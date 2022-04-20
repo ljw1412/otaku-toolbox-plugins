@@ -1,0 +1,87 @@
+{
+  "id": 44139,
+  "islong": 2,
+  "direction": 1,
+  "title": "笼中铃",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/longzhongling0510.jpg",
+  "description": "高糖，小铃与大狸子的故事",
+  "last_updatetime": 1525924854,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "longzhongling",
+  "hidden": 0,
+  "hot_num": 121403,
+  "hit_num": 9042,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72604,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6571,
+      "tag_name": "木户"
+    }
+  ],
+  "subscribe_num": 543,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72604,
+          "chapter_title": "1话",
+          "updatetime": 1525924854,
+          "filesize": 1563167,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 40,
+    "latest_comment": [
+      {
+        "comment_id": 15844371,
+        "uid": 108403252,
+        "content": "这一对小铃处于弱势一方是常态化操作了啊",
+        "createtime": 1557749688,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      },
+      {
+        "comment_id": 10120080,
+        "uid": 100018070,
+        "content": "高糖你妹啊！焦糖吧！",
+        "createtime": 1547562407,
+        "nickname": "转瞬即逝⑨世界",
+        "avatar": "https://avatar.dmzj.com/38/ec/38ecff661107e23a63ba858a348b426d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

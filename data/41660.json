@@ -1,0 +1,87 @@
+{
+  "id": 41660,
+  "islong": 2,
+  "direction": 2,
+  "title": "绿灯侠大战肯德基：星际穿越",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/lvdengxiadazhankengdejifengmianl.jpg",
+  "description": "简单来说就是DC和KFC商业互吹短篇第三部",
+  "last_updatetime": 1506911183,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lvdengxiadazhankengdeji",
+  "hidden": 0,
+  "hot_num": 129004,
+  "hit_num": 138462,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 69752,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 505,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 69752,
+          "chapter_title": "1卷",
+          "updatetime": 1506911183,
+          "filesize": 3240668,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 71,
+    "latest_comment": [
+      {
+        "comment_id": 23565732,
+        "uid": 109768323,
+        "content": "牛pi嗷",
+        "createtime": 1580195715,
+        "nickname": "dmzj_109768323",
+        "avatar": "https://avatar.dmzj.com/71/53/7153a692d465023ec05b3e286cac1381.png"
+      },
+      {
+        "comment_id": 23255611,
+        "uid": 105236269,
+        "content": "德克士不配拥有排面（手动滑稽）",
+        "createtime": 1578899143,
+        "nickname": "神棍78656",
+        "avatar": "https://avatar.dmzj.com/a9/2b/a92b57ee623d31807f0f7309ce1af9d0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

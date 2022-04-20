@@ -1,0 +1,87 @@
+{
+  "id": 45828,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C94)Sheen",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/sheen0919.jpg",
+  "description": "Pazooka的个人画集。",
+  "last_updatetime": 1537359736,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sheen",
+  "hidden": 0,
+  "hot_num": 5150341,
+  "hit_num": 66976,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 76213,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15671,
+      "tag_name": "Pazooka"
+    }
+  ],
+  "subscribe_num": 21603,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76213,
+          "chapter_title": "1话",
+          "updatetime": 1537359736,
+          "filesize": 1484750,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 120,
+    "latest_comment": [
+      {
+        "comment_id": 25357969,
+        "uid": 110643994,
+        "content": "画风好好看！",
+        "createtime": 1584423867,
+        "nickname": "八潮鸨芷",
+        "avatar": "https://avatar.dmzj.com/88/65/8865648b80fa2755db9f25a73502a6e9.png"
+      },
+      {
+        "comment_id": 25342626,
+        "uid": 109602535,
+        "content": "很喜欢这种画风。",
+        "createtime": 1584379627,
+        "nickname": "pupuboo",
+        "avatar": "https://avatar.dmzj.com/fc/04/fc042c36e383d85a85af087a40f7d6a6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

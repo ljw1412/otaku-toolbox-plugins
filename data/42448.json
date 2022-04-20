@@ -1,0 +1,91 @@
+{
+  "id": 42448,
+  "islong": 2,
+  "direction": 2,
+  "title": "浴火银河3：狮蝎号",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/171226galaxy.jpg",
+  "description": "黑马出品官方游戏漫画",
+  "last_updatetime": 1514254738,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yuhuoyinhesanshixiehao",
+  "hidden": 1,
+  "hot_num": 89616,
+  "hit_num": 13365,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 66197,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 395,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66197,
+          "chapter_title": "1卷",
+          "updatetime": 1514254738,
+          "filesize": 1859948,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 3575318,
+        "uid": 105012217,
+        "content": "浴火银河是真的好玩，虽然3没了2极高的自由度和操作和配件犹加装了一些列克金系统，但3的美工是真的好",
+        "createtime": 1514265823,
+        "nickname": "宇德真茶未",
+        "avatar": "https://avatar.dmzj.com/22/26/222649721a2ed816ce46b4121508b80c.png"
+      },
+      {
+        "comment_id": 3574691,
+        "uid": 105744292,
+        "content": "惊了",
+        "createtime": 1514259002,
+        "nickname": "少年妄想中。",
+        "avatar": "https://avatar.dmzj.com/cb/eb/cbeb36143ce9e2209b2d07a0971aa8a2.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

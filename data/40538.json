@@ -1,0 +1,87 @@
+{
+  "id": 40538,
+  "islong": 2,
+  "direction": 1,
+  "title": "WILD ROAR",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/wildroar.jpg",
+  "description": "木木津克久的短篇作品，稍稍不可思议的动物故事，世界之中，满溢着声音——",
+  "last_updatetime": 1496061786,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wildroar",
+  "hidden": 0,
+  "hot_num": 225270,
+  "hit_num": 82505,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 60001,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4443,
+      "tag_name": "木木津克久"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "subscribe_num": 1081,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 60001,
+          "chapter_title": "1话",
+          "updatetime": 1496061786,
+          "filesize": 4209553,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 25892771,
+        "uid": 104567670,
+        "content": "为什么也看不了",
+        "createtime": 1585648861,
+        "nickname": "席灯",
+        "avatar": "https://avatar.dmzj.com/36/50/36501930dfb07c8495bfeb96eaf62d90.png"
+      },
+      {
+        "comment_id": 25253605,
+        "uid": 103429219,
+        "content": "这个有意思????",
+        "createtime": 1584189518,
+        "nickname": "自武",
+        "avatar": "https://avatar.dmzj.com/63/29/6329483f3ab96a8c036964b70ec9691a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

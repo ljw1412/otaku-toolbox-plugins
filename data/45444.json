@@ -1,0 +1,119 @@
+{
+  "id": 45444,
+  "islong": 2,
+  "direction": 1,
+  "title": "勇者企划ENDRO～！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/yongzheqihua0818.jpg",
+  "description": "四位萌妹子的奇幻冒险",
+  "last_updatetime": 1565511603,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yongzheqihua",
+  "hidden": 0,
+  "hot_num": 2049467,
+  "hit_num": 123646,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 87729,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4177,
+      "tag_name": "いづみみなみ"
+    }
+  ],
+  "subscribe_num": 9741,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87729,
+          "chapter_title": "5话",
+          "updatetime": 1565511603,
+          "filesize": 1304114,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 87593,
+          "chapter_title": "4话",
+          "updatetime": 1565140766,
+          "filesize": 1764727,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 86677,
+          "chapter_title": "3话",
+          "updatetime": 1562656108,
+          "filesize": 2155136,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 80184,
+          "chapter_title": "2话",
+          "updatetime": 1544773288,
+          "filesize": 2428097,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 76410,
+          "chapter_title": "1话",
+          "updatetime": 1534606362,
+          "filesize": 2732249,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 318,
+    "latest_comment": [
+      {
+        "comment_id": 27101405,
+        "uid": 101042496,
+        "content": "这就完结了？",
+        "createtime": 1588599347,
+        "nickname": "lv4的绅士",
+        "avatar": "https://avatar.dmzj.com/97/48/97482c3bc66dde82bea149e148956b1c.png"
+      },
+      {
+        "comment_id": 26075316,
+        "uid": 110544012,
+        "content": "终于找到你",
+        "createtime": 1586014255,
+        "nickname": "dmzj_110544012",
+        "avatar": "https://avatar.dmzj.com/b9/06/b906e390bef037dd1a8f178f6163a8b9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

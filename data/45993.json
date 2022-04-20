@@ -1,0 +1,101 @@
+{
+  "id": 45993,
+  "islong": 2,
+  "direction": 1,
+  "title": "日本召唤",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/181004rbcy.jpg",
+  "description": "讲究的穿越，遵循了五常不成建制穿越的作品",
+  "last_updatetime": 1538749874,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "ribenzhaohuan",
+  "hidden": 1,
+  "hot_num": 1699010,
+  "hit_num": 452024,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 76714,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15756,
+      "tag_name": "高野千春"
+    }
+  ],
+  "subscribe_num": 7957,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76714,
+          "chapter_title": "3话",
+          "updatetime": 1538749874,
+          "filesize": 2444426,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 76712,
+          "chapter_title": "2话",
+          "updatetime": 1538748984,
+          "filesize": 3466568,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 76678,
+          "chapter_title": "1话",
+          "updatetime": 1538647148,
+          "filesize": 4926046,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 614,
+    "latest_comment": [
+      {
+        "comment_id": 26895205,
+        "uid": 101474735,
+        "content": "这。。",
+        "createtime": 1587996768,
+        "nickname": "辣鸡尘埃",
+        "avatar": "https://avatar.dmzj.com/14/95/1495774e12d439450b20a9c92caa4b98.png"
+      },
+      {
+        "comment_id": 26733812,
+        "uid": 101668451,
+        "content": "太过和平顺利不太现实，重要的民众反应也没有描写，既然和政治军事挂钩就应该理解得更多，这种题材难写的，毕竟即便多是靠想象也得有充分了解才行",
+        "createtime": 1587568767,
+        "nickname": "rain早安",
+        "avatar": "https://avatar.dmzj.com/96/67/9667fc866ec4758d83f932b24768a38b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

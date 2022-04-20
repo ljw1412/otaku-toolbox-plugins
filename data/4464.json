@@ -1,0 +1,112 @@
+{
+  "id": 4464,
+  "islong": 2,
+  "direction": 1,
+  "title": "一休和尚",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/yxhs.jpg",
+  "description": "距今大约六百年前,诞生了一位纯粹的僧人,他就是嘲弄虚名、反抗权贵的高僧—— 一休,一休宗纯投入了一般俗世中,过着豪放的生活。 在烦恼中成长的少年一休是怎样的呢？……",
+  "last_updatetime": 1279000106,
+  "last_update_chapter_name": "VOL04",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yxhs",
+  "hidden": 1,
+  "hot_num": 105870,
+  "hit_num": 1706317,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 9363,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2652,
+      "tag_name": "坂口尚"
+    }
+  ],
+  "subscribe_num": 579,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9363,
+          "chapter_title": "4卷",
+          "updatetime": 1279604906,
+          "filesize": 25792781,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 9362,
+          "chapter_title": "3卷",
+          "updatetime": 1279604906,
+          "filesize": 25060073,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 9361,
+          "chapter_title": "2卷",
+          "updatetime": 1279604906,
+          "filesize": 23822238,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9360,
+          "chapter_title": "1卷",
+          "updatetime": 1279604906,
+          "filesize": 23052809,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 82,
+    "latest_comment": [
+      {
+        "comment_id": 25415273,
+        "uid": 106169751,
+        "content": "一休和尚",
+        "createtime": 1584540632,
+        "nickname": "dmzj_106169751",
+        "avatar": "https://avatar.dmzj.com/22/50/2250020fac9bd0676cbca64edc844268.png"
+      },
+      {
+        "comment_id": 24021242,
+        "uid": 101753563,
+        "content": "神作好评",
+        "createtime": 1581435993,
+        "nickname": "云中超人",
+        "avatar": "https://avatar.dmzj.com/92/02/9202c7a2886ae7640a340e2195198565.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

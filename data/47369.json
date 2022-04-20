@@ -1,0 +1,87 @@
+{
+  "id": 47369,
+  "islong": 2,
+  "direction": 1,
+  "title": "少女前线ComicAnthology",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/shaonvqianxianc001.jpg",
+  "description": "少女前线ComicAnthology",
+  "last_updatetime": 1549348312,
+  "last_update_chapter_name": "赠与AR小队的物品",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shaonvqianxiancomicanthology",
+  "hidden": 1,
+  "hot_num": 2339035,
+  "hit_num": 18102,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 81778,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 10923,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81778,
+          "chapter_title": "1话",
+          "updatetime": 1549348312,
+          "filesize": 1089248,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 233,
+    "latest_comment": [
+      {
+        "comment_id": 26564864,
+        "uid": 103421081,
+        "content": "也没了",
+        "createtime": 1587087875,
+        "nickname": "阿德米拉提",
+        "avatar": "https://avatar.dmzj.com/97/29/97290100afa3aac42576c4f4619c1784.png"
+      },
+      {
+        "comment_id": 26529836,
+        "uid": 110439869,
+        "content": "这....难搞哦",
+        "createtime": 1587000338,
+        "nickname": "白崎长川",
+        "avatar": "https://avatar.dmzj.com/bd/30/bd30da8905544686aa58944b5c4e349a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

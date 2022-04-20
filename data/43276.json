@@ -1,0 +1,87 @@
+{
+  "id": 43276,
+  "islong": 2,
+  "direction": 1,
+  "title": "Hungry Wolf",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/180227hungry.jpg",
+  "description": "高糖，狼爱上鱼的故事，到底谁会被谁吃掉呢~",
+  "last_updatetime": 1519722799,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hungrywolf",
+  "hidden": 0,
+  "hot_num": 119832,
+  "hit_num": 28871,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 73143,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14517,
+      "tag_name": "朱衣子"
+    }
+  ],
+  "subscribe_num": 525,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73143,
+          "chapter_title": "1话",
+          "updatetime": 1519722799,
+          "filesize": 6674101,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 5904909,
+        "uid": 101892189,
+        "content": "最后不是黑化吧……是说自己会绝食而死吗……",
+        "createtime": 1532745328,
+        "nickname": "凯伊姆班宁斯",
+        "avatar": "https://avatar.dmzj.com/36/78/36781053a848209d417de3dc71ce9e41.png"
+      },
+      {
+        "comment_id": 4405120,
+        "uid": 100860484,
+        "content": "结尾突然黑化",
+        "createtime": 1524037310,
+        "nickname": "佐仓虹音",
+        "avatar": "https://avatar.dmzj.com/41/21/4121c3a1e66621b854cb068e23647101.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

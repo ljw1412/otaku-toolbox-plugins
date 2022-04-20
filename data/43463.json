@@ -1,0 +1,87 @@
+{
+  "id": 43463,
+  "islong": 2,
+  "direction": 1,
+  "title": "手牵手",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/shouqianshou.jpg",
+  "description": "辉夜公族与琪露诺温馨温暖的故事~",
+  "last_updatetime": 1520932627,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shouqianshou",
+  "hidden": 0,
+  "hot_num": 112595,
+  "hit_num": 14996,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 68883,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8643,
+      "tag_name": "至る"
+    }
+  ],
+  "subscribe_num": 512,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 68883,
+          "chapter_title": "1话",
+          "updatetime": 1520932824,
+          "filesize": 7409250,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 23167763,
+        "uid": 108194802,
+        "content": "真正的兔子大佬",
+        "createtime": 1578554254,
+        "nickname": "dmzj_108194802",
+        "avatar": "https://avatar.dmzj.com/41/74/4174afd603ab943425b889cdd141d874.png"
+      },
+      {
+        "comment_id": 19510490,
+        "uid": 107728305,
+        "content": "辉夜x琪露诺……从来没见过啊",
+        "createtime": 1566097949,
+        "nickname": "天生我材2015",
+        "avatar": "https://avatar.dmzj.com/82/89/828963ac0b51747ddd09b6f6871b4382.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

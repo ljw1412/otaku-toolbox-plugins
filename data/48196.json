@@ -1,0 +1,114 @@
+{
+  "id": 48196,
+  "islong": 2,
+  "direction": 1,
+  "title": "趣事录",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1062877031555674048.jpg",
+  "description": "神经已上线......",
+  "last_updatetime": 1558628406,
+  "last_update_chapter_name": "第04话 TC之星",
+  "copyright": 1,
+  "first_letter": "q",
+  "comic_py": "qushilu",
+  "hidden": 0,
+  "hot_num": 146145,
+  "hit_num": 2731138,
+  "uid": 106287703,
+  "is_lock": 0,
+  "last_update_chapter_id": 88717,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14653,
+      "tag_name": "LC"
+    }
+  ],
+  "subscribe_num": 671,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88717,
+          "chapter_title": "4话",
+          "updatetime": 1558628406,
+          "filesize": 2236884,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 88280,
+          "chapter_title": "3话",
+          "updatetime": 1557380187,
+          "filesize": 2006980,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 87722,
+          "chapter_title": "2话",
+          "updatetime": 1555654431,
+          "filesize": 847021,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 87721,
+          "chapter_title": "1话",
+          "updatetime": 1555649540,
+          "filesize": 1932982,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "个别原因，暂时停更，，，不好意思啦，，，离开是为了更好的回来！",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 43,
+    "latest_comment": [
+      {
+        "comment_id": 23542583,
+        "uid": 107324864,
+        "content": "神经上线了，更新下线了，果然神经，妙",
+        "createtime": 1580123853,
+        "nickname": "怒索",
+        "avatar": "https://avatar.dmzj.com/93/06/930615a15065c9024d813229c0e62416.png"
+      },
+      {
+        "comment_id": 18579539,
+        "uid": 101807951,
+        "content": "NB",
+        "createtime": 1563923090,
+        "nickname": "吾没得脑子",
+        "avatar": "https://avatar.dmzj.com/e2/86/e28676dac95c63ffa4353b96242b0b80.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

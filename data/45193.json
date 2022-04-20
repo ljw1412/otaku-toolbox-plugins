@@ -1,0 +1,87 @@
+{
+  "id": 45193,
+  "islong": 2,
+  "direction": 1,
+  "title": "小桥浊的碧蓝航线漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/xiaoqiaozhuo20180802.jpg",
+  "description": "小桥浊的碧蓝航线漫画",
+  "last_updatetime": 1533207547,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaoqiaozhuodebilanhangxianmanhua",
+  "hidden": 0,
+  "hot_num": 928000,
+  "hit_num": 13595,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 74468,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15381,
+      "tag_name": "小橋だく"
+    }
+  ],
+  "subscribe_num": 4330,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74468,
+          "chapter_title": "1话",
+          "updatetime": 1533207547,
+          "filesize": 416028,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 98,
+    "latest_comment": [
+      {
+        "comment_id": 25759985,
+        "uid": 110746445,
+        "content": "臭 死 了",
+        "createtime": 1585322952,
+        "nickname": "dmzj_110746445",
+        "avatar": "https://avatar.dmzj.com/f9/53/f9539baee51de28ec0920d20d7402570.png"
+      },
+      {
+        "comment_id": 24005547,
+        "uid": 105121535,
+        "content": "好萌啊",
+        "createtime": 1581404598,
+        "nickname": "z小y粥z",
+        "avatar": "https://avatar.dmzj.com/c5/7b/c57b7848e034fc3d5a617a9e20efabb6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

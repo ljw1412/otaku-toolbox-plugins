@@ -1,0 +1,87 @@
+{
+  "id": 42777,
+  "islong": 2,
+  "direction": 1,
+  "title": "星的一生",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/xingdeyisheng.jpg",
+  "description": "一个人，一个鬼。 理所当然，特別的每一天。 ",
+  "last_updatetime": 1516539004,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xingdeyisheng",
+  "hidden": 0,
+  "hot_num": 86653,
+  "hit_num": 35820,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 72930,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14309,
+      "tag_name": "萩原蓝胡"
+    }
+  ],
+  "subscribe_num": 367,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 72930,
+          "chapter_title": "1话",
+          "updatetime": 1516539004,
+          "filesize": 4785790,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 3733073,
+        "uid": 100426983,
+        "content": "喜欢一个人，将他放在心房里最温暖而柔软的地方。即使自己不在这世间了，也希望有人能够陪伴着你，让你不会感觉到孤单。",
+        "createtime": 1516698870,
+        "nickname": "霜染",
+        "avatar": "https://avatar.dmzj.com/36/01/360197a693c15276577c24fa81e1e610.png"
+      },
+      {
+        "comment_id": 3729221,
+        "uid": 101101695,
+        "content": "好虐啊qwq",
+        "createtime": 1516639183,
+        "nickname": "滞后者",
+        "avatar": "https://avatar.dmzj.com/81/03/8103b03f8ad655a4afb35e7ae85d5544.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

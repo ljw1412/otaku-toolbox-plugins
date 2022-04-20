@@ -1,0 +1,101 @@
+{
+  "id": 47494,
+  "islong": 2,
+  "direction": 1,
+  "title": "Kemurisuka 若叶笔记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/yancaoruoyebiji02180.jpg",
+  "description": "末日废土世界，终日被红色的雾所浓罩着。与被称作“虫”的异形生物不停战斗的少女们的故事",
+  "last_updatetime": 1553698998,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yancaoruoyebiji",
+  "hidden": 0,
+  "hot_num": 1004581,
+  "hit_num": 5414,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 83138,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16522,
+      "tag_name": "たつき"
+    }
+  ],
+  "subscribe_num": 4655,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 83138,
+          "chapter_title": "3话",
+          "updatetime": 1553698998,
+          "filesize": 1075882,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 82256,
+          "chapter_title": "2话",
+          "updatetime": 1550841320,
+          "filesize": 964020,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 82126,
+          "chapter_title": "1话",
+          "updatetime": 1550459686,
+          "filesize": 1108079,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 191,
+    "latest_comment": [
+      {
+        "comment_id": 26909076,
+        "uid": 102342585,
+        "content": "好",
+        "createtime": 1588037699,
+        "nickname": "残梦08421",
+        "avatar": "https://avatar.dmzj.com/9a/76/9a76968f593cf3e0e91cc38dc3fb3e5d.png"
+      },
+      {
+        "comment_id": 26619772,
+        "uid": 19462460,
+        "content": "烟草",
+        "createtime": 1587242488,
+        "nickname": "雪之下の谎言都市",
+        "avatar": "https://avatar.dmzj.com/1b/04/1b04ca8776b2afa322170c3ac283e38b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 42061,
+  "islong": 2,
+  "direction": 2,
+  "title": "漫威超级行动",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/manweichaojixingdong.jpg",
+  "description": "古早中画风清流的《漫威超级行动》第1期来了！在本组先前汉化的《漫威组队》第95期中与小虫合作的职业反腐卫士（误）仿声鸟之前，波比做着同样的工作，用的是另一个身份：女猎人！本期单行本中，她深入神盾局的拉丁美洲分部，以义警身份收集着她先前碰不到的情报，而得出的结论令人震惊……",
+  "last_updatetime": 1511193766,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "manweichaojixingdong",
+  "hidden": 0,
+  "hot_num": 48383,
+  "hit_num": 13104,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 69788,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 209,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 69788,
+          "chapter_title": "1卷",
+          "updatetime": 1511193766,
+          "filesize": 3933305,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 3342591,
+        "uid": 102437243,
+        "content": "开坑",
+        "createtime": 1511272107,
+        "nickname": "轰隆、轰隆、我笑了",
+        "avatar": "https://avatar.dmzj.com/7b/65/7b65fd751312d6e8b46cf89a0f5d9020.png"
+      },
+      {
+        "comment_id": 3338414,
+        "uid": 101030391,
+        "content": "这里真冷清",
+        "createtime": 1511224709,
+        "nickname": "谢毕安",
+        "avatar": "https://avatar.dmzj.com/a6/22/a622b71be538523436a331a2c6942cb7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

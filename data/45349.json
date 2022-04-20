@@ -1,0 +1,87 @@
+{
+  "id": 45349,
+  "islong": 2,
+  "direction": 1,
+  "title": "红魔馆sugarbomb",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/hongmoguansugarbomb.jpg",
+  "description": "东方同人漫画。",
+  "last_updatetime": 1534091066,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hongmoguansugarbomb",
+  "hidden": 0,
+  "hot_num": 98342,
+  "hit_num": 4223,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 76175,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6084,
+      "tag_name": "鸭鸣"
+    }
+  ],
+  "subscribe_num": 454,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 76175,
+          "chapter_title": "1话",
+          "updatetime": 1534091066,
+          "filesize": 1156534,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 34,
+    "latest_comment": [
+      {
+        "comment_id": 26049246,
+        "uid": 107672210,
+        "content": "蕾米莉亚恶魔人说",
+        "createtime": 1585982558,
+        "nickname": "承太郎必秒Dio",
+        "avatar": "https://avatar.dmzj.com/61/72/617257e10349aaa2cd6206ee575e0540.png"
+      },
+      {
+        "comment_id": 15970481,
+        "uid": 108183439,
+        "content": "mark",
+        "createtime": 1557953988,
+        "nickname": "dmzj_108183439",
+        "avatar": "https://avatar.dmzj.com/cc/39/cc394c86db56a8cb9cbd0d9ed618bffb.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

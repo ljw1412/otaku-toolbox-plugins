@@ -1,0 +1,95 @@
+{
+  "id": 45882,
+  "islong": 2,
+  "direction": 2,
+  "title": "化石图鉴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/180924huashi.jpg",
+  "description": "全世界500多种以上化石的彩色图鉴。",
+  "last_updatetime": 1537801028,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huashitujianmaotouying",
+  "hidden": 0,
+  "hot_num": 469102,
+  "hit_num": 158747,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 81094,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15698,
+      "tag_name": "西尔·沃克"
+    },
+    {
+      "tag_id": 15699,
+      "tag_name": "大卫·沃德"
+    }
+  ],
+  "subscribe_num": 2232,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81094,
+          "chapter_title": "1卷",
+          "updatetime": 1537801028,
+          "filesize": 62779997,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 266,
+    "latest_comment": [
+      {
+        "comment_id": 26498082,
+        "uid": 107748983,
+        "content": "在海边看到过三叶虫化石(=´∀｀)人(´∀｀=)",
+        "createtime": 1586920822,
+        "nickname": "秋田月月",
+        "avatar": "https://avatar.dmzj.com/85/47/8547d9f3298fbe7a22cfd9be5bab5b08.png"
+      },
+      {
+        "comment_id": 26257422,
+        "uid": 104691387,
+        "content": "？",
+        "createtime": 1586405808,
+        "nickname": "直到失去了才懂得珍惜",
+        "avatar": "https://avatar.dmzj.com/69/14/691428b1a2ae2cc7f7b54f09db0132d5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

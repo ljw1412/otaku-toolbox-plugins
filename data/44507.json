@@ -1,0 +1,87 @@
+{
+  "id": 44507,
+  "islong": 2,
+  "direction": 1,
+  "title": "新闻工作者文文丸",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/xinwengongzuozhewenwenwan0609.jpg",
+  "description": "你们天狗记者啊，有一个好",
+  "last_updatetime": 1528515072,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xinwengongzuozhewenwenwan",
+  "hidden": 0,
+  "hot_num": 134429,
+  "hit_num": 15009,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 77379,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5056,
+      "tag_name": "石切场"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 613,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77379,
+          "chapter_title": "1话",
+          "updatetime": 1528515072,
+          "filesize": 5686160,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 44,
+    "latest_comment": [
+      {
+        "comment_id": 5244501,
+        "uid": 104599547,
+        "content": "果然，对付蓝还得用到橙~",
+        "createtime": 1529705186,
+        "nickname": "se2230202",
+        "avatar": "https://avatar.dmzj.com/d8/56/d856a952e11c72a25c558e7599c0fae8.png"
+      },
+      {
+        "comment_id": 5083619,
+        "uid": 100400814,
+        "content": "我不是，但是我，有必要",
+        "createtime": 1528838856,
+        "nickname": "英勇正直抓根宝",
+        "avatar": "https://avatar.dmzj.com/27/49/274980955d684073913fb691e0e6f469.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

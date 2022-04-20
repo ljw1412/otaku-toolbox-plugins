@@ -1,0 +1,113 @@
+{
+  "id": 46984,
+  "islong": 2,
+  "direction": 1,
+  "title": "社YASHIRO",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/she20190108.jpg",
+  "description": "一个能吞噬怪物的不死者的故事",
+  "last_updatetime": 1551077551,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sheyashiro",
+  "hidden": 0,
+  "hot_num": 2084059,
+  "hit_num": 100386,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 82317,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16252,
+      "tag_name": "渡边たろう"
+    },
+    {
+      "tag_id": 16253,
+      "tag_name": "カカズカズ"
+    }
+  ],
+  "subscribe_num": 9174,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 82317,
+          "chapter_title": "3话",
+          "updatetime": 1551077551,
+          "filesize": 10955548,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 81613,
+          "chapter_title": "2话",
+          "updatetime": 1548934376,
+          "filesize": 5255163,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 80821,
+          "chapter_title": "1话",
+          "updatetime": 1546593367,
+          "filesize": 4425349,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 190,
+    "latest_comment": [
+      {
+        "comment_id": 27084770,
+        "uid": 107282801,
+        "content": "留",
+        "createtime": 1588539662,
+        "nickname": "岑岑子",
+        "avatar": "https://avatar.dmzj.com/10/09/1009a5afa888f04e2a1faabe3c7fd4b1.png"
+      },
+      {
+        "comment_id": 26367847,
+        "uid": 105652684,
+        "content": "留",
+        "createtime": 1586618038,
+        "nickname": "qzuser2234192",
+        "avatar": "https://avatar.dmzj.com/46/0b/460bafc1ef973e920b2af5a8016ad772.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

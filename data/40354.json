@@ -1,0 +1,95 @@
+{
+  "id": 40354,
+  "islong": 2,
+  "direction": 2,
+  "title": "神话ABC",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/shenhuaabc.jpg",
+  "description": "儿童向的克苏鲁神话绘本",
+  "last_updatetime": 1494087825,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shenhuaabc",
+  "hidden": 1,
+  "hot_num": 51745,
+  "hit_num": 116850,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 61300,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13174,
+      "tag_name": "Mads Brynnum"
+    },
+    {
+      "tag_id": 13175,
+      "tag_name": "Claus Raasted"
+    }
+  ],
+  "subscribe_num": 223,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61300,
+          "chapter_title": "1卷",
+          "updatetime": 1494087825,
+          "filesize": 4929350,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 14267644,
+        "uid": 100825511,
+        "content": "眼",
+        "createtime": 1555180247,
+        "nickname": "あんさつしゃ86963",
+        "avatar": "https://avatar.dmzj.com/1a/15/1a15e33c99865b43f38b74e5b74e0d16.png"
+      },
+      {
+        "comment_id": 6942368,
+        "uid": 101086334,
+        "content": "……克苏鲁这东西有儿童向？",
+        "createtime": 1537604155,
+        "nickname": "千本·嘤",
+        "avatar": "https://avatar.dmzj.com/41/90/41907a0c2f2a9e8598ece819eb37ec00.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

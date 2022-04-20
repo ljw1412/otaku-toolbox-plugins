@@ -1,0 +1,87 @@
+{
+  "id": 42855,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C93)小武画集 Series-3",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/xiaowuhuaji.jpg",
+  "description": "小武老师画集",
+  "last_updatetime": 1516960383,
+  "last_update_chapter_name": "画集",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaowuhuaji",
+  "hidden": 0,
+  "hot_num": 5745652,
+  "hit_num": 228981,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 73441,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14342,
+      "tag_name": "小武"
+    }
+  ],
+  "subscribe_num": 21048,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73441,
+          "chapter_title": "1话",
+          "updatetime": 1516960383,
+          "filesize": 7082261,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 89,
+    "latest_comment": [
+      {
+        "comment_id": 27063496,
+        "uid": 108537273,
+        "content": "眼睛好看",
+        "createtime": 1588492252,
+        "nickname": "dmzj_108537273",
+        "avatar": "https://avatar.dmzj.com/56/83/5683fee8c6f7263b4135d6040520abed.png"
+      },
+      {
+        "comment_id": 25555773,
+        "uid": 110678191,
+        "content": "哇真绝了",
+        "createtime": 1584866984,
+        "nickname": "子虚五",
+        "avatar": "https://avatar.dmzj.com/6f/43/6f4309faa05b6750f933949453d2b6e1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

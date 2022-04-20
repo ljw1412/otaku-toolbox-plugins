@@ -1,0 +1,91 @@
+{
+  "id": 41697,
+  "islong": 2,
+  "direction": 1,
+  "title": "异世界病院",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/yishijiebingyuan.jpg",
+  "description": "异世界医疗也是日新月异♪  突破常识的医学·短篇喜剧！！",
+  "last_updatetime": 1507427452,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yishijiebingyuan",
+  "hidden": 1,
+  "hot_num": 4577207,
+  "hit_num": 423049,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 69572,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3830,
+      "tag_name": "森みさき"
+    }
+  ],
+  "subscribe_num": 19365,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 69572,
+          "chapter_title": "1话",
+          "updatetime": 1507427452,
+          "filesize": 1100070,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 312,
+    "latest_comment": [
+      {
+        "comment_id": 26382692,
+        "uid": 106401176,
+        "content": "没了",
+        "createtime": 1586654000,
+        "nickname": "dmzj_106401176",
+        "avatar": "https://avatar.dmzj.com/97/08/97089d69b017c6561484b9bf7fd9ee79.png"
+      },
+      {
+        "comment_id": 26270298,
+        "uid": 108367655,
+        "content": "来了来了",
+        "createtime": 1586435996,
+        "nickname": "EXDaLao",
+        "avatar": "https://avatar.dmzj.com/98/02/9802101909fadfbf5d46b865878fcaed.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

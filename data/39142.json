@@ -1,0 +1,91 @@
+{
+  "id": 39142,
+  "islong": 2,
+  "direction": 1,
+  "title": "虽然无法看到(c90)",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/suiranwufakandao.jpg",
+  "description": "NARUTO -ナルト-(火影忍者)同人漫画",
+  "last_updatetime": 1478422911,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "suiranwufakandao",
+  "hidden": 0,
+  "hot_num": 47721,
+  "hit_num": 210635,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 59799,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12591,
+      "tag_name": "carbonate(soda)"
+    }
+  ],
+  "subscribe_num": 453,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59799,
+          "chapter_title": "1话",
+          "updatetime": 1478422912,
+          "filesize": 3883212,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 42,
+    "latest_comment": [
+      {
+        "comment_id": 21877624,
+        "uid": 103449773,
+        "content": "这个简介很有看头，说起来我也是什么都看不成.....因为web",
+        "createtime": 1572783768,
+        "nickname": "境界的彼方25817",
+        "avatar": "https://avatar.dmzj.com/db/9d/db9d78fcc25915bdfe002400d3942d7c.png"
+      },
+      {
+        "comment_id": 21162063,
+        "uid": 101869228,
+        "content": "这是啥",
+        "createtime": 1570718861,
+        "nickname": "︶ㄣ单色调丶",
+        "avatar": "https://avatar.dmzj.com/74/01/7401560e5d0319a88f46789b245bd122.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

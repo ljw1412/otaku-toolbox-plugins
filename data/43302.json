@@ -1,0 +1,102 @@
+{
+  "id": 43302,
+  "islong": 2,
+  "direction": 1,
+  "title": "日本禁忌秘境列传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/ribenjinjimijingliezhuan.jpg",
+  "description": "有着不老不死传说的温泉村「龙宫村」到底隐藏着什么！？",
+  "last_updatetime": 1530061936,
+  "last_update_chapter_name": "龙宫村02",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "ribenjinjimijingliezhuan",
+  "hidden": 1,
+  "hot_num": 3115048,
+  "hit_num": 546234,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 77942,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1841,
+      "tag_name": "广濑周"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 15289,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 77942,
+          "chapter_title": "2话",
+          "updatetime": 1530061936,
+          "filesize": 5514820,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 74165,
+          "chapter_title": "1话",
+          "updatetime": 1519869161,
+          "filesize": 5787702,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 916,
+    "latest_comment": [
+      {
+        "comment_id": 26956729,
+        "uid": 109894619,
+        "content": "留",
+        "createtime": 1588137192,
+        "nickname": "李iu",
+        "avatar": "https://avatar.dmzj.com/18/12/18126a56250521360ad036c265edf5c1.png"
+      },
+      {
+        "comment_id": 26901116,
+        "uid": 110915453,
+        "content": "太强了",
+        "createtime": 1588005110,
+        "nickname": "dmzj_110915453",
+        "avatar": "https://avatar.dmzj.com/12/aa/12aad6903420a24065166480d531bf9b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

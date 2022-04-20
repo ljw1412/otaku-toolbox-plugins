@@ -1,0 +1,129 @@
+{
+  "id": 42820,
+  "islong": 2,
+  "direction": 1,
+  "title": "恋文",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/lianwen.jpg",
+  "description": "山本崇一朗短篇漫画集",
+  "last_updatetime": 1549598556,
+  "last_update_chapter_name": "第07话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lianwen",
+  "hidden": 0,
+  "hot_num": 9048969,
+  "hit_num": 2233028,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86203,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7771,
+      "tag_name": "山本崇一朗"
+    }
+  ],
+  "subscribe_num": 40247,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86203,
+          "chapter_title": "7话",
+          "updatetime": 1549598556,
+          "filesize": 3597333,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 82437,
+          "chapter_title": "6话",
+          "updatetime": 1538577102,
+          "filesize": 2785315,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 80654,
+          "chapter_title": "5话",
+          "updatetime": 1533656866,
+          "filesize": 2560620,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 80183,
+          "chapter_title": "4话",
+          "updatetime": 1532855283,
+          "filesize": 937280,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 80182,
+          "chapter_title": "3话",
+          "updatetime": 1532854915,
+          "filesize": 2613125,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 74124,
+          "chapter_title": "2话",
+          "updatetime": 1518538795,
+          "filesize": 3316954,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 73355,
+          "chapter_title": "1话",
+          "updatetime": 1516724164,
+          "filesize": 2580761,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 970,
+    "latest_comment": [
+      {
+        "comment_id": 27035459,
+        "uid": 109832654,
+        "content": "山本nb",
+        "createtime": 1588415687,
+        "nickname": "兰兰兰兰酱",
+        "avatar": "https://avatar.dmzj.com/3a/47/3a474ccf2f6ae48a8ccb2ac6b94a81ba.png"
+      },
+      {
+        "comment_id": 26505487,
+        "uid": 107404246,
+        "content": "这封面",
+        "createtime": 1586941042,
+        "nickname": "dmzj_107404246",
+        "avatar": "https://avatar.dmzj.com/de/e9/dee9a62a67bba61236a033ed049fa062.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

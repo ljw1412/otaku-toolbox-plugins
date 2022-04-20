@@ -1,0 +1,98 @@
+{
+  "id": 43771,
+  "islong": 2,
+  "direction": 1,
+  "title": "颠倒Candy Boy",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/180410candy.jpg",
+  "description": "男孩子变成的女孩子和女孩子变成的男孩子和他们的青梅竹马奇妙的三角关系……",
+  "last_updatetime": 1536245674,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "diandaocandyboy",
+  "hidden": 0,
+  "hot_num": 4894239,
+  "hit_num": 344511,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 80585,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 4518,
+      "tag_name": "性转换"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11971,
+      "tag_name": "岛阴泪亚"
+    }
+  ],
+  "subscribe_num": 22058,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 80585,
+          "chapter_title": "2话",
+          "updatetime": 1536245674,
+          "filesize": 590894,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 76012,
+          "chapter_title": "1话",
+          "updatetime": 1526137252,
+          "filesize": 1575950,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 389,
+    "latest_comment": [
+      {
+        "comment_id": 26967354,
+        "uid": 102106086,
+        "content": "什么时候更新啊",
+        "createtime": 1588214753,
+        "nickname": "斋藤沢木",
+        "avatar": "https://avatar.dmzj.com/78/25/78251b70540db83dda0a4f602f357c87.png"
+      },
+      {
+        "comment_id": 26380965,
+        "uid": 102240596,
+        "content": "和作者的一样短小，也是无力",
+        "createtime": 1586642948,
+        "nickname": "阿坚",
+        "avatar": "https://avatar.dmzj.com/c9/fd/c9fd44b9bbf95c2f2985fc400461444a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

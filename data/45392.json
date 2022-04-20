@@ -1,0 +1,87 @@
+{
+  "id": 45392,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C94)FateGO/scribble",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/180815c94fgo.jpg",
+  "description": "FateGO的(C94)画集",
+  "last_updatetime": 1534322129,
+  "last_update_chapter_name": "C94画集",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "fategoscribble",
+  "hidden": 0,
+  "hot_num": 813175,
+  "hit_num": 99246,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 79792,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15474,
+      "tag_name": "关西渔业协同组合(丸新)"
+    }
+  ],
+  "subscribe_num": 3926,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79792,
+          "chapter_title": "1卷",
+          "updatetime": 1534322129,
+          "filesize": 1088251,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 116,
+    "latest_comment": [
+      {
+        "comment_id": 26296316,
+        "uid": 109379052,
+        "content": "。。。",
+        "createtime": 1586490219,
+        "nickname": "dmzj_109379052",
+        "avatar": "https://avatar.dmzj.com/52/79/527975078aa5212ed0d362504101a062.png"
+      },
+      {
+        "comment_id": 25570371,
+        "uid": 109743871,
+        "content": "get",
+        "createtime": 1584892214,
+        "nickname": "dmzj_109743871",
+        "avatar": "https://avatar.dmzj.com/2c/8a/2c8ae46eb8f4f3229f7a2e5df12db4fe.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

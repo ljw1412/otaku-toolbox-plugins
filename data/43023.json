@@ -1,0 +1,91 @@
+{
+  "id": 43023,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C93)有趣的动物图鉴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/180206dongwu.jpg",
+  "description": "动物和二次元美少女的结合，你是否喜欢呢？！",
+  "last_updatetime": 1517888179,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "youqudedongwutujian",
+  "hidden": 0,
+  "hot_num": 645701,
+  "hit_num": 66707,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 67681,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14423,
+      "tag_name": "きのこむ神(きのこむし)"
+    }
+  ],
+  "subscribe_num": 3008,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67681,
+          "chapter_title": "1话",
+          "updatetime": 1517888179,
+          "filesize": 1243311,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 89,
+    "latest_comment": [
+      {
+        "comment_id": 25290147,
+        "uid": 104480640,
+        "content": "6",
+        "createtime": 1584277965,
+        "nickname": "干物之路",
+        "avatar": "https://avatar.dmzj.com/72/43/7243777ce87da0811117f748c8a5b8e5.png"
+      },
+      {
+        "comment_id": 25166248,
+        "uid": 107205673,
+        "content": "可可爱爱",
+        "createtime": 1583976751,
+        "nickname": "咱也是一名老司机了呢",
+        "avatar": "https://avatar.dmzj.com/94/47/94470b10c897c590130c442e3b5a2ead.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

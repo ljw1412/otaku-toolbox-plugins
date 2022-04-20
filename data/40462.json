@@ -1,0 +1,91 @@
+{
+  "id": 40462,
+  "islong": 2,
+  "direction": 1,
+  "title": "随夏逐流",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/suixiazhuliu.jpg",
+  "description": "和你度过的四天之中，莫名感到的燥热应该不只是夏天的原因吧。",
+  "last_updatetime": 1495264453,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "suixiazhuliu",
+  "hidden": 0,
+  "hot_num": 221403,
+  "hit_num": 339094,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 65384,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13232,
+      "tag_name": "亚良斗るい"
+    }
+  ],
+  "subscribe_num": 890,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65384,
+          "chapter_title": "0话",
+          "updatetime": 1495264453,
+          "filesize": 3121109,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 15861151,
+        "uid": 108320138,
+        "content": "1",
+        "createtime": 1557766975,
+        "nickname": "去冰三分甜",
+        "avatar": "https://avatar.dmzj.com/45/96/459616eee7eaa93ada9c54b8dcff27a4.png"
+      },
+      {
+        "comment_id": 6460620,
+        "uid": 107494785,
+        "content": "都在说33页的脸我也回去看了一眼",
+        "createtime": 1535095289,
+        "nickname": "怀孕的公兔子",
+        "avatar": "https://avatar.dmzj.com/45/28/4528934179d1e5ab5d2cb96ea3587100.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

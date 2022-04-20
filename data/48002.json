@@ -1,0 +1,95 @@
+{
+  "id": 48002,
+  "islong": 2,
+  "direction": 1,
+  "title": "红魔POP",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/190405hmpop.jpg",
+  "description": "微弱红魔要素，大量致敬原作的梗。 如果这样也没问题的话，ゆくりしていてね！",
+  "last_updatetime": 1554441358,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hongmopop",
+  "hidden": 0,
+  "hot_num": 98212,
+  "hit_num": 2619,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 87176,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16782,
+      "tag_name": "樱崎"
+    }
+  ],
+  "subscribe_num": 467,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87176,
+          "chapter_title": "1话",
+          "updatetime": 1554441358,
+          "filesize": 3342123,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 37,
+    "latest_comment": [
+      {
+        "comment_id": 25940301,
+        "uid": 108776782,
+        "content": "双厨狂喜？！",
+        "createtime": 1585752765,
+        "nickname": "莉薇安",
+        "avatar": "https://avatar.dmzj.com/54/05/5405132613f5fcfb1b62c020c3fbd55e.png"
+      },
+      {
+        "comment_id": 24339794,
+        "uid": 107570802,
+        "content": "大川本来就是东方众，后来又画了pop而已",
+        "createtime": 1582187248,
+        "nickname": "dmzj_107570802",
+        "avatar": "https://avatar.dmzj.com/68/52/68520f053662edef655657b40e409c9d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

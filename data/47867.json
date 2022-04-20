@@ -1,0 +1,87 @@
+{
+  "id": 47867,
+  "islong": 2,
+  "direction": 1,
+  "title": "催眠之书",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/cmzs0326.jpg",
+  "description": "我不多说大家都懂",
+  "last_updatetime": 1553584696,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "cuimianzhishu",
+  "hidden": 0,
+  "hot_num": 467446,
+  "hit_num": 46452,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 86841,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5076,
+      "tag_name": "是乃"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 2053,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 86841,
+          "chapter_title": "1话",
+          "updatetime": 1553584696,
+          "filesize": 4884484,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 324,
+    "latest_comment": [
+      {
+        "comment_id": 26863165,
+        "uid": 107483390,
+        "content": "嘶……再多整点，我就好这口????",
+        "createtime": 1587909885,
+        "nickname": "某个死宅",
+        "avatar": "https://avatar.dmzj.com/95/12/9512682a69c04f79ebea7df78099c054.png"
+      },
+      {
+        "comment_id": 26822065,
+        "uid": 108767659,
+        "content": "好康可以",
+        "createtime": 1587800767,
+        "nickname": "dmzj_108767659",
+        "avatar": "https://avatar.dmzj.com/91/8e/918eb9a40b7ea0c7331f2d0129b64dd5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

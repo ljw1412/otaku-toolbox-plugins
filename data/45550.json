@@ -1,0 +1,87 @@
+{
+  "id": 45550,
+  "islong": 2,
+  "direction": 1,
+  "title": "超人100页巨制漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/Supermangigant8262139.jpg",
+  "description": "超人的另一个故事……",
+  "last_updatetime": 1535290828,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chaorenyibaiyejuzhimanhua",
+  "hidden": 0,
+  "hot_num": 65690,
+  "hit_num": 5584,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 81247,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 309,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81247,
+          "chapter_title": "1卷",
+          "updatetime": 1535290828,
+          "filesize": 2256850,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 6667607,
+        "uid": 107728305,
+        "content": "超人真暖啊",
+        "createtime": 1536148808,
+        "nickname": "天生我材2015",
+        "avatar": "https://avatar.dmzj.com/82/89/828963ac0b51747ddd09b6f6871b4382.png"
+      },
+      {
+        "comment_id": 6516626,
+        "uid": 104683521,
+        "content": "标题欺诈，订阅了",
+        "createtime": 1535344414,
+        "nickname": "我就是虫群",
+        "avatar": "https://avatar.dmzj.com/30/33/3033b1b645c6bfe623189b06fc63286d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

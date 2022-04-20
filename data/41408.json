@@ -1,0 +1,94 @@
+{
+  "id": 41408,
+  "islong": 2,
+  "direction": 1,
+  "title": "榛名酱Love All!",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/zhimingall.jpg",
+  "description": "舰娘虐狗向漫画",
+  "last_updatetime": 1504368146,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhenmingjiangloveall",
+  "hidden": 0,
+  "hot_num": 277927,
+  "hit_num": 177085,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 62828,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13710,
+      "tag_name": "スナ"
+    }
+  ],
+  "subscribe_num": 1236,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 62828,
+          "chapter_title": "2话",
+          "updatetime": 1504368146,
+          "filesize": 2683979,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 62827,
+          "chapter_title": "1话",
+          "updatetime": 1504368137,
+          "filesize": 2869379,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 11677866,
+        "uid": 101451915,
+        "content": "这个隐藏了？",
+        "createtime": 1550594541,
+        "nickname": "qzuser0652112",
+        "avatar": "https://avatar.dmzj.com/81/40/81402a0d397bc221535db354fd8b26fb.png"
+      },
+      {
+        "comment_id": 2857718,
+        "uid": 100762777,
+        "content": "这个汉化组我记得是搞本子的啊",
+        "createtime": 1504397509,
+        "nickname": "Photon卐",
+        "avatar": "https://avatar.dmzj.com/13/54/13543cb666ab0814ca9f175d3c160ef6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

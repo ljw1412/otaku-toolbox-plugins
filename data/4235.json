@@ -1,0 +1,98 @@
+{
+  "id": 4235,
+  "islong": 2,
+  "direction": 1,
+  "title": "星际牛仔",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/xinjiniuzai.jpg",
+  "description": "乘坐毕巴普号航行于宇宙间的赏金猎人史派克、杰特、菲、艾德和阿银, 接下一件寻人的委托。然而听说他们所要找寻的人已被关进牢里, 史派克随即混进狱中, 郤发现他们的目标是……",
+  "last_updatetime": 1278559002,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xinjinz",
+  "hidden": 0,
+  "hot_num": 886505,
+  "hit_num": 1060989,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 10501,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2549,
+      "tag_name": "南天佑"
+    }
+  ],
+  "subscribe_num": 4317,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10501,
+          "chapter_title": "2卷",
+          "updatetime": 1279163802,
+          "filesize": 20533946,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 10500,
+          "chapter_title": "1卷",
+          "updatetime": 1279163802,
+          "filesize": 21835493,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 414,
+    "latest_comment": [
+      {
+        "comment_id": 27081518,
+        "uid": 106697292,
+        "content": "好",
+        "createtime": 1588527594,
+        "nickname": "dmzj_106697292",
+        "avatar": "https://avatar.dmzj.com/bb/7c/bb7cbf1ed3a0ccf56601759ce46b8a2a.png"
+      },
+      {
+        "comment_id": 26937658,
+        "uid": 104815486,
+        "content": "看看",
+        "createtime": 1588090341,
+        "nickname": "gxkjmgbsti",
+        "avatar": "https://avatar.dmzj.com/51/28/5128a5764e201cd6a6684ec3c1f41377.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 42869,
+  "islong": 2,
+  "direction": 1,
+  "title": "memento blue",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/004mianmiantus127.jpg",
+  "description": "图书馆里有着幽灵",
+  "last_updatetime": 1516983408,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mementoblue",
+  "hidden": 0,
+  "hot_num": 453635,
+  "hit_num": 106386,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 69363,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14351,
+      "tag_name": "深海绀"
+    }
+  ],
+  "subscribe_num": 2041,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 69363,
+          "chapter_title": "1话",
+          "updatetime": 1516983408,
+          "filesize": 4005313,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 79,
+    "latest_comment": [
+      {
+        "comment_id": 26638507,
+        "uid": 109992488,
+        "content": "老师啊啊啊啊，这真是老师风格啊",
+        "createtime": 1587306990,
+        "nickname": "伍一二呀",
+        "avatar": "https://avatar.dmzj.com/97/00/97005a8e5186ba4e16ba1ffff3e2cef0.png"
+      },
+      {
+        "comment_id": 26533492,
+        "uid": 108846400,
+        "content": "在把刀有点锋利",
+        "createtime": 1587009909,
+        "nickname": "丧遇",
+        "avatar": "https://avatar.dmzj.com/91/92/9192602a20eb972fc68ac98fa3316d1b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

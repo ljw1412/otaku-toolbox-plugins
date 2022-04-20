@@ -1,0 +1,97 @@
+{
+  "id": 44768,
+  "islong": 2,
+  "direction": 2,
+  "title": "栗子的大学生活",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1073550321530172130.jpg",
+  "description": "一个名叫栗子的女孩纸的大学日常生活。",
+  "last_updatetime": 1530172306,
+  "last_update_chapter_name": "平淡的一天",
+  "copyright": 1,
+  "first_letter": "l",
+  "comic_py": "lizidedaxueshenghuo",
+  "hidden": 0,
+  "hot_num": 8490,
+  "hit_num": 53976,
+  "uid": 107355032,
+  "is_lock": 0,
+  "last_update_chapter_id": 73178,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15183,
+      "tag_name": "艾达"
+    }
+  ],
+  "subscribe_num": 40,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73178,
+          "chapter_title": "1话",
+          "updatetime": 1530172306,
+          "filesize": 491679,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 5406790,
+        "uid": 105428561,
+        "content": "画风乍一看很迷……但是形成风格后就觉得是特色了\n（悄咪咪建议作者把字调大点",
+        "createtime": 1530566161,
+        "nickname": "露露露露子",
+        "avatar": "https://avatar.dmzj.com/46/52/46529c69f7a03a5c709dbd4631faf86d.png"
+      },
+      {
+        "comment_id": 5403406,
+        "uid": 101435862,
+        "content": "字小，画风别致",
+        "createtime": 1530545606,
+        "nickname": "FightingEagle",
+        "avatar": "https://avatar.dmzj.com/3c/96/3c966891a8324f34c59700d4047c6dc9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

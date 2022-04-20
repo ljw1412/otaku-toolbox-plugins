@@ -1,0 +1,87 @@
+{
+  "id": 43374,
+  "islong": 2,
+  "direction": 1,
+  "title": "Aigis饭",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/mg0306l.jpg",
+  "description": "千年战争Aigis同人",
+  "last_updatetime": 1520323467,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "aigisfan",
+  "hidden": 0,
+  "hot_num": 125396,
+  "hit_num": 153268,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 70519,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14567,
+      "tag_name": "あかぎゆーと"
+    }
+  ],
+  "subscribe_num": 572,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 70519,
+          "chapter_title": "1话",
+          "updatetime": 1520323467,
+          "filesize": 5509380,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 4030283,
+        "uid": 1717711,
+        "content": "山寨迷宫饭",
+        "createtime": 1520336909,
+        "nickname": "尼娅",
+        "avatar": "https://avatar.dmzj.com/64/91/6491646a06b8815059bd5269423fd74e.png"
+      },
+      {
+        "comment_id": 4030244,
+        "uid": 101334053,
+        "content": "aigis饭，辣妹饭，卫宫饭，宫河饭，迷宫饭，异界饭(ಥ_ಥ)",
+        "createtime": 1520336470,
+        "nickname": "虚境落尘",
+        "avatar": "https://avatar.dmzj.com/23/06/2306c5cc49a502fc31ee03bf98272e61.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

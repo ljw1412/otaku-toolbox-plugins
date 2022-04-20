@@ -1,0 +1,98 @@
+{
+  "id": 4567,
+  "islong": 2,
+  "direction": 1,
+  "title": "Sacrifice",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/54903514201007232039253949407337327_000_03b616c5f110e5e0213581f723672f30.jpg",
+  "description": "异世界的百合物语…机战和GL向漫画",
+  "last_updatetime": 1279454949,
+  "last_update_chapter_name": "后篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sacrifice",
+  "hidden": 0,
+  "hot_num": 46674,
+  "hit_num": 404276,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 10148,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2702,
+      "tag_name": "はなちゃん"
+    }
+  ],
+  "subscribe_num": 164,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10148,
+          "chapter_title": "1话",
+          "updatetime": 1280059749,
+          "filesize": 1448497,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 10147,
+          "chapter_title": "0话",
+          "updatetime": 1280059749,
+          "filesize": 1128897,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 4524164,
+        "uid": 105005009,
+        "content": "一般般",
+        "createtime": 1524997202,
+        "nickname": "嘛谜麻MiHon",
+        "avatar": "https://avatar.dmzj.com/11/13/1113ba0ef02b401edfd81b844259adb6.png"
+      },
+      {
+        "comment_id": 512441,
+        "uid": 100383282,
+        "content": "转变速度太快，好晕",
+        "createtime": 1447290857,
+        "nickname": "飞飞6358",
+        "avatar": "https://avatar.dmzj.com/8a/4d/8a4d11ec4ced65a63a5a70f104eb8e1e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

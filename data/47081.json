@@ -1,0 +1,261 @@
+{
+  "id": 47081,
+  "islong": 2,
+  "direction": 2,
+  "title": "游戏王OWA",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1040695111547122127.jpg",
+  "description": "游戏王的同人 很长，因为想不出发型而被扣了个小X帽的男主的故事",
+  "last_updatetime": 1588257665,
+  "last_update_chapter_name": "第十五回合",
+  "copyright": 1,
+  "first_letter": "y",
+  "comic_py": "youxiwangowa",
+  "hidden": 0,
+  "hot_num": 176957,
+  "hit_num": 3453820,
+  "uid": 104069511,
+  "is_lock": 0,
+  "last_update_chapter_id": 102971,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16303,
+      "tag_name": "1483"
+    }
+  ],
+  "subscribe_num": 774,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102971,
+          "chapter_title": "15话",
+          "updatetime": 1588257665,
+          "filesize": 8221581,
+          "chapter_order": 25
+        },
+        {
+          "chapter_id": 100796,
+          "chapter_title": "14话",
+          "updatetime": 1584768760,
+          "filesize": 9935827,
+          "chapter_order": 24
+        },
+        {
+          "chapter_id": 98281,
+          "chapter_title": "新年贺图",
+          "updatetime": 1579869425,
+          "filesize": 231152,
+          "chapter_order": 23
+        },
+        {
+          "chapter_id": 96059,
+          "chapter_title": "圣诞节贺图",
+          "updatetime": 1577117540,
+          "filesize": 106121,
+          "chapter_order": 22
+        },
+        {
+          "chapter_id": 95800,
+          "chapter_title": "番外1",
+          "updatetime": 1576421412,
+          "filesize": 4169751,
+          "chapter_order": 21
+        },
+        {
+          "chapter_id": 94983,
+          "chapter_title": "13话",
+          "updatetime": 1574169361,
+          "filesize": 7309328,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94383,
+          "chapter_title": "万圣节",
+          "updatetime": 1572489906,
+          "filesize": 125741,
+          "chapter_order": 19
+        },
+        {
+          "chapter_id": 92792,
+          "chapter_title": "12话",
+          "updatetime": 1568562308,
+          "filesize": 8222649,
+          "chapter_order": 18
+        },
+        {
+          "chapter_id": 90553,
+          "chapter_title": "人设二",
+          "updatetime": 1563176514,
+          "filesize": 314330,
+          "chapter_order": 17
+        },
+        {
+          "chapter_id": 90529,
+          "chapter_title": "番外一",
+          "updatetime": 1563175489,
+          "filesize": 632124,
+          "chapter_order": 16
+        },
+        {
+          "chapter_id": 89928,
+          "chapter_title": "11话",
+          "updatetime": 1561984136,
+          "filesize": 3890123,
+          "chapter_order": 15
+        },
+        {
+          "chapter_id": 88108,
+          "chapter_title": "10话",
+          "updatetime": 1556720679,
+          "filesize": 3325448,
+          "chapter_order": 14
+        },
+        {
+          "chapter_id": 87428,
+          "chapter_title": "人设一",
+          "updatetime": 1553496973,
+          "filesize": 322236,
+          "chapter_order": 13
+        },
+        {
+          "chapter_id": 86589,
+          "chapter_title": "9话",
+          "updatetime": 1552239496,
+          "filesize": 4528357,
+          "chapter_order": 12
+        },
+        {
+          "chapter_id": 86296,
+          "chapter_title": "8话",
+          "updatetime": 1551363748,
+          "filesize": 2942623,
+          "chapter_order": 11
+        },
+        {
+          "chapter_id": 86073,
+          "chapter_title": "7话",
+          "updatetime": 1550798841,
+          "filesize": 2722857,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 85815,
+          "chapter_title": "214",
+          "updatetime": 1550133602,
+          "filesize": 68144,
+          "chapter_order": 9
+        },
+        {
+          "chapter_id": 85814,
+          "chapter_title": "6话",
+          "updatetime": 1550133166,
+          "filesize": 4238055,
+          "chapter_order": 8
+        },
+        {
+          "chapter_id": 85640,
+          "chapter_title": "5话",
+          "updatetime": 1549695061,
+          "filesize": 3514988,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 85559,
+          "chapter_title": "4话",
+          "updatetime": 1549166493,
+          "filesize": 2930718,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 85494,
+          "chapter_title": "新年快乐",
+          "updatetime": 1549092967,
+          "filesize": 96523,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 85255,
+          "chapter_title": "3话",
+          "updatetime": 1548469474,
+          "filesize": 2050091,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 84998,
+          "chapter_title": "2话",
+          "updatetime": 1547816777,
+          "filesize": 1815163,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 84813,
+          "chapter_title": "1话",
+          "updatetime": 1547392543,
+          "filesize": 2001054,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 84808,
+          "chapter_title": "圣诞贺图",
+          "updatetime": 1547122446,
+          "filesize": 49090,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "鼓励我的有3件事\n1.一拳超人的原作版，让我硬着头皮也画下去\n2.另外一部同人，连载了10年，也是页更\n3.一位UP主说过的话 有趣的作品是不会被埋没的\n加油",
+  "comic_notice": "快乐的周更结束了 以后开启月更了 会不时放点人设（挖坑）",
+  "comment": {
+    "comment_count": 231,
+    "latest_comment": [
+      {
+        "comment_id": 27050584,
+        "uid": 102002239,
+        "content": "看了最新一话，突然觉得会变成有生之年系列……",
+        "createtime": 1588442695,
+        "nickname": "baka星人",
+        "avatar": "https://avatar.dmzj.com/d4/5a/d45a46cf9aa88ec93771bf4d829a0bc2.png"
+      },
+      {
+        "comment_id": 27041177,
+        "uid": 100917244,
+        "content": "不是很懂决斗，但觉得还是蛮有意思的，加油啊(･ω･)",
+        "createtime": 1588429421,
+        "nickname": "问同归",
+        "avatar": "https://avatar.dmzj.com/f2/43/f243415dfdd713c4fdcfccc7f545e489.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

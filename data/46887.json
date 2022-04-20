@@ -1,0 +1,87 @@
+{
+  "id": 46887,
+  "islong": 2,
+  "direction": 1,
+  "title": "overlord公式设定集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/181225overlord.jpg",
+  "description": "overlord设定集",
+  "last_updatetime": 1545731204,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "o",
+  "comic_py": "overlordgongshishedingji",
+  "hidden": 0,
+  "hot_num": 1155192,
+  "hit_num": 558390,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 84071,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 6316,
+      "tag_name": "轻小说"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13124,
+      "tag_name": "KADOKAWA"
+    }
+  ],
+  "subscribe_num": 5264,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 84071,
+          "chapter_title": "1话",
+          "updatetime": 1545731204,
+          "filesize": 5299318,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1553,
+    "latest_comment": [
+      {
+        "comment_id": 27016723,
+        "uid": 108421713,
+        "content": "图太糊，字太小，看不清。",
+        "createtime": 1588350800,
+        "nickname": "大叔之家",
+        "avatar": "https://avatar.dmzj.com/84/25/8425c82e60b82d1382e4d89563ee9721.png"
+      },
+      {
+        "comment_id": 26911613,
+        "uid": 107522138,
+        "content": "我的评论里有小说",
+        "createtime": 1588045683,
+        "nickname": "因起名不知所措",
+        "avatar": "https://avatar.dmzj.com/75/00/7500c8f05729f9c80bb346f0f5a208a4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

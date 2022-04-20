@@ -1,0 +1,91 @@
+{
+  "id": 40928,
+  "islong": 2,
+  "direction": 1,
+  "title": "Yumekawa yume-chan",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/yumekawayume.jpg",
+  "description": "我成为大酱的特别的人了吗？",
+  "last_updatetime": 1499918484,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yumekawayumechan",
+  "hidden": 1,
+  "hot_num": 357985,
+  "hit_num": 297451,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 61233,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 6219,
+      "tag_name": "节操"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13439,
+      "tag_name": "知るかバカうどん"
+    }
+  ],
+  "subscribe_num": 1478,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61233,
+          "chapter_title": "1话",
+          "updatetime": 1499918484,
+          "filesize": 6370571,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 249,
+    "latest_comment": [
+      {
+        "comment_id": 26287990,
+        "uid": 104658159,
+        "content": "三年没回家老婆生生孩子？",
+        "createtime": 1586464983,
+        "nickname": "雷欧25531",
+        "avatar": "https://avatar.dmzj.com/41/d8/41d8f4b97e46ae8acd3e51eea67d071e.png"
+      },
+      {
+        "comment_id": 24427292,
+        "uid": 103091120,
+        "content": "awsl131",
+        "createtime": 1582389642,
+        "nickname": "山之翁",
+        "avatar": "https://avatar.dmzj.com/48/bf/48bf01f4434fe2df922c800eb85ddf0f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

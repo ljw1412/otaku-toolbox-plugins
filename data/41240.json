@@ -1,0 +1,131 @@
+{
+  "id": 41240,
+  "islong": 2,
+  "direction": 2,
+  "title": "好吃鬼食堂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1050868571503460439.jpg",
+  "description": "好吃鬼（还没想好叫什么）以涂涂画画的方式记录好吃的",
+  "last_updatetime": 1509692839,
+  "last_update_chapter_name": "第七道 凤梨酥",
+  "copyright": 1,
+  "first_letter": "h",
+  "comic_py": "haochiguishitang",
+  "hidden": 0,
+  "hot_num": 118859,
+  "hit_num": 660822,
+  "uid": 105086857,
+  "is_lock": 0,
+  "last_update_chapter_id": 70899,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3327,
+      "tag_name": "美食"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13620,
+      "tag_name": "好吃"
+    }
+  ],
+  "subscribe_num": 365,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 70899,
+          "chapter_title": "7话",
+          "updatetime": 1509692839,
+          "filesize": 283723,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 70340,
+          "chapter_title": "6话",
+          "updatetime": 1508309563,
+          "filesize": 256276,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 68862,
+          "chapter_title": "5话",
+          "updatetime": 1504242587,
+          "filesize": 438020,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 68615,
+          "chapter_title": "4话",
+          "updatetime": 1503630501,
+          "filesize": 384512,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 68316,
+          "chapter_title": "3话",
+          "updatetime": 1502878058,
+          "filesize": 409194,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 68302,
+          "chapter_title": "2话",
+          "updatetime": 1502763012,
+          "filesize": 311669,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 68301,
+          "chapter_title": "1话",
+          "updatetime": 1502762942,
+          "filesize": 305143,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 23794629,
+        "uid": 108233389,
+        "content": "可以",
+        "createtime": 1580846100,
+        "nickname": "dmzj_108233389",
+        "avatar": "https://avatar.dmzj.com/18/9a/189ad641557488fea550089df505bc05.png"
+      },
+      {
+        "comment_id": 11284233,
+        "uid": 107831753,
+        "content": "卡哇伊",
+        "createtime": 1549969053,
+        "nickname": "dmzj_107831753",
+        "avatar": "https://avatar.dmzj.com/cb/f4/cbf4e3fb9a7f437a4c70ed3b0e32aaff.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

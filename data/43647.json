@@ -1,0 +1,87 @@
+{
+  "id": 43647,
+  "islong": 2,
+  "direction": 1,
+  "title": "星旅",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/RCO002xinglv412226.jpg",
+  "description": "image06年出的无字漫",
+  "last_updatetime": 1522592768,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xinglv",
+  "hidden": 0,
+  "hot_num": 149311,
+  "hit_num": 10968,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 75070,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2116,
+      "tag_name": "image"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 604,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 75070,
+          "chapter_title": "1卷",
+          "updatetime": 1522592768,
+          "filesize": 4133339,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 26382730,
+        "uid": 108149467,
+        "content": "没看懂",
+        "createtime": 1586654170,
+        "nickname": "锋子JK",
+        "avatar": "https://avatar.dmzj.com/96/1d/961d6ef2b46b372bb3beded3f1ddf331.png"
+      },
+      {
+        "comment_id": 8876929,
+        "uid": 105365971,
+        "content": "好脑洞",
+        "createtime": 1544510011,
+        "nickname": "qzuser82537471",
+        "avatar": "https://avatar.dmzj.com/33/17/3317a3c93564a0bef495e3f56788ac49.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

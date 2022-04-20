@@ -1,0 +1,104 @@
+{
+  "id": 40089,
+  "islong": 2,
+  "direction": 2,
+  "title": "睡前故事会",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1042664921490769025.jpg",
+  "description": "睡觉前的理想毒物。服下后会睡的很香，很沉。微博：睡前故事会_梦和风。 ",
+  "last_updatetime": 1497579818,
+  "last_update_chapter_name": "真大郎传一",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "shuiqiangushihui",
+  "hidden": 0,
+  "hot_num": 7888,
+  "hit_num": 117704,
+  "uid": 104266492,
+  "is_lock": 0,
+  "last_update_chapter_id": 62314,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13051,
+      "tag_name": "梦和风"
+    }
+  ],
+  "subscribe_num": 33,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 62314,
+          "chapter_title": "2话",
+          "updatetime": 1497579818,
+          "filesize": 328578,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 60189,
+          "chapter_title": "1话",
+          "updatetime": 1490769370,
+          "filesize": 1388600,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 7237427,
+        "uid": 106841958,
+        "content": "封面这个是舔狗吗？",
+        "createtime": 1538850803,
+        "nickname": "蛇皮C",
+        "avatar": "https://avatar.dmzj.com/50/18/5018ae578eb1fe2de0227dc56267ed7a.png"
+      },
+      {
+        "comment_id": 2331141,
+        "uid": 102174670,
+        "content": "对大脑有错误的理解。。真不是肠子",
+        "createtime": 1497625962,
+        "nickname": "零の余弦",
+        "avatar": "https://avatar.dmzj.com/97/49/97490ca81e5b3c678cd87ffe6b996fc8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,154 @@
+{
+  "id": 47845,
+  "islong": 2,
+  "direction": 2,
+  "title": "星际迷航：发现号",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/xjmhfxh190319.jpg",
+  "description": "星际迷航:发现号年刊",
+  "last_updatetime": 1573203024,
+  "last_update_chapter_name": "凯勒斯之光4",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xingjimohangfaxianhao",
+  "hidden": 0,
+  "hot_num": 108920,
+  "hit_num": 19841,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94863,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1206,
+      "tag_name": "IDW"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 435,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94828,
+          "chapter_title": "余波2",
+          "updatetime": 1573108677,
+          "filesize": 2664676,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 94827,
+          "chapter_title": "余波1",
+          "updatetime": 1573108660,
+          "filesize": 2916361,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 94813,
+          "chapter_title": "7卷",
+          "updatetime": 1573055679,
+          "filesize": 5273419,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 94812,
+          "chapter_title": "6卷",
+          "updatetime": 1573054752,
+          "filesize": 5239858,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 94863,
+          "chapter_title": "4卷",
+          "updatetime": 1573203024,
+          "filesize": 4752815,
+          "chapter_order": 55
+        },
+        {
+          "chapter_id": 94809,
+          "chapter_title": "3卷",
+          "updatetime": 1573052094,
+          "filesize": 5636814,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 94808,
+          "chapter_title": "2卷",
+          "updatetime": 1573051673,
+          "filesize": 4951814,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 94799,
+          "chapter_title": "1卷",
+          "updatetime": 1573026518,
+          "filesize": 3722598,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 87546,
+          "chapter_title": "2019年刊",
+          "updatetime": 1552991623,
+          "filesize": 4920665,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 87545,
+          "chapter_title": "2018年刊",
+          "updatetime": 1552991512,
+          "filesize": 5116594,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 22004951,
+        "uid": 104702789,
+        "content": "所以说发现号现在到底在哪里？",
+        "createtime": 1573232608,
+        "nickname": "csuoi",
+        "avatar": "https://avatar.dmzj.com/15/04/1504f7a9e543b466c35014941a47195f.png"
+      },
+      {
+        "comment_id": 22001555,
+        "uid": 22184481,
+        "content": "是和电视剧一样的情节还是新的故事？",
+        "createtime": 1573219997,
+        "nickname": "sd3793337",
+        "avatar": "https://avatar.dmzj.com/15/25/1525edfb0e673a44719bbf06c3136bad.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

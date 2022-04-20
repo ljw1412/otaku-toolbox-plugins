@@ -1,0 +1,87 @@
+{
+  "id": 40011,
+  "islong": 2,
+  "direction": 2,
+  "title": "永恒的星空",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/yonghengdetiank.jpg",
+  "description": "小时候的愿望你实现了吗？看看立志做个漫画家的大卫·博勒讲述他追梦的故事……",
+  "last_updatetime": 1489738372,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yonghengdexingkong",
+  "hidden": 1,
+  "hot_num": 7919,
+  "hit_num": 7727,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 62678,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13007,
+      "tag_name": "zampano"
+    }
+  ],
+  "subscribe_num": 114,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 62678,
+          "chapter_title": "1卷",
+          "updatetime": 1489738372,
+          "filesize": 2244126,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 19116997,
+        "uid": 108035231,
+        "content": "来吧",
+        "createtime": 1565160071,
+        "nickname": "龙须不如面",
+        "avatar": "https://avatar.dmzj.com/13/06/1306f1c0be44fb71e4fb7f223cb7041f.png"
+      },
+      {
+        "comment_id": 1928809,
+        "uid": 100707022,
+        "content": "挺有意思的",
+        "createtime": 1489742008,
+        "nickname": "♩♪♫♬~♩♪♫♬",
+        "avatar": "https://avatar.dmzj.com/fa/cd/facd2e3f970f46a8810cd38bf668acf0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

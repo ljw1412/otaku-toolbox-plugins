@@ -1,0 +1,87 @@
+{
+  "id": 44349,
+  "islong": 2,
+  "direction": 1,
+  "title": "Fate/EXTRA画集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/fateextrahuaji418694l.jpg",
+  "description": "Fate/EXTRA的画集",
+  "last_updatetime": 1527482963,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fateextrahuaji",
+  "hidden": 0,
+  "hot_num": 2034095,
+  "hit_num": 482414,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 73422,
+  "authors": [
+    {
+      "tag_id": 664,
+      "tag_name": "TYPE-MOON"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "subscribe_num": 9227,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 73422,
+          "chapter_title": "1卷",
+          "updatetime": 1527482963,
+          "filesize": 28119203,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 102,
+    "latest_comment": [
+      {
+        "comment_id": 26186660,
+        "uid": 110780884,
+        "content": "武内画的尼禄和亚瑟我竟然分不清……",
+        "createtime": 1586255303,
+        "nickname": "dmzj_110780884",
+        "avatar": "https://avatar.dmzj.com/0e/93/0e9345fb1a965a4c178c0b25f3436619.png"
+      },
+      {
+        "comment_id": 26109709,
+        "uid": 105923850,
+        "content": "小玉藻赛高",
+        "createtime": 1586093270,
+        "nickname": "法拉利五元代金券",
+        "avatar": "https://avatar.dmzj.com/11/99/119945a97a80fae77ff1dabde81bc829.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

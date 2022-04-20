@@ -1,0 +1,87 @@
+{
+  "id": 45961,
+  "islong": 2,
+  "direction": 1,
+  "title": "利威尔同人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/liweiertongre101.jpg",
+  "description": "外国的一个同人作品，画的利威尔小时候的故事。",
+  "last_updatetime": 1538396925,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "liweiertongren",
+  "hidden": 0,
+  "hot_num": 400518,
+  "hit_num": 47744,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 81460,
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "subscribe_num": 1698,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81460,
+          "chapter_title": "1话",
+          "updatetime": 1538396925,
+          "filesize": 1787020,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 486,
+    "latest_comment": [
+      {
+        "comment_id": 26594470,
+        "uid": 110429368,
+        "content": "好看",
+        "createtime": 1587181083,
+        "nickname": "dmzj_110429368",
+        "avatar": "https://avatar.dmzj.com/79/1a/791a8716c6599fb334976c9473b86b12.png"
+      },
+      {
+        "comment_id": 26315018,
+        "uid": 105963327,
+        "content": "他不仅是人类最强也是一个拥有妈妈的孩子",
+        "createtime": 1586523943,
+        "nickname": "Fade婷",
+        "avatar": "https://avatar.dmzj.com/30/26/30268825f26c8155bf320634c4d60adf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,106 @@
+{
+  "id": 41262,
+  "islong": 2,
+  "direction": 1,
+  "title": "月色撩人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/yslr145616789l.jpg",
+  "description": "讲述了一些怪物，浪漫和魔法的故事，各种奇形怪状的生物和人类生活在一起，平凡的生活，不平凡的人生。",
+  "last_updatetime": 1587011997,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yueseliaoren",
+  "hidden": 0,
+  "hot_num": 105917,
+  "hit_num": 6053,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100187,
+  "authors": [
+    {
+      "tag_id": 2116,
+      "tag_name": "image"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "subscribe_num": 488,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100187,
+          "chapter_title": "2卷",
+          "updatetime": 1587011997,
+          "filesize": 6051661,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 100186,
+          "chapter_title": "1卷",
+          "updatetime": 1587011974,
+          "filesize": 6588643,
+          "chapter_order": 20
+        }
+      ]
+    },
+    {
+      "title": "其它汉化版",
+      "data": [
+        {
+          "chapter_id": 68061,
+          "chapter_title": "1卷",
+          "updatetime": 1503039878,
+          "filesize": 2168920,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 2900260,
+        "uid": 24971357,
+        "content": "moonstruck月打？@藤田和日郎",
+        "createtime": 1505055586,
+        "nickname": "哥特式的苍白",
+        "avatar": "https://avatar.dmzj.com/58/55/5855a2f7cb2b333c23bb0ed107a19a4f.png"
+      },
+      {
+        "comment_id": 2756255,
+        "uid": 100355266,
+        "content": "看着像法漫=-=",
+        "createtime": 1503085235,
+        "nickname": "Green 就是这样",
+        "avatar": "https://avatar.dmzj.com/13/38/13387c896e826f48b3677907b9b28ff4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

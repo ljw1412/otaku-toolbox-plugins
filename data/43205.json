@@ -1,0 +1,112 @@
+{
+  "id": 43205,
+  "islong": 2,
+  "direction": 1,
+  "title": "福本All Stars",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/fuben.jpg",
+  "description": "福本公式越境四格漫画，作画并非福本本人但出场人物均为福本各漫画里的。",
+  "last_updatetime": 1519226591,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fubenallstars",
+  "hidden": 0,
+  "hot_num": 84287,
+  "hit_num": 22621,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 74327,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14493,
+      "tag_name": "ゆーぽん"
+    }
+  ],
+  "subscribe_num": 409,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74327,
+          "chapter_title": "4话",
+          "updatetime": 1519226591,
+          "filesize": 263216,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 74320,
+          "chapter_title": "3话",
+          "updatetime": 1519219341,
+          "filesize": 734581,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 74319,
+          "chapter_title": "2话",
+          "updatetime": 1519219326,
+          "filesize": 409295,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 74314,
+          "chapter_title": "1话",
+          "updatetime": 1519215039,
+          "filesize": 1007707,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 10338877,
+        "uid": 105793544,
+        "content": "好短，但是可爱(*╹▽╹*)",
+        "createtime": 1548069716,
+        "nickname": "弑魂ED",
+        "avatar": "https://avatar.dmzj.com/77/29/7729fa1eacf6a078c5256a0183756869.png"
+      },
+      {
+        "comment_id": 4786506,
+        "uid": 105582536,
+        "content": "好棒 可爱",
+        "createtime": 1526917570,
+        "nickname": "辉骼",
+        "avatar": "https://avatar.dmzj.com/be/6a/be6af9da30809f4d5a38cc5557c568e3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}
