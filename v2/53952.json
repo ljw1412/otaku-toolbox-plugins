@@ -1,0 +1,69 @@
+{
+  "id": 53952,
+  "islong": 2,
+  "direction": 1,
+  "title": "Danse Macabre",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/dansemacabre0429.jpg",
+  "description": "东方日常短篇",
+  "last_updatetime": 1588122884,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 22098,
+  "hit_num": 4129,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4904,
+      "tag_name": "滝太郎"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 101,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100798,
+          "chapter_title": "1话",
+          "updatetime": 1588122884,
+          "filesize": 9053816,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 27289704,
+        "uid": 101054483,
+        "content": "啊啊  约2名  魔理沙 灵梦 ：你算计我们！咲夜！",
+        "createtime": 1589176217,
+        "nickname": "The_Game周董",
+        "avatar": "https://avatar.dmzj.com/55/bc/55bcd5e9a60497166e39fc3fab1e16e3.png"
+      },
+      {
+        "comment_id": 26971782,
+        "uid": 109569331,
+        "content": "最后的芙咲好棒啊",
+        "createtime": 1588239249,
+        "nickname": "水島月",
+        "avatar": "https://avatar.dmzj.com/17/7f/177f87e966ecde741c17613812749c27.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 6630,
+  "islong": 2,
+  "direction": 1,
+  "title": "佩尔帕英雄传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/000-封面_6d10a0c96addcd43b26e0322989e03ba.jpg",
+  "description": "相信看过《罗德岛战记》、《五星物语》、《风之大陆》的一定熟悉结成信辉的大名吧。作为一名出色的作画监督，他所作画的作品被天朝的各位所熟悉。其实结成大师曾经对作画监督一职感到厌倦，所以连载了这部《VAELBER SAGA》想借此作品转职成漫画家，这是结成信辉唯一的漫画作品，已经稀有的不能再稀有了。剧情方面无须多做介绍，是一部感觉十分良好的魔幻作品。冲着结成信辉的大名也绝对值得一看。",
+  "last_updatetime": 1288451301,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "p",
+  "comic_py": "peierpayingxiongchuan",
+  "hidden": 0,
+  "hot_num": 26166,
+  "hit_num": 284436,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13769,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3564,
+      "tag_name": "结成信辉"
+    }
+  ],
+  "subscribe_num": 150,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13769,
+          "chapter_title": "1卷",
+          "updatetime": 1289056101,
+          "filesize": 17917747,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 26666465,
+        "uid": 109821055,
+        "content": "让我标记一下",
+        "createtime": 1587386872,
+        "nickname": "dmzj_109821055",
+        "avatar": "https://avatar.dmzj.com/58/15/58151612567fe8936143fea666d74aef.png"
+      },
+      {
+        "comment_id": 26432960,
+        "uid": 108042306,
+        "content": "结城信辉",
+        "createtime": 1586775563,
+        "nickname": "阿政Kars",
+        "avatar": "https://avatar.dmzj.com/1f/0b/1f0b82730c0738daf98b7fad1aed56aa.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

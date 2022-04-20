@@ -1,0 +1,75 @@
+{
+  "id": 53721,
+  "islong": 2,
+  "direction": 1,
+  "title": "幻怪地带",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/hgdd0418.jpg",
+  "description": "《幻怪地带》是讲述突然出现在日常生活中的怪异事件的恐怖系列作品。在已经公开的第一话“泣女坂”中，讲述了来到日本东北地区进行婚前旅行的情侣让和麻子，遇到了哭的声音格外大的女性后所发生的故事……",
+  "last_updatetime": 1587172766,
+  "last_update_chapter_name": "第01话 泣女坂-1",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huanguaididai",
+  "hidden": 0,
+  "hot_num": 1399076,
+  "hit_num": 114927,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 102174,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 546,
+      "tag_name": "伊藤润二"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 6254,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102174,
+          "chapter_title": "1话",
+          "updatetime": 1587172766,
+          "filesize": 2046564,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 244,
+    "latest_comment": [
+      {
+        "comment_id": 30011204,
+        "uid": 110649123,
+        "content": "留",
+        "createtime": 1598635994,
+        "nickname": "dmzj_110649123",
+        "avatar": "https://avatar.dmzj.com/55/24/552420456d089c4137ff000aaaae40e9.png"
+      },
+      {
+        "comment_id": 29976061,
+        "uid": 111521645,
+        "content": "伊藤润二就一部啊",
+        "createtime": 1598513535,
+        "nickname": "dmzj_111521645",
+        "avatar": "https://avatar.dmzj.com/c0/0a/c00a680f345097e9e15347a6f0eb7e9a.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

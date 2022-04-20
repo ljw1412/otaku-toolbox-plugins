@@ -1,0 +1,73 @@
+{
+  "id": 52418,
+  "islong": 2,
+  "direction": 1,
+  "title": "Juice",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/200219juiceeee.jpg",
+  "description": "静立着的骸骨，所等待的是肉体，是心灵，抑或是……",
+  "last_updatetime": 1582110949,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 535430,
+  "hit_num": 192433,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18966,
+      "tag_name": "针川智也"
+    }
+  ],
+  "subscribe_num": 2403,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93692,
+          "chapter_title": "1话",
+          "updatetime": 1582110949,
+          "filesize": 9179154,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 61,
+    "latest_comment": [
+      {
+        "comment_id": 29152282,
+        "uid": 101963617,
+        "content": "…",
+        "createtime": 1595434072,
+        "nickname": "白兰地兑水",
+        "avatar": "https://avatar.dmzj.com/10/83/108316fc534dc83e7547fd2e97dd8620.png"
+      },
+      {
+        "comment_id": 28747940,
+        "uid": 100281758,
+        "content": "就完结了喵喵喵？",
+        "createtime": 1594083330,
+        "nickname": "PK DK",
+        "avatar": "https://avatar.dmzj.com/5d/8b/5d8bb91ae61045a6ec6584391d0b783f.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": 7242,
+  "islong": 2,
+  "direction": 1,
+  "title": "助手这行饭",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/zhushouzhehangfan20110406.jpg",
+  "description": "读了就能明白漫画家的工作,也许你也能成为漫画家的助手.",
+  "last_updatetime": 1302061423,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 14946,
+  "hit_num": 137541,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3862,
+      "tag_name": "葛西理一"
+    }
+  ],
+  "subscribe_num": 74,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 14702,
+          "chapter_title": "1卷",
+          "updatetime": 1302061423,
+          "filesize": 11530114,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 27419751,
+        "uid": 102011570,
+        "content": "十年过去了，不知作者成长了没有，当上漫画家了没有…",
+        "createtime": 1589598392,
+        "nickname": "爱星期天的风81974",
+        "avatar": "https://avatar.dmzj.com/30/11/3011d2484e13e7e9f6984758c614aba8.png"
+      },
+      {
+        "comment_id": 21385271,
+        "uid": 108001978,
+        "content": "擦擦擦",
+        "createtime": 1571245520,
+        "nickname": "夜困",
+        "avatar": "https://avatar.dmzj.com/b0/21/b0213b1c9264806a8323301aeb83d34b.png"
+      }
+    ]
+  }
+}

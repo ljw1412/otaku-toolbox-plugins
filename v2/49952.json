@@ -1,0 +1,79 @@
+{
+  "id": 49952,
+  "islong": 2,
+  "direction": 1,
+  "title": "虫与二人之路",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/190904cyerzl.jpg",
+  "description": "主角组的八页短篇",
+  "last_updatetime": 1567564742,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chongyuerrenzhilu",
+  "hidden": 0,
+  "hot_num": 152600,
+  "hit_num": 1601,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91947,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5488,
+      "tag_name": "色は匂えど"
+    }
+  ],
+  "subscribe_num": 683,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91947,
+          "chapter_title": "1话",
+          "updatetime": 1567564742,
+          "filesize": 1639259,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 43,
+    "latest_comment": [
+      {
+        "comment_id": 29082324,
+        "uid": 104840741,
+        "content": "2020年了 主角组刷多少遍还是很香5555",
+        "createtime": 1595186271,
+        "nickname": "彩千圣贴贴",
+        "avatar": "https://avatar.dmzj.com/11/38/11385586ece412d6f430ea4654c8179e.png"
+      },
+      {
+        "comment_id": 25603049,
+        "uid": 109432982,
+        "content": "主角组冲冲冲",
+        "createtime": 1584973361,
+        "nickname": "dmzj_109432982",
+        "avatar": "https://avatar.dmzj.com/f1/f8/f1f86165759cb938253b930792b34f76.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

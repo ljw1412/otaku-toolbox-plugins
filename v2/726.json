@@ -1,0 +1,93 @@
+{
+  "id": 726,
+  "islong": 2,
+  "direction": 1,
+  "title": "西月东阳",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/xydy.jpg",
+  "description": "简介：\n在东之国一个和平的镇上经营咒术屋的綾野，\n某天西之国一个谜样的美少年尤里欧斯来到店里，\n由於他少根筋的怪异行径引起綾野的注意。\n之后因为綾野的好友对尚未死去的恋人施行返魂之术将他们两人捲入混乱之中，\n从此綾野的运命就开始起了大变化了?！",
+  "last_updatetime": 1178197680,
+  "last_update_chapter_name": "第三卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xydy",
+  "hidden": 0,
+  "hot_num": 19831,
+  "hit_num": 740216,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 987,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 844,
+      "tag_name": "桑原祐子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 82,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 987,
+          "chapter_title": "3卷",
+          "updatetime": 1178197680,
+          "filesize": 12343770,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 986,
+          "chapter_title": "2卷",
+          "updatetime": 1178197680,
+          "filesize": 11786060,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 985,
+          "chapter_title": "1卷",
+          "updatetime": 1178197680,
+          "filesize": 11958214,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 26066296,
+        "uid": 103426760,
+        "content": "留",
+        "createtime": 1586007686,
+        "nickname": "念头",
+        "avatar": "https://avatar.dmzj.com/42/19/4219224c3f06720e5d8f6a00a0b9eb91.png"
+      },
+      {
+        "comment_id": 10277549,
+        "uid": 106940610,
+        "content": "????",
+        "createtime": 1547910934,
+        "nickname": "dmzj_106940610",
+        "avatar": "https://avatar.dmzj.com/6a/dd/6add16b1e4d2f88e9cfdbda5a1ef2a37.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

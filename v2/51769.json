@@ -1,0 +1,69 @@
+{
+  "id": 51769,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C97)AQUART ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/aqcartc97.jpg",
+  "description": "虚拟主播阿库娅画集。",
+  "last_updatetime": 1578539344,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 4552326,
+  "hit_num": 189568,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16362,
+      "tag_name": "がおう"
+    }
+  ],
+  "subscribe_num": 20675,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92878,
+          "chapter_title": "1卷",
+          "updatetime": 1578539344,
+          "filesize": 915328,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 793,
+    "latest_comment": [
+      {
+        "comment_id": 30039248,
+        "uid": 109847147,
+        "content": "留",
+        "createtime": 1598763730,
+        "nickname": "dmzj_109847147",
+        "avatar": "https://avatar.dmzj.com/f2/be/f2bef0bb922d7084fa5eabbe8f103226.png"
+      },
+      {
+        "comment_id": 29859305,
+        "uid": 106393682,
+        "content": "i",
+        "createtime": 1598090117,
+        "nickname": "祈祷着",
+        "avatar": "https://avatar.dmzj.com/60/75/6075fc8752d44891b12df76cbee670db.png"
+      }
+    ]
+  }
+}

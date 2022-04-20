@@ -1,0 +1,90 @@
+{
+  "id": 51945,
+  "islong": 2,
+  "direction": 1,
+  "title": "温暖的印记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/200124wndyj.jpg",
+  "description": "几位情侣的狗粮日常？",
+  "last_updatetime": 1598356195,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 1237653,
+  "hit_num": 162738,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18694,
+      "tag_name": "深町なか"
+    }
+  ],
+  "subscribe_num": 5697,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 107140,
+          "chapter_title": "3话",
+          "updatetime": 1598356195,
+          "filesize": 1094836,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 102579,
+          "chapter_title": "2话",
+          "updatetime": 1589985201,
+          "filesize": 1282459,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 100977,
+          "chapter_title": "1话",
+          "updatetime": 1587020548,
+          "filesize": 1626198,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 97173,
+          "chapter_title": "特别篇",
+          "updatetime": 1579849297,
+          "filesize": 3324162,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 152,
+    "latest_comment": [
+      {
+        "comment_id": 30062276,
+        "uid": 101376600,
+        "content": "暖心手帐",
+        "createtime": 1598867699,
+        "nickname": "不二熊酱",
+        "avatar": "https://avatar.dmzj.com/eb/ca/ebca9d60c462ff3a5af83209c082cc05.png"
+      },
+      {
+        "comment_id": 29952305,
+        "uid": 107627612,
+        "content": "好温馨啊",
+        "createtime": 1598421892,
+        "nickname": "dmzj_107627612",
+        "avatar": "https://avatar.dmzj.com/43/10/4310a7bcb7acdc7199cc91335c2e86ba.png"
+      }
+    ]
+  }
+}

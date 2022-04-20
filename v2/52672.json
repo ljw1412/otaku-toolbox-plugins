@@ -1,0 +1,108 @@
+{
+  "id": 52672,
+  "islong": 2,
+  "direction": 1,
+  "title": "笔仙魔女审判",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/bixiaomonvshenpan20.jpg",
+  "description": "螺旋卷和赌徒游行作者新作开始连载,与同学一起用笔仙找出魔女是谁吧!这可是会堵上性命的游戏哦!",
+  "last_updatetime": 1595468484,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bixianmonvshenpan",
+  "hidden": 0,
+  "hot_num": 1471804,
+  "hit_num": 672590,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 104576,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    },
+    {
+      "tag_id": 6437,
+      "tag_name": "颜艺"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4516,
+      "tag_name": "中山敦支"
+    },
+    {
+      "tag_id": 19094,
+      "tag_name": "amphibian"
+    }
+  ],
+  "subscribe_num": 6306,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 104576,
+          "chapter_title": "4话",
+          "updatetime": 1595468484,
+          "filesize": 8755670,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 103714,
+          "chapter_title": "3话",
+          "updatetime": 1593788925,
+          "filesize": 11242337,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 99082,
+          "chapter_title": "2话",
+          "updatetime": 1584945074,
+          "filesize": 5485573,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 98055,
+          "chapter_title": "1话",
+          "updatetime": 1583073051,
+          "filesize": 10714800,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 328,
+    "latest_comment": [
+      {
+        "comment_id": 30048662,
+        "uid": 101879192,
+        "content": "最后那里我不太明白，谁可以解答一下疑惑吗？",
+        "createtime": 1598799920,
+        "nickname": "星星泊",
+        "avatar": "https://avatar.dmzj.com/10/29/1029cc7090459fc618759193c2550345.png"
+      },
+      {
+        "comment_id": 30020464,
+        "uid": 102361378,
+        "content": "开始就结束了",
+        "createtime": 1598689995,
+        "nickname": "喵了个咪喵喵",
+        "avatar": "https://avatar.dmzj.com/f2/60/f2609785774514751b2cb87cf369ced6.png"
+      }
+    ]
+  },
+  "is_need_login": 1
+}

@@ -1,0 +1,79 @@
+{
+  "id": 50683,
+  "islong": 2,
+  "direction": 2,
+  "title": "The Art of Skyrim",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/191017sgjz.jpg",
+  "description": "上古卷轴设定集",
+  "last_updatetime": 1571324765,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "theartofskyrim",
+  "hidden": 0,
+  "hot_num": 132067,
+  "hit_num": 215183,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 89327,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5806,
+      "tag_name": "魔幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5610,
+      "tag_name": "Bethesda"
+    }
+  ],
+  "subscribe_num": 605,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89327,
+          "chapter_title": "1卷",
+          "updatetime": 1571324765,
+          "filesize": 44982867,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 41,
+    "latest_comment": [
+      {
+        "comment_id": 27139332,
+        "uid": 100537359,
+        "content": "这都有阿666",
+        "createtime": 1588701608,
+        "nickname": "搫纪",
+        "avatar": "https://avatar.dmzj.com/b5/fd/b5fdc1746cc51187ae5f29faa865f631.png"
+      },
+      {
+        "comment_id": 21488087,
+        "uid": 100456132,
+        "content": "前50页的的画面明显还没从上古卷轴4里走出来，后面才是真正的上古卷轴5！",
+        "createtime": 1571535788,
+        "nickname": "长见识了",
+        "avatar": "https://avatar.dmzj.com/21/05/21053a848a4b4c0b049decad6fa898a0.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

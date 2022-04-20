@@ -1,0 +1,95 @@
+{
+  "id": 5290,
+  "islong": 2,
+  "direction": 2,
+  "title": "弹片 阿瑞斯提亚崛起",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/tp20100817.jpg",
+  "description": "《阿瑞斯提亚崛起》是《弹片》漫画三部曲的第一部。\n《弹片》同名电影将由《Underworld黑夜传说》的导演Len Wiseman执导。",
+  "last_updatetime": 1282288598,
+  "last_update_chapter_name": "第05卷",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tanpianaruisitiyajueqi",
+  "hidden": 0,
+  "hot_num": 17527,
+  "hit_num": 342704,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12172,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2966,
+      "tag_name": "radical comic"
+    }
+  ],
+  "subscribe_num": 52,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12172,
+          "chapter_title": "5卷",
+          "updatetime": 1282288598,
+          "filesize": 4645833,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 12171,
+          "chapter_title": "4卷",
+          "updatetime": 1282288539,
+          "filesize": 2839186,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 11942,
+          "chapter_title": "3卷",
+          "updatetime": 1282037135,
+          "filesize": 3433036,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 11941,
+          "chapter_title": "2卷",
+          "updatetime": 1282037130,
+          "filesize": 2810842,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 11940,
+          "chapter_title": "1卷",
+          "updatetime": 1282037130,
+          "filesize": 4799760,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 23766132,
+        "uid": 104505849,
+        "content": "成员",
+        "createtime": 1580777961,
+        "nickname": "金田の晒奶奶",
+        "avatar": "https://avatar.dmzj.com/a1/dd/a1dd1e846748eaba52f8323aa61226cf.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

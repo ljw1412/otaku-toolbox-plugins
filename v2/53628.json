@@ -1,0 +1,79 @@
+{
+  "id": 53628,
+  "islong": 2,
+  "direction": 2,
+  "title": "生命与自然",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1087948101586706637.jpg",
+  "description": "在我们的生活中有许多奇妙的未知，比如大自然，它的神秘让我们着迷。",
+  "last_updatetime": 1586706943,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 2440,
+  "hit_num": 848,
+  "uid": 108794810,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19492,
+      "tag_name": "啊飞"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96278,
+          "chapter_title": "1话",
+          "updatetime": 1586706943,
+          "filesize": 611110,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 29534192,
+        "uid": 111409362,
+        "content": "emm  没了？",
+        "createtime": 1596816815,
+        "nickname": "dmzj_111409362",
+        "avatar": "https://avatar.dmzj.com/62/a1/62a16e0fc174b97882efe3e0ce414e5b.png"
+      },
+      {
+        "comment_id": 26760805,
+        "uid": 108794810,
+        "content": "此公益漫画免版权！",
+        "createtime": 1587643193,
+        "nickname": "阿飞DMZJ",
+        "avatar": "https://avatar.dmzj.com/57/07/57077c13fbcf0b2e66d6947116b8130a.png"
+      }
+    ]
+  }
+}

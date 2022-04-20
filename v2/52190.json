@@ -1,0 +1,105 @@
+{
+  "id": 52190,
+  "islong": 1,
+  "direction": 1,
+  "title": "艾鲁曼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/ailuman200223.jpg",
+  "description": "名为斯托丽的公务员和名为姆基卡的神秘生物的宇宙冒险故事x",
+  "last_updatetime": 1594181356,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 738221,
+  "hit_num": 62882,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14438,
+      "tag_name": "纪ノ目"
+    }
+  ],
+  "subscribe_num": 3409,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 104879,
+          "chapter_title": "5话",
+          "updatetime": 1594181356,
+          "filesize": 1162534,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 99555,
+          "chapter_title": "4话",
+          "updatetime": 1584417307,
+          "filesize": 1139726,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 98733,
+          "chapter_title": "3话",
+          "updatetime": 1582980295,
+          "filesize": 982264,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 98216,
+          "chapter_title": "2话",
+          "updatetime": 1581929404,
+          "filesize": 881480,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 97657,
+          "chapter_title": "1话",
+          "updatetime": 1580977581,
+          "filesize": 1102688,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 55,
+    "latest_comment": [
+      {
+        "comment_id": 28809082,
+        "uid": 107770336,
+        "content": "????",
+        "createtime": 1594294022,
+        "nickname": "阿祸迷子",
+        "avatar": "https://avatar.dmzj.com/32/bb/32bb2c2738215d06a30db81b0203d4c8.png"
+      },
+      {
+        "comment_id": 27820379,
+        "uid": 109114345,
+        "content": "和洛基卡一个世界观么",
+        "createtime": 1590862863,
+        "nickname": "佐伯同学",
+        "avatar": "https://avatar.dmzj.com/cb/f3/cbf3c67424b228c9f1be3d036c76960e.png"
+      }
+    ]
+  }
+}

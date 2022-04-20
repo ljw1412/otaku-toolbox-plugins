@@ -1,0 +1,118 @@
+{
+  "id": 52319,
+  "islong": 2,
+  "direction": 1,
+  "title": "布吉猫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/bjm20200214.jpg",
+  "description": "家里来了一只能带来幸福(?)的猫",
+  "last_updatetime": 1595927585,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 556244,
+  "hit_num": 54810,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 2550,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101619,
+          "chapter_title": "8话",
+          "updatetime": 1595927585,
+          "filesize": 1093539,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 101618,
+          "chapter_title": "7话",
+          "updatetime": 1595927566,
+          "filesize": 699420,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 99034,
+          "chapter_title": "6话",
+          "updatetime": 1590646097,
+          "filesize": 1010239,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 94838,
+          "chapter_title": "5话",
+          "updatetime": 1583053622,
+          "filesize": 1137006,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 94837,
+          "chapter_title": "4话",
+          "updatetime": 1583053603,
+          "filesize": 1097240,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 94836,
+          "chapter_title": "3话",
+          "updatetime": 1583053584,
+          "filesize": 1072795,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 94835,
+          "chapter_title": "2话",
+          "updatetime": 1583053564,
+          "filesize": 1059318,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94158,
+          "chapter_title": "1话",
+          "updatetime": 1581650458,
+          "filesize": 1176011,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 34,
+    "latest_comment": [
+      {
+        "comment_id": 29492649,
+        "uid": 104858156,
+        "content": "这个世界的猫。都是可怕的猫妖吗？",
+        "createtime": 1596673927,
+        "nickname": "懒猫儿",
+        "avatar": "https://avatar.dmzj.com/29/83/298383e83d76665776e87463541d3608.png"
+      },
+      {
+        "comment_id": 27849777,
+        "uid": 110612763,
+        "content": "可爱可爱 还会叫人麻麻awsl",
+        "createtime": 1590962621,
+        "nickname": "好耶",
+        "avatar": "https://avatar.dmzj.com/81/46/81469a396d106c9619465ef7b01fc066.png"
+      }
+    ]
+  }
+}

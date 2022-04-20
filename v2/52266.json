@@ -1,0 +1,74 @@
+{
+  "id": 52266,
+  "islong": 2,
+  "direction": 2,
+  "title": "鬼月",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1099730991581254383.jpg",
+  "description": "根据小说《7月7日，鬼月》改编！",
+  "last_updatetime": 1582124430,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 3825,
+  "hit_num": 162,
+  "uid": 109973099,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18417,
+      "tag_name": "Y.Z"
+    }
+  ],
+  "subscribe_num": 15,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99437,
+          "chapter_title": "1话",
+          "updatetime": 1582124430,
+          "filesize": 1728406,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 98931,
+          "chapter_title": "0话",
+          "updatetime": 1581254649,
+          "filesize": 829997,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 24370835,
+        "uid": 100656627,
+        "content": "嗯？鬼月？【觉察】",
+        "createtime": 1582257530,
+        "nickname": "黑亮对峙增殖猫",
+        "avatar": "https://avatar.dmzj.com/54/35/5435eeca70b8608af4973359150166bb.png"
+      }
+    ]
+  }
+}

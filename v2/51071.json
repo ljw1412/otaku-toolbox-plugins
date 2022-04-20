@@ -1,0 +1,104 @@
+{
+  "id": 51071,
+  "islong": 2,
+  "direction": 2,
+  "title": "Meka",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/meka20191114.jpg",
+  "description": "故事是说在未来世界里，城市是由一些类人形机械人坐驾”Meka” 所保护。Meka 的两位驾驶员因他们的坐驾失灵而被困在一个曾经繁华但因他们的军事行动而演变成战争地带的城市中。",
+  "last_updatetime": 1573744962,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "meka",
+  "hidden": 0,
+  "hot_num": 137927,
+  "hit_num": 41622,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94822,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18262,
+      "tag_name": "JD Morvan"
+    },
+    {
+      "tag_id": 18263,
+      "tag_name": "bengal"
+    }
+  ],
+  "subscribe_num": 606,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94822,
+          "chapter_title": "4卷",
+          "updatetime": 1573744962,
+          "filesize": 6573164,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 94821,
+          "chapter_title": "3卷",
+          "updatetime": 1573744959,
+          "filesize": 6164110,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 94820,
+          "chapter_title": "2卷",
+          "updatetime": 1573744956,
+          "filesize": 6073459,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94819,
+          "chapter_title": "1卷",
+          "updatetime": 1573744945,
+          "filesize": 6043828,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 22452458,
+        "uid": 109727091,
+        "content": "好作品",
+        "createtime": 1575397505,
+        "nickname": "dmzj_109727091",
+        "avatar": "https://avatar.dmzj.com/86/51/86510d2312cf7da5a91d12b118fc16cf.png"
+      },
+      {
+        "comment_id": 22139423,
+        "uid": 100948643,
+        "content": "至少最后这两个士兵做了一回正确的事情",
+        "createtime": 1573889854,
+        "nickname": "顶级，菜鸟",
+        "avatar": "https://avatar.dmzj.com/53/11/5311ce3520cbb6ab24b0c9ae98b54ac0.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

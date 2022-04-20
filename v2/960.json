@@ -1,0 +1,75 @@
+{
+  "id": 960,
+  "islong": 2,
+  "direction": 1,
+  "title": "日日是好日",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/rrshr.jpg",
+  "description": "山口律在打工閎遇見的黑道竟然是男友?到底發生什麼事?",
+  "last_updatetime": 1178197680,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "rrshr",
+  "hidden": 0,
+  "hot_num": 21480,
+  "hit_num": 485249,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 1512,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 975,
+      "tag_name": "日向真比琉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 87,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 1512,
+          "chapter_title": "1卷",
+          "updatetime": 1178197680,
+          "filesize": 10910707,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 25874104,
+        "uid": 108226998,
+        "content": "……",
+        "createtime": 1585590912,
+        "nickname": "本子之家ppp",
+        "avatar": "https://avatar.dmzj.com/61/7c/617c8e0ea5e65c850829df3235259158.png"
+      },
+      {
+        "comment_id": 1234571,
+        "uid": 16488567,
+        "content": "很有趣",
+        "createtime": 1472605530,
+        "nickname": "cake17",
+        "avatar": "https://avatar.dmzj.com/2a/fe/2afe2bf5f0911a1fa28f436fa129936b.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

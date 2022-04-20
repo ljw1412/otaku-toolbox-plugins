@@ -1,0 +1,126 @@
+{
+  "id": 53436,
+  "islong": 2,
+  "direction": 1,
+  "title": "I like 俳句",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/waipaiju0404.jpg",
+  "description": "幽寂古池塘，青蛙跃入水中央",
+  "last_updatetime": 1591573326,
+  "copyright": 0,
+  "first_letter": "i",
+  "hot_num": 631474,
+  "hit_num": 55452,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19450,
+      "tag_name": "骨抜きチキン"
+    }
+  ],
+  "subscribe_num": 2976,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 104632,
+          "chapter_title": "8话",
+          "updatetime": 1591573326,
+          "filesize": 3190488,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 104340,
+          "chapter_title": "7话",
+          "updatetime": 1591011765,
+          "filesize": 3912091,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 104188,
+          "chapter_title": "6话",
+          "updatetime": 1590673154,
+          "filesize": 5520265,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 103871,
+          "chapter_title": "5话",
+          "updatetime": 1589987870,
+          "filesize": 5720002,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 103279,
+          "chapter_title": "4话",
+          "updatetime": 1588918541,
+          "filesize": 3583729,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 102348,
+          "chapter_title": "3话",
+          "updatetime": 1587479050,
+          "filesize": 3148535,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 101963,
+          "chapter_title": "2话",
+          "updatetime": 1586786911,
+          "filesize": 3021429,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 101471,
+          "chapter_title": "1话",
+          "updatetime": 1586013590,
+          "filesize": 4594225,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 94,
+    "latest_comment": [
+      {
+        "comment_id": 29396218,
+        "uid": 104913091,
+        "content": "厉害",
+        "createtime": 1596342623,
+        "nickname": "Mr Fun",
+        "avatar": "https://avatar.dmzj.com/a7/40/a7404fa326fbd681a516ea1ee4a5f566.png"
+      },
+      {
+        "comment_id": 29189027,
+        "uid": 104224562,
+        "content": "你们的俳句\n根本就不是俳句\n而是川柳啊",
+        "createtime": 1595588534,
+        "nickname": "卢卡斯叔叔_鳄鱼",
+        "avatar": "https://avatar.dmzj.com/93/23/9323b3408416def10fa5a565574c544d.png"
+      }
+    ]
+  }
+}

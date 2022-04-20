@@ -1,0 +1,76 @@
+{
+  "id": 50527,
+  "islong": 2,
+  "direction": 1,
+  "title": "I Scream",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/IScream20191008.jpg",
+  "description": "来自心底深处的呐喊",
+  "last_updatetime": 1581861721,
+  "copyright": 0,
+  "first_letter": "i",
+  "hot_num": 4966931,
+  "hit_num": 862045,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8861,
+      "tag_name": "猫村"
+    }
+  ],
+  "subscribe_num": 22787,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97389,
+          "chapter_title": "2话",
+          "updatetime": 1581861721,
+          "filesize": 4196810,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 93011,
+          "chapter_title": "1话",
+          "updatetime": 1570529729,
+          "filesize": 4738499,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1355,
+    "latest_comment": [
+      {
+        "comment_id": 30059681,
+        "uid": 105377772,
+        "content": "百合无限好，厉害了",
+        "createtime": 1598853799,
+        "nickname": "这是一只神兽",
+        "avatar": "https://avatar.dmzj.com/e1/f1/e1f1169ddd88b90f6be3c6a13aa0b9c2.png"
+      },
+      {
+        "comment_id": 30058442,
+        "uid": 110840135,
+        "content": "留",
+        "createtime": 1598847235,
+        "nickname": "常怀客",
+        "avatar": "https://avatar.dmzj.com/be/90/be90a231e86010c91e95b2dbfaa271a5.png"
+      }
+    ]
+  }
+}

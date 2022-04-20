@@ -1,0 +1,73 @@
+{
+  "id": 53238,
+  "islong": 2,
+  "direction": 1,
+  "title": "烟草与恶魔",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/emyuyanchao0327.jpg",
+  "description": "恶魔时常无聊着",
+  "last_updatetime": 1585276153,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 460458,
+  "hit_num": 96665,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14975,
+      "tag_name": "芥川龙之介"
+    },
+    {
+      "tag_id": 19349,
+      "tag_name": "よしだ"
+    }
+  ],
+  "subscribe_num": 2193,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95468,
+          "chapter_title": "1话",
+          "updatetime": 1585276153,
+          "filesize": 3156104,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 51,
+    "latest_comment": [
+      {
+        "comment_id": 28814136,
+        "uid": 106268621,
+        "content": "好故事",
+        "createtime": 1594306145,
+        "nickname": "ryc061",
+        "avatar": "https://avatar.dmzj.com/42/83/4283b89f6b85751b2da04f6f769178b9.png"
+      },
+      {
+        "comment_id": 28651476,
+        "uid": 104137913,
+        "content": "好看诶",
+        "createtime": 1593784197,
+        "nickname": "凉娘凉",
+        "avatar": "https://avatar.dmzj.com/36/00/360064a32c8a842db3bcd6fa724a3536.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": 9460,
+  "islong": 2,
+  "direction": 1,
+  "title": "我的朋友很少日和",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/wdpyhsrh.jpg",
+  "description": "我的朋友很少，邻人部活动记录。",
+  "last_updatetime": 1434125557,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 453490,
+  "hit_num": 2211340,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2279,
+      "tag_name": "bomi"
+    },
+    {
+      "tag_id": 5008,
+      "tag_name": "木瓜庵"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2601,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42009,
+          "chapter_title": "8话",
+          "updatetime": 1434125557,
+          "filesize": 1001249,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 41675,
+          "chapter_title": "7话",
+          "updatetime": 1433246310,
+          "filesize": 1593036,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 39979,
+          "chapter_title": "6话",
+          "updatetime": 1428324063,
+          "filesize": 1700970,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 22756,
+          "chapter_title": "5话",
+          "updatetime": 1367205346,
+          "filesize": 1725748,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 21180,
+          "chapter_title": "4话",
+          "updatetime": 1356852634,
+          "filesize": 1835870,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 21000,
+          "chapter_title": "3话",
+          "updatetime": 1355669627,
+          "filesize": 1960648,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 20359,
+          "chapter_title": "2话",
+          "updatetime": 1350492481,
+          "filesize": 2894849,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 20141,
+          "chapter_title": "1话",
+          "updatetime": 1348370994,
+          "filesize": 1713840,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 25547731,
+        "uid": 108435148,
+        "content": "求原版，有的话大佬给个回复",
+        "createtime": 1584836719,
+        "nickname": "dmzj_108435148",
+        "avatar": "https://avatar.dmzj.com/b4/e2/b4e2202f140a7c4c28331cc55c932ac7.png"
+      },
+      {
+        "comment_id": 25214973,
+        "uid": 107283878,
+        "content": "这个之前的呢？好像跳了好多，我都不知道该从哪里接……",
+        "createtime": 1584098657,
+        "nickname": "dmzj殊归",
+        "avatar": "https://avatar.dmzj.com/56/34/5634f91b4cde22239698ec7cb1c59672.png"
+      }
+    ]
+  }
+}

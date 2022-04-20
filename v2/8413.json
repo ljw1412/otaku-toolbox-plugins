@@ -1,0 +1,137 @@
+{
+  "id": 8413,
+  "islong": 2,
+  "direction": 1,
+  "title": "Sunny",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/sunny2.jpg",
+  "description": "松本大洋最新漫画连载",
+  "last_updatetime": 1500605074,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 822558,
+  "hit_num": 2455441,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2359,
+      "tag_name": "松本大洋"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "subscribe_num": 4159,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61474,
+          "chapter_title": "6卷",
+          "updatetime": 1500605074,
+          "filesize": 29399732,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 60562,
+          "chapter_title": "5卷",
+          "updatetime": 1497854430,
+          "filesize": 22136862,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 58857,
+          "chapter_title": "4卷",
+          "updatetime": 1492417433,
+          "filesize": 22758085,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 58856,
+          "chapter_title": "3卷",
+          "updatetime": 1492417411,
+          "filesize": 22759775,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 58011,
+          "chapter_title": "2卷",
+          "updatetime": 1489725052,
+          "filesize": 22826201,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 59175,
+          "chapter_title": "1卷",
+          "updatetime": 1493345149,
+          "filesize": 20655805,
+          "chapter_order": 1
+        }
+      ]
+    },
+    {
+      "title": "汉化版",
+      "data": [
+        {
+          "chapter_id": 19266,
+          "chapter_title": "4话",
+          "updatetime": 1348931182,
+          "filesize": 3155397,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 19265,
+          "chapter_title": "3话",
+          "updatetime": 1348931174,
+          "filesize": 2863438,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 17229,
+          "chapter_title": "2话",
+          "updatetime": 1331177083,
+          "filesize": 2825364,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 17180,
+          "chapter_title": "1话",
+          "updatetime": 1330774624,
+          "filesize": 3595611,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 145,
+    "latest_comment": [
+      {
+        "comment_id": 29974583,
+        "uid": 106342102,
+        "content": "一直喜欢松本笔下戴眼镜的角色，阿静，月本，大雄。。",
+        "createtime": 1598506963,
+        "nickname": "dmzj_106342102",
+        "avatar": "https://avatar.dmzj.com/ef/fe/effef5a00b2c21f579b61701a8cbab0e.png"
+      },
+      {
+        "comment_id": 29704737,
+        "uid": 101378229,
+        "content": "好在还在",
+        "createtime": 1597505759,
+        "nickname": "吃屎小孩",
+        "avatar": "https://avatar.dmzj.com/b0/36/b03638de23140e52e809510013165358.png"
+      }
+    ]
+  }
+}

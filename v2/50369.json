@@ -1,0 +1,69 @@
+{
+  "id": 50369,
+  "islong": 2,
+  "direction": 1,
+  "title": "Stream of Life",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/190930streamoflife.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1569808704,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 45977,
+  "hit_num": 8240,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5954,
+      "tag_name": "あさつき堂"
+    }
+  ],
+  "subscribe_num": 209,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89218,
+          "chapter_title": "1话",
+          "updatetime": 1569808704,
+          "filesize": 9653755,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 29792446,
+        "uid": 110539479,
+        "content": "算是黑化堂暖暖的作品了吧",
+        "createtime": 1597843728,
+        "nickname": "恋恋天下第一啊",
+        "avatar": "https://avatar.dmzj.com/06/10/0610b9706e73e3ac9d1b3aa240192f46.png"
+      },
+      {
+        "comment_id": 20761453,
+        "uid": 100779896,
+        "content": "画质有点渣。。。。字看不清",
+        "createtime": 1569840352,
+        "nickname": "oblivious2",
+        "avatar": "https://avatar.dmzj.com/81/97/8197442b1e964bb5a13a00f55fcc8430.png"
+      }
+    ]
+  }
+}

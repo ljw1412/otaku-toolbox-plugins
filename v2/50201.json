@@ -1,0 +1,73 @@
+{
+  "id": 50201,
+  "islong": 2,
+  "direction": 1,
+  "title": "安西信行短篇集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/190919axxxdpj.jpg",
+  "description": "烈火之炎、火箭公主、MAR-魔兵傳奇的作者安西信行老師的短篇故事集",
+  "last_updatetime": 1568856261,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 389498,
+  "hit_num": 171932,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 604,
+      "tag_name": "安西信行"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1822,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92887,
+          "chapter_title": "1卷",
+          "updatetime": 1568856261,
+          "filesize": 55791709,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 21765188,
+        "uid": 106275550,
+        "content": "有魔兵传奇吗",
+        "createtime": 1572395256,
+        "nickname": "wuli咸鱼君",
+        "avatar": "https://avatar.dmzj.com/78/28/78289cd8274ec23d3c2a40d77622a3ae.png"
+      },
+      {
+        "comment_id": 20454985,
+        "uid": 102508053,
+        "content": "慢慢看",
+        "createtime": 1568911170,
+        "nickname": "hikinito",
+        "avatar": "https://avatar.dmzj.com/dc/1e/dc1e3615cd7fbba1d5ac6648da6ece46.png"
+      }
+    ]
+  }
+}

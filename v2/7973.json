@@ -1,0 +1,75 @@
+{
+  "id": 7973,
+  "islong": 2,
+  "direction": 1,
+  "title": "Wolf x Red",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/wolfred.jpg",
+  "description": "jump的金未来明日漫画家第七弹。讲述一个美女侦探员和怪物探员一块解谜除妖的故事，香艳的故事和惊悚剧情。",
+  "last_updatetime": 1321588511,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wolfxred",
+  "hidden": 0,
+  "hot_num": 24256,
+  "hit_num": 472148,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 16090,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4255,
+      "tag_name": "嵩橋ヒデキ"
+    }
+  ],
+  "subscribe_num": 115,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 16090,
+          "chapter_title": "1话",
+          "updatetime": 1321588511,
+          "filesize": 7915595,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 17228986,
+        "uid": 106292569,
+        "content": "先订阅着",
+        "createtime": 1560762390,
+        "nickname": "叮叮叮叮咚",
+        "avatar": "https://avatar.dmzj.com/7a/7a/7a7a940e38342c8fa1f765183cde9eaf.png"
+      },
+      {
+        "comment_id": 11876850,
+        "uid": 107943910,
+        "content": "不知道有人看过wolf guy没",
+        "createtime": 1550939454,
+        "nickname": "dmzj_107943910",
+        "avatar": "https://avatar.dmzj.com/b2/d5/b2d5dc62c52ab015c281037739d189bb.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

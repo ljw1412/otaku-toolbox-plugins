@@ -1,0 +1,105 @@
+{
+  "id": 53400,
+  "islong": 2,
+  "direction": 1,
+  "title": "不良少女×牛肉干",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/blsnxnrg0402.jpg",
+  "description": "一匹\"狼\"和一个不良少女的相遇 她们的故事开始了..",
+  "last_updatetime": 1595337095,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 4211362,
+  "hit_num": 308636,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8015,
+      "tag_name": "由井ひな子"
+    }
+  ],
+  "subscribe_num": 19674,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 105571,
+          "chapter_title": "5话",
+          "updatetime": 1595337095,
+          "filesize": 3947504,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 105049,
+          "chapter_title": "4话",
+          "updatetime": 1594524671,
+          "filesize": 3174304,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 103939,
+          "chapter_title": "3话",
+          "updatetime": 1592373144,
+          "filesize": 3324301,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 103112,
+          "chapter_title": "2话",
+          "updatetime": 1591015452,
+          "filesize": 2387260,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 100309,
+          "chapter_title": "1话",
+          "updatetime": 1585823881,
+          "filesize": 5084402,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 344,
+    "latest_comment": [
+      {
+        "comment_id": 29786333,
+        "uid": 110904229,
+        "content": "标注",
+        "createtime": 1597817024,
+        "nickname": "ふりをしている",
+        "avatar": "https://avatar.dmzj.com/90/23/902367500d4deb634dad3cd986a1e332.png"
+      },
+      {
+        "comment_id": 29511505,
+        "uid": 102492480,
+        "content": "狼狗不分，是非颠倒",
+        "createtime": 1596731583,
+        "nickname": "bellolin",
+        "avatar": "https://avatar.dmzj.com/27/95/2795ecf489a2b9ffe929e48a977b3164.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": 52258,
+  "islong": 2,
+  "direction": 1,
+  "title": "美术同好会",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/msthh20200211.jpg",
+  "description": "美术同好会里小学妹与学长的日常欢乐故事",
+  "last_updatetime": 1596080200,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 3511971,
+  "hit_num": 525316,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18873,
+      "tag_name": "砂场すずめ"
+    }
+  ],
+  "subscribe_num": 15874,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101182,
+          "chapter_title": "8话",
+          "updatetime": 1596080200,
+          "filesize": 1751921,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 100004,
+          "chapter_title": "7话",
+          "updatetime": 1593517355,
+          "filesize": 968116,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 98751,
+          "chapter_title": "6话",
+          "updatetime": 1590988399,
+          "filesize": 1830724,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 96425,
+          "chapter_title": "5话",
+          "updatetime": 1587035705,
+          "filesize": 1198324,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 93909,
+          "chapter_title": "4话",
+          "updatetime": 1582618135,
+          "filesize": 606824,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 93667,
+          "chapter_title": "3话",
+          "updatetime": 1582080504,
+          "filesize": 919760,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 93286,
+          "chapter_title": "2话",
+          "updatetime": 1581413416,
+          "filesize": 812189,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 93285,
+          "chapter_title": "1话",
+          "updatetime": 1581413394,
+          "filesize": 715015,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 712,
+    "latest_comment": [
+      {
+        "comment_id": 30025464,
+        "uid": 106368565,
+        "content": "都是高手。",
+        "createtime": 1598708995,
+        "nickname": "上古青",
+        "avatar": "https://avatar.dmzj.com/3f/98/3f987cc3920894e5a8e67dc527a71ec4.png"
+      },
+      {
+        "comment_id": 29847982,
+        "uid": 108859467,
+        "content": "lsp同好会????",
+        "createtime": 1598031429,
+        "nickname": "386车长",
+        "avatar": "https://avatar.dmzj.com/37/21/37217d964398354b9a7ea52a52af0ea8.png"
+      }
+    ]
+  }
+}

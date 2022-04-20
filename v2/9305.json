@@ -1,0 +1,84 @@
+{
+  "id": 9305,
+  "islong": 2,
+  "direction": 1,
+  "title": "20世纪传说",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/20shijichuanshuo.jpg",
+  "description": "海王是相扑界的人中之龙，因爱上黑社会头目的女儿，在父母的反对下，婚约解除，名美自杀海王於是从相扑界消失… \n",
+  "last_updatetime": 1345526337,
+  "copyright": 0,
+  "first_letter": "2",
+  "hot_num": 19264,
+  "hit_num": 964018,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1627,
+      "tag_name": "田中亚希夫"
+    },
+    {
+      "tag_id": 4931,
+      "tag_name": "石井隆"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 89,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19765,
+          "chapter_title": "2卷",
+          "updatetime": 1345526337,
+          "filesize": 25728859,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 19764,
+          "chapter_title": "1卷",
+          "updatetime": 1345526320,
+          "filesize": 25626037,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 28979371,
+        "uid": 105898973,
+        "content": "哟西",
+        "createtime": 1594842275,
+        "nickname": "孑以北",
+        "avatar": "https://avatar.dmzj.com/49/76/4976abde6db90757b81c422ef64f11be.png"
+      },
+      {
+        "comment_id": 28922917,
+        "uid": 101957409,
+        "content": "老师的军鸡有吗？",
+        "createtime": 1594659945,
+        "nickname": "ゼロのまま",
+        "avatar": "https://avatar.dmzj.com/85/19/851974c3c972fd43e69ce60553adb1ea.png"
+      }
+    ]
+  }
+}

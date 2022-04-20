@@ -1,0 +1,73 @@
+{
+  "id": 53089,
+  "islong": 2,
+  "direction": 1,
+  "title": "简短随兴的联合同人本",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/sxjb2020320.jpg",
+  "description": "幻想乡的日常。",
+  "last_updatetime": 1584670385,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 24552,
+  "hit_num": 2856,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19277,
+      "tag_name": "CRIE"
+    },
+    {
+      "tag_id": 19278,
+      "tag_name": "铁びたーん"
+    }
+  ],
+  "subscribe_num": 112,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95615,
+          "chapter_title": "1话",
+          "updatetime": 1584670385,
+          "filesize": 3455056,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 25556720,
+        "uid": 101085970,
+        "content": "喵~",
+        "createtime": 1584869541,
+        "nickname": "时钟嘀嗒作响",
+        "avatar": "https://avatar.dmzj.com/46/60/466096014002471ad130ffb3783ee5dd.png"
+      },
+      {
+        "comment_id": 25481093,
+        "uid": 108038105,
+        "content": "没有搞错的话，是不是有一本搬运过来的同人被删了？",
+        "createtime": 1584683108,
+        "nickname": "心之所向，追求美好",
+        "avatar": "https://avatar.dmzj.com/90/27/9027c37474c280a7437e003812789906.png"
+      }
+    ]
+  }
+}

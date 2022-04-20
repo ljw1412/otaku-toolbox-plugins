@@ -1,0 +1,90 @@
+{
+  "id": 51886,
+  "islong": 2,
+  "direction": 2,
+  "title": "正协：机密",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/200119zhengxiejimi.jpg",
+  "description": "创刊于2005年9月，全套39册，美国正义协会的系列漫画，每卷分别讲述了不同的成员在各个时间点所经历过的各种前所未有、不为人知的故事历程。",
+  "last_updatetime": 1580140853,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 120207,
+  "hit_num": 74703,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 509,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98336,
+          "chapter_title": "4卷",
+          "updatetime": 1580140853,
+          "filesize": 5282007,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 98271,
+          "chapter_title": "3卷",
+          "updatetime": 1580027819,
+          "filesize": 4331981,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 98160,
+          "chapter_title": "2卷",
+          "updatetime": 1579686663,
+          "filesize": 4876828,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 98066,
+          "chapter_title": "1卷",
+          "updatetime": 1579445085,
+          "filesize": 6792894,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 23554893,
+        "uid": 106986548,
+        "content": "政协：红头文件",
+        "createtime": 1580146538,
+        "nickname": "小北方的黑框眼镜",
+        "avatar": "https://avatar.dmzj.com/26/66/2666ae6caf0a1f979adf8e66a3f44a56.png"
+      },
+      {
+        "comment_id": 23552142,
+        "uid": 105944483,
+        "content": "哇这效率无敌",
+        "createtime": 1580142659,
+        "nickname": "杨树青",
+        "avatar": "https://avatar.dmzj.com/39/65/396570254d3b1d7473cc1671127a4c5c.png"
+      }
+    ]
+  }
+}

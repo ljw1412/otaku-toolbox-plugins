@@ -1,0 +1,73 @@
+{
+  "id": 53752,
+  "islong": 2,
+  "direction": 1,
+  "title": "草莓味糖果",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/cmwtg200419.jpg",
+  "description": "草莓味糖果，酸酸甜甜。",
+  "last_updatetime": 1587307628,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 400769,
+  "hit_num": 22842,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6859,
+      "tag_name": "中村ユキチ"
+    }
+  ],
+  "subscribe_num": 1741,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100341,
+          "chapter_title": "1话",
+          "updatetime": 1587307628,
+          "filesize": 2609793,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 84,
+    "latest_comment": [
+      {
+        "comment_id": 29141649,
+        "uid": 111065316,
+        "content": "孩子被刀傻了",
+        "createtime": 1595410318,
+        "nickname": "今天也很卑微",
+        "avatar": "https://avatar.dmzj.com/12/70/127001dcbb217d006711ea41161dfec4.png"
+      },
+      {
+        "comment_id": 28957849,
+        "uid": 102118313,
+        "content": "？？？能把百合标签去掉吗，要不加个欢乐向啊",
+        "createtime": 1594783179,
+        "nickname": "巽泽",
+        "avatar": "https://avatar.dmzj.com/67/18/67189f230a090d8d763cbdbbe7ceac79.png"
+      }
+    ]
+  }
+}

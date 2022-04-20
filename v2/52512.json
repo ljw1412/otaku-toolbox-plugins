@@ -1,0 +1,100 @@
+{
+  "id": 52512,
+  "islong": 2,
+  "direction": 1,
+  "title": "小小芙兰酱系列",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/200224xxfljxl.jpg",
+  "description": "小小芙兰酱系列\n小小的芙兰酱超可爱！！",
+  "last_updatetime": 1582534160,
+  "last_update_chapter_name": "在身边",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaoxiaofulanjiangxilie",
+  "hidden": 0,
+  "hot_num": 148274,
+  "hit_num": 29792,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97737,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19024,
+      "tag_name": "しょうぽん"
+    }
+  ],
+  "subscribe_num": 682,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97737,
+          "chapter_title": "在身边",
+          "updatetime": 1582534160,
+          "filesize": 3853620,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 97736,
+          "chapter_title": "夜里",
+          "updatetime": 1582534127,
+          "filesize": 4731176,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 97735,
+          "chapter_title": "感冒",
+          "updatetime": 1582534104,
+          "filesize": 1543311,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 97734,
+          "chapter_title": "日常",
+          "updatetime": 1582534079,
+          "filesize": 2824565,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 41,
+    "latest_comment": [
+      {
+        "comment_id": 26291492,
+        "uid": 105967397,
+        "content": "这个画师画过小芙兰的本，瞎了",
+        "createtime": 1586483145,
+        "nickname": "Fuyuky",
+        "avatar": "https://avatar.dmzj.com/d7/6b/d76b296389cc0e39b392382282d038e1.png"
+      },
+      {
+        "comment_id": 25317339,
+        "uid": 109177205,
+        "content": "可能是天狗养的，看第三集的那个叶子",
+        "createtime": 1584340867,
+        "nickname": "dmzj_109177205",
+        "avatar": "https://avatar.dmzj.com/bc/86/bc8695906da4948e279c76362180edbe.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

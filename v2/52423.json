@@ -1,0 +1,75 @@
+{
+  "id": 52423,
+  "islong": 2,
+  "direction": 1,
+  "title": "OL与小人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/200219olyuxiaoren.jpg",
+  "description": "【巨大化】被、被吃掉了！！",
+  "last_updatetime": 1582117019,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "o",
+  "comic_py": "olyuxiaoren",
+  "hidden": 0,
+  "hot_num": 139332,
+  "hit_num": 46132,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93696,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15696,
+      "tag_name": "いばらーど"
+    }
+  ],
+  "subscribe_num": 604,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93696,
+          "chapter_title": "1话",
+          "updatetime": 1582117019,
+          "filesize": 1308483,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 29906582,
+        "uid": 110242322,
+        "content": "留",
+        "createtime": 1598266009,
+        "nickname": "dmzj_110242322",
+        "avatar": "https://avatar.dmzj.com/d5/17/d5173910dafed2a77198c9b035494e68.png"
+      },
+      {
+        "comment_id": 29600923,
+        "uid": 15480070,
+        "content": "字小了",
+        "createtime": 1597077425,
+        "nickname": "速冻香菜",
+        "avatar": "https://avatar.dmzj.com/45/68/4568cd44ef4ea70197827c90542e0b75.png"
+      }
+    ]
+  },
+  "is_need_login": 1
+}

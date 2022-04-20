@@ -1,0 +1,104 @@
+{
+  "id": 8519,
+  "islong": 2,
+  "direction": 1,
+  "title": "漫才帮",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/mancaibang20120325.jpg",
+  "description": "不卖座的漫才师·飞夫在组合解散后卷入了纷争。最后被关进了拘留所。而他在拘留所遇到了超级不良的龙平。飞夫发现龙平外表可怕但却很有吐槽的才能。于是力邀龙平成为自己的搭档闯入笑料的世界。",
+  "last_updatetime": 1337578115,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 18079,
+  "hit_num": 118747,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4498,
+      "tag_name": "阿部润"
+    }
+  ],
+  "subscribe_num": 93,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 17756,
+          "chapter_title": "6话",
+          "updatetime": 1337578115,
+          "filesize": 1704971,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 17261,
+          "chapter_title": "5话",
+          "updatetime": 1334047605,
+          "filesize": 2735006,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 17123,
+          "chapter_title": "4话",
+          "updatetime": 1332918769,
+          "filesize": 1932087,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 17089,
+          "chapter_title": "3话",
+          "updatetime": 1332662157,
+          "filesize": 3890143,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 17088,
+          "chapter_title": "2话",
+          "updatetime": 1332662149,
+          "filesize": 3613307,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 17087,
+          "chapter_title": "1话",
+          "updatetime": 1332662142,
+          "filesize": 2540163,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 26465733,
+        "uid": 100640310,
+        "content": "都出真人电影了  为啥漫画就6话",
+        "createtime": 1586847440,
+        "nickname": "老板 来包辣条",
+        "avatar": "https://avatar.dmzj.com/1f/17/1f174ab14ba8426ba2ac9fc1ff531ebb.png"
+      },
+      {
+        "comment_id": 7205970,
+        "uid": 104594304,
+        "content": "没有老师的忘却的幸子么",
+        "createtime": 1538755749,
+        "nickname": "BLESS46588",
+        "avatar": "https://avatar.dmzj.com/83/39/8339532f59ae0d10bd3fbaa18752a487.png"
+      }
+    ]
+  }
+}

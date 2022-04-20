@@ -1,0 +1,73 @@
+{
+  "id": 50078,
+  "islong": 2,
+  "direction": 1,
+  "title": "歌宴地狱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/190912geyan.jpg",
+  "description": "地灵殿同人。",
+  "last_updatetime": 1568252639,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 61431,
+  "hit_num": 13770,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6863,
+      "tag_name": "$"
+    }
+  ],
+  "subscribe_num": 291,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88106,
+          "chapter_title": "1话",
+          "updatetime": 1568252639,
+          "filesize": 6304510,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 23510105,
+        "uid": 108403252,
+        "content": "好好的本子了",
+        "createtime": 1579973663,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      },
+      {
+        "comment_id": 20346499,
+        "uid": 109078101,
+        "content": "老物补档吗？这个作者的本画风都很可爱啊",
+        "createtime": 1568599651,
+        "nickname": "一边睡觉一边睡觉",
+        "avatar": "https://avatar.dmzj.com/97/d0/97d03d113d91857dc24c5d3b95c28bac.png"
+      }
+    ]
+  }
+}

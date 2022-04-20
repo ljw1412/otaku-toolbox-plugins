@@ -1,0 +1,90 @@
+{
+  "id": 9976,
+  "islong": 2,
+  "direction": 1,
+  "title": "茜君的心世界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/qjdxsj.jpg",
+  "description": "呐?你平时都在想些什么呢.......",
+  "last_updatetime": 1399038002,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 250517,
+  "hit_num": 1446259,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5069,
+      "tag_name": "汤木のじん"
+    }
+  ],
+  "subscribe_num": 1789,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 28187,
+          "chapter_title": "4话",
+          "updatetime": 1399038002,
+          "filesize": 4219048,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 25819,
+          "chapter_title": "3话",
+          "updatetime": 1387991307,
+          "filesize": 4148218,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 22511,
+          "chapter_title": "2话",
+          "updatetime": 1372478333,
+          "filesize": 3383946,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 19495,
+          "chapter_title": "1话",
+          "updatetime": 1356674159,
+          "filesize": 4290220,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 23247038,
+        "uid": 109588980,
+        "content": "已阅，甜",
+        "createtime": 1578850517,
+        "nickname": "折木奉太郎520",
+        "avatar": "https://avatar.dmzj.com/61/85/618567ada54282eb93f5b23df2c110ff.png"
+      },
+      {
+        "comment_id": 21942417,
+        "uid": 102082268,
+        "content": "www",
+        "createtime": 1572972458,
+        "nickname": "深山木鱼",
+        "avatar": "https://avatar.dmzj.com/37/47/3747f0e72c7153def67f77ed35b2169a.png"
+      }
+    ]
+  }
+}

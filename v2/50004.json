@@ -1,0 +1,73 @@
+{
+  "id": 50004,
+  "islong": 2,
+  "direction": 1,
+  "title": "宇宙创造",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/190907yzcz.jpg",
+  "description": "遥远的彼方正在发生着创造活动—— ​​​​",
+  "last_updatetime": 1567820570,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 602770,
+  "hit_num": 10255,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17787,
+      "tag_name": "缥まこと"
+    }
+  ],
+  "subscribe_num": 2878,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88551,
+          "chapter_title": "1话",
+          "updatetime": 1567820570,
+          "filesize": 4186924,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 50,
+    "latest_comment": [
+      {
+        "comment_id": 30054792,
+        "uid": 108475552,
+        "content": "嘟嘟",
+        "createtime": 1598816992,
+        "nickname": "再見那蜜",
+        "avatar": "https://avatar.dmzj.com/21/52/21529ad9bf70603bbd3acceada7107a3.png"
+      },
+      {
+        "comment_id": 29172423,
+        "uid": 109684784,
+        "content": "可爱",
+        "createtime": 1595516264,
+        "nickname": "dmzj_109684784",
+        "avatar": "https://avatar.dmzj.com/23/31/23313b9c519284662bde741dbead2414.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 5977,
+  "islong": 2,
+  "direction": 1,
+  "title": "姬太郎",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/姬太郎_全一本_0001_c8262162eacc5e3d8e128e24410be0d9.jpg",
+  "description": "一个打架高手中学生出了车祸,结果被整容成一张女生的脸开始新的生活......",
+  "last_updatetime": 1283409566,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 83247,
+  "hit_num": 3113973,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3273,
+      "tag_name": "大本鸡"
+    }
+  ],
+  "subscribe_num": 277,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12549,
+          "chapter_title": "1卷",
+          "updatetime": 1284014366,
+          "filesize": 10028961,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 37,
+    "latest_comment": [
+      {
+        "comment_id": 27709187,
+        "uid": 107505894,
+        "content": "精彩。",
+        "createtime": 1590506407,
+        "nickname": "你萌这",
+        "avatar": "https://avatar.dmzj.com/17/47/1747d010e21ce85a7cab138e00006618.png"
+      },
+      {
+        "comment_id": 27300993,
+        "uid": 101418954,
+        "content": "樱花209",
+        "createtime": 1589207310,
+        "nickname": "桜　千本",
+        "avatar": "https://avatar.dmzj.com/71/53/715383dbb234b906f25f51fe685993ef.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 6418,
+  "islong": 2,
+  "direction": 1,
+  "title": "结婚的理由",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/jhdly01_b8f9d856a0b1836046784372092259a2.jpg",
+  "description": "关于结婚的浪漫爱情故事",
+  "last_updatetime": 1287829331,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jiehundeliyou",
+  "hidden": 0,
+  "hot_num": 28627,
+  "hit_num": 310472,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12777,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3479,
+      "tag_name": "木岛惠铃"
+    }
+  ],
+  "subscribe_num": 138,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12777,
+          "chapter_title": "1话",
+          "updatetime": 1288434131,
+          "filesize": 3243379,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 29474376,
+        "uid": 105665213,
+        "content": "走过别错过",
+        "createtime": 1596607299,
+        "nickname": "山归尘",
+        "avatar": "https://avatar.dmzj.com/3d/a6/3da688593f00e285101af8b55b843dfa.png"
+      },
+      {
+        "comment_id": 12832886,
+        "uid": 105174604,
+        "content": "還行。",
+        "createtime": 1552467284,
+        "nickname": "Vulpo",
+        "avatar": "https://avatar.dmzj.com/7c/b6/7cb644a698ba33f6ba773a55d61f3c0f.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

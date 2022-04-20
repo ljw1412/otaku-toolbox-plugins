@@ -1,0 +1,76 @@
+{
+  "id": 8828,
+  "islong": 2,
+  "direction": 1,
+  "title": "Marmalade Boy",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/mboy.jpg",
+  "description": "因为我的父母从小就一直让他穿女装...我有个一直总是穿着女装的弟弟，而且他超级萌的！",
+  "last_updatetime": 1337503813,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 149371,
+  "hit_num": 799911,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6420,
+      "tag_name": "ばう"
+    }
+  ],
+  "subscribe_num": 785,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 17907,
+          "chapter_title": "2话",
+          "updatetime": 1337503813,
+          "filesize": 1530793,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 17906,
+          "chapter_title": "1话",
+          "updatetime": 1337503805,
+          "filesize": 920940,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 42,
+    "latest_comment": [
+      {
+        "comment_id": 29715481,
+        "uid": 111458178,
+        "content": "这个名字…和橘子酱男孩同名啊",
+        "createtime": 1597554840,
+        "nickname": "无缺公子",
+        "avatar": "https://avatar.dmzj.com/da/3c/da3c6a9a37f8e3b88d42d7390f4085ab.png"
+      },
+      {
+        "comment_id": 28875846,
+        "uid": 110816325,
+        "content": "这漫画评论区有点乱码啊，这\n是我的网不太好吗",
+        "createtime": 1594520892,
+        "nickname": "dmzj_110816325",
+        "avatar": "https://avatar.dmzj.com/90/20/9020290b854bea243c9bc945d592598a.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 52737,
+  "islong": 2,
+  "direction": 2,
+  "title": "不及格",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1092222131583136409.jpg",
+  "description": "关于一个不良少年和一个智力发育障碍的女同学的故事",
+  "last_updatetime": 1583136898,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 78890,
+  "hit_num": 2946,
+  "uid": 109222213,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19117,
+      "tag_name": "汉谟拉比炒面"
+    }
+  ],
+  "subscribe_num": 343,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98140,
+          "chapter_title": "1话",
+          "updatetime": 1583136898,
+          "filesize": 1255946,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 31,
+    "latest_comment": [
+      {
+        "comment_id": 29437442,
+        "uid": 108976844,
+        "content": "老师好神tt",
+        "createtime": 1596472685,
+        "nickname": "dmzj_108976844",
+        "avatar": "https://avatar.dmzj.com/05/82/0582c51100ca275559a3cb8d4df4e35a.png"
+      },
+      {
+        "comment_id": 28731711,
+        "uid": 105920390,
+        "content": "面老师我来辣！！！",
+        "createtime": 1594035852,
+        "nickname": "蜉蝣一日",
+        "avatar": "https://avatar.dmzj.com/58/86/5886605149d153a8e4cded806a8878f9.png"
+      }
+    ]
+  }
+}

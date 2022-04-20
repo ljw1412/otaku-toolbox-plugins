@@ -1,0 +1,128 @@
+{
+  "id": 53070,
+  "islong": 2,
+  "direction": 2,
+  "title": "SCP中国异常物品纪录",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1104662191584579586.jpg",
+  "description": "SCP在中国的异常物品记录",
+  "last_updatetime": 1589609946,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 750591,
+  "hit_num": 95463,
+  "uid": 110466219,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19019,
+      "tag_name": "Max_Cross"
+    }
+  ],
+  "subscribe_num": 3122,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102389,
+          "chapter_title": "8话",
+          "updatetime": 1589609946,
+          "filesize": 440496,
+          "chapter_order": 8
+        },
+        {
+          "chapter_id": 100670,
+          "chapter_title": "7话",
+          "updatetime": 1586412704,
+          "filesize": 57953,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 100287,
+          "chapter_title": "6话",
+          "updatetime": 1585788976,
+          "filesize": 644327,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 100190,
+          "chapter_title": "5话",
+          "updatetime": 1585617244,
+          "filesize": 429698,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 99971,
+          "chapter_title": "4话",
+          "updatetime": 1585184007,
+          "filesize": 576059,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 99837,
+          "chapter_title": "3话",
+          "updatetime": 1584935351,
+          "filesize": 789893,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 99715,
+          "chapter_title": "2话",
+          "updatetime": 1584617470,
+          "filesize": 673153,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 99686,
+          "chapter_title": "1话",
+          "updatetime": 1584579896,
+          "filesize": 610058,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "呵呵呵",
+  "comment": {
+    "comment_count": 155,
+    "latest_comment": [
+      {
+        "comment_id": 29261921,
+        "uid": 108777190,
+        "content": "啊这",
+        "createtime": 1595850656,
+        "nickname": "完颜＆阿骨打",
+        "avatar": "https://avatar.dmzj.com/43/39/4339414a0aa505b6d9cb1c46ee334be9.png"
+      },
+      {
+        "comment_id": 29168514,
+        "uid": 110798536,
+        "content": "走起走起",
+        "createtime": 1595506078,
+        "nickname": "前田利加的儿子胖虎",
+        "avatar": "https://avatar.dmzj.com/63/59/63598ef114eba148334687428ed2f49f.png"
+      }
+    ]
+  }
+}

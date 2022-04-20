@@ -1,0 +1,69 @@
+{
+  "id": 51001,
+  "islong": 2,
+  "direction": 1,
+  "title": "TIC TAC SICK",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/tictac1107.jpg",
+  "description": "BanG Dream!同人漫画,MSKK!",
+  "last_updatetime": 1573219937,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 296565,
+  "hit_num": 71957,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18233,
+      "tag_name": "春一"
+    }
+  ],
+  "subscribe_num": 1361,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94617,
+          "chapter_title": "1话",
+          "updatetime": 1573219937,
+          "filesize": 6996448,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 58,
+    "latest_comment": [
+      {
+        "comment_id": 29734023,
+        "uid": 111066670,
+        "content": "邦邦116",
+        "createtime": 1597620918,
+        "nickname": "每天都在攒石",
+        "avatar": "https://avatar.dmzj.com/47/05/470598739a68c223a6a74e187c4a527d.png"
+      },
+      {
+        "comment_id": 29591474,
+        "uid": 109362496,
+        "content": "kkr其实一直都明白的吧美（老）咲（婆）是美（老）咲（婆），米歇尔是米歇尔",
+        "createtime": 1597052851,
+        "nickname": "Errrrrrrrr",
+        "avatar": "https://avatar.dmzj.com/32/71/32717f04f89854fbc214991231e8cad2.png"
+      }
+    ]
+  }
+}

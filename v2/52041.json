@@ -1,0 +1,96 @@
+{
+  "id": 52041,
+  "islong": 2,
+  "direction": 2,
+  "title": "Miku和病毒酱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1099938171580305296.jpg",
+  "description": "身为“初音未来”一员却毫无名气的miku；专门侵蚀“初音未来”的电脑病毒mikuvirus；平淡而无味的日常与看来不妙的非日常的相遇。",
+  "last_updatetime": 1588382143,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 248513,
+  "hit_num": 45579,
+  "uid": 109993817,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18746,
+      "tag_name": "氿克"
+    }
+  ],
+  "subscribe_num": 1113,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 103003,
+          "chapter_title": "4话",
+          "updatetime": 1588382143,
+          "filesize": 5907037,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 98876,
+          "chapter_title": "3话",
+          "updatetime": 1581297599,
+          "filesize": 4048477,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 98395,
+          "chapter_title": "2话",
+          "updatetime": 1580133269,
+          "filesize": 4622921,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 98394,
+          "chapter_title": "1话",
+          "updatetime": 1575719603,
+          "filesize": 1584735,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 86,
+    "latest_comment": [
+      {
+        "comment_id": 29830997,
+        "uid": 111102335,
+        "content": "留",
+        "createtime": 1597978120,
+        "nickname": "大概是个名字",
+        "avatar": "https://avatar.dmzj.com/3d/7b/3d7bbb780b1b3380595d180aae50ee53.png"
+      },
+      {
+        "comment_id": 29823173,
+        "uid": 110595526,
+        "content": "太强了我的天",
+        "createtime": 1597941476,
+        "nickname": "dmzj_110595526",
+        "avatar": "https://avatar.dmzj.com/d2/06/d206e06843bb685737e4884a1bf235d9.png"
+      }
+    ]
+  }
+}

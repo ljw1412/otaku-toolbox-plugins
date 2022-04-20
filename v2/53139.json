@@ -1,0 +1,73 @@
+{
+  "id": 53139,
+  "islong": 2,
+  "direction": 1,
+  "title": "MariMari",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/200322na.jpg",
+  "description": "魔理沙到香霖的店里度过的一天",
+  "last_updatetime": 1584845990,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 65834,
+  "hit_num": 4014,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5520,
+      "tag_name": "大出长介"
+    },
+    {
+      "tag_id": 9038,
+      "tag_name": "ふすま吃茶(水中花火)"
+    }
+  ],
+  "subscribe_num": 303,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95693,
+          "chapter_title": "1话",
+          "updatetime": 1584845990,
+          "filesize": 2596707,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 28347560,
+        "uid": 108403252,
+        "content": "挺好的",
+        "createtime": 1592804157,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      },
+      {
+        "comment_id": 27391375,
+        "uid": 105345065,
+        "content": "吉良吉影犯罪电台？",
+        "createtime": 1589488150,
+        "nickname": "可爱有顶天的可爱天子",
+        "avatar": "https://avatar.dmzj.com/15/51/155105608ff218563edbb664ddd828a1.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": 51138,
+  "islong": 2,
+  "direction": 1,
+  "title": "兽娘",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/191119shouniang.jpg",
+  "description": "动物只要自己期望就能变化人形的时代来临啦",
+  "last_updatetime": 1578372086,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 3396219,
+  "hit_num": 680733,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18301,
+      "tag_name": "まさma"
+    }
+  ],
+  "subscribe_num": 15521,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91935,
+          "chapter_title": "5话",
+          "updatetime": 1578372086,
+          "filesize": 7198916,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 91207,
+          "chapter_title": "4话",
+          "updatetime": 1576392720,
+          "filesize": 3312670,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 91168,
+          "chapter_title": "3话",
+          "updatetime": 1576253271,
+          "filesize": 2997216,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 90426,
+          "chapter_title": "2话",
+          "updatetime": 1574162650,
+          "filesize": 3108177,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 90425,
+          "chapter_title": "1话",
+          "updatetime": 1574162579,
+          "filesize": 2392950,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 521,
+    "latest_comment": [
+      {
+        "comment_id": 29756253,
+        "uid": 103438660,
+        "content": "还没变，但在用",
+        "createtime": 1597689572,
+        "nickname": "Fantasy丶Miku",
+        "avatar": "https://avatar.dmzj.com/7d/59/7d5981f61f28f12423133a642dcf31aa.png"
+      },
+      {
+        "comment_id": 29375555,
+        "uid": 110905988,
+        "content": "回头看了下我的猫，可恶你快给我变啊",
+        "createtime": 1596262130,
+        "nickname": "歪比吧卜大老师",
+        "avatar": "https://avatar.dmzj.com/28/18/28188e8acc90d2a56035786c04ecf126.png"
+      }
+    ]
+  }
+}

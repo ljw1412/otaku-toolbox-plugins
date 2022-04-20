@@ -1,0 +1,87 @@
+{
+  "id": 999,
+  "islong": 2,
+  "direction": 1,
+  "title": "变虫人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/bcr.jpg",
+  "description": "在一次校外旅行中,真藤将贵和小山田老师因为碰到\n了一棵树木的年轮的怪异现象而突然昏倒。经过调\n查,那怪异年轮的形成主要是因为一千五百年前的病\n毒所引起,而且病毒会因成年体跟未成年体而有不同的\n感染症状。成年体感染后会致命而亡,而未成年体则会成为感染源,而且......\n",
+  "last_updatetime": 1178197680,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 69183,
+  "hit_num": 4272526,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 950,
+      "tag_name": "藤崎圣人"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 240,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 1499,
+          "chapter_title": "3卷",
+          "updatetime": 1178197680,
+          "filesize": 17674436,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 1498,
+          "chapter_title": "2卷",
+          "updatetime": 1178197680,
+          "filesize": 15481858,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 1497,
+          "chapter_title": "1卷",
+          "updatetime": 1178197680,
+          "filesize": 13744135,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 28854018,
+        "uid": 101212521,
+        "content": "老漫",
+        "createtime": 1594453188,
+        "nickname": "咖啡的韵调",
+        "avatar": "https://avatar.dmzj.com/28/17/28170fade8911e4a7397eab55306e7e9.png"
+      },
+      {
+        "comment_id": 28514772,
+        "uid": 102515492,
+        "content": "好看",
+        "createtime": 1593357768,
+        "nickname": "gaba",
+        "avatar": "https://avatar.dmzj.com/23/88/2388c740451c91ebcdd9635d7e13a60c.png"
+      }
+    ]
+  }
+}

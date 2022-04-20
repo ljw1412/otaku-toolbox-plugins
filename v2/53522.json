@@ -1,0 +1,134 @@
+{
+  "id": 53522,
+  "islong": 2,
+  "direction": 2,
+  "title": "来画漫画吧",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1082375921586416231.jpg",
+  "description": "想画漫画...",
+  "last_updatetime": 1591634505,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 76804,
+  "hit_num": 5877,
+  "uid": 108237592,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19497,
+      "tag_name": "半圆屁股"
+    }
+  ],
+  "subscribe_num": 324,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102665,
+          "chapter_title": "10话",
+          "updatetime": 1591634505,
+          "filesize": 510707,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 102383,
+          "chapter_title": "9话",
+          "updatetime": 1590935621,
+          "filesize": 339505,
+          "chapter_order": 9
+        },
+        {
+          "chapter_id": 101516,
+          "chapter_title": "8话",
+          "updatetime": 1589456734,
+          "filesize": 155447,
+          "chapter_order": 8
+        },
+        {
+          "chapter_id": 101168,
+          "chapter_title": "7话",
+          "updatetime": 1588838404,
+          "filesize": 100407,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 100913,
+          "chapter_title": "6话",
+          "updatetime": 1588243723,
+          "filesize": 149804,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 100170,
+          "chapter_title": "5话",
+          "updatetime": 1586943863,
+          "filesize": 136311,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 99959,
+          "chapter_title": "4话",
+          "updatetime": 1586586923,
+          "filesize": 70881,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 99887,
+          "chapter_title": "3话",
+          "updatetime": 1586501027,
+          "filesize": 86469,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 99849,
+          "chapter_title": "2话",
+          "updatetime": 1586415543,
+          "filesize": 128931,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 99784,
+          "chapter_title": "1话",
+          "updatetime": 1586334522,
+          "filesize": 51696,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 70,
+    "latest_comment": [
+      {
+        "comment_id": 28148880,
+        "uid": 108237592,
+        "content": "该有的东西并没有",
+        "createtime": 1592105128,
+        "nickname": "半圆屁股",
+        "avatar": "https://avatar.dmzj.com/ab/15/ab1506135dc9123bb3e3525b2ed67b93.png"
+      },
+      {
+        "comment_id": 28122519,
+        "uid": 106421684,
+        "content": "等等，那肉吃完后岂不是能看见……",
+        "createtime": 1591999656,
+        "nickname": "子供番万岁",
+        "avatar": "https://avatar.dmzj.com/15/54/1554e2aa5a62b7d0495c5f738bfe9987.png"
+      }
+    ]
+  }
+}

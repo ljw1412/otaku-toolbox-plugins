@@ -1,0 +1,94 @@
+{
+  "id": 52917,
+  "islong": 2,
+  "direction": 1,
+  "title": "Red mother",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/hn2020312.jpg",
+  "description": "the red mother。",
+  "last_updatetime": 1590475981,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 135239,
+  "hit_num": 76652,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5237,
+      "tag_name": "boom"
+    }
+  ],
+  "subscribe_num": 585,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100274,
+          "chapter_title": "4卷",
+          "updatetime": 1587134209,
+          "filesize": 6766200,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 99286,
+          "chapter_title": "3卷",
+          "updatetime": 1585299415,
+          "filesize": 3972237,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 102010,
+          "chapter_title": "2卷",
+          "updatetime": 1590475981,
+          "filesize": 5031075,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 98580,
+          "chapter_title": "1卷",
+          "updatetime": 1584032819,
+          "filesize": 4753222,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 35,
+    "latest_comment": [
+      {
+        "comment_id": 27854886,
+        "uid": 101856749,
+        "content": "？更新辣？？？",
+        "createtime": 1590988393,
+        "nickname": "蔓生",
+        "avatar": "https://avatar.dmzj.com/57/83/578331440096e3350c9b856a8b6616d4.png"
+      },
+      {
+        "comment_id": 27746286,
+        "uid": 105864690,
+        "content": "似李，绯红之????！\n木大木大木大木大木大木大",
+        "createtime": 1590633243,
+        "nickname": "lancerlot",
+        "avatar": "https://avatar.dmzj.com/4e/c6/4ec652580b381590b5721015930d24f0.png"
+      }
+    ]
+  }
+}

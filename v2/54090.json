@@ -1,0 +1,73 @@
+{
+  "id": 54090,
+  "islong": 2,
+  "direction": 1,
+  "title": "GO!GO!GOLEM",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/siwangsanlian0506.jpg",
+  "description": "golem大赛实况",
+  "last_updatetime": 1588815408,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 37503,
+  "hit_num": 17258,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5498,
+      "tag_name": "水镜ひより"
+    },
+    {
+      "tag_id": 5499,
+      "tag_name": "冰坂透(氷坂透)"
+    }
+  ],
+  "subscribe_num": 160,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102002,
+          "chapter_title": "1话",
+          "updatetime": 1588815408,
+          "filesize": 14099772,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 29274222,
+        "uid": 110386336,
+        "content": "欺负青蛙子的屑(D区)",
+        "createtime": 1595878016,
+        "nickname": "RMZero",
+        "avatar": "https://avatar.dmzj.com/ce/29/ce29fd0e1d725b36a3886117f3c8f389.png"
+      },
+      {
+        "comment_id": 27208961,
+        "uid": 108459387,
+        "content": "这本太好看了，咏唱糖，i了i了",
+        "createtime": 1588924534,
+        "nickname": "dmzj_108459387",
+        "avatar": "https://avatar.dmzj.com/cb/29/cb29042fb085e8df72a1aeb9a6d2bbb7.png"
+      }
+    ]
+  }
+}

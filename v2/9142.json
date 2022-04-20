@@ -1,0 +1,75 @@
+{
+  "id": 9142,
+  "islong": 2,
+  "direction": 1,
+  "title": "时间和永远",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/shijianheyongyuan20120725.jpg",
+  "description": "ps3游戏改编时间与永远 带你领略日式RPG大作的魅力… 挡刀的王子 另一个人格的公主… 物语已经开始。",
+  "last_updatetime": 1343148643,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shijianheyongyuan",
+  "hidden": 0,
+  "hot_num": 30816,
+  "hit_num": 905942,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20523,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4839,
+      "tag_name": "相羽纪行"
+    }
+  ],
+  "subscribe_num": 245,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20523,
+          "chapter_title": "1话",
+          "updatetime": 1343148643,
+          "filesize": 9434248,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 29730822,
+        "uid": 109951138,
+        "content": "为什么评论发不出去啊",
+        "createtime": 1597599707,
+        "nickname": "dmzj_109951138",
+        "avatar": "https://avatar.dmzj.com/de/e5/dee527d2c48bdcbc7064c2c63a8e7ef5.png"
+      },
+      {
+        "comment_id": 29730815,
+        "uid": 109951138,
+        "content": "没了？不是吧",
+        "createtime": 1597599688,
+        "nickname": "dmzj_109951138",
+        "avatar": "https://avatar.dmzj.com/de/e5/dee527d2c48bdcbc7064c2c63a8e7ef5.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

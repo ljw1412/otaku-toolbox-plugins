@@ -1,0 +1,115 @@
+{
+  "id": 51242,
+  "islong": 2,
+  "direction": 1,
+  "title": "Pon!Pon!Pon!",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/wflabh1115.jpg",
+  "description": "女子高中生们的秘密日常，窥探试试？",
+  "last_updatetime": 1593838419,
+  "copyright": 0,
+  "first_letter": "p",
+  "hot_num": 7879463,
+  "hit_num": 1558297,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10571,
+      "tag_name": "emily"
+    }
+  ],
+  "subscribe_num": 34864,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 103722,
+          "chapter_title": "7话",
+          "updatetime": 1593838419,
+          "filesize": 2686907,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 102562,
+          "chapter_title": "6话",
+          "updatetime": 1591512039,
+          "filesize": 4438301,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 99644,
+          "chapter_title": "5话",
+          "updatetime": 1586056834,
+          "filesize": 4075721,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 98451,
+          "chapter_title": "4话",
+          "updatetime": 1583818600,
+          "filesize": 3152556,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 97224,
+          "chapter_title": "3话",
+          "updatetime": 1581652542,
+          "filesize": 4008191,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 95963,
+          "chapter_title": "2话",
+          "updatetime": 1578665909,
+          "filesize": 4620168,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94634,
+          "chapter_title": "1话",
+          "updatetime": 1574946471,
+          "filesize": 4908792,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1455,
+    "latest_comment": [
+      {
+        "comment_id": 30055535,
+        "uid": 104438439,
+        "content": "加油啊",
+        "createtime": 1598826926,
+        "nickname": "光之降",
+        "avatar": "https://avatar.dmzj.com/80/38/80381b8ce745cb8e6591b5bae599661e.png"
+      },
+      {
+        "comment_id": 30034363,
+        "uid": 100425254,
+        "content": "期待结局",
+        "createtime": 1598729332,
+        "nickname": "动漫舞娘",
+        "avatar": "https://avatar.dmzj.com/0d/b4/0db4c56c175db5f5c31e305b41958744.png"
+      }
+    ]
+  }
+}

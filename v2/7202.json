@@ -1,0 +1,75 @@
+{
+  "id": 7202,
+  "islong": 2,
+  "direction": 1,
+  "title": "纯爱车站",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/chunaichezhan.jpg",
+  "description": "和心爱的人坐上列车一起去旅行吧",
+  "last_updatetime": 1301019909,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chunaichezhan",
+  "hidden": 0,
+  "hot_num": 26325,
+  "hit_num": 328109,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 14624,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3843,
+      "tag_name": "田中慧"
+    }
+  ],
+  "subscribe_num": 147,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 14624,
+          "chapter_title": "1话",
+          "updatetime": 1301019909,
+          "filesize": 3276956,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 333358,
+        "uid": 27155830,
+        "content": "这绝对不可能是全一话作品，其实这种平淡也很不错啊！可是为何只有这一话呢",
+        "createtime": 1419660951,
+        "nickname": "magpiepie",
+        "avatar": "https://avatar.dmzj.com/5e/f5/5ef5be98f15c26fa1414982f9015b317.png"
+      },
+      {
+        "comment_id": 47409,
+        "uid": 15379483,
+        "content": "感觉有可能会也续集的感觉。平平淡淡的还好吧",
+        "createtime": 1329369425,
+        "nickname": "唔想甘闷",
+        "avatar": "https://avatar.dmzj.com/04/1a/041a1eb4193dcab3878e9741868ed99d.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

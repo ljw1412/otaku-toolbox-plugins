@@ -1,0 +1,78 @@
+{
+  "id": 51880,
+  "islong": 1,
+  "direction": 2,
+  "title": "dnf奶粉公寓",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1017474301579333042.jpg",
+  "description": "dnf同人",
+  "last_updatetime": 1582765973,
+  "copyright": 1,
+  "first_letter": "n",
+  "hot_num": 97524,
+  "hit_num": 22196,
+  "uid": 101747430,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15785,
+      "tag_name": "N·E"
+    }
+  ],
+  "subscribe_num": 456,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98650,
+          "chapter_title": "2话",
+          "updatetime": 1582765973,
+          "filesize": 681808,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 97019,
+          "chapter_title": "1话",
+          "updatetime": 1579333128,
+          "filesize": 1575594,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "某种程度上，漫画就是不让人感到孤独的东西。",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 24616021,
+        "uid": 107097588,
+        "content": "太沙雕了",
+        "createtime": 1582862902,
+        "nickname": "hso，我就看这些的",
+        "avatar": "https://avatar.dmzj.com/33/32/33320ac9b64cb57d5c9802f847f8c21a.png"
+      },
+      {
+        "comment_id": 24613299,
+        "uid": 106294190,
+        "content": "那个黑影是谁啊",
+        "createtime": 1582854869,
+        "nickname": "初雪祭",
+        "avatar": "https://avatar.dmzj.com/ea/5b/ea5b96cc44a5721ded028f1b6e043a26.png"
+      }
+    ]
+  }
+}

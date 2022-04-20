@@ -1,0 +1,73 @@
+{
+  "id": 52515,
+  "islong": 2,
+  "direction": 1,
+  "title": "幻想日和",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/200224hxrh.jpg",
+  "description": "又是一年春  一如既往悠闲的灵梦",
+  "last_updatetime": 1582539082,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 31226,
+  "hit_num": 1805,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19025,
+      "tag_name": "仓泽まこと"
+    },
+    {
+      "tag_id": 19026,
+      "tag_name": "ひまわりまんぢぅ"
+    }
+  ],
+  "subscribe_num": 151,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98530,
+          "chapter_title": "1话",
+          "updatetime": 1582539082,
+          "filesize": 2331505,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 24519455,
+        "uid": 106117482,
+        "content": "东方要火！（混乱）",
+        "createtime": 1582615304,
+        "nickname": "芳轻萩",
+        "avatar": "https://avatar.dmzj.com/37/50/3750614eed0af9100c213c8f991690b4.png"
+      },
+      {
+        "comment_id": 24502276,
+        "uid": 105657229,
+        "content": "你们别这样，过世的阿麟会很伤心的。快想想阿麟去世前一天说的话吧",
+        "createtime": 1582563407,
+        "nickname": "濑良渡准",
+        "avatar": "https://avatar.dmzj.com/79/32/793290f3aa7214c7a95f1a4bd9053b66.png"
+      }
+    ]
+  }
+}

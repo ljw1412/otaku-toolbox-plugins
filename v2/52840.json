@@ -1,0 +1,107 @@
+{
+  "id": 52840,
+  "islong": 2,
+  "direction": 1,
+  "title": "甜蜜俱乐部",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1080211231583577941.jpg",
+  "description": "千美为了寻找传说中的甜蜜俱乐部，召集伙伴踏上旅途冒险的故事，一路上战胜了来自各方的阻碍，抵达了终点。",
+  "last_updatetime": 1584025560,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 52959,
+  "hit_num": 2404,
+  "uid": 108021123,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19137,
+      "tag_name": "三十七"
+    }
+  ],
+  "subscribe_num": 243,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99353,
+          "chapter_title": "5话",
+          "updatetime": 1584025560,
+          "filesize": 1312553,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 99250,
+          "chapter_title": "4话",
+          "updatetime": 1583853014,
+          "filesize": 1294000,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 99213,
+          "chapter_title": "3话",
+          "updatetime": 1583769497,
+          "filesize": 1435857,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 99173,
+          "chapter_title": "2话",
+          "updatetime": 1583681142,
+          "filesize": 1639208,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 99126,
+          "chapter_title": "1话",
+          "updatetime": 1583578838,
+          "filesize": 1549889,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 29809469,
+        "uid": 102118544,
+        "content": "原来完结了么！这个可以画成长篇了",
+        "createtime": 1597903081,
+        "nickname": "半岛浮光撩影",
+        "avatar": "https://avatar.dmzj.com/28/05/2805e8320258fe6b7b9c91542db84112.png"
+      },
+      {
+        "comment_id": 26180432,
+        "uid": 100510310,
+        "content": "期待接下来的剧情",
+        "createtime": 1586242527,
+        "nickname": "ミン",
+        "avatar": "https://avatar.dmzj.com/de/1a/de1a84136b8326edde4889bfc3a22c9f.png"
+      }
+    ]
+  }
+}

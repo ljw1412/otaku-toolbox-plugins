@@ -1,0 +1,78 @@
+{
+  "id": 52261,
+  "islong": 2,
+  "direction": 1,
+  "title": "小白与阿su",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1099609331581136639.jpg",
+  "description": "两个女孩的生活日常。19年为参加比赛画的一个短篇，原本也想了不少后续的剧情，但是现在有种要鸽的预感（）",
+  "last_updatetime": 1581142058,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 5053,
+  "hit_num": 340,
+  "uid": 109960933,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18846,
+      "tag_name": "皮皮"
+    }
+  ],
+  "subscribe_num": 23,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98918,
+          "chapter_title": "番外",
+          "updatetime": 1581142058,
+          "filesize": 367880,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 98917,
+          "chapter_title": "1话",
+          "updatetime": 1581142026,
+          "filesize": 1079483,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 24459683,
+        "uid": 106391210,
+        "content": "薯片做粥超级好喝的！！！！",
+        "createtime": 1582472133,
+        "nickname": "莫扎特能吃",
+        "avatar": "https://avatar.dmzj.com/20/94/209445eb4447f6ed99c45326daf9a071.png"
+      },
+      {
+        "comment_id": 24004036,
+        "uid": 108047434,
+        "content": "脆薯党仿佛看到噩梦",
+        "createtime": 1581400613,
+        "nickname": "勇猛大白兔",
+        "avatar": "https://avatar.dmzj.com/23/50/235074260b9eab5a15e4b2bad4878a49.png"
+      }
+    ]
+  }
+}

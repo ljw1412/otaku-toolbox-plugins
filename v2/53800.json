@@ -1,0 +1,79 @@
+{
+  "id": 53800,
+  "islong": 2,
+  "direction": 1,
+  "title": "血之吻",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/200421xzw.jpg",
+  "description": "名侦探柯南同人作品，赤井秀一*安室透，狼人与吸血鬼，在很多的作品中都是对立的存在，他们之间会发生什么样的故事呢？",
+  "last_updatetime": 1587466618,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xuezhiwen",
+  "hidden": 0,
+  "hot_num": 150370,
+  "hit_num": 37705,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 101217,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19633,
+      "tag_name": "オコジョ"
+    }
+  ],
+  "subscribe_num": 677,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101217,
+          "chapter_title": "1话",
+          "updatetime": 1587466618,
+          "filesize": 7954781,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 30021189,
+        "uid": 107468202,
+        "content": "感觉挺好看的",
+        "createtime": 1598693359,
+        "nickname": "kaitian710",
+        "avatar": "https://avatar.dmzj.com/24/52/2452cd694df08d7d8ab10a02e0223f22.png"
+      },
+      {
+        "comment_id": 29915861,
+        "uid": 110742524,
+        "content": "我缺那点流量吗",
+        "createtime": 1598287231,
+        "nickname": "被被披被被",
+        "avatar": "https://avatar.dmzj.com/33/37/3337fef18211492e50fd3945265411e3.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

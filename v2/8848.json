@@ -1,0 +1,70 @@
+{
+  "id": 8848,
+  "islong": 2,
+  "direction": 1,
+  "title": "高桥阳一短篇集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/gqyydpj.jpg",
+  "description": "高桥阳一短篇集",
+  "last_updatetime": 1337916349,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 125959,
+  "hit_num": 598772,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    },
+    {
+      "tag_id": 4459,
+      "tag_name": "高清单行"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 566,
+      "tag_name": "高桥阳一"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 705,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 17939,
+          "chapter_title": "3话",
+          "updatetime": 1337916349,
+          "filesize": 19044812,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 17938,
+          "chapter_title": "2话",
+          "updatetime": 1337916334,
+          "filesize": 22806375,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 17937,
+          "chapter_title": "1话",
+          "updatetime": 1337916293,
+          "filesize": 20924425,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

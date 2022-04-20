@@ -1,0 +1,75 @@
+{
+  "id": 53797,
+  "islong": 2,
+  "direction": 1,
+  "title": "狼与小红帽",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/langyuxiaohongmao10421.jpg",
+  "description": "妈妈警告过我：女孩子不能独自一人进入森林。苍茫夜幕下，凶恶的狼，向我伸出的利爪——…但那并不可怕。真正能够杀掉我的，只有这难以排解的枯燥无趣而已——。",
+  "last_updatetime": 1587458371,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "langyuxiaohongmaoer",
+  "hidden": 0,
+  "hot_num": 184518,
+  "hit_num": 44549,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100418,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 795,
+      "tag_name": "宫坂香帆"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 813,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100418,
+          "chapter_title": "1话",
+          "updatetime": 1587458371,
+          "filesize": 3053658,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 73,
+    "latest_comment": [
+      {
+        "comment_id": 29682238,
+        "uid": 105405110,
+        "content": "逃离枯燥乏味的小红帽。",
+        "createtime": 1597419607,
+        "nickname": "千雅",
+        "avatar": "https://avatar.dmzj.com/68/5e/685eb82023f292612aa42f9d1af945b0.png"
+      },
+      {
+        "comment_id": 28710126,
+        "uid": 110616656,
+        "content": "到底谁吃谁了？????",
+        "createtime": 1593960775,
+        "nickname": "紅豆味的企鵝",
+        "avatar": "https://avatar.dmzj.com/20/37/20372f3193ded911172a6079bdc9a19e.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,91 @@
+{
+  "id": 51325,
+  "islong": 2,
+  "direction": 1,
+  "title": "夜行",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/yexing1203.jpg",
+  "description": "我们谁都忘不掉她。\n我们六个，是在京都一起度过学生时代的伙伴。 十年前，参观鞍马火祭的途中，长谷川突然间消失。 十年后，六个人再次在鞍马聚首，恐怕是因为想再次见到她吧。\n夜色渐深，彼此轮流诉说出旅行途中的异闻。 我们全员，都遇见了名为岸田道生的画家所画的叫做【夜行】的画。",
+  "last_updatetime": 1596897626,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 958487,
+  "hit_num": 399299,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3267,
+      "tag_name": "込由野志穗"
+    },
+    {
+      "tag_id": 6317,
+      "tag_name": "森见登美彦"
+    }
+  ],
+  "subscribe_num": 4490,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 106358,
+          "chapter_title": "3话",
+          "updatetime": 1596897626,
+          "filesize": 7401999,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 97266,
+          "chapter_title": "2话",
+          "updatetime": 1580101314,
+          "filesize": 10643248,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 95527,
+          "chapter_title": "1话",
+          "updatetime": 1575355412,
+          "filesize": 13541064,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 74,
+    "latest_comment": [
+      {
+        "comment_id": 29626304,
+        "uid": 102427984,
+        "content": "好好看！",
+        "createtime": 1597173299,
+        "nickname": "艾泽拉斯的荣耀",
+        "avatar": "https://avatar.dmzj.com///.png"
+      },
+      {
+        "comment_id": 29576232,
+        "uid": 110044808,
+        "content": "好作品",
+        "createtime": 1596985388,
+        "nickname": "少女漫狙击",
+        "avatar": "https://avatar.dmzj.com/0b/91/0b912f9a76de3dbfd2cf1569711624a5.png"
+      }
+    ]
+  }
+}

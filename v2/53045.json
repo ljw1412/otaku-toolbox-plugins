@@ -1,0 +1,126 @@
+{
+  "id": 53045,
+  "islong": 2,
+  "direction": 1,
+  "title": "日向和三笠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/rxhsl20200318.jpg",
+  "description": "炙手可热的年轻作家绘制的新境地!热情麻烦无法开始的青春!",
+  "last_updatetime": 1597982312,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 1011134,
+  "hit_num": 140301,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14266,
+      "tag_name": "ふじた渚佐"
+    }
+  ],
+  "subscribe_num": 4608,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 106866,
+          "chapter_title": "8话",
+          "updatetime": 1597982312,
+          "filesize": 1551134,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 106865,
+          "chapter_title": "7话",
+          "updatetime": 1597982292,
+          "filesize": 1447633,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 106367,
+          "chapter_title": "6话",
+          "updatetime": 1596947892,
+          "filesize": 3115631,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 104780,
+          "chapter_title": "5话",
+          "updatetime": 1594005120,
+          "filesize": 2489571,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 104779,
+          "chapter_title": "4话",
+          "updatetime": 1594005097,
+          "filesize": 1459834,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 104778,
+          "chapter_title": "3话",
+          "updatetime": 1594005079,
+          "filesize": 1468927,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 103327,
+          "chapter_title": "2话",
+          "updatetime": 1591433572,
+          "filesize": 2520225,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 99614,
+          "chapter_title": "1话",
+          "updatetime": 1584502049,
+          "filesize": 1624142,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 177,
+    "latest_comment": [
+      {
+        "comment_id": 29879906,
+        "uid": 104850660,
+        "content": "女主真的...满满哈士奇的既视感",
+        "createtime": 1598161078,
+        "nickname": "我是垃圾",
+        "avatar": "https://avatar.dmzj.com/48/19/4819a8078503ec48a3e3ab93c7fc3b36.png"
+      },
+      {
+        "comment_id": 29877536,
+        "uid": 111098421,
+        "content": "真是热血沸腾呢",
+        "createtime": 1598152226,
+        "nickname": "我真的有在谨慎改名",
+        "avatar": "https://avatar.dmzj.com/20/53/2053c1547dc7d4afddaaa249b04eec35.png"
+      }
+    ]
+  }
+}

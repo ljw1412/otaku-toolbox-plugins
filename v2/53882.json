@@ -1,0 +1,91 @@
+{
+  "id": 53882,
+  "islong": 2,
+  "direction": 1,
+  "title": "少女漫画主人公×情敌桑连载版",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/snmhzrxqds2020425.jpg",
+  "description": "少女漫画主人公×情敌桑，连载版。",
+  "last_updatetime": 1594213247,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 6713705,
+  "hit_num": 1098810,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17212,
+      "tag_name": "くゥ"
+    }
+  ],
+  "subscribe_num": 31256,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 103940,
+          "chapter_title": "3话",
+          "updatetime": 1594213247,
+          "filesize": 5961461,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 102347,
+          "chapter_title": "2话",
+          "updatetime": 1591012503,
+          "filesize": 3908334,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 100641,
+          "chapter_title": "1话",
+          "updatetime": 1587809582,
+          "filesize": 4264059,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1487,
+    "latest_comment": [
+      {
+        "comment_id": 30000928,
+        "uid": 104210551,
+        "content": "少女你就从了她吧",
+        "createtime": 1598611617,
+        "nickname": "赤银凩",
+        "avatar": "https://avatar.dmzj.com/61/22/612261486ce0945550fc811834f5915a.png"
+      },
+      {
+        "comment_id": 29972151,
+        "uid": 110986764,
+        "content": "更新更新更新！",
+        "createtime": 1598496361,
+        "nickname": "就叫林曦吧",
+        "avatar": "https://avatar.dmzj.com/63/78/6378b8cebc71edcfa84cb1b4aa90c788.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": 6715,
+  "islong": 2,
+  "direction": 2,
+  "title": "神奇的蜘蛛侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/shenqizhizhuxia.jpg",
+  "description": "神奇的蜘蛛侠",
+  "last_updatetime": 1289901933,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 4664236,
+  "hit_num": 1561749,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 21977,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13896,
+          "chapter_title": "5卷",
+          "updatetime": 1289901933,
+          "filesize": 2552240,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 13895,
+          "chapter_title": "4卷",
+          "updatetime": 1289901933,
+          "filesize": 2379766,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 13894,
+          "chapter_title": "3卷",
+          "updatetime": 1289901933,
+          "filesize": 2439868,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 13893,
+          "chapter_title": "2卷",
+          "updatetime": 1289901933,
+          "filesize": 2458732,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13892,
+          "chapter_title": "1卷",
+          "updatetime": 1289901933,
+          "filesize": 2794612,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 27,
+    "latest_comment": [
+      {
+        "comment_id": 25644474,
+        "uid": 100452634,
+        "content": "画风",
+        "createtime": 1585062989,
+        "nickname": "宣涡",
+        "avatar": "https://avatar.dmzj.com/59/e1/59e1647af527984141a808e0dadc48ca.png"
+      },
+      {
+        "comment_id": 24285354,
+        "uid": 109756525,
+        "content": "666",
+        "createtime": 1582042996,
+        "nickname": "dmzj_109756525",
+        "avatar": "https://avatar.dmzj.com/68/d7/68d77a3bb76da6559c394d61c967316a.png"
+      }
+    ]
+  }
+}

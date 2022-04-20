@@ -1,0 +1,69 @@
+{
+  "id": 53322,
+  "islong": 2,
+  "direction": 1,
+  "title": "幻想游戏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/hxyx2020330.jpg",
+  "description": "幻想乡的日常。",
+  "last_updatetime": 1585535481,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 30864,
+  "hit_num": 15654,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11017,
+      "tag_name": "菊一文字"
+    }
+  ],
+  "subscribe_num": 149,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99408,
+          "chapter_title": "1话",
+          "updatetime": 1585535481,
+          "filesize": 10439533,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 27613889,
+        "uid": 105149614,
+        "content": "和跑团结合的点子很有意思",
+        "createtime": 1590220459,
+        "nickname": "L656256",
+        "avatar": "https://avatar.dmzj.com/1b/5b/1b5bd9c88e4403723e4a0e3d7d7431a4.png"
+      },
+      {
+        "comment_id": 27384190,
+        "uid": 104838185,
+        "content": "好看！",
+        "createtime": 1589469588,
+        "nickname": "开挖掘机的二营长",
+        "avatar": "https://avatar.dmzj.com/74/94/7494f5ff640478d1d84e1db37eb698d8.png"
+      }
+    ]
+  }
+}

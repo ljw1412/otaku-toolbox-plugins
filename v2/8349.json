@@ -1,0 +1,75 @@
+{
+  "id": 8349,
+  "islong": 2,
+  "direction": 1,
+  "title": "HeroSP",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/herosp.jpg",
+  "description": "20XX年的欧洲——将要明了的圣诞节的真相！请看无人知晓的圣夜之战！为了保护HERO，在行动超炫目、大活跃的究极任务 ",
+  "last_updatetime": 1329543389,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "herosp",
+  "hidden": 0,
+  "hot_num": 22986,
+  "hit_num": 638146,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 16629,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4418,
+      "tag_name": "冈启介"
+    }
+  ],
+  "subscribe_num": 49,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 16629,
+          "chapter_title": "1话",
+          "updatetime": 1329543389,
+          "filesize": 4316698,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 216535,
+        "uid": 15300104,
+        "content": "大圣爷无处不在",
+        "createtime": 1395079065,
+        "nickname": "磨齿机峨眉号",
+        "avatar": "https://avatar.dmzj.com/ef/43/ef438aefe0811b6e1067d970d39ddce0.png"
+      },
+      {
+        "comment_id": 54076,
+        "uid": 14344595,
+        "content": "。。。",
+        "createtime": 1333489001,
+        "nickname": "好看没人气我要踩一下",
+        "avatar": "https://avatar.dmzj.com/3e/d1/3ed1c9b102bee928c06f91d9daf47a36.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

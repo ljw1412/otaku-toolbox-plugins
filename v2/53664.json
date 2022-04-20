@@ -1,0 +1,75 @@
+{
+  "id": 53664,
+  "islong": 2,
+  "direction": 1,
+  "title": "散若枫叶",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/sanruofengyefengmian.jpg",
+  "description": "bang dream同人",
+  "last_updatetime": 1586880955,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sanruofengye",
+  "hidden": 0,
+  "hot_num": 157500,
+  "hit_num": 33518,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96760,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19568,
+      "tag_name": "无糖そうだ"
+    }
+  ],
+  "subscribe_num": 730,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96760,
+          "chapter_title": "1话",
+          "updatetime": 1586880955,
+          "filesize": 4621724,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 50,
+    "latest_comment": [
+      {
+        "comment_id": 29780366,
+        "uid": 104403671,
+        "content": "码邦邦同人1",
+        "createtime": 1597778329,
+        "nickname": "A2017laite",
+        "avatar": "https://avatar.dmzj.com/52/41/5241dcc95e30eede6354c4b5e7b460d4.png"
+      },
+      {
+        "comment_id": 29195189,
+        "uid": 110745970,
+        "content": "库存+9",
+        "createtime": 1595605703,
+        "nickname": "番茄酱啊",
+        "avatar": "https://avatar.dmzj.com/43/80/43801491bb50c23eae3e71a54c9f08a1.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

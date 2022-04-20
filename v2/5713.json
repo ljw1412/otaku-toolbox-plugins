@@ -1,0 +1,86 @@
+{
+  "id": 5713,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔法勇士",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/03_f24578b20b72d2f2652149b78b6bf0d8.jpg",
+  "description": "魔法勇士/最后狂想曲",
+  "last_updatetime": 1282664075,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mofayongshi",
+  "hidden": 0,
+  "hot_num": 19208,
+  "hit_num": 474861,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 11737,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3128,
+      "tag_name": "权龙宛"
+    }
+  ],
+  "subscribe_num": 85,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 11737,
+          "chapter_title": "2卷",
+          "updatetime": 1283268875,
+          "filesize": 12819127,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 11736,
+          "chapter_title": "1卷",
+          "updatetime": 1283268875,
+          "filesize": 19442581,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 28937729,
+        "uid": 101675983,
+        "content": "好好看",
+        "createtime": 1594724932,
+        "nickname": "Master33553",
+        "avatar": "https://avatar.dmzj.com/27/5a/275aee63c2f5b50cdc641629cfbc3346.png"
+      },
+      {
+        "comment_id": 19084186,
+        "uid": 35046129,
+        "content": "21差",
+        "createtime": 1565073597,
+        "nickname": "大姨妈井喷啦",
+        "avatar": "https://avatar.dmzj.com/f1/2c/f12ca8d5988f0c4edffe37b12831ec6a.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

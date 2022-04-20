@@ -1,0 +1,90 @@
+{
+  "id": 6073,
+  "islong": 2,
+  "direction": 1,
+  "title": "狂风沙",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/kfs02-01_d58827da131ec75507188bec662d3cf8.jpg",
+  "description": "暂无简介",
+  "last_updatetime": 1283752998,
+  "copyright": 0,
+  "first_letter": "k",
+  "hot_num": 4231,
+  "hit_num": 57200,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1504,
+      "tag_name": "袁家宝"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 11,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12220,
+          "chapter_title": "4卷",
+          "updatetime": 1284357799,
+          "filesize": 5968284,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 12219,
+          "chapter_title": "3卷",
+          "updatetime": 1284357799,
+          "filesize": 5401227,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 12218,
+          "chapter_title": "2卷",
+          "updatetime": 1284357799,
+          "filesize": 4959983,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 12217,
+          "chapter_title": "1卷",
+          "updatetime": 1284357799,
+          "filesize": 6807130,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 10940695,
+        "uid": 105026897,
+        "content": "留",
+        "createtime": 1549301888,
+        "nickname": "随意点了",
+        "avatar": "https://avatar.dmzj.com/b9/89/b989fdac6a7d67f4382804ec8bfbe7c6.png"
+      },
+      {
+        "comment_id": 9687636,
+        "uid": 104544070,
+        "content": "图图",
+        "createtime": 1546594049,
+        "nickname": "千年丶",
+        "avatar": "https://avatar.dmzj.com/d2/94/d29467fc977a2a984f63cd760c77985c.png"
+      }
+    ]
+  }
+}

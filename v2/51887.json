@@ -1,0 +1,75 @@
+{
+  "id": 51887,
+  "islong": 2,
+  "direction": 1,
+  "title": "例大祭11报告漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/shasahsahsshiyi0119.jpg",
+  "description": "喂喂，车车人都是homo吗（大雾）",
+  "last_updatetime": 1579447189,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lidajishiyibaogaomanhua",
+  "hidden": 0,
+  "hot_num": 165478,
+  "hit_num": 59030,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96273,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5630,
+      "tag_name": "威未图"
+    }
+  ],
+  "subscribe_num": 677,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96273,
+          "chapter_title": "1话",
+          "updatetime": 1579447189,
+          "filesize": 6998046,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 106,
+    "latest_comment": [
+      {
+        "comment_id": 29807708,
+        "uid": 101466374,
+        "content": "果然homo乐趣无穷啊",
+        "createtime": 1597896516,
+        "nickname": "airly红音",
+        "avatar": "https://avatar.dmzj.com/11/34/1134a90ca9a1fa2e5d6a98946fa29d2b.png"
+      },
+      {
+        "comment_id": 29291574,
+        "uid": 105212809,
+        "content": "特地过来看恶饿鬼",
+        "createtime": 1595948215,
+        "nickname": "最帅猛男",
+        "avatar": "https://avatar.dmzj.com/9d/ac/9dac2641b93cd9f9063fb21f4627cdbb.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,86 @@
+{
+  "id": 6148,
+  "islong": 2,
+  "direction": 1,
+  "title": "爱神Q比特",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/02-000_d99bce2ffad969c1af81b3c20649c31b.jpg",
+  "description": "身为爱神Ｑ比特的小爱、小恋、小怜为了成为了不起的天使而每天努力奋斗着。 不过，想成为能独当一面的天使的修炼之路是很艰辛的…… 由三位各有特色的小小爱神交织而成，甜蜜中带有一丝酸涩的恋爱故事。",
+  "last_updatetime": 1283911200,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "asqbt",
+  "hidden": 0,
+  "hot_num": 18769,
+  "hit_num": 320620,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12309,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3136,
+      "tag_name": "征海未亚"
+    }
+  ],
+  "subscribe_num": 108,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12309,
+          "chapter_title": "2卷",
+          "updatetime": 1284516000,
+          "filesize": 16696166,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 12308,
+          "chapter_title": "1卷",
+          "updatetime": 1284516000,
+          "filesize": 13600473,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 15620451,
+        "uid": 101586531,
+        "content": "感叹号变感问号，今天才发现。。。。",
+        "createtime": 1557408205,
+        "nickname": "静月诗音",
+        "avatar": "https://avatar.dmzj.com/85/0c/850cdacc2e3ca562d85c6d30f9e655fb.png"
+      },
+      {
+        "comment_id": 7003305,
+        "uid": 101586531,
+        "content": "老师，我想你啦????",
+        "createtime": 1537879994,
+        "nickname": "静月诗音",
+        "avatar": "https://avatar.dmzj.com/85/0c/850cdacc2e3ca562d85c6d30f9e655fb.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

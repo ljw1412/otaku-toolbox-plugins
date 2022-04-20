@@ -1,0 +1,94 @@
+{
+  "id": 8191,
+  "islong": 2,
+  "direction": 1,
+  "title": "制服图鉴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/zhifutujian.jpg",
+  "description": "我所喜欢的——没有比脱下男人衣服的那一瞬间更加让我受不了的了！连你也不知道，我真正的心情…… \n",
+  "last_updatetime": 1365094134,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 154716,
+  "hit_num": 408287,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 602,
+      "tag_name": "松本友(マツモトトモ)"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 808,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20879,
+          "chapter_title": "4话",
+          "updatetime": 1365094134,
+          "filesize": 3277991,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 15488,
+          "chapter_title": "3话",
+          "updatetime": 1325992756,
+          "filesize": 1397313,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 15489,
+          "chapter_title": "2话",
+          "updatetime": 1325992762,
+          "filesize": 1371228,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 20878,
+          "chapter_title": "1话",
+          "updatetime": 1365094120,
+          "filesize": 1892048,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 22837900,
+        "uid": 100378600,
+        "content": "第三个短篇很有名呢，我在其他地方看到过几次",
+        "createtime": 1577269934,
+        "nickname": "夏铃娜娜",
+        "avatar": "https://avatar.dmzj.com/db/bc/dbbcc208be3b1578f29f3fe63989e5ef.png"
+      },
+      {
+        "comment_id": 14444576,
+        "uid": 100266884,
+        "content": "1",
+        "createtime": 1555438535,
+        "nickname": "羔羊九屠",
+        "avatar": "https://avatar.dmzj.com/cb/a2/cba2406c2ac58648306ffaabdefd1c86.png"
+      }
+    ]
+  }
+}

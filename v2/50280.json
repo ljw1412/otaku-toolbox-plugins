@@ -1,0 +1,79 @@
+{
+  "id": 50280,
+  "islong": 2,
+  "direction": 1,
+  "title": "可爱爱丽丝",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/keaiialisi0924.jpg",
+  "description": "人见人爱的爱丽丝~",
+  "last_updatetime": 1569291035,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "k",
+  "comic_py": "keaiailisi",
+  "hidden": 0,
+  "hot_num": 148526,
+  "hit_num": 51870,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93451,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15494,
+      "tag_name": "YU"
+    }
+  ],
+  "subscribe_num": 631,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93451,
+          "chapter_title": "1话",
+          "updatetime": 1569291035,
+          "filesize": 7032101,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 28084428,
+        "uid": 110746915,
+        "content": "可以很强",
+        "createtime": 1591868453,
+        "nickname": "dmzj_110746915",
+        "avatar": "https://avatar.dmzj.com/56/76/56760b9860af8070908200e7bff0e420.png"
+      },
+      {
+        "comment_id": 27335561,
+        "uid": 105773178,
+        "content": "可爱诶",
+        "createtime": 1589304900,
+        "nickname": "dmzj_105773178",
+        "avatar": "https://avatar.dmzj.com/37/21/3721d13f6855ea9d5e4700a2bbdcb36b.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

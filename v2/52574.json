@@ -1,0 +1,91 @@
+{
+  "id": 52574,
+  "islong": 2,
+  "direction": 1,
+  "title": "请教我如何忘记你",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/qjwrhwjnxiu0227.jpg",
+  "description": "早已经放弃了什么 少年成长为大人的青春故事",
+  "last_updatetime": 1592314430,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 3072835,
+  "hit_num": 785293,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19053,
+      "tag_name": "あまさきみりと"
+    },
+    {
+      "tag_id": 19057,
+      "tag_name": "花田ももせ"
+    }
+  ],
+  "subscribe_num": 14142,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99877,
+          "chapter_title": "3话",
+          "updatetime": 1592314430,
+          "filesize": 2277097,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 97085,
+          "chapter_title": "2话",
+          "updatetime": 1587479231,
+          "filesize": 3034766,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94682,
+          "chapter_title": "1话",
+          "updatetime": 1582769308,
+          "filesize": 9435226,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 501,
+    "latest_comment": [
+      {
+        "comment_id": 29909518,
+        "uid": 104144920,
+        "content": "czy",
+        "createtime": 1598274857,
+        "nickname": "守夜之殇",
+        "avatar": "https://avatar.dmzj.com/fc/65/fc657c183e7a75564d9ab3f1ace247bf.png"
+      },
+      {
+        "comment_id": 29767998,
+        "uid": 109322989,
+        "content": "更新有些慢。",
+        "createtime": 1597749140,
+        "nickname": "dmzj_109322989",
+        "avatar": "https://avatar.dmzj.com/85/22/85227f1ca5d39f1f777f8538c72c68ce.png"
+      }
+    ]
+  }
+}

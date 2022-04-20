@@ -1,0 +1,97 @@
+{
+  "id": 50859,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方怪弹七",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/191030dongf.jpg",
+  "description": "东方同人漫画。",
+  "last_updatetime": 1572401402,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 44984,
+  "hit_num": 14554,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18171,
+      "tag_name": "ALL.(Merkmal)"
+    }
+  ],
+  "subscribe_num": 208,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90686,
+          "chapter_title": "EXTRA",
+          "updatetime": 1572401402,
+          "filesize": 4782867,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 90685,
+          "chapter_title": "4话",
+          "updatetime": 1572401295,
+          "filesize": 6178654,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 90684,
+          "chapter_title": "3话",
+          "updatetime": 1572401150,
+          "filesize": 7649444,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 90683,
+          "chapter_title": "2话",
+          "updatetime": 1572400915,
+          "filesize": 4141175,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 90682,
+          "chapter_title": "1话",
+          "updatetime": 1572400718,
+          "filesize": 3781667,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 21781211,
+        "uid": 104143759,
+        "content": "没看懂，谁来给我解释一下？？？？？？",
+        "createtime": 1572446984,
+        "nickname": "空 黎天",
+        "avatar": "https://avatar.dmzj.com/dc/14/dc14db17cadb7ad3e235f7af11e37b4f.png"
+      },
+      {
+        "comment_id": 21778607,
+        "uid": 102547269,
+        "content": "还以为封面是小恶魔",
+        "createtime": 1572441711,
+        "nickname": "SAME70015",
+        "avatar": "https://avatar.dmzj.com/86/7e/867e617a14f2cea335b75f567acad3cc.png"
+      }
+    ]
+  }
+}

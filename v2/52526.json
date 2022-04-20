@@ -1,0 +1,97 @@
+{
+  "id": 52526,
+  "islong": 2,
+  "direction": 1,
+  "title": "Qualia -Envy- ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/qualiaenvy2020225.jpg",
+  "description": "百合短篇集。",
+  "last_updatetime": 1587045878,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 3406531,
+  "hit_num": 1340419,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 15300,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102106,
+          "chapter_title": "5话",
+          "updatetime": 1587045878,
+          "filesize": 8540594,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 101067,
+          "chapter_title": "4话",
+          "updatetime": 1585315543,
+          "filesize": 3455949,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 100889,
+          "chapter_title": "3话",
+          "updatetime": 1584978034,
+          "filesize": 3310914,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 100475,
+          "chapter_title": "2话",
+          "updatetime": 1584272069,
+          "filesize": 2145102,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 99697,
+          "chapter_title": "1话",
+          "updatetime": 1582773751,
+          "filesize": 2951660,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 718,
+    "latest_comment": [
+      {
+        "comment_id": 30027833,
+        "uid": 109352271,
+        "content": "留",
+        "createtime": 1598714125,
+        "nickname": "dmzj_109352271",
+        "avatar": "https://avatar.dmzj.com/32/80/32806d17352ca06b241998848eb39f94.png"
+      },
+      {
+        "comment_id": 30022605,
+        "uid": 102243538,
+        "content": "留个门",
+        "createtime": 1598699946,
+        "nickname": "深海舰队的欧皇",
+        "avatar": "https://avatar.dmzj.com/67/3d/673d58a326cb36f59b42ac2367d01ce1.png"
+      }
+    ]
+  }
+}

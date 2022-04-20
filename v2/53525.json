@@ -1,0 +1,75 @@
+{
+  "id": 53525,
+  "islong": 2,
+  "direction": 1,
+  "title": "因个人原因请假",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/yinggerenyuanyingqingjia0408.jpg",
+  "description": "耳朵呢？没有了没有了。",
+  "last_updatetime": 1586342447,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yingerenyuanyinqingjia",
+  "hidden": 0,
+  "hot_num": 178408,
+  "hit_num": 26532,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100633,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5965,
+      "tag_name": "友部キヌコ"
+    }
+  ],
+  "subscribe_num": 673,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100633,
+          "chapter_title": "1话",
+          "updatetime": 1586342447,
+          "filesize": 5150181,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 44,
+    "latest_comment": [
+      {
+        "comment_id": 28202946,
+        "uid": 106461230,
+        "content": "可爱",
+        "createtime": 1592296043,
+        "nickname": "NIGO神",
+        "avatar": "https://avatar.dmzj.com/49/ac/49ac43f824426742244343ffe7a76957.png"
+      },
+      {
+        "comment_id": 28172855,
+        "uid": 106391623,
+        "content": "i了i了",
+        "createtime": 1592187900,
+        "nickname": "简落",
+        "avatar": "https://avatar.dmzj.com/17/47/17476759c75c9bbe1270da5ab417f12a.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

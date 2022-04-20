@@ -1,0 +1,94 @@
+{
+  "id": 53331,
+  "islong": 2,
+  "direction": 1,
+  "title": "Reply",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/replay20200330.jpg",
+  "description": "即使是成年人，也并非不会为情所困。",
+  "last_updatetime": 1585556755,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 266758,
+  "hit_num": 121937,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9899,
+      "tag_name": "ヨネダコウ"
+    }
+  ],
+  "subscribe_num": 1215,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101242,
+          "chapter_title": "番外02",
+          "updatetime": 1585556755,
+          "filesize": 1971307,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 101241,
+          "chapter_title": "番外01",
+          "updatetime": 1585556742,
+          "filesize": 406630,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 101240,
+          "chapter_title": "2话",
+          "updatetime": 1585556718,
+          "filesize": 9072601,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 101239,
+          "chapter_title": "1话",
+          "updatetime": 1585556703,
+          "filesize": 14930072,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 38,
+    "latest_comment": [
+      {
+        "comment_id": 30038552,
+        "uid": 107647929,
+        "content": "求鸣鸟不飞！",
+        "createtime": 1598760684,
+        "nickname": "evillexes",
+        "avatar": "https://avatar.dmzj.com/98/39/9839deb5fd752641390fb4887b2e633c.png"
+      },
+      {
+        "comment_id": 29682146,
+        "uid": 104651264,
+        "content": "成年人的浪漫！",
+        "createtime": 1597419454,
+        "nickname": "高墙76446",
+        "avatar": "https://avatar.dmzj.com/8c/56/8c56bfa8a67ed61bcdec49f533b03f21.png"
+      }
+    ]
+  }
+}

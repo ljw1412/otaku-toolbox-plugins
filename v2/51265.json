@@ -1,0 +1,73 @@
+{
+  "id": 51265,
+  "islong": 2,
+  "direction": 1,
+  "title": "一面的你",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/ymzy1209.jpg",
+  "description": "那张侧脸，那个瞬间。",
+  "last_updatetime": 1574910738,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 3640772,
+  "hit_num": 106252,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4910,
+      "tag_name": "加藤雄一"
+    }
+  ],
+  "subscribe_num": 17258,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95405,
+          "chapter_title": "1话",
+          "updatetime": 1574910738,
+          "filesize": 1710853,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 195,
+    "latest_comment": [
+      {
+        "comment_id": 28692477,
+        "uid": 100623661,
+        "content": "香",
+        "createtime": 1593893234,
+        "nickname": "阿库玛喏嘁咔啦",
+        "avatar": "https://avatar.dmzj.com/64/35/6435df39b963357fe76b9b8719f8f2ff.png"
+      },
+      {
+        "comment_id": 27379064,
+        "uid": 108741236,
+        "content": "画风爱了",
+        "createtime": 1589459273,
+        "nickname": "kiduac",
+        "avatar": "https://avatar.dmzj.com/4d/88/4d88923b2ffde3b3f6c8abc3ccbde5f7.png"
+      }
+    ]
+  }
+}

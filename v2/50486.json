@@ -1,0 +1,73 @@
+{
+  "id": 50486,
+  "islong": 2,
+  "direction": 1,
+  "title": "集合宴会",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/191007jhyh.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1570415928,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 18880,
+  "hit_num": 4217,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14074,
+      "tag_name": "海运"
+    },
+    {
+      "tag_id": 18012,
+      "tag_name": "こうば"
+    }
+  ],
+  "subscribe_num": 90,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93535,
+          "chapter_title": "1话",
+          "updatetime": 1570415928,
+          "filesize": 11254723,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 21126129,
+        "uid": 101540821,
+        "content": "桶妈脸(指眼睛占了半张脸)",
+        "createtime": 1570632988,
+        "nickname": "终末交响诗",
+        "avatar": "https://avatar.dmzj.com/11/61/1161731420d664a647c3a3361ce01d99.png"
+      },
+      {
+        "comment_id": 21054252,
+        "uid": 106314703,
+        "content": "06年。。。。",
+        "createtime": 1570464243,
+        "nickname": "在下告辞了",
+        "avatar": "https://avatar.dmzj.com/27/29/2729cbe9f46383dce72a6270e819ab29.png"
+      }
+    ]
+  }
+}

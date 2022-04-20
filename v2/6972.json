@@ -1,0 +1,87 @@
+{
+  "id": 6972,
+  "islong": 2,
+  "direction": 2,
+  "title": "血清-自新之路",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/xqzxzl.jpg",
+  "description": "“当我刚刚认识她的时候，她浑身充满了海洛因的味道，我用我的能力帮助她逃出了毒品的魔爪，现在，她帮我清楚着这条街上的残渣”",
+  "last_updatetime": 1292207933,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 4142031,
+  "hit_num": 839871,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 19933,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13852,
+          "chapter_title": "3卷",
+          "updatetime": 1292207933,
+          "filesize": 3161773,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 13835,
+          "chapter_title": "2卷",
+          "updatetime": 1291947088,
+          "filesize": 3492140,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13832,
+          "chapter_title": "1卷",
+          "updatetime": 1291793128,
+          "filesize": 3813999,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 9721650,
+        "uid": 107458952,
+        "content": "订阅了",
+        "createtime": 1546681099,
+        "nickname": "怠情的咸鱼",
+        "avatar": "https://avatar.dmzj.com/dc/fe/dcfe4e7effff29159dfa2e9ec798068d.png"
+      },
+      {
+        "comment_id": 8566083,
+        "uid": 100608566,
+        "content": "e",
+        "createtime": 1543658687,
+        "nickname": "冰下~之痕，雪下之恋~无谓",
+        "avatar": "https://avatar.dmzj.com/1f/01/1f01ce659fa2cc5fab9a6a6dc6b1df24.png"
+      }
+    ]
+  }
+}

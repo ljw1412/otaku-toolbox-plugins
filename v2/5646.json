@@ -1,0 +1,80 @@
+{
+  "id": 5646,
+  "islong": 2,
+  "direction": 1,
+  "title": "职业天使",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/26_b2fe1d7f0ada3741ae759688155ce965.jpg",
+  "description": "如果你想哭时，请您翻阅这本书吧！该书内容全都是些溫馨短篇漫畫，令人心頭感到暧暧的！",
+  "last_updatetime": 1544235001,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 100700,
+  "hit_num": 237733,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3094,
+      "tag_name": "藤川桐子"
+    }
+  ],
+  "subscribe_num": 438,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 83756,
+          "chapter_title": "第01卷附录",
+          "updatetime": 1544235001,
+          "filesize": 122322,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 10531,
+          "chapter_title": "1卷",
+          "updatetime": 1282895262,
+          "filesize": 6899807,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 28671719,
+        "uid": 100078011,
+        "content": "123",
+        "createtime": 1593845075,
+        "nickname": "怪兽嗷",
+        "avatar": "https://avatar.dmzj.com/e8/bd/e8bd299eed7c46c9c37c75f38f7cbbda.png"
+      },
+      {
+        "comment_id": 20482829,
+        "uid": 102336049,
+        "content": "订阅，被订阅。标记，被标记。评论，被评论。反复着肯定与否定，我们总是为了不失去漫画而标记着。",
+        "createtime": 1568999914,
+        "nickname": "91cm的未来",
+        "avatar": "https://avatar.dmzj.com/79/d7/79d7f6d6e92f46aa1d5cc13dcf283ee6.png"
+      }
+    ]
+  }
+}

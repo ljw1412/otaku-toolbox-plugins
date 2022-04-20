@@ -1,0 +1,79 @@
+{
+  "id": 50263,
+  "islong": 2,
+  "direction": 1,
+  "title": "叠色",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/190923ds.jpg",
+  "description": "东方同人",
+  "last_updatetime": 1569205413,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "diese",
+  "hidden": 0,
+  "hot_num": 148422,
+  "hit_num": 39984,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 88540,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15494,
+      "tag_name": "YU"
+    }
+  ],
+  "subscribe_num": 626,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88540,
+          "chapter_title": "1话",
+          "updatetime": 1569205413,
+          "filesize": 6406427,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 46,
+    "latest_comment": [
+      {
+        "comment_id": 27995219,
+        "uid": 107658793,
+        "content": "康康康康",
+        "createtime": 1591536261,
+        "nickname": "onelor",
+        "avatar": "https://avatar.dmzj.com/13/fc/13fcd5509c9c97a75e011b76b3254a04.png"
+      },
+      {
+        "comment_id": 27355935,
+        "uid": 105696370,
+        "content": "是双七，awsl",
+        "createtime": 1589382849,
+        "nickname": "午夜琉璃花",
+        "avatar": "https://avatar.dmzj.com/26/82/2682734f3f11a416ac2ad88a741bde3d.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

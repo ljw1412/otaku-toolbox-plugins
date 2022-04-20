@@ -1,0 +1,75 @@
+{
+  "id": 52370,
+  "islong": 2,
+  "direction": 1,
+  "title": "sweet dream",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1093822321581697811.jpg",
+  "description": "在梦中，一切皆有可能\n那么，这个梦究竟是美梦还是噩梦呢？",
+  "last_updatetime": 1581698958,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 50836,
+  "hit_num": 8432,
+  "uid": 109382232,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17346,
+      "tag_name": "棒棒糖sunday"
+    }
+  ],
+  "subscribe_num": 229,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98192,
+          "chapter_title": "1话",
+          "updatetime": 1581698958,
+          "filesize": 4215172,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 27495438,
+        "uid": 101727280,
+        "content": "画风爱了",
+        "createtime": 1589828553,
+        "nickname": "匪所",
+        "avatar": "https://avatar.dmzj.com/54/89/5489fa73a7d2b53dc3aca8584cf0b453.png"
+      },
+      {
+        "comment_id": 25591624,
+        "uid": 100321500,
+        "content": "上面说抄袭说下炒哪了？虽然画风挺熟悉的",
+        "createtime": 1584950325,
+        "nickname": "卟懂",
+        "avatar": "https://avatar.dmzj.com/71/65/7165a91391934a91fd0ed6da109f2249.png"
+      }
+    ]
+  }
+}

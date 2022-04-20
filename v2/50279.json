@@ -1,0 +1,73 @@
+{
+  "id": 50279,
+  "islong": 2,
+  "direction": 1,
+  "title": "flowery flyer",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/floweryflyer.jpg",
+  "description": "遇上了一个被丢弃的人偶……",
+  "last_updatetime": 1569290229,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 83320,
+  "hit_num": 12334,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15494,
+      "tag_name": "YU"
+    }
+  ],
+  "subscribe_num": 396,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89077,
+          "chapter_title": "1话",
+          "updatetime": 1569290229,
+          "filesize": 7756084,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 21826877,
+        "uid": 107162232,
+        "content": "好看",
+        "createtime": 1572613446,
+        "nickname": "西红柿鸡蛋",
+        "avatar": "https://avatar.dmzj.com/90/08/900801c4e84a7f7adeaa3ad454b9a1c3.png"
+      },
+      {
+        "comment_id": 20613649,
+        "uid": 101862305,
+        "content": "毒人偶真可爱",
+        "createtime": 1569406200,
+        "nickname": "剧毒术士梅蒂欣",
+        "avatar": "https://avatar.dmzj.com/58/35/5835c7c5e20f076e3c9cdce7a7ec0b2d.png"
+      }
+    ]
+  }
+}

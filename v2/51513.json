@@ -1,0 +1,110 @@
+{
+  "id": 51513,
+  "islong": 2,
+  "direction": 2,
+  "title": "欢迎光临兔子酒吧！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1002070921588432519.jpg",
+  "description": "一位每天都要面对大汉们的少女的故事……",
+  "last_updatetime": 1596384888,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 346100,
+  "hit_num": 103629,
+  "uid": 100207092,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12414,
+      "tag_name": "比比西"
+    }
+  ],
+  "subscribe_num": 1469,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101353,
+          "chapter_title": "番外01",
+          "updatetime": 1596384888,
+          "filesize": 1004939,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 100756,
+          "chapter_title": "公告",
+          "updatetime": 1595145943,
+          "filesize": 667797,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 96783,
+          "chapter_title": "4话",
+          "updatetime": 1587668322,
+          "filesize": 1656978,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 93967,
+          "chapter_title": "3话",
+          "updatetime": 1582699433,
+          "filesize": 1892153,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 92951,
+          "chapter_title": "2话",
+          "updatetime": 1580810259,
+          "filesize": 1440753,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 91302,
+          "chapter_title": "1话",
+          "updatetime": 1576354362,
+          "filesize": 1446229,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "欢迎为作品提出意见，漫画交流企鹅群：801736022来者请注明动漫之家。",
+  "comic_notice": "欢迎为作品提出意见，漫画交流企鹅群：801736022来者请注明动漫之家。",
+  "comment": {
+    "comment_count": 101,
+    "latest_comment": [
+      {
+        "comment_id": 29487428,
+        "uid": 101357168,
+        "content": "我来帮个人。",
+        "createtime": 1596645940,
+        "nickname": "贪吃的狼",
+        "avatar": "https://avatar.dmzj.com/13/89/13890eb60a6386bf402b61b5272952d6.png"
+      },
+      {
+        "comment_id": 29445562,
+        "uid": 108125492,
+        "content": "在ghs的边缘反复横跳",
+        "createtime": 1596508553,
+        "nickname": "暴咀虫",
+        "avatar": "https://avatar.dmzj.com/37/94/3794766555f142fa83addcbb6a0b40fd.png"
+      }
+    ]
+  }
+}

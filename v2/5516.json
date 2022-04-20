@@ -1,0 +1,87 @@
+{
+  "id": 5516,
+  "islong": 2,
+  "direction": 1,
+  "title": "夜想曲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/12_ba17a1846c1af279c92644ae9b18080f.jpg",
+  "description": "神奇的剑之少年与幽灵女鬼,面对邪恶的教会势力,为了保护无辜的居民而战,然而……......",
+  "last_updatetime": 1281945285,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 26857,
+  "hit_num": 1204320,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 708,
+      "tag_name": "栗桥伸佑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 130,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10326,
+          "chapter_title": "3卷",
+          "updatetime": 1282550085,
+          "filesize": 10129988,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 10325,
+          "chapter_title": "2卷",
+          "updatetime": 1282550085,
+          "filesize": 9719441,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 10324,
+          "chapter_title": "1卷",
+          "updatetime": 1282550085,
+          "filesize": 8495746,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 24872268,
+        "uid": 109758369,
+        "content": "古典时代",
+        "createtime": 1583335678,
+        "nickname": "dmzj_109758369",
+        "avatar": "https://avatar.dmzj.com/8a/7d/8a7d972085517804fb004685d676378e.png"
+      },
+      {
+        "comment_id": 23686564,
+        "uid": 100719087,
+        "content": "看看康康",
+        "createtime": 1580563277,
+        "nickname": "嘘ん腦內彼女",
+        "avatar": "https://avatar.dmzj.com/97/96/97960cd6830888d42b3e333d958c9379.png"
+      }
+    ]
+  }
+}

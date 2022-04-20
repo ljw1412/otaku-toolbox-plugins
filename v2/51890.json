@@ -1,0 +1,75 @@
+{
+  "id": 51890,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C97)Wing GIRLs",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/winggirls0120.jpg",
+  "description": "是什么蒙蔽了我的双眼？是折翼的天使啊！",
+  "last_updatetime": 1579486377,
+  "last_update_chapter_name": "全一册",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "winggirls",
+  "hidden": 0,
+  "hot_num": 3914069,
+  "hit_num": 413147,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97043,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15449,
+      "tag_name": "sola"
+    }
+  ],
+  "subscribe_num": 15484,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97043,
+          "chapter_title": "1卷",
+          "updatetime": 1579486377,
+          "filesize": 1693713,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 532,
+    "latest_comment": [
+      {
+        "comment_id": 30048363,
+        "uid": 105976005,
+        "content": "6",
+        "createtime": 1598799293,
+        "nickname": "dmzj_105976005",
+        "avatar": "https://avatar.dmzj.com/24/c8/24c881398af40f4904865b0a6e96e5b1.png"
+      },
+      {
+        "comment_id": 29972445,
+        "uid": 101155400,
+        "content": "留",
+        "createtime": 1598497774,
+        "nickname": "Zz41716",
+        "avatar": "https://avatar.dmzj.com/21/02/21024c0e898e2524ab4aa88e93793f50.png"
+      }
+    ]
+  },
+  "is_need_login": 1
+}

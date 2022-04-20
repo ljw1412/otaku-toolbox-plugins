@@ -1,0 +1,94 @@
+{
+  "id": 7890,
+  "islong": 2,
+  "direction": 2,
+  "title": "DMZ非军事区",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/fjsq.jpg",
+  "description": "深入一场永无止境的战争...... ",
+  "last_updatetime": 1326772293,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 208326,
+  "hit_num": 549357,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4167,
+      "tag_name": "VERTIGO"
+    }
+  ],
+  "subscribe_num": 1051,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 17546,
+          "chapter_title": "4卷",
+          "updatetime": 1326772293,
+          "filesize": 3613823,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 17000,
+          "chapter_title": "3卷",
+          "updatetime": 1321939685,
+          "filesize": 2526956,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 16760,
+          "chapter_title": "2卷",
+          "updatetime": 1319439907,
+          "filesize": 2632010,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 16746,
+          "chapter_title": "1卷",
+          "updatetime": 1319288354,
+          "filesize": 2982445,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 28480483,
+        "uid": 104744859,
+        "content": "好看哦",
+        "createtime": 1593258729,
+        "nickname": "缇虾虾",
+        "avatar": "https://avatar.dmzj.com/51/36/51362d70b8b483d96c43618899953c7f.png"
+      },
+      {
+        "comment_id": 21566522,
+        "uid": 105020309,
+        "content": "居然不更了",
+        "createtime": 1571742663,
+        "nickname": "法克佩尼茨",
+        "avatar": "https://avatar.dmzj.com/68/81/6881aa233376599b27406e29f69924fd.png"
+      }
+    ]
+  }
+}

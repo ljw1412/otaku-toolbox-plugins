@@ -1,0 +1,100 @@
+{
+  "id": 52197,
+  "islong": 2,
+  "direction": 1,
+  "title": "杂鱼吸血鬼酱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/200206zyxxgj.jpg",
+  "description": "一个关于生活于现代社会吸血鬼酱的短篇漫画。",
+  "last_updatetime": 1598756921,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zayuxixueguijiang",
+  "hidden": 0,
+  "hot_num": 5961629,
+  "hit_num": 523727,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 106512,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18838,
+      "tag_name": "kanju"
+    }
+  ],
+  "subscribe_num": 26404,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 106512,
+          "chapter_title": "4话",
+          "updatetime": 1598756921,
+          "filesize": 702959,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 100364,
+          "chapter_title": "3话",
+          "updatetime": 1587361106,
+          "filesize": 1691393,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 100363,
+          "chapter_title": "2话",
+          "updatetime": 1587361088,
+          "filesize": 1410652,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 96919,
+          "chapter_title": "1话",
+          "updatetime": 1581001418,
+          "filesize": 1340514,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 725,
+    "latest_comment": [
+      {
+        "comment_id": 30074918,
+        "uid": 107509016,
+        "content": "好萌好想养一只。",
+        "createtime": 1598921952,
+        "nickname": "安羽一卡斯兰娜",
+        "avatar": "https://avatar.dmzj.com/41/13/4113630f9d9323d7d6c58dd39f9f2ad9.png"
+      },
+      {
+        "comment_id": 30074603,
+        "uid": 104223585,
+        "content": "????",
+        "createtime": 1598919071,
+        "nickname": "诗凰",
+        "avatar": "https://avatar.dmzj.com/97/65/9765a90e86d97698be21a8c53419e817.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

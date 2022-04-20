@@ -1,0 +1,91 @@
+{
+  "id": 6569,
+  "islong": 2,
+  "direction": 2,
+  "title": "X-特攻队：Sex and Violence",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/Xtegong.jpg",
+  "description": "金刚狼 罗根 和妮娜的枪林弹雨中的爱情故事\n",
+  "last_updatetime": 1288855247,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 3968300,
+  "hit_num": 1319566,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 19151,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12672,
+          "chapter_title": "3卷",
+          "updatetime": 1288855249,
+          "filesize": 3215396,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 12661,
+          "chapter_title": "2卷",
+          "updatetime": 1288772626,
+          "filesize": 3714669,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 12646,
+          "chapter_title": "1卷",
+          "updatetime": 1288668267,
+          "filesize": 2549512,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 20529306,
+        "uid": 108886481,
+        "content": "画风不错",
+        "createtime": 1569150500,
+        "nickname": "dmzj_108886481",
+        "avatar": "https://avatar.dmzj.com/36/75/3675f4d722bbd7ea2b2419f44b43b1d3.png"
+      },
+      {
+        "comment_id": 17676381,
+        "uid": 106254017,
+        "content": "好棒",
+        "createtime": 1561917880,
+        "nickname": "jw67",
+        "avatar": "https://avatar.dmzj.com/29/15/2915e9bd29e57e5f7de9fd4d0dfbaa08.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": 51476,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔王之器",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/191216mwzq.jpg",
+  "description": "少年的意志\n编织起新的战记——",
+  "last_updatetime": 1597290010,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mowangzhiqi",
+  "hidden": 0,
+  "hot_num": 2127765,
+  "hit_num": 925302,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 107463,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18461,
+      "tag_name": "铃木鱼"
+    },
+    {
+      "tag_id": 18462,
+      "tag_name": "月野文人"
+    }
+  ],
+  "subscribe_num": 8937,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 107463,
+          "chapter_title": "5话",
+          "updatetime": 1597290010,
+          "filesize": 5203458,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 106267,
+          "chapter_title": "4话",
+          "updatetime": 1594872198,
+          "filesize": 5410654,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 102693,
+          "chapter_title": "3话",
+          "updatetime": 1588048300,
+          "filesize": 6941962,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 100648,
+          "chapter_title": "2话",
+          "updatetime": 1584541076,
+          "filesize": 6058520,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 95803,
+          "chapter_title": "1话",
+          "updatetime": 1576468041,
+          "filesize": 8638357,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 172,
+    "latest_comment": [
+      {
+        "comment_id": 29908672,
+        "uid": 108187351,
+        "content": "留",
+        "createtime": 1598272782,
+        "nickname": "dmzj_108187351",
+        "avatar": "https://avatar.dmzj.com/3a/d1/3ad1b65e5feb0f9664408aed494170c7.png"
+      },
+      {
+        "comment_id": 29838267,
+        "uid": 100902782,
+        "content": "看的出内容很充实，不过第一话之前不应该再补充点背景吗，上来就是一堆人物带着理不清的关系在一个陌生的环境里勾心斗角，看得着实有点累。",
+        "createtime": 1598009454,
+        "nickname": "半年才改名很困扰。。",
+        "avatar": "https://avatar.dmzj.com/46/73/4673c6cbe98b125ea20eb2027ed9554b.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

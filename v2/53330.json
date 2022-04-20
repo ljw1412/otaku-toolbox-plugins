@@ -1,0 +1,87 @@
+{
+  "id": 53330,
+  "islong": 2,
+  "direction": 1,
+  "title": "NightS",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/nights20200330.jpg",
+  "description": "一旦爱上某个人，就会簡単的遭到背叛；\n即使被谁爱上，也能簡単的背叛他。\n这就是黑道，黑社会的恋爱作风。",
+  "last_updatetime": 1585556523,
+  "copyright": 0,
+  "first_letter": "n",
+  "hot_num": 248503,
+  "hit_num": 72144,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9899,
+      "tag_name": "ヨネダコウ"
+    }
+  ],
+  "subscribe_num": 1131,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100155,
+          "chapter_title": "番外02",
+          "updatetime": 1585556523,
+          "filesize": 4537700,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 100154,
+          "chapter_title": "番外01",
+          "updatetime": 1585556505,
+          "filesize": 1977076,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 100153,
+          "chapter_title": "1话",
+          "updatetime": 1585556493,
+          "filesize": 10966751,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 38,
+    "latest_comment": [
+      {
+        "comment_id": 30038539,
+        "uid": 107647929,
+        "content": "求鸣鸟不飞！",
+        "createtime": 1598760630,
+        "nickname": "evillexes",
+        "avatar": "https://avatar.dmzj.com/98/39/9839deb5fd752641390fb4887b2e633c.png"
+      },
+      {
+        "comment_id": 29660856,
+        "uid": 105783944,
+        "content": "mmmmmmmm",
+        "createtime": 1597330091,
+        "nickname": "KadajKK",
+        "avatar": "https://avatar.dmzj.com/18/79/1879c67284ac2136b89b7dacde2589e5.png"
+      }
+    ]
+  }
+}

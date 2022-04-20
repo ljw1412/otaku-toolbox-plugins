@@ -1,0 +1,73 @@
+{
+  "id": 50473,
+  "islong": 2,
+  "direction": 1,
+  "title": "紫色的赫赫名流",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/191006zsdhhml.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1570327730,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 25326,
+  "hit_num": 3360,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14074,
+      "tag_name": "海运"
+    },
+    {
+      "tag_id": 18012,
+      "tag_name": "こうば"
+    }
+  ],
+  "subscribe_num": 117,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88919,
+          "chapter_title": "1话",
+          "updatetime": 1570327730,
+          "filesize": 5679277,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 20995951,
+        "uid": 100964276,
+        "content": "这封面以为是莉莉白是不是没救了",
+        "createtime": 1570370920,
+        "nickname": "宅³♡灬",
+        "avatar": "https://avatar.dmzj.com/a3/a9/a3a940dae4217e289ad8b3606af325d2.png"
+      },
+      {
+        "comment_id": 20976216,
+        "uid": 108038105,
+        "content": "画风有够老的了，有种回到了零七年的感觉。",
+        "createtime": 1570340680,
+        "nickname": "心之所向，追求美好",
+        "avatar": "https://avatar.dmzj.com/90/27/9027c37474c280a7437e003812789906.png"
+      }
+    ]
+  }
+}

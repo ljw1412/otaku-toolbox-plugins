@@ -1,0 +1,101 @@
+{
+  "id": 6596,
+  "islong": 2,
+  "direction": 1,
+  "title": "幻想绮贴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/huanxiangyimeng.jpg",
+  "description": "这个是讲述杀生石传说的故事。安倍泰成不是晴明，是晴明的后代，二人相差了100多年的历史了。",
+  "last_updatetime": 1288257232,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 44468,
+  "hit_num": 191917,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1858,
+      "tag_name": "波津彬子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 202,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 11686,
+          "chapter_title": "5话",
+          "updatetime": 1288862032,
+          "filesize": 5718449,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 11685,
+          "chapter_title": "4话",
+          "updatetime": 1288862032,
+          "filesize": 4991645,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 11684,
+          "chapter_title": "3话",
+          "updatetime": 1288862032,
+          "filesize": 6217617,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 11683,
+          "chapter_title": "2话",
+          "updatetime": 1288862032,
+          "filesize": 3708352,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 11682,
+          "chapter_title": "1话",
+          "updatetime": 1288862032,
+          "filesize": 5129981,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 234490,
+        "uid": 26044561,
+        "content": "日文＜兩＞卷完，相信是爛尾了。。。可惜。。。",
+        "createtime": 1399366760,
+        "nickname": "京子flo",
+        "avatar": "https://avatar.dmzj.com/f2/c2/f2c23c3e9ca3d57ccfb7b2d1c442c12c.png"
+      },
+      {
+        "comment_id": 201594,
+        "uid": 25103042,
+        "content": "幻想绮贴玉藻前",
+        "createtime": 1391320249,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  }
+}

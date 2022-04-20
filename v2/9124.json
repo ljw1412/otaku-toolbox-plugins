@@ -1,0 +1,90 @@
+{
+  "id": 9124,
+  "islong": 2,
+  "direction": 2,
+  "title": "最后的独角兽",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/zuihoudedujiaoshou.jpg",
+  "description": "　一只孤独的独角兽，一直平静地生活在一片美丽的森林里。她得知自己可能是世界上最后一只独角兽时，毅然离开了熟悉的森林，踏上了寻找同类的漫漫征程。",
+  "last_updatetime": 1382250577,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 262670,
+  "hit_num": 320378,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1206,
+      "tag_name": "IDW"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1234,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24675,
+          "chapter_title": "4卷",
+          "updatetime": 1382250577,
+          "filesize": 2487428,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 24674,
+          "chapter_title": "3卷",
+          "updatetime": 1382250555,
+          "filesize": 2547623,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 18787,
+          "chapter_title": "2卷",
+          "updatetime": 1346038778,
+          "filesize": 3347519,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 18393,
+          "chapter_title": "1卷",
+          "updatetime": 1342768805,
+          "filesize": 2486092,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 28520950,
+        "uid": 109457842,
+        "content": "WOW",
+        "createtime": 1593365708,
+        "nickname": "梦语夜樱",
+        "avatar": "https://avatar.dmzj.com/87/87/878725a4d472b5c37e393a09905cfc1c.png"
+      },
+      {
+        "comment_id": 25683844,
+        "uid": 100687972,
+        "content": "没更完就很过分了",
+        "createtime": 1585151196,
+        "nickname": "本座一脸兴趣缺",
+        "avatar": "https://avatar.dmzj.com/63/50/6350fd88b77c39fb2c726d95e97221b7.png"
+      }
+    ]
+  }
+}

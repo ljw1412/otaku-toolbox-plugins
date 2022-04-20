@@ -1,0 +1,73 @@
+{
+  "id": 52100,
+  "islong": 2,
+  "direction": 1,
+  "title": "YM之书",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/ymzs0201.jpg",
+  "description": "那个家伙他又来了",
+  "last_updatetime": 1580542779,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 691951,
+  "hit_num": 187796,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5076,
+      "tag_name": "是乃"
+    }
+  ],
+  "subscribe_num": 3127,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97429,
+          "chapter_title": "1话",
+          "updatetime": 1580542779,
+          "filesize": 3770192,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 229,
+    "latest_comment": [
+      {
+        "comment_id": 29711209,
+        "uid": 109259052,
+        "content": "3000倍x3000倍x300倍＝2700000000倍\n3000倍x900000个＝2700000000倍",
+        "createtime": 1597525875,
+        "nickname": "kcsbaka",
+        "avatar": "https://avatar.dmzj.com/39/b3/39b389c39c95916f87970e9f5c6b89d6.png"
+      },
+      {
+        "comment_id": 28961552,
+        "uid": 101543952,
+        "content": "小老帝你怎么回事？",
+        "createtime": 1594797799,
+        "nickname": "Accelerator、一方通行",
+        "avatar": "https://avatar.dmzj.com/c0/49/c049237ce1471b639192de1864d67065.png"
+      }
+    ]
+  }
+}

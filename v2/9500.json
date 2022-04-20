@@ -1,0 +1,112 @@
+{
+  "id": 9500,
+  "islong": 2,
+  "direction": 1,
+  "title": "鬼之古道",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/guizhigudao.jpg",
+  "description": "\"传说古道是神明和妖怪所居住的地方，亦是亡灵会经过的通道。人鬼殊途，生者万一误闯，必会遭劫。一旦在古道中死去，屍首也只能长留於古道之中……",
+  "last_updatetime": 1349412351,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 83515,
+  "hit_num": 5178756,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5021,
+      "tag_name": "木根摄"
+    },
+    {
+      "tag_id": 5022,
+      "tag_name": "恒川光太郎"
+    }
+  ],
+  "subscribe_num": 416,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20241,
+          "chapter_title": "6卷",
+          "updatetime": 1349412351,
+          "filesize": 32385678,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 20240,
+          "chapter_title": "5卷",
+          "updatetime": 1349411514,
+          "filesize": 28237122,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 20239,
+          "chapter_title": "4卷",
+          "updatetime": 1349411505,
+          "filesize": 28799992,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 20238,
+          "chapter_title": "3卷",
+          "updatetime": 1349410575,
+          "filesize": 29164332,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 20237,
+          "chapter_title": "2卷",
+          "updatetime": 1349410058,
+          "filesize": 31403388,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 20236,
+          "chapter_title": "1卷",
+          "updatetime": 1349409660,
+          "filesize": 29131363,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 62,
+    "latest_comment": [
+      {
+        "comment_id": 29018191,
+        "uid": 110941289,
+        "content": "灯灯",
+        "createtime": 1594992836,
+        "nickname": "bgmm",
+        "avatar": "https://avatar.dmzj.com/62/43/624358ef197258434513b036429c867c.png"
+      },
+      {
+        "comment_id": 28491095,
+        "uid": 102515492,
+        "content": "有点意思",
+        "createtime": 1593277693,
+        "nickname": "gaba",
+        "avatar": "https://avatar.dmzj.com/23/88/2388c740451c91ebcdd9635d7e13a60c.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": 5166,
+  "islong": 2,
+  "direction": 1,
+  "title": "罗德岛战记-魔神传说",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/9_ad168da37d9a28687d22703b8aa89642.jpg",
+  "description": "罗德岛战记-魔神传奇",
+  "last_updatetime": 1280980971,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 353499,
+  "hit_num": 938950,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2155,
+      "tag_name": "水野良"
+    },
+    {
+      "tag_id": 2918,
+      "tag_name": "斋藤亚弓"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1880,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9288,
+          "chapter_title": "2卷",
+          "updatetime": 1281585771,
+          "filesize": 12301942,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9287,
+          "chapter_title": "1卷",
+          "updatetime": 1281585771,
+          "filesize": 12250338,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 53,
+    "latest_comment": [
+      {
+        "comment_id": 30068466,
+        "uid": 108035231,
+        "content": "开",
+        "createtime": 1598887835,
+        "nickname": "白首阿無",
+        "avatar": "https://avatar.dmzj.com/13/06/1306f1c0be44fb71e4fb7f223cb7041f.png"
+      },
+      {
+        "comment_id": 29461306,
+        "uid": 103458443,
+        "content": "l",
+        "createtime": 1596554489,
+        "nickname": "眯眼怪物",
+        "avatar": "https://avatar.dmzj.com/59/bf/59bf798723bc0ac8a4a4b9fceb314f18.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": 53526,
+  "islong": 2,
+  "direction": 1,
+  "title": "中国幻想选",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/200408zghxx.jpg",
+  "description": "改编自中国的古典轶事的漫画，龙、狐、虎、灵——梦幻般地描写人与非人之间的友情、争斗、爱情，王道的中华幻想故事",
+  "last_updatetime": 1586346904,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhongguohuanxiangxuan",
+  "hidden": 0,
+  "hot_num": 9128947,
+  "hit_num": 1087448,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 101708,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13985,
+      "tag_name": "鲛岛円人（鲛岛圆）"
+    }
+  ],
+  "subscribe_num": 32052,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101708,
+          "chapter_title": "1话",
+          "updatetime": 1586346904,
+          "filesize": 8950779,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 758,
+    "latest_comment": [
+      {
+        "comment_id": 30055673,
+        "uid": 101951923,
+        "content": "还行吧",
+        "createtime": 1598829190,
+        "nickname": "帅气的死狗狗",
+        "avatar": "https://avatar.dmzj.com/24/56/2456c4edf92398cf8ef2963c3062dc66.png"
+      },
+      {
+        "comment_id": 30034805,
+        "uid": 110381484,
+        "content": "留个印",
+        "createtime": 1598732301,
+        "nickname": "dmzj_110381484",
+        "avatar": "https://avatar.dmzj.com/09/ef/09ef58db134c5daac6a5830113d9a980.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

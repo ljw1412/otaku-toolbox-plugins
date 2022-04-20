@@ -1,0 +1,73 @@
+{
+  "id": 7082,
+  "islong": 2,
+  "direction": 2,
+  "title": "影域恶灵骑士",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/yyelqs2.jpg",
+  "description": "影域的支线恶灵骑士的独立部分...",
+  "last_updatetime": 1295945145,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 3919927,
+  "hit_num": 268115,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 18925,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 14190,
+          "chapter_title": "1卷",
+          "updatetime": 1295945145,
+          "filesize": 2361227,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 27505382,
+        "uid": 107172079,
+        "content": "后续呢？",
+        "createtime": 1589876692,
+        "nickname": "恶灵黑豹",
+        "avatar": "https://avatar.dmzj.com/40/58/4058e5ca69a8f853d7f46dabcc69214a.png"
+      },
+      {
+        "comment_id": 1723737,
+        "uid": 102240594,
+        "content": "如果像以前一样靠铁链解决问题看起来还比较无聊吧，用新办法也是一种尝试啦。",
+        "createtime": 1485442786,
+        "nickname": "诺伯 凯撒",
+        "avatar": "https://avatar.dmzj.com/85/a5/85a553e5a2f885e48086722b162f0222.png"
+      }
+    ]
+  }
+}

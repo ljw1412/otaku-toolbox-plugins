@@ -1,0 +1,75 @@
+{
+  "id": 9883,
+  "islong": 2,
+  "direction": 1,
+  "title": "X人大百科",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/xdabaike.jpg",
+  "description": "只要看了漫画就会产生X人的念头，抛开世间的拘束，究极的X人经典。",
+  "last_updatetime": 1355158885,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xrendabaike",
+  "hidden": 0,
+  "hot_num": 27047,
+  "hit_num": 576243,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 19984,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5252,
+      "tag_name": "神田哲也"
+    }
+  ],
+  "subscribe_num": 107,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19984,
+          "chapter_title": "1话",
+          "updatetime": 1355158885,
+          "filesize": 7072964,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 29876527,
+        "uid": 108792155,
+        "content": "⑥",
+        "createtime": 1598147959,
+        "nickname": "虚假滴神大人",
+        "avatar": "https://avatar.dmzj.com/54/13/541341ab7d4a0946dfa92ddb9557bedc.png"
+      },
+      {
+        "comment_id": 19190424,
+        "uid": 108484340,
+        "content": "太短了555",
+        "createtime": 1565334639,
+        "nickname": "栉森和",
+        "avatar": "https://avatar.dmzj.com/27/f0/27f07e2e31c72b7eccd5a5b00f8d762e.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

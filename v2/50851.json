@@ -1,0 +1,91 @@
+{
+  "id": 50851,
+  "islong": 2,
+  "direction": 1,
+  "title": "名侦探柯南 警察学校篇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/kenanjingchaxuexiao1029.jpg",
+  "description": "这是降谷零和松田阵平在警察学校时期，不为人知的故事……",
+  "last_updatetime": 1572337571,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 1635663,
+  "hit_num": 153739,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 536,
+      "tag_name": "新井隆广"
+    },
+    {
+      "tag_id": 655,
+      "tag_name": "青山刚昌"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 7719,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94333,
+          "chapter_title": "3话",
+          "updatetime": 1572337571,
+          "filesize": 2874805,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 94332,
+          "chapter_title": "2话",
+          "updatetime": 1572337535,
+          "filesize": 2283050,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94331,
+          "chapter_title": "1话",
+          "updatetime": 1572337519,
+          "filesize": 3161944,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 173,
+    "latest_comment": [
+      {
+        "comment_id": 29884966,
+        "uid": 110590105,
+        "content": "码住",
+        "createtime": 1598184146,
+        "nickname": "dmzj_110590105",
+        "avatar": "https://avatar.dmzj.com/c1/15/c1156af577c2a91d481b2cc52a99a9c0.png"
+      },
+      {
+        "comment_id": 29871426,
+        "uid": 109633558,
+        "content": "那一天，一位智者筑起了高台，点亮了第一个信标，从此，无数勇士踏上了征程，成为了黑暗中的一座座信标。至此黑暗中不在迷失方向，独行之人不再孤单。。。。。。",
+        "createtime": 1598117534,
+        "nickname": "时光K",
+        "avatar": "https://avatar.dmzj.com/71/8d/718d53f8df8847f4fb9ca7a39c903c4a.png"
+      }
+    ]
+  }
+}

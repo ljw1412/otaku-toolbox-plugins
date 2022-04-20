@@ -1,0 +1,75 @@
+{
+  "id": 53506,
+  "islong": 2,
+  "direction": 1,
+  "title": "身高差x年龄差",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/200407sgcxnlc.jpg",
+  "description": "喜欢的人之间有身高差也太甜了",
+  "last_updatetime": 1586266130,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shengaochaxnianlingcha",
+  "hidden": 0,
+  "hot_num": 1728494,
+  "hit_num": 46355,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 101649,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9937,
+      "tag_name": "にいち"
+    }
+  ],
+  "subscribe_num": 5497,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101649,
+          "chapter_title": "1话",
+          "updatetime": 1586266130,
+          "filesize": 391580,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 75,
+    "latest_comment": [
+      {
+        "comment_id": 29992064,
+        "uid": 111509249,
+        "content": "明明是单纯的狗粮，为什么要死",
+        "createtime": 1598562005,
+        "nickname": "dmzj_111509249",
+        "avatar": "https://avatar.dmzj.com/fa/a5/faa5a3b64d67cfdbc11d378b28b1b886.png"
+      },
+      {
+        "comment_id": 29923256,
+        "uid": 107536167,
+        "content": "嗝……",
+        "createtime": 1598324185,
+        "nickname": "cakcoo",
+        "avatar": "https://avatar.dmzj.com/61/61/6161183c07838a2427625f4fe5273f61.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

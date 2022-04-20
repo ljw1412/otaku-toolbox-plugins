@@ -1,0 +1,98 @@
+{
+  "id": 6818,
+  "islong": 2,
+  "direction": 2,
+  "title": "豪杰雄起",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/111copy_7660ebc7d0ec998d5bdd296d3afacab0.jpg",
+  "description": "\"The Heroic Age\"是开始于2010年5月的Marvel世界全新状态",
+  "last_updatetime": 1291017474,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 3861254,
+  "hit_num": 309938,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 18855,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13306,
+          "chapter_title": "4卷",
+          "updatetime": 1291017474,
+          "filesize": 4134372,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 13299,
+          "chapter_title": "3卷",
+          "updatetime": 1291011483,
+          "filesize": 4124722,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 13290,
+          "chapter_title": "2卷",
+          "updatetime": 1290849788,
+          "filesize": 4046815,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13207,
+          "chapter_title": "1卷",
+          "updatetime": 1290478704,
+          "filesize": 3670876,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 979499,
+        "uid": 100490113,
+        "content": "这个没人汉化吗？不全啊",
+        "createtime": 1467726710,
+        "nickname": "小奶狗",
+        "avatar": "https://avatar.dmzj.com/52/34/5234fc7539c01886eef545a660d61f8b.png"
+      },
+      {
+        "comment_id": 309853,
+        "uid": 23394830,
+        "content": "shafa",
+        "createtime": 1414221051,
+        "nickname": "银马桑",
+        "avatar": "https://avatar.dmzj.com/ca/0e/ca0e51bb0937b9e31fc5e751cc692b6c.png"
+      }
+    ]
+  }
+}

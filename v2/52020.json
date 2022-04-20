@@ -1,0 +1,104 @@
+{
+  "id": 52020,
+  "islong": 2,
+  "direction": 1,
+  "title": "碧蓝航线（TV漫画版）",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/blhxtvmhb200128.jpg",
+  "description": "碧蓝航线TV版漫画化连载正式开始！主笔为ichinomi老师，在碧蓝航线官方漫画当中的作画风格一直以细腻柔美为主。",
+  "last_updatetime": 1597075860,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 2273573,
+  "hit_num": 350019,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16472,
+      "tag_name": "ichinomi(イチノミ)"
+    }
+  ],
+  "subscribe_num": 10602,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 106455,
+          "chapter_title": "6话",
+          "updatetime": 1597075860,
+          "filesize": 4097638,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 106402,
+          "chapter_title": "5话",
+          "updatetime": 1596987843,
+          "filesize": 8181903,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 103260,
+          "chapter_title": "4话",
+          "updatetime": 1591329478,
+          "filesize": 2733317,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 101417,
+          "chapter_title": "3话",
+          "updatetime": 1587802586,
+          "filesize": 6046445,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 100615,
+          "chapter_title": "2话",
+          "updatetime": 1586318944,
+          "filesize": 6308779,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 97300,
+          "chapter_title": "1话",
+          "updatetime": 1580219563,
+          "filesize": 4947362,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 659,
+    "latest_comment": [
+      {
+        "comment_id": 30069476,
+        "uid": 105840919,
+        "content": "碧蓝航线",
+        "createtime": 1598889946,
+        "nickname": "★轻狂书生★",
+        "avatar": "https://avatar.dmzj.com/9f/aa/9faaa46ee1d064639975441e64ef4349.png"
+      },
+      {
+        "comment_id": 29982219,
+        "uid": 111523542,
+        "content": "为什么漫画都是黑白色？",
+        "createtime": 1598536457,
+        "nickname": "dmzj_111523542",
+        "avatar": "https://avatar.dmzj.com/33/74/33741d68496a51f9a36cb5b42560d8af.png"
+      }
+    ]
+  }
+}

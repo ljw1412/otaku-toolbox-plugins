@@ -1,0 +1,73 @@
+{
+  "id": 50325,
+  "islong": 2,
+  "direction": 1,
+  "title": "月之夜",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/yzy20190927.jpg",
+  "description": "幻想乡是否真的存在呢?",
+  "last_updatetime": 1570782175,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 52293,
+  "hit_num": 5545,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6086,
+      "tag_name": "KFC"
+    },
+    {
+      "tag_id": 15494,
+      "tag_name": "YU"
+    }
+  ],
+  "subscribe_num": 242,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93948,
+          "chapter_title": "1话",
+          "updatetime": 1570782175,
+          "filesize": 4010700,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 21235935,
+        "uid": 105675306,
+        "content": "看看咋样吧",
+        "createtime": 1570893775,
+        "nickname": "南月樫雫",
+        "avatar": "https://avatar.dmzj.com/52/48/5248523d6b0ca555c63bc36dc1e86979.png"
+      },
+      {
+        "comment_id": 21210030,
+        "uid": 100004184,
+        "content": "稻花香里说丰年",
+        "createtime": 1570836823,
+        "nickname": "小将给爷死",
+        "avatar": "https://avatar.dmzj.com/56/26/5626ab767cd061fb3778d417c9dedf0b.png"
+      }
+    ]
+  }
+}

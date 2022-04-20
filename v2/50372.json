@@ -1,0 +1,73 @@
+{
+  "id": 50372,
+  "islong": 2,
+  "direction": 1,
+  "title": "双月草纸",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/sycz20190930.jpg",
+  "description": "欢迎来到博丽温泉~大家来放松一下吧~",
+  "last_updatetime": 1569810964,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 52508,
+  "hit_num": 9214,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6182,
+      "tag_name": "うそねこ"
+    },
+    {
+      "tag_id": 17962,
+      "tag_name": "柊唯"
+    }
+  ],
+  "subscribe_num": 239,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92726,
+          "chapter_title": "1话",
+          "updatetime": 1569810964,
+          "filesize": 6685096,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 28607436,
+        "uid": 108466270,
+        "content": "草，还有这种组合，我可以了",
+        "createtime": 1593657643,
+        "nickname": "阿伟不会输",
+        "avatar": "https://avatar.dmzj.com/10/07/10078a36d2e488168c65b3f7dd4b23c3.png"
+      },
+      {
+        "comment_id": 21891542,
+        "uid": 106298956,
+        "content": "藤  原  妹  绿",
+        "createtime": 1572803720,
+        "nickname": "dmzj_106298956",
+        "avatar": "https://avatar.dmzj.com/c6/5a/c65ad035573c6468cbf0e08200b7209d.png"
+      }
+    ]
+  }
+}

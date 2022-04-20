@@ -1,0 +1,77 @@
+{
+  "id": 50484,
+  "islong": 2,
+  "direction": 1,
+  "title": "圆楼里的日常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/191007ylldrc.jpg",
+  "description": "福建土楼中捉鸡少女的一天",
+  "last_updatetime": 1570414992,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 1038945,
+  "hit_num": 86498,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4161,
+      "tag_name": "サカノ景子"
+    }
+  ],
+  "subscribe_num": 4836,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89456,
+          "chapter_title": "1话",
+          "updatetime": 1570414992,
+          "filesize": 5702912,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 139,
+    "latest_comment": [
+      {
+        "comment_id": 29478279,
+        "uid": 105760430,
+        "content": "留",
+        "createtime": 1596624779,
+        "nickname": "命运石★黑岩",
+        "avatar": "https://avatar.dmzj.com/b9/a2/b9a25f8c8dd79998eae581d03475c07e.png"
+      },
+      {
+        "comment_id": 29081365,
+        "uid": 101783764,
+        "content": "龙岩人表示很赞",
+        "createtime": 1595183056,
+        "nickname": "红魔馆核平协会",
+        "avatar": "https://avatar.dmzj.com/00/6a/006aadf76eeb21a8a14dc987f8fb3e68.png"
+      }
+    ]
+  }
+}

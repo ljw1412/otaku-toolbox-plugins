@@ -1,0 +1,98 @@
+{
+  "id": 53278,
+  "islong": 2,
+  "direction": 1,
+  "title": "苍之骑士团",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/cangbaizhiqishituan0328.jpg",
+  "description": "由Sega发行的卡牌RPG手游苍之骑士团漫改",
+  "last_updatetime": 1595930498,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 612662,
+  "hit_num": 212136,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2544,
+      "tag_name": "彭杰"
+    },
+    {
+      "tag_id": 19376,
+      "tag_name": "f4samurai"
+    },
+    {
+      "tag_id": 19383,
+      "tag_name": "正玺"
+    }
+  ],
+  "subscribe_num": 2645,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101128,
+          "chapter_title": "4话",
+          "updatetime": 1595930498,
+          "filesize": 8293134,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 99622,
+          "chapter_title": "3话",
+          "updatetime": 1592652389,
+          "filesize": 8302841,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 98612,
+          "chapter_title": "2话",
+          "updatetime": 1590750858,
+          "filesize": 8862982,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 95540,
+          "chapter_title": "1话",
+          "updatetime": 1585397691,
+          "filesize": 12882774,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 67,
+    "latest_comment": [
+      {
+        "comment_id": 29652509,
+        "uid": 100001581,
+        "content": "大妈之家活动送了个苍之骑士团周边，就是个装着纸质空白笔记本的盒子和钥匙扣还有logo袋子……",
+        "createtime": 1597295267,
+        "nickname": "风雷熊",
+        "avatar": "https://avatar.dmzj.com/76/40/76407474a206eb18b023a78b4bfd94e3.png"
+      },
+      {
+        "comment_id": 29299157,
+        "uid": 102273145,
+        "content": "发现辣鸡漫",
+        "createtime": 1595968889,
+        "nickname": "金鱼生猛",
+        "avatar": "https://avatar.dmzj.com/65/89/6589de4b33b9cd10b890c061e6eee03a.png"
+      }
+    ]
+  }
+}

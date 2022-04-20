@@ -1,0 +1,73 @@
+{
+  "id": 7630,
+  "islong": 2,
+  "direction": 1,
+  "title": "神渡",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/shendu.jpg",
+  "description": "在很久很久以前，这片土地是由一位美丽的女神掌管的。",
+  "last_updatetime": 1312783122,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 14458,
+  "hit_num": 167395,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 234,
+      "tag_name": "有马启太郎"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 123,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 16038,
+          "chapter_title": "1话",
+          "updatetime": 1312783122,
+          "filesize": 5680442,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 13753329,
+        "uid": 21211482,
+        "content": "9102年了",
+        "createtime": 1554352751,
+        "nickname": "killbeliar",
+        "avatar": "https://avatar.dmzj.com/35/45/3545bd0e65c4c0d89356d67d7fe6913c.png"
+      },
+      {
+        "comment_id": 9259718,
+        "uid": 106273217,
+        "content": "等待",
+        "createtime": 1545404153,
+        "nickname": "琉璃式",
+        "avatar": "https://avatar.dmzj.com/37/02/37026d7f01a142d60b9d912621bfa387.png"
+      }
+    ]
+  }
+}

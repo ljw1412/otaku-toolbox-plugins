@@ -1,0 +1,70 @@
+{
+  "id": 52269,
+  "islong": 2,
+  "direction": 2,
+  "title": "启示录",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1103876421595424888.jpg",
+  "description": "天启四骑士（娘）的日常",
+  "last_updatetime": 1595424624,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 14068,
+  "hit_num": 922,
+  "uid": 110387642,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18879,
+      "tag_name": "蓝氧气球Mr.O3"
+    }
+  ],
+  "subscribe_num": 66,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101388,
+          "chapter_title": "2话",
+          "updatetime": 1595424624,
+          "filesize": 962843,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 94022,
+          "chapter_title": "1话",
+          "updatetime": 1581337461,
+          "filesize": 953531,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "主页：mr-ozone.lofter.comp站：14572257Twitter：@MrOzne",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 24016851,
+        "uid": 107189291,
+        "content": "死亡老二次元海星",
+        "createtime": 1581430743,
+        "nickname": "莫云痕",
+        "avatar": "https://avatar.dmzj.com/49/06/4906cab8cea48f40bef82175b666327b.png"
+      }
+    ]
+  }
+}

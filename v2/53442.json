@@ -1,0 +1,65 @@
+{
+  "id": 53442,
+  "islong": 2,
+  "direction": 1,
+  "title": "流星★博览",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/lxbl20200405.jpg",
+  "description": "新朋友是猫耳宇宙人?怎么感觉有点可爱呢?",
+  "last_updatetime": 1586053963,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 38314,
+  "hit_num": 899,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2890,
+      "tag_name": "绫见ちは"
+    }
+  ],
+  "subscribe_num": 184,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99642,
+          "chapter_title": "1话",
+          "updatetime": 1586053963,
+          "filesize": 1092816,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 26092912,
+        "uid": 107861461,
+        "content": "有点奇妙的宇宙人题材",
+        "createtime": 1586056366,
+        "nickname": "业余砌墙师",
+        "avatar": "https://avatar.dmzj.com/17/42/17422916d361081453559f8757c1b7d9.png"
+      }
+    ]
+  }
+}

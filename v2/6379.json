@@ -1,0 +1,69 @@
+{
+  "id": 6379,
+  "islong": 2,
+  "direction": 1,
+  "title": "二重唱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/erchongzou.jpg",
+  "description": "两个本来是敌视的同学，因为喜欢唱歌，因为音乐。唱出最和谐的二重唱。",
+  "last_updatetime": 1287985327,
+  "copyright": 0,
+  "first_letter": "e",
+  "hot_num": 4390,
+  "hit_num": 74577,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3448,
+      "tag_name": "森春人"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12351,
+          "chapter_title": "1话",
+          "updatetime": 1287985327,
+          "filesize": 5618899,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 27056195,
+        "uid": 108060945,
+        "content": "感觉挺不错的啊",
+        "createtime": 1588469631,
+        "nickname": "arcara",
+        "avatar": "https://avatar.dmzj.com/38/be/38be465eaa704dbb2d0e2ee317ab2edd.png"
+      },
+      {
+        "comment_id": 97089,
+        "uid": 20189990,
+        "content": "……",
+        "createtime": 1357775242,
+        "nickname": "candy76041820",
+        "avatar": "https://avatar.dmzj.com/a6/c0/a6c096ee9fc3954bcbb7b9bea3236f1f.png"
+      }
+    ]
+  }
+}

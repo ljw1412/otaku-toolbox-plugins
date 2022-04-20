@@ -1,0 +1,107 @@
+{
+  "id": 53203,
+  "islong": 2,
+  "direction": 2,
+  "title": "雨季",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1094317421585103703.jpg",
+  "description": "这只是发生在某个不起眼的小城里的，一个不起眼的故事。一个从初秋讲到盛夏的故事。",
+  "last_updatetime": 1597101934,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 283933,
+  "hit_num": 40783,
+  "uid": 109431742,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17500,
+      "tag_name": "肆一"
+    }
+  ],
+  "subscribe_num": 1296,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101656,
+          "chapter_title": "4话",
+          "updatetime": 1597101934,
+          "filesize": 3221746,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 101199,
+          "chapter_title": "3话",
+          "updatetime": 1596080881,
+          "filesize": 1938552,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 100877,
+          "chapter_title": "2话",
+          "updatetime": 1595391975,
+          "filesize": 1689812,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 95870,
+          "chapter_title": "罪己书",
+          "updatetime": 1585910980,
+          "filesize": 717508,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 95405,
+          "chapter_title": "1话",
+          "updatetime": 1585104513,
+          "filesize": 2661337,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 92,
+    "latest_comment": [
+      {
+        "comment_id": 30038240,
+        "uid": 108024180,
+        "content": "我来插个眼！作者大大加油",
+        "createtime": 1598759335,
+        "nickname": "螺旋升天大法",
+        "avatar": "https://avatar.dmzj.com/14/10/1410093011c859b769c37d1692c79a12.png"
+      },
+      {
+        "comment_id": 29624844,
+        "uid": 104938508,
+        "content": "明白了，这就去介绍儿媳妇（逃",
+        "createtime": 1597168272,
+        "nickname": "Robert20628",
+        "avatar": "https://avatar.dmzj.com/91/48/9148b8f66d251b66ff6f36535349e68f.png"
+      }
+    ]
+  }
+}

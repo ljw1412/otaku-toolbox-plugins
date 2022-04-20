@@ -1,0 +1,86 @@
+{
+  "id": 6671,
+  "islong": 2,
+  "direction": 1,
+  "title": "特警拍档",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/tejingpaidang.jpg",
+  "description": "从创刊当初的季刊志时开始连载，不知不觉已经过了２年，而且还出版了第一集的单行本。希望大家能在阿凯和艾莉丝的成长、还有把周遭人拖下水的世界里好好享受。",
+  "last_updatetime": 1288940581,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tejingpaidang",
+  "hidden": 0,
+  "hot_num": 31836,
+  "hit_num": 457894,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 11782,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1187,
+      "tag_name": "寺本薰"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 170,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 11782,
+          "chapter_title": "2卷",
+          "updatetime": 1289545381,
+          "filesize": 18794588,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 11781,
+          "chapter_title": "1卷",
+          "updatetime": 1289545381,
+          "filesize": 12343258,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 21097559,
+        "uid": 101169719,
+        "content": "深渊之恐…",
+        "createtime": 1570555145,
+        "nickname": "天谴真给力",
+        "avatar": "https://avatar.dmzj.com/10/58/1058801426358d1ea8f7dfc5969106aa.png"
+      },
+      {
+        "comment_id": 408957,
+        "uid": 26137579,
+        "content": "只是从柯南那里看封面进来的~",
+        "createtime": 1433763515,
+        "nickname": "Air Free",
+        "avatar": "https://avatar.dmzj.com/95/29/95294b2f597df3e1827011bb74da135f.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

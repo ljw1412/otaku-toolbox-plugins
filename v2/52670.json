@@ -1,0 +1,73 @@
+{
+  "id": 52670,
+  "islong": 2,
+  "direction": 1,
+  "title": "腹筋俱乐部3",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/jlb20200301.jpg",
+  "description": "老朋友金成~搞笑为主，角色崩坏请注意",
+  "last_updatetime": 1583069620,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 61848,
+  "hit_num": 9872,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14748,
+      "tag_name": "金成(四方山)"
+    }
+  ],
+  "subscribe_num": 285,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98781,
+          "chapter_title": "1话",
+          "updatetime": 1583069620,
+          "filesize": 5793406,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 27263233,
+        "uid": 110251354,
+        "content": "具有特殊意义的圣诞礼物hhhhh",
+        "createtime": 1589095987,
+        "nickname": "Yumee",
+        "avatar": "https://avatar.dmzj.com/20/27/202783e6f9b13ef115d4c4ccb971b6b0.png"
+      },
+      {
+        "comment_id": 25702645,
+        "uid": 109483270,
+        "content": "莲子怎么总是受",
+        "createtime": 1585196810,
+        "nickname": "愁流",
+        "avatar": "https://avatar.dmzj.com/98/25/98250ca9981f99a76fca969a092159e5.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": 53039,
+  "islong": 2,
+  "direction": 1,
+  "title": "Seto To",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/200318setto.jpg",
+  "description": "游戏王同人短篇合集",
+  "last_updatetime": 1584461707,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "setoto",
+  "hidden": 0,
+  "hot_num": 175678,
+  "hit_num": 45727,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 95539,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 596,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95539,
+          "chapter_title": "1话",
+          "updatetime": 1584461707,
+          "filesize": 4105011,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 32,
+    "latest_comment": [
+      {
+        "comment_id": 29722529,
+        "uid": 111456536,
+        "content": "0202年了，恰表海闇海的我狂喜，我流眼泪了",
+        "createtime": 1597582428,
+        "nickname": "dmzj_111456536",
+        "avatar": "https://avatar.dmzj.com/50/ca/50cabc91eaa29a1b30b3c22c0fa1ad91.png"
+      },
+      {
+        "comment_id": 29076802,
+        "uid": 100254626,
+        "content": "社长总受……有点微妙，emmm我选表海",
+        "createtime": 1595175023,
+        "nickname": "路过的23号",
+        "avatar": "https://avatar.dmzj.com/b3/27/b327b16430212656443c813d075978b6.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

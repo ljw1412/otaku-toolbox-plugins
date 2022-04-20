@@ -1,0 +1,77 @@
+{
+  "id": 50582,
+  "islong": 2,
+  "direction": 1,
+  "title": "媚药",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/191010my.jpg",
+  "description": "为前辈准备的媚药被不良抢走",
+  "last_updatetime": 1570715860,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 2797157,
+  "hit_num": 99412,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13372,
+      "tag_name": "もちオーレ"
+    },
+    {
+      "tag_id": 17738,
+      "tag_name": "majoccoid"
+    }
+  ],
+  "subscribe_num": 12645,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93076,
+          "chapter_title": "1话",
+          "updatetime": 1570715860,
+          "filesize": 1208770,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 889,
+    "latest_comment": [
+      {
+        "comment_id": 30031735,
+        "uid": 106122012,
+        "content": "盖楼开小说，不得了",
+        "createtime": 1598721311,
+        "nickname": "dmzj_106122012",
+        "avatar": "https://avatar.dmzj.com/97/23/97232dc47331fad85a9011d5777b3f11.png"
+      },
+      {
+        "comment_id": 29813647,
+        "uid": 110021767,
+        "content": "评论区还有小说，i了i了",
+        "createtime": 1597919901,
+        "nickname": "燃枫",
+        "avatar": "https://avatar.dmzj.com/53/24/532462a8a62b94007bafc85f1ef6a35b.png"
+      }
+    ]
+  }
+}

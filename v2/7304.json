@@ -1,0 +1,73 @@
+{
+  "id": 7304,
+  "islong": 2,
+  "direction": 1,
+  "title": "莎梅少女漫画教室",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/shameishaonvmanhuajiaoshi.jpg",
+  "description": "曾莎梅的少女漫画教程，喜欢画少女漫的值得看下",
+  "last_updatetime": 1303752040,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 16307,
+  "hit_num": 114220,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2759,
+      "tag_name": "游素兰"
+    },
+    {
+      "tag_id": 3906,
+      "tag_name": "曾莎梅"
+    }
+  ],
+  "subscribe_num": 83,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 14052,
+          "chapter_title": "0卷",
+          "updatetime": 1303752040,
+          "filesize": 13335271,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 23185845,
+        "uid": 109166606,
+        "content": "看到年輕女孩畫幸福喜悅的價值程教畫年輕女孩",
+        "createtime": 1578631385,
+        "nickname": "1无",
+        "avatar": "https://avatar.dmzj.com/da/37/da371aa9a9bea55ed848a10c0da1ca5f.png"
+      },
+      {
+        "comment_id": 18037246,
+        "uid": 104222844,
+        "content": "啦啦啦",
+        "createtime": 1562726283,
+        "nickname": "姜恩媱",
+        "avatar": "https://avatar.dmzj.com/46/50/465030578f303babdb2f921db005adc1.png"
+      }
+    ]
+  }
+}

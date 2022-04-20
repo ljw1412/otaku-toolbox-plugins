@@ -1,0 +1,52 @@
+{
+  "id": 6359,
+  "islong": 2,
+  "direction": 1,
+  "title": "文具战士",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/wenjuzhanshi.jpg",
+  "description": "一本比较特别的漫画，希望大家喜欢",
+  "last_updatetime": 1287394184,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 2998,
+  "hit_num": 97748,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1793,
+      "tag_name": "钟国光"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12312,
+          "chapter_title": "1卷",
+          "updatetime": 1287394184,
+          "filesize": 5315572,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

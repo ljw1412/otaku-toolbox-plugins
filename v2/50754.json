@@ -1,0 +1,73 @@
+{
+  "id": 50754,
+  "islong": 2,
+  "direction": 1,
+  "title": "兔子的日常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/191023tuzi.jpg",
+  "description": "东方同人漫画，每页都有兔耳朵哟！！",
+  "last_updatetime": 1571795398,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 69396,
+  "hit_num": 14572,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18122,
+      "tag_name": "ななつや"
+    }
+  ],
+  "subscribe_num": 319,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90441,
+          "chapter_title": "1话",
+          "updatetime": 1571795398,
+          "filesize": 4347489,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 29178713,
+        "uid": 27262373,
+        "content": "快乐",
+        "createtime": 1595528499,
+        "nickname": "yotumo",
+        "avatar": "https://avatar.dmzj.com/93/48/934841250b61f4ce15001df5a2cd702d.png"
+      },
+      {
+        "comment_id": 23552166,
+        "uid": 108103959,
+        "content": "好吃？？？辉夜你确定？",
+        "createtime": 1580142688,
+        "nickname": "不能吃的橙子",
+        "avatar": "https://avatar.dmzj.com/9a/d3/9ad35270ee54e2733568beaaed4a89a4.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 53880,
+  "islong": 2,
+  "direction": 1,
+  "title": "红魔馆的小恶魔",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/homoguguandexiaoemo0425.jpg",
+  "description": "【如何用短短十几页让你了解一个优秀的系列动画】的漫画",
+  "last_updatetime": 1587797107,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hongmoguandexiaoemo",
+  "hidden": 0,
+  "hot_num": 176245,
+  "hit_num": 45896,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 101399,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5640,
+      "tag_name": "恶饿鬼"
+    }
+  ],
+  "subscribe_num": 745,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101399,
+          "chapter_title": "1话",
+          "updatetime": 1587797107,
+          "filesize": 3771342,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 60,
+    "latest_comment": [
+      {
+        "comment_id": 29185887,
+        "uid": 104805977,
+        "content": "夭寿啦！花妈一人屠杀整个红魔馆啦！",
+        "createtime": 1595573701,
+        "nickname": "炼狱霜寒",
+        "avatar": "https://avatar.dmzj.com/31/48/314886d9776644aa6cffe36654a5c3da.png"
+      },
+      {
+        "comment_id": 28770161,
+        "uid": 101444890,
+        "content": "这个是不是还做成MMD了？？",
+        "createtime": 1594142760,
+        "nickname": "Diane cheng",
+        "avatar": "https://avatar.dmzj.com/48/83/4883d9050b2ea2f2a1419d2b384fffdf.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

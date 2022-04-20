@@ -1,0 +1,91 @@
+{
+  "id": 51022,
+  "islong": 2,
+  "direction": 2,
+  "title": "死山",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/sishan20191110.jpg",
+  "description": "人气恐怖游戏《乌拉尔山（Kholat）》改编,由游戏第二幕的日志开始讲述这个不为人知的神秘故事,一封充满歉疚的信件拉开的无尽遐想,寻找事实的真相",
+  "last_updatetime": 1583598463,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 943629,
+  "hit_num": 94537,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18241,
+      "tag_name": "luksz kubiak"
+    },
+    {
+      "tag_id": 18242,
+      "tag_name": "marcin jedrzejek"
+    }
+  ],
+  "subscribe_num": 4307,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98313,
+          "chapter_title": "3卷",
+          "updatetime": 1583598463,
+          "filesize": 2206015,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 95211,
+          "chapter_title": "2卷",
+          "updatetime": 1576507939,
+          "filesize": 2398875,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94092,
+          "chapter_title": "1卷",
+          "updatetime": 1573369526,
+          "filesize": 1662259,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 53,
+    "latest_comment": [
+      {
+        "comment_id": 28919408,
+        "uid": 107966822,
+        "content": "May下",
+        "createtime": 1594654797,
+        "nickname": "二次元的阿东",
+        "avatar": "https://avatar.dmzj.com/27/3d/273d4422ea8d2797bc975fcad092e89e.png"
+      },
+      {
+        "comment_id": 28713009,
+        "uid": 100869109,
+        "content": "是我最喜欢的悬疑????",
+        "createtime": 1593965120,
+        "nickname": "茴茴的肉",
+        "avatar": "https://avatar.dmzj.com/67/60/67602fe5a9cae99ea3305d7117a9771f.png"
+      }
+    ]
+  }
+}

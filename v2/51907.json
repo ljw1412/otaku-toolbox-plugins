@@ -1,0 +1,83 @@
+{
+  "id": 51907,
+  "islong": 1,
+  "direction": 1,
+  "title": "哥布林猎手",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/gbllr2020120.jpg",
+  "description": "这是小说&漫画《Goblin Slayer》的原作AA版。某个洞窟里，新手小队讨伐哥布林反而被歼灭，最后幸存的女神官被一位名叫“哥布林杀手”的冒险家所救。一个从“脑洞”发展开来的故事由此展开了…… ",
+  "last_updatetime": 1579533726,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 388667,
+  "hit_num": 284796,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 18522,
+      "tag_name": "AA"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18669,
+      "tag_name": "◆CoNaNQHQiK"
+    }
+  ],
+  "subscribe_num": 1434,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96322,
+          "chapter_title": "3话",
+          "updatetime": 1579533726,
+          "filesize": 2100425,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 96321,
+          "chapter_title": "2话",
+          "updatetime": 1579533679,
+          "filesize": 1544539,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 96320,
+          "chapter_title": "1话",
+          "updatetime": 1579533535,
+          "filesize": 1226864,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 460,
+    "latest_comment": [
+      {
+        "comment_id": 30005808,
+        "uid": 111529420,
+        "content": "怎么看不懂呢",
+        "createtime": 1598625842,
+        "nickname": "dmzj_111529420",
+        "avatar": "https://avatar.dmzj.com/1d/7f/1d7f9e3e0046fda5a1460550990be7fb.png"
+      },
+      {
+        "comment_id": 29909300,
+        "uid": 105026533,
+        "content": "9",
+        "createtime": 1598274402,
+        "nickname": "qzuser52992389",
+        "avatar": "https://avatar.dmzj.com/5b/66/5b661795df8f08c1aa177fe3faa60639.png"
+      }
+    ]
+  }
+}

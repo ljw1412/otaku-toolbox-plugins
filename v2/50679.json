@@ -1,0 +1,73 @@
+{
+  "id": 50679,
+  "islong": 2,
+  "direction": 1,
+  "title": "八月与花束",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/byyhs1017.jpg",
+  "description": "八月出生的女孩子与她的挚友的，带有夏日风情……和一丝沉重的故事",
+  "last_updatetime": 1571309501,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 1429212,
+  "hit_num": 41803,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17570,
+      "tag_name": "田辺ゆがた"
+    }
+  ],
+  "subscribe_num": 6599,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89893,
+          "chapter_title": "1话",
+          "updatetime": 1571309501,
+          "filesize": 2651504,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 113,
+    "latest_comment": [
+      {
+        "comment_id": 29679660,
+        "uid": 111065316,
+        "content": "悲伤ヽ(；▽；)",
+        "createtime": 1597414287,
+        "nickname": "今天也很卑微",
+        "avatar": "https://avatar.dmzj.com/12/70/127001dcbb217d006711ea41161dfec4.png"
+      },
+      {
+        "comment_id": 29504143,
+        "uid": 110613546,
+        "content": "怎么还是在连载中。翻评论发现应该不是完结了吗？",
+        "createtime": 1596717970,
+        "nickname": "dmzj_110613546",
+        "avatar": "https://avatar.dmzj.com/98/33/98332a416e45f3b3c1e33fffb4d94c68.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": 52776,
+  "islong": 2,
+  "direction": 1,
+  "title": "乐在其中的本子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/lzqzdbz202035.jpg",
+  "description": "幻想乡的日常。",
+  "last_updatetime": 1583373221,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 32401,
+  "hit_num": 6894,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5536,
+      "tag_name": "大冲"
+    }
+  ],
+  "subscribe_num": 153,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99970,
+          "chapter_title": "1话",
+          "updatetime": 1583373221,
+          "filesize": 4715806,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 25568632,
+        "uid": 107219559,
+        "content": "这个画风很可以啊",
+        "createtime": 1584890155,
+        "nickname": "皇家水军",
+        "avatar": "https://avatar.dmzj.com/46/21/46213855ce209fafafc12870346e12d2.png"
+      },
+      {
+        "comment_id": 24903705,
+        "uid": 101076913,
+        "content": "重复格使用大法",
+        "createtime": 1583401474,
+        "nickname": "TF2的虾米",
+        "avatar": "https://avatar.dmzj.com/ef/6f/ef6ff81a24b2658399e8743305ad3898.png"
+      }
+    ]
+  }
+}

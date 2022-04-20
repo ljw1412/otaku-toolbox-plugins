@@ -1,0 +1,75 @@
+{
+  "id": 51205,
+  "islong": 2,
+  "direction": 2,
+  "title": "三页爱情漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1042228441574152397.jpg",
+  "description": "汇集各种小灵感画成三页爱情漫画",
+  "last_updatetime": 1574153116,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 7051,
+  "hit_num": 148,
+  "uid": 104222844,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15110,
+      "tag_name": "姜恩媱"
+    }
+  ],
+  "subscribe_num": 27,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95323,
+          "chapter_title": "1话",
+          "updatetime": 1574153116,
+          "filesize": 198443,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 22388293,
+        "uid": 108891885,
+        "content": "什么鬼。。。",
+        "createtime": 1575042559,
+        "nickname": "dmzj_108891885",
+        "avatar": "https://avatar.dmzj.com/b4/0d/b40d7dfea44ab5a178ded4792eeb63a4.png"
+      },
+      {
+        "comment_id": 22332077,
+        "uid": 100751354,
+        "content": "难道以为女主是幽灵的只有我吗……",
+        "createtime": 1574781129,
+        "nickname": "从前有只小蜗牛°",
+        "avatar": "https://avatar.dmzj.com/29/88/298898623f59b001417b4cc65883f74e.png"
+      }
+    ]
+  }
+}

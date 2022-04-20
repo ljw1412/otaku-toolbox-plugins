@@ -1,0 +1,75 @@
+{
+  "id": 50994,
+  "islong": 2,
+  "direction": 1,
+  "title": "已经，无论如何都……",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/191108yjwlrhd.jpg",
+  "description": "「让你久等了。」——你好，幻想乡！",
+  "last_updatetime": 1573180004,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yijingwulunruhedou",
+  "hidden": 0,
+  "hot_num": 135309,
+  "hit_num": 67630,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90998,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5925,
+      "tag_name": "ふあん亭"
+    }
+  ],
+  "subscribe_num": 532,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90998,
+          "chapter_title": "1话",
+          "updatetime": 1573180004,
+          "filesize": 4190497,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 28719568,
+        "uid": 109753717,
+        "content": "只缘感君一回顾，使我思君朝与暮",
+        "createtime": 1593981909,
+        "nickname": "dmzj_109753717",
+        "avatar": "https://avatar.dmzj.com/36/79/367921b95e215923e43b42969e29bd59.png"
+      },
+      {
+        "comment_id": 23360745,
+        "uid": 108194802,
+        "content": "布都行为",
+        "createtime": 1579363197,
+        "nickname": "dmzj_108194802",
+        "avatar": "https://avatar.dmzj.com/41/74/4174afd603ab943425b889cdd141d874.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

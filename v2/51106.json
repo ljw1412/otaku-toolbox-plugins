@@ -1,0 +1,71 @@
+{
+  "id": 51106,
+  "islong": 1,
+  "direction": 2,
+  "title": "勇者大地",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1098058421573789819.jpg",
+  "description": "小白魔法师打怪升级的进阶历程",
+  "last_updatetime": 1573789932,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 2226,
+  "hit_num": 338,
+  "uid": 109805842,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18281,
+      "tag_name": "乱写乱画"
+    }
+  ],
+  "subscribe_num": 7,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94901,
+          "chapter_title": "1话",
+          "updatetime": 1573789932,
+          "filesize": 538138,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "我们一起去冒险吧",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 29691602,
+        "uid": 107873767,
+        "content": "老头：我做梦也没想到这种事儿还有俩人会干",
+        "createtime": 1597465588,
+        "nickname": "mikuly",
+        "avatar": "https://avatar.dmzj.com/c1/4f/c14fea837dd1e185f6ddc576c3f422b4.png"
+      }
+    ]
+  }
+}

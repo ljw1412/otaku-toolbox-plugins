@@ -1,0 +1,73 @@
+{
+  "id": 9006,
+  "islong": 2,
+  "direction": 1,
+  "title": " 3.11纪念短篇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/311jinian.jpg",
+  "description": "这是集合多个画师所出的纪念3.11日本大地震的短篇，励志人民不要对这个灾难而屈服，做好日后预防措施才是真的。",
+  "last_updatetime": 1340764195,
+  "copyright": 0,
+  "first_letter": "3",
+  "hot_num": 420081,
+  "hit_num": 103103,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 1703,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 17405,
+          "chapter_title": "1话",
+          "updatetime": 1340764195,
+          "filesize": 6477610,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 6768759,
+        "uid": 101450887,
+        "content": "评论好少",
+        "createtime": 1536668345,
+        "nickname": "安班班",
+        "avatar": "https://avatar.dmzj.com/41/65/4165a68506a10315baf113632103e4c5.png"
+      },
+      {
+        "comment_id": 67582,
+        "uid": 17237019,
+        "content": "他好多大坑都没补好",
+        "createtime": 1340769899,
+        "nickname": "路西法的跟班",
+        "avatar": "https://avatar.dmzj.com/8f/bc/8fbc2faf34a94c6ba80de91c5cbbe273.png"
+      }
+    ]
+  }
+}

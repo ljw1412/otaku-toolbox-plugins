@@ -1,0 +1,86 @@
+{
+  "id": 8139,
+  "islong": 2,
+  "direction": 1,
+  "title": "meth.e.meth",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/meth-e-meth.jpg",
+  "description": "古代，当人类发现GOLEM技术时便诞生了一种宣誓术，将命令记于誓文之中便可操纵人偶。这种人偶迅速融入到了人类生活中的各个角落。宣誓术与炼金术齐名，因此被称为科学的父母。然而到了近代，宣誓术却遭到了炼金术的围剿与颠扑，并艰难地待续。终于随着科学的进一步发展，宣誓术被证明并不是咒术也不是魔法。到了天章22年，这些人偶被称为誓文人形……",
+  "last_updatetime": 1328358717,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "meth-e-meth",
+  "hidden": 0,
+  "hot_num": 20592,
+  "hit_num": 420006,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 16433,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4336,
+      "tag_name": "鹤渊けんじ"
+    }
+  ],
+  "subscribe_num": 135,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 16433,
+          "chapter_title": "2话",
+          "updatetime": 1328358717,
+          "filesize": 2534396,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 16033,
+          "chapter_title": "1话",
+          "updatetime": 1324916306,
+          "filesize": 3435953,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 81058,
+        "uid": 12164937,
+        "content": "嘛，算了，认真就输了",
+        "createtime": 1347527702,
+        "nickname": "kainda",
+        "avatar": "https://avatar.dmzj.com/71/85/7185a12eacc4f34df54535bf4cf69ca6.png"
+      },
+      {
+        "comment_id": 50627,
+        "uid": 12666131,
+        "content": "诸君，认真你就输了",
+        "createtime": 1331531857,
+        "nickname": "sshaahh",
+        "avatar": "https://avatar.dmzj.com/b7/4c/b74c925928666c9acd87e0e5c808ff6c.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

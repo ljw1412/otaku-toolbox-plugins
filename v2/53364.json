@@ -1,0 +1,77 @@
+{
+  "id": 53364,
+  "islong": 2,
+  "direction": 1,
+  "title": "明日への力 START DASH! ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/STARTDASH20200401.jpg",
+  "description": "明天大家也要一起努力排练!",
+  "last_updatetime": 1585709947,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 33118,
+  "hit_num": 2463,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 3326,
+      "tag_name": "音乐舞蹈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18727,
+      "tag_name": "樱海きら"
+    }
+  ],
+  "subscribe_num": 157,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96152,
+          "chapter_title": "1话",
+          "updatetime": 1585709947,
+          "filesize": 4899801,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 25937049,
+        "uid": 101236863,
+        "content": "4年了",
+        "createtime": 1585749102,
+        "nickname": "kabutozector",
+        "avatar": "https://avatar.dmzj.com/27/12/2712c5f33531d1fe03990669695f44fa.png"
+      },
+      {
+        "comment_id": 25924946,
+        "uid": 102562650,
+        "content": "LL同人不是一般都不会专门放作一本、而是归到官方漫画页面的同人分类处吗……",
+        "createtime": 1585722634,
+        "nickname": "Tim250",
+        "avatar": "https://avatar.dmzj.com/22/97/22975288e003df72b7aa6bc0f3e0fcb8.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": 52191,
+  "islong": 2,
+  "direction": 1,
+  "title": "拥我入怀",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/ywrh202026.jpg",
+  "description": "紧紧的将我拥入怀中。",
+  "last_updatetime": 1580978281,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yongworuhuai",
+  "hidden": 0,
+  "hot_num": 154028,
+  "hit_num": 95142,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 98736,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18832,
+      "tag_name": "WDM"
+    }
+  ],
+  "subscribe_num": 688,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98736,
+          "chapter_title": "1话",
+          "updatetime": 1580978281,
+          "filesize": 4828315,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 23885481,
+        "uid": 104672350,
+        "content": "想不到说什么了",
+        "createtime": 1581091327,
+        "nickname": "哥拉斯不说话",
+        "avatar": "https://avatar.dmzj.com/30/33/30339ee2e913fe78955218bcfaea57c4.png"
+      },
+      {
+        "comment_id": 23875263,
+        "uid": 100541907,
+        "content": "这。。。提督跟妖精一样。。。好小",
+        "createtime": 1581074746,
+        "nickname": "我只是想试试名字能打多长",
+        "avatar": "https://avatar.dmzj.com/a8/61/a8610c44e3ce4f93a8fc706afcb1ac9a.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

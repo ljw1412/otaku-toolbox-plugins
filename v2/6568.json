@@ -1,0 +1,77 @@
+{
+  "id": 6568,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠：黎明前的黑暗",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/bianfuxiaheianqiandeliming.jpg",
+  "description": "经典中的经典~让我们和蝙蝠侠一起张开翅膀",
+  "last_updatetime": 1288665362,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 2013839,
+  "hit_num": 72718,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 8887,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12864,
+          "chapter_title": "1卷",
+          "updatetime": 1288665362,
+          "filesize": 1051540,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 28902269,
+        "uid": 104186606,
+        "content": "这么短？",
+        "createtime": 1594595537,
+        "nickname": "qzuser74400770",
+        "avatar": "https://avatar.dmzj.com/65/e3/65e3c6673ac37fcb80dd99c085681f37.png"
+      },
+      {
+        "comment_id": 13305208,
+        "uid": 108075666,
+        "content": "一起fly～",
+        "createtime": 1553481000,
+        "nickname": "巧07555",
+        "avatar": "https://avatar.dmzj.com/5b/7a/5b7ad9d50b86e3a86359f5c262c66cd6.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 51203,
+  "islong": 2,
+  "direction": 2,
+  "title": "大人组",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/daren20191124.jpg",
+  "description": "由koumei老师带来的偶像大师大人组同人漫画",
+  "last_updatetime": 1574603845,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "darenzu",
+  "hidden": 0,
+  "hot_num": 139687,
+  "hit_num": 12036,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90562,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18339,
+      "tag_name": "koumei"
+    }
+  ],
+  "subscribe_num": 621,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90562,
+          "chapter_title": "1话",
+          "updatetime": 1574603845,
+          "filesize": 1944834,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 26425425,
+        "uid": 100097915,
+        "content": "不错",
+        "createtime": 1586756925,
+        "nickname": "所谓正确之物——",
+        "avatar": "https://avatar.dmzj.com/77/48/774894646be75df73318d5f7d65fb03d.png"
+      },
+      {
+        "comment_id": 23860121,
+        "uid": 104672350,
+        "content": "好棒～",
+        "createtime": 1581016587,
+        "nickname": "哥拉斯不说话",
+        "avatar": "https://avatar.dmzj.com/30/33/30339ee2e913fe78955218bcfaea57c4.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

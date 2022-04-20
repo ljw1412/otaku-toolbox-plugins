@@ -1,0 +1,87 @@
+{
+  "id": 9102,
+  "islong": 2,
+  "direction": 1,
+  "title": "爸爸妈妈",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/babamama.jpg",
+  "description": "还没初恋就有孩子！？从今天起，我就是妈妈！？",
+  "last_updatetime": 1342679542,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 305814,
+  "hit_num": 3059495,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4825,
+      "tag_name": "mange"
+    }
+  ],
+  "subscribe_num": 2057,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20479,
+          "chapter_title": "3话",
+          "updatetime": 1342679542,
+          "filesize": 2699204,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 20452,
+          "chapter_title": "2话",
+          "updatetime": 1342533878,
+          "filesize": 3241267,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 20421,
+          "chapter_title": "1话",
+          "updatetime": 1342289155,
+          "filesize": 3098442,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 42,
+    "latest_comment": [
+      {
+        "comment_id": 8768929,
+        "uid": 102021606,
+        "content": "不说了",
+        "createtime": 1544236675,
+        "nickname": "体验 吗",
+        "avatar": "https://avatar.dmzj.com/54/08/540863fe9ab5e3310b5adfdc8884e69e.png"
+      },
+      {
+        "comment_id": 6720764,
+        "uid": 107494785,
+        "content": "超级无语。。。。莫名其妙多个孩子就开开心心的养了？？？",
+        "createtime": 1536416263,
+        "nickname": "怀孕的公兔子",
+        "avatar": "https://avatar.dmzj.com/45/28/4528934179d1e5ab5d2cb96ea3587100.png"
+      }
+    ]
+  }
+}

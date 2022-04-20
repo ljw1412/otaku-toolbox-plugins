@@ -1,0 +1,73 @@
+{
+  "id": 50988,
+  "islong": 2,
+  "direction": 1,
+  "title": "七色红豆牛奶",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/qisehongdounai1107.jpg",
+  "description": "魔理沙X爱丽丝的恋爱喜剧",
+  "last_updatetime": 1573124288,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 43569,
+  "hit_num": 5025,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18226,
+      "tag_name": "ふたみ＠いち小屋"
+    }
+  ],
+  "subscribe_num": 201,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90027,
+          "chapter_title": "1话",
+          "updatetime": 1573124288,
+          "filesize": 7061344,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 22332693,
+        "uid": 109009336,
+        "content": "又来寿命论了，但爱丽丝也能活很久？",
+        "createtime": 1574782624,
+        "nickname": "砂糖少女不懂爱",
+        "avatar": "https://avatar.dmzj.com/99/66/99660d98cabaa2bc84f4872473451116.png"
+      },
+      {
+        "comment_id": 22005272,
+        "uid": 102290859,
+        "content": "好聰明的⑨",
+        "createtime": 1573234244,
+        "nickname": "Αλέξιος",
+        "avatar": "https://avatar.dmzj.com/81/ae/81aeadfdc449e248225bceefe639db89.png"
+      }
+    ]
+  }
+}

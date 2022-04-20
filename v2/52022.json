@@ -1,0 +1,73 @@
+{
+  "id": 52022,
+  "islong": 2,
+  "direction": 1,
+  "title": "超级机器人漫画 盖塔机器人篇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/cjjqrmhhj2020129.jpg",
+  "description": "超级机器人漫画合集。",
+  "last_updatetime": 1580263379,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 441408,
+  "hit_num": 194262,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3988,
+      "tag_name": "石川贤"
+    }
+  ],
+  "subscribe_num": 2013,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96538,
+          "chapter_title": "1话",
+          "updatetime": 1580263379,
+          "filesize": 39447437,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 27097853,
+        "uid": 101874738,
+        "content": "这是怎么被归到后宫病娇里的啊",
+        "createtime": 1588590354,
+        "nickname": "真不是大文豪",
+        "avatar": "https://avatar.dmzj.com/bc/3b/bc3b0e36b2336088de575b1cff692704.png"
+      },
+      {
+        "comment_id": 25312639,
+        "uid": 104676841,
+        "content": "虽然他们还是会在生命的尽头相遇，但说真的武藏也忒惨了",
+        "createtime": 1584328649,
+        "nickname": "流离天下过客心",
+        "avatar": "https://avatar.dmzj.com/95/29/95298947210834fdc0a7cd64bb6e6e5f.png"
+      }
+    ]
+  }
+}

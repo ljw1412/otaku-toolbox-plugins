@@ -1,0 +1,100 @@
+{
+  "id": 53148,
+  "islong": 1,
+  "direction": 2,
+  "title": "Stupid Life",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1025158571584859397.jpg",
+  "description": "stupid life has beauty inside",
+  "last_updatetime": 1585389381,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 45867,
+  "hit_num": 3761,
+  "uid": 102515857,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19017,
+      "tag_name": "阿瑟Arthur"
+    }
+  ],
+  "subscribe_num": 201,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95528,
+          "chapter_title": "4话",
+          "updatetime": 1585389381,
+          "filesize": 132776,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 95527,
+          "chapter_title": "3话",
+          "updatetime": 1585389353,
+          "filesize": 151229,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 95285,
+          "chapter_title": "1话",
+          "updatetime": 1584859702,
+          "filesize": 415615,
+          "chapter_order": 1
+        },
+        {
+          "chapter_id": 95286,
+          "chapter_title": "2话",
+          "updatetime": 1584859781,
+          "filesize": 292973,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 26524058,
+        "uid": 102017273,
+        "content": "gcv",
+        "createtime": 1586973810,
+        "nickname": "啊唞啃",
+        "avatar": "https://avatar.dmzj.com/0d/71/0d71a1c1a8c53bcd43b2efdc2dbe47b9.png"
+      },
+      {
+        "comment_id": 25813563,
+        "uid": 107012594,
+        "content": "加油",
+        "createtime": 1585465367,
+        "nickname": "王己羽",
+        "avatar": "https://avatar.dmzj.com/57/26/57265cb80e1eabed1f5ca2ce4f94a6e5.png"
+      }
+    ]
+  }
+}

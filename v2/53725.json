@@ -1,0 +1,73 @@
+{
+  "id": 53725,
+  "islong": 2,
+  "direction": 1,
+  "title": "SABOTAGE",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/sabotage0418.jpg",
+  "description": "小町x映姬本",
+  "last_updatetime": 1587179142,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 45018,
+  "hit_num": 5408,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4447,
+      "tag_name": "秋★枝"
+    },
+    {
+      "tag_id": 19598,
+      "tag_name": "ロケット燃料★21"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 211,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101061,
+          "chapter_title": "1话",
+          "updatetime": 1587179142,
+          "filesize": 3832849,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 27163122,
+        "uid": 51192,
+        "content": "本子很甜，就是字体看着费劲",
+        "createtime": 1588781714,
+        "nickname": "玛艾露贝莉莲子",
+        "avatar": "https://avatar.dmzj.com/96/21/9621c872df4e8a30683148afc6764a57.png"
+      },
+      {
+        "comment_id": 26601287,
+        "uid": 109413537,
+        "content": "似曾相识",
+        "createtime": 1587202863,
+        "nickname": "奶啤羊肉火锅同志",
+        "avatar": "https://avatar.dmzj.com/58/9e/589e4eb35e7a2533f5cf2d2865b1acb0.png"
+      }
+    ]
+  }
+}

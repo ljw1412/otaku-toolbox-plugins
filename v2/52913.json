@@ -1,0 +1,73 @@
+{
+  "id": 52913,
+  "islong": 2,
+  "direction": 1,
+  "title": "红魔馆的日常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/hongmoguanderichang20.jpg",
+  "description": "这个魔理莎又在作妖，不如我们把她……",
+  "last_updatetime": 1583977469,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 42535,
+  "hit_num": 5022,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5330,
+      "tag_name": "宫本龙一"
+    }
+  ],
+  "subscribe_num": 204,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94676,
+          "chapter_title": "1话",
+          "updatetime": 1583977469,
+          "filesize": 1973151,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 25200514,
+        "uid": 105076724,
+        "content": "红魔馆的日常封面是咏唱组，我哭了",
+        "createtime": 1584059735,
+        "nickname": "寒光星天外",
+        "avatar": "https://avatar.dmzj.com/14/22/1422671d367912b8fedd6412ccd3cfa1.png"
+      },
+      {
+        "comment_id": 25192288,
+        "uid": 102383702,
+        "content": "吸血到高朝",
+        "createtime": 1584031352,
+        "nickname": "魔夜2出啦",
+        "avatar": "https://avatar.dmzj.com/35/03/3503342b7d5e4ea33524314a1e28cbea.png"
+      }
+    ]
+  }
+}

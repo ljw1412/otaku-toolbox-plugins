@@ -1,0 +1,86 @@
+{
+  "id": 53960,
+  "islong": 2,
+  "direction": 2,
+  "title": "郎基斯 求道之旅",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1109510141588060796.jpg",
+  "description": "大力小白兔的冒险故事",
+  "last_updatetime": 1595482771,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 281512,
+  "hit_num": 56044,
+  "uid": 110951014,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19696,
+      "tag_name": "Louckmor"
+    }
+  ],
+  "subscribe_num": 1289,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 105629,
+          "chapter_title": "1话",
+          "updatetime": 1595482771,
+          "filesize": 5179449,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 101592,
+          "chapter_title": "0话",
+          "updatetime": 1588072439,
+          "filesize": 5671663,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 56,
+    "latest_comment": [
+      {
+        "comment_id": 29186984,
+        "uid": 101925711,
+        "content": "啊这，这个兔子是真空的啊，那不是坐着的时候凉屁股",
+        "createtime": 1595579005,
+        "nickname": "団地妻となう",
+        "avatar": "https://avatar.dmzj.com/79/78/79786a0b9cb13e825cc28dc30d5236b6.png"
+      },
+      {
+        "comment_id": 29181839,
+        "uid": 100762777,
+        "content": "泪目了，朗斯基开始是个短篇，L大一直想给它完善起来，转眼7年啊。",
+        "createtime": 1595555185,
+        "nickname": "Photon卐",
+        "avatar": "https://avatar.dmzj.com/13/54/13543cb666ab0814ca9f175d3c160ef6.png"
+      }
+    ]
+  }
+}

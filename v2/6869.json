@@ -1,0 +1,129 @@
+{
+  "id": 6869,
+  "islong": 2,
+  "direction": 2,
+  "title": "天空娃娃",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/skydolltkbb.jpg",
+  "description": "亚力山德罗·巴布齐的近作",
+  "last_updatetime": 1376292426,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 157111,
+  "hit_num": 2942732,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3678,
+      "tag_name": "亚力山德罗·巴布齐"
+    }
+  ],
+  "subscribe_num": 954,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23651,
+          "chapter_title": "9话",
+          "updatetime": 1376292426,
+          "filesize": 4667224,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 23650,
+          "chapter_title": "8话",
+          "updatetime": 1376292408,
+          "filesize": 4467812,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 23649,
+          "chapter_title": "7话",
+          "updatetime": 1376292386,
+          "filesize": 4274588,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 23648,
+          "chapter_title": "6话",
+          "updatetime": 1376292267,
+          "filesize": 3923241,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 23647,
+          "chapter_title": "5话",
+          "updatetime": 1376292118,
+          "filesize": 6545016,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 23646,
+          "chapter_title": "4话",
+          "updatetime": 1376292103,
+          "filesize": 6171588,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 23645,
+          "chapter_title": "3话",
+          "updatetime": 1376292092,
+          "filesize": 6141794,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 23644,
+          "chapter_title": "2话",
+          "updatetime": 1376292084,
+          "filesize": 5266540,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23643,
+          "chapter_title": "1话",
+          "updatetime": 1376292075,
+          "filesize": 5329964,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 81,
+    "latest_comment": [
+      {
+        "comment_id": 28792695,
+        "uid": 109641655,
+        "content": "好看",
+        "createtime": 1594224685,
+        "nickname": "怪盗白衬衫",
+        "avatar": "https://avatar.dmzj.com/2f/d9/2fd91726682bf6172e0db9f4c5a52073.png"
+      },
+      {
+        "comment_id": 27441268,
+        "uid": 110684982,
+        "content": "封面，赞",
+        "createtime": 1589658093,
+        "nickname": "dmzj_110684982",
+        "avatar": "https://avatar.dmzj.com/76/2c/762c50c65a7f48eb79cadb96b3c3e647.png"
+      }
+    ]
+  }
+}

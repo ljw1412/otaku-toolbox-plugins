@@ -1,0 +1,79 @@
+{
+  "id": 51657,
+  "islong": 2,
+  "direction": 2,
+  "title": "侏罗纪元",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1043700611583372606.jpg",
+  "description": "某天地上突然了地球已经灭绝的恐龙，凡是被恐龙咬中的人类都会变成半恐龙半人的存在，我们把这称之为恐人！",
+  "last_updatetime": 1577625074,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 26240,
+  "hit_num": 2939,
+  "uid": 104370061,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14498,
+      "tag_name": "回收娘"
+    }
+  ],
+  "subscribe_num": 110,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95629,
+          "chapter_title": "1话",
+          "updatetime": 1577625074,
+          "filesize": 1447916,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "上色练习",
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 23097064,
+        "uid": 109801547,
+        "content": "搜个石纪元搜出这个……",
+        "createtime": 1578276722,
+        "nickname": "最后的进击",
+        "avatar": "https://avatar.dmzj.com/83/87/8387cfa1959c5c90c50033f9009b8e49.png"
+      },
+      {
+        "comment_id": 22994114,
+        "uid": 110096319,
+        "content": "求石纪元",
+        "createtime": 1577868396,
+        "nickname": "dmzj_110096319",
+        "avatar": "https://avatar.dmzj.com/2a/95/2a95c0db41c19f71b99ba0af7c7329e1.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": 51499,
+  "islong": 1,
+  "direction": 2,
+  "title": "深渊之下",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1045943071576328526.jpg",
+  "description": "一个一开始是两个人到最后也是两个人的故事",
+  "last_updatetime": 1589703616,
+  "last_update_chapter_name": "第06话",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "shenyuanzhixia",
+  "hidden": 0,
+  "hot_num": 3452602,
+  "hit_num": 502208,
+  "uid": 104594307,
+  "is_lock": 0,
+  "last_update_chapter_id": 98444,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18474,
+      "tag_name": "废柴莫"
+    }
+  ],
+  "subscribe_num": 13190,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98444,
+          "chapter_title": "6话",
+          "updatetime": 1589703616,
+          "filesize": 1575930,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 95970,
+          "chapter_title": "5话",
+          "updatetime": 1585311723,
+          "filesize": 1911663,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 95048,
+          "chapter_title": "4话",
+          "updatetime": 1583457041,
+          "filesize": 1724563,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 93877,
+          "chapter_title": "3话",
+          "updatetime": 1581045300,
+          "filesize": 1343247,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 92791,
+          "chapter_title": "2话",
+          "updatetime": 1578055781,
+          "filesize": 1237473,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 92383,
+          "chapter_title": "1.2话",
+          "updatetime": 1576762206,
+          "filesize": 1039203,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 92186,
+          "chapter_title": "1.1话",
+          "updatetime": 1576329159,
+          "filesize": 1114050,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "月更，我尽量来加我和我一起讨论漫画吧孤寡老人非常寂寞企鹅号：2364698792",
+  "comment": {
+    "comment_count": 451,
+    "latest_comment": [
+      {
+        "comment_id": 30055690,
+        "uid": 111523714,
+        "content": "借(chan)鉴(xi)也就算了，画工还稀烂，还是条漫，完全没法看",
+        "createtime": 1598829339,
+        "nickname": "dmzj_111523714",
+        "avatar": "https://avatar.dmzj.com/b3/35/b33584396f79d59188b78ba5c7ba3d5d.png"
+      },
+      {
+        "comment_id": 29970387,
+        "uid": 111486438,
+        "content": "看封面还以为是奥森和莱莎。",
+        "createtime": 1598484651,
+        "nickname": "dmzj_5f3f18104b93b",
+        "avatar": "https://avatar.dmzj.com/62/36/62366c4394289b3b5ef8a10d264edac9.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,89 @@
+{
+  "id": 51870,
+  "islong": 2,
+  "direction": 1,
+  "title": "想要宠坏这个喜欢英雄的女孩",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/200118xychzgxhyxdnh.jpg",
+  "description": "我有一个爱哭又爱撒娇的妹妹。",
+  "last_updatetime": 1595134673,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiangyaochonghuaizhegexihuanyingxiongdenvhai",
+  "hidden": 0,
+  "hot_num": 6923529,
+  "hit_num": 665115,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 105453,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18301,
+      "tag_name": "まさma"
+    }
+  ],
+  "subscribe_num": 17591,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 105453,
+          "chapter_title": "3话",
+          "updatetime": 1595134673,
+          "filesize": 2271530,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 101544,
+          "chapter_title": "2话",
+          "updatetime": 1588041960,
+          "filesize": 5410079,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 96987,
+          "chapter_title": "1话",
+          "updatetime": 1579318493,
+          "filesize": 856939,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 703,
+    "latest_comment": [
+      {
+        "comment_id": 29910008,
+        "uid": 107775148,
+        "content": "好久没更新了，大概是作者也被01ex到了吧2333",
+        "createtime": 1598276071,
+        "nickname": "dmzj_107775148",
+        "avatar": "https://avatar.dmzj.com/91/a0/91a02d398b322759ca8a6658e42725bb.png"
+      },
+      {
+        "comment_id": 29719056,
+        "uid": 105287730,
+        "content": "啊这，就这啊。不过如此！没啥好柠檬的",
+        "createtime": 1597568508,
+        "nickname": "艾拉，",
+        "avatar": "https://avatar.dmzj.com/5d/99/5d99367df5fb43a36ed57e50cfcde6cb.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

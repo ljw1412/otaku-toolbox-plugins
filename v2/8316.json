@@ -1,0 +1,104 @@
+{
+  "id": 8316,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔力家族",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/180627moli.jpg",
+  "description": "万众瞩目的乙女游戏漫画化大型新连载。这是一个小小的守护交易之岛。累加罗德自卫组织。他们保护岛民不受外界的影响，拥有与领主评分权力的实力。",
+  "last_updatetime": 1339226122,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 223083,
+  "hit_num": 1637734,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 417,
+      "tag_name": "RURU"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1102,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 17201,
+          "chapter_title": "6话",
+          "updatetime": 1339226122,
+          "filesize": 3132192,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 17200,
+          "chapter_title": "5话",
+          "updatetime": 1339225859,
+          "filesize": 3354358,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 17199,
+          "chapter_title": "4话",
+          "updatetime": 1339225690,
+          "filesize": 2383293,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 17198,
+          "chapter_title": "3话",
+          "updatetime": 1339225682,
+          "filesize": 3653796,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 15833,
+          "chapter_title": "2话",
+          "updatetime": 1328812007,
+          "filesize": 3479777,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 15832,
+          "chapter_title": "1话",
+          "updatetime": 1328811904,
+          "filesize": 5129596,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 30025348,
+        "uid": 105717106,
+        "content": "游戏木有中文版的，日语我看不懂呀，选项意思全靠猜，玩不了游戏，来康康漫画啦，我爱噜咔",
+        "createtime": 1598708712,
+        "nickname": "にゃまる",
+        "avatar": "https://avatar.dmzj.com/cf/7c/cf7c65b7526d76c228f0878c1bc55a75.png"
+      },
+      {
+        "comment_id": 29777254,
+        "uid": 103496003,
+        "content": "111",
+        "createtime": 1597769173,
+        "nickname": "陆琉璃",
+        "avatar": "https://avatar.dmzj.com/e3/e1/e3e1530936fffef5671c8ced680cd9d3.png"
+      }
+    ]
+  }
+}

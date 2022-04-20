@@ -1,0 +1,65 @@
+{
+  "id": 53381,
+  "islong": 2,
+  "direction": 2,
+  "title": "时空航行员-未来冲击",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/sklzwlcj200401.jpg",
+  "description": "时空旅者第二卷。",
+  "last_updatetime": 1585752506,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 60925,
+  "hit_num": 3822,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2116,
+      "tag_name": "image"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 279,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101363,
+          "chapter_title": "1卷",
+          "updatetime": 1585752506,
+          "filesize": 6238740,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 26010005,
+        "uid": 109635848,
+        "content": "太棒了，虽然不是Sean画的",
+        "createtime": 1585906182,
+        "nickname": "dmzj_109635848",
+        "avatar": "https://avatar.dmzj.com/45/0d/450da7cf77b2bb22ed3208b5d50eb41b.png"
+      }
+    ]
+  }
+}

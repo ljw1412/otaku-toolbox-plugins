@@ -1,0 +1,69 @@
+{
+  "id": 7270,
+  "islong": 2,
+  "direction": 2,
+  "title": "异型之猪",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/yixingzhizhu.jpg",
+  "description": "在太空中，没人能听到你的尖叫…… ",
+  "last_updatetime": 1302766013,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 307222,
+  "hit_num": 574696,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1251,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 15033,
+          "chapter_title": "1卷",
+          "updatetime": 1302766013,
+          "filesize": 3482809,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 24401383,
+        "uid": 105549826,
+        "content": "有趣",
+        "createtime": 1582333816,
+        "nickname": "原野05539",
+        "avatar": "https://avatar.dmzj.com/c8/b1/c8b15a61f3d2a0ed94f115e09fdd8959.png"
+      },
+      {
+        "comment_id": 22236547,
+        "uid": 104408590,
+        "content": "吴语",
+        "createtime": 1574349218,
+        "nickname": "kawano",
+        "avatar": "https://avatar.dmzj.com/d9/1f/d91fe9095f37e77643c783c69b8a1ac3.png"
+      }
+    ]
+  }
+}

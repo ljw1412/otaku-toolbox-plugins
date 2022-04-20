@@ -1,0 +1,71 @@
+{
+  "id": 53692,
+  "islong": 2,
+  "direction": 2,
+  "title": "摸鱼记录",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1090423521587022544.jpg",
+  "description": "就是摸摸鱼这个样子，不喜勿喷",
+  "last_updatetime": 1587022799,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 10445,
+  "hit_num": 1312,
+  "uid": 109042352,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19585,
+      "tag_name": "neo"
+    }
+  ],
+  "subscribe_num": 33,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100201,
+          "chapter_title": "1话",
+          "updatetime": 1587022799,
+          "filesize": 479542,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "更新的话，基本上有画的就更一下吧，完成度都不高，大家别太在意",
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 26548881,
+        "uid": 110618072,
+        "content": "伞妹赛高",
+        "createtime": 1587046609,
+        "nickname": "杞枂",
+        "avatar": "https://avatar.dmzj.com/39/78/397824f28710fc852ea70ef13acd6ff6.png"
+      },
+      {
+        "comment_id": 26547817,
+        "uid": 109250355,
+        "content": "要继续加油嗷!持续关注!冲!",
+        "createtime": 1587044868,
+        "nickname": "dmzj_109250355",
+        "avatar": "https://avatar.dmzj.com/f6/af/f6afe5975dec01742fe858666d33821d.png"
+      }
+    ]
+  }
+}

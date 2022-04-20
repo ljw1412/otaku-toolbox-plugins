@@ -1,0 +1,80 @@
+{
+  "id": 53912,
+  "islong": 2,
+  "direction": 1,
+  "title": "终末的熊猫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/msdxm11112020427.jpg",
+  "description": "一只熊猫在终末世界的故事。",
+  "last_updatetime": 1587973361,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 709777,
+  "hit_num": 220277,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3113,
+      "tag_name": "肥田野健太郎"
+    },
+    {
+      "tag_id": 12104,
+      "tag_name": "田中空"
+    }
+  ],
+  "subscribe_num": 3264,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100719,
+          "chapter_title": "2话",
+          "updatetime": 1587973361,
+          "filesize": 2712305,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 100718,
+          "chapter_title": "1话",
+          "updatetime": 1587973339,
+          "filesize": 2828769,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 108,
+    "latest_comment": [
+      {
+        "comment_id": 29295790,
+        "uid": 111065316,
+        "content": "好强大的熊猫……",
+        "createtime": 1595955852,
+        "nickname": "今天也很卑微",
+        "avatar": "https://avatar.dmzj.com/12/70/127001dcbb217d006711ea41161dfec4.png"
+      },
+      {
+        "comment_id": 29114462,
+        "uid": 106508284,
+        "content": "可惜了",
+        "createtime": 1595313092,
+        "nickname": "龚大侠客",
+        "avatar": "https://avatar.dmzj.com/39/65/39655a0f73be2d6fb5a2b472116d60e2.png"
+      }
+    ]
+  }
+}

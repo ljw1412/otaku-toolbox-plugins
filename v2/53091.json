@@ -1,0 +1,80 @@
+{
+  "id": 53091,
+  "islong": 2,
+  "direction": 1,
+  "title": "爆宴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/200320by.jpg",
+  "description": "【进击的巨人 Before the fall】作者士贵智志与【XBLADE】作者イダタツヒコと合作新作！水浒传x异世界的震撼幻想谭！",
+  "last_updatetime": 1586148286,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 1592531,
+  "hit_num": 621247,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 474,
+      "tag_name": "士贵智志"
+    },
+    {
+      "tag_id": 19279,
+      "tag_name": "イダタツヒコと"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "subscribe_num": 7445,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101541,
+          "chapter_title": "2话",
+          "updatetime": 1586148286,
+          "filesize": 9533402,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 100727,
+          "chapter_title": "1话",
+          "updatetime": 1584674394,
+          "filesize": 11669388,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 435,
+    "latest_comment": [
+      {
+        "comment_id": 29032013,
+        "uid": 101414401,
+        "content": "细说不是胡说。改编不是乱编",
+        "createtime": 1595038877,
+        "nickname": "杂鱼型蓝发",
+        "avatar": "https://avatar.dmzj.com/1a/d6/1ad60bc3c5ac31fe756ea9e618c4aa54.png"
+      },
+      {
+        "comment_id": 28768851,
+        "uid": 106745676,
+        "content": "快进到毒酒",
+        "createtime": 1594140683,
+        "nickname": "dmzj_106745676",
+        "avatar": "https://avatar.dmzj.com/49/a7/49a7ce5ff8962d11a00aba4a8926a586.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 6747,
+  "islong": 2,
+  "direction": 1,
+  "title": "学习的角落",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/xuexidejiaoluo0925bxx.jpg",
+  "description": "綠川幸老師画风很不错的一部短篇作品！",
+  "last_updatetime": 1537850349,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 249421,
+  "hit_num": 510620,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 780,
+      "tag_name": "绿川幸"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1317,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13517,
+          "chapter_title": "1话",
+          "updatetime": 1537850349,
+          "filesize": 5877357,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 26785287,
+        "uid": 109837639,
+        "content": "啊好纯情哈哈哈哈",
+        "createtime": 1587705993,
+        "nickname": "dmzj_109837639",
+        "avatar": "https://avatar.dmzj.com/77/94/7794649f0f8e319b709421d51d8a917b.png"
+      },
+      {
+        "comment_id": 25047353,
+        "uid": 110573485,
+        "content": "这个翻译有点看不懂……",
+        "createtime": 1583691768,
+        "nickname": "dmzj_110573485",
+        "avatar": "https://avatar.dmzj.com/ed/9c/ed9c2b21d6e45d4a46daf3c46bea9555.png"
+      }
+    ]
+  }
+}

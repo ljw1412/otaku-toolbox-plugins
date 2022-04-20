@@ -1,0 +1,80 @@
+{
+  "id": 9378,
+  "islong": 2,
+  "direction": 1,
+  "title": "舒畅旋律",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/shuchangxuanlv20120903.jpg",
+  "description": "偶像大师现代灰姑娘系列之五，讲诉成宫由爱、小日向美穗、佐佐木千枝三位偶像后备役的可爱日常生活。",
+  "last_updatetime": 1349192340,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 126787,
+  "hit_num": 86247,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4973,
+      "tag_name": "阿部かなり"
+    }
+  ],
+  "subscribe_num": 670,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19296,
+          "chapter_title": "2话",
+          "updatetime": 1349192340,
+          "filesize": 560001,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 19027,
+          "chapter_title": "1话",
+          "updatetime": 1346605392,
+          "filesize": 551187,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 29442710,
+        "uid": 106520828,
+        "content": "这画风真舒服",
+        "createtime": 1596490578,
+        "nickname": "梦川啦啦",
+        "avatar": "https://avatar.dmzj.com/54/88/548820c51b0bcbad4003ff0f453b0245.png"
+      },
+      {
+        "comment_id": 28791744,
+        "uid": 109523100,
+        "content": "挖坟",
+        "createtime": 1594223313,
+        "nickname": "移山填海",
+        "avatar": "https://avatar.dmzj.com/98/51/985149c6eea807fcc065103b30c8944a.png"
+      }
+    ]
+  }
+}

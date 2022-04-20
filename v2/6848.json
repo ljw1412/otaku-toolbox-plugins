@@ -1,0 +1,90 @@
+{
+  "id": 6848,
+  "islong": 2,
+  "direction": 1,
+  "title": "六门天外",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/cover_973a117c19aea73fb4cf47c8df91e286.jpg",
+  "description": "六門世界是個什麽樣的世界呢？大矢斗門整天上課就做夢...",
+  "last_updatetime": 1290044875,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 6559,
+  "hit_num": 307427,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 823,
+      "tag_name": "西川秀明"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 30,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13251,
+          "chapter_title": "4卷",
+          "updatetime": 1290649675,
+          "filesize": 11448182,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 13250,
+          "chapter_title": "3卷",
+          "updatetime": 1290649675,
+          "filesize": 11336272,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 13249,
+          "chapter_title": "2卷",
+          "updatetime": 1290649675,
+          "filesize": 11924296,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13248,
+          "chapter_title": "1卷",
+          "updatetime": 1290649675,
+          "filesize": 6421481,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 28678689,
+        "uid": 107029120,
+        "content": "支持",
+        "createtime": 1593868146,
+        "nickname": "dmzj_107029120",
+        "avatar": "https://avatar.dmzj.com/1c/91/1c9157fde2fd77ef924450b768a79209.png"
+      },
+      {
+        "comment_id": 27754121,
+        "uid": 7414100,
+        "content": "童年啊，真难找",
+        "createtime": 1590660480,
+        "nickname": "ouyidong",
+        "avatar": "https://avatar.dmzj.com/4c/bf/4cbf9beea493d7a958258076c14cc1ce.png"
+      }
+    ]
+  }
+}

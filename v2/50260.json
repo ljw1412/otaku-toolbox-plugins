@@ -1,0 +1,106 @@
+{
+  "id": 50260,
+  "islong": 1,
+  "direction": 2,
+  "title": "光之城",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1008434561569119004.jpg",
+  "description": "一个人类创造天使的故事",
+  "last_updatetime": 1580888585,
+  "last_update_chapter_name": "第04话",
+  "copyright": 1,
+  "first_letter": "g",
+  "comic_py": "guangzhichengyuren",
+  "hidden": 0,
+  "hot_num": 143586,
+  "hit_num": 29493,
+  "uid": 100843456,
+  "is_lock": 0,
+  "last_update_chapter_id": 97608,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16337,
+      "tag_name": "雨人Redregen"
+    }
+  ],
+  "subscribe_num": 634,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97608,
+          "chapter_title": "4话",
+          "updatetime": 1580888585,
+          "filesize": 2494096,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 94212,
+          "chapter_title": "3话",
+          "updatetime": 1571378608,
+          "filesize": 1760054,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 93420,
+          "chapter_title": "2话",
+          "updatetime": 1569119721,
+          "filesize": 1489862,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 93419,
+          "chapter_title": "1话",
+          "updatetime": 1569119188,
+          "filesize": 1286346,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "作者微博@雨人Redregen，漫画不定期更新",
+  "comment": {
+    "comment_count": 47,
+    "latest_comment": [
+      {
+        "comment_id": 28918379,
+        "uid": 111258990,
+        "content": "是wb老师!",
+        "createtime": 1594653066,
+        "nickname": "别矣斯世，别也今宵",
+        "avatar": "https://avatar.dmzj.com/16/88/1688a2e895bcd9f88a374ac0ab527486.png"
+      },
+      {
+        "comment_id": 28738008,
+        "uid": 104717724,
+        "content": "好看！",
+        "createtime": 1594048023,
+        "nickname": "♛weriss♚",
+        "avatar": "https://avatar.dmzj.com/23/69/236954271ca6f8a39ac58e7f5735df1c.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

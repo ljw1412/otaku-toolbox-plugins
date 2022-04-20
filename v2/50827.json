@@ -1,0 +1,82 @@
+{
+  "id": 50827,
+  "islong": 1,
+  "direction": 2,
+  "title": "奇酷蛙",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1098126751572315833.jpg",
+  "description": "社会主义时代下的动物们各种情景下上演的爆笑小故事",
+  "last_updatetime": 1573179941,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 602,
+  "hit_num": 0,
+  "uid": 109812675,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18156,
+      "tag_name": "龙栖贤"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94110,
+          "chapter_title": "2话",
+          "updatetime": 1573179941,
+          "filesize": 126194,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 93645,
+          "chapter_title": "1话",
+          "updatetime": 1572068621,
+          "filesize": 68139,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "是不定时更新，尽量每周都有在画",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 24465470,
+        "uid": 103515796,
+        "content": "天呐",
+        "createtime": 1582477933,
+        "nickname": "mrlin4",
+        "avatar": "https://avatar.dmzj.com/36/46/36462a425a004def45d99d9321b303be.png"
+      },
+      {
+        "comment_id": 22221149,
+        "uid": 108808419,
+        "content": "太暴力了",
+        "createtime": 1574268734,
+        "nickname": "江太公钓蛙",
+        "avatar": "https://avatar.dmzj.com/18/84/1884f58fe639916cb992a7d1e0abf484.png"
+      }
+    ]
+  }
+}

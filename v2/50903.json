@@ -1,0 +1,73 @@
+{
+  "id": 50903,
+  "islong": 2,
+  "direction": 1,
+  "title": "Plastic Song First Volume",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/psfv1102.jpg",
+  "description": "东方最新短篇漫画集",
+  "last_updatetime": 1572660959,
+  "copyright": 0,
+  "first_letter": "p",
+  "hot_num": 48454,
+  "hit_num": 6823,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6186,
+      "tag_name": "はやかわトリノネ"
+    },
+    {
+      "tag_id": 18193,
+      "tag_name": "カナリアとつばめ"
+    }
+  ],
+  "subscribe_num": 226,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89846,
+          "chapter_title": "1话",
+          "updatetime": 1572660959,
+          "filesize": 6615680,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 28462839,
+        "uid": 105696370,
+        "content": "只是听说过的冷门cp，没想到啊",
+        "createtime": 1593190523,
+        "nickname": "午夜琉璃花",
+        "avatar": "https://avatar.dmzj.com/26/82/2682734f3f11a416ac2ad88a741bde3d.png"
+      },
+      {
+        "comment_id": 25259353,
+        "uid": 106043299,
+        "content": "期待后篇",
+        "createtime": 1584197217,
+        "nickname": "KODmzj",
+        "avatar": "https://avatar.dmzj.com/11/32/11321dc013019469a45a7f7ac5078661.png"
+      }
+    ]
+  }
+}

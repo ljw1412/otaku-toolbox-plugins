@@ -1,0 +1,107 @@
+{
+  "id": 8708,
+  "islong": 2,
+  "direction": 1,
+  "title": "砂之荣冠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/shazhirongguan.jpg",
+  "description": "作者是電視劇《龍櫻》原作漫畫《東大培訓班》的作者\n此篇漫畫也不是單純的講棒球比賽，而是像教怎樣考東大一樣，講怎樣進甲子園\n相當的professional。\n",
+  "last_updatetime": 1340002238,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shazhirongguan",
+  "hidden": 0,
+  "hot_num": 36242,
+  "hit_num": 115307,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 18190,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1720,
+      "tag_name": "三田纪房"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 166,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 18190,
+          "chapter_title": "5话",
+          "updatetime": 1340002238,
+          "filesize": 2263819,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 17981,
+          "chapter_title": "4话",
+          "updatetime": 1338283204,
+          "filesize": 2899917,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 17775,
+          "chapter_title": "3话",
+          "updatetime": 1336283018,
+          "filesize": 3986400,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 17735,
+          "chapter_title": "2话",
+          "updatetime": 1335795161,
+          "filesize": 5228356,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 17707,
+          "chapter_title": "1话",
+          "updatetime": 1335525272,
+          "filesize": 6057736,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 16103643,
+        "uid": 100155773,
+        "content": "没了。。",
+        "createtime": 1558236567,
+        "nickname": "ykw257",
+        "avatar": "https://avatar.dmzj.com/a5/d0/a5d093130e88c14fe15967045b800431.png"
+      },
+      {
+        "comment_id": 14363546,
+        "uid": 100896626,
+        "content": "就没了？",
+        "createtime": 1555315161,
+        "nickname": "追逐星星的孩子",
+        "avatar": "https://avatar.dmzj.com/15/37/1537cec4a4d5cd91878ff6a2118e9d30.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

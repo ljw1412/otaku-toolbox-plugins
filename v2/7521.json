@@ -1,0 +1,125 @@
+{
+  "id": 7521,
+  "islong": 1,
+  "direction": 2,
+  "title": "4分钟料理",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/sfzll.jpg",
+  "description": "韩国搞笑漫画 4分钟料理，浓缩的都是精品。\n",
+  "last_updatetime": 1313162985,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 134009,
+  "hit_num": 882812,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4029,
+      "tag_name": "李澈"
+    }
+  ],
+  "subscribe_num": 490,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 14190,
+          "chapter_title": "81话",
+          "updatetime": 1313162985,
+          "filesize": 1037908,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 14189,
+          "chapter_title": "71话",
+          "updatetime": 1313162975,
+          "filesize": 1010473,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 14188,
+          "chapter_title": "61话",
+          "updatetime": 1313162967,
+          "filesize": 1000976,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 14046,
+          "chapter_title": "51话",
+          "updatetime": 1311958887,
+          "filesize": 1046746,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 13997,
+          "chapter_title": "41话",
+          "updatetime": 1311420524,
+          "filesize": 984847,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 13977,
+          "chapter_title": "31话",
+          "updatetime": 1311184836,
+          "filesize": 968793,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 13956,
+          "chapter_title": "21话",
+          "updatetime": 1310982805,
+          "filesize": 948418,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 13934,
+          "chapter_title": "11话",
+          "updatetime": 1310714340,
+          "filesize": 999892,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13908,
+          "chapter_title": "1话",
+          "updatetime": 1310455292,
+          "filesize": 952680,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 3182257,
+        "uid": 102516196,
+        "content": "就是我，东京吃货百度贴吧",
+        "createtime": 1509110076,
+        "nickname": "神懒",
+        "avatar": "https://avatar.dmzj.com/30/78/307874cc0f42a00f135b034ebf00384f.png"
+      },
+      {
+        "comment_id": 213770,
+        "uid": 25103042,
+        "content": "黑暗料理",
+        "createtime": 1394371427,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  }
+}

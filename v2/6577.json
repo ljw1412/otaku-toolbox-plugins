@@ -1,0 +1,77 @@
+{
+  "id": 6577,
+  "islong": 2,
+  "direction": 1,
+  "title": "微热巧克力",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/weireqiaokeli.jpg",
+  "description": "清纯的女主角，幼稚的男主角。初恋巧克力一样的味道",
+  "last_updatetime": 1288087953,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 68642,
+  "hit_num": 663559,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3543,
+      "tag_name": "亚由美心"
+    },
+    {
+      "tag_id": 3544,
+      "tag_name": "心おゆみ"
+    }
+  ],
+  "subscribe_num": 399,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13302,
+          "chapter_title": "1话",
+          "updatetime": 1288692753,
+          "filesize": 2497955,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 24053209,
+        "uid": 107154928,
+        "content": "留个脚印",
+        "createtime": 1581518951,
+        "nickname": "异乡异叶",
+        "avatar": "https://avatar.dmzj.com/24/37/24378d216b1d99b0c075dcb9e019d33f.png"
+      },
+      {
+        "comment_id": 1198027,
+        "uid": 100837555,
+        "content": "好想有連載",
+        "createtime": 1471857335,
+        "nickname": "星星08474",
+        "avatar": "https://avatar.dmzj.com/c9/e9/c9e91426a62da1a4c978378610790f78.png"
+      }
+    ]
+  }
+}

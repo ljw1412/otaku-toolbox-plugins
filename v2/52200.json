@@ -1,0 +1,79 @@
+{
+  "id": 52200,
+  "islong": 2,
+  "direction": 1,
+  "title": "小悠和玛俐",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/200207xyhml.jpg",
+  "description": "小悠和玛俐和短篇小故事",
+  "last_updatetime": 1581042808,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaoyouhemali",
+  "hidden": 0,
+  "hot_num": 169144,
+  "hit_num": 16341,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97675,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18840,
+      "tag_name": "ゆゆゆ"
+    },
+    {
+      "tag_id": 18841,
+      "tag_name": "みこりん"
+    }
+  ],
+  "subscribe_num": 733,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97675,
+          "chapter_title": "1话",
+          "updatetime": 1581042808,
+          "filesize": 1462221,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 47,
+    "latest_comment": [
+      {
+        "comment_id": 27564076,
+        "uid": 110559034,
+        "content": "草，这不是怜香伴吗",
+        "createtime": 1590055057,
+        "nickname": "卡瓦打啊啊啊啊啊",
+        "avatar": "https://avatar.dmzj.com/72/99/72997992e1f5451f48381081b877190b.png"
+      },
+      {
+        "comment_id": 25831609,
+        "uid": 106347174,
+        "content": "请问是什么的同人啊？",
+        "createtime": 1585498274,
+        "nickname": "山精龙",
+        "avatar": "https://avatar.dmzj.com/96/39/9639e6bf70b87ce65e4de64c182029b3.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

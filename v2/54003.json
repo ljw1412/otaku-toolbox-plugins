@@ -1,0 +1,80 @@
+{
+  "id": 54003,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠/忍者神龟V3",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/200501bfxrzsg.jpg",
+  "description": "蝙蝠侠诞生80周年纪念日与忍者神龟诞生35周年纪念日相撞，联动刊三部曲正式走向完结。我们的英雄们已经在纽约和哥谭市与贝恩以及邪恶的脚帮作战过，但是现在克朗已经得到了DC宇宙中最危险的技术ーー没有一个宇宙能逃脱他的愤怒！",
+  "last_updatetime": 1592126310,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 61834,
+  "hit_num": 12588,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    },
+    {
+      "tag_id": 1206,
+      "tag_name": "IDW"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 283,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99342,
+          "chapter_title": "2卷",
+          "updatetime": 1592126310,
+          "filesize": 5046363,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 97107,
+          "chapter_title": "1卷",
+          "updatetime": 1588336417,
+          "filesize": 3654876,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 28162842,
+        "uid": 105673762,
+        "content": "老爷在这里诡异的笑了一下",
+        "createtime": 1592148046,
+        "nickname": "溺尸42号",
+        "avatar": "https://avatar.dmzj.com/29/45/2945ffee791fad25cd25d9999924f0ee.png"
+      },
+      {
+        "comment_id": 28161965,
+        "uid": 18597975,
+        "content": "以前看到反间感觉牛强无敌，现在妈妈救我",
+        "createtime": 1592146560,
+        "nickname": "wangyuanyuyu",
+        "avatar": "https://avatar.dmzj.com/65/91/6591ca4c85d6d5b5d038fbf99d675b91.png"
+      }
+    ]
+  }
+}

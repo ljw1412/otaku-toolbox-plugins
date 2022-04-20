@@ -1,0 +1,73 @@
+{
+  "id": 51121,
+  "islong": 2,
+  "direction": 1,
+  "title": "首次所看之物",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/191118scskzw.jpg",
+  "description": "和后辈一起去看电影",
+  "last_updatetime": 1574047362,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 1154546,
+  "hit_num": 35219,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6028,
+      "tag_name": "藤近小梅"
+    }
+  ],
+  "subscribe_num": 5383,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94916,
+          "chapter_title": "1话",
+          "updatetime": 1574047362,
+          "filesize": 960524,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 60,
+    "latest_comment": [
+      {
+        "comment_id": 29390720,
+        "uid": 107288322,
+        "content": "你烫头像蔡徐坤",
+        "createtime": 1596307310,
+        "nickname": "烈焰贰刺螈",
+        "avatar": "https://avatar.dmzj.com/36/61/3661dab942746773d3bd9dc0762e4f1d.png"
+      },
+      {
+        "comment_id": 27882198,
+        "uid": 109379652,
+        "content": "就这？",
+        "createtime": 1591057499,
+        "nickname": "dmzj_109379652",
+        "avatar": "https://avatar.dmzj.com/f3/1e/f31e9b32d05724a58e1738bc84c54971.png"
+      }
+    ]
+  }
+}

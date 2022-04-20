@@ -1,0 +1,93 @@
+{
+  "id": 50725,
+  "islong": 2,
+  "direction": 1,
+  "title": "血，尖牙与祝福",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1098524241571576792.jpg",
+  "description": "两个精灵踏上寻找神的旅程，前面等待着的是...",
+  "last_updatetime": 1581091593,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 113606,
+  "hit_num": 6515,
+  "uid": 109852424,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18107,
+      "tag_name": "骨墓"
+    }
+  ],
+  "subscribe_num": 471,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97803,
+          "chapter_title": "1.2话",
+          "updatetime": 1581091593,
+          "filesize": 1274943,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 94802,
+          "chapter_title": "1.1话",
+          "updatetime": 1572968208,
+          "filesize": 1188530,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 94267,
+          "chapter_title": "0话",
+          "updatetime": 1571577396,
+          "filesize": 827686,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "个人作品，工作量太大，随缘发布，感谢各位支持",
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 21985296,
+        "uid": 106959154,
+        "content": "德骨吗？",
+        "createtime": 1573140248,
+        "nickname": "万岁无江",
+        "avatar": "https://avatar.dmzj.com/51/18/511816a3e33d6ec8b9ffcbbce79f807d.png"
+      },
+      {
+        "comment_id": 21959501,
+        "uid": 107101594,
+        "content": "好看！",
+        "createtime": 1573048483,
+        "nickname": "忏鬼、百江川",
+        "avatar": "https://avatar.dmzj.com/16/69/16699d822b9d6bb2e1ad8492c89a204d.png"
+      }
+    ]
+  }
+}

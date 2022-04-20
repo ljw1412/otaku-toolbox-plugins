@@ -1,0 +1,86 @@
+{
+  "id": 53945,
+  "islong": 2,
+  "direction": 2,
+  "title": "某学院的替身使者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1042463681590732580.jpg",
+  "description": "某学院居然出现了替身使者，同时受到来自学姐的奇妙预言：三十天后，这个学院将会有一半的生命消逝......",
+  "last_updatetime": 1593773341,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 25088,
+  "hit_num": 6513,
+  "uid": 104246368,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19689,
+      "tag_name": "狰狞的黑猫"
+    }
+  ],
+  "subscribe_num": 109,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 104743,
+          "chapter_title": "2话",
+          "updatetime": 1593773341,
+          "filesize": 6012956,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 101563,
+          "chapter_title": "1话",
+          "updatetime": 1587925173,
+          "filesize": 4124608,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "第二章顺序有问题，已经提交修改，QAQ",
+  "comic_notice": "向荒木飞吕彦老师致敬",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 28709231,
+        "uid": 101718230,
+        "content": "爷订更d(ŐдŐ๑)",
+        "createtime": 1593959329,
+        "nickname": "一击尊者",
+        "avatar": "https://avatar.dmzj.com/e6/a8/e6a803d90eeb840f3194f90dbd848002.png"
+      },
+      {
+        "comment_id": 26951376,
+        "uid": 107672210,
+        "content": "这。。。看起来有点沙雕。。。\n不过还是蛮好看的，就是建议加上背景音ｺﾞｺﾞｺﾞｺﾞｺﾞｺﾞ、ドドドドド",
+        "createtime": 1588118344,
+        "nickname": "承太郎必秒Dio",
+        "avatar": "https://avatar.dmzj.com/61/72/617257e10349aaa2cd6206ee575e0540.png"
+      }
+    ]
+  }
+}

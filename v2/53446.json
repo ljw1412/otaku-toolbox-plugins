@@ -1,0 +1,98 @@
+{
+  "id": 53446,
+  "islong": 2,
+  "direction": 1,
+  "title": "献给好孩子们的读物~桃太郎~",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/200405ttl.jpg",
+  "description": "这是一部发生在桃太郎♂？身上的温馨故事",
+  "last_updatetime": 1595470611,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 3049181,
+  "hit_num": 314878,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19452,
+      "tag_name": "わけぎラテ"
+    }
+  ],
+  "subscribe_num": 14364,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 106592,
+          "chapter_title": "4话",
+          "updatetime": 1595470611,
+          "filesize": 4815796,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 103195,
+          "chapter_title": "3话",
+          "updatetime": 1588777482,
+          "filesize": 2155350,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 102155,
+          "chapter_title": "2话",
+          "updatetime": 1587113320,
+          "filesize": 3264945,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 101497,
+          "chapter_title": "1话",
+          "updatetime": 1586075591,
+          "filesize": 902845,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 669,
+    "latest_comment": [
+      {
+        "comment_id": 30025124,
+        "uid": 105944589,
+        "content": "提丰一激光秒了一排天使（滑稽）",
+        "createtime": 1598708144,
+        "nickname": "Glen020",
+        "avatar": "https://avatar.dmzj.com/88/51/8851309e32563f337a1abe74997b1b97.png"
+      },
+      {
+        "comment_id": 29999717,
+        "uid": 107886929,
+        "content": "好孩子不要看大妈式欢乐向⊙_⊙",
+        "createtime": 1598606386,
+        "nickname": "夜执事",
+        "avatar": "https://avatar.dmzj.com/94/21/9421f98ccb3f443746306cb3e8722741.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 51327,
+  "islong": 2,
+  "direction": 2,
+  "title": "迦勒底的奇妙JOJO",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1060531471575213947.jpg",
+  "description": "控诺空JOJO太郎",
+  "last_updatetime": 1575214482,
+  "copyright": 1,
+  "first_letter": "j",
+  "hot_num": 105557,
+  "hit_num": 14517,
+  "uid": 106053147,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15111,
+      "tag_name": "米山人"
+    }
+  ],
+  "subscribe_num": 373,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94794,
+          "chapter_title": "1话",
+          "updatetime": 1575214482,
+          "filesize": 367501,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 421,
+    "latest_comment": [
+      {
+        "comment_id": 29531466,
+        "uid": 109381340,
+        "content": "回",
+        "createtime": 1596811525,
+        "nickname": "dmzj_109381340",
+        "avatar": "https://avatar.dmzj.com/2a/7c/2a7c44e7c671b44677cb15800723e4ed.png"
+      },
+      {
+        "comment_id": 29518271,
+        "uid": 110706977,
+        "content": "草，一种植物",
+        "createtime": 1596763009,
+        "nickname": "dmzj_110706977",
+        "avatar": "https://avatar.dmzj.com/6b/79/6b798afca5e93de111fa0424ad3c8c62.png"
+      }
+    ]
+  }
+}

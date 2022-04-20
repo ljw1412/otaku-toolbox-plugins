@@ -1,0 +1,75 @@
+{
+  "id": 52485,
+  "islong": 2,
+  "direction": 1,
+  "title": "ligmow",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1104823211591249698.jpg",
+  "description": "新手练习短篇，画得不好，见谅",
+  "last_updatetime": 1582438268,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 37654,
+  "hit_num": 5456,
+  "uid": 110482321,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19007,
+      "tag_name": "paotzugo"
+    }
+  ],
+  "subscribe_num": 180,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98484,
+          "chapter_title": "1话",
+          "updatetime": 1582438268,
+          "filesize": 2188883,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 28712288,
+        "uid": 107592103,
+        "content": "这反转来的猝不及防啊，牛逼牛逼",
+        "createtime": 1593964018,
+        "nickname": "refrain105",
+        "avatar": "https://avatar.dmzj.com/38/05/3805a9265e7831c33cbad417c196e9ee.png"
+      },
+      {
+        "comment_id": 27008809,
+        "uid": 109692111,
+        "content": "牛逼牛逼牛逼牛逼NB能不能",
+        "createtime": 1588337378,
+        "nickname": "YZX1111",
+        "avatar": "https://avatar.dmzj.com/68/90/689097490a23917c4f6b5f92aa763984.png"
+      }
+    ]
+  }
+}

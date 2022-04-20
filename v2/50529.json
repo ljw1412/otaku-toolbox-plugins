@@ -1,0 +1,75 @@
+{
+  "id": 50529,
+  "islong": 2,
+  "direction": 1,
+  "title": "一本正经",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1098075191570462550.jpg",
+  "description": "这是一部非常严谨和正经的作品，请认真对待。",
+  "last_updatetime": 1570462752,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 11472,
+  "hit_num": 1121,
+  "uid": 109807519,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18037,
+      "tag_name": "晓馒"
+    }
+  ],
+  "subscribe_num": 51,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89513,
+          "chapter_title": "1话",
+          "updatetime": 1570462752,
+          "filesize": 1383449,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 21140806,
+        "uid": 102393119,
+        "content": "果然很正经",
+        "createtime": 1570675345,
+        "nickname": "衣冠禽兽斯文败类玖尊",
+        "avatar": "https://avatar.dmzj.com/48/25/4825efcc9f87d14c3010cc142e1b261e.png"
+      },
+      {
+        "comment_id": 21102653,
+        "uid": 14016719,
+        "content": "勇者的那张脸，我看到了猴王的影子。",
+        "createtime": 1570581423,
+        "nickname": "kewudexiaohuochai",
+        "avatar": "https://avatar.dmzj.com/79/77/7977e97f8ce78d1aad9856fa5f6d7613.png"
+      }
+    ]
+  }
+}

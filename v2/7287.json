@@ -1,0 +1,65 @@
+{
+  "id": 7287,
+  "islong": 2,
+  "direction": 2,
+  "title": "异型救赎",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/yixingjiushu.jpg",
+  "description": "在太空中，谁人能听到你的祈祷？只有你自己来完成救赎……",
+  "last_updatetime": 1303288722,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 41574,
+  "hit_num": 720917,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 237,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 14902,
+          "chapter_title": "1卷",
+          "updatetime": 1303288722,
+          "filesize": 5398634,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 210142,
+        "uid": 25103042,
+        "content": "以神之名净化邪魔",
+        "createtime": 1393426206,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  }
+}

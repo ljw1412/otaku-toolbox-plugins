@@ -1,0 +1,75 @@
+{
+  "id": 50136,
+  "islong": 2,
+  "direction": 1,
+  "title": "原同学的兴趣笔记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/yuantongxue20190915.jpg",
+  "description": "青春期JK的秘密笔记本",
+  "last_updatetime": 1568567008,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yuandongxuedexqbj",
+  "hidden": 0,
+  "hot_num": 1353186,
+  "hit_num": 195148,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 92794,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17370,
+      "tag_name": "鬼头サケル"
+    }
+  ],
+  "subscribe_num": 5525,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92794,
+          "chapter_title": "1话",
+          "updatetime": 1568567008,
+          "filesize": 5463157,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 260,
+    "latest_comment": [
+      {
+        "comment_id": 29943102,
+        "uid": 102019383,
+        "content": "警察叔叔，就是这个人",
+        "createtime": 1598375683,
+        "nickname": "靠。。。",
+        "avatar": "https://avatar.dmzj.com/44/55/44552eefcb65c4ac9b863e1072a57211.png"
+      },
+      {
+        "comment_id": 29912757,
+        "uid": 107936963,
+        "content": "封面的脚没出现啊，我还蛮期待的说",
+        "createtime": 1598281684,
+        "nickname": "SHCRLOCKHOLMES",
+        "avatar": "https://avatar.dmzj.com/10/39/1039b137047bbb2ccdb7b168e73c56ac.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,73 @@
+{
+  "id": 50248,
+  "islong": 2,
+  "direction": 1,
+  "title": "Lunatic Arcane",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/190922lunaticarcane.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1569116074,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 74987,
+  "hit_num": 13113,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6086,
+      "tag_name": "KFC"
+    },
+    {
+      "tag_id": 15494,
+      "tag_name": "YU"
+    }
+  ],
+  "subscribe_num": 357,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88504,
+          "chapter_title": "1话",
+          "updatetime": 1569116074,
+          "filesize": 8608576,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 20547917,
+        "uid": 106136557,
+        "content": "那个时候美铃好像真的是人气王",
+        "createtime": 1569204246,
+        "nickname": "夢と現",
+        "avatar": "https://avatar.dmzj.com/3c/0b/3c0bc8cf181b46b072a454d633fd74c0.png"
+      },
+      {
+        "comment_id": 20522752,
+        "uid": 100630634,
+        "content": "和慧音幾句話就能說清避免戰鬥非要打一架才行，真是非常有東方遊戲裡面的感覺啊",
+        "createtime": 1569132446,
+        "nickname": "電気屋眸",
+        "avatar": "https://avatar.dmzj.com/87/49/8749f5eca845ad46f8c4777ee7207e31.png"
+      }
+    ]
+  }
+}

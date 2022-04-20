@@ -1,0 +1,73 @@
+{
+  "id": 52260,
+  "islong": 2,
+  "direction": 1,
+  "title": "附近的书店店员是同学的故事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/djjqhwjh2020211.jpg",
+  "description": "たけみつ老师的推特短篇。",
+  "last_updatetime": 1581398296,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 1248650,
+  "hit_num": 81836,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18874,
+      "tag_name": "たけみつ"
+    }
+  ],
+  "subscribe_num": 5856,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97922,
+          "chapter_title": "1话",
+          "updatetime": 1581398296,
+          "filesize": 933835,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 269,
+    "latest_comment": [
+      {
+        "comment_id": 29534114,
+        "uid": 108966474,
+        "content": "卧槽卧槽我酸了",
+        "createtime": 1596816699,
+        "nickname": "dmzj_108966474",
+        "avatar": "https://avatar.dmzj.com/21/7b/217bf6de094d08ec190d06d046d00b90.png"
+      },
+      {
+        "comment_id": 29254600,
+        "uid": 12060045,
+        "content": "男主的青春10岁-24岁。路人的青春，10岁。",
+        "createtime": 1595822637,
+        "nickname": "mimizu",
+        "avatar": "https://avatar.dmzj.com/9b/b9/9bb9c0cec4e56479044331e0957768a1.png"
+      }
+    ]
+  }
+}

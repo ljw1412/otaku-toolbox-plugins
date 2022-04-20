@@ -1,0 +1,101 @@
+{
+  "id": 51360,
+  "islong": 2,
+  "direction": 1,
+  "title": "笨拙至极的前辈",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/bzzjdqb20191206.jpg",
+  "description": "我的前辈其实是个傲娇?",
+  "last_updatetime": 1596198169,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 8806593,
+  "hit_num": 1313425,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15278,
+      "tag_name": "工藤マコト"
+    }
+  ],
+  "subscribe_num": 40604,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 105984,
+          "chapter_title": "8话",
+          "updatetime": 1596198169,
+          "filesize": 2096161,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 98079,
+          "chapter_title": "4话",
+          "updatetime": 1581658221,
+          "filesize": 2516180,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 96243,
+          "chapter_title": "3话",
+          "updatetime": 1577375687,
+          "filesize": 2607833,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 95865,
+          "chapter_title": "2话",
+          "updatetime": 1576390947,
+          "filesize": 2359248,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 95599,
+          "chapter_title": "1话",
+          "updatetime": 1575611746,
+          "filesize": 2327729,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 849,
+    "latest_comment": [
+      {
+        "comment_id": 30028939,
+        "uid": 105976876,
+        "content": "翻译有点意思",
+        "createtime": 1598716141,
+        "nickname": "蓝风护",
+        "avatar": "https://avatar.dmzj.com/62/94/629401a0d09f667dc84805c3cf7a2de4.png"
+      },
+      {
+        "comment_id": 30020499,
+        "uid": 107216130,
+        "content": "更了！",
+        "createtime": 1598690204,
+        "nickname": "鸭鸭大帅比",
+        "avatar": "https://avatar.dmzj.com/23/32/2332ab34a92bbbfb4a149ef3ea43db8f.png"
+      }
+    ]
+  }
+}

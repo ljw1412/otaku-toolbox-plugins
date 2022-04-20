@@ -1,0 +1,73 @@
+{
+  "id": 54051,
+  "islong": 2,
+  "direction": 1,
+  "title": "新·博丽神社欢迎光临",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/blsshyn202054.jpg",
+  "description": "幻想乡的日常。",
+  "last_updatetime": 1588559701,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 34988,
+  "hit_num": 2620,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5498,
+      "tag_name": "水镜ひより"
+    },
+    {
+      "tag_id": 5499,
+      "tag_name": "冰坂透(氷坂透)"
+    }
+  ],
+  "subscribe_num": 157,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 103082,
+          "chapter_title": "1话",
+          "updatetime": 1588559701,
+          "filesize": 2967546,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 27275662,
+        "uid": 106001094,
+        "content": "仅仅是合体分离而不是自爆，河童的技术真是完全方便OK呢",
+        "createtime": 1589124809,
+        "nickname": "愉悦的凯森猫",
+        "avatar": "https://avatar.dmzj.com/72/9f/729ff3a3d228541b9ab6280b49036126.png"
+      },
+      {
+        "comment_id": 27113566,
+        "uid": 106397823,
+        "content": "金可怜",
+        "createtime": 1588630713,
+        "nickname": "窟卢塔º",
+        "avatar": "https://avatar.dmzj.com/88/28/8828500c5a06f44fed492a78b2642737.png"
+      }
+    ]
+  }
+}

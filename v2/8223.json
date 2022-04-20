@@ -1,0 +1,115 @@
+{
+  "id": 8223,
+  "islong": 2,
+  "direction": 1,
+  "title": "白玉团子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/by0307l.jpg",
+  "description": "只能说兽耳赛高~",
+  "last_updatetime": 1520394773,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 1289239,
+  "hit_num": 2161693,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4370,
+      "tag_name": "あさひあげ"
+    }
+  ],
+  "subscribe_num": 6918,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 68624,
+          "chapter_title": "6话",
+          "updatetime": 1520394773,
+          "filesize": 3295713,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 26973,
+          "chapter_title": "5话",
+          "updatetime": 1393687085,
+          "filesize": 3481408,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 23744,
+          "chapter_title": "番外",
+          "updatetime": 1377559636,
+          "filesize": 794272,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 23743,
+          "chapter_title": "4话",
+          "updatetime": 1377559624,
+          "filesize": 2467418,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 16621,
+          "chapter_title": "3话",
+          "updatetime": 1326700787,
+          "filesize": 2620530,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 16620,
+          "chapter_title": "2话",
+          "updatetime": 1326700739,
+          "filesize": 2396957,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 23742,
+          "chapter_title": "1话",
+          "updatetime": 1377559606,
+          "filesize": 1306370,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 189,
+    "latest_comment": [
+      {
+        "comment_id": 29438567,
+        "uid": 108589203,
+        "content": "兽耳赛高!这是以前现在…………",
+        "createtime": 1596474324,
+        "nickname": "时月流水",
+        "avatar": "https://avatar.dmzj.com/62/61/62616b3d126c34998dfee640961a9332.png"
+      },
+      {
+        "comment_id": 26722513,
+        "uid": 100602582,
+        "content": "记得出过合集，我还买过",
+        "createtime": 1587546469,
+        "nickname": "grazioso",
+        "avatar": "https://avatar.dmzj.com/76/b6/76b62b07cf8f3b666f9948b3ec0d559f.png"
+      }
+    ]
+  }
+}

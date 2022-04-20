@@ -1,0 +1,87 @@
+{
+  "id": 6648,
+  "islong": 2,
+  "direction": 2,
+  "title": "丧尸机器人大战",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/sangsijiqirendazhan.jpg",
+  "description": "    我的名字不重要……重要的是我站在僵尸堆里也基本无妨……僵尸咬我，是出于本能而我被咬了不受伤……则是先天优势。为什么？因为我也不是人类。",
+  "last_updatetime": 1421416896,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 465237,
+  "hit_num": 1623835,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1206,
+      "tag_name": "IDW"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1912,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33540,
+          "chapter_title": "续篇01",
+          "updatetime": 1421416896,
+          "filesize": 3503395,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 12999,
+          "chapter_title": "2卷",
+          "updatetime": 1289198187,
+          "filesize": 2128888,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 12998,
+          "chapter_title": "1卷",
+          "updatetime": 1289198105,
+          "filesize": 2737361,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 24198683,
+        "uid": 107326228,
+        "content": "+",
+        "createtime": 1581835810,
+        "nickname": "dmzj_107326228",
+        "avatar": "https://avatar.dmzj.com/28/39/28392d64ac1be4df828e11673881e760.png"
+      },
+      {
+        "comment_id": 23417563,
+        "uid": 101621334,
+        "content": "哦吼",
+        "createtime": 1579612700,
+        "nickname": "qzuser68992",
+        "avatar": "https://avatar.dmzj.com/f6/16/f6165bb8a164b28e8b795993e395ed6c.png"
+      }
+    ]
+  }
+}

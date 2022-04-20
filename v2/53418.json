@@ -1,0 +1,75 @@
+{
+  "id": 53418,
+  "islong": 2,
+  "direction": 2,
+  "title": "YAM",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1024889261585903249.jpg",
+  "description": "可爱动物服装及各类服装设计角色",
+  "last_updatetime": 1585903173,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 30136,
+  "hit_num": 810,
+  "uid": 102488926,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19440,
+      "tag_name": "YAM-C"
+    }
+  ],
+  "subscribe_num": 136,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95812,
+          "chapter_title": "1话",
+          "updatetime": 1585903173,
+          "filesize": 374942,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "上班的课余时间加学习我终于有出新作啦！！",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 26053614,
+        "uid": 107859391,
+        "content": "这就是猎奇与可爱的结合吗",
+        "createtime": 1585990725,
+        "nickname": "dmzj_107859391",
+        "avatar": "https://avatar.dmzj.com/4f/30/4f30ff16d66f2cc6632134c9792b31e6.png"
+      },
+      {
+        "comment_id": 26040922,
+        "uid": 104408865,
+        "content": "看前几页：可爱？？？？？\n看到最后：可爱！",
+        "createtime": 1585965539,
+        "nickname": "50064369",
+        "avatar": "https://avatar.dmzj.com/8a/5f/8a5f66c27253ad873cc1a85ce5a08b9c.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": 585,
+  "islong": 2,
+  "direction": 1,
+  "title": "药王",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/yaowang.jpg",
+  "description": "某天街上开始交头接耳地传出一个不可思议的传闻…\n就是出现了会解决任何人委託的传说中的『药王』…\n",
+  "last_updatetime": 1178197680,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 27593,
+  "hit_num": 1752782,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 439,
+      "tag_name": "为我井彻"
+    },
+    {
+      "tag_id": 763,
+      "tag_name": "明治定何"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 106,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 1559,
+          "chapter_title": "3卷",
+          "updatetime": 1178197680,
+          "filesize": 13609162,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 1022,
+          "chapter_title": "2卷",
+          "updatetime": 1178197680,
+          "filesize": 8420114,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 1021,
+          "chapter_title": "1卷",
+          "updatetime": 1178197680,
+          "filesize": 7892550,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 19701589,
+        "uid": 102437089,
+        "content": "大叔心。",
+        "createtime": 1566578241,
+        "nickname": "Centillion",
+        "avatar": "https://avatar.dmzj.com/73/a3/73a3cea0b10df6999d57a41d53692d72.png"
+      },
+      {
+        "comment_id": 12440315,
+        "uid": 105889395,
+        "content": "插眼",
+        "createtime": 1551883958,
+        "nickname": "dmzj_105889395",
+        "avatar": "https://avatar.dmzj.com/99/f4/99f4a62208ac0a3ed0921b0649cfaef5.png"
+      }
+    ]
+  }
+}

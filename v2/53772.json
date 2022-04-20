@@ -1,0 +1,75 @@
+{
+  "id": 53772,
+  "islong": 2,
+  "direction": 2,
+  "title": "残念",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1046470811587316539.jpg",
+  "description": "残念的世界，残念的人生，残念的人间，残念的万物……",
+  "last_updatetime": 1587316605,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 14308,
+  "hit_num": 53,
+  "uid": 104647081,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13851,
+      "tag_name": "网络油侠"
+    }
+  ],
+  "subscribe_num": 58,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100381,
+          "chapter_title": "1话",
+          "updatetime": 1587316605,
+          "filesize": 60290,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 29262407,
+        "uid": 111313267,
+        "content": "即使看了评论区还是有被本作的短小震惊到",
+        "createtime": 1595852246,
+        "nickname": "dmzj_111313267",
+        "avatar": "https://avatar.dmzj.com/11/10/111029083421f9156800716bcbbe0298.png"
+      },
+      {
+        "comment_id": 28472434,
+        "uid": 106318003,
+        "content": "点击50订阅51……",
+        "createtime": 1593233124,
+        "nickname": "dmzj_106318003",
+        "avatar": "https://avatar.dmzj.com/29/86/29868e0eea801ef3a9e3bad0d1c17078.png"
+      }
+    ]
+  }
+}

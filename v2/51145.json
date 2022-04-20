@@ -1,0 +1,80 @@
+{
+  "id": 51145,
+  "islong": 2,
+  "direction": 2,
+  "title": "黑色魔咒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/hsmz20191120.jpg",
+  "description": "在这个只有女生才拥有魔法的小镇，男主布克的妹妹离奇失踪，与镇上罪恶的女巫教团有着千丝万缕的联系。他的警长老爹随即展开了搜寻工作，但出于对魔咒搜查的种种限制，并未取得任何进展。布克在儿时挚友的陪伴下，踏上了寻找妹妹的路途。与此同时，他也逐渐揭开了小镇悲痛的历史……",
+  "last_updatetime": 1574995864,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 226266,
+  "hit_num": 25683,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7113,
+      "tag_name": "First Second"
+    }
+  ],
+  "subscribe_num": 1056,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95430,
+          "chapter_title": "2卷",
+          "updatetime": 1574995864,
+          "filesize": 2827492,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 95200,
+          "chapter_title": "1卷",
+          "updatetime": 1574237261,
+          "filesize": 5364035,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 21,
+    "latest_comment": [
+      {
+        "comment_id": 27134002,
+        "uid": 108705640,
+        "content": "6",
+        "createtime": 1588693216,
+        "nickname": "dmzj_108705640",
+        "avatar": "https://avatar.dmzj.com/bb/bc/bbbc3bb3700cb5ff7f52796936a68d18.png"
+      },
+      {
+        "comment_id": 22431872,
+        "uid": 106974998,
+        "content": "额",
+        "createtime": 1575287039,
+        "nickname": "路人不会恋爱",
+        "avatar": "https://avatar.dmzj.com/0c/4e/0c4e618eb80cb2bebea85602ef8d8eea.png"
+      }
+    ]
+  }
+}

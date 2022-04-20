@@ -1,0 +1,79 @@
+{
+  "id": 53520,
+  "islong": 2,
+  "direction": 1,
+  "title": "COWBOY BEBOP Illustrations ~ The Wind ~",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/cowboybuklibulibuli0408.jpg",
+  "description": "星际牛仔的动画设定资料集",
+  "last_updatetime": 1586329970,
+  "last_update_chapter_name": "全一册",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "cowboybeboplllustrationsthewind",
+  "hidden": 0,
+  "hot_num": 161282,
+  "hit_num": 71077,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100621,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19494,
+      "tag_name": "川元利浩"
+    }
+  ],
+  "subscribe_num": 707,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100621,
+          "chapter_title": "1卷",
+          "updatetime": 1586329970,
+          "filesize": 23812958,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 52,
+    "latest_comment": [
+      {
+        "comment_id": 28579546,
+        "uid": 111065316,
+        "content": "我   活   了",
+        "createtime": 1593565766,
+        "nickname": "今天也很卑微",
+        "avatar": "https://avatar.dmzj.com/12/70/127001dcbb217d006711ea41161dfec4.png"
+      },
+      {
+        "comment_id": 28403276,
+        "uid": 105140223,
+        "content": "圈",
+        "createtime": 1593005880,
+        "nickname": "颜赋",
+        "avatar": "https://avatar.dmzj.com/35/76/357654fad35ff6915d549e57c7405635.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

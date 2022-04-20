@@ -1,0 +1,77 @@
+{
+  "id": 52683,
+  "islong": 2,
+  "direction": 1,
+  "title": "薛定谔的猫宫同学",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/xdedmgtx202032.jpg",
+  "description": "薛定谔的猫宫同学。",
+  "last_updatetime": 1583121920,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 1518535,
+  "hit_num": 182747,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14014,
+      "tag_name": "くつがえる"
+    }
+  ],
+  "subscribe_num": 7196,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94219,
+          "chapter_title": "1话",
+          "updatetime": 1583121920,
+          "filesize": 5189013,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 226,
+    "latest_comment": [
+      {
+        "comment_id": 29522388,
+        "uid": 110286931,
+        "content": "薛定谔的更新",
+        "createtime": 1596778946,
+        "nickname": "dmzj_110286931",
+        "avatar": "https://avatar.dmzj.com/6c/65/6c6507395f74042953d76cc455b9b54a.png"
+      },
+      {
+        "comment_id": 29498780,
+        "uid": 105535137,
+        "content": "到底咋样拉",
+        "createtime": 1596697978,
+        "nickname": "その壱か",
+        "avatar": "https://avatar.dmzj.com/90/89/9089647f75d67c195c767e44f5f53ee0.png"
+      }
+    ]
+  }
+}

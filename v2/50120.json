@@ -1,0 +1,69 @@
+{
+  "id": 50120,
+  "islong": 2,
+  "direction": 1,
+  "title": "雪兔  ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/xuetu20190914.jpg",
+  "description": "苗爷你也有这么怕的时候啊",
+  "last_updatetime": 1568467683,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 38040,
+  "hit_num": 5500,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17842,
+      "tag_name": "Catbell"
+    }
+  ],
+  "subscribe_num": 169,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93158,
+          "chapter_title": "1话",
+          "updatetime": 1568467683,
+          "filesize": 3888980,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 21829780,
+        "uid": 107285892,
+        "content": "好看",
+        "createtime": 1572621040,
+        "nickname": "宅在家里做梦",
+        "avatar": "https://avatar.dmzj.com/54/8f/548fa9da1311a31b8218c320d5d94b2d.png"
+      },
+      {
+        "comment_id": 20353675,
+        "uid": 104599547,
+        "content": "你穿这样，当然会冷啦",
+        "createtime": 1568617592,
+        "nickname": "se2230202",
+        "avatar": "https://avatar.dmzj.com/d8/56/d856a952e11c72a25c558e7599c0fae8.png"
+      }
+    ]
+  }
+}

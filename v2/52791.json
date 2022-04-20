@@ -1,0 +1,77 @@
+{
+  "id": 52791,
+  "islong": 2,
+  "direction": 1,
+  "title": "与往常一样",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/200306ywcyy.jpg",
+  "description": "东方的四格欢乐日常",
+  "last_updatetime": 1583462574,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 34032,
+  "hit_num": 1852,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5536,
+      "tag_name": "大冲"
+    }
+  ],
+  "subscribe_num": 163,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100015,
+          "chapter_title": "1话",
+          "updatetime": 1583462574,
+          "filesize": 1941848,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 24986839,
+        "uid": 106947689,
+        "content": "一直摸兜里",
+        "createtime": 1583580354,
+        "nickname": "dmzj_106947689",
+        "avatar": "https://avatar.dmzj.com/3a/dc/3adc37228b1acd78c72c486a37e221f5.png"
+      },
+      {
+        "comment_id": 24970356,
+        "uid": 103527473,
+        "content": "标准日本语",
+        "createtime": 1583523696,
+        "nickname": "臭萌豚",
+        "avatar": "https://avatar.dmzj.com/24/ee/24ee12e7410e2361b106aebb836b798f.png"
+      }
+    ]
+  }
+}

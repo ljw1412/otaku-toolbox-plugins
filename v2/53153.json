@@ -1,0 +1,92 @@
+{
+  "id": 53153,
+  "islong": 2,
+  "direction": 2,
+  "title": "她和她",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1072520881587515277.jpg",
+  "description": "她和她的故事",
+  "last_updatetime": 1589856617,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 286725,
+  "hit_num": 33779,
+  "uid": 107252088,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15109,
+      "tag_name": "骨饰"
+    }
+  ],
+  "subscribe_num": 1211,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97928,
+          "chapter_title": "新封面",
+          "updatetime": 1589856617,
+          "filesize": 90243,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 97859,
+          "chapter_title": "3话",
+          "updatetime": 1589757355,
+          "filesize": 1725630,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 96576,
+          "chapter_title": "2话",
+          "updatetime": 1587252733,
+          "filesize": 2489253,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 95296,
+          "chapter_title": "1话",
+          "updatetime": 1584868236,
+          "filesize": 1441267,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 44,
+    "latest_comment": [
+      {
+        "comment_id": 28543786,
+        "uid": 105126822,
+        "content": "。。。。",
+        "createtime": 1593444841,
+        "nickname": "早伊原里树",
+        "avatar": "https://avatar.dmzj.com/0e/9c/0e9c24f3985326ee53cb37c63d4256b2.png"
+      },
+      {
+        "comment_id": 28543770,
+        "uid": 105126822,
+        "content": "。。。",
+        "createtime": 1593444822,
+        "nickname": "早伊原里树",
+        "avatar": "https://avatar.dmzj.com/0e/9c/0e9c24f3985326ee53cb37c63d4256b2.png"
+      }
+    ]
+  }
+}

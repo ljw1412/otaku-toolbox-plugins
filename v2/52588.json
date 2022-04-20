@@ -1,0 +1,75 @@
+{
+  "id": 52588,
+  "islong": 2,
+  "direction": 2,
+  "title": "最喜欢小动物啦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1045501841582603230.jpg",
+  "description": "最喜欢动物啦\n毛茸茸的滑溜溜的奇形怪状的都好喜欢呢",
+  "last_updatetime": 1582697086,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 5890,
+  "hit_num": 619,
+  "uid": 104550184,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19061,
+      "tag_name": "滋啦啦"
+    }
+  ],
+  "subscribe_num": 27,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94014,
+          "chapter_title": "1话",
+          "updatetime": 1582697086,
+          "filesize": 907533,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 24604726,
+        "uid": 102432909,
+        "content": "我可以养滋啦啦吗？",
+        "createtime": 1582822802,
+        "nickname": "かくメイ前夜",
+        "avatar": "https://avatar.dmzj.com/23/79/2379e941eebb73c6132b5f14ca9b75c2.png"
+      },
+      {
+        "comment_id": 24602602,
+        "uid": 105551016,
+        "content": "少女心（迫真）suki",
+        "createtime": 1582820041,
+        "nickname": "文椛人",
+        "avatar": "https://avatar.dmzj.com/61/24/61249125041dc6e48da5720ab643dd8f.png"
+      }
+    ]
+  }
+}

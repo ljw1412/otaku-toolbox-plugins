@@ -1,0 +1,73 @@
+{
+  "id": 7554,
+  "islong": 2,
+  "direction": 2,
+  "title": "水浒传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/shch.jpg",
+  "description": "中国家喻户晓的四大名著之一《水浒传》。\n由法国delcourt出版社于2008年发行漫画版，漫画作者是中国青年画家王鹏。",
+  "last_updatetime": 1311151714,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 142302,
+  "hit_num": 1599859,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4049,
+      "tag_name": "王鹏"
+    }
+  ],
+  "subscribe_num": 698,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 14686,
+          "chapter_title": "1卷",
+          "updatetime": 1311151714,
+          "filesize": 5018999,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 38,
+    "latest_comment": [
+      {
+        "comment_id": 29979653,
+        "uid": 102491657,
+        "content": "真不错 还有后续吗",
+        "createtime": 1598529197,
+        "nickname": "高科技喷喷",
+        "avatar": "https://avatar.dmzj.com/ba/29/ba2978d19cc2277ed9fe22f8c9e11331.png"
+      },
+      {
+        "comment_id": 25263450,
+        "uid": 102495445,
+        "content": "这画风也太逼真了",
+        "createtime": 1584201977,
+        "nickname": "qzuser65824730",
+        "avatar": "https://avatar.dmzj.com/5a/95/5a9520b363ec5352466e9ba43e4fae88.png"
+      }
+    ]
+  }
+}

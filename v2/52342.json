@@ -1,0 +1,80 @@
+{
+  "id": 52342,
+  "islong": 2,
+  "direction": 1,
+  "title": "古典的机器人女孩",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/gdjqnh015.jpg",
+  "description": "加藤拓弍的推特短篇",
+  "last_updatetime": 1581753142,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 1593596,
+  "hit_num": 66736,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2487,
+      "tag_name": "加藤拓弍"
+    }
+  ],
+  "subscribe_num": 7170,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97320,
+          "chapter_title": "2话",
+          "updatetime": 1581753142,
+          "filesize": 807049,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 97307,
+          "chapter_title": "1话",
+          "updatetime": 1581746239,
+          "filesize": 1169801,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 315,
+    "latest_comment": [
+      {
+        "comment_id": 29936988,
+        "uid": 108051113,
+        "content": "诶，诶……？",
+        "createtime": 1598365718,
+        "nickname": "dmzj_108051113",
+        "avatar": "https://avatar.dmzj.com/32/ce/32ce036fef375ffe90277aad407f4d6f.png"
+      },
+      {
+        "comment_id": 29325632,
+        "uid": 109157532,
+        "content": "阿西莫夫：摩多摩多",
+        "createtime": 1596075453,
+        "nickname": "阿瓦隆的赞歌",
+        "avatar": "https://avatar.dmzj.com/79/c5/79c51074a2302cd2d066f22b3c477990.png"
+      }
+    ]
+  }
+}

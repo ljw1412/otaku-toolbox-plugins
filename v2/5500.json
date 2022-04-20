@@ -1,0 +1,73 @@
+{
+  "id": 5500,
+  "islong": 2,
+  "direction": 1,
+  "title": "星之沙漠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/31_f9229ed2982a9451e38cdbdaf730c586.jpg",
+  "description": "船户明里爱情漫画",
+  "last_updatetime": 1281941070,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 91254,
+  "hit_num": 1177498,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2459,
+      "tag_name": "船户明里"
+    }
+  ],
+  "subscribe_num": 469,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12386,
+          "chapter_title": "1卷",
+          "updatetime": 1282545870,
+          "filesize": 27383035,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 27787141,
+        "uid": 10277297,
+        "content": "期待(๑˙ー˙๑)",
+        "createtime": 1590765387,
+        "nickname": "飞鲸",
+        "avatar": "https://avatar.dmzj.com/66/72/66727a7e4b30adbaa044938645c26785.png"
+      },
+      {
+        "comment_id": 26697884,
+        "uid": 105218040,
+        "content": "意识流@_@",
+        "createtime": 1587476381,
+        "nickname": "VFYWUWUWHDW",
+        "avatar": "https://avatar.dmzj.com/cb/11/cb1128c720e27f49573d223fcd891d5c.png"
+      }
+    ]
+  }
+}

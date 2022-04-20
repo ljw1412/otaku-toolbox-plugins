@@ -1,0 +1,83 @@
+{
+  "id": 52609,
+  "islong": 2,
+  "direction": 1,
+  "title": "打猫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/200228damao.jpg",
+  "description": "你现在，在这世界上幸福吗？",
+  "last_updatetime": 1587802123,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 885151,
+  "hit_num": 313043,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17350,
+      "tag_name": "净土るる"
+    }
+  ],
+  "subscribe_num": 3939,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97298,
+          "chapter_title": "3话",
+          "updatetime": 1587802123,
+          "filesize": 9154610,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 96276,
+          "chapter_title": "2话",
+          "updatetime": 1585967436,
+          "filesize": 7994563,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94735,
+          "chapter_title": "1话",
+          "updatetime": 1582858214,
+          "filesize": 6210183,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 257,
+    "latest_comment": [
+      {
+        "comment_id": 30018333,
+        "uid": 111404324,
+        "content": "立意太浅，这种话题普通作者还是别碰为好（+1）",
+        "createtime": 1598679573,
+        "nickname": "dmzj_111404324",
+        "avatar": "https://avatar.dmzj.com/95/63/9563a585b0f394ad32596eeb4dadbfd4.png"
+      },
+      {
+        "comment_id": 29756586,
+        "uid": 111272902,
+        "content": "猫是来自海里的，所以是不是要叫做……",
+        "createtime": 1597690684,
+        "nickname": "dmzj_111272902",
+        "avatar": "https://avatar.dmzj.com/be/58/be58cfa65a4d3df52fa98d38aa571c88.png"
+      }
+    ]
+  }
+}

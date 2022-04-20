@@ -1,0 +1,83 @@
+{
+  "id": 7553,
+  "islong": 2,
+  "direction": 2,
+  "title": "绿巨人大闹拉斯维加斯",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/ljrdnlswjs.jpg",
+  "description": "绿巨人系类 \n",
+  "last_updatetime": 1316412737,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 4161904,
+  "hit_num": 351939,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 19683,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 15619,
+          "chapter_title": "3卷",
+          "updatetime": 1316412737,
+          "filesize": 4065521,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 15088,
+          "chapter_title": "2卷",
+          "updatetime": 1311229267,
+          "filesize": 2793299,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 15083,
+          "chapter_title": "1卷",
+          "updatetime": 1311151208,
+          "filesize": 2872059,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 1516798,
+        "uid": 101181231,
+        "content": "石头人的一个玩笑话，结果造成了一个大悲剧",
+        "createtime": 1480407289,
+        "nickname": "槑槑槑槑槑槑槑槑槑槑槑槑",
+        "avatar": "https://avatar.dmzj.com/be/9c/be9c6d2db7501f770e12905e03c7c4a1.png"
+      },
+      {
+        "comment_id": 1318838,
+        "uid": 102026505,
+        "content": "所以把浩克射到太空是石头人的馊主意",
+        "createtime": 1475041021,
+        "nickname": "ICACAP",
+        "avatar": "https://avatar.dmzj.com/46/71/4671c3c6c736f91ec1deebd702892b94.png"
+      }
+    ]
+  }
+}

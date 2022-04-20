@@ -1,0 +1,124 @@
+{
+  "id": 50610,
+  "islong": 2,
+  "direction": 1,
+  "title": "四格",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1092990581570804442.jpg",
+  "description": "四格宇宙中的小故事",
+  "last_updatetime": 1591026791,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 10164,
+  "hit_num": 1625,
+  "uid": 109299058,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17247,
+      "tag_name": "自我补全计划"
+    }
+  ],
+  "subscribe_num": 39,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 103153,
+          "chapter_title": "5话",
+          "updatetime": 1591026791,
+          "filesize": 466425,
+          "chapter_order": 8
+        },
+        {
+          "chapter_id": 96206,
+          "chapter_title": "圣诞节快乐！",
+          "updatetime": 1577199314,
+          "filesize": 103073,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 95322,
+          "chapter_title": "4话",
+          "updatetime": 1574527920,
+          "filesize": 532857,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 94611,
+          "chapter_title": "3话",
+          "updatetime": 1572487787,
+          "filesize": 245528,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 94614,
+          "chapter_title": "万圣节快乐！",
+          "updatetime": 1572487571,
+          "filesize": 111222,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 94086,
+          "chapter_title": "番外01",
+          "updatetime": 1571157078,
+          "filesize": 338881,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 94062,
+          "chapter_title": "2话",
+          "updatetime": 1571118415,
+          "filesize": 293962,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 93985,
+          "chapter_title": "1话",
+          "updatetime": 1570801020,
+          "filesize": 251912,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "谢谢大家关注，这里是一个业余爱好者，请多批评指正。不定时更新，微信公众号/微博@自我补全计划",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 21808281,
+        "uid": 16853746,
+        "content": "万圣节快乐",
+        "createtime": 1572537716,
+        "nickname": "专职抗原提呈细胞",
+        "avatar": "https://avatar.dmzj.com/96/34/96348bf4946345a50bb5aa8fe565c23c.png"
+      },
+      {
+        "comment_id": 21791888,
+        "uid": 109299058,
+        "content": "暗中观察",
+        "createtime": 1572487901,
+        "nickname": "自我补全计划",
+        "avatar": "https://avatar.dmzj.com/65/44/6544f1065b69fb477462b61dfc914029.png"
+      }
+    ]
+  }
+}

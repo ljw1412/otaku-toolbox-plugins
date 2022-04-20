@@ -1,0 +1,73 @@
+{
+  "id": 53122,
+  "islong": 2,
+  "direction": 1,
+  "title": "Fantastic Summer vacation",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/200321fsv.jpg",
+  "description": "由幻想乡的夏天日常与荷取和文的红魔馆地下冒险组成的故事",
+  "last_updatetime": 1584760461,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 45747,
+  "hit_num": 5953,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6068,
+      "tag_name": "濑尾辰也"
+    },
+    {
+      "tag_id": 14260,
+      "tag_name": "伍长"
+    }
+  ],
+  "subscribe_num": 213,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98983,
+          "chapter_title": "1话",
+          "updatetime": 1584760461,
+          "filesize": 6056801,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 27481161,
+        "uid": 105149614,
+        "content": "荷取被魔理沙带坏了（悲",
+        "createtime": 1589800440,
+        "nickname": "L656256",
+        "avatar": "https://avatar.dmzj.com/1b/5b/1b5bd9c88e4403723e4a0e3d7d7431a4.png"
+      },
+      {
+        "comment_id": 26333687,
+        "uid": 101066775,
+        "content": "霖之助真特么惨",
+        "createtime": 1586544498,
+        "nickname": "来ケ谷唯湖",
+        "avatar": "https://avatar.dmzj.com/7d/83/7d839131a6a362b835e183b2310d83da.png"
+      }
+    ]
+  }
+}

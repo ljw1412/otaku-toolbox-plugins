@@ -1,0 +1,79 @@
+{
+  "id": 53422,
+  "islong": 2,
+  "direction": 1,
+  "title": "异脑-Brain Connect",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/yinaoba0404.jpg",
+  "description": "刊载于少年ジャンプ＋ 2020年03月20日",
+  "last_updatetime": 1585930020,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yinaobrainconnect",
+  "hidden": 0,
+  "hot_num": 876043,
+  "hit_num": 221410,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99605,
+  "types": [
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19442,
+      "tag_name": "今学"
+    }
+  ],
+  "subscribe_num": 3555,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99605,
+          "chapter_title": "1话",
+          "updatetime": 1585930020,
+          "filesize": 10813550,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 58,
+    "latest_comment": [
+      {
+        "comment_id": 29885642,
+        "uid": 105311992,
+        "content": "虽然有这样的能力是不错 但是会和很痛苦的",
+        "createtime": 1598186162,
+        "nickname": "反水咕噜噜",
+        "avatar": "https://avatar.dmzj.com/73/47/7347226347a2c7a0aea2a18b247c0026.png"
+      },
+      {
+        "comment_id": 29333683,
+        "uid": 111070575,
+        "content": "d   m       z    j",
+        "createtime": 1596108473,
+        "nickname": "dmzj_111070575",
+        "avatar": "https://avatar.dmzj.com/60/04/60046f70fedcc375784bd53cab00979c.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

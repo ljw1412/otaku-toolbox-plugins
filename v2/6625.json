@@ -1,0 +1,75 @@
+{
+  "id": 6625,
+  "islong": 2,
+  "direction": 2,
+  "title": "哈比人历险记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/The_Hobbit-000_58ad945c480e4c675e37b8b93a2f1a0e.jpg",
+  "description": "《魔戒》（The Lord of the Rings）的前传，J. R. R. 托尔金的第一部成名作品。 The Hobbit讲述的是比尔博·巴金斯（Bilbo Baggins）的冒险故事，内容或许大家都已经很熟悉。这是一个知足、无甚野心的哈比人，一天被甘道夫（Gandalf）“陷害”加入了一场意想不到的冒险…… The Hobbit的连环画或曰图像小说，绘制发行于1989年，最初分为三卷发行。1990年1月起合为一卷发行，在此之后市场上印刷出售的都是后一种单行本。",
+  "last_updatetime": 1288449837,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "habirenlixianji",
+  "hidden": 0,
+  "hot_num": 24194,
+  "hit_num": 745410,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13768,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3560,
+      "tag_name": "J. R. R. Tolkien"
+    }
+  ],
+  "subscribe_num": 124,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13768,
+          "chapter_title": "1卷",
+          "updatetime": 1289054637,
+          "filesize": 17073649,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 26855340,
+        "uid": 110639943,
+        "content": "画风好可爱",
+        "createtime": 1587888357,
+        "nickname": "webhead",
+        "avatar": "https://avatar.dmzj.com/49/54/495421a5de99c1faca006b820a0049bf.png"
+      },
+      {
+        "comment_id": 25274931,
+        "uid": 104254300,
+        "content": "不错，翻译都差不多，阅读起来没有影响",
+        "createtime": 1584234338,
+        "nickname": "blackpharaoh",
+        "avatar": "https://avatar.dmzj.com/af/06/af065f61e51777a87e4ecdc5693c3ac4.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

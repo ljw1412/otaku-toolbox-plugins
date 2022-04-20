@@ -1,0 +1,75 @@
+{
+  "id": 7421,
+  "islong": 2,
+  "direction": 1,
+  "title": "匹斯的工作",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/pisidegongzuo.jpg",
+  "description": "我与那个女孩与那只猫\n将心与心交织在一起的工作总算完成了",
+  "last_updatetime": 1307350146,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "p",
+  "comic_py": "pisidegongzuo",
+  "hidden": 0,
+  "hot_num": 19417,
+  "hit_num": 233989,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 13643,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 258,
+      "tag_name": "五十岚あぐり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 107,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13643,
+          "chapter_title": "1话",
+          "updatetime": 1307350146,
+          "filesize": 3453693,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 419063,
+        "uid": 24017034,
+        "content": "神助攻的猫",
+        "createtime": 1435346486,
+        "nickname": "别人叫我哈哈",
+        "avatar": "https://avatar.dmzj.com/49/58/4958534220456b6afc8487e0b885bc59.png"
+      },
+      {
+        "comment_id": 14140,
+        "uid": 12267470,
+        "content": "同感+1",
+        "createtime": 1308241445,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "is_need_login": 0
+}

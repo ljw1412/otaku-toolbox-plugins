@@ -1,0 +1,88 @@
+{
+  "id": 51107,
+  "islong": 2,
+  "direction": 1,
+  "title": "漫画社",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1016848271595248968.jpg",
+  "description": "漫画社团里的奇妙故事",
+  "last_updatetime": 1596507559,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 6705,
+  "hit_num": 1446,
+  "uid": 101684827,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13365,
+      "tag_name": "黄逗"
+    }
+  ],
+  "subscribe_num": 27,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 105173,
+          "chapter_title": "4话",
+          "updatetime": 1596507559,
+          "filesize": 2582875,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 105172,
+          "chapter_title": "3话",
+          "updatetime": 1596507242,
+          "filesize": 2654530,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 104736,
+          "chapter_title": "2话",
+          "updatetime": 1595660825,
+          "filesize": 3197059,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 104122,
+          "chapter_title": "1话",
+          "updatetime": 1594390519,
+          "filesize": 3314968,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "高考终于考完啦，近期尽量多更新",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 22170789,
+        "uid": 102550609,
+        "content": "还行",
+        "createtime": 1574015973,
+        "nickname": "中二病也要谈恋爱27262",
+        "avatar": "https://avatar.dmzj.com/f9/48/f948043b72112d807657cb0e1e64bb7f.png"
+      }
+    ]
+  }
+}

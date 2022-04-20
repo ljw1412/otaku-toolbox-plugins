@@ -1,0 +1,69 @@
+{
+  "id": 50110,
+  "islong": 2,
+  "direction": 1,
+  "title": "阿咧？好像是怀孕了？！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/190914hxhyl.jpg",
+  "description": "用非常可爱的画风讲了非常（）的故事 话说作者你这么欺负受兔，良心不会作痛的么",
+  "last_updatetime": 1568431849,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 55846,
+  "hit_num": 28683,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17836,
+      "tag_name": "いちこ"
+    }
+  ],
+  "subscribe_num": 249,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93145,
+          "chapter_title": "1话",
+          "updatetime": 1568431849,
+          "filesize": 2563586,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 25782094,
+        "uid": 104415992,
+        "content": "按老老鼠的繁殖速度。。。。一年之内应该就可以变成异变吧",
+        "createtime": 1585387565,
+        "nickname": "依神妹红",
+        "avatar": "https://avatar.dmzj.com/40/38/4038a5b7a4124fed5d1b21fa439b0f3a.png"
+      },
+      {
+        "comment_id": 21557133,
+        "uid": 104415992,
+        "content": "人不可以，至少不应该",
+        "createtime": 1571719770,
+        "nickname": "依神妹红",
+        "avatar": "https://avatar.dmzj.com/40/38/4038a5b7a4124fed5d1b21fa439b0f3a.png"
+      }
+    ]
+  }
+}

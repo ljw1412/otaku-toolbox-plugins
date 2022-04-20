@@ -1,0 +1,76 @@
+{
+  "id": 50203,
+  "islong": 2,
+  "direction": 1,
+  "title": "赤石路代最爱精选",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/190919csldzajx.jpg",
+  "description": "赤石路代老師的早期短篇作品",
+  "last_updatetime": 1568857230,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 489211,
+  "hit_num": 480620,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 104,
+      "tag_name": "赤石路代"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2286,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88339,
+          "chapter_title": "2卷",
+          "updatetime": 1568857230,
+          "filesize": 37751639,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 88338,
+          "chapter_title": "1卷",
+          "updatetime": 1568857202,
+          "filesize": 39969218,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 29198286,
+        "uid": 104917412,
+        "content": "原来赤石路代也有这么清新的漫画",
+        "createtime": 1595613002,
+        "nickname": "스타가 팬클럽",
+        "avatar": "https://avatar.dmzj.com/53/49/534954be2cbd6d2d2b4a1d7b4420a020.png"
+      },
+      {
+        "comment_id": 21715939,
+        "uid": 105101728,
+        "content": "经典老物",
+        "createtime": 1572220981,
+        "nickname": "七星续命路灯",
+        "avatar": "https://avatar.dmzj.com/0d/09/0d097fa9335e23f6dc296d7a9bc93e4a.png"
+      }
+    ]
+  }
+}

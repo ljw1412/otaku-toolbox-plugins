@@ -1,0 +1,76 @@
+{
+  "id": 8736,
+  "islong": 2,
+  "direction": 1,
+  "title": "疯狂世界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/fenkuanshijie.jpg",
+  "description": "臼井义人作品集",
+  "last_updatetime": 1336112715,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 95483,
+  "hit_num": 640010,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3383,
+      "tag_name": "臼井仪人"
+    }
+  ],
+  "subscribe_num": 479,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 16863,
+          "chapter_title": "2话",
+          "updatetime": 1336112715,
+          "filesize": 12480160,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 16862,
+          "chapter_title": "1话",
+          "updatetime": 1336112571,
+          "filesize": 14670352,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 14339237,
+        "uid": 107371042,
+        "content": "哈哈哈哈哈哈哈简直傻屌",
+        "createtime": 1555285487,
+        "nickname": "一天一火",
+        "avatar": "https://avatar.dmzj.com/80/92/80929183cc6c398723ad8db2efb2339d.png"
+      },
+      {
+        "comment_id": 3917641,
+        "uid": 100878357,
+        "content": "疯狂",
+        "createtime": 1519076380,
+        "nickname": "拿铁锤砸裤裆",
+        "avatar": "https://avatar.dmzj.com/09/8e/098e42da2cd6ad45b32b14e79c345a2e.png"
+      }
+    ]
+  }
+}

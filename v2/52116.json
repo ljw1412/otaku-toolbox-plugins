@@ -1,0 +1,77 @@
+{
+  "id": 52116,
+  "islong": 2,
+  "direction": 2,
+  "title": "盗人讲座～自由之物～",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/drjzzyzw0202.jpg",
+  "description": "自由，我想要自由，不受他人、血统、使命给拘束， 我，想成为「自由」的化身(跳舞)",
+  "last_updatetime": 1580630517,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 357788,
+  "hit_num": 2271,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 18522,
+      "tag_name": "AA"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15597,
+      "tag_name": "山羊先生"
+    }
+  ],
+  "subscribe_num": 1602,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98565,
+          "chapter_title": "1话",
+          "updatetime": 1580630517,
+          "filesize": 2945225,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 29210100,
+        "uid": 111070541,
+        "content": "make fire ",
+        "createtime": 1595673583,
+        "nickname": "dmzj_111070541",
+        "avatar": "https://avatar.dmzj.com/ae/7c/ae7c19c274d0352acc29fc0ab344992f.png"
+      },
+      {
+        "comment_id": 23746596,
+        "uid": 19594076,
+        "content": "原来已经上传了啊，我才发现（池沼）",
+        "createtime": 1580732362,
+        "nickname": "本萌新，非洲人",
+        "avatar": "https://avatar.dmzj.com/71/fb/71fbaa509a873babf02cb6a142040b45.png"
+      }
+    ]
+  }
+}

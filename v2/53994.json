@@ -1,0 +1,73 @@
+{
+  "id": 53994,
+  "islong": 2,
+  "direction": 1,
+  "title": "银杏·低速移动",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/dsyd20200501.jpg",
+  "description": "幻想乡里各位的慵懒日常",
+  "last_updatetime": 1588310965,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 56027,
+  "hit_num": 4963,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5514,
+      "tag_name": "水炊き"
+    }
+  ],
+  "subscribe_num": 262,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97614,
+          "chapter_title": "1话",
+          "updatetime": 1588310965,
+          "filesize": 2888716,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 27087234,
+        "uid": 107098002,
+        "content": "水炊老师的第一作呢",
+        "createtime": 1588557319,
+        "nickname": "MarisaDaze",
+        "avatar": "https://avatar.dmzj.com/33/49/3349176b629412b493d517844296ed81.png"
+      },
+      {
+        "comment_id": 27025499,
+        "uid": 104244090,
+        "content": "数雨点消磨时光这种操作大概只有蓝能做到了罢",
+        "createtime": 1588384556,
+        "nickname": "荒野求生81543",
+        "avatar": "https://avatar.dmzj.com/c6/ae/c6ae437187668b88b4ad6f7cfc06e537.png"
+      }
+    ]
+  }
+}

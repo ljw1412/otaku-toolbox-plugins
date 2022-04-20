@@ -1,0 +1,73 @@
+{
+  "id": 50281,
+  "islong": 2,
+  "direction": 1,
+  "title": "The First Episode",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/TheFirstEpisode0924.jpg",
+  "description": "讲述双七初遇的事。",
+  "last_updatetime": 1569290956,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 98709,
+  "hit_num": 17433,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 15494,
+      "tag_name": "YU"
+    }
+  ],
+  "subscribe_num": 458,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93074,
+          "chapter_title": "1话",
+          "updatetime": 1569290956,
+          "filesize": 7047532,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 24339109,
+        "uid": 107672210,
+        "content": "不是帕秋莉大人你旁边不就有个来自魔界的小恶魔吗？",
+        "createtime": 1582185235,
+        "nickname": "承太郎必秒Dio",
+        "avatar": "https://avatar.dmzj.com/61/72/617257e10349aaa2cd6206ee575e0540.png"
+      },
+      {
+        "comment_id": 21828090,
+        "uid": 107162232,
+        "content": "好看",
+        "createtime": 1572617023,
+        "nickname": "西红柿鸡蛋",
+        "avatar": "https://avatar.dmzj.com/90/08/900801c4e84a7f7adeaa3ad454b9a1c3.png"
+      }
+    ]
+  }
+}

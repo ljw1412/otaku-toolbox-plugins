@@ -1,0 +1,79 @@
+{
+  "id": 52669,
+  "islong": 2,
+  "direction": 1,
+  "title": "涂鸦学艺会2017",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/tuya220200301.jpg",
+  "description": "由9位作家编辑的原创短篇同人志集。 参与作者： 若林稔弥, 上倉エク, カツヲ, 佐保, 田辺ゆがた, 寺田てら, ハトポポコ, 東田裕介, 模造クリスタル / ナンバーナイン",
+  "last_updatetime": 1583065511,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tuyaxueyihuierlingyiqi",
+  "hidden": 0,
+  "hot_num": 135949,
+  "hit_num": 3180,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94847,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 439,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94847,
+          "chapter_title": "1话",
+          "updatetime": 1583065511,
+          "filesize": 3338639,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 24767376,
+        "uid": 104184055,
+        "content": "超级可爱啊，小魔女",
+        "createtime": 1583125867,
+        "nickname": "Gwenoline",
+        "avatar": "https://avatar.dmzj.com/f6/83/f683a2c4e3cb730a7c1cbd9f8fc0efe1.png"
+      },
+      {
+        "comment_id": 24743011,
+        "uid": 100881346,
+        "content": "康康",
+        "createtime": 1583075484,
+        "nickname": "东方星夜空",
+        "avatar": "https://avatar.dmzj.com/52/85/52856aaf7707e8e0c217d14ee5ec6c5a.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

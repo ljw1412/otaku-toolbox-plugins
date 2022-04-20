@@ -1,0 +1,111 @@
+{
+  "id": 51579,
+  "islong": 2,
+  "direction": 1,
+  "title": "姬雏同人漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/191223hhtrmh.jpg",
+  "description": "即使是不懂Vtuber的人也能看懂的贴贴漫画",
+  "last_updatetime": 1586526433,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 1194035,
+  "hit_num": 135017,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18505,
+      "tag_name": "夏井まこと"
+    }
+  ],
+  "subscribe_num": 5434,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96594,
+          "chapter_title": "7话",
+          "updatetime": 1586526433,
+          "filesize": 336542,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 96211,
+          "chapter_title": "6话",
+          "updatetime": 1585805473,
+          "filesize": 976773,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 96066,
+          "chapter_title": "5话",
+          "updatetime": 1585571410,
+          "filesize": 1016575,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 96052,
+          "chapter_title": "4话",
+          "updatetime": 1585543919,
+          "filesize": 371509,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 96062,
+          "chapter_title": "3话",
+          "updatetime": 1585560318,
+          "filesize": 3119582,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 92422,
+          "chapter_title": "2话",
+          "updatetime": 1577257810,
+          "filesize": 2476315,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 96061,
+          "chapter_title": "1话",
+          "updatetime": 1585560301,
+          "filesize": 3521009,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 232,
+    "latest_comment": [
+      {
+        "comment_id": 29898606,
+        "uid": 108726471,
+        "content": "贴贴！",
+        "createtime": 1598230867,
+        "nickname": "dmzj_108726471",
+        "avatar": "https://avatar.dmzj.com/15/32/1532b9872a8a23e57c237946a1ca0fc7.png"
+      },
+      {
+        "comment_id": 29352873,
+        "uid": 110259349,
+        "content": "姬雏赛高!",
+        "createtime": 1596177322,
+        "nickname": "好有hy",
+        "avatar": "https://avatar.dmzj.com/94/10/9410c724029c42a2677f2be71e072cfb.png"
+      }
+    ]
+  }
+}

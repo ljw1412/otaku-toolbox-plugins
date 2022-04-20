@@ -1,0 +1,107 @@
+{
+  "id": 50101,
+  "islong": 2,
+  "direction": 1,
+  "title": "转生成为家里蹲公主",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/jialidungongzhu20190913.jpg",
+  "description": "少女还不知道，即使是以奇迹或是梦或是魔法，那独一无二的，“真正的爱”……",
+  "last_updatetime": 1591176405,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhuanshengchengweijldgz",
+  "hidden": 0,
+  "hot_num": 5533301,
+  "hit_num": 1813972,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 104422,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 5806,
+      "tag_name": "魔幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17835,
+      "tag_name": "志岐佳衣子"
+    }
+  ],
+  "subscribe_num": 21215,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 104422,
+          "chapter_title": "5话",
+          "updatetime": 1591176405,
+          "filesize": 2497983,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 104020,
+          "chapter_title": "4话",
+          "updatetime": 1590331875,
+          "filesize": 2701771,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 101933,
+          "chapter_title": "3话",
+          "updatetime": 1586751177,
+          "filesize": 4583273,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 98598,
+          "chapter_title": "2话",
+          "updatetime": 1580700871,
+          "filesize": 4404449,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 92729,
+          "chapter_title": "1话",
+          "updatetime": 1568387891,
+          "filesize": 7752477,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 752,
+    "latest_comment": [
+      {
+        "comment_id": 29845102,
+        "uid": 106110406,
+        "content": "自闭女孩",
+        "createtime": 1598026289,
+        "nickname": "嘿嘿嘿真可爱",
+        "avatar": "https://avatar.dmzj.com/91/40/9140e2699381ad2b53343e42e99495b0.png"
+      },
+      {
+        "comment_id": 29796560,
+        "uid": 109322989,
+        "content": "快去广场上运动。",
+        "createtime": 1597851706,
+        "nickname": "dmzj_109322989",
+        "avatar": "https://avatar.dmzj.com/85/22/85227f1ca5d39f1f777f8538c72c68ce.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

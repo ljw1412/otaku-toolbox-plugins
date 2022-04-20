@@ -1,0 +1,103 @@
+{
+  "id": 52437,
+  "islong": 2,
+  "direction": 1,
+  "title": "变与乱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/byl2020220.jpg",
+  "description": "再见了、极致矮小卑微地活着的曾经的我——",
+  "last_updatetime": 1598210230,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bianyuluan",
+  "hidden": 0,
+  "hot_num": 4220846,
+  "hit_num": 706787,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 106203,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16087,
+      "tag_name": "しおやてるこ"
+    }
+  ],
+  "subscribe_num": 14375,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 106203,
+          "chapter_title": "5话",
+          "updatetime": 1598210230,
+          "filesize": 3729655,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 104769,
+          "chapter_title": "4话",
+          "updatetime": 1595769764,
+          "filesize": 6004243,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 101453,
+          "chapter_title": "3话",
+          "updatetime": 1589462019,
+          "filesize": 5287026,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 100699,
+          "chapter_title": "2话",
+          "updatetime": 1587922949,
+          "filesize": 3504856,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 97559,
+          "chapter_title": "1话",
+          "updatetime": 1582192681,
+          "filesize": 2944644,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1029,
+    "latest_comment": [
+      {
+        "comment_id": 30014596,
+        "uid": 109789326,
+        "content": "凉子，你要好好活着活到最后，就够了。",
+        "createtime": 1598660638,
+        "nickname": "Sappho",
+        "avatar": "https://avatar.dmzj.com/36/04/36041f60ddce22939678358215a4284e.png"
+      },
+      {
+        "comment_id": 30014574,
+        "uid": 109789326,
+        "content": "嘿嘿嘿",
+        "createtime": 1598660538,
+        "nickname": "Sappho",
+        "avatar": "https://avatar.dmzj.com/36/04/36041f60ddce22939678358215a4284e.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

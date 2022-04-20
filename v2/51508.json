@@ -1,0 +1,93 @@
+{
+  "id": 51508,
+  "islong": 2,
+  "direction": 2,
+  "title": "边境小托管",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1099558601576479414.jpg",
+  "description": "一个边境的小县城，一个新建的学校，一个新开的托管，讲述关于孩子的一切！",
+  "last_updatetime": 1577974763,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 6521,
+  "hit_num": 1384,
+  "uid": 109955860,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18480,
+      "tag_name": "中年油腻大叔"
+    }
+  ],
+  "subscribe_num": 25,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91823,
+          "chapter_title": "3话",
+          "updatetime": 1577974763,
+          "filesize": 1385028,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 91473,
+          "chapter_title": "2话",
+          "updatetime": 1576819505,
+          "filesize": 1479230,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 91300,
+          "chapter_title": "1话",
+          "updatetime": 1576479583,
+          "filesize": 2225983,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 24585264,
+        "uid": 100758723,
+        "content": "当科普看",
+        "createtime": 1582781632,
+        "nickname": "偏号大神棍",
+        "avatar": "https://avatar.dmzj.com/41/75/4175cf52f52bebe61d7c1e4255be19f0.png"
+      },
+      {
+        "comment_id": 23043470,
+        "uid": 105628792,
+        "content": "里面人的眼睛有点厉害。。。",
+        "createtime": 1578060685,
+        "nickname": "Mua85352",
+        "avatar": "https://avatar.dmzj.com/31/44/3144f4179c0a094094aeeb534eeab120.png"
+      }
+    ]
+  }
+}

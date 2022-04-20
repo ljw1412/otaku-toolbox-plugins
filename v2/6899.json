@@ -1,0 +1,111 @@
+{
+  "id": 6899,
+  "islong": 2,
+  "direction": 1,
+  "title": "电脑奇侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/_CCH0s_97af25de42b99a58ef585b7c68a3f7ca.jpg",
+  "description": "石森章太郎的《电脑奇侠》第一部。",
+  "last_updatetime": 1290837738,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 430993,
+  "hit_num": 1412621,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1509,
+      "tag_name": "石之森章太郎"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1919,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13069,
+          "chapter_title": "7卷",
+          "updatetime": 1290837738,
+          "filesize": 19305929,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 13068,
+          "chapter_title": "6卷",
+          "updatetime": 1290837728,
+          "filesize": 19675480,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 13067,
+          "chapter_title": "5卷",
+          "updatetime": 1290837728,
+          "filesize": 18961825,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 13066,
+          "chapter_title": "4卷",
+          "updatetime": 1290837728,
+          "filesize": 19817187,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 13065,
+          "chapter_title": "3卷",
+          "updatetime": 1290837728,
+          "filesize": 19754380,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 13064,
+          "chapter_title": "2卷",
+          "updatetime": 1290837728,
+          "filesize": 19570805,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13063,
+          "chapter_title": "1卷",
+          "updatetime": 1290837728,
+          "filesize": 20231548,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 25109298,
+        "uid": 107549732,
+        "content": "大家好，我是来评论一下的,据说要长一点，不然会被清除,所以我试着把它弄成一点儿,希望不要经常被清除吧。",
+        "createtime": 1583845543,
+        "nickname": "dmzj_107549732",
+        "avatar": "https://avatar.dmzj.com/90/a6/90a6b7e329785bc2a50ba5b0973923ce.png"
+      },
+      {
+        "comment_id": 22771461,
+        "uid": 100481466,
+        "content": "经典回顾！",
+        "createtime": 1577012833,
+        "nickname": "竹田彩奈",
+        "avatar": "https://avatar.dmzj.com/70/34/7034b478afcb8940f1a5dda4afe405ab.png"
+      }
+    ]
+  }
+}

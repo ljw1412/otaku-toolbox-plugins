@@ -1,0 +1,80 @@
+{
+  "id": 50317,
+  "islong": 2,
+  "direction": 1,
+  "title": "樱花大爆炸",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/191017yinghuadazuozhan.jpg",
+  "description": "拥有各式各样奇怪发明的JK发明家与助手樱的欢乐四格小故事",
+  "last_updatetime": 1572007155,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 931935,
+  "hit_num": 26542,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17936,
+      "tag_name": "ゆうきそにすけ"
+    }
+  ],
+  "subscribe_num": 4415,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93566,
+          "chapter_title": "2话",
+          "updatetime": 1572007155,
+          "filesize": 1331050,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 93565,
+          "chapter_title": "1话",
+          "updatetime": 1572007134,
+          "filesize": 1376203,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 50,
+    "latest_comment": [
+      {
+        "comment_id": 22013849,
+        "uid": 108526578,
+        "content": "啊哈",
+        "createtime": 1573294205,
+        "nickname": "趣三",
+        "avatar": "https://avatar.dmzj.com/96/15/9615e035ed66f932de5adf0e383c8606.png"
+      },
+      {
+        "comment_id": 21751778,
+        "uid": 108093583,
+        "content": "炸友（梗）－博士你在干什么！",
+        "createtime": 1572348745,
+        "nickname": "该帐号正在被封禁中",
+        "avatar": "https://avatar.dmzj.com/24/63/24631d29e71cee48992c31ee2e5f1646.png"
+      }
+    ]
+  }
+}

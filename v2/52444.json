@@ -1,0 +1,73 @@
+{
+  "id": 52444,
+  "islong": 2,
+  "direction": 1,
+  "title": "归途之门",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/meamea0220.jpg",
+  "description": "我必须记住——",
+  "last_updatetime": 1582212500,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 98062,
+  "hit_num": 13888,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18986,
+      "tag_name": "esau escorza&michael moreci"
+    }
+  ],
+  "subscribe_num": 463,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94446,
+          "chapter_title": "1卷",
+          "updatetime": 1582212500,
+          "filesize": 2686178,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 29001715,
+        "uid": 104867773,
+        "content": "好看，所以多久更新一次啊",
+        "createtime": 1594920421,
+        "nickname": "一只萤火",
+        "avatar": "https://avatar.dmzj.com/83/82/8382d856c4d9573622c05ec35cdc35dc.png"
+      },
+      {
+        "comment_id": 26497398,
+        "uid": 107748983,
+        "content": "好看",
+        "createtime": 1586918993,
+        "nickname": "秋田月月",
+        "avatar": "https://avatar.dmzj.com/85/47/8547d9f3298fbe7a22cfd9be5bab5b08.png"
+      }
+    ]
+  }
+}

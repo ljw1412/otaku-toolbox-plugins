@@ -1,0 +1,83 @@
+{
+  "id": 53308,
+  "islong": 2,
+  "direction": 1,
+  "title": "不良女友和轻浮男友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/blnyyqfny0329.jpg",
+  "description": "这是一个不坦率又冷淡的女朋友和一个阳光开朗的男朋友之间的故事。",
+  "last_updatetime": 1586310684,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 2365326,
+  "hit_num": 150796,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18784,
+      "tag_name": "秦なつは"
+    }
+  ],
+  "subscribe_num": 11354,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96042,
+          "chapter_title": "3话",
+          "updatetime": 1586310684,
+          "filesize": 1351449,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 95681,
+          "chapter_title": "2话",
+          "updatetime": 1585707381,
+          "filesize": 1607781,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 95567,
+          "chapter_title": "1话",
+          "updatetime": 1585470466,
+          "filesize": 1468879,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 157,
+    "latest_comment": [
+      {
+        "comment_id": 30042448,
+        "uid": 105635917,
+        "content": "甜晕，标题完全不符嘛",
+        "createtime": 1598779426,
+        "nickname": "小鹿芸",
+        "avatar": "https://avatar.dmzj.com/44/18/4418d8836a068911adfecf6c513dfaed.png"
+      },
+      {
+        "comment_id": 29847087,
+        "uid": 101547898,
+        "content": "晕了 现在怎么都爱把狗骗进来撒啊",
+        "createtime": 1598029651,
+        "nickname": "南韩温拿",
+        "avatar": "https://avatar.dmzj.com/35/02/3502cb4118e75e234d09f6697070e5ca.png"
+      }
+    ]
+  }
+}

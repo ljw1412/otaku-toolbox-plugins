@@ -1,0 +1,90 @@
+{
+  "id": 5725,
+  "islong": 2,
+  "direction": 1,
+  "title": "无业游猫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/07_e4c35474e8ffaca132331d52f3fad4e8.jpg",
+  "description": "怎么能错过这么无厘头的猫咪漫画呢！北道正幸的可爱猫咪底下隐藏着对世道尖锐的讽刺。 \n",
+  "last_updatetime": 1282669306,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wuyeyoumao",
+  "hidden": 0,
+  "hot_num": 21410,
+  "hit_num": 371265,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12736,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3003,
+      "tag_name": "北道正幸"
+    }
+  ],
+  "subscribe_num": 136,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12736,
+          "chapter_title": "2卷",
+          "updatetime": 1283274107,
+          "filesize": 10409963,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 12735,
+          "chapter_title": "1卷",
+          "updatetime": 1283274107,
+          "filesize": 10383987,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 235230,
+        "uid": 245130,
+        "content": "好几年前看的，一直等后续，没想到居然当时就是第二卷完结！！！",
+        "createtime": 1399543754,
+        "nickname": "antengzhi",
+        "avatar": "https://avatar.dmzj.com/2d/5e/2d5e7e6064ca66fd72b4021134c979b4.png"
+      },
+      {
+        "comment_id": 81752,
+        "uid": 17552489,
+        "content": "沙发？",
+        "createtime": 1348063367,
+        "nickname": "梵烯",
+        "avatar": "https://avatar.dmzj.com/e9/be/e9be50b55fcce81003fc4b45161ef8b1.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,79 @@
+{
+  "id": 51160,
+  "islong": 2,
+  "direction": 2,
+  "title": "疯狂神父",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1075378051574313737.jpg",
+  "description": "多米诺神父与修女的搞笑日常。",
+  "last_updatetime": 1574313870,
+  "copyright": 1,
+  "first_letter": "f",
+  "hot_num": 13544,
+  "hit_num": 1423,
+  "uid": 107537805,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17074,
+      "tag_name": "红辣酱"
+    }
+  ],
+  "subscribe_num": 61,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95236,
+          "chapter_title": "1话",
+          "updatetime": 1574313870,
+          "filesize": 1026645,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 22242928,
+        "uid": 107262172,
+        "content": "有点意思",
+        "createtime": 1574388441,
+        "nickname": "江三浪不浪",
+        "avatar": "https://avatar.dmzj.com/92/4f/924f3b5efb1cf7f3ded991cd40d16056.png"
+      },
+      {
+        "comment_id": 22232917,
+        "uid": 105365971,
+        "content": "有鸟山明那味，赞",
+        "createtime": 1574335003,
+        "nickname": "qzuser82537471",
+        "avatar": "https://avatar.dmzj.com/33/17/3317a3c93564a0bef495e3f56788ac49.png"
+      }
+    ]
+  }
+}

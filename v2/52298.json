@@ -1,0 +1,94 @@
+{
+  "id": 52298,
+  "islong": 2,
+  "direction": 1,
+  "title": "我的未来在魔女之中",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/200212wdwlzmnzz.jpg",
+  "description": "自从某一天起，少年将太总是会做同一个梦，还能看到各种奇妙的生物在自己眼前游荡的幻觉。他感到一种难以名状的不安，可又无法对亲切待他的留学生安娜说出口……将太的身上到底发生了什么？安娜的身份到底是——！",
+  "last_updatetime": 1595425258,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 1865152,
+  "hit_num": 696473,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13860,
+      "tag_name": "なかだまお"
+    }
+  ],
+  "subscribe_num": 8698,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100888,
+          "chapter_title": "4话",
+          "updatetime": 1595425258,
+          "filesize": 9178104,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 100604,
+          "chapter_title": "3话",
+          "updatetime": 1594818848,
+          "filesize": 9475523,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 94675,
+          "chapter_title": "2话",
+          "updatetime": 1583946465,
+          "filesize": 10442089,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 93345,
+          "chapter_title": "1话",
+          "updatetime": 1581521530,
+          "filesize": 12567855,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 156,
+    "latest_comment": [
+      {
+        "comment_id": 29709893,
+        "uid": 109645210,
+        "content": "这个长相不像罗马尼亚的啊",
+        "createtime": 1597517143,
+        "nickname": "dmzj_109645210",
+        "avatar": "https://avatar.dmzj.com/da/8d/da8d849d99b5917947cd00a280876b2e.png"
+      },
+      {
+        "comment_id": 29367730,
+        "uid": 107740288,
+        "content": "可以有",
+        "createtime": 1596217811,
+        "nickname": "dmzj_107740288",
+        "avatar": "https://avatar.dmzj.com/6b/1b/6b1be114e05b577346720227ae1eac37.png"
+      }
+    ]
+  }
+}

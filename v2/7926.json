@@ -1,0 +1,111 @@
+{
+  "id": 7926,
+  "islong": 2,
+  "direction": 1,
+  "title": "频闪之域",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/pinshanzhiyu20111120.jpg",
+  "description": "独自在满月之下走着，一个人孤独等待死亡是十分寂寞的，不管有怎样的理由！死亡之后的游戏新连载！",
+  "last_updatetime": 1343407025,
+  "copyright": 0,
+  "first_letter": "p",
+  "hot_num": 12912,
+  "hit_num": 258254,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4229,
+      "tag_name": "月轮航介"
+    }
+  ],
+  "subscribe_num": 82,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 17723,
+          "chapter_title": "番外篇",
+          "updatetime": 1343407025,
+          "filesize": 1087994,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 17139,
+          "chapter_title": "5话",
+          "updatetime": 1338639232,
+          "filesize": 2747345,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 16431,
+          "chapter_title": "4话",
+          "updatetime": 1333091295,
+          "filesize": 1737942,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 15689,
+          "chapter_title": "3.5话",
+          "updatetime": 1327850364,
+          "filesize": 2230408,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 15142,
+          "chapter_title": "3话",
+          "updatetime": 1323187683,
+          "filesize": 1145155,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 15008,
+          "chapter_title": "2话",
+          "updatetime": 1321788835,
+          "filesize": 3840061,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 14857,
+          "chapter_title": "1话",
+          "updatetime": 1320029524,
+          "filesize": 4418659,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 220766,
+        "uid": 25103042,
+        "content": "还可以",
+        "createtime": 1396193173,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      },
+      {
+        "comment_id": 53404,
+        "uid": 12735254,
+        "content": "你不累吗？",
+        "createtime": 1333108675,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  }
+}

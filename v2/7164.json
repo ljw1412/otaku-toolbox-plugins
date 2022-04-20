@@ -1,0 +1,101 @@
+{
+  "id": 7164,
+  "islong": 2,
+  "direction": 2,
+  "title": "新终极联盟",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/xzjlm.jpg",
+  "description": "    一切仿佛都已经终结，无数英雄陨落。神奇四侠解散，X战警不复存在。变种人如同罪犯般被追杀，但世界依然需要保护。",
+  "last_updatetime": 1299740682,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 4275799,
+  "hit_num": 972044,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 20194,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13657,
+          "chapter_title": "5卷",
+          "updatetime": 1299740682,
+          "filesize": 2501897,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 13656,
+          "chapter_title": "4卷",
+          "updatetime": 1299740667,
+          "filesize": 2551574,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 13655,
+          "chapter_title": "3卷",
+          "updatetime": 1299740657,
+          "filesize": 4253224,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 13654,
+          "chapter_title": "2卷",
+          "updatetime": 1299740600,
+          "filesize": 3839448,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13653,
+          "chapter_title": "1卷",
+          "updatetime": 1299740584,
+          "filesize": 3694279,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 29735669,
+        "uid": 102217005,
+        "content": "不为别的就为了看海拉而来",
+        "createtime": 1597631299,
+        "nickname": "德州精神病医院王主任",
+        "avatar": "https://avatar.dmzj.com/29/23/292335362cca8e62bbe211d863198909.png"
+      },
+      {
+        "comment_id": 23742205,
+        "uid": 108886481,
+        "content": "死亡女神在生育方面难得这么有效率",
+        "createtime": 1580719198,
+        "nickname": "dmzj_108886481",
+        "avatar": "https://avatar.dmzj.com/36/75/3675f4d722bbd7ea2b2419f44b43b1d3.png"
+      }
+    ]
+  }
+}

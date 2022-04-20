@@ -1,0 +1,78 @@
+{
+  "id": 52883,
+  "islong": 1,
+  "direction": 2,
+  "title": "通过AA读三十六计",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1021364271583813933.jpg",
+  "description": "朋友，你听说过三十六计吗？",
+  "last_updatetime": 1583928784,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 33758,
+  "hit_num": 2832,
+  "uid": 102136427,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19174,
+      "tag_name": "石龙子"
+    }
+  ],
+  "subscribe_num": 137,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94698,
+          "chapter_title": "1话",
+          "updatetime": 1583928784,
+          "filesize": 456829,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 94593,
+          "chapter_title": "0话",
+          "updatetime": 1583824775,
+          "filesize": 500516,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 27704249,
+        "uid": 20529987,
+        "content": "可以，学到了",
+        "createtime": 1590496216,
+        "nickname": "ass554488",
+        "avatar": "https://avatar.dmzj.com/20/ac/20ace6a5bd34c16dab74b32e6548fcff.png"
+      },
+      {
+        "comment_id": 26180493,
+        "uid": 107589356,
+        "content": "大佬",
+        "createtime": 1586242669,
+        "nickname": "好的我知道了",
+        "avatar": "https://avatar.dmzj.com/29/42/2942b8988d9a0a9b5ac979e97b59039b.png"
+      }
+    ]
+  }
+}

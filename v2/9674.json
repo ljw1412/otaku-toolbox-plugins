@@ -1,0 +1,110 @@
+{
+  "id": 9674,
+  "islong": 2,
+  "direction": 1,
+  "title": "Ghost☆Walker",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/ghostwalker.jpg",
+  "description": "帅气3人组（？？？）赌上生命的幽灵猎人生活开始！ CL.B的博客http://blog.sina.com.cn/classbianca  ",
+  "last_updatetime": 1369794860,
+  "last_update_chapter_name": "番外",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "ghostwalker",
+  "hidden": 0,
+  "hot_num": 38358,
+  "hit_num": 677412,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22144,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5129,
+      "tag_name": "樱惠美"
+    }
+  ],
+  "subscribe_num": 196,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22144,
+          "chapter_title": "番外",
+          "updatetime": 1369794860,
+          "filesize": 358223,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 21787,
+          "chapter_title": "5话",
+          "updatetime": 1368072851,
+          "filesize": 4971676,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 20721,
+          "chapter_title": "4话",
+          "updatetime": 1362474802,
+          "filesize": 4835229,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 20382,
+          "chapter_title": "3话",
+          "updatetime": 1359736110,
+          "filesize": 4111003,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 19800,
+          "chapter_title": "2话",
+          "updatetime": 1355985215,
+          "filesize": 4937460,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 19438,
+          "chapter_title": "1话",
+          "updatetime": 1352362613,
+          "filesize": 5146643,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 1170503,
+        "uid": 101661465,
+        "content": "作者是弃坑吗！占位增评论",
+        "createtime": 1471365967,
+        "nickname": "听闻",
+        "avatar": "https://avatar.dmzj.com/96/40/9640e2f5080993dfc202966ad10a750b.png"
+      },
+      {
+        "comment_id": 1170500,
+        "uid": 101661465,
+        "content": "…这是多久以前的漫画了",
+        "createtime": 1471365926,
+        "nickname": "听闻",
+        "avatar": "https://avatar.dmzj.com/96/40/9640e2f5080993dfc202966ad10a750b.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

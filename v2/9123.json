@@ -1,0 +1,104 @@
+{
+  "id": 9123,
+  "islong": 2,
+  "direction": 2,
+  "title": "圆环四侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/duye.jpg",
+  "description": "毒液系列，圆环四侠最新作品。 讲述圆环四侠开始。",
+  "last_updatetime": 1342766668,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 4349978,
+  "hit_num": 727095,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 19617,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 18531,
+          "chapter_title": "6卷",
+          "updatetime": 1342766668,
+          "filesize": 2132403,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 18530,
+          "chapter_title": "5卷",
+          "updatetime": 1342766661,
+          "filesize": 2106879,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 18529,
+          "chapter_title": "4卷",
+          "updatetime": 1342766639,
+          "filesize": 1786197,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 18528,
+          "chapter_title": "3卷",
+          "updatetime": 1342766625,
+          "filesize": 1992584,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 18527,
+          "chapter_title": "2卷",
+          "updatetime": 1342766615,
+          "filesize": 2811285,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 18526,
+          "chapter_title": "1卷",
+          "updatetime": 1342766605,
+          "filesize": 4943300,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 8478106,
+        "uid": 108369191,
+        "content": "小金刚狼!",
+        "createtime": 1543408817,
+        "nickname": "dmzj_108369191",
+        "avatar": "https://avatar.dmzj.com/0c/f6/0cf68300e08395e47ea4c68d1f8af1e3.png"
+      },
+      {
+        "comment_id": 635604,
+        "uid": 100481239,
+        "content": "毒液刊的其中一部分，挺喜欢这个临时组合的。",
+        "createtime": 1456090885,
+        "nickname": "AMD 恐龙X6 1090T",
+        "avatar": "https://avatar.dmzj.com/43/40/4340b208a7c0694d598276dc55995c8b.png"
+      }
+    ]
+  }
+}

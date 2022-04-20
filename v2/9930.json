@@ -1,0 +1,75 @@
+{
+  "id": 9930,
+  "islong": 2,
+  "direction": 1,
+  "title": "痕刃",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/hendao.jpg",
+  "description": "这是个人们与死为邻的时代，不愿接受现实的人们孕育出了狂气。全身都是伤口的男子・布雷德，随着这股狂气，追寻着扰乱世界之人……",
+  "last_updatetime": 1355937083,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hendao",
+  "hidden": 0,
+  "hot_num": 30532,
+  "hit_num": 716028,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21062,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5275,
+      "tag_name": "堂岛ノリヲ"
+    }
+  ],
+  "subscribe_num": 130,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21062,
+          "chapter_title": "1话",
+          "updatetime": 1355937083,
+          "filesize": 4834124,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 23515870,
+        "uid": 104345089,
+        "content": "就一话…",
+        "createtime": 1580010637,
+        "nickname": "小萌老师",
+        "avatar": "https://avatar.dmzj.com/b8/c0/b8c0f395d2527e2389ec878ee6cbe484.png"
+      },
+      {
+        "comment_id": 1803069,
+        "uid": 100707020,
+        "content": "挺好看的",
+        "createtime": 1486996282,
+        "nickname": "对傻子屏蔽",
+        "avatar": "https://avatar.dmzj.com/83/64/83645c842e7a5b148339ddccb6987636.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

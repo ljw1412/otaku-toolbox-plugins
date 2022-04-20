@@ -1,0 +1,77 @@
+{
+  "id": 49956,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔理沙酱Lv1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/mlsj.jpg",
+  "description": "金发的小女孩真可怜",
+  "last_updatetime": 1567566748,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 222504,
+  "hit_num": 6817,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5369,
+      "tag_name": "べにしゃけ"
+    }
+  ],
+  "subscribe_num": 1020,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92404,
+          "chapter_title": "1话",
+          "updatetime": 1567566748,
+          "filesize": 5574340,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 23805078,
+        "uid": 105025763,
+        "content": "掺杂主角组私货的瞎k我爱了",
+        "createtime": 1580893627,
+        "nickname": "雾雨里",
+        "avatar": "https://avatar.dmzj.com/47/45/47459dc9cfb6b14dd803d6248ab20762.png"
+      },
+      {
+        "comment_id": 23050593,
+        "uid": 108675039,
+        "content": "中和",
+        "createtime": 1578076410,
+        "nickname": "ElohimLee",
+        "avatar": "https://avatar.dmzj.com/39/06/3906710f44718cfe37583ba016c4a63a.png"
+      }
+    ]
+  }
+}

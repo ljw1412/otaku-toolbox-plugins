@@ -1,0 +1,100 @@
+{
+  "id": 5471,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔法游戏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/11_8f9b5897bace135239a727630709af64.jpg",
+  "description": "由於朋友的怂恿再加上电玩迷父亲的煽风点火，从来不玩电玩的黑矢心终於开始接触时下最热门的游戏 LUWON,然而玩过之后，他对游戏的态度仍然是无可无不可的不以为然.在一次的上学途中，心半开玩笑的念诵游戏中的咒语.想不到自己竟然真的漂浮於空中......难道这个游戏能够连接模拟世界与现实",
+  "last_updatetime": 1281767052,
+  "last_update_chapter_name": "VOL04",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "magicgame",
+  "hidden": 0,
+  "hot_num": 17350,
+  "hit_num": 631035,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 10282,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3036,
+      "tag_name": "南泽久佳"
+    }
+  ],
+  "subscribe_num": 92,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10282,
+          "chapter_title": "4卷",
+          "updatetime": 1282371853,
+          "filesize": 17347065,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 10281,
+          "chapter_title": "3卷",
+          "updatetime": 1282371853,
+          "filesize": 15839841,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 10280,
+          "chapter_title": "2卷",
+          "updatetime": 1282371853,
+          "filesize": 14600988,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 10279,
+          "chapter_title": "1卷",
+          "updatetime": 1282371853,
+          "filesize": 16235341,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 6591165,
+        "uid": 21164880,
+        "content": "至今还没看到最终卷，之前好像找到了，不过没看后电脑换了。今天看过一个有点像的漫画，不过那漫画就是一沙雕作品。怀念魔法游戏",
+        "createtime": 1535670349,
+        "nickname": "黎明Duke",
+        "avatar": "https://avatar.dmzj.com/58/7f/587fadc8585e36052284557e235891da.png"
+      },
+      {
+        "comment_id": 1853454,
+        "uid": 245130,
+        "content": "上一个鸡年看的作品，至今没找到最终卷（生肉）QAQ",
+        "createtime": 1488070576,
+        "nickname": "antengzhi",
+        "avatar": "https://avatar.dmzj.com/2d/5e/2d5e7e6064ca66fd72b4021134c979b4.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

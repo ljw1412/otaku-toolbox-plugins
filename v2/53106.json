@@ -1,0 +1,86 @@
+{
+  "id": 53106,
+  "islong": 1,
+  "direction": 2,
+  "title": "第五动物园",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1106808851584693243.jpg",
+  "description": "游戏第五人格的同人作品，人格们拟兽的轻松治愈小漫画~",
+  "last_updatetime": 1584952909,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 36183,
+  "hit_num": 583,
+  "uid": 110680885,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3253,
+      "tag_name": "宅系"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19286,
+      "tag_name": "freon"
+    }
+  ],
+  "subscribe_num": 158,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100864,
+          "chapter_title": "2话",
+          "updatetime": 1584952909,
+          "filesize": 108674,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 100753,
+          "chapter_title": "1话",
+          "updatetime": 1584693690,
+          "filesize": 63155,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "这里学生党一枚，更新不定期。",
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 29850723,
+        "uid": 109804499,
+        "content": "shake it ！",
+        "createtime": 1598044329,
+        "nickname": "唐卡洛斯",
+        "avatar": "https://avatar.dmzj.com/29/98/2998ba065084e3f7b0d0f4a64273f9bc.png"
+      },
+      {
+        "comment_id": 25602136,
+        "uid": 105014643,
+        "content": "？没想到还能看到第五的同人诶",
+        "createtime": 1584972201,
+        "nickname": "saki7474",
+        "avatar": "https://avatar.dmzj.com/17/28/172891d07037968aa809310f4adb4878.png"
+      }
+    ]
+  }
+}

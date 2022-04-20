@@ -1,0 +1,73 @@
+{
+  "id": 52738,
+  "islong": 2,
+  "direction": 1,
+  "title": "梅莉的噩梦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/200303mldem.jpg",
+  "description": "仿佛被丢弃在漆黑的汪洋之中，又仿佛沉入伸手不见五指的黑夜深处，深不见底的不安感，早晨真的还会到来吗……？",
+  "last_updatetime": 1583231776,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 70568,
+  "hit_num": 26007,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14558,
+      "tag_name": "剧团文七"
+    }
+  ],
+  "subscribe_num": 328,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94289,
+          "chapter_title": "1话",
+          "updatetime": 1583231776,
+          "filesize": 13049192,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 35,
+    "latest_comment": [
+      {
+        "comment_id": 29225878,
+        "uid": 106014422,
+        "content": "123出来挨打",
+        "createtime": 1595713488,
+        "nickname": "我永远喜欢纯妈妈",
+        "avatar": "https://avatar.dmzj.com/93/81/938145dc11e0d59e1647f3ba7e70ee58.png"
+      },
+      {
+        "comment_id": 29225853,
+        "uid": 106014422,
+        "content": "虽然只是莲子的一场噩梦，最后醒来HE了，但我还是被刀没了",
+        "createtime": 1595712886,
+        "nickname": "我永远喜欢纯妈妈",
+        "avatar": "https://avatar.dmzj.com/93/81/938145dc11e0d59e1647f3ba7e70ee58.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 53138,
+  "islong": 2,
+  "direction": 1,
+  "title": "红模样",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/200322hmy.jpg",
+  "description": "红美玲想要被他人叫自己的名字",
+  "last_updatetime": 1584845452,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 19419,
+  "hit_num": 3478,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19302,
+      "tag_name": "いつきアキラ"
+    },
+    {
+      "tag_id": 19303,
+      "tag_name": "ちょっとねこ"
+    }
+  ],
+  "subscribe_num": 89,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95236,
+          "chapter_title": "1话",
+          "updatetime": 1584845452,
+          "filesize": 2444357,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 25788792,
+        "uid": 100867312,
+        "content": "这芙兰太幼了",
+        "createtime": 1585402502,
+        "nickname": "姬海棠翌",
+        "avatar": "https://avatar.dmzj.com/75/40/75401bf7aaab8577ce58184bc3757a09.png"
+      },
+      {
+        "comment_id": 25708402,
+        "uid": 100975659,
+        "content": "中国梗，现在也已经是时代眼泪了",
+        "createtime": 1585211187,
+        "nickname": "有“病”的子徐",
+        "avatar": "https://avatar.dmzj.com/6e/57/6e573f0356903151f2697b49dd59c76a.png"
+      }
+    ]
+  }
+}

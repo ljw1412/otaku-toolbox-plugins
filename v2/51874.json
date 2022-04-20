@@ -1,0 +1,77 @@
+{
+  "id": 51874,
+  "islong": 2,
+  "direction": 1,
+  "title": "幽默的独白",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/200118ymddb.jpg",
+  "description": "一只青蛙的独白。描绘了遥远的世界和亿万的年月，一边孤独一边地幸福着。",
+  "last_updatetime": 1579348571,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 686429,
+  "hit_num": 32639,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14790,
+      "tag_name": "カシワイ"
+    },
+    {
+      "tag_id": 18655,
+      "tag_name": "草野心平"
+    }
+  ],
+  "subscribe_num": 3213,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93220,
+          "chapter_title": "1话",
+          "updatetime": 1579348571,
+          "filesize": 6068114,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 82,
+    "latest_comment": [
+      {
+        "comment_id": 29627694,
+        "uid": 107748983,
+        "content": "很棒",
+        "createtime": 1597189741,
+        "nickname": "秋田月月",
+        "avatar": "https://avatar.dmzj.com/85/47/8547d9f3298fbe7a22cfd9be5bab5b08.png"
+      },
+      {
+        "comment_id": 28838626,
+        "uid": 110907781,
+        "content": "很棒～",
+        "createtime": 1594394161,
+        "nickname": "鸭居栗kamoikuri",
+        "avatar": "https://avatar.dmzj.com/34/06/3406d0e6a5ffc7464f891570567ca358.png"
+      }
+    ]
+  }
+}

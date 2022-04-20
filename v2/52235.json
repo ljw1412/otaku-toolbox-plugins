@@ -1,0 +1,76 @@
+{
+  "id": 52235,
+  "islong": 2,
+  "direction": 1,
+  "title": "如龙喵",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/200209rlm.jpg",
+  "description": "来,捕获这只喵",
+  "last_updatetime": 1581481111,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 707312,
+  "hit_num": 55771,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16973,
+      "tag_name": "ことぶき"
+    }
+  ],
+  "subscribe_num": 3200,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97970,
+          "chapter_title": "喵短篇",
+          "updatetime": 1581481111,
+          "filesize": 747284,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 97969,
+          "chapter_title": "短篇",
+          "updatetime": 1581481097,
+          "filesize": 742579,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 155,
+    "latest_comment": [
+      {
+        "comment_id": 30036825,
+        "uid": 111378262,
+        "content": "阿巴阿巴 阿巴巴巴 阿巴巴",
+        "createtime": 1598752037,
+        "nickname": "名字好煩",
+        "avatar": "https://avatar.dmzj.com/54/08/5408a493c30948d7d1a4f7ff6827de62.png"
+      },
+      {
+        "comment_id": 29183095,
+        "uid": 104658731,
+        "content": "可爱",
+        "createtime": 1595561462,
+        "nickname": "我永远喜欢莱恩哈特",
+        "avatar": "https://avatar.dmzj.com/99/86/99866c04186312cfa3e890a65bc62446.png"
+      }
+    ]
+  }
+}

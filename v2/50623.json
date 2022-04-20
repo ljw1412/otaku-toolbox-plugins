@@ -1,0 +1,76 @@
+{
+  "id": 50623,
+  "islong": 2,
+  "direction": 1,
+  "title": "BATTLE CRY",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/191013battlecry.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1570941981,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 35403,
+  "hit_num": 18332,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6105,
+      "tag_name": "しまどりる"
+    }
+  ],
+  "subscribe_num": 164,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89167,
+          "chapter_title": "2话",
+          "updatetime": 1570941977,
+          "filesize": 15390813,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 89166,
+          "chapter_title": "1话",
+          "updatetime": 1570941981,
+          "filesize": 5231828,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 23000306,
+        "uid": 108578127,
+        "content": "看到标题秒出戏\nbattle cry，战吼",
+        "createtime": 1577888834,
+        "nickname": "longness",
+        "avatar": "https://avatar.dmzj.com/34/6b/346b1a4a1697a796e9ba661dff152e75.png"
+      },
+      {
+        "comment_id": 22938206,
+        "uid": 106445331,
+        "content": "侦查守卫",
+        "createtime": 1577635980,
+        "nickname": "N1an",
+        "avatar": "https://avatar.dmzj.com/97/12/9712a6e73a7afeca4d29ad33ca40bfe9.png"
+      }
+    ]
+  }
+}

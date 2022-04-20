@@ -1,0 +1,89 @@
+{
+  "id": 5645,
+  "islong": 2,
+  "direction": 1,
+  "title": "鬼道天外",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/24_e5a8c98907ee345116f28a211245ce80.jpg",
+  "description": "一个满好看的鬼怪故事。有鬼怪特色，但故事本身并不太恐怖，是一个人在家也可以细细去看的一部鬼怪漫画。",
+  "last_updatetime": 1282290346,
+  "last_update_chapter_name": "VOL03",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "guidaotianwai",
+  "hidden": 0,
+  "hot_num": 19155,
+  "hit_num": 460580,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12637,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3093,
+      "tag_name": "乾良彦"
+    }
+  ],
+  "subscribe_num": 99,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12637,
+          "chapter_title": "3卷",
+          "updatetime": 1282895146,
+          "filesize": 16892216,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 12636,
+          "chapter_title": "2卷",
+          "updatetime": 1282895146,
+          "filesize": 17584448,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 12635,
+          "chapter_title": "1卷",
+          "updatetime": 1282895146,
+          "filesize": 22029430,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 29380842,
+        "uid": 111070561,
+        "content": "one by",
+        "createtime": 1596284014,
+        "nickname": "dmzj_111070561",
+        "avatar": "https://avatar.dmzj.com/4a/71/4a710bcb2f67c463757f5591f648ec1a.png"
+      },
+      {
+        "comment_id": 12773961,
+        "uid": 100736588,
+        "content": "m",
+        "createtime": 1552365740,
+        "nickname": "零明ノ景",
+        "avatar": "https://avatar.dmzj.com/0f/02/0f0281eea65da3575e1492407272c637.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

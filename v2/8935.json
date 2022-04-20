@@ -1,0 +1,97 @@
+{
+  "id": 8935,
+  "islong": 2,
+  "direction": 2,
+  "title": "神秘人Mystey Men",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/shenmiren.jpg",
+  "description": "不一样的冒险漫画，复古 僵尸？有看头哦。",
+  "last_updatetime": 1356143155,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 916512,
+  "hit_num": 186550,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 7266,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21089,
+          "chapter_title": "5卷",
+          "updatetime": 1356143155,
+          "filesize": 3259155,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 20105,
+          "chapter_title": "4卷",
+          "updatetime": 1348019505,
+          "filesize": 2654242,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 19443,
+          "chapter_title": "3卷",
+          "updatetime": 1342855841,
+          "filesize": 2951114,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 19174,
+          "chapter_title": "2卷",
+          "updatetime": 1340938378,
+          "filesize": 3061113,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 19000,
+          "chapter_title": "1卷",
+          "updatetime": 1339564752,
+          "filesize": 2997934,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 222551,
+        "uid": 15300104,
+        "content": "结尾居然还是个阴谋论",
+        "createtime": 1396693038,
+        "nickname": "磨齿机峨眉号",
+        "avatar": "https://avatar.dmzj.com/ef/43/ef438aefe0811b6e1067d970d39ddce0.png"
+      },
+      {
+        "comment_id": 81747,
+        "uid": 19180265,
+        "content": "里面的亡灵好像有个美剧演过，是个魔术高手。   /晕 ",
+        "createtime": 1348061350,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  }
+}

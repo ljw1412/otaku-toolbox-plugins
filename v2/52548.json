@@ -1,0 +1,73 @@
+{
+  "id": 52548,
+  "islong": 2,
+  "direction": 1,
+  "title": "告白告白告白",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/gbgbgb0225.jpg",
+  "description": "不存在的",
+  "last_updatetime": 1582641366,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 849436,
+  "hit_num": 30495,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19042,
+      "tag_name": "三上裕"
+    }
+  ],
+  "subscribe_num": 3904,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93927,
+          "chapter_title": "1话",
+          "updatetime": 1582641366,
+          "filesize": 1028690,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 114,
+    "latest_comment": [
+      {
+        "comment_id": 28668769,
+        "uid": 109059828,
+        "content": "学会了，试试去",
+        "createtime": 1593835054,
+        "nickname": "深秋绝塞谁相忆",
+        "avatar": "https://avatar.dmzj.com/61/35/6135107ad674db56b6db8c026225c258.png"
+      },
+      {
+        "comment_id": 28646378,
+        "uid": 100700062,
+        "content": "你搁这刷成就呢？",
+        "createtime": 1593770838,
+        "nickname": "十克虚空.torrent",
+        "avatar": "https://avatar.dmzj.com/9e/cc/9ecce7825ed192a1df9520693e8794fb.png"
+      }
+    ]
+  }
+}

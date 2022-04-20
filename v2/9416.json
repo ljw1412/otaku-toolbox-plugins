@@ -1,0 +1,77 @@
+{
+  "id": 9416,
+  "islong": 2,
+  "direction": 1,
+  "title": "镜界的死神",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/jingjiedesishen.jpg",
+  "description": "你知道学校校舍舞蹈室里的那面古镜吗？来吧，回头往那儿看。那里是——入口哟。",
+  "last_updatetime": 1347168918,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 45166,
+  "hit_num": 991183,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4815,
+      "tag_name": "藤原ヒロ"
+    }
+  ],
+  "subscribe_num": 196,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 18277,
+          "chapter_title": "1话",
+          "updatetime": 1347168918,
+          "filesize": 8741649,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 21236735,
+        "uid": 109493603,
+        "content": "怎么看啊",
+        "createtime": 1570894930,
+        "nickname": "dmzj_109493603",
+        "avatar": "https://avatar.dmzj.com/54/63/54633257bac332b2f5d5eef48a0c109c.png"
+      },
+      {
+        "comment_id": 16082830,
+        "uid": 108912975,
+        "content": "a",
+        "createtime": 1558187076,
+        "nickname": "BadJun",
+        "avatar": "https://avatar.dmzj.com/56/97/5697f690817d015c8c313f8306381f92.png"
+      }
+    ]
+  }
+}

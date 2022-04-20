@@ -1,0 +1,75 @@
+{
+  "id": 6478,
+  "islong": 2,
+  "direction": 2,
+  "title": "苍蝇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/苍蝇_全一册_0001_c0cdc8ebb5352f61e9d7f99b3d340ee5.jpg",
+  "description": "关于一只苍蝇的神奇故事~~~是法国著名漫画家Lewis Trondheim的作品~~~ 结局出人意料~~故事轻松爆笑~~~ 最棒的是没有字一样把故事讲的精彩异常~~~~~~~",
+  "last_updatetime": 1287923204,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "cangying",
+  "hidden": 0,
+  "hot_num": 29006,
+  "hit_num": 607722,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 12807,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3508,
+      "tag_name": "Lewis Trondheim"
+    }
+  ],
+  "subscribe_num": 175,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12807,
+          "chapter_title": "1卷",
+          "updatetime": 1288528004,
+          "filesize": 9893399,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 359282,
+        "uid": 26228537,
+        "content": "笑死我們",
+        "createtime": 1425310571,
+        "nickname": "regan0307",
+        "avatar": "https://avatar.dmzj.com/7f/19/7f196147ab7e52096fc24b44833f2b1d.png"
+      },
+      {
+        "comment_id": 154691,
+        "uid": 24971357,
+        "content": "法国漫画就是不同凡响……",
+        "createtime": 1378387109,
+        "nickname": "哥特式的苍白",
+        "avatar": "https://avatar.dmzj.com/58/55/5855a2f7cb2b333c23bb0ed107a19a4f.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

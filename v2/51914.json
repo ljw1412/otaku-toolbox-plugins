@@ -1,0 +1,108 @@
+{
+  "id": 51914,
+  "islong": 2,
+  "direction": 1,
+  "title": "藤子不二雄A黑色幽默短篇集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/200121tzbexahsymdpj.jpg",
+  "description": "藤子不二雄A黑色漫画短篇集，用漫画填补你内心的空虚",
+  "last_updatetime": 1585843522,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 1443489,
+  "hit_num": 697770,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 1049,
+      "tag_name": "藤子不二雄A"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "subscribe_num": 6642,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96234,
+          "chapter_title": "7话",
+          "updatetime": 1585843522,
+          "filesize": 2380377,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 95306,
+          "chapter_title": "6话",
+          "updatetime": 1584021256,
+          "filesize": 1708736,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 94492,
+          "chapter_title": "4话",
+          "updatetime": 1582302126,
+          "filesize": 2379888,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 93973,
+          "chapter_title": "3话",
+          "updatetime": 1581320256,
+          "filesize": 1696691,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 93650,
+          "chapter_title": "2话",
+          "updatetime": 1580486166,
+          "filesize": 2851478,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 93299,
+          "chapter_title": "1话",
+          "updatetime": 1579579417,
+          "filesize": 3680323,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 191,
+    "latest_comment": [
+      {
+        "comment_id": 29950891,
+        "uid": 102330142,
+        "content": "现实",
+        "createtime": 1598416627,
+        "nickname": "克里斯克",
+        "avatar": "https://avatar.dmzj.com/81/29/8129eced339414a32fa7bba449909d10.png"
+      },
+      {
+        "comment_id": 29579728,
+        "uid": 107658793,
+        "content": "蝴蝶结等你你从哪",
+        "createtime": 1596991932,
+        "nickname": "onelor",
+        "avatar": "https://avatar.dmzj.com/13/fc/13fcd5509c9c97a75e011b76b3254a04.png"
+      }
+    ]
+  }
+}

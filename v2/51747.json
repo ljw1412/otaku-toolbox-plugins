@@ -1,0 +1,76 @@
+{
+  "id": 51747,
+  "islong": 2,
+  "direction": 1,
+  "title": "正太君与大叔",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/zhentai20200106000.jpg",
+  "description": "推特连载人气作品，超绝可爱的正太和看似变态实则不变态的大叔（也不对）",
+  "last_updatetime": 1578846024,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 1036837,
+  "hit_num": 40115,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18586,
+      "tag_name": "アキラルベルラロッチ"
+    }
+  ],
+  "subscribe_num": 4927,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96028,
+          "chapter_title": "2话",
+          "updatetime": 1578846024,
+          "filesize": 454859,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 95874,
+          "chapter_title": "1话",
+          "updatetime": 1578316133,
+          "filesize": 749280,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 112,
+    "latest_comment": [
+      {
+        "comment_id": 29555579,
+        "uid": 108706675,
+        "content": "正常的正经大叔",
+        "createtime": 1596901969,
+        "nickname": "0号通缉犯",
+        "avatar": "https://avatar.dmzj.com/50/40/50408a99d2ab47da3ce35c3fae635345.png"
+      },
+      {
+        "comment_id": 29444081,
+        "uid": 104717559,
+        "content": "大妈之家欢乐向（闭眼",
+        "createtime": 1596501973,
+        "nickname": "lichte",
+        "avatar": "https://avatar.dmzj.com/50/fa/50fa7635314e9072ffc99170cd9ea2ec.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 51024,
+  "islong": 2,
+  "direction": 1,
+  "title": "要物语",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/yaowuyu20191110.jpg",
+  "description": "“那么，晚点再见了。”",
+  "last_updatetime": 1573402407,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yaowuyu",
+  "hidden": 0,
+  "hot_num": 164697,
+  "hit_num": 110112,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 91071,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18243,
+      "tag_name": "locon"
+    }
+  ],
+  "subscribe_num": 679,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91071,
+          "chapter_title": "1话",
+          "updatetime": 1573402407,
+          "filesize": 6303273,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 85,
+    "latest_comment": [
+      {
+        "comment_id": 29472379,
+        "uid": 110029415,
+        "content": "？？这次居然不是本？是删页了嘛",
+        "createtime": 1596599266,
+        "nickname": "钟阿丑",
+        "avatar": "https://avatar.dmzj.com/63/19/6319618e6bab82f7652640cc4061df00.png"
+      },
+      {
+        "comment_id": 29472348,
+        "uid": 110029415,
+        "content": "？？要君居然还有纯剧情的？是删了很多页嘛",
+        "createtime": 1596599177,
+        "nickname": "钟阿丑",
+        "avatar": "https://avatar.dmzj.com/63/19/6319618e6bab82f7652640cc4061df00.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

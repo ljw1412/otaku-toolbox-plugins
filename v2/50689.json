@@ -1,0 +1,79 @@
+{
+  "id": 50689,
+  "islong": 2,
+  "direction": 1,
+  "title": "SEKIRO - SHADOWS DIE TWICE Official Artworks",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/zl1017.jpg",
+  "description": "只狼画集",
+  "last_updatetime": 1571369736,
+  "last_update_chapter_name": "画集",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "seklro",
+  "hidden": 0,
+  "hot_num": 993346,
+  "hit_num": 1595002,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90015,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 4164,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90015,
+          "chapter_title": "1话",
+          "updatetime": 1571369736,
+          "filesize": 33373804,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 164,
+    "latest_comment": [
+      {
+        "comment_id": 29913155,
+        "uid": 108069287,
+        "content": "厉害",
+        "createtime": 1598282395,
+        "nickname": "千里昭彰",
+        "avatar": "https://avatar.dmzj.com/44/37/443719cd876b4617f018469c2209c347.png"
+      },
+      {
+        "comment_id": 29661511,
+        "uid": 110269285,
+        "content": "好看啊",
+        "createtime": 1597331557,
+        "nickname": "dmzj_110269285",
+        "avatar": "https://avatar.dmzj.com/80/7b/807b923185f335b3db143bd4a2ab07ef.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

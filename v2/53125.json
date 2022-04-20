@@ -1,0 +1,73 @@
+{
+  "id": 53125,
+  "islong": 2,
+  "direction": 1,
+  "title": "与玛丽相遇的故事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/ymlxydgs0321.jpg",
+  "description": "与她相遇 故事就开始了",
+  "last_updatetime": 1584766341,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 1276271,
+  "hit_num": 22099,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19297,
+      "tag_name": "真广吏希"
+    }
+  ],
+  "subscribe_num": 6058,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99755,
+          "chapter_title": "1话",
+          "updatetime": 1584766341,
+          "filesize": 408467,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 148,
+    "latest_comment": [
+      {
+        "comment_id": 29711492,
+        "uid": 110556870,
+        "content": "怎么只有一话QAQ",
+        "createtime": 1597531487,
+        "nickname": "dmzj_110556870",
+        "avatar": "https://avatar.dmzj.com/78/11/7811c9cab19d5a68195cc6f41d69329b.png"
+      },
+      {
+        "comment_id": 28865191,
+        "uid": 101756462,
+        "content": "神威",
+        "createtime": 1594481975,
+        "nickname": "qzuser20055192",
+        "avatar": "https://avatar.dmzj.com/da/66/da667650328fb2fe75b36265214f6973.png"
+      }
+    ]
+  }
+}

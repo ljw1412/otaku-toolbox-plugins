@@ -1,0 +1,76 @@
+{
+  "id": 50435,
+  "islong": 2,
+  "direction": 1,
+  "title": "极东Hallucination",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/191004jdhallucination.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1570155806,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 87902,
+  "hit_num": 33509,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 1102,
+      "tag_name": "FLIPFLOPs"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 403,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93731,
+          "chapter_title": "2话",
+          "updatetime": 1570155803,
+          "filesize": 13199912,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 93730,
+          "chapter_title": "1话",
+          "updatetime": 1570155806,
+          "filesize": 8895506,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 25158232,
+        "uid": 100683994,
+        "content": "说好的全4卷结果2010年开始就没再画过东方了",
+        "createtime": 1583946598,
+        "nickname": "楠哥BRONAN",
+        "avatar": "https://avatar.dmzj.com/76/05/7605af076c18c962a629583d35e5bf1b.png"
+      },
+      {
+        "comment_id": 23111622,
+        "uid": 106347053,
+        "content": "喜欢",
+        "createtime": 1578325606,
+        "nickname": "dmzj_106347053",
+        "avatar": "https://avatar.dmzj.com/ff/bf/ffbff9728a573957979c291f5b761172.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 50917,
+  "islong": 2,
+  "direction": 1,
+  "title": "冬之奇迹",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/dzqj1103.jpg",
+  "description": "在这被隔离的世界，我能活下去吗....",
+  "last_updatetime": 1572748603,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 29697,
+  "hit_num": 3904,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18194,
+      "tag_name": "梯屋"
+    },
+    {
+      "tag_id": 18195,
+      "tag_name": "はやしもと"
+    }
+  ],
+  "subscribe_num": 139,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93856,
+          "chapter_title": "1话",
+          "updatetime": 1572748603,
+          "filesize": 6511767,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 29608185,
+        "uid": 109465309,
+        "content": "诹访子手上的是3ds吗",
+        "createtime": 1597115905,
+        "nickname": "dmzj_109465309",
+        "avatar": "https://avatar.dmzj.com/77/9a/779a09918a7a3b603215a2d39aee5879.png"
+      },
+      {
+        "comment_id": 29601508,
+        "uid": 104197387,
+        "content": "封面蕾蒂像个光头",
+        "createtime": 1597078413,
+        "nickname": "雪辉橙饰",
+        "avatar": "https://avatar.dmzj.com/96/89/9689132e0a713c3c45c6372e7af62f61.png"
+      }
+    ]
+  }
+}

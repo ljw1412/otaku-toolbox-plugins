@@ -1,0 +1,87 @@
+{
+  "id": 7096,
+  "islong": 2,
+  "direction": 1,
+  "title": "よしづきくみち作品集 初始之箱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/yilintongxuedePHANTOM_ARM.jpg",
+  "description": "现在连载《你与我的足迹》的人气作家よしづきくみち老师最初所创作的作品集。收录了包含出道作在内的5篇短篇。每部作品最后还收录了作者自己的感受。\n",
+  "last_updatetime": 1577636803,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 664947,
+  "hit_num": 831585,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3781,
+      "tag_name": "よしづきくみち"
+    }
+  ],
+  "subscribe_num": 3467,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96225,
+          "chapter_title": "3话",
+          "updatetime": 1577636803,
+          "filesize": 2982407,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 87626,
+          "chapter_title": "2话",
+          "updatetime": 1555417368,
+          "filesize": 6653385,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 12563,
+          "chapter_title": "1话",
+          "updatetime": 1296527581,
+          "filesize": 4224215,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 73,
+    "latest_comment": [
+      {
+        "comment_id": 27935122,
+        "uid": 105769817,
+        "content": "对于往事，唯有铭记。",
+        "createtime": 1591327445,
+        "nickname": "真的无聊",
+        "avatar": "https://avatar.dmzj.com/22/64/226446b9a849345bfd218aaca141eda7.png"
+      },
+      {
+        "comment_id": 27620145,
+        "uid": 108762865,
+        "content": "飛雷神の術",
+        "createtime": 1590238929,
+        "nickname": "櫻花树下的猫",
+        "avatar": "https://avatar.dmzj.com/72/93/7293af053717f0bb17cc27cadccddf13.png"
+      }
+    ]
+  }
+}

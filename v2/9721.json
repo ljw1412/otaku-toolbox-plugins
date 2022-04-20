@@ -1,0 +1,69 @@
+{
+  "id": 9721,
+  "islong": 2,
+  "direction": 1,
+  "title": "探险多利大陆",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/tanxiandldl.jpg",
+  "description": "未知的邂逅与无限的宝物!与重要的伙伴一起,展开激动人心的探险——!!\n",
+  "last_updatetime": 1352944796,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 11796,
+  "hit_num": 213994,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3169,
+      "tag_name": "坂口龙狼"
+    }
+  ],
+  "subscribe_num": 53,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 18995,
+          "chapter_title": "1话",
+          "updatetime": 1352944796,
+          "filesize": 5200723,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 18851906,
+        "uid": 19462460,
+        "content": "不更新",
+        "createtime": 1564588218,
+        "nickname": "雪之下の谎言都市",
+        "avatar": "https://avatar.dmzj.com/1b/04/1b04ca8776b2afa322170c3ac283e38b.png"
+      },
+      {
+        "comment_id": 197070,
+        "uid": 25103042,
+        "content": "7年后还是像小朋友",
+        "createtime": 1390311659,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  }
+}

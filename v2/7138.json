@@ -1,0 +1,111 @@
+{
+  "id": 7138,
+  "islong": 2,
+  "direction": 2,
+  "title": "混沌之战",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/hdzz.jpg",
+  "description": "混沌之战 CHAOS WAR 一个传奇的开篇。",
+  "last_updatetime": 1470126900,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 4257430,
+  "hit_num": 866939,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 19198,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13967,
+          "chapter_title": "5卷",
+          "updatetime": 1300173709,
+          "filesize": 3369944,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 52153,
+          "chapter_title": "索尔#2",
+          "updatetime": 1470126900,
+          "filesize": 3200436,
+          "chapter_order": 41
+        },
+        {
+          "chapter_id": 13945,
+          "chapter_title": "4卷",
+          "updatetime": 1299834163,
+          "filesize": 3409649,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 51337,
+          "chapter_title": "索尔#1",
+          "updatetime": 1467965146,
+          "filesize": 3408017,
+          "chapter_order": 31
+        },
+        {
+          "chapter_id": 13890,
+          "chapter_title": "3卷",
+          "updatetime": 1299206957,
+          "filesize": 3534613,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 13873,
+          "chapter_title": "2卷",
+          "updatetime": 1299049218,
+          "filesize": 3358532,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13872,
+          "chapter_title": "1卷",
+          "updatetime": 1299049197,
+          "filesize": 5048201,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 27064025,
+        "uid": 110560284,
+        "content": "快更新啊",
+        "createtime": 1588493760,
+        "nickname": "怀中猫℡",
+        "avatar": "https://avatar.dmzj.com/56/90/56904f948a093525b7a394eb6fb1d137.png"
+      },
+      {
+        "comment_id": 26078240,
+        "uid": 105836456,
+        "content": "留",
+        "createtime": 1586016203,
+        "nickname": "dmzj_105836456",
+        "avatar": "https://avatar.dmzj.com/35/e2/35e23d0296fabe7fd3cd01ce2c642061.png"
+      }
+    ]
+  }
+}

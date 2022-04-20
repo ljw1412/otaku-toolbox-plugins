@@ -1,0 +1,83 @@
+{
+  "id": 9495,
+  "islong": 2,
+  "direction": 1,
+  "title": "八百X九十九",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/800x99.jpg",
+  "description": "铃木小波的新作，一个传说，长生不老是你的梦想吗。一把刀能做到什么。",
+  "last_updatetime": 1352816621,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 101694,
+  "hit_num": 1310037,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4057,
+      "tag_name": "铃木小波"
+    }
+  ],
+  "subscribe_num": 544,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20639,
+          "chapter_title": "2话",
+          "updatetime": 1352816621,
+          "filesize": 6429326,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 20250,
+          "chapter_title": "1话",
+          "updatetime": 1349501713,
+          "filesize": 6932564,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 20223,
+          "chapter_title": "0话",
+          "updatetime": 1349226266,
+          "filesize": 1079086,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 24065700,
+        "uid": 107092257,
+        "content": "空白的一年",
+        "createtime": 1581535079,
+        "nickname": "恩里克•普奇",
+        "avatar": "https://avatar.dmzj.com/54/60/546077588c036a4d5e0ee3cfb1beb22e.png"
+      },
+      {
+        "comment_id": 23894169,
+        "uid": 102584203,
+        "content": "推荐大家买台版单行本支持作者，非常棒的故事，总共就两本，不贵的",
+        "createtime": 1581103299,
+        "nickname": "魚腸卷",
+        "avatar": "https://avatar.dmzj.com/e9/b5/e9b5ef60516cadbfe6a02093b92c6294.png"
+      }
+    ]
+  }
+}

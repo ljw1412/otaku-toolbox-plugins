@@ -1,0 +1,75 @@
+{
+  "id": 52886,
+  "islong": 2,
+  "direction": 1,
+  "title": "和平的每日",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/hpdmr200310.jpg",
+  "description": "永远的和平......怎样才能做到呢？",
+  "last_updatetime": 1583844192,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hepingdemeiri",
+  "hidden": 0,
+  "hot_num": 140915,
+  "hit_num": 16507,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100247,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12850,
+      "tag_name": "山うた"
+    }
+  ],
+  "subscribe_num": 552,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100247,
+          "chapter_title": "1话",
+          "updatetime": 1583844192,
+          "filesize": 1511266,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 51,
+    "latest_comment": [
+      {
+        "comment_id": 29087368,
+        "uid": 108884824,
+        "content": "无心之擦",
+        "createtime": 1595218140,
+        "nickname": "西瓜挽歌",
+        "avatar": "https://avatar.dmzj.com/88/35/883536d1ecb79ae62a6e7843566bf3bc.png"
+      },
+      {
+        "comment_id": 27889273,
+        "uid": 109278026,
+        "content": "其实要做到真正的和平，和尚挑水的故事已经告诉我们了，只有一个人的时候才能做到和平，出现第二个人了就会出现矛盾，人数越多，矛盾就会越来越加剧。",
+        "createtime": 1591080702,
+        "nickname": "贝伦缇娅",
+        "avatar": "https://avatar.dmzj.com/14/3e/143e9f8b0e65c92073d2db940a09b3ca.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

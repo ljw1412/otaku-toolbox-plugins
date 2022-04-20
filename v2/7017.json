@@ -1,0 +1,83 @@
+{
+  "id": 7017,
+  "islong": 2,
+  "direction": 2,
+  "title": "杀手猴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/shashouhou.jpg",
+  "description": "他来自日本森林的高山之巅，他和他的族群幸福和平的生活着。。。然而这份和平却被一个受伤的杀手的到来而打得粉碎。尽管其他猴认为应该救治那个杀手，但他却总觉得那个行为会为族群带来非常严重的后果。他是对的。",
+  "last_updatetime": 1295597441,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 3887654,
+  "hit_num": 267051,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 18857,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 14158,
+          "chapter_title": "3卷",
+          "updatetime": 1295597441,
+          "filesize": 2974742,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 14146,
+          "chapter_title": "2卷",
+          "updatetime": 1295509061,
+          "filesize": 3254211,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13942,
+          "chapter_title": "1卷",
+          "updatetime": 1293175408,
+          "filesize": 3412166,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 27764423,
+        "uid": 100043766,
+        "content": "谁还记得死侍和蜘蛛侠合作的杀手猴那一部叫啥名字",
+        "createtime": 1590683805,
+        "nickname": "奉吹人间",
+        "avatar": "https://avatar.dmzj.com/2f/7a/2f7a884b31322be79c332d3566b139d6.png"
+      },
+      {
+        "comment_id": 20323586,
+        "uid": 106035392,
+        "content": "6",
+        "createtime": 1568528484,
+        "nickname": "dmzj_106035392",
+        "avatar": "https://avatar.dmzj.com/ca/78/ca7861d3c53602493797db4ca88cea60.png"
+      }
+    ]
+  }
+}

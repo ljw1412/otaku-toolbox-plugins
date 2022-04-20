@@ -1,0 +1,111 @@
+{
+  "id": 50349,
+  "islong": 2,
+  "direction": 1,
+  "title": "巴留的涂鸦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/aldty1909028.jpg",
+  "description": "以2018漫画大奖赛为代表\n尽揽所有主要漫画奖的热门作品\n「BEASTARS」作者献上的\n会心一笑转而潸然泪下的自传式家庭小短剧！\n",
+  "last_updatetime": 1597852745,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 4133479,
+  "hit_num": 963742,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12882,
+      "tag_name": "板垣巴留"
+    }
+  ],
+  "subscribe_num": 19016,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102481,
+          "chapter_title": "7话",
+          "updatetime": 1597852745,
+          "filesize": 2898069,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 98377,
+          "chapter_title": "6话",
+          "updatetime": 1589605491,
+          "filesize": 3604198,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 94581,
+          "chapter_title": "5话",
+          "updatetime": 1582521490,
+          "filesize": 2744892,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 92961,
+          "chapter_title": "4话",
+          "updatetime": 1578753629,
+          "filesize": 2601928,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 91847,
+          "chapter_title": "3话",
+          "updatetime": 1575512933,
+          "filesize": 2440861,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 90740,
+          "chapter_title": "2话",
+          "updatetime": 1572490907,
+          "filesize": 1709679,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 89182,
+          "chapter_title": "1话",
+          "updatetime": 1569672781,
+          "filesize": 3523599,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1112,
+    "latest_comment": [
+      {
+        "comment_id": 30058717,
+        "uid": 109162378,
+        "content": "我好奇巴留说了啥能把人说哭？",
+        "createtime": 1598848509,
+        "nickname": "迷途的凯撒",
+        "avatar": "https://avatar.dmzj.com/43/02/4302e763d7290e76f01ecf9037426d7d.png"
+      },
+      {
+        "comment_id": 29977244,
+        "uid": 105258469,
+        "content": "巴留真的，好可爱qwq",
+        "createtime": 1598518850,
+        "nickname": "警告san值过低",
+        "avatar": "https://avatar.dmzj.com/87/ab/87ab7b5dc1cc57c6448481e8436af4d2.png"
+      }
+    ]
+  }
+}

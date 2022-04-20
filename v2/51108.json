@@ -1,0 +1,121 @@
+{
+  "id": 51108,
+  "islong": 1,
+  "direction": 2,
+  "title": "评论",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1007470371573923262.jpg",
+  "description": "自己随便瞎想的故事，苦逼学生在有限的时间里追一追小时候的梦想。不掺杂任何观点，纯瞎想看看就好",
+  "last_updatetime": 1592752755,
+  "copyright": 1,
+  "first_letter": "p",
+  "hot_num": 13133,
+  "hit_num": 2278,
+  "uid": 100747037,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18282,
+      "tag_name": "古街巷"
+    }
+  ],
+  "subscribe_num": 52,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99729,
+          "chapter_title": "7话",
+          "updatetime": 1592752755,
+          "filesize": 3455410,
+          "chapter_order": 8
+        },
+        {
+          "chapter_id": 92425,
+          "chapter_title": "6话",
+          "updatetime": 1579526654,
+          "filesize": 1476196,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 92004,
+          "chapter_title": "5话",
+          "updatetime": 1578495046,
+          "filesize": 929074,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 91048,
+          "chapter_title": "4话",
+          "updatetime": 1575752843,
+          "filesize": 2365720,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 90424,
+          "chapter_title": "3话",
+          "updatetime": 1574083397,
+          "filesize": 932383,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 90363,
+          "chapter_title": "2话",
+          "updatetime": 1573925631,
+          "filesize": 504782,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 90362,
+          "chapter_title": "1话",
+          "updatetime": 1573925217,
+          "filesize": 1063513,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "欢迎大家去评论自己的想法与观点，也可自己脑补一篇小故事，我会去看，毕竟这部漫画叫做评论",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 28391761,
+        "uid": 107085400,
+        "content": "时隔半年终于更新了",
+        "createtime": 1592963179,
+        "nickname": "dmzj_107085400",
+        "avatar": "https://avatar.dmzj.com/27/94/279461165a65343dc40ecbd52dfea231.png"
+      },
+      {
+        "comment_id": 25322145,
+        "uid": 110668148,
+        "content": "第六话，不过她需要一个人来爱她，刚好他碰上了而已",
+        "createtime": 1584353388,
+        "nickname": "令月十一",
+        "avatar": "https://avatar.dmzj.com/91/99/91999c0850f6f4676ddfa2d25ceff73a.png"
+      }
+    ]
+  }
+}

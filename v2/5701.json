@@ -1,0 +1,86 @@
+{
+  "id": 5701,
+  "islong": 2,
+  "direction": 1,
+  "title": "未完成No.1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/wwcno1.jpg",
+  "description": "故事是描述一个23世纪的少女不遵守23世纪的淑女风范而一直向往21世纪的生活，某天被纪律委员‘逼’去了21世纪，与21世纪的少年工藤伢也相遇后，爆笑生活开始了。",
+  "last_updatetime": 1283231845,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wwcno1",
+  "hidden": 0,
+  "hot_num": 22927,
+  "hit_num": 1054422,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 10614,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2425,
+      "tag_name": "Majiko"
+    }
+  ],
+  "subscribe_num": 94,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10614,
+          "chapter_title": "2卷",
+          "updatetime": 1283231845,
+          "filesize": 15734090,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 10613,
+          "chapter_title": "1卷",
+          "updatetime": 1283231806,
+          "filesize": 17076473,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 19459625,
+        "uid": 109426717,
+        "content": "人好少",
+        "createtime": 1565963477,
+        "nickname": "机械沉梦",
+        "avatar": "https://avatar.dmzj.com/f0/c0/f0c05460d825c19fbc816de57a03a334.png"
+      },
+      {
+        "comment_id": 313097,
+        "uid": 19651802,
+        "content": "只能坐地板了，沙发能让个位子吗 /呲牙 ",
+        "createtime": 1414764972,
+        "nickname": "女神在你身边",
+        "avatar": "https://avatar.dmzj.com/31/79/31793e42b01f7e42ad702e12bb2fa58e.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

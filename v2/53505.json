@@ -1,0 +1,73 @@
+{
+  "id": 53505,
+  "islong": 2,
+  "direction": 2,
+  "title": "死亡:浅谈生命",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/siwnagqiantanshengmingfm.jpg",
+  "description": "关于死亡的简单科普",
+  "last_updatetime": 1586263363,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 130554,
+  "hit_num": 4799,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    },
+    {
+      "tag_id": 4167,
+      "tag_name": "VERTIGO"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 587,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100595,
+          "chapter_title": "1卷",
+          "updatetime": 1586263363,
+          "filesize": 881804,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 29882540,
+        "uid": 107560180,
+        "content": "死亡小姐姐",
+        "createtime": 1598172737,
+        "nickname": "狮子神皓的杀戮",
+        "avatar": "https://avatar.dmzj.com/54/99/5499fded02a0fc8b2067da3d0e8367a1.png"
+      },
+      {
+        "comment_id": 29421032,
+        "uid": 108055242,
+        "content": "二姐怎么都有抬头纹了",
+        "createtime": 1596425545,
+        "nickname": "MarsOmega",
+        "avatar": "https://avatar.dmzj.com/42/47/4247dd62a9eaef624a43dc133d3904a8.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 8522,
+  "islong": 2,
+  "direction": 1,
+  "title": "少年READOM",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/shaonianreadom20120325.jpg",
+  "description": "杂志史上空前绝後的653万部的数字，到底是如何达到的﹗？以1980年代的怪物《少年漫画杂志》的编辑部为舞台，绘画了以热血和心去制作漫画的男人们﹗《再见了，我们的青春「少年JUMP」》热切期待的漫画化﹗﹗",
+  "last_updatetime": 1332684357,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 15552,
+  "hit_num": 245749,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2997,
+      "tag_name": "次原隆二"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "subscribe_num": 83,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19174,
+          "chapter_title": "4卷",
+          "updatetime": 1332684357,
+          "filesize": 26802984,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 19173,
+          "chapter_title": "3卷",
+          "updatetime": 1332684348,
+          "filesize": 26412577,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 19172,
+          "chapter_title": "2卷",
+          "updatetime": 1332684337,
+          "filesize": 24910138,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 19171,
+          "chapter_title": "1卷",
+          "updatetime": 1332684329,
+          "filesize": 20239583,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1789220,
+        "uid": 103457793,
+        "content": "太惨了，主角竟然没有看到自己负责的漫画连载就去世了",
+        "createtime": 1486735377,
+        "nickname": "glf999_lbi",
+        "avatar": "https://avatar.dmzj.com/3a/34/3a34e0621e82a460e0694f3ef0c907cc.png"
+      },
+      {
+        "comment_id": 52666,
+        "uid": 13440960,
+        "content": "............",
+        "createtime": 1332692688,
+        "nickname": "丶亚叶",
+        "avatar": "https://avatar.dmzj.com/02/fb/02fb3c5e8f4a5a9dbbfb094a5631b4e4.png"
+      }
+    ]
+  }
+}

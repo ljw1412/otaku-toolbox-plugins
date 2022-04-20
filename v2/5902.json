@@ -1,0 +1,83 @@
+{
+  "id": 5902,
+  "islong": 2,
+  "direction": 1,
+  "title": "惊虎啸",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/jinghuxiao.jpg",
+  "description": "伍锦宁最新作品，一个全新的武侠漫画。",
+  "last_updatetime": 1283756214,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 5061,
+  "hit_num": 32677,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3223,
+      "tag_name": "伍锦宁"
+    }
+  ],
+  "subscribe_num": 16,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12493,
+          "chapter_title": "3卷",
+          "updatetime": 1283756214,
+          "filesize": 5035409,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 12492,
+          "chapter_title": "2卷",
+          "updatetime": 1283756096,
+          "filesize": 5588445,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 12491,
+          "chapter_title": "1卷",
+          "updatetime": 1283756096,
+          "filesize": 5597030,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 12584323,
+        "uid": 104496237,
+        "content": "惊呼",
+        "createtime": 1552128588,
+        "nickname": "Pan64459",
+        "avatar": "https://avatar.dmzj.com/c3/3e/c33e171d3d3e88f180a7b06799a006c6.png"
+      },
+      {
+        "comment_id": 8079282,
+        "uid": 102031813,
+        "content": "健硕的体格，单纯且粗犷的性格，心地正直的好青年。他爽朗的性格、认真的眼神、说一是一的强硬气魄给周围的人都带来了活力。惊虎啸漫画 ，伍锦宁最新作品，一个全新的武侠漫画←_←",
+        "createtime": 1542029983,
+        "nickname": "李兰加洛德",
+        "avatar": "https://avatar.dmzj.com/45/53/45530e9cb0d65e3a5e5e0c19463a895e.png"
+      }
+    ]
+  }
+}

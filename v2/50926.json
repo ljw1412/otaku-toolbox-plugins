@@ -1,0 +1,80 @@
+{
+  "id": 50926,
+  "islong": 2,
+  "direction": 1,
+  "title": "亲爱的召唤士",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/qadzhs1103.jpg",
+  "description": "召唤吧！世界将会回应你们！",
+  "last_updatetime": 1592741489,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 1716911,
+  "hit_num": 817234,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11427,
+      "tag_name": "群千キリ"
+    }
+  ],
+  "subscribe_num": 7881,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 105283,
+          "chapter_title": "2话",
+          "updatetime": 1592741489,
+          "filesize": 14291096,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94494,
+          "chapter_title": "1话",
+          "updatetime": 1572789828,
+          "filesize": 14161439,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 204,
+    "latest_comment": [
+      {
+        "comment_id": 28656499,
+        "uid": 107432825,
+        "content": "作画还是可以的，\n但，就这这剧情，\n说它是奥利给都是给作者面子了。",
+        "createtime": 1593791341,
+        "nickname": "呵bb",
+        "avatar": "https://avatar.dmzj.com/37/05/3705461532ff8f789219a7313d2507a5.png"
+      },
+      {
+        "comment_id": 28614023,
+        "uid": 100966624,
+        "content": "画风可以，剧情就算了",
+        "createtime": 1593678619,
+        "nickname": "安静的黎明",
+        "avatar": "https://avatar.dmzj.com/21/12/211237335a95bc00015264e9d1250ee1.png"
+      }
+    ]
+  }
+}

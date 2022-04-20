@@ -1,0 +1,77 @@
+{
+  "id": 50802,
+  "islong": 2,
+  "direction": 1,
+  "title": "录",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/lu20191026.jpg",
+  "description": "风神录角色的欢乐向四格第三弹",
+  "last_updatetime": 1572059405,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 38764,
+  "hit_num": 3741,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6181,
+      "tag_name": "青き猫耳帝国"
+    },
+    {
+      "tag_id": 18130,
+      "tag_name": "ねこゆう"
+    }
+  ],
+  "subscribe_num": 178,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93580,
+          "chapter_title": "1话",
+          "updatetime": 1572059405,
+          "filesize": 4862811,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 21754745,
+        "uid": 108038105,
+        "content": "文文新闻真是用来干啥都可以。（除了阅读）",
+        "createtime": 1572357423,
+        "nickname": "心之所向，追求美好",
+        "avatar": "https://avatar.dmzj.com/90/27/9027c37474c280a7437e003812789906.png"
+      },
+      {
+        "comment_id": 21668133,
+        "uid": 106337990,
+        "content": "风神录好评",
+        "createtime": 1572067174,
+        "nickname": "dmzj_106337990",
+        "avatar": "https://avatar.dmzj.com/56/10/5610e09752c4f6eba7781517b0ceaf55.png"
+      }
+    ]
+  }
+}

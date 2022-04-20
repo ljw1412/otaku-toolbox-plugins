@@ -1,0 +1,75 @@
+{
+  "id": 6616,
+  "islong": 2,
+  "direction": 1,
+  "title": "月行者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/yuexingzhe20101106.jpg",
+  "description": "少年JUMP杂志秋季豪华短篇系列之许斐刚篇。许斐刚阔别两年的少年JUMP新作，传说中的序章，从现在开始！！",
+  "last_updatetime": 1289011245,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yuexingzhe",
+  "hidden": 0,
+  "hot_num": 22200,
+  "hit_num": 280864,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 11704,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 100,
+      "tag_name": "许斐刚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 94,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 11704,
+          "chapter_title": "短篇",
+          "updatetime": 1289011245,
+          "filesize": 8284597,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 27585076,
+        "uid": 106217491,
+        "content": "大威天龙！",
+        "createtime": 1590119526,
+        "nickname": "dmzj_106217491",
+        "avatar": "https://avatar.dmzj.com/75/48/754844db85f3150a9d4042d384a8c729.png"
+      },
+      {
+        "comment_id": 4260223,
+        "uid": 105000432,
+        "content": "盖亚能量炮！！！！！！！！",
+        "createtime": 1522862461,
+        "nickname": "cgxyz312",
+        "avatar": "https://avatar.dmzj.com/28/13/28131e5df936f8586bfb34bd2b911f39.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

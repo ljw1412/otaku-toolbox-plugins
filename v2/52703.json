@@ -1,0 +1,79 @@
+{
+  "id": 52703,
+  "islong": 2,
+  "direction": 1,
+  "title": "你来我往",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/nilaiwowang200302.jpg",
+  "description": "爱的你来我往。",
+  "last_updatetime": 1583153132,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "nilaiwowang",
+  "hidden": 0,
+  "hot_num": 153237,
+  "hit_num": 44656,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 94244,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 6219,
+      "tag_name": "节操"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19104,
+      "tag_name": "くるしま"
+    }
+  ],
+  "subscribe_num": 666,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94244,
+          "chapter_title": "1话",
+          "updatetime": 1583153132,
+          "filesize": 7639909,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 137,
+    "latest_comment": [
+      {
+        "comment_id": 28782161,
+        "uid": 110301874,
+        "content": "就。。。。不太对劲",
+        "createtime": 1594200138,
+        "nickname": "dmzj_110301874",
+        "avatar": "https://avatar.dmzj.com/d8/37/d837b719a9c698f76026dc9aae191367.png"
+      },
+      {
+        "comment_id": 27766953,
+        "uid": 106964909,
+        "content": "我惊了",
+        "createtime": 1590688091,
+        "nickname": "吾辈是hina",
+        "avatar": "https://avatar.dmzj.com/99/59/99597fada9947593ac0d295f5940454c.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,75 @@
+{
+  "id": 52859,
+  "islong": 2,
+  "direction": 1,
+  "title": "乙烯之海",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/yxzh202039.jpg",
+  "description": "幻想乡的日常。",
+  "last_updatetime": 1583743091,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yixizhihai",
+  "hidden": 0,
+  "hot_num": 156170,
+  "hit_num": 20376,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 95159,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5068,
+      "tag_name": "比良坂真琴"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 685,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95159,
+          "chapter_title": "1话",
+          "updatetime": 1583743091,
+          "filesize": 2859904,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 62,
+    "latest_comment": [
+      {
+        "comment_id": 27709802,
+        "uid": 105860392,
+        "content": "乙烯？",
+        "createtime": 1590507393,
+        "nickname": "笨⑨蛋",
+        "avatar": "https://avatar.dmzj.com/11/69/1169334576c2332addcea34fffb36cea.png"
+      },
+      {
+        "comment_id": 25745707,
+        "uid": 110092783,
+        "content": "谁想去看那个紫老太太的泳衣口",
+        "createtime": 1585296431,
+        "nickname": "暮歌koki",
+        "avatar": "https://avatar.dmzj.com/14/94/14944e6c4225bf2870494a3f2bf51924.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

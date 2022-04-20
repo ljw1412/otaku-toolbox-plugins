@@ -1,0 +1,104 @@
+{
+  "id": 50363,
+  "islong": 2,
+  "direction": 1,
+  "title": "RecipRoomba",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/190929reciproombasithpart.jpg",
+  "description": "红魔馆大战扫地机",
+  "last_updatetime": 1570079151,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 978507,
+  "hit_num": 739612,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5630,
+      "tag_name": "威未图"
+    }
+  ],
+  "subscribe_num": 4456,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88824,
+          "chapter_title": "6话",
+          "updatetime": 1570079151,
+          "filesize": 10890341,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 88745,
+          "chapter_title": "5话",
+          "updatetime": 1569846915,
+          "filesize": 10997773,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 88701,
+          "chapter_title": "4话",
+          "updatetime": 1569755320,
+          "filesize": 11434605,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 88713,
+          "chapter_title": "3话",
+          "updatetime": 1569759172,
+          "filesize": 14014567,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 88712,
+          "chapter_title": "2话",
+          "updatetime": 1569759109,
+          "filesize": 9322129,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 88711,
+          "chapter_title": "1话",
+          "updatetime": 1569759075,
+          "filesize": 6500253,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 366,
+    "latest_comment": [
+      {
+        "comment_id": 29981969,
+        "uid": 100854756,
+        "content": "。。。",
+        "createtime": 1598535898,
+        "nickname": "小强65313",
+        "avatar": "https://avatar.dmzj.com/dc/a6/dca60edf982b5ec60e9e6f6dd838a783.png"
+      },
+      {
+        "comment_id": 29828891,
+        "uid": 108772201,
+        "content": "我看了个啥",
+        "createtime": 1597967092,
+        "nickname": "熙德theDr",
+        "avatar": "https://avatar.dmzj.com/76/20/7620a104d1d9a99aa2f1fbe4b2ad141d.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 50334,
+  "islong": 2,
+  "direction": 1,
+  "title": "不想工作的咲夜",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/bxgzdxy20190927.jpg",
+  "description": "恶饿鬼你怎么连这种也画啊(要素警告)",
+  "last_updatetime": 1574315427,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 455140,
+  "hit_num": 233055,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5640,
+      "tag_name": "恶饿鬼"
+    }
+  ],
+  "subscribe_num": 2047,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 91407,
+          "chapter_title": "额外",
+          "updatetime": 1574315427,
+          "filesize": 993481,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 89162,
+          "chapter_title": "1话",
+          "updatetime": 1569576099,
+          "filesize": 1864831,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 211,
+    "latest_comment": [
+      {
+        "comment_id": 29023097,
+        "uid": 109466239,
+        "content": "建议配乐观看------》唯一指定bgm",
+        "createtime": 1595001501,
+        "nickname": "命莲寺直营菓子工房",
+        "avatar": "https://avatar.dmzj.com/31/16/3116e2f2895554f6e193698db944d33c.png"
+      },
+      {
+        "comment_id": 28415215,
+        "uid": 111163257,
+        "content": "温柔的世界",
+        "createtime": 1593044080,
+        "nickname": "dmzj_111163257",
+        "avatar": "https://avatar.dmzj.com/1e/57/1e5739e9be59ee7620888909ce4c822b.png"
+      }
+    ]
+  }
+}

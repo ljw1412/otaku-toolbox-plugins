@@ -1,0 +1,69 @@
+{
+  "id": 6407,
+  "islong": 2,
+  "direction": 1,
+  "title": "Mad-Tea-Party",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/Mad-Tea-Party.jpg",
+  "description": "《戏言》的同人集合",
+  "last_updatetime": 1287647863,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 13120,
+  "hit_num": 421067,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3473,
+      "tag_name": "戏言同人"
+    }
+  ],
+  "subscribe_num": 70,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13165,
+          "chapter_title": "1话",
+          "updatetime": 1288252663,
+          "filesize": 8834583,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 27145764,
+        "uid": 108331765,
+        "content": "流",
+        "createtime": 1588735192,
+        "nickname": "氵巴比伦的夜彡",
+        "avatar": "https://avatar.dmzj.com/0f/9e/0f9e4153c35c00babe4a91c495e7184a.png"
+      },
+      {
+        "comment_id": 24873764,
+        "uid": 109427926,
+        "content": "阿伊你怎么了啊阿伊(ﾉ ○ Д ○)ﾉ",
+        "createtime": 1583336879,
+        "nickname": "dmzj_109427926",
+        "avatar": "https://avatar.dmzj.com/ea/7b/ea7b19af0bce01be2f798e6572a13d75.png"
+      }
+    ]
+  }
+}

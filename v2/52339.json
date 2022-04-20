@@ -1,0 +1,84 @@
+{
+  "id": 52339,
+  "islong": 2,
+  "direction": 1,
+  "title": "齐格似乎要在地下城邂逅键山雏了",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/200215qgshyzdxcxhjscl.jpg",
+  "description": "简单来说就是AA漫画，因为后续还没有所以不知道有什么展开",
+  "last_updatetime": 1581927719,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 68558,
+  "hit_num": 3402,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    },
+    {
+      "tag_id": 18522,
+      "tag_name": "AA"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18918,
+      "tag_name": "秋千"
+    }
+  ],
+  "subscribe_num": 293,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94323,
+          "chapter_title": "1话",
+          "updatetime": 1581927719,
+          "filesize": 658241,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94251,
+          "chapter_title": "0话",
+          "updatetime": 1581730978,
+          "filesize": 298890,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 27426110,
+        "uid": 25540310,
+        "content": "明明是难得的地下城题材，我还蛮期待的",
+        "createtime": 1589622264,
+        "nickname": "瞌睡的虫zZ",
+        "avatar": "https://avatar.dmzj.com/4c/67/4c671b42344131e412d6ec0b87bd11b7.png"
+      },
+      {
+        "comment_id": 24853393,
+        "uid": 109818033,
+        "content": "地下城的眼有没有",
+        "createtime": 1583309004,
+        "nickname": "小道名张程",
+        "avatar": "https://avatar.dmzj.com/78/c2/78c2f375d0a32947d706989e11eed769.png"
+      }
+    ]
+  }
+}

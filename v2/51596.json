@@ -1,0 +1,73 @@
+{
+  "id": 51596,
+  "islong": 2,
+  "direction": 2,
+  "title": "克劳斯圣诞特刊选集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/kls20191225.jpg",
+  "description": "克劳斯圣诞特刊，让我们跟随格兰特·莫里森和丹·莫拉的脚步，通过日历体漫画，去见证克劳斯和乔·克里斯默斯的冒险旅程。",
+  "last_updatetime": 1577211252,
+  "copyright": 0,
+  "first_letter": "k",
+  "hot_num": 82519,
+  "hit_num": 16566,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5237,
+      "tag_name": "boom"
+    }
+  ],
+  "subscribe_num": 372,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96085,
+          "chapter_title": "1卷",
+          "updatetime": 1577211252,
+          "filesize": 7803328,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 26633642,
+        "uid": 108872644,
+        "content": "竟然有电影",
+        "createtime": 1587297328,
+        "nickname": "Rustin",
+        "avatar": "https://avatar.dmzj.com/79/48/7948ceb566f9ad4410738ac451d98ca5.png"
+      },
+      {
+        "comment_id": 26586639,
+        "uid": 108872644,
+        "content": "kao居然有售后！",
+        "createtime": 1587144124,
+        "nickname": "Rustin",
+        "avatar": "https://avatar.dmzj.com/79/48/7948ceb566f9ad4410738ac451d98ca5.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": 50188,
+  "islong": 2,
+  "direction": 1,
+  "title": "QQQ的手制影印本",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/QQQdszyyb20190917.jpg",
+  "description": "ｑず老师所绘制的,东方同人短篇集,欢乐的日常",
+  "last_updatetime": 1568779334,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 50500,
+  "hit_num": 6463,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5504,
+      "tag_name": "ｑず"
+    }
+  ],
+  "subscribe_num": 229,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 88316,
+          "chapter_title": "2话",
+          "updatetime": 1568779334,
+          "filesize": 4039559,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 88315,
+          "chapter_title": "1话",
+          "updatetime": 1568779278,
+          "filesize": 1651859,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 22006259,
+        "uid": 106210783,
+        "content": "形成永冻",
+        "createtime": 1573240654,
+        "nickname": "1980霓虹与梦幻",
+        "avatar": "https://avatar.dmzj.com/23/13/2313e14c8749dc523a41e4f30d557f04.png"
+      },
+      {
+        "comment_id": 20545143,
+        "uid": 101477106,
+        "content": "迷路的羔羊？？9反撩后宫王摸你傻？",
+        "createtime": 1569193646,
+        "nickname": "白依落",
+        "avatar": "https://avatar.dmzj.com/63/38/63388ccf089d50d71418a2823f99b60b.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": 52884,
+  "islong": 2,
+  "direction": 1,
+  "title": "怪脑俱乐部",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/200310gnjlb.jpg",
+  "description": "森罗万象，奇奇怪怪。",
+  "last_updatetime": 1586180212,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 205997,
+  "hit_num": 57587,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16395,
+      "tag_name": "古河おどろ"
+    }
+  ],
+  "subscribe_num": 957,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 96386,
+          "chapter_title": "秦心篇",
+          "updatetime": 1586180212,
+          "filesize": 4523163,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 96385,
+          "chapter_title": "剧毒人类篇",
+          "updatetime": 1586180199,
+          "filesize": 7046390,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 95237,
+          "chapter_title": "阿燐篇",
+          "updatetime": 1583890556,
+          "filesize": 3277102,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 95238,
+          "chapter_title": "秘封篇",
+          "updatetime": 1583890631,
+          "filesize": 3037081,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 95236,
+          "chapter_title": "芙兰篇",
+          "updatetime": 1583890395,
+          "filesize": 2522318,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 95220,
+          "chapter_title": "恋恋篇",
+          "updatetime": 1583834474,
+          "filesize": 2210231,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 56,
+    "latest_comment": [
+      {
+        "comment_id": 26428178,
+        "uid": 102024659,
+        "content": "画风这么萌，每次有死亡剧情又这么轻描淡写，感觉反而有点不舒服呢",
+        "createtime": 1586764146,
+        "nickname": "xHUGx",
+        "avatar": "https://avatar.dmzj.com/96/45/9645de6c088d7a52e99eb12ea178dde8.png"
+      },
+      {
+        "comment_id": 26324923,
+        "uid": 102790223,
+        "content": "这个作者的画风好可爱",
+        "createtime": 1586534768,
+        "nickname": "34616号",
+        "avatar": "https://avatar.dmzj.com/45/91/4591858bed2578478ebc733364ad0b3e.png"
+      }
+    ]
+  }
+}

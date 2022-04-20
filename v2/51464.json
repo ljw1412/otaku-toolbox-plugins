@@ -1,0 +1,87 @@
+{
+  "id": 51464,
+  "islong": 1,
+  "direction": 2,
+  "title": "阴谋研究俱乐部",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/191215ymyjjlb.jpg",
+  "description": "由《危城（The Crawling City）》原班人马打造的全新故事，如同《生命线》一般的悬疑探险之旅",
+  "last_updatetime": 1584365883,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 1706440,
+  "hit_num": 349881,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13597,
+      "tag_name": "Parororo(Paroro)"
+    },
+    {
+      "tag_id": 18431,
+      "tag_name": "Merryweatherey"
+    }
+  ],
+  "subscribe_num": 8013,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95479,
+          "chapter_title": "3话",
+          "updatetime": 1584365883,
+          "filesize": 1729937,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 92620,
+          "chapter_title": "2话",
+          "updatetime": 1577765302,
+          "filesize": 1105192,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 92136,
+          "chapter_title": "1话",
+          "updatetime": 1576374082,
+          "filesize": 1352433,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 172,
+    "latest_comment": [
+      {
+        "comment_id": 29258972,
+        "uid": 111065316,
+        "content": "emmmmm害怕",
+        "createtime": 1595839219,
+        "nickname": "今天也很卑微",
+        "avatar": "https://avatar.dmzj.com/12/70/127001dcbb217d006711ea41161dfec4.png"
+      },
+      {
+        "comment_id": 29122576,
+        "uid": 105821291,
+        "content": "这个可以有",
+        "createtime": 1595340957,
+        "nickname": "天堂之约",
+        "avatar": "https://avatar.dmzj.com/83/09/8309c21c501865ff239e98c3c3ec8453.png"
+      }
+    ]
+  }
+}

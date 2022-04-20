@@ -1,0 +1,79 @@
+{
+  "id": 53410,
+  "islong": 2,
+  "direction": 2,
+  "title": "总而言之交往了",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1006235491585830247.jpg",
+  "description": "没人气歌手被告白的故事",
+  "last_updatetime": 1585830382,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 62142,
+  "hit_num": 3441,
+  "uid": 100623549,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19436,
+      "tag_name": "抬头看见一片云"
+    }
+  ],
+  "subscribe_num": 280,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100346,
+          "chapter_title": "1话",
+          "updatetime": 1585830382,
+          "filesize": 413118,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 28950228,
+        "uid": 107905695,
+        "content": "感觉好可爱啊",
+        "createtime": 1594747436,
+        "nickname": "不想动的狗子",
+        "avatar": "https://avatar.dmzj.com/ca/a0/caa0c07195fe4bbd863ec5b6d982198a.png"
+      },
+      {
+        "comment_id": 28577944,
+        "uid": 109273805,
+        "content": "娘化克总？",
+        "createtime": 1593550167,
+        "nickname": "柯南终将把柑橘五等分",
+        "avatar": "https://avatar.dmzj.com/81/34/81349208e95c3f738c48455bad0d4d5a.png"
+      }
+    ]
+  }
+}

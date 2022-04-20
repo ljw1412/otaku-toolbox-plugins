@@ -1,0 +1,79 @@
+{
+  "id": 50587,
+  "islong": 2,
+  "direction": 2,
+  "title": "邪恶之屋的秘密",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/xie.jpg",
+  "description": "八段不同的故事中，我们将体会到或悲伤或深沉、或轻松温暖，甚至还有精神污染的DC英雄传奇，将我们引入一个你从未见证过的DC宇宙……",
+  "last_updatetime": 1570799865,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xieezhiwudemimi",
+  "hidden": 0,
+  "hot_num": 127056,
+  "hit_num": 108839,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 93121,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 553,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93121,
+          "chapter_title": "1卷",
+          "updatetime": 1570799865,
+          "filesize": 20900465,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 34,
+    "latest_comment": [
+      {
+        "comment_id": 28912229,
+        "uid": 101543935,
+        "content": "喜欢这种类型的漫画",
+        "createtime": 1594638864,
+        "nickname": "ss16236",
+        "avatar": "https://avatar.dmzj.com/c7/9c/c79cd9969bdee2a02a11f491151040f3.png"
+      },
+      {
+        "comment_id": 25042446,
+        "uid": 108134656,
+        "content": "渣康真帅啊……",
+        "createtime": 1583685463,
+        "nickname": "HardyConstantine",
+        "avatar": "https://avatar.dmzj.com/45/37/4537a9ae9e408612d9384d0c6562bd1c.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

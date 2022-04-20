@@ -1,0 +1,77 @@
+{
+  "id": 53121,
+  "islong": 2,
+  "direction": 1,
+  "title": "菊影忍者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/kaoyingrenzhe2020.jpg",
+  "description": "强大的忍者，需要强大的……\n（作者你痔疮还没好么？）",
+  "last_updatetime": 1584760187,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 700896,
+  "hit_num": 127732,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 6219,
+      "tag_name": "节操"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8550,
+      "tag_name": "火鸟でできるまん"
+    }
+  ],
+  "subscribe_num": 3189,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100770,
+          "chapter_title": "1话",
+          "updatetime": 1584760187,
+          "filesize": 4446758,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 232,
+    "latest_comment": [
+      {
+        "comment_id": 30020836,
+        "uid": 108660574,
+        "content": "意外的……正常？",
+        "createtime": 1598691735,
+        "nickname": "神楽凌殇",
+        "avatar": "https://avatar.dmzj.com/4e/92/4e92470189c5e38fefcf9617e30c5883.png"
+      },
+      {
+        "comment_id": 29887794,
+        "uid": 16671159,
+        "content": "火鸟大佬",
+        "createtime": 1598191564,
+        "nickname": "雷觅",
+        "avatar": "https://avatar.dmzj.com/49/78/49781f1e78bcd22ab43b6f25e2759b70.png"
+      }
+    ]
+  }
+}

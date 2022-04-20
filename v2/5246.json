@@ -1,0 +1,76 @@
+{
+  "id": 5246,
+  "islong": 2,
+  "direction": 1,
+  "title": "新水色时代",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/newmizunojidai_01_001_3927043f2cf8b41080b176bd0736ac16.jpg",
+  "description": "即不是大人又不是小孩子，但说青春还太早…… 正确而言应该是，从纯白的孩童时代，稍微，染上了“青春”的蓝…… 而这个渡过期的颜色……正是水色！",
+  "last_updatetime": 1281345169,
+  "last_update_chapter_name": "VOL3",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xsssd",
+  "hidden": 0,
+  "hot_num": 19773,
+  "hit_num": 338248,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 9456,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1405,
+      "tag_name": "薮内优"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 105,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9456,
+          "chapter_title": "3卷",
+          "updatetime": 1281949970,
+          "filesize": 14181001,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 9455,
+          "chapter_title": "2卷",
+          "updatetime": 1281949970,
+          "filesize": 14692554,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9454,
+          "chapter_title": "1卷",
+          "updatetime": 1281949970,
+          "filesize": 12005369,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "is_need_login": 0
+}

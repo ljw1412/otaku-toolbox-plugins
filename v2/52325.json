@@ -1,0 +1,73 @@
+{
+  "id": 52325,
+  "islong": 2,
+  "direction": 1,
+  "title": "贝尔兔与狼小姐",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/betylxj20200214.jpg",
+  "description": "伊藤ハチ老师的短篇作品。大灰狼×小白兔、姐姐×萝莉，好尊啊",
+  "last_updatetime": 1581666470,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 1733960,
+  "hit_num": 125272,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7390,
+      "tag_name": "伊藤ハチ"
+    }
+  ],
+  "subscribe_num": 8001,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98100,
+          "chapter_title": "1话",
+          "updatetime": 1581666470,
+          "filesize": 6906388,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 239,
+    "latest_comment": [
+      {
+        "comment_id": 30036775,
+        "uid": 109456891,
+        "content": "留留留",
+        "createtime": 1598751789,
+        "nickname": "Eric37",
+        "avatar": "https://avatar.dmzj.com/70/88/7088e53eda5a436ba0e650774c62d32b.png"
+      },
+      {
+        "comment_id": 29979136,
+        "uid": 110621784,
+        "content": "贼甜",
+        "createtime": 1598526992,
+        "nickname": "宛歌",
+        "avatar": "https://avatar.dmzj.com/2c/bf/2cbff0ae4771754d2c8b81e37b78ba75.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9710,
+  "islong": 2,
+  "direction": 1,
+  "title": "少女编织爱的画布",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/snbzadhb2.jpg",
+  "description": "著名伪娘GALGAME改编的四格漫画",
+  "last_updatetime": 1352790365,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 166035,
+  "hit_num": 747697,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5150,
+      "tag_name": "きみしま青"
+    }
+  ],
+  "subscribe_num": 814,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20635,
+          "chapter_title": "1话",
+          "updatetime": 1352790365,
+          "filesize": 1147400,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 45,
+    "latest_comment": [
+      {
+        "comment_id": 24191034,
+        "uid": 107128462,
+        "content": "音符社的东西跑这了？",
+        "createtime": 1581799665,
+        "nickname": "shousakura",
+        "avatar": "https://avatar.dmzj.com/2a/8f/2a8fa3ca74f81c344094e17600ad01fa.png"
+      },
+      {
+        "comment_id": 19941218,
+        "uid": 108981587,
+        "content": "少女编织爱的画布？？？我的老天爷",
+        "createtime": 1567303837,
+        "nickname": "国家一级伪娘漫鉴赏师",
+        "avatar": "https://avatar.dmzj.com/53/94/5394f74fc1c6c645e1809b9501b223a2.png"
+      }
+    ]
+  }
+}

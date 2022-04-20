@@ -1,0 +1,108 @@
+{
+  "id": 928,
+  "islong": 2,
+  "direction": 1,
+  "title": "希望列车",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/xwlc.jpg",
+  "description": "戴洛卡行星，是经过人类殖民的高度繁荣星球。在这星球有一种极为特别的列车教育制度，学生可以根据自己的意愿选择搭乘该类科的列车，在列车上周游各地并修取学分",
+  "last_updatetime": 1178197680,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 67752,
+  "hit_num": 1319228,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 961,
+      "tag_name": "仓田英正"
+    },
+    {
+      "tag_id": 2919,
+      "tag_name": "琢磨朋正"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 304,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 1287,
+          "chapter_title": "6卷",
+          "updatetime": 1178197680,
+          "filesize": 17091718,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 1286,
+          "chapter_title": "5卷",
+          "updatetime": 1178197680,
+          "filesize": 17692468,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 1285,
+          "chapter_title": "4卷",
+          "updatetime": 1178197680,
+          "filesize": 17234763,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 1284,
+          "chapter_title": "3卷",
+          "updatetime": 1178197680,
+          "filesize": 19039909,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 1283,
+          "chapter_title": "2卷",
+          "updatetime": 1178197680,
+          "filesize": 18120239,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 1282,
+          "chapter_title": "1卷",
+          "updatetime": 1178197680,
+          "filesize": 20494372,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 29844192,
+        "uid": 109824519,
+        "content": "画风也好内容也好",
+        "createtime": 1598024840,
+        "nickname": "dmzj_109824519",
+        "avatar": "https://avatar.dmzj.com/2d/62/2d6261c40651972f23871e765d5b0b92.png"
+      },
+      {
+        "comment_id": 29491301,
+        "uid": 108669166,
+        "content": "真是部好漫画",
+        "createtime": 1596658072,
+        "nickname": "dmzj_108669166",
+        "avatar": "https://avatar.dmzj.com/17/8e/178ebba1f3d80c91c7a0558292923a86.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": 51180,
+  "islong": 2,
+  "direction": 1,
+  "title": "SCARS",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/scars20191123.jpg",
+  "description": "被神明选中的没有心脏的少年,成为救世主吧!",
+  "last_updatetime": 1574483695,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 1736412,
+  "hit_num": 234998,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18323,
+      "tag_name": "たついこと"
+    }
+  ],
+  "subscribe_num": 8239,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95270,
+          "chapter_title": "1话",
+          "updatetime": 1574483695,
+          "filesize": 10150524,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 132,
+    "latest_comment": [
+      {
+        "comment_id": 28779462,
+        "uid": 108698155,
+        "content": "没人接吗",
+        "createtime": 1594188227,
+        "nickname": "尐亽物の傷",
+        "avatar": "https://avatar.dmzj.com/50/59/5059862dfcc334458491b4d154d9cef3.png"
+      },
+      {
+        "comment_id": 27837020,
+        "uid": 101165768,
+        "content": "咦，挺有意思的感觉，期待有大佬接坑",
+        "createtime": 1590929325,
+        "nickname": "Tindalos",
+        "avatar": "https://avatar.dmzj.com/92/23/922340e96a8fdf2db89ed8fc9ef18066.png"
+      }
+    ]
+  }
+}

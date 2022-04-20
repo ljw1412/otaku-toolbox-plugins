@@ -1,0 +1,69 @@
+{
+  "id": 7380,
+  "islong": 2,
+  "direction": 1,
+  "title": "咖啡时间",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/kafeishijian20110523.jpg",
+  "description": "由１７篇短篇漫画构成，与珈琲多少有点关连的短篇集。有些篇章的人物是共通的，故事有连续性；有些篇章是独立的故事。故事内容平实而生活化，有些甚至不知所云… 画面的呈现上，有点像是电影的运镜，别有特色。女大提琴手在喝咖啡时，遇上一名义大利人央求请喝咖啡，义大利人的谈吐听起来很有内涵，其实漏洞百出，最后还藉机闪人，欠下约三千元的咖啡钱……",
+  "last_updatetime": 1306134094,
+  "copyright": 0,
+  "first_letter": "k",
+  "hot_num": 93210,
+  "hit_num": 450125,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3956,
+      "tag_name": "丰田彻也"
+    }
+  ],
+  "subscribe_num": 487,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 15380,
+          "chapter_title": "1卷",
+          "updatetime": 1306134094,
+          "filesize": 18274724,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 29217588,
+        "uid": 111334956,
+        "content": "做个标记",
+        "createtime": 1595691524,
+        "nickname": "sporadicdream",
+        "avatar": "https://avatar.dmzj.com/7a/3d/7a3d6df1c51544ca83512659aea6b517.png"
+      },
+      {
+        "comment_id": 27493764,
+        "uid": 108262830,
+        "content": "这啥？",
+        "createtime": 1589823597,
+        "nickname": "dmzj_108262830",
+        "avatar": "https://avatar.dmzj.com/22/0c/220c914c6eabcf7ba19e07d30f80e022.png"
+      }
+    ]
+  }
+}

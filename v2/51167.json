@@ -1,0 +1,73 @@
+{
+  "id": 51167,
+  "islong": 2,
+  "direction": 1,
+  "title": "夜鹰之星",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/yyzx20191122.jpg",
+  "description": "不能在白日里飞翔的夜鹰,向往着光明",
+  "last_updatetime": 1574394971,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 638205,
+  "hit_num": 36160,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18313,
+      "tag_name": "宫泽贤治"
+    },
+    {
+      "tag_id": 18314,
+      "tag_name": "二星まゆ"
+    }
+  ],
+  "subscribe_num": 2943,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94419,
+          "chapter_title": "1话",
+          "updatetime": 1574394971,
+          "filesize": 5945596,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 42,
+    "latest_comment": [
+      {
+        "comment_id": 28423078,
+        "uid": 109265726,
+        "content": "我和百度的图对比了下，找到的照片怎么那么瘦？",
+        "createtime": 1593073805,
+        "nickname": "dmzj_109265726",
+        "avatar": "https://avatar.dmzj.com/c3/ac/c3ac9e283caf037a085d9a5371c9a638.png"
+      },
+      {
+        "comment_id": 27271814,
+        "uid": 104988598,
+        "content": "啊",
+        "createtime": 1589118619,
+        "nickname": "愿秋",
+        "avatar": "https://avatar.dmzj.com/82/52/82520c8857f8bffdfe1f1b00d625ad03.png"
+      }
+    ]
+  }
+}

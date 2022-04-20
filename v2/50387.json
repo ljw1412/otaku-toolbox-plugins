@@ -1,0 +1,73 @@
+{
+  "id": 50387,
+  "islong": 2,
+  "direction": 1,
+  "title": "朝日twitter短篇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/zrdp20191001.jpg",
+  "description": "东方同人画师朝日在twitter上发表的单幅漫画，彼此之间并没有联系",
+  "last_updatetime": 1569895641,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 71262,
+  "hit_num": 4162,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14973,
+      "tag_name": "朝日"
+    }
+  ],
+  "subscribe_num": 332,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92766,
+          "chapter_title": "1话",
+          "updatetime": 1569895641,
+          "filesize": 1011003,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 25929450,
+        "uid": 107672210,
+        "content": "出轨的神奈子怀念起糟糠之妻()",
+        "createtime": 1585733672,
+        "nickname": "承太郎必秒Dio",
+        "avatar": "https://avatar.dmzj.com/61/72/617257e10349aaa2cd6206ee575e0540.png"
+      },
+      {
+        "comment_id": 22157844,
+        "uid": 109049989,
+        "content": "画风超好看啊啊 意境！",
+        "createtime": 1573970951,
+        "nickname": "旅人乌托邦",
+        "avatar": "https://avatar.dmzj.com/98/30/9830e9044ab257e6ccd03d249cbc21b3.png"
+      }
+    ]
+  }
+}

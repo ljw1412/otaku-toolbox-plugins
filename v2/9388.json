@@ -1,0 +1,97 @@
+{
+  "id": 9388,
+  "islong": 2,
+  "direction": 2,
+  "title": "Zero Hour",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/lingshi.jpg",
+  "description": "dc公司的漫画，悬疑的故事，要倒序观看。",
+  "last_updatetime": 1496919748,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 2121209,
+  "hit_num": 456871,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 8854,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19041,
+          "chapter_title": "4卷",
+          "updatetime": 1346743536,
+          "filesize": 5163004,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 19040,
+          "chapter_title": "3卷",
+          "updatetime": 1346743528,
+          "filesize": 5672050,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 19039,
+          "chapter_title": "2卷",
+          "updatetime": 1346743308,
+          "filesize": 8248131,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 36027,
+          "chapter_title": "1卷",
+          "updatetime": 1428805586,
+          "filesize": 3966629,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 60278,
+          "chapter_title": "0卷",
+          "updatetime": 1496919748,
+          "filesize": 5700826,
+          "chapter_order": 0
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 29922041,
+        "uid": 105078857,
+        "content": "刘明",
+        "createtime": 1598318371,
+        "nickname": "还是螺旋",
+        "avatar": "https://avatar.dmzj.com/98/79/98791b8ec1084b8ab627f76defe241ad.png"
+      },
+      {
+        "comment_id": 26045086,
+        "uid": 110348095,
+        "content": "哪位大佬知道零时是不是重启？是哪一次重启？p52、n52和重生顺序是什么？刚入坑，有点晕……求大佬解答",
+        "createtime": 1585974508,
+        "nickname": "泠师小阔耐",
+        "avatar": "https://avatar.dmzj.com/66/6c/666c9b7955bff4c42b71646ff570860a.png"
+      }
+    ]
+  }
+}

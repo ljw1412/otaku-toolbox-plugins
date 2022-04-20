@@ -1,0 +1,71 @@
+{
+  "id": 51813,
+  "islong": 2,
+  "direction": 1,
+  "title": "七月集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1083735121578667991.jpg",
+  "description": "也许它是一部黑色童话",
+  "last_updatetime": 1578669189,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 6746,
+  "hit_num": 1300,
+  "uid": 108373512,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18622,
+      "tag_name": "温新"
+    }
+  ],
+  "subscribe_num": 26,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92126,
+          "chapter_title": "1话",
+          "updatetime": 1578669189,
+          "filesize": 1448902,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 25213738,
+        "uid": 108314101,
+        "content": "八遍完全没懂",
+        "createtime": 1584095221,
+        "nickname": "永远喜欢L君！！",
+        "avatar": "https://avatar.dmzj.com/23/53/2353b465da21dae9e8408c30b69b7579.png"
+      },
+      {
+        "comment_id": 23259196,
+        "uid": 109092899,
+        "content": "七遍果然没懂",
+        "createtime": 1578915427,
+        "nickname": "无所事事村民B",
+        "avatar": "https://avatar.dmzj.com/19/53/1953357c2a986ddb97d1619c7d0e73cd.png"
+      }
+    ]
+  }
+}

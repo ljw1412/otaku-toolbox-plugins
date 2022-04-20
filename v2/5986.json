@@ -1,0 +1,76 @@
+{
+  "id": 5986,
+  "islong": 2,
+  "direction": 1,
+  "title": "金鱼屋古书店出纳帐",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/fish2_000_ca3b6e7081ec6de006a9703e72fd8bfc.jpg",
+  "description": "许多古早的漫画都带有回忆，或许您想找回那段属于过去的回忆、或许现在您正与人制造未来的回忆……不管如何，如果您正寻找古早的漫画而找不到时，记得到金鱼屋古书店寻宝，说不定会有意想不到的收获哦！",
+  "last_updatetime": 1283411042,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 33567,
+  "hit_num": 341055,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3278,
+      "tag_name": "芳崎世夢"
+    }
+  ],
+  "subscribe_num": 187,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 10888,
+          "chapter_title": "2卷",
+          "updatetime": 1284015842,
+          "filesize": 22889423,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 10887,
+          "chapter_title": "1卷",
+          "updatetime": 1284015842,
+          "filesize": 22879717,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 28527751,
+        "uid": 101413853,
+        "content": "好棒...... \n有机会真想到日本的古书店去收大岛弓子老师的漫画啊...... 喜欢上比自己还老的作品真的太难了",
+        "createtime": 1593401339,
+        "nickname": "一棵喵薄荷",
+        "avatar": "https://avatar.dmzj.com/70/69/70698f084a848539fae1579463ea1100.png"
+      },
+      {
+        "comment_id": 27971054,
+        "uid": 102106251,
+        "content": "回忆",
+        "createtime": 1591452084,
+        "nickname": "草鸡可爱",
+        "avatar": "https://avatar.dmzj.com/12/79/127939ae4b0dba857c0e8ed209bbf747.png"
+      }
+    ]
+  }
+}

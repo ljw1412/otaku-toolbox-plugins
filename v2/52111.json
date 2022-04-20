@@ -1,0 +1,77 @@
+{
+  "id": 52111,
+  "islong": 2,
+  "direction": 1,
+  "title": "消失的远井同学",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/yuanjingtongxue20200202.jpg",
+  "description": "邻座的远井同学是个透明人",
+  "last_updatetime": 1580620307,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 1278591,
+  "hit_num": 63367,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18785,
+      "tag_name": "しをたひろみち"
+    }
+  ],
+  "subscribe_num": 5767,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 98556,
+          "chapter_title": "1话",
+          "updatetime": 1580620307,
+          "filesize": 1426241,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 108,
+    "latest_comment": [
+      {
+        "comment_id": 29347693,
+        "uid": 109757904,
+        "content": "awsl",
+        "createtime": 1596158633,
+        "nickname": "普侯寂声",
+        "avatar": "https://avatar.dmzj.com/37/71/3771fda407504dd7383b1632cbccd851.png"
+      },
+      {
+        "comment_id": 28997482,
+        "uid": 107674627,
+        "content": "想透透鸣人?！",
+        "createtime": 1594914136,
+        "nickname": "夏洵",
+        "avatar": "https://avatar.dmzj.com/a8/cb/a8cb4f717b2aae21af90180bdd237bed.png"
+      }
+    ]
+  }
+}

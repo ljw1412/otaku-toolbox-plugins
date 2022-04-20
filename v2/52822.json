@@ -1,0 +1,110 @@
+{
+  "id": 52822,
+  "islong": 2,
+  "direction": 1,
+  "title": "大众酒馆",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/dazhongjiuguan2020.jpg",
+  "description": "关于夜晚的小酒馆及面相有些凶恶的老板大叔的小故事",
+  "last_updatetime": 1598272112,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dazhongjiuguan",
+  "hidden": 0,
+  "hot_num": 776534,
+  "hit_num": 104541,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 106237,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3327,
+      "tag_name": "美食"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11931,
+      "tag_name": "新久千映"
+    }
+  ],
+  "subscribe_num": 3333,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99379,
+          "chapter_title": "6话",
+          "updatetime": 1585487129,
+          "filesize": 454629,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 99059,
+          "chapter_title": "5话",
+          "updatetime": 1584889683,
+          "filesize": 882267,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 106237,
+          "chapter_title": "4话",
+          "updatetime": 1598272112,
+          "filesize": 1168362,
+          "chapter_order": 35
+        },
+        {
+          "chapter_id": 98771,
+          "chapter_title": "3话",
+          "updatetime": 1584410457,
+          "filesize": 861271,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 98442,
+          "chapter_title": "2话",
+          "updatetime": 1583811437,
+          "filesize": 1033279,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 98319,
+          "chapter_title": "1话",
+          "updatetime": 1583631073,
+          "filesize": 734784,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 106,
+    "latest_comment": [
+      {
+        "comment_id": 29926815,
+        "uid": 101675983,
+        "content": "好温馨",
+        "createtime": 1598335442,
+        "nickname": "Master33553",
+        "avatar": "https://avatar.dmzj.com/27/5a/275aee63c2f5b50cdc641629cfbc3346.png"
+      },
+      {
+        "comment_id": 29924024,
+        "uid": 107705398,
+        "content": "关于我不管怎么写只要不被删就是眼这件事",
+        "createtime": 1598326982,
+        "nickname": "MkInFinite",
+        "avatar": "https://avatar.dmzj.com/52/90/52909e93813a5a61ce8f58a5610fe375.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

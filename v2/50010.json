@@ -1,0 +1,73 @@
+{
+  "id": 50010,
+  "islong": 2,
+  "direction": 1,
+  "title": "这确实是恋爱吧",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/zhequeshishilianaiba0907.jpg",
+  "description": "这种感情，确实就是恋爱吧 关于恋符诞生的故事",
+  "last_updatetime": 1567846176,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 118531,
+  "hit_num": 3368,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6792,
+      "tag_name": "小匙三杯"
+    }
+  ],
+  "subscribe_num": 570,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92944,
+          "chapter_title": "1话",
+          "updatetime": 1567846176,
+          "filesize": 5174193,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 25988343,
+        "uid": 105967206,
+        "content": "主角组wsl",
+        "createtime": 1585845921,
+        "nickname": "苹果苹果苹果糖",
+        "avatar": "https://avatar.dmzj.com/11/70/11707e5e883fc7d997fc516922bb9314.png"
+      },
+      {
+        "comment_id": 25603027,
+        "uid": 109432982,
+        "content": "留下痕迹",
+        "createtime": 1584973320,
+        "nickname": "dmzj_109432982",
+        "avatar": "https://avatar.dmzj.com/f1/f8/f1f86165759cb938253b930792b34f76.png"
+      }
+    ]
+  }
+}

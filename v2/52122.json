@@ -1,0 +1,108 @@
+{
+  "id": 52122,
+  "islong": 2,
+  "direction": 1,
+  "title": "我的妻子有点可怕",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/buchunzaideyoudiankepa0202.jpg",
+  "description": "我的妻子有点可怕（爱）",
+  "last_updatetime": 1598336407,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 6805970,
+  "hit_num": 707554,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18574,
+      "tag_name": "栗田あぐり"
+    }
+  ],
+  "subscribe_num": 30564,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 106273,
+          "chapter_title": "6话",
+          "updatetime": 1598336407,
+          "filesize": 659278,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 103002,
+          "chapter_title": "5话",
+          "updatetime": 1592323123,
+          "filesize": 1157289,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 99121,
+          "chapter_title": "4话",
+          "updatetime": 1584976792,
+          "filesize": 862897,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 97232,
+          "chapter_title": "3话",
+          "updatetime": 1581653809,
+          "filesize": 1152779,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 97108,
+          "chapter_title": "2话",
+          "updatetime": 1581421879,
+          "filesize": 492312,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 96753,
+          "chapter_title": "1话",
+          "updatetime": 1580652718,
+          "filesize": 410150,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 718,
+    "latest_comment": [
+      {
+        "comment_id": 29962517,
+        "uid": 104507146,
+        "content": "awsl",
+        "createtime": 1598455179,
+        "nickname": "南羌",
+        "avatar": "https://avatar.dmzj.com/ac/78/ac786c49dd9097b9a2678ba108b8f48d.png"
+      },
+      {
+        "comment_id": 29956583,
+        "uid": 110291986,
+        "content": "这话之后还有俩话",
+        "createtime": 1598440042,
+        "nickname": "黒色幽默",
+        "avatar": "https://avatar.dmzj.com/44/9b/449b024db5248460d7307aa00815b50c.png"
+      }
+    ]
+  }
+}

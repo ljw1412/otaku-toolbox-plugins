@@ -1,0 +1,69 @@
+{
+  "id": 6887,
+  "islong": 2,
+  "direction": 1,
+  "title": "告死标志",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/000001_a1bdcc6a_cb9e29edf21ed6091a66d6a31dbc184a.jpg",
+  "description": "本次的短篇选自《Epic Illustrated》，名叫——《告死标志（The Sign）》。主要是描述少年复仇的故事。",
+  "last_updatetime": 1290075213,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 8700,
+  "hit_num": 29400,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3686,
+      "tag_name": "Jo Duffy"
+    }
+  ],
+  "subscribe_num": 35,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13613,
+          "chapter_title": "1话",
+          "updatetime": 1290680013,
+          "filesize": 685328,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 24953709,
+        "uid": 107839743,
+        "content": "冷门到了极点",
+        "createtime": 1583501707,
+        "nickname": "沉默的刺客",
+        "avatar": "https://avatar.dmzj.com/84/30/8430cae66c8485e981bbbc7a0682f0f6.png"
+      },
+      {
+        "comment_id": 3158757,
+        "uid": 52095,
+        "content": "用毛笔画的吗",
+        "createtime": 1508813501,
+        "nickname": "逝  离",
+        "avatar": "https://avatar.dmzj.com/2a/6b/2a6b929518cf6aebed5ce308ba5eb763.png"
+      }
+    ]
+  }
+}

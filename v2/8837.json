@@ -1,0 +1,75 @@
+{
+  "id": 8837,
+  "islong": 2,
+  "direction": 1,
+  "title": "暗黑地下铁",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/anheidixiatie.jpg",
+  "description": "东京的地底下,存在著,连结死者的黄泉世界与这个世界的夹缝── 以地下铁为舞台,活人与死者的命运将纠缠在一起。你所利用的车站其实也连结著黄泉…！？",
+  "last_updatetime": 1337685363,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "anheidixiatie",
+  "hidden": 0,
+  "hot_num": 20928,
+  "hit_num": 1015227,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 19815,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4700,
+      "tag_name": "よしけん "
+    }
+  ],
+  "subscribe_num": 101,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19815,
+          "chapter_title": "1卷",
+          "updatetime": 1337685363,
+          "filesize": 27530773,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 10357219,
+        "uid": 102427984,
+        "content": "订阅好少",
+        "createtime": 1548094465,
+        "nickname": "艾泽拉斯的荣耀",
+        "avatar": "https://avatar.dmzj.com///.png"
+      },
+      {
+        "comment_id": 9449358,
+        "uid": 104353567,
+        "content": "想要umderground地下地下",
+        "createtime": 1546068497,
+        "nickname": "千叶竹",
+        "avatar": "https://avatar.dmzj.com/a7/2c/a72c5c18ceba0cbb1b461579561307cd.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

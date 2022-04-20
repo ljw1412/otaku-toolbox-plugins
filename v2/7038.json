@@ -1,0 +1,111 @@
+{
+  "id": 7038,
+  "islong": 2,
+  "direction": 1,
+  "title": "Arcana",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/51mN+ecTXNL._SL500_AA300_.jpg",
+  "description": "峰仓和也短篇集。",
+  "last_updatetime": 1294280279,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 152080,
+  "hit_num": 110647,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 165,
+      "tag_name": "峰仓和也"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 896,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13565,
+          "chapter_title": "8话",
+          "updatetime": 1294280362,
+          "filesize": 1112505,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 13564,
+          "chapter_title": "7话",
+          "updatetime": 1294280338,
+          "filesize": 893974,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 13563,
+          "chapter_title": "6话",
+          "updatetime": 1294280331,
+          "filesize": 2154402,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 13562,
+          "chapter_title": "5话",
+          "updatetime": 1294280323,
+          "filesize": 561390,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 13560,
+          "chapter_title": "3话",
+          "updatetime": 1294280303,
+          "filesize": 945485,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 13559,
+          "chapter_title": "2话",
+          "updatetime": 1294280297,
+          "filesize": 1201639,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 13558,
+          "chapter_title": "1话",
+          "updatetime": 1294280289,
+          "filesize": 1113789,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 22733394,
+        "uid": 105707940,
+        "content": "来了来了来了，好看的漫画来了",
+        "createtime": 1576850428,
+        "nickname": "白宝弹珠",
+        "avatar": "https://avatar.dmzj.com/51/73/5173e231d2ee50162228970bafa2a928.png"
+      },
+      {
+        "comment_id": 21987071,
+        "uid": 102118242,
+        "content": "更了更了",
+        "createtime": 1573143188,
+        "nickname": "晰夜",
+        "avatar": "https://avatar.dmzj.com/98/37/9837a0fe41bbb2b31a10a5e7f28ed279.png"
+      }
+    ]
+  }
+}

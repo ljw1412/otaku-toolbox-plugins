@@ -1,0 +1,75 @@
+{
+  "id": 53011,
+  "islong": 2,
+  "direction": 1,
+  "title": "幻想乡 礼仪之须知",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/hxxlyzxz20200316.jpg",
+  "description": "让幻想乡的各位来告诉大家漫展的注意事项吧!",
+  "last_updatetime": 1584336834,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huanxiangxiangliyizhixuzhi",
+  "hidden": 0,
+  "hot_num": 138889,
+  "hit_num": 16581,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 100502,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 452,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 100502,
+          "chapter_title": "1话",
+          "updatetime": 1584336834,
+          "filesize": 8141085,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 27424396,
+        "uid": 105149614,
+        "content": "受教了",
+        "createtime": 1589616188,
+        "nickname": "L656256",
+        "avatar": "https://avatar.dmzj.com/1b/5b/1b5bd9c88e4403723e4a0e3d7d7431a4.png"
+      },
+      {
+        "comment_id": 25340137,
+        "uid": 100683994,
+        "content": "如果队尾的人不愿意接手队尾牌的话，是否可以插他的队",
+        "createtime": 1584376838,
+        "nickname": "楠哥BRONAN",
+        "avatar": "https://avatar.dmzj.com/76/05/7605af076c18c962a629583d35e5bf1b.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

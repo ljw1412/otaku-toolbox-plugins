@@ -1,0 +1,86 @@
+{
+  "id": 51763,
+  "islong": 2,
+  "direction": 2,
+  "title": "宇宙人【IM】",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1023937711578408192.jpg",
+  "description": "从地狱把观看者带回来。",
+  "last_updatetime": 1580141042,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 86998,
+  "hit_num": 29445,
+  "uid": 102393771,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 16818,
+      "tag_name": "shangyinli"
+    }
+  ],
+  "subscribe_num": 380,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 92660,
+          "chapter_title": "2话",
+          "updatetime": 1580141042,
+          "filesize": 1242792,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 91976,
+          "chapter_title": "1话",
+          "updatetime": 1578409180,
+          "filesize": 3090094,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 24272025,
+        "uid": 109296573,
+        "content": "妈呀我太爱了\n不说疫放在平时我也最讨厌戴口罩的人了\n支持！",
+        "createtime": 1582020714,
+        "nickname": "灰目的猫子",
+        "avatar": "https://avatar.dmzj.com/17/60/17606b1515d825174ae34fabdb8f088b.png"
+      },
+      {
+        "comment_id": 23800063,
+        "uid": 108914794,
+        "content": "不错起码故事能看懂，你比很多人强了",
+        "createtime": 1580877027,
+        "nickname": "dmzj_108914794",
+        "avatar": "https://avatar.dmzj.com/60/7a/607a6dc17ab8f9451eaed4ea5e5953a1.png"
+      }
+    ]
+  }
+}

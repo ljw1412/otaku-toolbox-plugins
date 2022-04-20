@@ -1,0 +1,79 @@
+{
+  "id": 50575,
+  "islong": 2,
+  "direction": 1,
+  "title": "使徒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1082471121569728512.jpg",
+  "description": "男主角石乐志某一天收到一份神秘快递后，不断面临危险...",
+  "last_updatetime": 1569730751,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 15888,
+  "hit_num": 1120,
+  "uid": 108247112,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18055,
+      "tag_name": "教练"
+    }
+  ],
+  "subscribe_num": 64,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 93923,
+          "chapter_title": "1话",
+          "updatetime": 1569730751,
+          "filesize": 1144016,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 21795907,
+        "uid": 109250134,
+        "content": "石乐志这个名字认真的吗",
+        "createtime": 1572502669,
+        "nickname": "布灵布灵",
+        "avatar": "https://avatar.dmzj.com/70/86/708649313774494de6475734c2d34937.png"
+      },
+      {
+        "comment_id": 21159320,
+        "uid": 109657461,
+        "content": "男主外表像L",
+        "createtime": 1570714190,
+        "nickname": "eka1",
+        "avatar": "https://avatar.dmzj.com/eb/16/eb16825629a24788b8d0800c516f42ed.png"
+      }
+    ]
+  }
+}

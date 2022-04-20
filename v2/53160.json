@@ -1,0 +1,73 @@
+{
+  "id": 53160,
+  "islong": 2,
+  "direction": 1,
+  "title": "请快点出来吧",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/qkdclb20200323.jpg",
+  "description": "书本物品频繁消失不见,到底偷盗之人是谁?",
+  "last_updatetime": 1584934396,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 56147,
+  "hit_num": 17872,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5635,
+      "tag_name": "和泉ゆきる"
+    }
+  ],
+  "subscribe_num": 259,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99834,
+          "chapter_title": "1话",
+          "updatetime": 1584934396,
+          "filesize": 7854106,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 25619082,
+        "uid": 101198834,
+        "content": "这真的是相当老的漫画了啊",
+        "createtime": 1585005696,
+        "nickname": "少司书长",
+        "avatar": "https://avatar.dmzj.com/67/08/670821e6b0e8bfede590b9501511f2bb.png"
+      },
+      {
+        "comment_id": 25616762,
+        "uid": 101144171,
+        "content": "话说那本不错 哪位把东方浮云 搬一下qaq",
+        "createtime": 1584989701,
+        "nickname": "—  幽了个幽",
+        "avatar": "https://avatar.dmzj.com/63/f1/63f1c7f388ff8c1f04ecacc5e52899e9.png"
+      }
+    ]
+  }
+}

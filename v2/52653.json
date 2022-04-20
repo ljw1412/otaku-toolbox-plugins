@@ -1,0 +1,77 @@
+{
+  "id": 52653,
+  "islong": 2,
+  "direction": 1,
+  "title": "沙丁鱼头苦手",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/sdytgs0301.jpg",
+  "description": "一条沙丁鱼引发各种事情",
+  "last_updatetime": 1583027690,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 25101,
+  "hit_num": 2776,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5529,
+      "tag_name": "春夏アキト"
+    },
+    {
+      "tag_id": 16456,
+      "tag_name": "happy flame time"
+    }
+  ],
+  "subscribe_num": 121,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94142,
+          "chapter_title": "1话",
+          "updatetime": 1583027690,
+          "filesize": 6132601,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 24971290,
+        "uid": 101066775,
+        "content": "当年爱丽丝还喜欢的是灵梦",
+        "createtime": 1583527974,
+        "nickname": "来ケ谷唯湖",
+        "avatar": "https://avatar.dmzj.com/7d/83/7d839131a6a362b835e183b2310d83da.png"
+      },
+      {
+        "comment_id": 24788465,
+        "uid": 107004243,
+        "content": "经典老番，元老级作品",
+        "createtime": 1583165481,
+        "nickname": "dmzj_107004243",
+        "avatar": "https://avatar.dmzj.com/b9/d8/b9d82c3f08d4ac1d8453dc549bc98416.png"
+      }
+    ]
+  }
+}

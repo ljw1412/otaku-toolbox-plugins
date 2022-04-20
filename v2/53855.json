@@ -1,0 +1,69 @@
+{
+  "id": 53855,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方蛙回录",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/dfwhl0424.jpg",
+  "description": "东方短篇集",
+  "last_updatetime": 1587693211,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 26670,
+  "hit_num": 5100,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 2068,
+      "tag_name": "神马耶树"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 126,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101342,
+          "chapter_title": "1话",
+          "updatetime": 1587693211,
+          "filesize": 3090147,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 26822831,
+        "uid": 106983112,
+        "content": "日～落～西～山～红～霞～飞～????",
+        "createtime": 1587802710,
+        "nickname": "dmzj_106983112",
+        "avatar": "https://avatar.dmzj.com/4a/4e/4a4eff3cd5ee77aa35cedd30716263c2.png"
+      },
+      {
+        "comment_id": 26797547,
+        "uid": 102555144,
+        "content": "安排一下",
+        "createtime": 1587737393,
+        "nickname": "Wildfre",
+        "avatar": "https://avatar.dmzj.com/9d/28/9d289c068f4f2c423e17af6c79e97b75.png"
+      }
+    ]
+  }
+}

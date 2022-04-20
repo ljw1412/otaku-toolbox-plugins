@@ -1,0 +1,103 @@
+{
+  "id": 52986,
+  "islong": 2,
+  "direction": 1,
+  "title": "感谢的敲音",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/200523gxdqy.jpg",
+  "description": "从今天起,每天感谢一万次",
+  "last_updatetime": 1590242409,
+  "last_update_chapter_name": "百式敲音篇第04话",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "ganxiedeqiaoyin",
+  "hidden": 0,
+  "hot_num": 168185,
+  "hit_num": 177549,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 103964,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19220,
+      "tag_name": "JoJosmusclepower"
+    }
+  ],
+  "subscribe_num": 740,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 103964,
+          "chapter_title": "百式敲音篇第04话",
+          "updatetime": 1590242409,
+          "filesize": 4759154,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 102761,
+          "chapter_title": "百式敲音篇第03话",
+          "updatetime": 1588157954,
+          "filesize": 4828337,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 102535,
+          "chapter_title": "百式敲音篇第02话",
+          "updatetime": 1587803010,
+          "filesize": 5005482,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 102444,
+          "chapter_title": "百式敲音篇第01话",
+          "updatetime": 1587639321,
+          "filesize": 4588885,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 100468,
+          "chapter_title": "1话",
+          "updatetime": 1584261345,
+          "filesize": 2230157,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 89,
+    "latest_comment": [
+      {
+        "comment_id": 27637498,
+        "uid": 101845352,
+        "content": "默默掏出宝贝球",
+        "createtime": 1590290373,
+        "nickname": "周树人72886",
+        "avatar": "https://avatar.dmzj.com/24/49/24492251d535b12185f9fd22609ac0f8.png"
+      },
+      {
+        "comment_id": 27636674,
+        "uid": 109199476,
+        "content": "物攻点满的超梦贴脸怎么输",
+        "createtime": 1590287332,
+        "nickname": "沐嗔",
+        "avatar": "https://avatar.dmzj.com/e0/f4/e0f4b788519b585890c5b31c1d8f4dbf.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

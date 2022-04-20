@@ -1,0 +1,115 @@
+{
+  "id": 52243,
+  "islong": 1,
+  "direction": 1,
+  "title": "似乎是在游玩的圣杯战争",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/shszywdsbzz2020210.jpg",
+  "description": "业余爱好之作，是建立在中圣杯规则基础上，包含了一定的口胡和各种改动。",
+  "last_updatetime": 1597384998,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 80756,
+  "hit_num": 20226,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 18522,
+      "tag_name": "AA"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18871,
+      "tag_name": "咸鱼于千"
+    }
+  ],
+  "subscribe_num": 331,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 101775,
+          "chapter_title": "4话",
+          "updatetime": 1597384998,
+          "filesize": 1078521,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 98425,
+          "chapter_title": "3话",
+          "updatetime": 1590449472,
+          "filesize": 3730424,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 96051,
+          "chapter_title": "2话",
+          "updatetime": 1586320221,
+          "filesize": 2387781,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 93747,
+          "chapter_title": "4话",
+          "updatetime": 1582256928,
+          "filesize": 2177989,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 93304,
+          "chapter_title": "3话",
+          "updatetime": 1581472054,
+          "filesize": 394895,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 93262,
+          "chapter_title": "2话",
+          "updatetime": 1581396151,
+          "filesize": 286637,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 93219,
+          "chapter_title": "1话",
+          "updatetime": 1581305102,
+          "filesize": 502500,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 29811454,
+        "uid": 101790647,
+        "content": "你好，我想请问一下，你是怎么发布才让作者名变成自己的用户名而不是佚名的",
+        "createtime": 1597911128,
+        "nickname": "所谓卢生者",
+        "avatar": "https://avatar.dmzj.com/32/78/32783dcc2f9661d8a357091e6fd4c41c.png"
+      },
+      {
+        "comment_id": 29684345,
+        "uid": 103502058,
+        "content": "失踪人口回归了！",
+        "createtime": 1597423735,
+        "nickname": "怒送一血0",
+        "avatar": "https://avatar.dmzj.com/90/6d/906dfa4490b3d0de5bc639e4b2556726.png"
+      }
+    ]
+  }
+}

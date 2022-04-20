@@ -1,0 +1,76 @@
+{
+  "id": 50808,
+  "islong": 2,
+  "direction": 1,
+  "title": "Gundam Mobile Suit Bible",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/191026gundammobilesuitbible.jpg",
+  "description": "Gundam 机体设定图解",
+  "last_updatetime": 1572092823,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 384657,
+  "hit_num": 92207,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3325,
+      "tag_name": "机战"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 1746,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89627,
+          "chapter_title": "2卷",
+          "updatetime": 1572092823,
+          "filesize": 6518683,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 89623,
+          "chapter_title": "1卷",
+          "updatetime": 1572082320,
+          "filesize": 11591686,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 27,
+    "latest_comment": [
+      {
+        "comment_id": 24471335,
+        "uid": 102540697,
+        "content": "tg也是真多啊",
+        "createtime": 1582488188,
+        "nickname": "芝士酥饼",
+        "avatar": "https://avatar.dmzj.com/17/71/1771b137a6df356db138b328417ee906.png"
+      },
+      {
+        "comment_id": 23278063,
+        "uid": 102557694,
+        "content": "图解啊",
+        "createtime": 1578994560,
+        "nickname": "Monkey D 路飞",
+        "avatar": "https://avatar.dmzj.com/05/78/0578052a16a705abd0bf1dee73f3a0c8.png"
+      }
+    ]
+  }
+}

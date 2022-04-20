@@ -1,0 +1,73 @@
+{
+  "id": 6408,
+  "islong": 2,
+  "direction": 1,
+  "title": "漫研部",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/manyanbu.jpg",
+  "description": "超短篇小漫画",
+  "last_updatetime": 1287649958,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 78363,
+  "hit_num": 19577,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3474,
+      "tag_name": "笠野なつみ "
+    }
+  ],
+  "subscribe_num": 363,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12758,
+          "chapter_title": "1话",
+          "updatetime": 1288254758,
+          "filesize": 396772,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 27,
+    "latest_comment": [
+      {
+        "comment_id": 28004120,
+        "uid": 107678045,
+        "content": "谁有那个漫研部和不思议美眉的漫画啊",
+        "createtime": 1591551749,
+        "nickname": "dmzj_107678045",
+        "avatar": "https://avatar.dmzj.com/ea/ce/eace017520f9108b527434cbb184403c.png"
+      },
+      {
+        "comment_id": 25790937,
+        "uid": 108682428,
+        "content": "我想要的是那个无厘头的漫研部啊，这个短片是什么。。",
+        "createtime": 1585405535,
+        "nickname": "手机随时上mc",
+        "avatar": "https://avatar.dmzj.com/90/39/90394ad8bfa5cf7a6e7dfc98c836b281.png"
+      }
+    ]
+  }
+}

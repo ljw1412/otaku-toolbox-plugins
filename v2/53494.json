@@ -1,0 +1,96 @@
+{
+  "id": 53494,
+  "islong": 2,
+  "direction": 1,
+  "title": "恋爱多少分",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/ladsf202047.jpg",
+  "description": "这份思恋是否正确，既不由我也不由你，而是跳出的数字来决定。",
+  "last_updatetime": 1597121710,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lianaiduoshaofen",
+  "hidden": 0,
+  "hot_num": 13316417,
+  "hit_num": 5696645,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 102139,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 19479,
+      "tag_name": "LEN[A-7]"
+    }
+  ],
+  "subscribe_num": 49670,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102139,
+          "chapter_title": "4话",
+          "updatetime": 1597121710,
+          "filesize": 7401431,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 101970,
+          "chapter_title": "3话",
+          "updatetime": 1596729942,
+          "filesize": 8085185,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 100558,
+          "chapter_title": "2话",
+          "updatetime": 1596729929,
+          "filesize": 7345520,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 96443,
+          "chapter_title": "1话",
+          "updatetime": 1586254152,
+          "filesize": 7787641,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3409,
+    "latest_comment": [
+      {
+        "comment_id": 30065545,
+        "uid": 106404561,
+        "content": "真-活在梦里",
+        "createtime": 1598880930,
+        "nickname": "dmzj_106404561",
+        "avatar": "https://avatar.dmzj.com/a1/1f/a11f745146275fda2e0db6ba4cdd87ae.png"
+      },
+      {
+        "comment_id": 30059090,
+        "uid": 109813303,
+        "content": "表现手法让我想到了电影《Mr.Nobody 》，既有趣又乏味。（期待",
+        "createtime": 1598850473,
+        "nickname": "千早明石",
+        "avatar": "https://avatar.dmzj.com/72/98/72984bc0c881fb09ccf86bc1f681de2f.png"
+      }
+    ]
+  },
+  "is_need_login": 1
+}

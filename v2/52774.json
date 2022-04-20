@@ -1,0 +1,98 @@
+{
+  "id": 52774,
+  "islong": 2,
+  "direction": 1,
+  "title": "我与你是双重侦探",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/wynssczt200304.jpg",
+  "description": "所有人、都戴着面具、生存于世——。",
+  "last_updatetime": 1597242241,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 4943401,
+  "hit_num": 2109942,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7202,
+      "tag_name": "辺天使"
+    },
+    {
+      "tag_id": 19132,
+      "tag_name": "津田橞波"
+    }
+  ],
+  "subscribe_num": 22955,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 102209,
+          "chapter_title": "4话",
+          "updatetime": 1597242241,
+          "filesize": 8357285,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 100292,
+          "chapter_title": "3话",
+          "updatetime": 1593229880,
+          "filesize": 8944176,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 99011,
+          "chapter_title": "2话",
+          "updatetime": 1590594750,
+          "filesize": 13665635,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 94985,
+          "chapter_title": "1话",
+          "updatetime": 1583387374,
+          "filesize": 8396112,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 958,
+    "latest_comment": [
+      {
+        "comment_id": 30018182,
+        "uid": 111404324,
+        "content": "比起双重人格这更像演戏的",
+        "createtime": 1598679021,
+        "nickname": "dmzj_111404324",
+        "avatar": "https://avatar.dmzj.com/95/63/9563a585b0f394ad32596eeb4dadbfd4.png"
+      },
+      {
+        "comment_id": 29952922,
+        "uid": 110093872,
+        "content": "问题来了，男主究竟是在演还是双重人格？",
+        "createtime": 1598424446,
+        "nickname": "镜花世界第一可爱",
+        "avatar": "https://avatar.dmzj.com/90/08/90081884575211080adb4e394467b77d.png"
+      }
+    ]
+  }
+}

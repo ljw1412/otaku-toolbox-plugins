@@ -1,0 +1,93 @@
+{
+  "id": 50615,
+  "islong": 2,
+  "direction": 1,
+  "title": "元古上族",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1097237871571812664.jpg",
+  "description": "混沌初开，天地始分...",
+  "last_updatetime": 1572313944,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 12811,
+  "hit_num": 4249,
+  "uid": 109723787,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18069,
+      "tag_name": "弥天大圣"
+    }
+  ],
+  "subscribe_num": 48,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 94558,
+          "chapter_title": "3话",
+          "updatetime": 1572313944,
+          "filesize": 1517397,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 94255,
+          "chapter_title": "2话",
+          "updatetime": 1571547506,
+          "filesize": 1743807,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 93986,
+          "chapter_title": "1话",
+          "updatetime": 1570514545,
+          "filesize": 1117224,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 21526224,
+        "uid": 101536117,
+        "content": "看不懂还是要码\n第一话宽袖子长发男的脚有点戳我",
+        "createtime": 1571639122,
+        "nickname": "江南快去写龙五",
+        "avatar": "https://avatar.dmzj.com/55/23/55238edc98d3453c0e7e90472ba21ef0.png"
+      },
+      {
+        "comment_id": 21503404,
+        "uid": 104824388,
+        "content": "分析一下，第二话男孩有能力变出来食物和金属，但是问他钱是什么他不知道，所以脑子里面应该不是正常人类的记忆。",
+        "createtime": 1571574356,
+        "nickname": "狂风萌踢破关节",
+        "avatar": "https://avatar.dmzj.com/38/21/38217ffa20646873e7dfcc9b80d48806.png"
+      }
+    ]
+  }
+}

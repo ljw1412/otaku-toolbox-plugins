@@ -1,0 +1,89 @@
+{
+  "id": 50779,
+  "islong": 2,
+  "direction": 1,
+  "title": "漫画即是拳击",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1013595841571903183.jpg",
+  "description": "漫画新人的成长故事，如果把漫画比作拳击，那么主角正在进行一场艰苦卓绝的拳击比赛……",
+  "last_updatetime": 1571903552,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 13147,
+  "hit_num": 5814,
+  "uid": 101359584,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 18135,
+      "tag_name": "1900"
+    }
+  ],
+  "subscribe_num": 51,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90504,
+          "chapter_title": "3话",
+          "updatetime": 1571903552,
+          "filesize": 1130909,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 90503,
+          "chapter_title": "2话",
+          "updatetime": 1571903520,
+          "filesize": 1303437,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 90502,
+          "chapter_title": "1话",
+          "updatetime": 1571903430,
+          "filesize": 1281254,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "我的微博账号：不赶稿的1900，欢迎关注！每周五更新！",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 21866589,
+        "uid": 107185171,
+        "content": "剧本写得确实好啊。。。",
+        "createtime": 1572748278,
+        "nickname": "海风MC",
+        "avatar": "https://avatar.dmzj.com/69/71/6971169e1cec6d36fe8d617a96062592.png"
+      },
+      {
+        "comment_id": 21638817,
+        "uid": 101456831,
+        "content": "QAQ",
+        "createtime": 1571970740,
+        "nickname": "高手，看不透",
+        "avatar": "https://avatar.dmzj.com/56/88/5688de2e6e6cc1a19749ceb24bfaf100.png"
+      }
+    ]
+  }
+}

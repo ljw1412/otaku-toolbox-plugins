@@ -1,0 +1,73 @@
+{
+  "id": 50659,
+  "islong": 2,
+  "direction": 1,
+  "title": "青蛙王子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/fengmian.jpg",
+  "description": "彻彻底底到春天了呐，来一起玩耍吧~",
+  "last_updatetime": 1571191789,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 51701,
+  "hit_num": 8991,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8276,
+      "tag_name": "シロガネヒナ"
+    }
+  ],
+  "subscribe_num": 244,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89816,
+          "chapter_title": "1话",
+          "updatetime": 1571191790,
+          "filesize": 2902350,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 65,
+    "latest_comment": [
+      {
+        "comment_id": 29520297,
+        "uid": 108710642,
+        "content": "????",
+        "createtime": 1596770810,
+        "nickname": "90wish",
+        "avatar": "https://avatar.dmzj.com/62/78/62784eea41803e25fe98d38a1ce60643.png"
+      },
+      {
+        "comment_id": 29271048,
+        "uid": 107927632,
+        "content": "naive faith",
+        "createtime": 1595869297,
+        "nickname": "十六夜女仆长",
+        "avatar": "https://avatar.dmzj.com/cc/d8/ccd88095cd0b52a12ce723f2aea27bc0.png"
+      }
+    ]
+  }
+}

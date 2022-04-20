@@ -1,0 +1,73 @@
+{
+  "id": 6966,
+  "islong": 2,
+  "direction": 1,
+  "title": "欢迎来到日向咖啡店",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/huanyinglaidaorixiangkafeid.jpg",
+  "description": "轻松治愈的咖啡店四格漫画…… ",
+  "last_updatetime": 1291539696,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 40672,
+  "hit_num": 52555,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3721,
+      "tag_name": "门井亚矢"
+    }
+  ],
+  "subscribe_num": 189,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 12118,
+          "chapter_title": "1话",
+          "updatetime": 1291539696,
+          "filesize": 764844,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 29477134,
+        "uid": 111370784,
+        "content": "刨个坑",
+        "createtime": 1596620327,
+        "nickname": "dmzj_111370784",
+        "avatar": "https://avatar.dmzj.com/9c/3a/9c3ad7313ea4eb72750983ae48a91b6c.png"
+      },
+      {
+        "comment_id": 10213586,
+        "uid": 101780886,
+        "content": "挖个坟",
+        "createtime": 1547774473,
+        "nickname": "幻光月曦",
+        "avatar": "https://avatar.dmzj.com/71/37/713772ef230d67589aeab08c76005c94.png"
+      }
+    ]
+  }
+}
