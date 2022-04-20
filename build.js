@@ -16,7 +16,7 @@ function createPluginList() {
   fs.writeFileSync(join(PLUGINS_DIR, 'list.json'), JSON.stringify(list))
 }
 
-const acgNames = ['anime', 'comic', 'game']
+const acgNames = ['news', 'anime', 'comic', 'game']
 
 function createACGRuleList(type) {
   const ACG_DIR = join(RELEASE_DIR, type)

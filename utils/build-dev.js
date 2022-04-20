@@ -6,7 +6,7 @@ const only = require('only')
 const DEV_DIR = join(__dirname, '..', 'dev')
 const PLUGINS_DIR = join(DEV_DIR, 'plugins')
 
-const acgNames = ['anime', 'comic', 'game']
+const acgNames = ['news', 'anime', 'comic', 'game']
 
 function createACGItemRuleList(type) {
   const ACG_DIR = join(DEV_DIR, type)
