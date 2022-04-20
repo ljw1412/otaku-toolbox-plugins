@@ -1,0 +1,116 @@
+{
+  "id": 15714,
+  "islong": 2,
+  "direction": 1,
+  "title": "治愈lecture",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/zhiyulecture0929.jpg",
+  "description": "萌萌哒校园四格百合漫",
+  "last_updatetime": 1431146931,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhiyulecture",
+  "hidden": 0,
+  "hot_num": 129927,
+  "hit_num": 159904,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 37035,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7832,
+      "tag_name": "みにまる"
+    }
+  ],
+  "subscribe_num": 886,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37035,
+          "chapter_title": "4话",
+          "updatetime": 1431146931,
+          "filesize": 1303152,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 34124,
+          "chapter_title": "3话",
+          "updatetime": 1422374365,
+          "filesize": 1161503,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 31893,
+          "chapter_title": "2话",
+          "updatetime": 1414808576,
+          "filesize": 1269654,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 31176,
+          "chapter_title": "1话",
+          "updatetime": 1412001929,
+          "filesize": 1232284,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 22793251,
+        "uid": 101926191,
+        "content": "这一篇只是没人接坑吗？",
+        "createtime": 1577098924,
+        "nickname": "小里纽崔莱",
+        "avatar": "https://avatar.dmzj.com/26/75/2675b8884c7715e3b88d8bba56330620.png"
+      },
+      {
+        "comment_id": 21808952,
+        "uid": 100168032,
+        "content": "4年半还没人接",
+        "createtime": 1572538627,
+        "nickname": "京子大放送",
+        "avatar": "https://avatar.dmzj.com/85/89/85892f4bda569194388affd335609101.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

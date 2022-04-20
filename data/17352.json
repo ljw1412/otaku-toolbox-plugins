@@ -1,0 +1,100 @@
+{
+  "id": 17352,
+  "islong": 2,
+  "direction": 2,
+  "title": "不归燕",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/0309buguiyanfml.jpg",
+  "description": "一个吸毒者的孩子无字的独白。",
+  "last_updatetime": 1425880431,
+  "last_update_chapter_name": "05来吧，飞翔",
+  "copyright": 1,
+  "first_letter": "b",
+  "comic_py": "buguiyan",
+  "hidden": 0,
+  "hot_num": 4859,
+  "hit_num": 103448,
+  "uid": 100098801,
+  "is_lock": 0,
+  "last_update_chapter_id": 38941,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8673,
+      "tag_name": "铁和碎石"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38941,
+          "chapter_title": "5话",
+          "updatetime": 1425880431,
+          "filesize": 803551,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 38940,
+          "chapter_title": "4话",
+          "updatetime": 1425880420,
+          "filesize": 818673,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 38939,
+          "chapter_title": "3话",
+          "updatetime": 1425880408,
+          "filesize": 932974,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 38938,
+          "chapter_title": "2话",
+          "updatetime": 1425880390,
+          "filesize": 785144,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 38937,
+          "chapter_title": "1话",
+          "updatetime": 1425880377,
+          "filesize": 874598,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

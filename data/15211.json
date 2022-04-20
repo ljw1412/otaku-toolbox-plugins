@@ -1,0 +1,70 @@
+{
+  "id": 15211,
+  "islong": 2,
+  "direction": 1,
+  "title": "4 Colors＊4 Frames",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/1yingxiongzhechanghaosesise.jpg",
+  "description": "英雄者，常好色。",
+  "last_updatetime": 1407243123,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "4",
+  "comic_py": "4cfeames",
+  "hidden": 0,
+  "hot_num": 4199,
+  "hit_num": 72073,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 30010,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7599,
+      "tag_name": "じせる"
+    }
+  ],
+  "subscribe_num": 20,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30010,
+          "chapter_title": "0话",
+          "updatetime": 1407243123,
+          "filesize": 1857796,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

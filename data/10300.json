@@ -1,0 +1,91 @@
+{
+  "id": 10300,
+  "islong": 2,
+  "direction": 1,
+  "title": "猫Reset",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/maoreset20130209.jpg",
+  "description": "东方脱力系搞笑漫画。不管怎么样路上遇到其它人的话一定要想办法瞒过去。。。被称为幻想第一美少女爱丽丝竟然因为没有纸用内裤来擦这种事情要是暴露了那以后就没脸见人了呀",
+  "last_updatetime": 1360342640,
+  "last_update_chapter_name": "第1-8话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "maoreset",
+  "hidden": 0,
+  "hot_num": 20185,
+  "hit_num": 530926,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21651,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5479,
+      "tag_name": "さなり"
+    }
+  ],
+  "subscribe_num": 75,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21651,
+          "chapter_title": "1话",
+          "updatetime": 1360342640,
+          "filesize": 3498854,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 453342,
+        "uid": 25325883,
+        "content": "        。",
+        "createtime": 1439650066,
+        "nickname": "风亦夜",
+        "avatar": "https://avatar.dmzj.com/c0/09/c00982001c7a21e684505cbf819e0c91.png"
+      },
+      {
+        "comment_id": 295979,
+        "uid": 25951204,
+        "content": " /外星人 ",
+        "createtime": 1411877366,
+        "nickname": "我承认我想歪了",
+        "avatar": "https://avatar.dmzj.com/b8/c0/b8c0dba1407d445715f2c740e0701b9b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

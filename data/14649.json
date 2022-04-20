@@ -1,0 +1,329 @@
+{
+  "id": 14649,
+  "islong": 2,
+  "direction": 2,
+  "title": "罗宾V4",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/luobin.jpg",
+  "description": "罗宾（Robin）是美国DC漫画中其中一位超级英雄，作为蝙蝠侠的好伙伴登场，这是属于他的故事。",
+  "last_updatetime": 1585735002,
+  "last_update_chapter_name": "第27卷",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "luobin",
+  "hidden": 0,
+  "hot_num": 1521305,
+  "hit_num": 428589,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 96178,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 5686,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 58416,
+          "chapter_title": "年刊07",
+          "updatetime": 1484839020,
+          "filesize": 3322140,
+          "chapter_order": 1761
+        },
+        {
+          "chapter_id": 58363,
+          "chapter_title": "176卷",
+          "updatetime": 1484664101,
+          "filesize": 3318727,
+          "chapter_order": 1760
+        },
+        {
+          "chapter_id": 58362,
+          "chapter_title": "175话",
+          "updatetime": 1484663948,
+          "filesize": 5469992,
+          "chapter_order": 1750
+        },
+        {
+          "chapter_id": 81426,
+          "chapter_title": "169卷",
+          "updatetime": 1548504017,
+          "filesize": 5860690,
+          "chapter_order": 1690
+        },
+        {
+          "chapter_id": 81054,
+          "chapter_title": "168卷",
+          "updatetime": 1547452165,
+          "filesize": 5728234,
+          "chapter_order": 1680
+        },
+        {
+          "chapter_id": 86570,
+          "chapter_title": "163卷",
+          "updatetime": 1562384530,
+          "filesize": 2737557,
+          "chapter_order": 1630
+        },
+        {
+          "chapter_id": 57768,
+          "chapter_title": "年刊04",
+          "updatetime": 1482834364,
+          "filesize": 13291597,
+          "chapter_order": 1591
+        },
+        {
+          "chapter_id": 85024,
+          "chapter_title": "159卷",
+          "updatetime": 1558189847,
+          "filesize": 3072134,
+          "chapter_order": 1590
+        },
+        {
+          "chapter_id": 28216,
+          "chapter_title": "158卷",
+          "updatetime": 1401245158,
+          "filesize": 2407557,
+          "chapter_order": 1580
+        },
+        {
+          "chapter_id": 28215,
+          "chapter_title": "157卷",
+          "updatetime": 1401245146,
+          "filesize": 2242083,
+          "chapter_order": 1570
+        },
+        {
+          "chapter_id": 70670,
+          "chapter_title": "133卷",
+          "updatetime": 1520755365,
+          "filesize": 4188427,
+          "chapter_order": 1330
+        },
+        {
+          "chapter_id": 66697,
+          "chapter_title": "132卷",
+          "updatetime": 1510140846,
+          "filesize": 3139260,
+          "chapter_order": 1320
+        },
+        {
+          "chapter_id": 92319,
+          "chapter_title": "131卷",
+          "updatetime": 1577091342,
+          "filesize": 4855331,
+          "chapter_order": 1310
+        },
+        {
+          "chapter_id": 86410,
+          "chapter_title": "130卷",
+          "updatetime": 1562214379,
+          "filesize": 3296690,
+          "chapter_order": 1300
+        },
+        {
+          "chapter_id": 29719,
+          "chapter_title": "129卷",
+          "updatetime": 1407936287,
+          "filesize": 6097843,
+          "chapter_order": 1290
+        },
+        {
+          "chapter_id": 84810,
+          "chapter_title": "125卷",
+          "updatetime": 1557638343,
+          "filesize": 3377527,
+          "chapter_order": 1250
+        },
+        {
+          "chapter_id": 91792,
+          "chapter_title": "118卷",
+          "updatetime": 1575305130,
+          "filesize": 6026735,
+          "chapter_order": 1180
+        },
+        {
+          "chapter_id": 85695,
+          "chapter_title": "106卷",
+          "updatetime": 1560000827,
+          "filesize": 3945719,
+          "chapter_order": 1060
+        },
+        {
+          "chapter_id": 57512,
+          "chapter_title": "98卷",
+          "updatetime": 1482066239,
+          "filesize": 2559939,
+          "chapter_order": 980
+        },
+        {
+          "chapter_id": 57511,
+          "chapter_title": "77卷",
+          "updatetime": 1482066103,
+          "filesize": 2703937,
+          "chapter_order": 770
+        },
+        {
+          "chapter_id": 57510,
+          "chapter_title": "76卷",
+          "updatetime": 1482066044,
+          "filesize": 2611709,
+          "chapter_order": 760
+        },
+        {
+          "chapter_id": 93710,
+          "chapter_title": "65卷",
+          "updatetime": 1580657182,
+          "filesize": 5702614,
+          "chapter_order": 650
+        },
+        {
+          "chapter_id": 92610,
+          "chapter_title": "64卷",
+          "updatetime": 1577719116,
+          "filesize": 5493810,
+          "chapter_order": 640
+        },
+        {
+          "chapter_id": 92609,
+          "chapter_title": "63卷",
+          "updatetime": 1577719047,
+          "filesize": 5492960,
+          "chapter_order": 630
+        },
+        {
+          "chapter_id": 88338,
+          "chapter_title": "62卷",
+          "updatetime": 1567237315,
+          "filesize": 4945758,
+          "chapter_order": 620
+        },
+        {
+          "chapter_id": 95002,
+          "chapter_title": "30卷",
+          "updatetime": 1583413426,
+          "filesize": 5876940,
+          "chapter_order": 300
+        },
+        {
+          "chapter_id": 94811,
+          "chapter_title": "29卷",
+          "updatetime": 1583029452,
+          "filesize": 4976600,
+          "chapter_order": 290
+        },
+        {
+          "chapter_id": 96178,
+          "chapter_title": "27卷",
+          "updatetime": 1585735002,
+          "filesize": 5750867,
+          "chapter_order": 270
+        },
+        {
+          "chapter_id": 94496,
+          "chapter_title": "26卷",
+          "updatetime": 1582334126,
+          "filesize": 4733345,
+          "chapter_order": 260
+        },
+        {
+          "chapter_id": 91536,
+          "chapter_title": "25卷",
+          "updatetime": 1574672670,
+          "filesize": 4115432,
+          "chapter_order": 250
+        },
+        {
+          "chapter_id": 87582,
+          "chapter_title": "13卷",
+          "updatetime": 1565077497,
+          "filesize": 5997071,
+          "chapter_order": 13
+        },
+        {
+          "chapter_id": 60457,
+          "chapter_title": "12卷",
+          "updatetime": 1491803110,
+          "filesize": 4918281,
+          "chapter_order": 12
+        },
+        {
+          "chapter_id": 60456,
+          "chapter_title": "11卷",
+          "updatetime": 1491803107,
+          "filesize": 5559997,
+          "chapter_order": 11
+        },
+        {
+          "chapter_id": 83132,
+          "chapter_title": "10卷",
+          "updatetime": 1553685731,
+          "filesize": 3906577,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 37787,
+          "chapter_title": "0卷",
+          "updatetime": 1433320248,
+          "filesize": 3083533,
+          "chapter_order": 0
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 24937687,
+        "uid": 109983129,
+        "content": "他真可爱",
+        "createtime": 1583466777,
+        "nickname": "dmzj_109983129",
+        "avatar": "https://avatar.dmzj.com/54/70/547097e9d590e398ec995e3d38a055ea.png"
+      },
+      {
+        "comment_id": 24424441,
+        "uid": 108767236,
+        "content": "90年代剧情提姆的前女友其实也不少...",
+        "createtime": 1582386292,
+        "nickname": "可乐味方便面",
+        "avatar": "https://avatar.dmzj.com/36/49/364948c3bf4d0d9f116ef2bf43a25d37.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

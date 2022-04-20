@@ -1,0 +1,79 @@
+{
+  "id": 18858,
+  "islong": 2,
+  "direction": 2,
+  "title": "彩集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1001792801432608938.jpg",
+  "description": "绘本集，插画集，有小清新，小可爱。\n微博http://weibo.com/baikong2015",
+  "last_updatetime": 1432609047,
+  "last_update_chapter_name": "世界，你好",
+  "copyright": 1,
+  "first_letter": "c",
+  "comic_py": "caiji",
+  "hidden": 0,
+  "hot_num": 2293,
+  "hit_num": 9990,
+  "uid": 100179280,
+  "is_lock": 0,
+  "last_update_chapter_id": 37406,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9401,
+      "tag_name": "白孔"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37406,
+          "chapter_title": "世界，你好",
+          "updatetime": 1432609047,
+          "filesize": 1094054,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 37405,
+          "chapter_title": "葵之光",
+          "updatetime": 1432608977,
+          "filesize": 294348,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

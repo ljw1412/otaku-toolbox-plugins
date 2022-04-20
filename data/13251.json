@@ -1,0 +1,87 @@
+{
+  "id": 13251,
+  "islong": 2,
+  "direction": 1,
+  "title": "狐仙公主",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/huxiangongzhu2222.jpg",
+  "description": "某天，我被一只狐……",
+  "last_updatetime": 1384451592,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huxiangongzhu",
+  "hidden": 1,
+  "hot_num": 29071,
+  "hit_num": 225884,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24980,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6211,
+      "tag_name": "ユキムラ"
+    }
+  ],
+  "subscribe_num": 168,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24980,
+          "chapter_title": "1话",
+          "updatetime": 1384451592,
+          "filesize": 1608310,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 14251591,
+        "uid": 107669262,
+        "content": "M",
+        "createtime": 1555161595,
+        "nickname": "大上蘇",
+        "avatar": "https://avatar.dmzj.com/66/07/6607f4d84fde72f11fcfb5874827c045.png"
+      },
+      {
+        "comment_id": 12754024,
+        "uid": 106510571,
+        "content": "留",
+        "createtime": 1552323248,
+        "nickname": "忘怀一切",
+        "avatar": "https://avatar.dmzj.com/70/64/70649db8200182d2735a682ea79f7043.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

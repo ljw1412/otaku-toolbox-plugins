@@ -1,0 +1,91 @@
+{
+  "id": 16572,
+  "islong": 2,
+  "direction": 2,
+  "title": "爱的缓刑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/1230aidehuanxingfml.jpg",
+  "description": "法国国宝级漫画家让·皮埃尔·吉布哈（Jean-Pierre Gibrat）代表作之一、《小红帽与贼渡鸦》(Le vol du corbeau)的姐妹篇（无论是字面意义还是实际意义上）。",
+  "last_updatetime": 1419924930,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "aidehuanxing",
+  "hidden": 0,
+  "hot_num": 97290,
+  "hit_num": 194646,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 36790,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6604,
+      "tag_name": "DUPUIS"
+    }
+  ],
+  "subscribe_num": 551,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36790,
+          "chapter_title": "1卷",
+          "updatetime": 1419924930,
+          "filesize": 6020384,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 20273875,
+        "uid": 107139421,
+        "content": "看一下欧洲漫画，特别是法国漫画，得到一些新感受",
+        "createtime": 1568379436,
+        "nickname": "dmzj_107139421",
+        "avatar": "https://avatar.dmzj.com/ab/76/ab7634244c14e60082fc5f2de81849b2.png"
+      },
+      {
+        "comment_id": 19340048,
+        "uid": 103531514,
+        "content": "好看，虽然没看到后续，但看他姊妹篇也知道结局了",
+        "createtime": 1565668872,
+        "nickname": "草帽小强",
+        "avatar": "https://avatar.dmzj.com/31/27/3127378f9a6e87d4fc8e24010f516e59.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

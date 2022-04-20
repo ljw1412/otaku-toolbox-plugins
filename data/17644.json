@@ -1,0 +1,95 @@
+{
+  "id": 17644,
+  "islong": 2,
+  "direction": 1,
+  "title": "一与妖",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/0323yiyuyaofml.jpg",
+  "description": "妖刀在我手，妖刀为我狩！讲述专门狩猎妖刀的“妖刀狩”之物语。",
+  "last_updatetime": 1427048100,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yiyuyao",
+  "hidden": 0,
+  "hot_num": 41912,
+  "hit_num": 188968,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 35565,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8820,
+      "tag_name": "冲野真步"
+    }
+  ],
+  "subscribe_num": 238,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35565,
+          "chapter_title": "1话",
+          "updatetime": 1427048100,
+          "filesize": 8385598,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 17347010,
+        "uid": 106955259,
+        "content": "设定挺好的呀",
+        "createtime": 1561046178,
+        "nickname": "dmzj_106955259",
+        "avatar": "https://avatar.dmzj.com/56/19/5619ab68a6bb2c2b5d78c90f213166ca.png"
+      },
+      {
+        "comment_id": 2239662,
+        "uid": 104321604,
+        "content": "完了啊？",
+        "createtime": 1495964688,
+        "nickname": "伪娘是直男",
+        "avatar": "https://avatar.dmzj.com/52/62/5262389aae6e809b264164ff892854a7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

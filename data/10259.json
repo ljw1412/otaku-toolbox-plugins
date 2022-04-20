@@ -1,0 +1,115 @@
+{
+  "id": 10259,
+  "islong": 2,
+  "direction": 1,
+  "title": "狗朗外传K-Stary Dog Story",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/gougushi.jpg",
+  "description": "good!Afternoon月刊连载，美丽的小黑和一言大人！",
+  "last_updatetime": 1367030033,
+  "last_update_chapter_name": "第05话完",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "goulangwaichuan",
+  "hidden": 0,
+  "hot_num": 131582,
+  "hit_num": 696680,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21577,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5451,
+      "tag_name": "ミナトサキ"
+    }
+  ],
+  "subscribe_num": 693,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21577,
+          "chapter_title": "5话",
+          "updatetime": 1367030033,
+          "filesize": 3399600,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 20676,
+          "chapter_title": "4话",
+          "updatetime": 1362102547,
+          "filesize": 4423851,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 20423,
+          "chapter_title": "3话",
+          "updatetime": 1360048612,
+          "filesize": 4136883,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 20422,
+          "chapter_title": "2话",
+          "updatetime": 1360047863,
+          "filesize": 5622506,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 20421,
+          "chapter_title": "1话",
+          "updatetime": 1360046677,
+          "filesize": 7356780,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 22083746,
+        "uid": 100937032,
+        "content": "狗哥！",
+        "createtime": 1573621654,
+        "nickname": "ve喵",
+        "avatar": "https://avatar.dmzj.com/b2/bc/b2bc8fb14582cd601f09313ca769ad5f.png"
+      },
+      {
+        "comment_id": 18057425,
+        "uid": 108268302,
+        "content": "狗哥……",
+        "createtime": 1562767697,
+        "nickname": "千叶ゆい",
+        "avatar": "https://avatar.dmzj.com/55/98/5598e7baa4a8e7924aff48b3b1f3f7e6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

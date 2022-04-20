@@ -1,0 +1,72 @@
+{
+  "id": 16970,
+  "islong": 2,
+  "direction": 2,
+  "title": "Speed of Life",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/0202speedoflifefml.jpg",
+  "description": "因为我找到了生命的意义，即使是死我也不会后退！",
+  "last_updatetime": 1422858627,
+  "last_update_chapter_name": "Speed of Life",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "speedoflife",
+  "hidden": 0,
+  "hot_num": 2444,
+  "hit_num": 65531,
+  "uid": 100022914,
+  "is_lock": 0,
+  "last_update_chapter_id": 37605,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8300,
+      "tag_name": "静轩室StoRy"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37605,
+          "chapter_title": "1话",
+          "updatetime": 1422858627,
+          "filesize": 2623264,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

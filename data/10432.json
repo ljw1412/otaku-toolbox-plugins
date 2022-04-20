@@ -1,0 +1,101 @@
+{
+  "id": 10432,
+  "islong": 2,
+  "direction": 1,
+  "title": "我的初恋",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/wodechulian.jpg",
+  "description": "实际上作者就是[前略,百合园]的作者..这一个系列是单独分开的,但是收录在[前略,百合园]的单行本里头... 嘛...虽然说是说两篇...但是实际上就是一篇..有一篇只有两张图...所以就放在一起了..图源是来自kuimi大大的..原本是英译的作品..所以等于说到我这里相当于已经是三道贩子了... 所以翻译中可能会有些小瑕疵..请大家见谅...可惜没有日文原版做对照..如果有的话应该可以翻得更好.. 然后...雪酱的不放发版实在是太美了!!",
+  "last_updatetime": 1361418557,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wodechulian",
+  "hidden": 0,
+  "hot_num": 286587,
+  "hit_num": 973181,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22863,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5557,
+      "tag_name": "须河笃志"
+    }
+  ],
+  "subscribe_num": 1493,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22863,
+          "chapter_title": "1话",
+          "updatetime": 1361418557,
+          "filesize": 2583632,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 22862,
+          "chapter_title": "番外篇02",
+          "updatetime": 1361418551,
+          "filesize": 369341,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22861,
+          "chapter_title": "番外篇01",
+          "updatetime": 1361418543,
+          "filesize": 1450059,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 48,
+    "latest_comment": [
+      {
+        "comment_id": 26336092,
+        "uid": 103418353,
+        "content": "妙啊",
+        "createtime": 1586552024,
+        "nickname": "呼啦圈一号",
+        "avatar": "https://avatar.dmzj.com/18/60/186030f2d5268dae733a5f07b2703061.png"
+      },
+      {
+        "comment_id": 25055238,
+        "uid": 105869568,
+        "content": "为人类的宝藏而迈出这一步，我将留下永远的印记",
+        "createtime": 1583720506,
+        "nickname": "心上碎片",
+        "avatar": "https://avatar.dmzj.com/60/69/606992301d0d8b2244051236884c5e43.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

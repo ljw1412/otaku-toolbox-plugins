@@ -1,0 +1,110 @@
+{
+  "id": 18428,
+  "islong": 2,
+  "direction": 2,
+  "title": "白日梦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1001426021430372993.jpg",
+  "description": "很久很久以前，有一个男孩叫白，有一个女孩叫梦……",
+  "last_updatetime": 1430374607,
+  "last_update_chapter_name": "电影院",
+  "copyright": 1,
+  "first_letter": "b",
+  "comic_py": "bairimeng",
+  "hidden": 0,
+  "hot_num": 7714,
+  "hit_num": 56977,
+  "uid": 100142602,
+  "is_lock": 0,
+  "last_update_chapter_id": 36614,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8251,
+      "tag_name": "宫缘乾"
+    }
+  ],
+  "subscribe_num": 41,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36614,
+          "chapter_title": "4话",
+          "updatetime": 1430374607,
+          "filesize": 115801,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 36613,
+          "chapter_title": "3话",
+          "updatetime": 1430373564,
+          "filesize": 260269,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 36612,
+          "chapter_title": "2话",
+          "updatetime": 1430373486,
+          "filesize": 114391,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 36611,
+          "chapter_title": "1话",
+          "updatetime": 1430373154,
+          "filesize": 1222472,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 388030,
+        "uid": 100146305,
+        "content": "多直白的名字，，男孩叫白，女孩叫梦",
+        "createtime": 1430564560,
+        "nickname": "东方fy",
+        "avatar": "https://avatar.dmzj.com/72/9b/729b459102a316ed1853c8ddc3bf92b7.png"
+      },
+      {
+        "comment_id": 387326,
+        "uid": 100129265,
+        "content": "不知道为何，特讨厌这作者的风格",
+        "createtime": 1430456524,
+        "nickname": "苏.",
+        "avatar": "https://avatar.dmzj.com/f9/68/f9683071ebfab5f6ccd54bd8472a5e6b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

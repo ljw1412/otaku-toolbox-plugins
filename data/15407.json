@@ -1,0 +1,87 @@
+{
+  "id": 15407,
+  "islong": 2,
+  "direction": 1,
+  "title": "威严幻想",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/weiyanhuanxiang.jpeg",
+  "description": "东方的同人四格。",
+  "last_updatetime": 1408938419,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "weiyanhuanxiang",
+  "hidden": 0,
+  "hot_num": 7237,
+  "hit_num": 32745,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 33835,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7677,
+      "tag_name": "しイぱそ"
+    }
+  ],
+  "subscribe_num": 24,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33835,
+          "chapter_title": "1话",
+          "updatetime": 1408938419,
+          "filesize": 913678,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 376795,
+        "uid": 21060322,
+        "content": "统治者常常捏造历史来巩固自己的地位",
+        "createtime": 1428573059,
+        "nickname": "DingSL",
+        "avatar": "https://avatar.dmzj.com/c0/eb/c0ebba79e6d1ca2256548e2b37a89b25.png"
+      },
+      {
+        "comment_id": 280856,
+        "uid": 274320,
+        "content": "笑死我了23333",
+        "createtime": 1408972556,
+        "nickname": "zeonwtx",
+        "avatar": "https://avatar.dmzj.com/27/1e/271ea5f08626f5c189bc3a2f926a58cd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

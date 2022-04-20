@@ -1,0 +1,98 @@
+{
+  "id": 14001,
+  "islong": 2,
+  "direction": 2,
+  "title": "深谷",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/shengu.jpg",
+  "description": "继画师斯捷潘-塞基和编剧朗-马尔兹在<魔女之刃>和<上古神兵>上的合作获得广泛好评之后,他俩开始创作首部完全原创的漫画故事。师法<指环王>和<权力的游戏>,一部卓越的魔幻之作<深谷>在此传奇展开!",
+  "last_updatetime": 1414748323,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shengu",
+  "hidden": 0,
+  "hot_num": 196548,
+  "hit_num": 2210484,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 32741,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2116,
+      "tag_name": "image"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1039,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 32741,
+          "chapter_title": "2卷",
+          "updatetime": 1414748323,
+          "filesize": 21101924,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 26921,
+          "chapter_title": "1卷",
+          "updatetime": 1392741003,
+          "filesize": 20252580,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 18414957,
+        "uid": 105369797,
+        "content": "假更新 吓死我",
+        "createtime": 1563543368,
+        "nickname": "Vvn72219",
+        "avatar": "https://avatar.dmzj.com/76/3e/763e418925e5d6a497b6af77fd17c7b3.png"
+      },
+      {
+        "comment_id": 15737782,
+        "uid": 102474204,
+        "content": "啊 不见当年老司机",
+        "createtime": 1557595602,
+        "nickname": "aoharu",
+        "avatar": "https://avatar.dmzj.com/96/20/962096dada0296bc0a13dfdc44a2f98e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

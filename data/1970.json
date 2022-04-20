@@ -1,0 +1,94 @@
+{
+  "id": 1970,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠：绝对恐怖",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/000001_ccaf4594_43685bf30edbdfbc5293e22730decdb3.jpg",
+  "description": "蝙蝠侠绝对恐怖",
+  "last_updatetime": 1269337265,
+  "last_update_chapter_name": "CH02",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bianfuxiajueduikongbu",
+  "hidden": 0,
+  "hot_num": 2067387,
+  "hit_num": 752304,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 6338,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 9883,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6338,
+          "chapter_title": "2卷",
+          "updatetime": 1269942065,
+          "filesize": 2886375,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 6337,
+          "chapter_title": "1卷",
+          "updatetime": 1269942065,
+          "filesize": 2991554,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 25014097,
+        "uid": 101943496,
+        "content": "这个漫画看标题和封面就知道是稻草人。",
+        "createtime": 1583633901,
+        "nickname": "夜半钟声船必沉",
+        "avatar": "https://avatar.dmzj.com/7a/af/7aafdc04869e7f052e0724789a49311c.png"
+      },
+      {
+        "comment_id": 19638788,
+        "uid": 107435948,
+        "content": "狂笑蝙蝠在哪部漫画",
+        "createtime": 1566412837,
+        "nickname": "春夜鸣沙ε",
+        "avatar": "https://avatar.dmzj.com/a9/b3/a9b3bc47cbf7642ceaae6807b57c5c9a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,115 @@
+{
+  "id": 17321,
+  "islong": 2,
+  "direction": 1,
+  "title": "茜写真馆",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/qxzgfengmianl.jpg",
+  "description": "从一枚关着满溢的阳光的相纸中 跌落而出的光的残片 其所摄的 并非仅仅是“瞬间” 而是包含着重要的回忆… 那个时候的“真实”。",
+  "last_updatetime": 1432968081,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qianxiezhengguan",
+  "hidden": 0,
+  "hot_num": 32206,
+  "hit_num": 444184,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 39392,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8658,
+      "tag_name": "枣悠季"
+    }
+  ],
+  "subscribe_num": 289,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39392,
+          "chapter_title": "5话",
+          "updatetime": 1432968081,
+          "filesize": 3832636,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 38679,
+          "chapter_title": "4话",
+          "updatetime": 1431254242,
+          "filesize": 4171246,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 37594,
+          "chapter_title": "3话",
+          "updatetime": 1428671920,
+          "filesize": 4488602,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 36769,
+          "chapter_title": "2话",
+          "updatetime": 1426685899,
+          "filesize": 5925707,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 36340,
+          "chapter_title": "1话",
+          "updatetime": 1425658932,
+          "filesize": 8097938,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 404550,
+        "uid": 26044561,
+        "content": "意義是有的，但也有點迂迴曲折。。。",
+        "createtime": 1433126016,
+        "nickname": "京子flo",
+        "avatar": "https://avatar.dmzj.com/f2/c2/f2c23c3e9ca3d57ccfb7b2d1c442c12c.png"
+      },
+      {
+        "comment_id": 403525,
+        "uid": 8779472,
+        "content": "被斩了，太可惜了",
+        "createtime": 1432987470,
+        "nickname": "zelx",
+        "avatar": "https://avatar.dmzj.com/94/22/9422652cc5212f8c7e96a7b26e0e77ae.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

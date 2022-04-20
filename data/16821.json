@@ -1,0 +1,79 @@
+{
+  "id": 16821,
+  "islong": 1,
+  "direction": 2,
+  "title": "花花花",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/0119huahuahuafml.jpg",
+  "description": "花花花的碎碎念",
+  "last_updatetime": 1421672853,
+  "last_update_chapter_name": "有没有那么一瞬间",
+  "copyright": 1,
+  "first_letter": "h",
+  "comic_py": "huahuahua",
+  "hidden": 0,
+  "hot_num": 635,
+  "hit_num": 960,
+  "uid": 100021418,
+  "is_lock": 0,
+  "last_update_chapter_id": 34889,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8397,
+      "tag_name": "凝望02"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34889,
+          "chapter_title": "2话",
+          "updatetime": 1421672853,
+          "filesize": 131804,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 34888,
+          "chapter_title": "1话",
+          "updatetime": 1421672847,
+          "filesize": 79252,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

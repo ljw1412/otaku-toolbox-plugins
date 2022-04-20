@@ -1,0 +1,105 @@
+{
+  "id": 19583,
+  "islong": 2,
+  "direction": 1,
+  "title": "我们喜爱之物",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/womenxihaizhiwu.jpg",
+  "description": "小镇上所发生的各种匪夷所思的失踪事件，居然是在因为身边的人……",
+  "last_updatetime": 1467390119,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "womenxiaizhiwu",
+  "hidden": 0,
+  "hot_num": 543707,
+  "hit_num": 533795,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 51045,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 2570,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 51045,
+          "chapter_title": "3话",
+          "updatetime": 1467390119,
+          "filesize": 4647481,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 51044,
+          "chapter_title": "2话",
+          "updatetime": 1467390011,
+          "filesize": 3597247,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 38657,
+          "chapter_title": "1话",
+          "updatetime": 1435893363,
+          "filesize": 3076851,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 42,
+    "latest_comment": [
+      {
+        "comment_id": 24216824,
+        "uid": 104830187,
+        "content": "w",
+        "createtime": 1581870523,
+        "nickname": "傻傻的爱",
+        "avatar": "https://avatar.dmzj.com/36/3b/363b3345c2cee693f6a05e0a32005c27.png"
+      },
+      {
+        "comment_id": 21922957,
+        "uid": 100553949,
+        "content": "你爹叫卡比是吧",
+        "createtime": 1572919079,
+        "nickname": "木枫林天",
+        "avatar": "https://avatar.dmzj.com/00/08/000829bdf783cd173637b8605ef0e331.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

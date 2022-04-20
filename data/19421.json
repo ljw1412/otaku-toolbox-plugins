@@ -1,0 +1,93 @@
+{
+  "id": 19421,
+  "islong": 2,
+  "direction": 2,
+  "title": "梦境",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1002095761435280995.jpg",
+  "description": "关于能不能活着还奢望爱情的故事。",
+  "last_updatetime": 1435281159,
+  "last_update_chapter_name": "全一回",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "mengjing",
+  "hidden": 0,
+  "hot_num": 3638,
+  "hit_num": 62252,
+  "uid": 100209576,
+  "is_lock": 0,
+  "last_update_chapter_id": 40173,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9694,
+      "tag_name": "melanin"
+    }
+  ],
+  "subscribe_num": 25,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40173,
+          "chapter_title": "1话",
+          "updatetime": 1435281159,
+          "filesize": 2277782,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 419145,
+        "uid": 100209576,
+        "content": "回复 @一入腐门深似海:是呢。",
+        "createtime": 1435373244,
+        "nickname": "melanin",
+        "avatar": "https://avatar.dmzj.com/32/dd/32dd0569f880655a936de0006032933d.png"
+      },
+      {
+        "comment_id": 418791,
+        "uid": 18856841,
+        "content": "白毛是现实，黑发是梦境？",
+        "createtime": 1435309333,
+        "nickname": "一入腐门深似海",
+        "avatar": "https://avatar.dmzj.com/82/97/82975b542cdb8a1be3c1e3f7d7c8dfe9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

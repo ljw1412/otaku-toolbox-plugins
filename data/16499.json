@@ -1,0 +1,87 @@
+{
+  "id": 16499,
+  "islong": 2,
+  "direction": 1,
+  "title": "我喜欢的人是…",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/wxhdrs245.jpg",
+  "description": "我喜欢的人其实就是你啊~！",
+  "last_updatetime": 1419341516,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wxhdrs",
+  "hidden": 0,
+  "hot_num": 58102,
+  "hit_num": 318902,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 33117,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6514,
+      "tag_name": "日名地那绪"
+    }
+  ],
+  "subscribe_num": 461,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33117,
+          "chapter_title": "1话",
+          "updatetime": 1419341516,
+          "filesize": 6097851,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 23248880,
+        "uid": 108228973,
+        "content": "这剧情也太傻了吧",
+        "createtime": 1578856042,
+        "nickname": "dmzj_108228973",
+        "avatar": "https://avatar.dmzj.com/e8/2a/e82afa6026ebcf21202a7f2eefb23fa2.png"
+      },
+      {
+        "comment_id": 21303679,
+        "uid": 109745019,
+        "content": "在一起后肯定是一对天天演小品的笨蛋情侣/doge",
+        "createtime": 1571043729,
+        "nickname": "奚攸奈",
+        "avatar": "https://avatar.dmzj.com/a4/f8/a4f81f02fa14e13cb467191e1798338d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

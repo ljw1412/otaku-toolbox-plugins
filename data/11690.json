@@ -1,0 +1,87 @@
+{
+  "id": 11690,
+  "islong": 2,
+  "direction": 1,
+  "title": "予未知晓的你",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/ywzxdn1.jpg",
+  "description": "东方百合甜蜜本。",
+  "last_updatetime": 1371119847,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "ywzxdn",
+  "hidden": 0,
+  "hot_num": 47722,
+  "hit_num": 98666,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23672,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6143,
+      "tag_name": "sui"
+    }
+  ],
+  "subscribe_num": 231,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23672,
+          "chapter_title": "1话",
+          "updatetime": 1371119847,
+          "filesize": 1436608,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 2702547,
+        "uid": 102462961,
+        "content": "为什么分类“日本”的漫画换成这个的封面啊",
+        "createtime": 1502500483,
+        "nickname": "雨霾",
+        "avatar": "https://avatar.dmzj.com/71/75/7175c1cd9c769ecb244ed935c8872110.png"
+      },
+      {
+        "comment_id": 198552,
+        "uid": 25103042,
+        "content": "百合甜蜜",
+        "createtime": 1390646455,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,905 @@
+{
+  "id": 1672,
+  "islong": 2,
+  "direction": 1,
+  "title": "机器猫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/dlamV2.jpg",
+  "description": "哆啦A梦：猫型机器人1293号，2112年9月3日生，高129.3厘米，重129.3公斤，最爱吃铜锣烧，最怕老鼠。哆啦A梦是由康夫的曾孙派去照顾康夫的，它有一个神奇的百宝袋，每当康夫有麻烦时，就拿出法宝帮助康夫。",
+  "last_updatetime": 1564756699,
+  "last_update_chapter_name": "第45卷",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jiqimao",
+  "hidden": 0,
+  "hot_num": 16681459,
+  "hit_num": 306864322,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90929,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1849,
+      "tag_name": "藤子·F·不二雄"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 87442,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 90929,
+          "chapter_title": "45卷",
+          "updatetime": 1564756699,
+          "filesize": 21854392,
+          "chapter_order": 1280
+        },
+        {
+          "chapter_id": 90928,
+          "chapter_title": "44卷",
+          "updatetime": 1564756648,
+          "filesize": 21226655,
+          "chapter_order": 1270
+        },
+        {
+          "chapter_id": 90927,
+          "chapter_title": "43卷",
+          "updatetime": 1564756558,
+          "filesize": 21631074,
+          "chapter_order": 1260
+        },
+        {
+          "chapter_id": 90926,
+          "chapter_title": "42卷",
+          "updatetime": 1564756507,
+          "filesize": 20679934,
+          "chapter_order": 1250
+        },
+        {
+          "chapter_id": 90925,
+          "chapter_title": "41卷",
+          "updatetime": 1564756470,
+          "filesize": 22018789,
+          "chapter_order": 1240
+        },
+        {
+          "chapter_id": 90924,
+          "chapter_title": "40卷",
+          "updatetime": 1564756340,
+          "filesize": 21304418,
+          "chapter_order": 1230
+        },
+        {
+          "chapter_id": 90923,
+          "chapter_title": "39卷",
+          "updatetime": 1564756273,
+          "filesize": 21387822,
+          "chapter_order": 1220
+        },
+        {
+          "chapter_id": 90922,
+          "chapter_title": "38卷",
+          "updatetime": 1564756198,
+          "filesize": 21575183,
+          "chapter_order": 1210
+        },
+        {
+          "chapter_id": 90921,
+          "chapter_title": "37卷",
+          "updatetime": 1564756140,
+          "filesize": 21231998,
+          "chapter_order": 1200
+        },
+        {
+          "chapter_id": 90920,
+          "chapter_title": "36卷",
+          "updatetime": 1564756070,
+          "filesize": 21958740,
+          "chapter_order": 1190
+        },
+        {
+          "chapter_id": 90919,
+          "chapter_title": "35卷",
+          "updatetime": 1564756020,
+          "filesize": 21264402,
+          "chapter_order": 1180
+        },
+        {
+          "chapter_id": 90918,
+          "chapter_title": "34卷",
+          "updatetime": 1564755940,
+          "filesize": 21293279,
+          "chapter_order": 1170
+        },
+        {
+          "chapter_id": 90917,
+          "chapter_title": "33卷",
+          "updatetime": 1564755897,
+          "filesize": 21761681,
+          "chapter_order": 1160
+        },
+        {
+          "chapter_id": 90916,
+          "chapter_title": "32卷",
+          "updatetime": 1564755769,
+          "filesize": 21383363,
+          "chapter_order": 1150
+        },
+        {
+          "chapter_id": 90915,
+          "chapter_title": "31卷",
+          "updatetime": 1564755718,
+          "filesize": 21967570,
+          "chapter_order": 1140
+        },
+        {
+          "chapter_id": 90914,
+          "chapter_title": "30卷",
+          "updatetime": 1564755654,
+          "filesize": 22215070,
+          "chapter_order": 1130
+        },
+        {
+          "chapter_id": 90913,
+          "chapter_title": "29卷",
+          "updatetime": 1564755567,
+          "filesize": 21643424,
+          "chapter_order": 1120
+        },
+        {
+          "chapter_id": 90912,
+          "chapter_title": "28卷",
+          "updatetime": 1564755527,
+          "filesize": 21158374,
+          "chapter_order": 1110
+        },
+        {
+          "chapter_id": 90911,
+          "chapter_title": "27卷",
+          "updatetime": 1564755510,
+          "filesize": 20930868,
+          "chapter_order": 1100
+        },
+        {
+          "chapter_id": 90910,
+          "chapter_title": "26卷",
+          "updatetime": 1564755491,
+          "filesize": 21532346,
+          "chapter_order": 1090
+        },
+        {
+          "chapter_id": 90909,
+          "chapter_title": "25卷",
+          "updatetime": 1564755470,
+          "filesize": 21675693,
+          "chapter_order": 1080
+        },
+        {
+          "chapter_id": 90908,
+          "chapter_title": "24卷",
+          "updatetime": 1564755451,
+          "filesize": 21437440,
+          "chapter_order": 1070
+        },
+        {
+          "chapter_id": 90907,
+          "chapter_title": "23卷",
+          "updatetime": 1564755133,
+          "filesize": 21585562,
+          "chapter_order": 1060
+        },
+        {
+          "chapter_id": 90906,
+          "chapter_title": "22卷",
+          "updatetime": 1564755110,
+          "filesize": 22618303,
+          "chapter_order": 1050
+        },
+        {
+          "chapter_id": 90905,
+          "chapter_title": "21卷",
+          "updatetime": 1564755083,
+          "filesize": 21664295,
+          "chapter_order": 1040
+        },
+        {
+          "chapter_id": 90904,
+          "chapter_title": "20卷",
+          "updatetime": 1564755064,
+          "filesize": 21625686,
+          "chapter_order": 1030
+        },
+        {
+          "chapter_id": 90903,
+          "chapter_title": "19卷",
+          "updatetime": 1564755036,
+          "filesize": 20857755,
+          "chapter_order": 1020
+        },
+        {
+          "chapter_id": 90902,
+          "chapter_title": "18卷",
+          "updatetime": 1564755016,
+          "filesize": 20612024,
+          "chapter_order": 1010
+        },
+        {
+          "chapter_id": 90901,
+          "chapter_title": "17卷",
+          "updatetime": 1564754992,
+          "filesize": 21176245,
+          "chapter_order": 1000
+        },
+        {
+          "chapter_id": 90900,
+          "chapter_title": "16卷",
+          "updatetime": 1564754966,
+          "filesize": 21233738,
+          "chapter_order": 990
+        },
+        {
+          "chapter_id": 90899,
+          "chapter_title": "15卷",
+          "updatetime": 1564754944,
+          "filesize": 21323586,
+          "chapter_order": 980
+        },
+        {
+          "chapter_id": 90898,
+          "chapter_title": "14卷",
+          "updatetime": 1564754925,
+          "filesize": 21285512,
+          "chapter_order": 970
+        },
+        {
+          "chapter_id": 90897,
+          "chapter_title": "13卷",
+          "updatetime": 1564754883,
+          "filesize": 21049265,
+          "chapter_order": 960
+        },
+        {
+          "chapter_id": 90896,
+          "chapter_title": "12卷",
+          "updatetime": 1564754840,
+          "filesize": 21747411,
+          "chapter_order": 950
+        },
+        {
+          "chapter_id": 90895,
+          "chapter_title": "11卷",
+          "updatetime": 1564754803,
+          "filesize": 20503263,
+          "chapter_order": 940
+        },
+        {
+          "chapter_id": 90893,
+          "chapter_title": "10卷",
+          "updatetime": 1564754238,
+          "filesize": 17848021,
+          "chapter_order": 930
+        },
+        {
+          "chapter_id": 90892,
+          "chapter_title": "9卷",
+          "updatetime": 1564754161,
+          "filesize": 19024880,
+          "chapter_order": 920
+        },
+        {
+          "chapter_id": 90891,
+          "chapter_title": "8卷",
+          "updatetime": 1564754121,
+          "filesize": 17674916,
+          "chapter_order": 910
+        },
+        {
+          "chapter_id": 90889,
+          "chapter_title": "7卷",
+          "updatetime": 1564754012,
+          "filesize": 18406017,
+          "chapter_order": 900
+        },
+        {
+          "chapter_id": 90888,
+          "chapter_title": "6卷",
+          "updatetime": 1564753985,
+          "filesize": 18312271,
+          "chapter_order": 890
+        },
+        {
+          "chapter_id": 90887,
+          "chapter_title": "5卷",
+          "updatetime": 1564753922,
+          "filesize": 18344783,
+          "chapter_order": 880
+        },
+        {
+          "chapter_id": 90886,
+          "chapter_title": "4卷",
+          "updatetime": 1564753833,
+          "filesize": 18281241,
+          "chapter_order": 870
+        },
+        {
+          "chapter_id": 90885,
+          "chapter_title": "3卷",
+          "updatetime": 1564753804,
+          "filesize": 18048804,
+          "chapter_order": 860
+        },
+        {
+          "chapter_id": 90884,
+          "chapter_title": "2卷",
+          "updatetime": 1564753777,
+          "filesize": 20211280,
+          "chapter_order": 850
+        },
+        {
+          "chapter_id": 90883,
+          "chapter_title": "1卷",
+          "updatetime": 1564753658,
+          "filesize": 20459581,
+          "chapter_order": 840
+        }
+      ]
+    },
+    {
+      "title": "单行本",
+      "data": [
+        {
+          "chapter_id": 51369,
+          "chapter_title": "2卷",
+          "updatetime": 1457248181,
+          "filesize": 61182321,
+          "chapter_order": 470
+        },
+        {
+          "chapter_id": 51368,
+          "chapter_title": "1卷",
+          "updatetime": 1457248145,
+          "filesize": 76796605,
+          "chapter_order": 460
+        }
+      ]
+    },
+    {
+      "title": "全彩版",
+      "data": [
+        {
+          "chapter_id": 68282,
+          "chapter_title": "20卷",
+          "updatetime": 1503647738,
+          "filesize": 47550431,
+          "chapter_order": 790
+        },
+        {
+          "chapter_id": 68280,
+          "chapter_title": "19卷",
+          "updatetime": 1503646120,
+          "filesize": 64310481,
+          "chapter_order": 780
+        },
+        {
+          "chapter_id": 68278,
+          "chapter_title": "18卷",
+          "updatetime": 1503645827,
+          "filesize": 66605871,
+          "chapter_order": 770
+        },
+        {
+          "chapter_id": 68276,
+          "chapter_title": "17卷",
+          "updatetime": 1503643353,
+          "filesize": 62846747,
+          "chapter_order": 760
+        },
+        {
+          "chapter_id": 68275,
+          "chapter_title": "16卷",
+          "updatetime": 1503641799,
+          "filesize": 66309865,
+          "chapter_order": 750
+        },
+        {
+          "chapter_id": 68270,
+          "chapter_title": "15卷",
+          "updatetime": 1503639394,
+          "filesize": 66927119,
+          "chapter_order": 740
+        },
+        {
+          "chapter_id": 68269,
+          "chapter_title": "14卷",
+          "updatetime": 1503639355,
+          "filesize": 65154898,
+          "chapter_order": 730
+        },
+        {
+          "chapter_id": 66979,
+          "chapter_title": "13卷",
+          "updatetime": 1504436887,
+          "filesize": 105878831,
+          "chapter_order": 720
+        },
+        {
+          "chapter_id": 65783,
+          "chapter_title": "12卷",
+          "updatetime": 1496649259,
+          "filesize": 66483409,
+          "chapter_order": 710
+        },
+        {
+          "chapter_id": 65185,
+          "chapter_title": "11卷",
+          "updatetime": 1494554076,
+          "filesize": 64324008,
+          "chapter_order": 700
+        },
+        {
+          "chapter_id": 64339,
+          "chapter_title": "10卷",
+          "updatetime": 1492417174,
+          "filesize": 66381616,
+          "chapter_order": 690
+        },
+        {
+          "chapter_id": 63588,
+          "chapter_title": "9卷",
+          "updatetime": 1489725258,
+          "filesize": 63141771,
+          "chapter_order": 680
+        },
+        {
+          "chapter_id": 62866,
+          "chapter_title": "8卷",
+          "updatetime": 1487564466,
+          "filesize": 66333410,
+          "chapter_order": 670
+        },
+        {
+          "chapter_id": 62182,
+          "chapter_title": "7卷",
+          "updatetime": 1485691224,
+          "filesize": 63720841,
+          "chapter_order": 660
+        },
+        {
+          "chapter_id": 61985,
+          "chapter_title": "6卷",
+          "updatetime": 1484932309,
+          "filesize": 65046597,
+          "chapter_order": 650
+        },
+        {
+          "chapter_id": 61984,
+          "chapter_title": "5卷",
+          "updatetime": 1484932254,
+          "filesize": 66788910,
+          "chapter_order": 640
+        },
+        {
+          "chapter_id": 61983,
+          "chapter_title": "4卷",
+          "updatetime": 1484932192,
+          "filesize": 65938420,
+          "chapter_order": 630
+        },
+        {
+          "chapter_id": 61982,
+          "chapter_title": "3卷",
+          "updatetime": 1484932139,
+          "filesize": 66238722,
+          "chapter_order": 620
+        },
+        {
+          "chapter_id": 61981,
+          "chapter_title": "2卷",
+          "updatetime": 1484932080,
+          "filesize": 66628349,
+          "chapter_order": 610
+        },
+        {
+          "chapter_id": 61980,
+          "chapter_title": "1卷",
+          "updatetime": 1484931970,
+          "filesize": 71480261,
+          "chapter_order": 600
+        }
+      ]
+    },
+    {
+      "title": "旧扫版",
+      "data": [
+        {
+          "chapter_id": 3366,
+          "chapter_title": "45卷",
+          "updatetime": 1265700668,
+          "filesize": 12517402,
+          "chapter_order": 450
+        },
+        {
+          "chapter_id": 3365,
+          "chapter_title": "44卷",
+          "updatetime": 1265700660,
+          "filesize": 12160678,
+          "chapter_order": 440
+        },
+        {
+          "chapter_id": 3364,
+          "chapter_title": "43卷",
+          "updatetime": 1265700652,
+          "filesize": 12891741,
+          "chapter_order": 430
+        },
+        {
+          "chapter_id": 3363,
+          "chapter_title": "42卷",
+          "updatetime": 1265700645,
+          "filesize": 12715774,
+          "chapter_order": 420
+        },
+        {
+          "chapter_id": 3362,
+          "chapter_title": "41卷",
+          "updatetime": 1265700637,
+          "filesize": 12468844,
+          "chapter_order": 410
+        },
+        {
+          "chapter_id": 3361,
+          "chapter_title": "40卷",
+          "updatetime": 1265700630,
+          "filesize": 12771254,
+          "chapter_order": 400
+        },
+        {
+          "chapter_id": 3360,
+          "chapter_title": "39卷",
+          "updatetime": 1265700623,
+          "filesize": 12567502,
+          "chapter_order": 390
+        },
+        {
+          "chapter_id": 3359,
+          "chapter_title": "38卷",
+          "updatetime": 1265700615,
+          "filesize": 12185182,
+          "chapter_order": 380
+        },
+        {
+          "chapter_id": 3358,
+          "chapter_title": "37卷",
+          "updatetime": 1265700590,
+          "filesize": 12367742,
+          "chapter_order": 370
+        },
+        {
+          "chapter_id": 3357,
+          "chapter_title": "36卷",
+          "updatetime": 1265700576,
+          "filesize": 12438326,
+          "chapter_order": 360
+        },
+        {
+          "chapter_id": 3356,
+          "chapter_title": "35卷",
+          "updatetime": 1265700550,
+          "filesize": 12166275,
+          "chapter_order": 350
+        },
+        {
+          "chapter_id": 3355,
+          "chapter_title": "34卷",
+          "updatetime": 1265700539,
+          "filesize": 11972467,
+          "chapter_order": 340
+        },
+        {
+          "chapter_id": 3354,
+          "chapter_title": "33卷",
+          "updatetime": 1265700456,
+          "filesize": 12371099,
+          "chapter_order": 330
+        },
+        {
+          "chapter_id": 3353,
+          "chapter_title": "32卷",
+          "updatetime": 1265700437,
+          "filesize": 12371099,
+          "chapter_order": 320
+        },
+        {
+          "chapter_id": 3352,
+          "chapter_title": "31卷",
+          "updatetime": 1265700425,
+          "filesize": 12553280,
+          "chapter_order": 310
+        },
+        {
+          "chapter_id": 3351,
+          "chapter_title": "30卷",
+          "updatetime": 1265700380,
+          "filesize": 10650244,
+          "chapter_order": 300
+        },
+        {
+          "chapter_id": 3350,
+          "chapter_title": "29卷",
+          "updatetime": 1265700355,
+          "filesize": 12244554,
+          "chapter_order": 290
+        },
+        {
+          "chapter_id": 3349,
+          "chapter_title": "28卷",
+          "updatetime": 1265700342,
+          "filesize": 12086402,
+          "chapter_order": 280
+        },
+        {
+          "chapter_id": 3348,
+          "chapter_title": "27卷",
+          "updatetime": 1265700335,
+          "filesize": 12317770,
+          "chapter_order": 270
+        },
+        {
+          "chapter_id": 3347,
+          "chapter_title": "26卷",
+          "updatetime": 1265700327,
+          "filesize": 12318100,
+          "chapter_order": 260
+        },
+        {
+          "chapter_id": 3346,
+          "chapter_title": "25卷",
+          "updatetime": 1265700321,
+          "filesize": 12724184,
+          "chapter_order": 250
+        },
+        {
+          "chapter_id": 3345,
+          "chapter_title": "24卷",
+          "updatetime": 1265700314,
+          "filesize": 12716148,
+          "chapter_order": 240
+        },
+        {
+          "chapter_id": 3344,
+          "chapter_title": "23卷",
+          "updatetime": 1265700305,
+          "filesize": 12114254,
+          "chapter_order": 230
+        },
+        {
+          "chapter_id": 3343,
+          "chapter_title": "22卷",
+          "updatetime": 1265700266,
+          "filesize": 12156653,
+          "chapter_order": 220
+        },
+        {
+          "chapter_id": 3342,
+          "chapter_title": "21卷",
+          "updatetime": 1265700257,
+          "filesize": 11775186,
+          "chapter_order": 210
+        },
+        {
+          "chapter_id": 3341,
+          "chapter_title": "20卷",
+          "updatetime": 1265700243,
+          "filesize": 11646603,
+          "chapter_order": 200
+        },
+        {
+          "chapter_id": 3340,
+          "chapter_title": "19卷",
+          "updatetime": 1265700204,
+          "filesize": 11702984,
+          "chapter_order": 190
+        },
+        {
+          "chapter_id": 3339,
+          "chapter_title": "18卷",
+          "updatetime": 1265700187,
+          "filesize": 11932988,
+          "chapter_order": 180
+        },
+        {
+          "chapter_id": 3338,
+          "chapter_title": "17卷",
+          "updatetime": 1265700168,
+          "filesize": 12067319,
+          "chapter_order": 170
+        },
+        {
+          "chapter_id": 3337,
+          "chapter_title": "16卷",
+          "updatetime": 1265700156,
+          "filesize": 11844520,
+          "chapter_order": 160
+        },
+        {
+          "chapter_id": 3336,
+          "chapter_title": "15卷",
+          "updatetime": 1265700149,
+          "filesize": 12077931,
+          "chapter_order": 150
+        },
+        {
+          "chapter_id": 3335,
+          "chapter_title": "14卷",
+          "updatetime": 1265700141,
+          "filesize": 11348245,
+          "chapter_order": 140
+        },
+        {
+          "chapter_id": 3334,
+          "chapter_title": "13卷",
+          "updatetime": 1265700134,
+          "filesize": 11527925,
+          "chapter_order": 130
+        },
+        {
+          "chapter_id": 3333,
+          "chapter_title": "12卷",
+          "updatetime": 1265700128,
+          "filesize": 11929340,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 3332,
+          "chapter_title": "11卷",
+          "updatetime": 1265700121,
+          "filesize": 11740752,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 3331,
+          "chapter_title": "10卷",
+          "updatetime": 1265700112,
+          "filesize": 11210124,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 3330,
+          "chapter_title": "9卷",
+          "updatetime": 1265700102,
+          "filesize": 11460729,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 3329,
+          "chapter_title": "8卷",
+          "updatetime": 1265700087,
+          "filesize": 12036825,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 3328,
+          "chapter_title": "7卷",
+          "updatetime": 1265700080,
+          "filesize": 12565011,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 3327,
+          "chapter_title": "6卷",
+          "updatetime": 1265700072,
+          "filesize": 11461343,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 3326,
+          "chapter_title": "5卷",
+          "updatetime": 1265699933,
+          "filesize": 12385650,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 3325,
+          "chapter_title": "4卷",
+          "updatetime": 1265699920,
+          "filesize": 12416099,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 3324,
+          "chapter_title": "3卷",
+          "updatetime": 1265699908,
+          "filesize": 11720919,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 3323,
+          "chapter_title": "2卷",
+          "updatetime": 1265699898,
+          "filesize": 11210714,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 3322,
+          "chapter_title": "1卷",
+          "updatetime": 1265699886,
+          "filesize": 11888415,
+          "chapter_order": 10
+        }
+      ]
+    },
+    {
+      "title": "外传",
+      "data": [
+        {
+          "chapter_id": 65781,
+          "chapter_title": "5卷",
+          "updatetime": 1500265133,
+          "filesize": 32945463,
+          "chapter_order": 830
+        },
+        {
+          "chapter_id": 65647,
+          "chapter_title": "2卷",
+          "updatetime": 1500265110,
+          "filesize": 34785404,
+          "chapter_order": 820
+        },
+        {
+          "chapter_id": 65646,
+          "chapter_title": "1卷",
+          "updatetime": 1500265085,
+          "filesize": 33922766,
+          "chapter_order": 810
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4798,
+    "latest_comment": [
+      {
+        "comment_id": 27086805,
+        "uid": 107632857,
+        "content": "留",
+        "createtime": 1588555844,
+        "nickname": "xXrz",
+        "avatar": "https://avatar.dmzj.com/27/21/27216d1b8a6a0fc82afd0ff3a634214b.png"
+      },
+      {
+        "comment_id": 27085970,
+        "uid": 108604371,
+        "content": "这真是太厉害了！",
+        "createtime": 1588551971,
+        "nickname": "找不到就惨了",
+        "avatar": "https://avatar.dmzj.com/22/48/22480e3c2d58f0a5b07aa3fd3b349ee9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

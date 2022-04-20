@@ -1,0 +1,87 @@
+{
+  "id": 10713,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方青帖·咲福美满",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/guanfumeiman.jpg",
+  "description": "这个东方同人漫画描写的是所谓[红亲子]的既前卫又充满幻想的故事~",
+  "last_updatetime": 1363856671,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "guanfumeiman",
+  "hidden": 0,
+  "hot_num": 372111,
+  "hit_num": 179883,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21168,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5114,
+      "tag_name": "ヨハネ"
+    }
+  ],
+  "subscribe_num": 1557,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21168,
+          "chapter_title": "1话",
+          "updatetime": 1363856671,
+          "filesize": 3992246,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 58,
+    "latest_comment": [
+      {
+        "comment_id": 26419609,
+        "uid": 109062974,
+        "content": "啊，这...两位岳母大人？",
+        "createtime": 1586742698,
+        "nickname": "dmzj_109062974",
+        "avatar": "https://avatar.dmzj.com/37/de/37de2f5964f6b15a583e830f493d249a.png"
+      },
+      {
+        "comment_id": 24829503,
+        "uid": 108760847,
+        "content": "女女生子是好文明",
+        "createtime": 1583252393,
+        "nickname": "崩吧砰啪嗒啦轰啪",
+        "avatar": "https://avatar.dmzj.com/4d/fb/4dfb3e3232d50a8cbf4a996a8ae310e4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

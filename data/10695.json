@@ -1,0 +1,91 @@
+{
+  "id": 10695,
+  "islong": 2,
+  "direction": 1,
+  "title": "Fortune Days ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/fday.jpg",
+  "description": "东方同人，百合的嘿嘿",
+  "last_updatetime": 1363799182,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fortunedays",
+  "hidden": 0,
+  "hot_num": 122055,
+  "hit_num": 934287,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22168,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5690,
+      "tag_name": "麻生シン"
+    }
+  ],
+  "subscribe_num": 589,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22168,
+          "chapter_title": "1话",
+          "updatetime": 1363799182,
+          "filesize": 3608072,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 10183088,
+        "uid": 100801585,
+        "content": "美咲剧场大法好",
+        "createtime": 1547701845,
+        "nickname": "田村紫",
+        "avatar": "https://avatar.dmzj.com/57/ed/57ed2d6a6f4798cc1a24bfbeeb4c861d.png"
+      },
+      {
+        "comment_id": 3740979,
+        "uid": 105202246,
+        "content": "咲夜:我也不能一直当被动(受)的一方……",
+        "createtime": 1516808096,
+        "nickname": "百合厨CCC",
+        "avatar": "https://avatar.dmzj.com/39/42/39422423fe42a364c3e89f471aa3c00a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

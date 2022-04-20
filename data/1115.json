@@ -1,0 +1,105 @@
+{
+  "id": 1115,
+  "islong": 2,
+  "direction": 1,
+  "title": "Diablo",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/diabolo.gif",
+  "description": "书中主人公是一对奇异的少年,分别名为莲和赖。 \n自小兄弟俩就落入魔鬼的陷阱,体内藏有受诅咒的魔力。 \n18岁成年后的兄弟俩便掌握了在凡人被魔鬼夺取心志前的一刹那解救他们的魔术。 \n于是在魔鬼与人类之间,围绕他们发生了一系列匪夷所思的非常事件。",
+  "last_updatetime": 1178197740,
+  "last_update_chapter_name": "vol_03",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "diabolo",
+  "hidden": 1,
+  "hot_num": 15476,
+  "hit_num": 596202,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 1740,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 55,
+      "tag_name": "大桥薰"
+    },
+    {
+      "tag_id": 129,
+      "tag_name": "楠桂"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 91,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 1740,
+          "chapter_title": "3卷",
+          "updatetime": 1178197740,
+          "filesize": 10095684,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 1739,
+          "chapter_title": "2卷",
+          "updatetime": 1178197740,
+          "filesize": 9553144,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 1738,
+          "chapter_title": "1卷",
+          "updatetime": 1178197740,
+          "filesize": 10063901,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 19633352,
+        "uid": 20243,
+        "content": "隐了",
+        "createtime": 1566402537,
+        "nickname": "五月罂粟",
+        "avatar": "https://avatar.dmzj.com/b0/b0/b0b0ac7b4ddcd2fccd4f3dbfc670e880.png"
+      },
+      {
+        "comment_id": 10467939,
+        "uid": 100890251,
+        "content": "啊啊啊我好喜欢赖",
+        "createtime": 1548346134,
+        "nickname": "京一郎的煎饼",
+        "avatar": "https://avatar.dmzj.com/84/20/8420a605499550d61a0fed4179c13af9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

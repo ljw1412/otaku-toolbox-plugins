@@ -1,0 +1,91 @@
+{
+  "id": 14455,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠：狂笑之人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/bfxkxzr.jpg",
+  "description": "蝙蝠侠和小丑的初次对决……",
+  "last_updatetime": 1398934793,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bfxkxzr",
+  "hidden": 0,
+  "hot_num": 2185862,
+  "hit_num": 853874,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 29068,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 9360,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29068,
+          "chapter_title": "1卷",
+          "updatetime": 1398934793,
+          "filesize": 10000098,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 22384968,
+        "uid": 101665047,
+        "content": "DC高貴！DC深隧！DC英勇！DC死得不明不白！",
+        "createtime": 1575029659,
+        "nickname": "安琪丽可女王",
+        "avatar": "https://avatar.dmzj.com/10/88/10888093c41a995d2d35f89c82674503.png"
+      },
+      {
+        "comment_id": 21125611,
+        "uid": 107072537,
+        "content": "应该可以算是元年的续集？",
+        "createtime": 1570632211,
+        "nickname": "刷勇者的大魔王",
+        "avatar": "https://avatar.dmzj.com/87/54/8754ae441f9c52e9a20fe082c0686b7b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

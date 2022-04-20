@@ -1,0 +1,87 @@
+{
+  "id": 14144,
+  "islong": 2,
+  "direction": 1,
+  "title": "小小梦想作家",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/xxmxzj.jpg",
+  "description": "恋爱和梦想、所有的日常，皆因一通打错的电话而改变。 ",
+  "last_updatetime": 1394292500,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaoxiaomengxiangzuojia",
+  "hidden": 0,
+  "hot_num": 8524,
+  "hit_num": 165606,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 27081,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7213,
+      "tag_name": " 三浦えりか"
+    }
+  ],
+  "subscribe_num": 32,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27081,
+          "chapter_title": "0话",
+          "updatetime": 1394292500,
+          "filesize": 3764789,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 233146,
+        "uid": 26416117,
+        "content": "。。。哪里爱情了",
+        "createtime": 1399059983,
+        "nickname": "muumoo",
+        "avatar": "https://avatar.dmzj.com/65/2b/652b4fd5f5b3dd7ef6c97586e0df81ac.png"
+      },
+      {
+        "comment_id": 213499,
+        "uid": 25902423,
+        "content": "不愧是得獎作品~",
+        "createtime": 1394323214,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

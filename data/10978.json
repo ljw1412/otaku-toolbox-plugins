@@ -1,0 +1,87 @@
+{
+  "id": 10978,
+  "islong": 2,
+  "direction": 1,
+  "title": "没有终结的世界 ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/meiyouzhongjiedeshijie.jpg",
+  "description": "东方同人漫画作品",
+  "last_updatetime": 1366123848,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "meiyouzhongjiedeshijie",
+  "hidden": 0,
+  "hot_num": 51680,
+  "hit_num": 166247,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21534,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5817,
+      "tag_name": "赤橙"
+    }
+  ],
+  "subscribe_num": 266,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21534,
+          "chapter_title": "1话",
+          "updatetime": 1366123848,
+          "filesize": 1579203,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 11098370,
+        "uid": 108426162,
+        "content": "这是什么？不懂",
+        "createtime": 1549635046,
+        "nickname": "萝卜糕灬",
+        "avatar": "https://avatar.dmzj.com/94/47/94472e63afe33eb28663f1faf321ab35.png"
+      },
+      {
+        "comment_id": 7435704,
+        "uid": 100077276,
+        "content": "蜜汁寿命论。。。师匠也不知道去哪了",
+        "createtime": 1539681877,
+        "nickname": "神一样的笨蛋",
+        "avatar": "https://avatar.dmzj.com/1e/2d/1e2d5c5a151712e106b0511dc741e4d6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

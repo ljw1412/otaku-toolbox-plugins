@@ -1,0 +1,87 @@
+{
+  "id": 10355,
+  "islong": 2,
+  "direction": 1,
+  "title": "千年的星空、黎明的花束",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/qianniandexingkong.jpg",
+  "description": "千年的星空、黎明的花束，东方同人漫画",
+  "last_updatetime": 1360921643,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qianniandexingkong",
+  "hidden": 0,
+  "hot_num": 24828,
+  "hit_num": 170654,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21719,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5509,
+      "tag_name": " こな"
+    }
+  ],
+  "subscribe_num": 104,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21719,
+          "chapter_title": "1话",
+          "updatetime": 1360921643,
+          "filesize": 3946174,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 21069377,
+        "uid": 107353370,
+        "content": "噗（喷鼻血）",
+        "createtime": 1570502618,
+        "nickname": "dmzj_107353370",
+        "avatar": "https://avatar.dmzj.com/1d/dd/1ddd65bce56408cdca8317cf1193a98d.png"
+      },
+      {
+        "comment_id": 183767,
+        "uid": 10102360,
+        "content": "沙发\n",
+        "createtime": 1387163873,
+        "nickname": "770581821txl",
+        "avatar": "https://avatar.dmzj.com/fd/f8/fdf82c59a905f9b4acf601b58c2b25da.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

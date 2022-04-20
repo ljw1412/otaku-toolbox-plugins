@@ -1,0 +1,129 @@
+{
+  "id": 11333,
+  "islong": 2,
+  "direction": 1,
+  "title": "电车D",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/dianched.jpg",
+  "description": "头文字D同人漫画。",
+  "last_updatetime": 1377850212,
+  "last_update_chapter_name": "第07话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dianched",
+  "hidden": 0,
+  "hot_num": 229359,
+  "hit_num": 1489428,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23798,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6004,
+      "tag_name": "きよ○"
+    }
+  ],
+  "subscribe_num": 866,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23798,
+          "chapter_title": "7话",
+          "updatetime": 1377850212,
+          "filesize": 3220508,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 23631,
+          "chapter_title": "6话",
+          "updatetime": 1377065506,
+          "filesize": 1650678,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 22228,
+          "chapter_title": "5话",
+          "updatetime": 1369642032,
+          "filesize": 4028671,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 22139,
+          "chapter_title": "4话",
+          "updatetime": 1369298654,
+          "filesize": 2451976,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 22083,
+          "chapter_title": "3话",
+          "updatetime": 1369044618,
+          "filesize": 2242374,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 22063,
+          "chapter_title": "2话",
+          "updatetime": 1368931523,
+          "filesize": 2581651,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22050,
+          "chapter_title": "1话",
+          "updatetime": 1368845832,
+          "filesize": 1881792,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 196,
+    "latest_comment": [
+      {
+        "comment_id": 26893564,
+        "uid": 110713900,
+        "content": "谁有头文字D或者MF Ghost",
+        "createtime": 1587993657,
+        "nickname": "童磨给爷爬",
+        "avatar": "https://avatar.dmzj.com/26/c4/26c4d54a1bfd1fb6d50843a55d4aa7da.png"
+      },
+      {
+        "comment_id": 24674175,
+        "uid": 106289612,
+        "content": "有人找到本篇么",
+        "createtime": 1582959842,
+        "nickname": "Mr.Q29697",
+        "avatar": "https://avatar.dmzj.com/eb/28/eb28873cae514ee8d9f3fd7fd5d284b4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

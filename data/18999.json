@@ -1,0 +1,83 @@
+{
+  "id": 18999,
+  "islong": 1,
+  "direction": 2,
+  "title": "黄焦焦吵冷饭",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1001882271433231443.jpg",
+  "description": "这是一个人一只熊一个枕头还有一只狗的漫画故事，大杂烩各种吐槽各种炒冷饭各种有~微博：黄焦焦-0L0 http:／／weibo.com／u／5210771760",
+  "last_updatetime": 1433234917,
+  "last_update_chapter_name": "双子座，你值得拥有",
+  "copyright": 1,
+  "first_letter": "h",
+  "comic_py": "huangjiaojiaochaolengfan",
+  "hidden": 0,
+  "hot_num": 770,
+  "hit_num": 2279,
+  "uid": 100188227,
+  "is_lock": 0,
+  "last_update_chapter_id": 37756,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9482,
+      "tag_name": "黄焦焦"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37756,
+          "chapter_title": "双子座，你值得拥有",
+          "updatetime": 1433234917,
+          "filesize": 232269,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 37755,
+          "chapter_title": "粤语科普贴",
+          "updatetime": 1433231934,
+          "filesize": 60046,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,115 @@
+{
+  "id": 18346,
+  "islong": 2,
+  "direction": 1,
+  "title": "RWBY小短漫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/pzhanxiaoduanpian.jpg",
+  "description": "RWBY同人短漫，P站扒取",
+  "last_updatetime": 1430036695,
+  "last_update_chapter_name": "插画01-04",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "rwbyxiaoduanman",
+  "hidden": 0,
+  "hot_num": 678490,
+  "hit_num": 143998,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 38170,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 3018,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38170,
+          "chapter_title": "插画01-04",
+          "updatetime": 1430036695,
+          "filesize": 343948,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 38169,
+          "chapter_title": "4话",
+          "updatetime": 1430036686,
+          "filesize": 246083,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 38148,
+          "chapter_title": "3话",
+          "updatetime": 1429967289,
+          "filesize": 332683,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 38147,
+          "chapter_title": "2话",
+          "updatetime": 1429967278,
+          "filesize": 122529,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 38144,
+          "chapter_title": "1话",
+          "updatetime": 1429967252,
+          "filesize": 725692,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 31,
+    "latest_comment": [
+      {
+        "comment_id": 25135746,
+        "uid": 106059600,
+        "content": "6",
+        "createtime": 1583905861,
+        "nickname": "dmzj_106059600",
+        "avatar": "https://avatar.dmzj.com/ad/95/ad954c74e546e771e691cf6fe15a874b.png"
+      },
+      {
+        "comment_id": 20386322,
+        "uid": 109676039,
+        "content": "p交流qu",
+        "createtime": 1568713994,
+        "nickname": "侑小侑",
+        "avatar": "https://avatar.dmzj.com/51/93/5193cc80a01151144a5a43c4b9841599.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

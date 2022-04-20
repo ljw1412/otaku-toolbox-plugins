@@ -1,0 +1,91 @@
+{
+  "id": 14820,
+  "islong": 2,
+  "direction": 1,
+  "title": "Le Rouge et le Noir 红与黑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/df1881864286.jpg",
+  "description": "东方红黑同人",
+  "last_updatetime": 1403417464,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lerougeetlenoir",
+  "hidden": 0,
+  "hot_num": 154778,
+  "hit_num": 37222,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 29838,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 629,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29838,
+          "chapter_title": "1话",
+          "updatetime": 1403417464,
+          "filesize": 554221,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 26380925,
+        "uid": 101490751,
+        "content": "作者:至る",
+        "createtime": 1586642367,
+        "nickname": "偽MUR大先輩",
+        "avatar": "https://avatar.dmzj.com/76/31/76315c56f0c019bff534ae1abfd88085.png"
+      },
+      {
+        "comment_id": 22436583,
+        "uid": 104298665,
+        "content": "好可爱啊我死了。",
+        "createtime": 1575304841,
+        "nickname": "盈缶",
+        "avatar": "https://avatar.dmzj.com/82/68/82686f1451a0398e2e6adfa1d6cac503.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

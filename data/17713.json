@@ -1,0 +1,91 @@
+{
+  "id": 17713,
+  "islong": 2,
+  "direction": 1,
+  "title": "万能铰剪",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/wannengjiaojian.jpg",
+  "description": "万能铰剪能剪出每一个人心中的梦想，他能感动作者本人，所以海仔决定出版这部作品。希望这部作品能感动读者坚持自己心中的梦想，剪出灿烂的未来。",
+  "last_updatetime": 1427338104,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wanengjiaojian",
+  "hidden": 1,
+  "hot_num": 1135,
+  "hit_num": 18496,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 35455,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8855,
+      "tag_name": "海仔"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35455,
+          "chapter_title": "1卷",
+          "updatetime": 1427338104,
+          "filesize": 4135714,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 3744767,
+        "uid": 1499,
+        "content": "我来啦",
+        "createtime": 1516870116,
+        "nickname": "wolfspicy",
+        "avatar": "https://avatar.dmzj.com/13/43/1343684006f5202a6b932ea43862d89b.png"
+      },
+      {
+        "comment_id": 3744681,
+        "uid": 104243498,
+        "content": "嘉豪，我在这",
+        "createtime": 1516869029,
+        "nickname": "热心市民Boom",
+        "avatar": "https://avatar.dmzj.com/45/15/4515ffedfac3a949296d34152fa7b892.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

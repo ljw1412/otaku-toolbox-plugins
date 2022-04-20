@@ -1,0 +1,95 @@
+{
+  "id": 18961,
+  "islong": 2,
+  "direction": 1,
+  "title": "狱都事变",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/t3884574yudushibian5310002.jpg",
+  "description": "改编自同名游戏。讲述狱卒追捕亡者的故事。",
+  "last_updatetime": 1433075401,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yudushibian",
+  "hidden": 0,
+  "hot_num": 691070,
+  "hit_num": 884028,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 39431,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9464,
+      "tag_name": "あおのなち"
+    },
+    {
+      "tag_id": 9465,
+      "tag_name": "リンネ堂"
+    }
+  ],
+  "subscribe_num": 4114,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39431,
+          "chapter_title": "1话",
+          "updatetime": 1433075401,
+          "filesize": 4053228,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 122,
+    "latest_comment": [
+      {
+        "comment_id": 26852281,
+        "uid": 109563920,
+        "content": "！",
+        "createtime": 1587878841,
+        "nickname": "馒头馒头卡",
+        "avatar": "https://avatar.dmzj.com/30/89/308960725beee88be5309edd61b7ad79.png"
+      },
+      {
+        "comment_id": 26562579,
+        "uid": 101191436,
+        "content": "超级好看",
+        "createtime": 1587077952,
+        "nickname": "白熊-终将听见UR的声音",
+        "avatar": "https://avatar.dmzj.com/56/55/5655a8af975b5b744cad967f5ff857d9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

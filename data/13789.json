@@ -1,0 +1,87 @@
+{
+  "id": 13789,
+  "islong": 2,
+  "direction": 1,
+  "title": "鸠居的怀古录",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/jiujudehuaigulu.jpg",
+  "description": "有不用的旧道具和希望的回忆的话，请多关照鸠居庵！",
+  "last_updatetime": 1390210196,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jiujudehuaigulu",
+  "hidden": 0,
+  "hot_num": 26794,
+  "hit_num": 85087,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 26146,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6197,
+      "tag_name": "钓卷和"
+    }
+  ],
+  "subscribe_num": 131,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26146,
+          "chapter_title": "1话",
+          "updatetime": 1390210196,
+          "filesize": 1795878,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 22512609,
+        "uid": 108418051,
+        "content": "鸠子？的妖怪邮递员？！",
+        "createtime": 1575777847,
+        "nickname": "新奥尔良桃子",
+        "avatar": "https://avatar.dmzj.com/11/74/11749acc276692b006c79e0c96b09998.png"
+      },
+      {
+        "comment_id": 542478,
+        "uid": 100348249,
+        "content": "什么鬼 一路走好",
+        "createtime": 1450201306,
+        "nickname": "RIO来一瓶",
+        "avatar": "https://avatar.dmzj.com/85/29/8529017455eea11143ae273bccd9ce14.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

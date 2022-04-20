@@ -1,0 +1,121 @@
+{
+  "id": 19751,
+  "islong": 2,
+  "direction": 2,
+  "title": "猎魔战记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871436775442.jpg",
+  "description": "当世界已经基本被魔物占领，作为猎魔人又何去何从？",
+  "last_updatetime": 1444619866,
+  "last_update_chapter_name": "第04话",
+  "copyright": 1,
+  "first_letter": "l",
+  "comic_py": "liemozhanji",
+  "hidden": 0,
+  "hot_num": 77255,
+  "hit_num": 1371786,
+  "uid": 100205887,
+  "is_lock": 0,
+  "last_update_chapter_id": 43772,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 363,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43772,
+          "chapter_title": "4话",
+          "updatetime": 1444619866,
+          "filesize": 3229027,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 43771,
+          "chapter_title": "3话",
+          "updatetime": 1444619831,
+          "filesize": 1127505,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 43770,
+          "chapter_title": "2话",
+          "updatetime": 1444619812,
+          "filesize": 1056742,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 43769,
+          "chapter_title": "1话",
+          "updatetime": 1444619785,
+          "filesize": 1643463,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40737,
+          "chapter_title": "0话",
+          "updatetime": 1436775572,
+          "filesize": 2479009,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 162,
+    "latest_comment": [
+      {
+        "comment_id": 26583461,
+        "uid": 109815038,
+        "content": "这个很好看",
+        "createtime": 1587139084,
+        "nickname": "sagebush",
+        "avatar": "https://avatar.dmzj.com/33/6e/336e51a6491561f64538a9dd0a1f8ea3.png"
+      },
+      {
+        "comment_id": 26138823,
+        "uid": 107414093,
+        "content": "我看完了，不过现在进不去了",
+        "createtime": 1586153353,
+        "nickname": "薇尔莉特·伊芙加登！",
+        "avatar": "https://avatar.dmzj.com/84/80/84805ec9fe8a697c1cd6ed63d6506898.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

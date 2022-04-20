@@ -1,0 +1,89 @@
+{
+  "id": 19274,
+  "islong": 2,
+  "direction": 2,
+  "title": "我是刺客",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1001986451434688537.jpg",
+  "description": "刺客~",
+  "last_updatetime": 1434688585,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "w",
+  "comic_py": "woshicike",
+  "hidden": 0,
+  "hot_num": 2160,
+  "hit_num": 21072,
+  "uid": 100198645,
+  "is_lock": 0,
+  "last_update_chapter_id": 38240,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8539,
+      "tag_name": "Neku锅"
+    }
+  ],
+  "subscribe_num": 9,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38240,
+          "chapter_title": "1话",
+          "updatetime": 1434688585,
+          "filesize": 732546,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 24386148,
+        "uid": 106026093,
+        "content": "嗯……人人都有开始希望您会继续完善，并使剧情更吸引人。",
+        "createtime": 1582295699,
+        "nickname": "我那带线的自由",
+        "avatar": "https://avatar.dmzj.com/50/78/50787bd7805e8779b0bc48f70104e424.png"
+      },
+      {
+        "comment_id": 2212180,
+        "uid": 104223585,
+        "content": "呵呵",
+        "createtime": 1495431213,
+        "nickname": "诗凰",
+        "avatar": "https://avatar.dmzj.com/97/65/9765a90e86d97698be21a8c53419e817.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

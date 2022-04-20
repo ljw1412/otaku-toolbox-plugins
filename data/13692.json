@@ -1,0 +1,133 @@
+{
+  "id": 13692,
+  "islong": 2,
+  "direction": 2,
+  "title": "新52正义联盟3000",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/xin52zylm3000.jpg",
+  "description": "新52 31世纪正义联盟",
+  "last_updatetime": 1548652848,
+  "last_update_chapter_name": "第12卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xin52zylm3000",
+  "hidden": 0,
+  "hot_num": 2094624,
+  "hit_num": 889387,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 85100,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 9119,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85100,
+          "chapter_title": "12卷",
+          "updatetime": 1548652848,
+          "filesize": 4047446,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 45020,
+          "chapter_title": "6卷",
+          "updatetime": 1441522565,
+          "filesize": 3566109,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 30484,
+          "chapter_title": "5卷",
+          "updatetime": 1401089159,
+          "filesize": 3650530,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 29961,
+          "chapter_title": "4卷",
+          "updatetime": 1398434007,
+          "filesize": 3660646,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 29511,
+          "chapter_title": "3卷",
+          "updatetime": 1396020194,
+          "filesize": 3105634,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 28944,
+          "chapter_title": "2卷",
+          "updatetime": 1392953143,
+          "filesize": 3171654,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 28314,
+          "chapter_title": "1卷",
+          "updatetime": 1389318875,
+          "filesize": 4210688,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 17902473,
+        "uid": 74247,
+        "content": "超级英雄军团呢？",
+        "createtime": 1562428801,
+        "nickname": "明镜止水77457",
+        "avatar": "https://avatar.dmzj.com/84/63/846310a8d8d1fcde49fc5b0c701236f6.png"
+      },
+      {
+        "comment_id": 16237607,
+        "uid": 108431045,
+        "content": "又坑了",
+        "createtime": 1558463824,
+        "nickname": "dmzj_108431045",
+        "avatar": "https://avatar.dmzj.com/0d/d8/0dd840d4d50182db9fd5be34fcbb1276.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

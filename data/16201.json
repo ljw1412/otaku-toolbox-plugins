@@ -1,0 +1,91 @@
+{
+  "id": 16201,
+  "islong": 2,
+  "direction": 1,
+  "title": "悠夏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/021125songjiangmingjundper03.jpg",
+  "description": "突然造访的少女，却引发了一场魔法的大逃亡？",
+  "last_updatetime": 1416923198,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "youxia",
+  "hidden": 0,
+  "hot_num": 161169,
+  "hit_num": 636294,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 33286,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5806,
+      "tag_name": "魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 683,
+      "tag_name": "松江名俊"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 803,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33286,
+          "chapter_title": "1话",
+          "updatetime": 1416923198,
+          "filesize": 6224058,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 52,
+    "latest_comment": [
+      {
+        "comment_id": 26223035,
+        "uid": 107498582,
+        "content": "看画风识作者",
+        "createtime": 1586332662,
+        "nickname": "漠河的北",
+        "avatar": "https://avatar.dmzj.com/68/32/68321496f2d6ff089f751b56121a6fde.png"
+      },
+      {
+        "comment_id": 22958092,
+        "uid": 107456266,
+        "content": "兼一",
+        "createtime": 1577717253,
+        "nickname": "dmzj_107456266",
+        "avatar": "https://avatar.dmzj.com/c4/53/c453284f18546d7ef987fb010175196c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

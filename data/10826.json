@@ -1,0 +1,91 @@
+{
+  "id": 10826,
+  "islong": 2,
+  "direction": 1,
+  "title": "你是我的",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/nishiwode.jpg",
+  "description": "松永：學妹我只能幫學姐到這了。",
+  "last_updatetime": 1365062827,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "nishiwode",
+  "hidden": 0,
+  "hot_num": 379864,
+  "hit_num": 1566945,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20862,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5757,
+      "tag_name": "スカーレットベリ子"
+    }
+  ],
+  "subscribe_num": 2067,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20862,
+          "chapter_title": "1话",
+          "updatetime": 1365062828,
+          "filesize": 3260552,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 92,
+    "latest_comment": [
+      {
+        "comment_id": 26544799,
+        "uid": 104732321,
+        "content": "是完结的，状态还在连载中。",
+        "createtime": 1587039175,
+        "nickname": "二次元的恐怖片",
+        "avatar": "https://avatar.dmzj.com/59/87/5987d0c54ae3600ac113b167b17f4454.png"
+      },
+      {
+        "comment_id": 26536099,
+        "uid": 105951070,
+        "content": "书签",
+        "createtime": 1587016047,
+        "nickname": "决心★",
+        "avatar": "https://avatar.dmzj.com/64/04/6404af8a98a4d0cdf22819b1a7cd6b92.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

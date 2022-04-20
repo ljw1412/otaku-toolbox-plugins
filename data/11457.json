@@ -1,0 +1,115 @@
+{
+  "id": 11457,
+  "islong": 2,
+  "direction": 1,
+  "title": "Paper Braver",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/paperbraver.jpg",
+  "description": "勇者业界骚动！新的传说(预定)就要开始啦！",
+  "last_updatetime": 1377103779,
+  "last_update_chapter_name": "第07话",
+  "copyright": 0,
+  "first_letter": "p",
+  "comic_py": "paperbraver",
+  "hidden": 0,
+  "hot_num": 234175,
+  "hit_num": 1302517,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 26025,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6028,
+      "tag_name": "藤近小梅"
+    }
+  ],
+  "subscribe_num": 1359,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26025,
+          "chapter_title": "7话",
+          "updatetime": 1377103779,
+          "filesize": 1166713,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 25833,
+          "chapter_title": "6话",
+          "updatetime": 1376066505,
+          "filesize": 1231304,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 24985,
+          "chapter_title": "4话",
+          "updatetime": 1371750838,
+          "filesize": 1259900,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 24730,
+          "chapter_title": "3话",
+          "updatetime": 1370503535,
+          "filesize": 1078319,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 24554,
+          "chapter_title": "1话",
+          "updatetime": 1369761780,
+          "filesize": 3603093,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 49,
+    "latest_comment": [
+      {
+        "comment_id": 24974468,
+        "uid": 109632387,
+        "content": "我去，13年的评论还能见到",
+        "createtime": 1583547398,
+        "nickname": "潜鸟鸣",
+        "avatar": "https://avatar.dmzj.com/41/17/41176a1542020f3dab9e216b4cddbf02.png"
+      },
+      {
+        "comment_id": 23860891,
+        "uid": 109516114,
+        "content": "2020年的我看了眼日期。。。。是不是该入土了，这tm怎么还是连载啊",
+        "createtime": 1581018715,
+        "nickname": "八矢幡",
+        "avatar": "https://avatar.dmzj.com/85/01/8501ab1dc3cf4627c9611a8139f4107f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,101 @@
+{
+  "id": 13921,
+  "islong": 2,
+  "direction": 2,
+  "title": "惩罚者:官方电影改编版",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/chengfazheguanfangdianyingban.jpg",
+  "description": "本系列是04年惩罚者电影的改编漫画。",
+  "last_updatetime": 1392112868,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chengfazhedianyingban",
+  "hidden": 0,
+  "hot_num": 3069395,
+  "hit_num": 151372,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 26701,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 12561,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26701,
+          "chapter_title": "3卷",
+          "updatetime": 1392112868,
+          "filesize": 3076120,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 26700,
+          "chapter_title": "2卷",
+          "updatetime": 1392112843,
+          "filesize": 2644323,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 26661,
+          "chapter_title": "1卷",
+          "updatetime": 1391968270,
+          "filesize": 3386989,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 204996,
+        "uid": 10048326,
+        "content": "卧槽！这是第一部电影的剧情啊！劳资要看《战争特区》！~",
+        "createtime": 1392164815,
+        "nickname": "dubbleteeth",
+        "avatar": "https://avatar.dmzj.com/cd/7a/cd7af93b968571c4fb008a084e98838c.png"
+      },
+      {
+        "comment_id": 204189,
+        "uid": 10048326,
+        "content": "WELCOME TO WAR ZONE",
+        "createtime": 1391994590,
+        "nickname": "dubbleteeth",
+        "avatar": "https://avatar.dmzj.com/cd/7a/cd7af93b968571c4fb008a084e98838c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

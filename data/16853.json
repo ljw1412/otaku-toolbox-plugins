@@ -1,0 +1,89 @@
+{
+  "id": 16853,
+  "islong": 2,
+  "direction": 2,
+  "title": "混沌黑书",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1490946332.jpg",
+  "description": "英雄崛起的崩乱时代。",
+  "last_updatetime": 1421893101,
+  "last_update_chapter_name": "魇娘X蟠桃局 壹",
+  "copyright": 1,
+  "first_letter": "h",
+  "comic_py": "hundunheishu",
+  "hidden": 0,
+  "hot_num": 14004,
+  "hit_num": 285926,
+  "uid": 100037440,
+  "is_lock": 0,
+  "last_update_chapter_id": 33710,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8417,
+      "tag_name": "混沌花园"
+    }
+  ],
+  "subscribe_num": 74,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33710,
+          "chapter_title": "0话",
+          "updatetime": 1421893101,
+          "filesize": 1691180,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 5076575,
+        "uid": 105967115,
+        "content": "然后呢",
+        "createtime": 1528801871,
+        "nickname": "彼方nifd",
+        "avatar": "https://avatar.dmzj.com/58/cb/58cb4c02cf9add2b8ccc2f57def215d0.png"
+      },
+      {
+        "comment_id": 2770195,
+        "uid": 101636470,
+        "content": "我记得这个某妖气上有剩下的后面剧情挺迷的不过确实太监了",
+        "createtime": 1503267624,
+        "nickname": "qzuser81734646",
+        "avatar": "https://avatar.dmzj.com/52/28/522866a8d6a120568a8121e8f22ea87b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

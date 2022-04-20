@@ -1,0 +1,91 @@
+{
+  "id": 12990,
+  "islong": 2,
+  "direction": 2,
+  "title": "暗夜的生物",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/anyedeshengwu.jpg",
+  "description": "魔力、奇幻、空灵、诡秘，一切尽在纽约时报最畅销作者尼尔·盖曼的名著绘本中等你去发现。\n极富经验的著名画家迈克尔·祖利担当主笔，《暗夜的生物》向我们展示了两个谜一般的动物美丽且骇人的传说与它们的带给人类世界的神奇影响。",
+  "last_updatetime": 1382004735,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "anyedeshengwu",
+  "hidden": 1,
+  "hot_num": 33664,
+  "hit_num": 208982,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25832,
+  "authors": [
+    {
+      "tag_id": 1630,
+      "tag_name": "NEIL GAIMAN"
+    },
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "subscribe_num": 289,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25832,
+          "chapter_title": "1卷",
+          "updatetime": 1382004735,
+          "filesize": 5538275,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 15239518,
+        "uid": 108475921,
+        "content": "礼明",
+        "createtime": 1556769444,
+        "nickname": "dmzj_108475921",
+        "avatar": "https://avatar.dmzj.com/61/70/61702746908650ae7800e618a98489ec.png"
+      },
+      {
+        "comment_id": 9466455,
+        "uid": 27476,
+        "content": "留名",
+        "createtime": 1546098889,
+        "nickname": "旅馆04069",
+        "avatar": "https://avatar.dmzj.com/19/84/198471753809bb4e0374845fb3072638.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

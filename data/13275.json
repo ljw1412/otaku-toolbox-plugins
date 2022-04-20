@@ -1,0 +1,87 @@
+{
+  "id": 13275,
+  "islong": 2,
+  "direction": 1,
+  "title": "爆想Twilight",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/baoxiangtwilight.jpg",
+  "description": "雾雨魔理沙穿越到游戏里的欢乐喜剧。",
+  "last_updatetime": 1384664575,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "baoxiangtwilight",
+  "hidden": 0,
+  "hot_num": 28563,
+  "hit_num": 93787,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 26319,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6863,
+      "tag_name": "$"
+    }
+  ],
+  "subscribe_num": 125,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26319,
+          "chapter_title": "1话",
+          "updatetime": 1384664575,
+          "filesize": 3110039,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 24607829,
+        "uid": 110199340,
+        "content": "一大堆好玩游戏的neta",
+        "createtime": 1582827902,
+        "nickname": "kinar0",
+        "avatar": "https://avatar.dmzj.com/67/43/6743338d96658310d274604fbdb0a601.png"
+      },
+      {
+        "comment_id": 20346679,
+        "uid": 109078101,
+        "content": "人好少啊",
+        "createtime": 1568600284,
+        "nickname": "一边睡觉一边睡觉",
+        "avatar": "https://avatar.dmzj.com/97/d0/97d03d113d91857dc24c5d3b95c28bac.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

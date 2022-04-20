@@ -1,0 +1,87 @@
+{
+  "id": 10149,
+  "islong": 2,
+  "direction": 1,
+  "title": "LOVE IS BLIND",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/loveis.jpg",
+  "description": "爱情就是盲目的。主角正是一个视力有问题的少女····名副其实的盲目恋爱~",
+  "last_updatetime": 1358782806,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "loveisblind",
+  "hidden": 0,
+  "hot_num": 114553,
+  "hit_num": 185416,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20251,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5384,
+      "tag_name": "木内ラムネ"
+    }
+  ],
+  "subscribe_num": 670,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20251,
+          "chapter_title": "1话",
+          "updatetime": 1358782806,
+          "filesize": 1890085,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 26927869,
+        "uid": 110877603,
+        "content": "太少了，不过足够甜",
+        "createtime": 1588081431,
+        "nickname": "南宫樱",
+        "avatar": "https://avatar.dmzj.com/67/55/6755570dec76e0b18530ac521c2d6d87.png"
+      },
+      {
+        "comment_id": 25858150,
+        "uid": 108033486,
+        "content": "虽然一脸懵但是很甜",
+        "createtime": 1585571050,
+        "nickname": "我请你吃糖",
+        "avatar": "https://avatar.dmzj.com/4c/d2/4cd241fc5ba57aa5f9b9169964a99245.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

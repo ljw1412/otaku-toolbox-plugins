@@ -1,0 +1,74 @@
+{
+  "id": 18633,
+  "islong": 2,
+  "direction": 1,
+  "title": "测试20150512淘漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/mg-logo.jpg",
+  "description": "淘漫画",
+  "last_updatetime": 0,
+  "last_update_chapter_name": null,
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "ceshi20150512taomanhua",
+  "hidden": 1,
+  "hot_num": 2473,
+  "hit_num": 0,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": null,
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "subscribe_num": 12,
+  "chapters": [],
+  "comment": {
+    "comment_count": 54,
+    "latest_comment": [
+      {
+        "comment_id": 26375067,
+        "uid": 104892776,
+        "content": "/c是什么意思？",
+        "createtime": 1586625641,
+        "nickname": "孤90030",
+        "avatar": "https://avatar.dmzj.com/8f/56/8f56aac2f017ff64ccb1d2ebf861cadd.png"
+      },
+      {
+        "comment_id": 26375050,
+        "uid": 104892776,
+        "content": "？？？？？？？？？？",
+        "createtime": 1586625620,
+        "nickname": "孤90030",
+        "avatar": "https://avatar.dmzj.com/8f/56/8f56aac2f017ff64ccb1d2ebf861cadd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

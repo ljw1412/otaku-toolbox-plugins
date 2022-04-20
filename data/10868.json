@@ -1,0 +1,87 @@
+{
+  "id": 10868,
+  "islong": 2,
+  "direction": 1,
+  "title": "小熊听我说",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/xiaoxiongtingwoshuo.jpg",
+  "description": "我能成为你的泰迪熊吗？那个时候，深埋心中的思念，现在再次苏醒···",
+  "last_updatetime": 1365245787,
+  "last_update_chapter_name": "全一话",
+  "copyright": 3,
+  "first_letter": "x",
+  "comic_py": "xiaoxiongtingwoshuo",
+  "hidden": 0,
+  "hot_num": 29067,
+  "hit_num": 156918,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21348,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5770,
+      "tag_name": "田仲みのる"
+    }
+  ],
+  "subscribe_num": 131,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21348,
+          "chapter_title": "1话",
+          "updatetime": 1365245787,
+          "filesize": 1051376,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 21145610,
+        "uid": 100244084,
+        "content": "我能成为你的闹钟吗",
+        "createtime": 1570684330,
+        "nickname": "阿咔咔咔",
+        "avatar": "https://avatar.dmzj.com/24/62/2462d7d8809795709206f02c18935fb1.png"
+      },
+      {
+        "comment_id": 111891,
+        "uid": 15943069,
+        "content": "这里有一个/A\\//",
+        "createtime": 1365263395,
+        "nickname": "夏喵",
+        "avatar": "https://avatar.dmzj.com/e9/2f/e92fd092785ce977f05273a469a909e5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,119 @@
+{
+  "id": 15365,
+  "islong": 2,
+  "direction": 2,
+  "title": "银河护卫队无限漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/0820yinheshouhuzhewuxianmanhua.jpg",
+  "description": "Guardians of the Galaxy Infinite Comic.《银河守护者无限漫画》，建议用单页模式猛点。",
+  "last_updatetime": 1425055953,
+  "last_update_chapter_name": "第05卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yinheshouhuzhewuxianmanhua",
+  "hidden": 0,
+  "hot_num": 549864,
+  "hit_num": 2823055,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 38531,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 2226,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38531,
+          "chapter_title": "5卷",
+          "updatetime": 1425055953,
+          "filesize": 10347726,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 34158,
+          "chapter_title": "4卷",
+          "updatetime": 1410833199,
+          "filesize": 6460703,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 31027,
+          "chapter_title": "3卷",
+          "updatetime": 1408635869,
+          "filesize": 7904311,
+          "chapter_order": 21
+        },
+        {
+          "chapter_id": 31028,
+          "chapter_title": "2卷",
+          "updatetime": 1408635882,
+          "filesize": 8004705,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 33920,
+          "chapter_title": "1卷",
+          "updatetime": 1409794526,
+          "filesize": 7566251,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 18416239,
+        "uid": 100618287,
+        "content": "每一页都两面 然后一共三页...要翻6遍",
+        "createtime": 1563545825,
+        "nickname": "游魂威尔逊",
+        "avatar": "https://avatar.dmzj.com/19/41/19412c150d95cafede6cca0fe767214e.png"
+      },
+      {
+        "comment_id": 16441518,
+        "uid": 104906404,
+        "content": "哈哈哈很期待每章漫画的后续啊！",
+        "createtime": 1558880544,
+        "nickname": "井上 信史",
+        "avatar": "https://avatar.dmzj.com/39/9f/399fe025c1c4961af71a9c0b25e44507.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

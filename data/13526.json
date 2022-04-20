@@ -1,0 +1,112 @@
+{
+  "id": 13526,
+  "islong": 2,
+  "direction": 1,
+  "title": "谈判少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/tanpanshaonv.jpg",
+  "description": "石黑正数的漫画，谈判专家少女，解决各种难题。",
+  "last_updatetime": 1389310391,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tanpanshaonv",
+  "hidden": 1,
+  "hot_num": 149549,
+  "hit_num": 5600629,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 26094,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1169,
+      "tag_name": "石黑正数"
+    },
+    {
+      "tag_id": 6945,
+      "tag_name": "鹿岛润"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1614,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26094,
+          "chapter_title": "4卷",
+          "updatetime": 1389310391,
+          "filesize": 17699468,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 25995,
+          "chapter_title": "3卷",
+          "updatetime": 1388902847,
+          "filesize": 14389829,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 25827,
+          "chapter_title": "2卷",
+          "updatetime": 1388055280,
+          "filesize": 17922784,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 25767,
+          "chapter_title": "1卷",
+          "updatetime": 1387784114,
+          "filesize": 18991025,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 139,
+    "latest_comment": [
+      {
+        "comment_id": 26615889,
+        "uid": 101831968,
+        "content": "牛逼",
+        "createtime": 1587230948,
+        "nickname": "Waterflame",
+        "avatar": "https://avatar.dmzj.com/53/34/533429e75988221c30b55add2f1a3e17.png"
+      },
+      {
+        "comment_id": 25846432,
+        "uid": 102284839,
+        "content": "666666666",
+        "createtime": 1585540985,
+        "nickname": "旧时少年梦",
+        "avatar": "https://avatar.dmzj.com/74/91/74910a33bfc5f5deaee4bb5f714fff9e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

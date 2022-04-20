@@ -1,0 +1,91 @@
+{
+  "id": 18390,
+  "islong": 2,
+  "direction": 1,
+  "title": "绿茶的绿酱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/lcchadekvjiang.jpg",
+  "description": "萌萌哒绿色调漫画。",
+  "last_updatetime": 1430205687,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lvchadelvjiang",
+  "hidden": 0,
+  "hot_num": 165102,
+  "hit_num": 12539,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 40642,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 653,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40642,
+          "chapter_title": "1话",
+          "updatetime": 1430205687,
+          "filesize": 168871,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 23598147,
+        "uid": 109404918,
+        "content": "这是我看过最短的漫画就一页",
+        "createtime": 1580299579,
+        "nickname": "dmzj_109404918",
+        "avatar": "https://avatar.dmzj.com/92/ec/92eca7cfe0bff6b452e6b7c62ef9a36d.png"
+      },
+      {
+        "comment_id": 2633441,
+        "uid": 103415210,
+        "content": "这漫画的名字让我莫名感觉在骂人━┳━　━┳━   -_-||",
+        "createtime": 1501773258,
+        "nickname": "お半糖℃",
+        "avatar": "https://avatar.dmzj.com/83/24/8324079b1513bb2e428fcba357f8d823.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

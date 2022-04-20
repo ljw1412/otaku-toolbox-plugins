@@ -1,0 +1,105 @@
+{
+  "id": 10897,
+  "islong": 2,
+  "direction": 1,
+  "title": "还没有名字",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/haimeiyoumingzi.jpg",
+  "description": "一直在冒着烟的导火线。爱情的火焰燃烧我的日子、还没有到来。",
+  "last_updatetime": 1365417812,
+  "last_update_chapter_name": "第03话",
+  "copyright": 3,
+  "first_letter": "h",
+  "comic_py": "haimeiyoumingzi",
+  "hidden": 0,
+  "hot_num": 167102,
+  "hit_num": 640439,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23658,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5782,
+      "tag_name": "かずまこを"
+    }
+  ],
+  "subscribe_num": 739,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23658,
+          "chapter_title": "3话",
+          "updatetime": 1365417812,
+          "filesize": 1442404,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 23657,
+          "chapter_title": "2话",
+          "updatetime": 1365417803,
+          "filesize": 1373662,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23656,
+          "chapter_title": "1话",
+          "updatetime": 1365417785,
+          "filesize": 2257445,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 25805269,
+        "uid": 104578751,
+        "content": "。。。画男硬说女",
+        "createtime": 1585430335,
+        "nickname": "好吃不要钱的Q酱XD",
+        "avatar": "https://avatar.dmzj.com/4d/69/4d69408f79144bb13de14f58c067a667.png"
+      },
+      {
+        "comment_id": 19390977,
+        "uid": 109381120,
+        "content": "留",
+        "createtime": 1565787861,
+        "nickname": "泛舟。。",
+        "avatar": "https://avatar.dmzj.com/92/07/920717f5a366739b3a6a74adfc3fd867.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,94 @@
+{
+  "id": 11758,
+  "islong": 2,
+  "direction": 1,
+  "title": "请给我你的爱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/qgwnda.jpg",
+  "description": "请给我你的爱，东方同人本。",
+  "last_updatetime": 1371455605,
+  "last_update_chapter_name": "下篇",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qgwnda",
+  "hidden": 0,
+  "hot_num": 81538,
+  "hit_num": 138674,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22642,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5657,
+      "tag_name": "Carcharias"
+    }
+  ],
+  "subscribe_num": 419,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22642,
+          "chapter_title": "下篇",
+          "updatetime": 1371455605,
+          "filesize": 6024774,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22641,
+          "chapter_title": "上篇",
+          "updatetime": 1371455550,
+          "filesize": 3740672,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 23311406,
+        "uid": 108152401,
+        "content": "panv",
+        "createtime": 1579144668,
+        "nickname": "尘归染",
+        "avatar": "https://avatar.dmzj.com/b9/f5/b9f56e2eae09ceac79335d8b235cb2bf.png"
+      },
+      {
+        "comment_id": 15725654,
+        "uid": 102413588,
+        "content": "沙发",
+        "createtime": 1557583372,
+        "nickname": "寻找未知的旅程",
+        "avatar": "https://avatar.dmzj.com/f5/6d/f56dc4f1ee136a3c8bc7178037f3db0b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

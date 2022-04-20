@@ -1,0 +1,101 @@
+{
+  "id": 1965,
+  "islong": 2,
+  "direction": 1,
+  "title": "蝙蝠侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/022_1fcf6265ff67951e4a84553f81afc492.jpg",
+  "description": "黄玉郎演绎知名dc漫画人物",
+  "last_updatetime": 1269941539,
+  "last_update_chapter_name": "VOL003",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bianfuxia",
+  "hidden": 1,
+  "hot_num": 30759,
+  "hit_num": 437252,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 6336,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 47,
+      "tag_name": "黄玉郎"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 112,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6336,
+          "chapter_title": "3卷",
+          "updatetime": 1269941539,
+          "filesize": 4101046,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 6335,
+          "chapter_title": "2卷",
+          "updatetime": 1269941539,
+          "filesize": 4212515,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 6334,
+          "chapter_title": "1卷",
+          "updatetime": 1269941539,
+          "filesize": 4291524,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 41,
+    "latest_comment": [
+      {
+        "comment_id": 25642267,
+        "uid": 100864641,
+        "content": "啥玩意",
+        "createtime": 1585060704,
+        "nickname": "鸦陌",
+        "avatar": "https://avatar.dmzj.com/81/28/81288078f537cb9f489695a1caa068fb.png"
+      },
+      {
+        "comment_id": 16084065,
+        "uid": 105747324,
+        "content": "我竟然觉得有一点搞笑",
+        "createtime": 1558188832,
+        "nickname": "来，快活啊",
+        "avatar": "https://avatar.dmzj.com/9e/77/9e778e7f63901f3ed18f8b2e207fcbaf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

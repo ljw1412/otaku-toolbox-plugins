@@ -1,0 +1,109 @@
+{
+  "id": 11225,
+  "islong": 2,
+  "direction": 1,
+  "title": "狂气的世界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/kuangqideshijie.jpg",
+  "description": "日本的Y市是一个都市传说多发的城市，某天平凡的女高中生初未和朋友们一起去探访某家废弃医院的怪诞，结果……以克苏鲁为背景，新的神话拉开了序幕。",
+  "last_updatetime": 1440590972,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "k",
+  "comic_py": "kuangqideshijie",
+  "hidden": 0,
+  "hot_num": 173300,
+  "hit_num": 1388360,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 44835,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5913,
+      "tag_name": "空十云"
+    },
+    {
+      "tag_id": 5914,
+      "tag_name": "钢屋ジン"
+    }
+  ],
+  "subscribe_num": 829,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44835,
+          "chapter_title": "3话",
+          "updatetime": 1440590972,
+          "filesize": 4224575,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 25282,
+          "chapter_title": "2话",
+          "updatetime": 1379250851,
+          "filesize": 7380731,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22930,
+          "chapter_title": "1话",
+          "updatetime": 1368013923,
+          "filesize": 8265974,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 67,
+    "latest_comment": [
+      {
+        "comment_id": 23505077,
+        "uid": 102070830,
+        "content": "求接坑啊！！！",
+        "createtime": 1579965029,
+        "nickname": "涡动破坏神",
+        "avatar": "https://avatar.dmzj.com/10/13/1013a537ac9ee296a3cf1a87992a768e.png"
+      },
+      {
+        "comment_id": 19372877,
+        "uid": 101043129,
+        "content": "不知所云……",
+        "createtime": 1565748283,
+        "nickname": "ax⭐️",
+        "avatar": "https://avatar.dmzj.com/21/df/21df62592243d636cefeb37da286fe7b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

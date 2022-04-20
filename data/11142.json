@@ -1,0 +1,87 @@
+{
+  "id": 11142,
+  "islong": 2,
+  "direction": 1,
+  "title": "午间小憩",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/wujianxiaoqi.jpg",
+  "description": "温馨的八云一家，还只有2人故事——",
+  "last_updatetime": 1367489847,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wujianxx",
+  "hidden": 0,
+  "hot_num": 65093,
+  "hit_num": 68288,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24077,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5883,
+      "tag_name": "ゆかたろ"
+    }
+  ],
+  "subscribe_num": 313,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24077,
+          "chapter_title": "1话",
+          "updatetime": 1367489847,
+          "filesize": 1720573,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 27040257,
+        "uid": 106113889,
+        "content": "好温馨啊好感动",
+        "createtime": 1588427709,
+        "nickname": "并不是向日葵桑",
+        "avatar": "https://avatar.dmzj.com/8e/31/8e31e54e1031871f746fed58e81f94ba.png"
+      },
+      {
+        "comment_id": 25921648,
+        "uid": 106043299,
+        "content": "7年了这是第6条评论😂",
+        "createtime": 1585714504,
+        "nickname": "KODmzj",
+        "avatar": "https://avatar.dmzj.com/11/32/11321dc013019469a45a7f7ac5078661.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

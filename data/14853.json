@@ -1,0 +1,87 @@
+{
+  "id": 14853,
+  "islong": 2,
+  "direction": 1,
+  "title": "恋之DITE作战",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/lianzhiditezuozhan.jpg",
+  "description": "纯情百合物语，追逐攻略的爱情故事。",
+  "last_updatetime": 1404012788,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lianzhiditezuozhan",
+  "hidden": 0,
+  "hot_num": 120056,
+  "hit_num": 387518,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 28892,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7476,
+      "tag_name": "btarou"
+    }
+  ],
+  "subscribe_num": 639,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 28892,
+          "chapter_title": "1话",
+          "updatetime": 1404012788,
+          "filesize": 3352163,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 13260108,
+        "uid": 83153,
+        "content": "可惜太短了",
+        "createtime": 1553344272,
+        "nickname": "白20076",
+        "avatar": "https://avatar.dmzj.com/99/c2/99c284d78df935545f5323960f9c07c9.png"
+      },
+      {
+        "comment_id": 13061914,
+        "uid": 106264399,
+        "content": "好短(￣_￣ )",
+        "createtime": 1552832122,
+        "nickname": "细雨燕归",
+        "avatar": "https://avatar.dmzj.com/32/65/32658eb992edce1fce5fec4c79c3366c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

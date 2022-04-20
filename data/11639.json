@@ -1,0 +1,101 @@
+{
+  "id": 11639,
+  "islong": 2,
+  "direction": 1,
+  "title": "春天要来了",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/ctyll.jpg",
+  "description": "琪露诺的过去篇",
+  "last_updatetime": 1370762654,
+  "last_update_chapter_name": "续篇 下",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "ctyll",
+  "hidden": 0,
+  "hot_num": 125878,
+  "hit_num": 141250,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22370,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6128,
+      "tag_name": "チョモラン"
+    }
+  ],
+  "subscribe_num": 548,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22370,
+          "chapter_title": "续篇 下",
+          "updatetime": 1370762654,
+          "filesize": 2255221,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 22369,
+          "chapter_title": "续篇 上",
+          "updatetime": 1370762643,
+          "filesize": 2605775,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22368,
+          "chapter_title": "春天要来了",
+          "updatetime": 1370762380,
+          "filesize": 2900779,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 26310674,
+        "uid": 107481672,
+        "content": "爱了，真的好温柔",
+        "createtime": 1586516572,
+        "nickname": "LancerAlter",
+        "avatar": "https://avatar.dmzj.com/70/62/706271d68b23271b35e6b21adfa1f969.png"
+      },
+      {
+        "comment_id": 23872108,
+        "uid": 107683619,
+        "content": "不管怎么样，我一定要在这里留下足迹",
+        "createtime": 1581065517,
+        "nickname": "dmzj_107683619",
+        "avatar": "https://avatar.dmzj.com/32/8b/328be8a46a6d6778d040986a015b7c59.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

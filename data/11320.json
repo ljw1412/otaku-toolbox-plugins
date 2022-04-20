@@ -1,0 +1,87 @@
+{
+  "id": 11320,
+  "islong": 2,
+  "direction": 1,
+  "title": "Traffic Jam",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/trafficjam.jpg",
+  "description": "巫女组+咏唱组的同人本。（请自备墨镜)",
+  "last_updatetime": 1368690549,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "trafficjam",
+  "hidden": 0,
+  "hot_num": 30786,
+  "hit_num": 169192,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23089,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5966,
+      "tag_name": "GP-KIDS"
+    }
+  ],
+  "subscribe_num": 162,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23089,
+          "chapter_title": "1话",
+          "updatetime": 1368690549,
+          "filesize": 4897098,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 23361195,
+        "uid": 101581009,
+        "content": "好好好，巫女组的本子太少太少了，每一本都是瑰宝",
+        "createtime": 1579363888,
+        "nickname": "zhuji700",
+        "avatar": "https://avatar.dmzj.com/62/39/6239d4040d90c6d0a0ebb72426f41097.png"
+      },
+      {
+        "comment_id": 13367934,
+        "uid": 107526110,
+        "content": "。",
+        "createtime": 1553604178,
+        "nickname": "忽无念",
+        "avatar": "https://avatar.dmzj.com/84/33/84331523b09766ebff5ed238c0978c11.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,89 @@
+{
+  "id": 19743,
+  "islong": 2,
+  "direction": 2,
+  "title": "侠役江湖",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1001439631459908360.jpg",
+  "description": "小衙役大江湖，看平凡少年如何另类闯江湖！",
+  "last_updatetime": 1436757732,
+  "last_update_chapter_name": "序章",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiayijianghu",
+  "hidden": 0,
+  "hot_num": 3891,
+  "hit_num": 103768,
+  "uid": 100143963,
+  "is_lock": 0,
+  "last_update_chapter_id": 39048,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3324,
+      "tag_name": "武侠"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9211,
+      "tag_name": "呆呆木花"
+    }
+  ],
+  "subscribe_num": 40,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39048,
+          "chapter_title": "0话",
+          "updatetime": 1436757732,
+          "filesize": 3266826,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "不定期更新，求关注！！",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 23853127,
+        "uid": 110352764,
+        "content": "这是彻底凉了啊",
+        "createtime": 1581006233,
+        "nickname": "dmzj_110352764",
+        "avatar": "https://avatar.dmzj.com/42/53/425358596c629328ec2f6fafe0b08ad4.png"
+      },
+      {
+        "comment_id": 494625,
+        "uid": 100347419,
+        "content": "3个月没更了啊……",
+        "createtime": 1445216050,
+        "nickname": "疯预知人",
+        "avatar": "https://avatar.dmzj.com/25/a4/25a46d885c2980c0dadac66d024140b5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

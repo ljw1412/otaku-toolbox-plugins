@@ -1,0 +1,101 @@
+{
+  "id": 13684,
+  "islong": 2,
+  "direction": 1,
+  "title": "远藤同学的实验笔记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/0920yuantengtongxue.jpg",
+  "description": "远藤君的观察日记 续作",
+  "last_updatetime": 1462326016,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yuantengtxdgcbj",
+  "hidden": 0,
+  "hot_num": 439218,
+  "hit_num": 342727,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 49546,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7007,
+      "tag_name": "ハヤカワノジコ"
+    }
+  ],
+  "subscribe_num": 2730,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49546,
+          "chapter_title": "3话",
+          "updatetime": 1462326016,
+          "filesize": 2473542,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 41725,
+          "chapter_title": "2话",
+          "updatetime": 1442999415,
+          "filesize": 2187650,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 25981,
+          "chapter_title": "1话",
+          "updatetime": 1389198224,
+          "filesize": 2364745,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 58,
+    "latest_comment": [
+      {
+        "comment_id": 26920965,
+        "uid": 110743447,
+        "content": "老师的线条真的好清新，一切尽在不言间的美",
+        "createtime": 1588070936,
+        "nickname": "dmzj_110743447",
+        "avatar": "https://avatar.dmzj.com/33/18/3318c3db481967883a9d02c75d43c94a.png"
+      },
+      {
+        "comment_id": 25594188,
+        "uid": 107305605,
+        "content": "满花仁和腐漫画可以搜到一系列",
+        "createtime": 1584957176,
+        "nickname": "abcdefghigabc",
+        "avatar": "https://avatar.dmzj.com/79/67/7967382b6204e044cc4bc2f925b6ec15.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

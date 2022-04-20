@@ -1,0 +1,91 @@
+{
+  "id": 19287,
+  "islong": 2,
+  "direction": 1,
+  "title": "地球的女孩",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/diqiudenvhai5l.jpg",
+  "description": "哈啰、哈啰、这里是地球上的女高中生。收到的话，请给我回应。",
+  "last_updatetime": 1434766765,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "diqiudenvhai",
+  "hidden": 0,
+  "hot_num": 296542,
+  "hit_num": 889929,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 42225,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4723,
+      "tag_name": "渡辺カナ"
+    }
+  ],
+  "subscribe_num": 1570,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42225,
+          "chapter_title": "1话",
+          "updatetime": 1434766765,
+          "filesize": 5774949,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 24223098,
+        "uid": 108775274,
+        "content": "留",
+        "createtime": 1581879527,
+        "nickname": "老衲法号你祖宗",
+        "avatar": "https://avatar.dmzj.com/58/ca/58ca68a0fa3b0d46c978977b05ffbc9f.png"
+      },
+      {
+        "comment_id": 23973358,
+        "uid": 101907020,
+        "content": "不错的短篇",
+        "createtime": 1581328164,
+        "nickname": "告别世界的最佳方式",
+        "avatar": "https://avatar.dmzj.com/35/52/355253c6b8bc8138bad26df8ad84bf0b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

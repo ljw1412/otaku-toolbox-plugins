@@ -1,0 +1,91 @@
+{
+  "id": 11331,
+  "islong": 2,
+  "direction": 2,
+  "title": "雷神之怒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/leishenzhinu.jpg",
+  "description": "《雷神之怒》（the Rage of Thor）雷神漫画历史上重要的短篇之一，编剧为Peter Milligan，作画为Mico Suayan，风格厚重，作画精美，讲述了Thor青年时代与命运和愤怒抗争的故事，是了解漫画Thor的必读篇目。",
+  "last_updatetime": 1368786177,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "leishenzhinu",
+  "hidden": 0,
+  "hot_num": 3806140,
+  "hit_num": 252253,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21705,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 18158,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21705,
+          "chapter_title": "1卷",
+          "updatetime": 1368786177,
+          "filesize": 3799158,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 10459623,
+        "uid": 106074748,
+        "content": "真的很棒 而且有些悲伤",
+        "createtime": 1548335945,
+        "nickname": "Ar$enal",
+        "avatar": "https://avatar.dmzj.com/7b/bb/7bbb605c4da9934c7b670305a9b609ac.png"
+      },
+      {
+        "comment_id": 5024897,
+        "uid": 107109865,
+        "content": "侵略1楼，强势",
+        "createtime": 1528470885,
+        "nickname": "dmzj_107109865",
+        "avatar": "https://avatar.dmzj.com/18/29/1829c470488c231d4a45ae8c212a221b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

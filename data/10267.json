@@ -1,0 +1,91 @@
+{
+  "id": 10267,
+  "islong": 2,
+  "direction": 1,
+  "title": "不纯限定ESP",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/bcxdesp.jpg",
+  "description": "某天，突然能使用超能力了！！但是必须有H的动机才能使用！！",
+  "last_updatetime": 1360172502,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bcxdesp",
+  "hidden": 0,
+  "hot_num": 371249,
+  "hit_num": 751485,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22721,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5458,
+      "tag_name": "みこくのほまれ"
+    }
+  ],
+  "subscribe_num": 1638,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22721,
+          "chapter_title": "1话",
+          "updatetime": 1360172502,
+          "filesize": 5398035,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 81,
+    "latest_comment": [
+      {
+        "comment_id": 26605589,
+        "uid": 105048454,
+        "content": "最后我有被吓到",
+        "createtime": 1587214815,
+        "nickname": "琳儿是我老婆",
+        "avatar": "https://avatar.dmzj.com/28/34/28342111c962a2833b36574a109a9041.png"
+      },
+      {
+        "comment_id": 26228015,
+        "uid": 107765339,
+        "content": "妙啊",
+        "createtime": 1586344613,
+        "nickname": "dmzj_107765339",
+        "avatar": "https://avatar.dmzj.com/26/66/2666811b927ad009c5d23dd2355b4b78.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

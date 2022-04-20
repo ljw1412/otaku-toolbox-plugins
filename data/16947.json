@@ -1,0 +1,110 @@
+{
+  "id": 16947,
+  "islong": 2,
+  "direction": 1,
+  "title": "晓解",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/0130xiaojiefml.jpg",
+  "description": "一些短篇的小故事，博人一笑也好，引人深思也好，希望大家喜欢。",
+  "last_updatetime": 1427862761,
+  "last_update_chapter_name": "滑板鞋",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiaojie",
+  "hidden": 0,
+  "hot_num": 20386,
+  "hit_num": 641374,
+  "uid": 100043283,
+  "is_lock": 0,
+  "last_update_chapter_id": 39768,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8467,
+      "tag_name": "晓解"
+    }
+  ],
+  "subscribe_num": 72,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39768,
+          "chapter_title": "4话",
+          "updatetime": 1427862761,
+          "filesize": 2318546,
+          "chapter_order": 22
+        },
+        {
+          "chapter_id": 39767,
+          "chapter_title": "3话",
+          "updatetime": 1427849443,
+          "filesize": 3273305,
+          "chapter_order": 21
+        },
+        {
+          "chapter_id": 37887,
+          "chapter_title": "2话",
+          "updatetime": 1422600066,
+          "filesize": 2053702,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 37886,
+          "chapter_title": "1话",
+          "updatetime": 1422600058,
+          "filesize": 2223973,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 9391806,
+        "uid": 107039189,
+        "content": "晓解",
+        "createtime": 1545907180,
+        "nickname": "普雷姆",
+        "avatar": "https://avatar.dmzj.com/63/18/63185a8ec57eb35b7755faf03175bfb4.png"
+      },
+      {
+        "comment_id": 2666729,
+        "uid": 104869864,
+        "content": "画的很棒！！",
+        "createtime": 1502123033,
+        "nickname": "-83636",
+        "avatar": "https://avatar.dmzj.com/73/26/7326c69c8da273ff67bf5f714e0f2e01.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

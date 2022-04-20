@@ -1,0 +1,87 @@
+{
+  "id": 18903,
+  "islong": 2,
+  "direction": 1,
+  "title": "哆啦A梦 松本大洋版",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/dlamsbdyfengmianl.jpg",
+  "description": "松本大洋95年所画的哆啦A梦短篇，真的像猫一样的哆啦A梦和长大的大雄在未来的某一天的奇妙故事",
+  "last_updatetime": 1432738525,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dlamsbdyb",
+  "hidden": 0,
+  "hot_num": 295215,
+  "hit_num": 202969,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 37484,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2359,
+      "tag_name": "松本大洋"
+    }
+  ],
+  "subscribe_num": 1511,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37484,
+          "chapter_title": "1话",
+          "updatetime": 1432738525,
+          "filesize": 1609329,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 57,
+    "latest_comment": [
+      {
+        "comment_id": 26786283,
+        "uid": 108659773,
+        "content": "完食",
+        "createtime": 1587709016,
+        "nickname": "滴嘟滴嘟滴嘟",
+        "avatar": "https://avatar.dmzj.com/10/90/1090d031cbc99f9690ebf87c9449ccd3.png"
+      },
+      {
+        "comment_id": 26524736,
+        "uid": 105012074,
+        "content": "松本大洋",
+        "createtime": 1586975181,
+        "nickname": "扛锤加昂特",
+        "avatar": "https://avatar.dmzj.com/78/95/789576172ab6dafd3bbe4f92a5214d59.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

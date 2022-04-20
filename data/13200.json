@@ -1,0 +1,87 @@
+{
+  "id": 13200,
+  "islong": 2,
+  "direction": 1,
+  "title": "光之庭",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/guangzhiting.jpg",
+  "description": "袴田めら老师的百合短篇系列。赤红的三角梅续篇",
+  "last_updatetime": 1383968247,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "guangzhiting",
+  "hidden": 0,
+  "hot_num": 115699,
+  "hit_num": 143693,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 26199,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4626,
+      "tag_name": "袴田めら(袴田米良)"
+    }
+  ],
+  "subscribe_num": 554,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26199,
+          "chapter_title": "1话",
+          "updatetime": 1383968247,
+          "filesize": 1422990,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 24044614,
+        "uid": 104911313,
+        "content": "留",
+        "createtime": 1581501732,
+        "nickname": "$$(๑• . •๑)$$46057",
+        "avatar": "https://avatar.dmzj.com/5f/6b/5f6bdbc9130a5e29006167eab204d067.png"
+      },
+      {
+        "comment_id": 23683265,
+        "uid": 108390071,
+        "content": "亚修在哪",
+        "createtime": 1580555150,
+        "nickname": "dmzj_108390071",
+        "avatar": "https://avatar.dmzj.com/79/35/7935e2dae1d1b26698ca7c4356fbe29e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,108 @@
+{
+  "id": 13638,
+  "islong": 2,
+  "direction": 1,
+  "title": "魅女物语",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/meinvwuyu.jpg",
+  "description": "池田理代子，一个爱情故事。",
+  "last_updatetime": 1394502891,
+  "last_update_chapter_name": "第4卷完结",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mnwy",
+  "hidden": 0,
+  "hot_num": 29531,
+  "hit_num": 521261,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 27147,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 876,
+      "tag_name": "池田理代子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 188,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27147,
+          "chapter_title": "4卷",
+          "updatetime": 1394502891,
+          "filesize": 12769979,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 27145,
+          "chapter_title": "3卷",
+          "updatetime": 1394502190,
+          "filesize": 21594848,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 26084,
+          "chapter_title": "2卷",
+          "updatetime": 1388643257,
+          "filesize": 21950683,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 26083,
+          "chapter_title": "1卷",
+          "updatetime": 1388643290,
+          "filesize": 24480800,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 17073211,
+        "uid": 107297967,
+        "content": "魅女物语",
+        "createtime": 1560357132,
+        "nickname": "御辛",
+        "avatar": "https://avatar.dmzj.com/31/23/3123adf8a4f228da6f86cb0a394a212c.png"
+      },
+      {
+        "comment_id": 9348509,
+        "uid": 105525801,
+        "content": "魅女物语\n好看吗？希望耳目一新吧",
+        "createtime": 1545798331,
+        "nickname": "独步青楼",
+        "avatar": "https://avatar.dmzj.com/3c/d5/3cd5fa24180a9e8c7e7183eb28f0eed7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

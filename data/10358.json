@@ -1,0 +1,91 @@
+{
+  "id": 10358,
+  "islong": 2,
+  "direction": 1,
+  "title": "尾巴12",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/weiba12.jpg",
+  "description": "东方短篇，尾巴12，萌呀",
+  "last_updatetime": 1360923291,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "weiba12",
+  "hidden": 0,
+  "hot_num": 137152,
+  "hit_num": 172245,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20683,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5465,
+      "tag_name": "正木(こげコロッケ)"
+    }
+  ],
+  "subscribe_num": 665,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20683,
+          "chapter_title": "1话",
+          "updatetime": 1360923291,
+          "filesize": 3215363,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 26757734,
+        "uid": 110059544,
+        "content": "笑到裂开我",
+        "createtime": 1587634290,
+        "nickname": "你说这兽耳它不香嘛",
+        "avatar": "https://avatar.dmzj.com/57/90/579086d1d112c56ce9ed10bee3a0749f.png"
+      },
+      {
+        "comment_id": 2734046,
+        "uid": 101836131,
+        "content": "妈个鸡吓我一跳",
+        "createtime": 1502813016,
+        "nickname": "阿夸天下第一可爱",
+        "avatar": "https://avatar.dmzj.com/16/82/1682324d97bbbc5659e24d7cc8bae7b4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

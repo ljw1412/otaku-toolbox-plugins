@@ -1,0 +1,87 @@
+{
+  "id": 12305,
+  "islong": 2,
+  "direction": 1,
+  "title": "Highlight",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/highlight.jpg",
+  "description": "超人气连载《再见了老师的》的”前篇“快来看吧！！把和那人有关的事全部都关进盒子，盖紧盒子，绝对不可以随便打开它！！大学3年级时的拓郎和“她”的故事……",
+  "last_updatetime": 1375376217,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "highlight",
+  "hidden": 0,
+  "hot_num": 186534,
+  "hit_num": 1813386,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24553,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1437,
+      "tag_name": "八寿子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1024,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24553,
+          "chapter_title": "1话",
+          "updatetime": 1375376217,
+          "filesize": 9291167,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 23054541,
+        "uid": 102468728,
+        "content": "可以",
+        "createtime": 1578111002,
+        "nickname": "眠眠咩咩",
+        "avatar": "https://avatar.dmzj.com/69/08/69081b1afdedae2b20bac37c46a6c1e6.png"
+      },
+      {
+        "comment_id": 22975332,
+        "uid": 104229656,
+        "content": "再见了老师的前篇",
+        "createtime": 1577785818,
+        "nickname": "凉城浮梦",
+        "avatar": "https://avatar.dmzj.com/43/85/438586f4c3154caf361f46b91b06ec76.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

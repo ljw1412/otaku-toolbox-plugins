@@ -1,0 +1,101 @@
+{
+  "id": 1772,
+  "islong": 2,
+  "direction": 1,
+  "title": "阿波罗之歌",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/the_song_of_apollo_01_000_d6620d0e2588df6f66f774158113b462.jpg",
+  "description": "阿波罗之歌",
+  "last_updatetime": -604800,
+  "last_update_chapter_name": "VOL03",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "aboluozhige",
+  "hidden": 1,
+  "hot_num": 86795,
+  "hit_num": 1341402,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 3590,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 904,
+      "tag_name": "手冢治虫"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1112,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 3590,
+          "chapter_title": "3卷",
+          "updatetime": 1267778384,
+          "filesize": 18389132,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 3589,
+          "chapter_title": "2卷",
+          "updatetime": 1267778384,
+          "filesize": 18955159,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 3588,
+          "chapter_title": "1卷",
+          "updatetime": 1267778384,
+          "filesize": 17785516,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 44,
+    "latest_comment": [
+      {
+        "comment_id": 25744815,
+        "uid": 104815780,
+        "content": "不见了",
+        "createtime": 1585294250,
+        "nickname": "SM周86125",
+        "avatar": "https://avatar.dmzj.com/a3/3b/a33b96213426ba0630936364b6f2b6ac.png"
+      },
+      {
+        "comment_id": 24418791,
+        "uid": 101692157,
+        "content": "手冢治虫",
+        "createtime": 1582379254,
+        "nickname": "flutterguy66576",
+        "avatar": "https://avatar.dmzj.com/cd/b1/cdb1c73b5c685219e5ec475a03a10c63.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

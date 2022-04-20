@@ -1,0 +1,95 @@
+{
+  "id": 16748,
+  "islong": 2,
+  "direction": 2,
+  "title": "珍爱源泉",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/0114zhenaiyuanquanfml.jpg",
+  "description": "这部由 VIRTIGO 出品的 The Fountain 不同于硬派的美式漫画，它向我们展现了一种独特的意境。改编自这部漫画的同名电影（汉译《珍爱源泉》）。",
+  "last_updatetime": 1421225726,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhanaiyuanquan",
+  "hidden": 1,
+  "hot_num": 8481,
+  "hit_num": 616138,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 33491,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4167,
+      "tag_name": "VERTIGO"
+    }
+  ],
+  "subscribe_num": 60,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33491,
+          "chapter_title": "1卷",
+          "updatetime": 1421225726,
+          "filesize": 17429259,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 19879321,
+        "uid": 101019386,
+        "content": "已阅。",
+        "createtime": 1567126709,
+        "nickname": "梦游者陛下",
+        "avatar": "https://avatar.dmzj.com/79/38/7938ead4287edb2bd0c8e509a425d938.png"
+      },
+      {
+        "comment_id": 18404422,
+        "uid": 101019386,
+        "content": "架设太空桥！",
+        "createtime": 1563523730,
+        "nickname": "梦游者陛下",
+        "avatar": "https://avatar.dmzj.com/79/38/7938ead4287edb2bd0c8e509a425d938.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

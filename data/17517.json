@@ -1,0 +1,108 @@
+{
+  "id": 17517,
+  "islong": 2,
+  "direction": 1,
+  "title": "我有男朋友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/woyounanpengyoul.jpg",
+  "description": "他和他的恋爱方式的作者的新连载。",
+  "last_updatetime": 1431332767,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "woyounanpengyou",
+  "hidden": 0,
+  "hot_num": 228796,
+  "hit_num": 644691,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 41025,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6730,
+      "tag_name": "菲比"
+    }
+  ],
+  "subscribe_num": 1655,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41025,
+          "chapter_title": "4话",
+          "updatetime": 1431332767,
+          "filesize": 2451258,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 40311,
+          "chapter_title": "3话",
+          "updatetime": 1429180194,
+          "filesize": 2307919,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 40312,
+          "chapter_title": "2话",
+          "updatetime": 1429180209,
+          "filesize": 2537116,
+          "chapter_order": 15
+        },
+        {
+          "chapter_id": 39214,
+          "chapter_title": "1话",
+          "updatetime": 1426557372,
+          "filesize": 2415553,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 25006240,
+        "uid": 108556769,
+        "content": "定睛一看，哇五年前的事了",
+        "createtime": 1583604205,
+        "nickname": "最爱蛋挞少女",
+        "avatar": "https://avatar.dmzj.com/78/32/78325b148b29f55ab1425be7aeeaff4d.png"
+      },
+      {
+        "comment_id": 23984646,
+        "uid": 108456881,
+        "content": "记得以前布卡已经完结了，现在都找不到了",
+        "createtime": 1581348747,
+        "nickname": "Annk脱毒萝卜",
+        "avatar": "https://avatar.dmzj.com/3b/23/3b2322a93dc888a2fa0ec6fa4bee419f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

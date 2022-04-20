@@ -1,0 +1,100 @@
+{
+  "id": 18201,
+  "islong": 2,
+  "direction": 2,
+  "title": "我想静静",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1001215191428905109.jpg",
+  "description": "小布是一名重度手机玩家，什么时候都离不开手机，直到有一天，他的手机坏了····",
+  "last_updatetime": 1429253088,
+  "last_update_chapter_name": "静静是谁",
+  "copyright": 1,
+  "first_letter": "w",
+  "comic_py": "woxiangjingjing",
+  "hidden": 0,
+  "hot_num": 3967,
+  "hit_num": 63158,
+  "uid": 100121519,
+  "is_lock": 0,
+  "last_update_chapter_id": 37827,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9083,
+      "tag_name": "AngGong"
+    }
+  ],
+  "subscribe_num": 14,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37827,
+          "chapter_title": "静静是谁",
+          "updatetime": 1429253088,
+          "filesize": 833637,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 37823,
+          "chapter_title": "手机坏了",
+          "updatetime": 1429238626,
+          "filesize": 565778,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 2617234,
+        "uid": 101828804,
+        "content": "七星球！！！",
+        "createtime": 1501594677,
+        "nickname": "wwwww86936",
+        "avatar": "https://avatar.dmzj.com/16/24/1624cd48dcb55cb0fe7aa271b0b67622.png"
+      },
+      {
+        "comment_id": 380497,
+        "uid": 13055819,
+        "content": "静静不一定想你。",
+        "createtime": 1429249430,
+        "nickname": "已经是人妻了",
+        "avatar": "https://avatar.dmzj.com/56/51/565119763fafe1d438257b622324368f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

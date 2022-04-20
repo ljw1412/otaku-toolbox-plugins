@@ -1,0 +1,87 @@
+{
+  "id": 18248,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方青帖·猫话",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/dfqtmaohuafengmianl.jpg",
+  "description": "魔理沙x灵梦的青涩故事",
+  "last_updatetime": 1429423517,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dfqtmh",
+  "hidden": 0,
+  "hot_num": 336906,
+  "hit_num": 34642,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 36277,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5114,
+      "tag_name": "ヨハネ"
+    }
+  ],
+  "subscribe_num": 1500,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36277,
+          "chapter_title": "1话",
+          "updatetime": 1429423517,
+          "filesize": 1728920,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 17990999,
+        "uid": 104410125,
+        "content": "还是主角组好吃",
+        "createtime": 1562630201,
+        "nickname": "兔头麞脑",
+        "avatar": "https://avatar.dmzj.com/81/89/8189776042bf2bbc528514ef1ee2541c.png"
+      },
+      {
+        "comment_id": 14301112,
+        "uid": 108038105,
+        "content": "这个时候的青帖还是没有明确的故事线呢。\n话说4年了都没有什么评论，吐槽也是寥寥无几的，二十多万的阅读都是摆设吗？",
+        "createtime": 1555231248,
+        "nickname": "心之所向，追求美好",
+        "avatar": "https://avatar.dmzj.com/90/27/9027c37474c280a7437e003812789906.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

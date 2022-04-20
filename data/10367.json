@@ -1,0 +1,87 @@
+{
+  "id": 10367,
+  "islong": 2,
+  "direction": 1,
+  "title": "Blossom tea time",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/blossom.jpg",
+  "description": "东方同人本，好朋友的东方，东方的友达",
+  "last_updatetime": 1574384349,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "blossomteatime",
+  "hidden": 0,
+  "hot_num": 69355,
+  "hit_num": 110020,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22804,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5518,
+      "tag_name": "君野朋成"
+    }
+  ],
+  "subscribe_num": 319,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22804,
+          "chapter_title": "1话",
+          "updatetime": 1574384349,
+          "filesize": 5191598,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 22555939,
+        "uid": 104345186,
+        "content": "黑白当真后宫王",
+        "createtime": 1576006050,
+        "nickname": "修车修车河豚",
+        "avatar": "https://avatar.dmzj.com/18/82/1882e65634f1e08ed155e81cc09411f2.png"
+      },
+      {
+        "comment_id": 22251210,
+        "uid": 101877350,
+        "content": "很符合我对三魔女的印象呢，没有痴女属性而是我喜欢的这种很平衡的打打闹闹的亲友最棒了",
+        "createtime": 1574426345,
+        "nickname": "雷伊01",
+        "avatar": "https://avatar.dmzj.com/45/98/459811c75dd86b8b6e40a211eeae1876.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

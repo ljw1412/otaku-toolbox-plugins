@@ -1,0 +1,87 @@
+{
+  "id": 10255,
+  "islong": 2,
+  "direction": 1,
+  "title": "Dear-Dear",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/deardear.jpg",
+  "description": "因外表太出眾而交不到朋友的女生 遇上專門代送情書的人 會擦出什麼火花呢?",
+  "last_updatetime": 1360002558,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "deardear",
+  "hidden": 0,
+  "hot_num": 78532,
+  "hit_num": 730539,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21606,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5449,
+      "tag_name": "长谷垣なるみ"
+    }
+  ],
+  "subscribe_num": 437,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21606,
+          "chapter_title": "1话",
+          "updatetime": 1360002558,
+          "filesize": 6062877,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 18943508,
+        "uid": 105706176,
+        "content": "太甜了8",
+        "createtime": 1564770904,
+        "nickname": "樱桃加草莓",
+        "avatar": "https://avatar.dmzj.com/17/73/1773956616a4d64964d0d1e61cdb5567.png"
+      },
+      {
+        "comment_id": 1790397,
+        "uid": 26213873,
+        "content": "治愈",
+        "createtime": 1486747028,
+        "nickname": "偷香窃玉采花贼",
+        "avatar": "https://avatar.dmzj.com/10/59/10592e4381f743d63827e5676922e901.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

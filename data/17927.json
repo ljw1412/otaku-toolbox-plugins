@@ -1,0 +1,83 @@
+{
+  "id": 17927,
+  "islong": 2,
+  "direction": 2,
+  "title": "水果日常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1001073541428048518.jpg",
+  "description": "平成假面骑士铠武 同人条漫，女性向，腐向，彩色黑白条漫收录。",
+  "last_updatetime": 1428057195,
+  "last_update_chapter_name": "另附平成假面秀恩爱集合",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "shuiguorichang",
+  "hidden": 0,
+  "hot_num": 6463,
+  "hit_num": 30375,
+  "uid": 100107354,
+  "is_lock": 0,
+  "last_update_chapter_id": 39852,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8954,
+      "tag_name": "财太"
+    }
+  ],
+  "subscribe_num": 53,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39852,
+          "chapter_title": "另附平成假面秀恩爱集合",
+          "updatetime": 1428057195,
+          "filesize": 356945,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 39853,
+          "chapter_title": "果缤纷",
+          "updatetime": 1428048708,
+          "filesize": 304019,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

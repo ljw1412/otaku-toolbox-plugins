@@ -1,0 +1,91 @@
+{
+  "id": 11123,
+  "islong": 2,
+  "direction": 1,
+  "title": "last summer blues",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/lastsummerblues.jpg",
+  "description": "稚嫩的高中棒球少年夏日物语。那个夏天向神明祈愿……",
+  "last_updatetime": 1367418459,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lastsummerblues",
+  "hidden": 0,
+  "hot_num": 1379849,
+  "hit_num": 2030083,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21788,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5348,
+      "tag_name": "绪川千世"
+    }
+  ],
+  "subscribe_num": 10633,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21788,
+          "chapter_title": "1话",
+          "updatetime": 1367418459,
+          "filesize": 3655074,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 87,
+    "latest_comment": [
+      {
+        "comment_id": 26734410,
+        "uid": 110308445,
+        "content": "留",
+        "createtime": 1587569434,
+        "nickname": "伊澄Ling",
+        "avatar": "https://avatar.dmzj.com/09/5c/095ca6eefe611c27b51f3a3571d41f12.png"
+      },
+      {
+        "comment_id": 26541754,
+        "uid": 101218696,
+        "content": "终于找到这个画家了。不容易",
+        "createtime": 1587030917,
+        "nickname": "゜≮I. see㏒ペ℡",
+        "avatar": "https://avatar.dmzj.com/4c/73/4c73b3a446aa0e5609360ca51b8cd94e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

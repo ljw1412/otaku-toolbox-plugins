@@ -1,0 +1,115 @@
+{
+  "id": 11016,
+  "islong": 2,
+  "direction": 2,
+  "title": "阿尔法大时代",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/zhizhuxiaaerfadashidai.jpg",
+  "description": "阿尔法大时代。",
+  "last_updatetime": 1376521803,
+  "last_update_chapter_name": "第05卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhuzhixiaaerfadashidai",
+  "hidden": 0,
+  "hot_num": 4116665,
+  "hit_num": 623325,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23441,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 19417,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23441,
+          "chapter_title": "5卷",
+          "updatetime": 1376521803,
+          "filesize": 2911426,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 23049,
+          "chapter_title": "4卷",
+          "updatetime": 1375205763,
+          "filesize": 3002188,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 21611,
+          "chapter_title": "3卷",
+          "updatetime": 1368523700,
+          "filesize": 2269839,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 21181,
+          "chapter_title": "2卷",
+          "updatetime": 1366601099,
+          "filesize": 2741490,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 21180,
+          "chapter_title": "1卷",
+          "updatetime": 1366600937,
+          "filesize": 2980935,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 5207950,
+        "uid": 102316359,
+        "content": "厉害了",
+        "createtime": 1529503418,
+        "nickname": "落世",
+        "avatar": "https://avatar.dmzj.com/2d/29/2d29e0fac07335dd3dd1d91469902733.png"
+      },
+      {
+        "comment_id": 170964,
+        "uid": 24971357,
+        "content": "编剧一般 画风……千人一面？",
+        "createtime": 1383467319,
+        "nickname": "哥特式的苍白",
+        "avatar": "https://avatar.dmzj.com/58/55/5855a2f7cb2b333c23bb0ed107a19a4f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

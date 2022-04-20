@@ -1,0 +1,89 @@
+{
+  "id": 17286,
+  "islong": 2,
+  "direction": 2,
+  "title": "小喵和小咪的故事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/0304xiaomiaohexiaomidegushifml.jpg",
+  "description": "猫拟人漫画",
+  "last_updatetime": 1425454695,
+  "last_update_chapter_name": "短篇",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiaomiaohexiaomidegushi",
+  "hidden": 0,
+  "hot_num": 13233,
+  "hit_num": 92415,
+  "uid": 100098806,
+  "is_lock": 0,
+  "last_update_chapter_id": 36223,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8637,
+      "tag_name": "刀月灵女"
+    }
+  ],
+  "subscribe_num": 97,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36223,
+          "chapter_title": "1话",
+          "updatetime": 1425454695,
+          "filesize": 646683,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 1306704,
+        "uid": 100477709,
+        "content": "只有6页也真是够了",
+        "createtime": 1474643050,
+        "nickname": "暗如白夜",
+        "avatar": "https://avatar.dmzj.com/c4/ab/c4ab4a67435df4791320dd78c1b33902.png"
+      },
+      {
+        "comment_id": 363500,
+        "uid": 100090577,
+        "content": "好坑的感觉",
+        "createtime": 1426175536,
+        "nickname": "老莹",
+        "avatar": "https://avatar.dmzj.com/a6/3d/a63d04bfebff6884053d367de9147da9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

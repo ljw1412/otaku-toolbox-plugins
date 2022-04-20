@@ -1,0 +1,87 @@
+{
+  "id": 11006,
+  "islong": 2,
+  "direction": 1,
+  "title": "SAKURA",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/sakuratouhou.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1366447615,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sakuratouhou",
+  "hidden": 0,
+  "hot_num": 19321,
+  "hit_num": 307910,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21133,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5828,
+      "tag_name": "シ口ガネヒナ。"
+    }
+  ],
+  "subscribe_num": 82,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21133,
+          "chapter_title": "1话",
+          "updatetime": 1366447615,
+          "filesize": 2903063,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 114649,
+        "uid": 15205759,
+        "content": "画风很好",
+        "createtime": 1366482662,
+        "nickname": "lljmiooku",
+        "avatar": "https://avatar.dmzj.com/ab/d2/abd25d5a3944049dbb92555052ad6e84.png"
+      },
+      {
+        "comment_id": 114599,
+        "uid": 22996783,
+        "content": "啊，这是什么啊，剧情呢？那么多页是摆设的",
+        "createtime": 1366465635,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

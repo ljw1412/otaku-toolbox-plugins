@@ -1,0 +1,79 @@
+{
+  "id": 10990,
+  "islong": 2,
+  "direction": 1,
+  "title": "超时空忍者(续)",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/chaoshikongrenzhe.jpg",
+  "description": "超时空忍者(续)",
+  "last_updatetime": 1366267158,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chaoshikongrenzhexu",
+  "hidden": 0,
+  "hot_num": 36453,
+  "hit_num": 125715,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22577,
+  "authors": [
+    {
+      "tag_id": 2297,
+      "tag_name": "横山光辉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "subscribe_num": 164,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22577,
+          "chapter_title": "1卷",
+          "updatetime": 1366267158,
+          "filesize": 11908521,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 26920644,
+        "uid": 101753563,
+        "content": "可以的。",
+        "createtime": 1588070317,
+        "nickname": "云中超人",
+        "avatar": "https://avatar.dmzj.com/92/02/9202c7a2886ae7640a340e2195198565.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

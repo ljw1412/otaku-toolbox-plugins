@@ -1,0 +1,101 @@
+{
+  "id": 11037,
+  "islong": 2,
+  "direction": 2,
+  "title": "闪电侠 至黑之夜",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/sdxzhzy.jpg",
+  "description": "以闪电侠与无赖帮两条故事线讲述至黑之夜的故事~",
+  "last_updatetime": 1460530644,
+  "last_update_chapter_name": "第01卷修正版",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sdxzhzy",
+  "hidden": 0,
+  "hot_num": 2004545,
+  "hit_num": 552204,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23972,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 9142,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23983,
+          "chapter_title": "3卷",
+          "updatetime": 1366973000,
+          "filesize": 4322453,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 23942,
+          "chapter_title": "2卷",
+          "updatetime": 1366904101,
+          "filesize": 3821157,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23972,
+          "chapter_title": "1卷",
+          "updatetime": 1460530645,
+          "filesize": 6773571,
+          "chapter_order": 11
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 22577772,
+        "uid": 103469495,
+        "content": "有情有义无赖帮",
+        "createtime": 1576141214,
+        "nickname": "愉快的玩家",
+        "avatar": "https://avatar.dmzj.com/8a/5c/8a5ca729625f86e70f12e63c71700e28.png"
+      },
+      {
+        "comment_id": 1779849,
+        "uid": 101283203,
+        "content": "没人吗，这儿",
+        "createtime": 1486569483,
+        "nickname": "MMMMINSTREL",
+        "avatar": "https://avatar.dmzj.com/cd/ae/cdaeebb6dedce3144013dc40d8bd373f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

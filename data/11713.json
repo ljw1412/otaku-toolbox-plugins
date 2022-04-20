@@ -1,0 +1,91 @@
+{
+  "id": 11713,
+  "islong": 2,
+  "direction": 1,
+  "title": "搬家大作战",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/banjiadazuozhan.jpg",
+  "description": "东方同人漫画。",
+  "last_updatetime": 1371201793,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "banjiadazuozhan",
+  "hidden": 0,
+  "hot_num": 32169,
+  "hit_num": 275739,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22603,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6157,
+      "tag_name": "LETRA"
+    }
+  ],
+  "subscribe_num": 163,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22603,
+          "chapter_title": "1话",
+          "updatetime": 1371201793,
+          "filesize": 5204960,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 26225220,
+        "uid": 106043299,
+        "content": "时隔7年的评论",
+        "createtime": 1586338188,
+        "nickname": "KODmzj",
+        "avatar": "https://avatar.dmzj.com/11/32/11321dc013019469a45a7f7ac5078661.png"
+      },
+      {
+        "comment_id": 4528083,
+        "uid": 100736206,
+        "content": "时隔5年的评论",
+        "createtime": 1525021106,
+        "nickname": "我想，看一下明天。",
+        "avatar": "https://avatar.dmzj.com/31/96/31969ec7dfa6eaac52028fa881f0dac7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

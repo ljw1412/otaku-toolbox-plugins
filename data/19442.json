@@ -1,0 +1,87 @@
+{
+  "id": 19442,
+  "islong": 2,
+  "direction": 2,
+  "title": "蜘蛛侠：蓝",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/zhizhuxialanfengmianl.jpg",
+  "description": "彼得·帕克回忆过去而感到了忧郁，所以他没有作为一个摄影师，而是陈述者回顾过去。",
+  "last_updatetime": 1435331466,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhizhuxialan",
+  "hidden": 0,
+  "hot_num": 58664,
+  "hit_num": 563569,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 42436,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 315,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42436,
+          "chapter_title": "1卷",
+          "updatetime": 1435331466,
+          "filesize": 15857652,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 20956175,
+        "uid": 104812724,
+        "content": "码住！",
+        "createtime": 1570291407,
+        "nickname": "東山花灯路58748",
+        "avatar": "https://avatar.dmzj.com/94/53/945370e3ec2bb4959c25f15d1471e388.png"
+      },
+      {
+        "comment_id": 17387475,
+        "uid": 107106527,
+        "content": "88",
+        "createtime": 1561145659,
+        "nickname": "dmzj_107106527",
+        "avatar": "https://avatar.dmzj.com/6f/e5/6fe5e8e39171a31a717c14477a7a02a5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 16175,
+  "islong": 2,
+  "direction": 1,
+  "title": "ROOM303",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/05.jpg",
+  "description": "苇原大介短篇作品ROOM303，这条街道上行踪不明的人异常增多，原因为何？",
+  "last_updatetime": 1416653333,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "room303",
+  "hidden": 0,
+  "hot_num": 31225,
+  "hit_num": 99052,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 35670,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 574,
+      "tag_name": "苇原大介"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 158,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35670,
+          "chapter_title": "1话",
+          "updatetime": 1416653333,
+          "filesize": 4226589,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 24807053,
+        "uid": 107534461,
+        "content": "委员猫加油",
+        "createtime": 1583214733,
+        "nickname": "あ锕淼",
+        "avatar": "https://avatar.dmzj.com/92/88/928888fe1144f26f7418c4bbaaff3ed0.png"
+      },
+      {
+        "comment_id": 16560162,
+        "uid": 109226275,
+        "content": "大佬们，怎么看境界触发者啊？",
+        "createtime": 1559106643,
+        "nickname": "dmzj_109226275",
+        "avatar": "https://avatar.dmzj.com/96/41/9641b71c5e87e83465e9d857146747d4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

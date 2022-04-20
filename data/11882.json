@@ -1,0 +1,87 @@
+{
+  "id": 11882,
+  "islong": 2,
+  "direction": 2,
+  "title": "月光骑士：寂静骑士",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/ygqsjjqs.jpg",
+  "description": "月光骑士（Moon Knight）是惊奇漫画超级英雄之一，有专属个人漫画集。复仇者联盟成员。",
+  "last_updatetime": 1372351043,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "ygqsjjqs",
+  "hidden": 0,
+  "hot_num": 3761513,
+  "hit_num": 155700,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25104,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 17844,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25104,
+          "chapter_title": "1卷",
+          "updatetime": 1372351043,
+          "filesize": 4018947,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 19784669,
+        "uid": 102586761,
+        "content": "电影上映前，参观",
+        "createtime": 1566794770,
+        "nickname": "以太龙",
+        "avatar": "https://avatar.dmzj.com/f3/3a/f33a6e32a2560510c31bafc2db8f8a6d.png"
+      },
+      {
+        "comment_id": 16314279,
+        "uid": 109016880,
+        "content": "月骑啊啊啊，在看一遍，超级喜欢他呀\n期待mcu能有他的戏份！",
+        "createtime": 1558618541,
+        "nickname": "Moon—Knight",
+        "avatar": "https://avatar.dmzj.com/e9/c2/e9c28d39c65b5af49e5ebe390769bcdc.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

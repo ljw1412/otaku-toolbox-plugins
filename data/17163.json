@@ -1,0 +1,91 @@
+{
+  "id": 17163,
+  "islong": 2,
+  "direction": 2,
+  "title": "奇异博士第一季",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/qiyiboshi6.jpg",
+  "description": "本漫画讲述的是奇异博士的起源故事,可谓入门必看之作!",
+  "last_updatetime": 1424327413,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qybsdyj",
+  "hidden": 0,
+  "hot_num": 324501,
+  "hit_num": 2642155,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 34385,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2107,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34385,
+          "chapter_title": "1卷",
+          "updatetime": 1424327413,
+          "filesize": 19543563,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 12097854,
+        "uid": 102216040,
+        "content": "cy",
+        "createtime": 1551359444,
+        "nickname": "霉良心银不了",
+        "avatar": "https://avatar.dmzj.com/87/45/874573308fab74b4ec0e88d3ed751022.png"
+      },
+      {
+        "comment_id": 7620266,
+        "uid": 101823041,
+        "content": "前来看博士嗷嗷嗷",
+        "createtime": 1540368140,
+        "nickname": "人渣卓卓",
+        "avatar": "https://avatar.dmzj.com/f0/32/f03282a11c5eac582302184d7649cfe9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

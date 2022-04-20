@@ -1,0 +1,87 @@
+{
+  "id": 13572,
+  "islong": 2,
+  "direction": 1,
+  "title": "秘封俱乐部plus",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/mfjlbplus.jpg",
+  "description": "妹红和辉夜的本。",
+  "last_updatetime": 1388138383,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mfjlbplus",
+  "hidden": 0,
+  "hot_num": 61412,
+  "hit_num": 118967,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 28110,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6966,
+      "tag_name": "あみだ屑"
+    }
+  ],
+  "subscribe_num": 285,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 28110,
+          "chapter_title": "1话",
+          "updatetime": 1388138383,
+          "filesize": 5127769,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 22554912,
+        "uid": 106373374,
+        "content": "人在江湖飘，逐渐灵梦化（开玩笑的~）",
+        "createtime": 1575999339,
+        "nickname": "灰色明月",
+        "avatar": "https://avatar.dmzj.com/25/5f/255f6c9c076b63b885417feaa3cf10de.png"
+      },
+      {
+        "comment_id": 17133899,
+        "uid": 103500358,
+        "content": "啊啊我超级喜欢这个设定的妹红啊这个作者是珍宝",
+        "createtime": 1560521844,
+        "nickname": "ayamitsu",
+        "avatar": "https://avatar.dmzj.com/00/11/0011aefd474530487f51e1c160677505.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

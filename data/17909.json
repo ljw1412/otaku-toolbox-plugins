@@ -1,0 +1,127 @@
+{
+  "id": 17909,
+  "islong": 1,
+  "direction": 2,
+  "title": "我的表哥是只耗子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0403wbgszhz.jpg",
+  "description": "森林小故事",
+  "last_updatetime": 1428979338,
+  "last_update_chapter_name": "7",
+  "copyright": 1,
+  "first_letter": "w",
+  "comic_py": "wdbgszhz",
+  "hidden": 0,
+  "hot_num": 11515,
+  "hit_num": 37584,
+  "uid": 100099667,
+  "is_lock": 0,
+  "last_update_chapter_id": 36290,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8945,
+      "tag_name": "萌A公子"
+    }
+  ],
+  "subscribe_num": 84,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36290,
+          "chapter_title": "7话",
+          "updatetime": 1428979338,
+          "filesize": 22531,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 36288,
+          "chapter_title": "5话",
+          "updatetime": 1428978650,
+          "filesize": 24627,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 36289,
+          "chapter_title": "6话",
+          "updatetime": 1428978677,
+          "filesize": 20349,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 36287,
+          "chapter_title": "4话",
+          "updatetime": 1428978494,
+          "filesize": 172198,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 36180,
+          "chapter_title": "3话",
+          "updatetime": 1428726067,
+          "filesize": 110496,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 36181,
+          "chapter_title": "2话",
+          "updatetime": 1428676577,
+          "filesize": 127852,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 35911,
+          "chapter_title": "1话",
+          "updatetime": 1428024569,
+          "filesize": 166183,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 379090,
+        "uid": 22184481,
+        "content": "这是你的车牌吗？想要吗？20张红票子，哎你个小兔崽子这是谁教你的！",
+        "createtime": 1428980382,
+        "nickname": "sd3793337",
+        "avatar": "https://avatar.dmzj.com/15/25/1525edfb0e673a44719bbf06c3136bad.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

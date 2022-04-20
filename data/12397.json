@@ -1,0 +1,87 @@
+{
+  "id": 12397,
+  "islong": 2,
+  "direction": 1,
+  "title": "盛夏的忧郁",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/shengxiayouyu.jpg",
+  "description": "买了2张的演唱会票, 却没有朋友陪我看···（其實是沒朋友 我的一萬日元啊啊啊） ",
+  "last_updatetime": 1376135820,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shengxiadyouyu",
+  "hidden": 0,
+  "hot_num": 31091,
+  "hit_num": 219354,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25842,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4857,
+      "tag_name": "藤井亚矢"
+    }
+  ],
+  "subscribe_num": 160,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25842,
+          "chapter_title": "1话",
+          "updatetime": 1376135820,
+          "filesize": 4390369,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 25743978,
+        "uid": 100480583,
+        "content": "封面我i了",
+        "createtime": 1585292001,
+        "nickname": "我也喜欢二次元",
+        "avatar": "https://avatar.dmzj.com/84/19/8419f8f5fed41097c931e5d9b437d12d.png"
+      },
+      {
+        "comment_id": 1836070,
+        "uid": 100418770,
+        "content": "作者只是懒得画推拉的部分了吧……",
+        "createtime": 1487690352,
+        "nickname": "ゆん",
+        "avatar": "https://avatar.dmzj.com/80/27/8027d8e1d68c8b9f13ee45697e67ab7c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

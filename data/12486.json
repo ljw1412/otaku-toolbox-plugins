@@ -1,0 +1,94 @@
+{
+  "id": 12486,
+  "islong": 2,
+  "direction": 1,
+  "title": "I,MY,ME",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/i-my-me.jpg",
+  "description": "不信任女生的万人迷，想要交朋友的透明女，丢掉的饼干奏起的交响曲~女生之间并不是只有廉价的橡皮筋似的友情，忘掉那些让你哭的记忆，握紧这双温暖的手吧……",
+  "last_updatetime": 1384801351,
+  "last_update_chapter_name": "后篇",
+  "copyright": 0,
+  "first_letter": "i",
+  "comic_py": "i-my-me",
+  "hidden": 0,
+  "hot_num": 55260,
+  "hit_num": 611619,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25055,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6308,
+      "tag_name": "松本香织"
+    }
+  ],
+  "subscribe_num": 306,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25055,
+          "chapter_title": "后篇",
+          "updatetime": 1384801351,
+          "filesize": 4021801,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23485,
+          "chapter_title": "前篇",
+          "updatetime": 1376825200,
+          "filesize": 3660548,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 26265497,
+        "uid": 100378600,
+        "content": "还行。。。吧",
+        "createtime": 1586424706,
+        "nickname": "夏铃娜娜",
+        "avatar": "https://avatar.dmzj.com/db/bc/dbbcc208be3b1578f29f3fe63989e5ef.png"
+      },
+      {
+        "comment_id": 20231343,
+        "uid": 105401817,
+        "content": "Llllllllll",
+        "createtime": 1568238529,
+        "nickname": "齐铮",
+        "avatar": "https://avatar.dmzj.com/77/f8/77f80f4bf0c67b48d5dac2b90e294c40.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

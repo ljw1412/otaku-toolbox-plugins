@@ -1,0 +1,98 @@
+{
+  "id": 11175,
+  "islong": 2,
+  "direction": 1,
+  "title": "Moon Walker LTD.",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/tiankongxu.jpg",
+  "description": "从未领略过的冒险就在这里，社长与社员的奇妙冒险——",
+  "last_updatetime": 1369571083,
+  "last_update_chapter_name": "~金矿开采人和发光的石头~",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "moonwalker",
+  "hidden": 0,
+  "hot_num": 39724,
+  "hit_num": 277028,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23323,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 100,
+      "tag_name": "许斐刚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 182,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22862,
+          "chapter_title": "2话",
+          "updatetime": 1367752259,
+          "filesize": 2719835,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 23323,
+          "chapter_title": "1话",
+          "updatetime": 1369571083,
+          "filesize": 8499104,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 9272330,
+        "uid": 101728321,
+        "content": "谁有新网球王子",
+        "createtime": 1545537744,
+        "nickname": "qzuser30615",
+        "avatar": "https://avatar.dmzj.com/27/f2/27f23b8a0d5667eb8ea117472ad5b31f.png"
+      },
+      {
+        "comment_id": 2316909,
+        "uid": 104501761,
+        "content": "这里没有网王吗",
+        "createtime": 1497369163,
+        "nickname": "Akira04899",
+        "avatar": "https://avatar.dmzj.com/ca/83/ca83085cc62934b8a2ba4f2a6ad2d83f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

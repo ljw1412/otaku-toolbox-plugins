@@ -1,0 +1,108 @@
+{
+  "id": 12263,
+  "islong": 2,
+  "direction": 2,
+  "title": "地狱神探：善意",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/diyushentanshanyi.jpg",
+  "description": "《地狱神探：善意 第一回》总第151回。BA所写的Hellblazer中非常棒的一个故事。",
+  "last_updatetime": 1565601664,
+  "last_update_chapter_name": "第06话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "diyushentanshanyi",
+  "hidden": 1,
+  "hot_num": 27571,
+  "hit_num": 142109,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 87040,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4167,
+      "tag_name": "VERTIGO"
+    }
+  ],
+  "subscribe_num": 248,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 87040,
+          "chapter_title": "6话",
+          "updatetime": 1565601664,
+          "filesize": 2830162,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 86723,
+          "chapter_title": "5卷",
+          "updatetime": 1564978669,
+          "filesize": 2963360,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 86216,
+          "chapter_title": "4卷",
+          "updatetime": 1563722358,
+          "filesize": 2712765,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23274,
+          "chapter_title": "1卷",
+          "updatetime": 1375091081,
+          "filesize": 2958452,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 26405181,
+        "uid": 109823354,
+        "content": "这个有多少啊",
+        "createtime": 1586705708,
+        "nickname": "dmzj_109823354",
+        "avatar": "https://avatar.dmzj.com/31/74/31743800131acabc6f2c132ccbe934a7.png"
+      },
+      {
+        "comment_id": 24997313,
+        "uid": 109810864,
+        "content": "这是第几部啊？",
+        "createtime": 1583594728,
+        "nickname": "无可0502",
+        "avatar": "https://avatar.dmzj.com/24/73/2473b2bbda2b74a432203e7a589ee7c1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 18081,
+  "islong": 2,
+  "direction": 1,
+  "title": "HD整理PLUS",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/hdzlplusfengmianl.jpg",
+  "description": "茶户的编外故事整理，当年看的幽香与猫还有后续哦~",
+  "last_updatetime": 1428721155,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hgzhengliplus",
+  "hidden": 0,
+  "hot_num": 65998,
+  "hit_num": 97447,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 37602,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6042,
+      "tag_name": "徒步二分(茶户)"
+    }
+  ],
+  "subscribe_num": 316,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37602,
+          "chapter_title": "1话",
+          "updatetime": 1428721155,
+          "filesize": 7414538,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 17545077,
+        "uid": 105352431,
+        "content": "故事终于接上了",
+        "createtime": 1561647353,
+        "nickname": "都起的啥破名",
+        "avatar": "https://avatar.dmzj.com/95/99/959970267ac13993047ea53d07b80b39.png"
+      },
+      {
+        "comment_id": 2559807,
+        "uid": 100613418,
+        "content": "这个花妈不科学啊，没屠村也就算了，为什么妖怪踩了自己猫的墓却没有暴怒虐杀对方呢？（虽然从剧情发展上可能的确不会怎么做）",
+        "createtime": 1500918508,
+        "nickname": "nhy",
+        "avatar": "https://avatar.dmzj.com/7f/87/7f8793e6670c413b9a5b32a98561ccaf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

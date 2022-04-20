@@ -1,0 +1,93 @@
+{
+  "id": 18377,
+  "islong": 2,
+  "direction": 2,
+  "title": "废物侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1000833351430132219.jpg",
+  "description": "一个……让人不知道说什么好的，青年向超级英雄故事……隔壁的《漫画之王》如果你看过并且喜欢的话，那这个故事你一定不会失望～ ",
+  "last_updatetime": 1430185478,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "f",
+  "comic_py": "feiwuxia",
+  "hidden": 0,
+  "hot_num": 10612,
+  "hit_num": 81808,
+  "uid": 100083335,
+  "is_lock": 0,
+  "last_update_chapter_id": 40661,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8277,
+      "tag_name": "常盘勇者"
+    }
+  ],
+  "subscribe_num": 62,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40661,
+          "chapter_title": "1话",
+          "updatetime": 1430185478,
+          "filesize": 717768,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "欢迎大家微博@常盘勇者，那里有更多漫画的分享和发布信息以及各式各样的东西，总之，来玩啦！",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 488343,
+        "uid": 100425598,
+        "content": "好久没更新了",
+        "createtime": 1444338759,
+        "nickname": "动漫假面",
+        "avatar": "https://avatar.dmzj.com/68/a6/68a6598720c35a3e46df31af27aae2da.png"
+      },
+      {
+        "comment_id": 465122,
+        "uid": 100262266,
+        "content": "这年头废物都能当侠",
+        "createtime": 1441012944,
+        "nickname": "Sunshine Gay ",
+        "avatar": "https://avatar.dmzj.com/11/70/11705023e83977836f18815a0c16b9c7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

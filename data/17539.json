@@ -1,0 +1,91 @@
+{
+  "id": 17539,
+  "islong": 2,
+  "direction": 2,
+  "title": "希柏里尔",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/Hyperborea31700.jpg",
+  "description": "克拉克·阿什顿·史密斯著名小说改编。\n",
+  "last_updatetime": 1426607278,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xbler",
+  "hidden": 0,
+  "hot_num": 48143,
+  "hit_num": 108603,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 35381,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 5806,
+      "tag_name": "魔幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8772,
+      "tag_name": "Jason Thompson"
+    }
+  ],
+  "subscribe_num": 224,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35381,
+          "chapter_title": "1卷",
+          "updatetime": 1426607278,
+          "filesize": 5296055,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 943213,
+        "uid": 100529993,
+        "content": "对于有密集恐惧症的人来说 确实很恐怖.....",
+        "createtime": 1466859610,
+        "nickname": "哟哟哟。",
+        "avatar": "https://avatar.dmzj.com/26/0f/260f109267e430a2b45b4a5dd8d0b71b.png"
+      },
+      {
+        "comment_id": 365894,
+        "uid": 405009,
+        "content": "到底哪里可怕了……",
+        "createtime": 1426609082,
+        "nickname": "紫薇星沉",
+        "avatar": "https://avatar.dmzj.com/af/26/af2694754baab2aaa0fad2d84000316d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

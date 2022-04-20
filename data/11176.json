@@ -1,0 +1,101 @@
+{
+  "id": 11176,
+  "islong": 2,
+  "direction": 2,
+  "title": "蜘蛛侠&恶灵骑士",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/zhizhuvs.jpg",
+  "description": "蜘蛛侠与恶灵骑士联手对敌~",
+  "last_updatetime": 1367813485,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhizhuxiavselingqishi",
+  "hidden": 0,
+  "hot_num": 4234450,
+  "hit_num": 244115,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21461,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 20018,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21461,
+          "chapter_title": "3卷",
+          "updatetime": 1367813485,
+          "filesize": 1156966,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 21450,
+          "chapter_title": "2卷",
+          "updatetime": 1367760628,
+          "filesize": 1563965,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 21447,
+          "chapter_title": "1卷",
+          "updatetime": 1367752700,
+          "filesize": 1539726,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 25250483,
+        "uid": 101342524,
+        "content": "欢迎考古者！！！有幸在2020年见到2020年的考古者",
+        "createtime": 1584183274,
+        "nickname": "武器商人Zero",
+        "avatar": "https://avatar.dmzj.com/91/24/9124f3c50caf6092dd53ce780ed5d423.png"
+      },
+      {
+        "comment_id": 20243518,
+        "uid": 101342524,
+        "content": "13年的漫画也会有我们这样的人挖挖坟",
+        "createtime": 1568282264,
+        "nickname": "武器商人Zero",
+        "avatar": "https://avatar.dmzj.com/91/24/9124f3c50caf6092dd53ce780ed5d423.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

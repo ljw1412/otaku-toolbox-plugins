@@ -1,0 +1,107 @@
+{
+  "id": 19541,
+  "islong": 2,
+  "direction": 2,
+  "title": "叛逆者之诗",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871435734930.jpg",
+  "description": "这真的是一个机器人漫画！",
+  "last_updatetime": 1444705432,
+  "last_update_chapter_name": "第05话",
+  "copyright": 1,
+  "first_letter": "p",
+  "comic_py": "pannizhezhishi",
+  "hidden": 0,
+  "hot_num": 4515,
+  "hit_num": 78837,
+  "uid": 100205887,
+  "is_lock": 0,
+  "last_update_chapter_id": 43799,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 16,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43799,
+          "chapter_title": "5话",
+          "updatetime": 1444705432,
+          "filesize": 1367650,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 43798,
+          "chapter_title": "4话",
+          "updatetime": 1444705407,
+          "filesize": 1548523,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 43797,
+          "chapter_title": "3话",
+          "updatetime": 1444705341,
+          "filesize": 1617915,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 43796,
+          "chapter_title": "2话",
+          "updatetime": 1444705316,
+          "filesize": 830671,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 40352,
+          "chapter_title": "1话",
+          "updatetime": 1435735339,
+          "filesize": 2301859,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40351,
+          "chapter_title": "序章",
+          "updatetime": 1435735054,
+          "filesize": 2575647,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

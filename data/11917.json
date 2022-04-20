@@ -1,0 +1,87 @@
+{
+  "id": 11917,
+  "islong": 2,
+  "direction": 2,
+  "title": "蜘蛛侠：落幕",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/zhizhuxialuomu.jpg",
+  "description": "谨此献给永远的蜘蛛侠，彼得·帕克。",
+  "last_updatetime": 1372728395,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhizhuxialuomu",
+  "hidden": 0,
+  "hot_num": 4178570,
+  "hit_num": 394414,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25155,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 19556,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25155,
+          "chapter_title": "短篇",
+          "updatetime": 1372728395,
+          "filesize": 3481830,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 25550272,
+        "uid": 105155843,
+        "content": "“落幕”",
+        "createtime": 1584845627,
+        "nickname": "下坠的β",
+        "avatar": "https://avatar.dmzj.com/65/39/6539a4a32605699bb1bb933bd1994c5d.png"
+      },
+      {
+        "comment_id": 22298328,
+        "uid": 104676842,
+        "content": "“你们两个捣蛋鬼”",
+        "createtime": 1574622593,
+        "nickname": "Three S",
+        "avatar": "https://avatar.dmzj.com/33/77/3377752cdda4a0feff044685cdb9f34e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

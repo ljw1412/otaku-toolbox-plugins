@@ -1,0 +1,80 @@
+{
+  "id": 19500,
+  "islong": 2,
+  "direction": 2,
+  "title": "纪念",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1002237581435631407.jpg",
+  "description": "我的画画本子，想到哪里画到哪里。",
+  "last_updatetime": 1435631763,
+  "last_update_chapter_name": "春天的色彩",
+  "copyright": 1,
+  "first_letter": "j",
+  "comic_py": "jinian",
+  "hidden": 0,
+  "hot_num": 696,
+  "hit_num": 2806,
+  "uid": 100223758,
+  "is_lock": 0,
+  "last_update_chapter_id": 42458,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9742,
+      "tag_name": "点绛唇"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42458,
+          "chapter_title": "春天的色彩",
+          "updatetime": 1435631763,
+          "filesize": 424349,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "不定时更新。。。因为。。。懒~",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 13639,
+  "islong": 2,
+  "direction": 1,
+  "title": "plastic girl",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/guwuhuaji.jpg",
+  "description": "古屋兔丸老湿的画集，怎么形容呢，猎奇重口吧",
+  "last_updatetime": 1388629400,
+  "last_update_chapter_name": "画集全一卷",
+  "copyright": 0,
+  "first_letter": "p",
+  "comic_py": "plasticgirl",
+  "hidden": 1,
+  "hot_num": 90343,
+  "hit_num": 213492,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25879,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2087,
+      "tag_name": "古屋兔丸"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 667,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25879,
+          "chapter_title": "1卷",
+          "updatetime": 1388629400,
+          "filesize": 8293626,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 108,
+    "latest_comment": [
+      {
+        "comment_id": 26911612,
+        "uid": 107458502,
+        "content": "古屋兔丸",
+        "createtime": 1588045682,
+        "nickname": "夕呼",
+        "avatar": "https://avatar.dmzj.com/75/03/7503e1ac592afb0e75931f8c8bfdff1a.png"
+      },
+      {
+        "comment_id": 26602384,
+        "uid": 104940511,
+        "content": "重口吗",
+        "createtime": 1587206187,
+        "nickname": "火火-小卡",
+        "avatar": "https://avatar.dmzj.com/93/27/9327e2f13571c0d9a9f0a3b802b8b7c1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

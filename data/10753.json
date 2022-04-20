@@ -1,0 +1,87 @@
+{
+  "id": 10753,
+  "islong": 2,
+  "direction": 1,
+  "title": "如今谁也不在了",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/rujinsheiyebuzaile.jpg",
+  "description": "东方同人本，不一样的东方",
+  "last_updatetime": 1364146212,
+  "last_update_chapter_name": "全一話",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "rujinsheibuzaile",
+  "hidden": 0,
+  "hot_num": 25203,
+  "hit_num": 586256,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21202,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5716,
+      "tag_name": "ッやダシシュウジ"
+    }
+  ],
+  "subscribe_num": 114,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21202,
+          "chapter_title": "1话",
+          "updatetime": 1364146212,
+          "filesize": 14402591,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 23971201,
+        "uid": 105117467,
+        "content": "很妙啊这样的解释",
+        "createtime": 1581321477,
+        "nickname": "wumin",
+        "avatar": "https://avatar.dmzj.com/97/34/973440748f4e0e9d848d1cfe27a7c434.png"
+      },
+      {
+        "comment_id": 20359930,
+        "uid": 107706616,
+        "content": "牵起命运的丝线啊",
+        "createtime": 1568633818,
+        "nickname": "蝉藻城",
+        "avatar": "https://avatar.dmzj.com/55/03/5503283f3cd946c5a52bb9dbf09bd4ea.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

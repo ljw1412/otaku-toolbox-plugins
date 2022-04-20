@@ -1,0 +1,87 @@
+{
+  "id": 10752,
+  "islong": 2,
+  "direction": 1,
+  "title": "先代巫女的归来",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/xiandaiwunv.jpg",
+  "description": "东方同人本",
+  "last_updatetime": 1569064825,
+  "last_update_chapter_name": "blue",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xindaiwuvdeguilai",
+  "hidden": 0,
+  "hot_num": 400684,
+  "hit_num": 765188,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23433,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5640,
+      "tag_name": "恶饿鬼"
+    }
+  ],
+  "subscribe_num": 1667,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23433,
+          "chapter_title": "1话",
+          "updatetime": 1569064825,
+          "filesize": 2555829,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 89,
+    "latest_comment": [
+      {
+        "comment_id": 24959266,
+        "uid": 108399750,
+        "content": "西瓜是进巨？",
+        "createtime": 1583508423,
+        "nickname": "Licheei",
+        "avatar": "https://avatar.dmzj.com/34/31/34310f2588e2f71d3d987f56ce6e9be4.png"
+      },
+      {
+        "comment_id": 23597908,
+        "uid": 107218689,
+        "content": "这让我想起了幼灵梦（( ๑ŏ ﹏ ŏ๑ )）",
+        "createtime": 1580298936,
+        "nickname": "亚瑟h",
+        "avatar": "https://avatar.dmzj.com/14/88/1488f8933e196d94883f203c6d22e99e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

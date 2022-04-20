@@ -1,0 +1,91 @@
+{
+  "id": 18946,
+  "islong": 2,
+  "direction": 1,
+  "title": "图解太空船",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/tjtkc5365l.jpg",
+  "description": "太空达人 一本就通！",
+  "last_updatetime": 1432959293,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tujietaikongchuan",
+  "hidden": 0,
+  "hot_num": 135851,
+  "hit_num": 311523,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 39387,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9453,
+      "tag_name": "称名寺健庄"
+    },
+    {
+      "tag_id": 9454,
+      "tag_name": "森濑缭"
+    }
+  ],
+  "subscribe_num": 707,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39387,
+          "chapter_title": "1卷",
+          "updatetime": 1432959293,
+          "filesize": 12233471,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 20183539,
+        "uid": 107497667,
+        "content": "感觉不错的科普",
+        "createtime": 1568094652,
+        "nickname": "dmzj_107497667",
+        "avatar": "https://avatar.dmzj.com/33/22/33225f0e4574be67d472070c56a9006f.png"
+      },
+      {
+        "comment_id": 19795749,
+        "uid": 104307147,
+        "content": "硬核科普，好棒！",
+        "createtime": 1566817327,
+        "nickname": "WOW鬼才",
+        "avatar": "https://avatar.dmzj.com/79/62/7962829dee97c471fd80af1ebc22f499.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

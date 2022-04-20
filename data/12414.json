@@ -1,0 +1,87 @@
+{
+  "id": 12414,
+  "islong": 2,
+  "direction": 1,
+  "title": "死如幻想",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/siruhuanxiang.jpg",
+  "description": "彼岸组一边秀恩爱一边探讨哲学的同人本。",
+  "last_updatetime": 1376288169,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "siruhuanxiang",
+  "hidden": 0,
+  "hot_num": 34468,
+  "hit_num": 159780,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23640,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6075,
+      "tag_name": "ながろ"
+    }
+  ],
+  "subscribe_num": 185,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23640,
+          "chapter_title": "1话",
+          "updatetime": 1376288169,
+          "filesize": 5375420,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 13675716,
+        "uid": 100970814,
+        "content": "死神是因工作而存在。没想到茨歌仙里这个概念这么早就有人构想过了",
+        "createtime": 1554219967,
+        "nickname": "落羽飘尽",
+        "avatar": "https://avatar.dmzj.com/68/90/68906c3cddcf6ea213378d77c19d9b46.png"
+      },
+      {
+        "comment_id": 6136926,
+        "uid": 104895942,
+        "content": "彼岸好啊",
+        "createtime": 1533667827,
+        "nickname": "弗朗西斯的柜子",
+        "avatar": "https://avatar.dmzj.com/75/12/75121bbd3f51c848dc7446eccf71f055.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

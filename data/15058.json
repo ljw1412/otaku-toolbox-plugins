@@ -1,0 +1,91 @@
+{
+  "id": 15058,
+  "islong": 2,
+  "direction": 1,
+  "title": "Tokyo Wars",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/IMGtokyowarxlys5240001.jpg",
+  "description": "全篇充满了boom，kakakaka…内容是日本当时是亲苏派内阁，想让苏军来管理日本苏军就从新潟入侵日本…架空战争漫画 ",
+  "last_updatetime": 1405924851,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tokyowars",
+  "hidden": 0,
+  "hot_num": 133713,
+  "hit_num": 1976744,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 29271,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1688,
+      "tag_name": "小林源文"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 714,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29271,
+          "chapter_title": "1话",
+          "updatetime": 1405924851,
+          "filesize": 42975055,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 21,
+    "latest_comment": [
+      {
+        "comment_id": 22783450,
+        "uid": 105807681,
+        "content": "封面还以为是59",
+        "createtime": 1577042904,
+        "nickname": "dmzj_105807681",
+        "avatar": "https://avatar.dmzj.com/80/99/809985a7d0bc41a773e2784ce1356b04.png"
+      },
+      {
+        "comment_id": 21190935,
+        "uid": 22991656,
+        "content": "硬核",
+        "createtime": 1570788406,
+        "nickname": "angelking74",
+        "avatar": "https://avatar.dmzj.com/63/91/63918ac66b93def8c21ff31b3380fc48.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

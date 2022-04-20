@@ -1,0 +1,93 @@
+{
+  "id": 19944,
+  "islong": 2,
+  "direction": 2,
+  "title": "呐喊青春",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1002492421436954304.jpg",
+  "description": "呐喊青春",
+  "last_updatetime": 1436954442,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "n",
+  "comic_py": "nahanqingchun",
+  "hidden": 0,
+  "hot_num": 2375,
+  "hit_num": 116065,
+  "uid": 100249242,
+  "is_lock": 0,
+  "last_update_chapter_id": 39122,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9924,
+      "tag_name": "封-世"
+    }
+  ],
+  "subscribe_num": 23,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39122,
+          "chapter_title": "1话",
+          "updatetime": 1436954442,
+          "filesize": 6032063,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 20030849,
+        "uid": 100229674,
+        "content": "诶，没注意发布时间，15年的作品，坑了啊",
+        "createtime": 1567614550,
+        "nickname": "丝袜请过膝",
+        "avatar": "https://avatar.dmzj.com/68/22/6822b3e109ee11e7dfead6c0e385e980.png"
+      },
+      {
+        "comment_id": 20030809,
+        "uid": 100229674,
+        "content": "没人？我也是偶尔点进来，看了下还蛮好看的，剧情不错，挺有校园真实感的，希望作者加油",
+        "createtime": 1567614471,
+        "nickname": "丝袜请过膝",
+        "avatar": "https://avatar.dmzj.com/68/22/6822b3e109ee11e7dfead6c0e385e980.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

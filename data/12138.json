@@ -1,0 +1,108 @@
+{
+  "id": 12138,
+  "islong": 2,
+  "direction": 2,
+  "title": "新52屌炸天先生",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/diaozhatianxiansheng.jpg",
+  "description": "新52 Mister Terrific。译名已经暴露了一切。",
+  "last_updatetime": 1497848171,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xin52diaozhatianxiansheng",
+  "hidden": 0,
+  "hot_num": 1915351,
+  "hit_num": 285021,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 60561,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 8079,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 60561,
+          "chapter_title": "4卷",
+          "updatetime": 1497848171,
+          "filesize": 3766740,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 60384,
+          "chapter_title": "3卷",
+          "updatetime": 1497258823,
+          "filesize": 4520824,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 60383,
+          "chapter_title": "2卷",
+          "updatetime": 1497258796,
+          "filesize": 4678405,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23124,
+          "chapter_title": "1卷",
+          "updatetime": 1374453863,
+          "filesize": 3521942,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 21,
+    "latest_comment": [
+      {
+        "comment_id": 23495973,
+        "uid": 101330422,
+        "content": "哈哈哈哈吊炸天先生 那章帕克是不是可以叫牛逼坏了蜘蛛侠啊",
+        "createtime": 1579934439,
+        "nickname": "野崎龙一",
+        "avatar": "https://avatar.dmzj.com/84/95/849577f3c732091e26fdef14564c0a4f.png"
+      },
+      {
+        "comment_id": 20765024,
+        "uid": 100993875,
+        "content": "我是卓越先生，我的吊厉害的能炸天哦",
+        "createtime": 1569849256,
+        "nickname": "I try",
+        "avatar": "https://avatar.dmzj.com/26/08/2608fc6742ddd0d4322ef979241ed7e8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

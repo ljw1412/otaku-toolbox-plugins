@@ -1,0 +1,93 @@
+{
+  "id": 16481,
+  "islong": 2,
+  "direction": 1,
+  "title": "PARTING",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/patingpating.jpg",
+  "description": "承生命之轻短篇漫画。PARTING",
+  "last_updatetime": 1419231906,
+  "last_update_chapter_name": "PARTING",
+  "copyright": 1,
+  "first_letter": "p",
+  "comic_py": "parting",
+  "hidden": 0,
+  "hot_num": 4533,
+  "hit_num": 89992,
+  "uid": 100200595,
+  "is_lock": 0,
+  "last_update_chapter_id": 33914,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8162,
+      "tag_name": "承生命之轻"
+    }
+  ],
+  "subscribe_num": 25,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33914,
+          "chapter_title": "1话",
+          "updatetime": 1419231906,
+          "filesize": 2006227,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 352152,
+        "uid": 11069739,
+        "content": "好有气质",
+        "createtime": 1423947659,
+        "nickname": "ven______",
+        "avatar": "https://avatar.dmzj.com/32/84/3284170f1309262307ba2ebcb5418a06.png"
+      },
+      {
+        "comment_id": 331919,
+        "uid": 14087513,
+        "content": "构图不错\n分镜成熟",
+        "createtime": 1419236766,
+        "nickname": "zetetic",
+        "avatar": "https://avatar.dmzj.com/98/4b/984b79f326c80f2c1080fdbebdb754f2.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

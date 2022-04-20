@@ -1,0 +1,98 @@
+{
+  "id": 11147,
+  "islong": 2,
+  "direction": 1,
+  "title": "Water Color",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/watercolor1.jpg",
+  "description": "“你给我痛楚的话，我就陪在你身边。”这就是我与里兹的相遇……",
+  "last_updatetime": 1368411395,
+  "last_update_chapter_name": "第02话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "watercolor",
+  "hidden": 0,
+  "hot_num": 38919,
+  "hit_num": 367193,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24273,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5885,
+      "tag_name": "日下ヨル"
+    }
+  ],
+  "subscribe_num": 211,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24273,
+          "chapter_title": "2话",
+          "updatetime": 1368411395,
+          "filesize": 1523697,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 24083,
+          "chapter_title": "1话",
+          "updatetime": 1367553190,
+          "filesize": 785983,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 19403110,
+        "uid": 107523649,
+        "content": "？？？？？？",
+        "createtime": 1565808447,
+        "nickname": "dmzj_107523649",
+        "avatar": "https://avatar.dmzj.com/28/29/2829cf2c47f0f608eed50db8e98d3874.png"
+      },
+      {
+        "comment_id": 18070612,
+        "uid": 101126679,
+        "content": "这是坑啊",
+        "createtime": 1562802252,
+        "nickname": "SΩDZ",
+        "avatar": "https://avatar.dmzj.com/56/38/56382d1bf7574e87e02e467d70fb5036.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

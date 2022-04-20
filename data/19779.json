@@ -1,0 +1,85 @@
+{
+  "id": 19779,
+  "islong": 2,
+  "direction": 2,
+  "title": "东京梦华",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1002486301436924364.jpg",
+  "description": "大宋东京梦华",
+  "last_updatetime": 1436924746,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "d",
+  "comic_py": "dongjingmenghua",
+  "hidden": 0,
+  "hot_num": 1122,
+  "hit_num": 3919,
+  "uid": 100248630,
+  "is_lock": 0,
+  "last_update_chapter_id": 39047,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9898,
+      "tag_name": "coolman"
+    }
+  ],
+  "subscribe_num": 6,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39047,
+          "chapter_title": "1话",
+          "updatetime": 1436924746,
+          "filesize": 258845,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 973654,
+        "uid": 101026304,
+        "content": "什么鬼，东京在这里是指的古代开封是吧。。。。但这个儿童画。。。",
+        "createtime": 1467565794,
+        "nickname": "恶膜某民命秒没",
+        "avatar": "https://avatar.dmzj.com/55/68/556880b3648fa01851cb483765f76919.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

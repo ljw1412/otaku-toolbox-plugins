@@ -1,0 +1,91 @@
+{
+  "id": 15016,
+  "islong": 2,
+  "direction": 1,
+  "title": "Ekorosia",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/ekorosia.jpg",
+  "description": "在人类灭绝的世界，进化？亦或是死亡。",
+  "last_updatetime": 1405530599,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "e",
+  "comic_py": "ekorosia",
+  "hidden": 0,
+  "hot_num": 59216,
+  "hit_num": 470568,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 29565,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5585,
+      "tag_name": "朝仓亮介"
+    }
+  ],
+  "subscribe_num": 316,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29565,
+          "chapter_title": "1话",
+          "updatetime": 1405530599,
+          "filesize": 6425745,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 21032115,
+        "uid": 100490044,
+        "content": "有 战×恋 吗",
+        "createtime": 1570435408,
+        "nickname": "小赤",
+        "avatar": "https://avatar.dmzj.com/57/50/5750c153bbbfe1d9eb08f4e343c092c0.png"
+      },
+      {
+        "comment_id": 19693402,
+        "uid": 102257695,
+        "content": "男主本体居然是个小花花超可爱，如果是长篇就好了，明明挺好看的鸭",
+        "createtime": 1566564828,
+        "nickname": "执着于电瓶",
+        "avatar": "https://avatar.dmzj.com/18/09/1809cfa2afaf61910a335560db32c5ab.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

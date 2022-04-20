@@ -1,0 +1,87 @@
+{
+  "id": 18341,
+  "islong": 2,
+  "direction": 1,
+  "title": "春风",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/chufnengfengmianl.jpg",
+  "description": "还记得吗？那天的心跳不已……",
+  "last_updatetime": 1430118248,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chunfeng",
+  "hidden": 0,
+  "hot_num": 29535,
+  "hit_num": 200067,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 38111,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9145,
+      "tag_name": "山崎浩"
+    }
+  ],
+  "subscribe_num": 102,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38111,
+          "chapter_title": "1话",
+          "updatetime": 1430118248,
+          "filesize": 1355422,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 13352850,
+        "uid": 100312203,
+        "content": "真是，野火烧不尽，春风吹又生",
+        "createtime": 1553582434,
+        "nickname": "青城剑派一燕横",
+        "avatar": "https://avatar.dmzj.com/68/69/68695c9566f8115ade34af328f7dc02f.png"
+      },
+      {
+        "comment_id": 5631806,
+        "uid": 101890584,
+        "content": "所以说，伪娘要从孩子养起",
+        "createtime": 1531660036,
+        "nickname": "利姆露°",
+        "avatar": "https://avatar.dmzj.com/24/65/2465fc12287f8b251d862cfe9edfa6a7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

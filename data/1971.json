@@ -1,0 +1,129 @@
+{
+  "id": 1971,
+  "islong": 2,
+  "direction": 2,
+  "title": "守望者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/wtchmn001-001_a633561a686f864b6aaf62d9e3e6826b.jpg",
+  "description": "守望者",
+  "last_updatetime": 1362455592,
+  "last_update_chapter_name": "第07卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shouwangzhe",
+  "hidden": 0,
+  "hot_num": 1814016,
+  "hit_num": 4397675,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20378,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 10526,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20378,
+          "chapter_title": "7卷",
+          "updatetime": 1362455592,
+          "filesize": 6344961,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 19936,
+          "chapter_title": "6卷",
+          "updatetime": 1359524080,
+          "filesize": 5173716,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 18366,
+          "chapter_title": "5卷",
+          "updatetime": 1347787241,
+          "filesize": 5128131,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 12190,
+          "chapter_title": "4卷",
+          "updatetime": 1292555490,
+          "filesize": 5196823,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 12189,
+          "chapter_title": "3卷",
+          "updatetime": 1292555466,
+          "filesize": 4822996,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 8386,
+          "chapter_title": "2卷",
+          "updatetime": 1279852689,
+          "filesize": 5594187,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 4387,
+          "chapter_title": "1卷",
+          "updatetime": 1279852398,
+          "filesize": 6656331,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 850,
+    "latest_comment": [
+      {
+        "comment_id": 27049108,
+        "uid": 109401457,
+        "content": "留",
+        "createtime": 1588440221,
+        "nickname": "斯丢皮子爵",
+        "avatar": "https://avatar.dmzj.com/94/81/9481d4e0200387adbba17b3311d3f70e.png"
+      },
+      {
+        "comment_id": 27025254,
+        "uid": 105323099,
+        "content": "歪比歪鼻",
+        "createtime": 1588383548,
+        "nickname": "映画69896",
+        "avatar": "https://avatar.dmzj.com/60/64/6064059c083935cbd5371ec95c7e38e3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

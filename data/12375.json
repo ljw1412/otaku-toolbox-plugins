@@ -1,0 +1,87 @@
+{
+  "id": 12375,
+  "islong": 2,
+  "direction": 1,
+  "title": "那颗星的回忆",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/nakexingdehuiyi.jpg",
+  "description": "华风组的正经同人，一段温馨的故事。",
+  "last_updatetime": 1375941288,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "nkexingdehuiyi",
+  "hidden": 0,
+  "hot_num": 73725,
+  "hit_num": 224566,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24663,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6455,
+      "tag_name": "いちみ"
+    }
+  ],
+  "subscribe_num": 354,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24663,
+          "chapter_title": "1话",
+          "updatetime": 1375941288,
+          "filesize": 5671616,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 4137641,
+        "uid": 102135793,
+        "content": "写上一个八一。。",
+        "createtime": 1521628900,
+        "nickname": "夜神夜神夜神",
+        "avatar": "https://avatar.dmzj.com/5b/dd/5bdd5a6e587db69d46c58fd77f8adb56.png"
+      },
+      {
+        "comment_id": 245309,
+        "uid": 14958600,
+        "content": "话说勇仪的角上貌似也有一颗星呢",
+        "createtime": 1401868601,
+        "nickname": "僵尸ミク",
+        "avatar": "https://avatar.dmzj.com/fb/26/fb26d821408c1967cdaefd3942df9b2f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,101 @@
+{
+  "id": 11816,
+  "islong": 2,
+  "direction": 1,
+  "title": "少女幻葬 Phantasm",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/snhzp.jpg",
+  "description": "过去的故事，死灵幽幽子的起始。",
+  "last_updatetime": 1420441418,
+  "last_update_chapter_name": "后编",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "snhzphantasm",
+  "hidden": 0,
+  "hot_num": 527299,
+  "hit_num": 4574168,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 34433,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5330,
+      "tag_name": "宫本龙一"
+    }
+  ],
+  "subscribe_num": 2827,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34433,
+          "chapter_title": "后编",
+          "updatetime": 1420441418,
+          "filesize": 28844067,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 22401,
+          "chapter_title": "中编",
+          "updatetime": 1371806553,
+          "filesize": 9952808,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22400,
+          "chapter_title": "前编",
+          "updatetime": 1371806357,
+          "filesize": 17984625,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 125,
+    "latest_comment": [
+      {
+        "comment_id": 27013206,
+        "uid": 110766071,
+        "content": "虽然磕结界组，唯一能磕的动的千年只有这本，太强了",
+        "createtime": 1588345702,
+        "nickname": "武夜御鸣神",
+        "avatar": "https://avatar.dmzj.com/10/18/1018332760b84a68e06b1e37fdb87ea4.png"
+      },
+      {
+        "comment_id": 26605913,
+        "uid": 110535124,
+        "content": "有个小疑问\n就是后篇p121那里，妖忌用的断命剑「迷津慈航斩」，我咋记得是叫断命剑「冥想斩」 ？「迷津慈航斩」 不是断迷剑吗？？",
+        "createtime": 1587215458,
+        "nickname": "TakanashiRokki",
+        "avatar": "https://avatar.dmzj.com/65/34/653480a7549cc9a56587dcc6ad58860b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

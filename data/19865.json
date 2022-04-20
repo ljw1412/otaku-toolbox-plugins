@@ -1,0 +1,97 @@
+{
+  "id": 19865,
+  "islong": 2,
+  "direction": 2,
+  "title": "蒙古铁骑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1002093781436949081.jpg",
+  "description": "蒙古铁骑",
+  "last_updatetime": 1436949604,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "menggutieqi",
+  "hidden": 0,
+  "hot_num": 7284,
+  "hit_num": 239655,
+  "uid": 100209378,
+  "is_lock": 0,
+  "last_update_chapter_id": 43052,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9628,
+      "tag_name": "洋洋兔动漫"
+    }
+  ],
+  "subscribe_num": 29,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43052,
+          "chapter_title": "1话",
+          "updatetime": 1436949604,
+          "filesize": 3703721,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 19373920,
+        "uid": 107721963,
+        "content": "什么鬼",
+        "createtime": 1565751198,
+        "nickname": "狂岩",
+        "avatar": "https://avatar.dmzj.com/ad/7f/ad7f6867f79b869009850d51d3cb2a34.png"
+      },
+      {
+        "comment_id": 3310440,
+        "uid": 104882755,
+        "content": "呵呵",
+        "createtime": 1510848271,
+        "nickname": "想看经典漫画点我",
+        "avatar": "https://avatar.dmzj.com/11/93/11933557bb21d83a778c4c61faca61dd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

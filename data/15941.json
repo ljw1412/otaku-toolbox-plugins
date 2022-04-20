@@ -1,0 +1,87 @@
+{
+  "id": 15941,
+  "islong": 2,
+  "direction": 1,
+  "title": "灯火",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/dfdpdenghuo1028001.jpg",
+  "description": "东方短篇故事合集",
+  "last_updatetime": 1414501283,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "denghuodf",
+  "hidden": 0,
+  "hot_num": 442161,
+  "hit_num": 590726,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 32682,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 1778,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 32682,
+          "chapter_title": "1卷",
+          "updatetime": 1414501283,
+          "filesize": 16970927,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 26734910,
+        "uid": 108856445,
+        "content": "这是有价值的评论539",
+        "createtime": 1587569980,
+        "nickname": "墨羽华",
+        "avatar": "https://avatar.dmzj.com/2c/bf/2cbf7e8dcf01bda74c54719f539078e5.png"
+      },
+      {
+        "comment_id": 25970423,
+        "uid": 110771702,
+        "content": "嗯哼，密封",
+        "createtime": 1585821827,
+        "nickname": "天上院百合华w",
+        "avatar": "https://avatar.dmzj.com/72/72/727229f7ad4ccd816446757ad2c7c1af.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

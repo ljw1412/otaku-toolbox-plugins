@@ -1,0 +1,87 @@
+{
+  "id": 11272,
+  "islong": 2,
+  "direction": 1,
+  "title": "少年啊抱起吉他吧",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/shaonianabaoqijitaba.jpg",
+  "description": "天涯海角都随我去，我可以成为任何人！只要我手里有吉他。",
+  "last_updatetime": 1368412660,
+  "last_update_chapter_name": "第1话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shaonianabaoqijitaba",
+  "hidden": 0,
+  "hot_num": 21166,
+  "hit_num": 152242,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24275,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5936,
+      "tag_name": "信浓川日出雄"
+    }
+  ],
+  "subscribe_num": 146,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24275,
+          "chapter_title": "1话",
+          "updatetime": 1368412660,
+          "filesize": 5835336,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 23252925,
+        "uid": 105348680,
+        "content": "山与食欲与我.点一下鄙人评论即可",
+        "createtime": 1578888006,
+        "nickname": "宇℉",
+        "avatar": "https://avatar.dmzj.com/43/3a/433a6d82c7f69bb19ba069248f041590.png"
+      },
+      {
+        "comment_id": 15238079,
+        "uid": 105449866,
+        "content": "这里哦",
+        "createtime": 1556767063,
+        "nickname": "胡喵",
+        "avatar": "https://avatar.dmzj.com/62/2c/622c8e3a7bbd3a98dc985022468c6b38.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

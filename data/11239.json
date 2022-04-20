@@ -1,0 +1,87 @@
+{
+  "id": 11239,
+  "islong": 2,
+  "direction": 1,
+  "title": "银猫 ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/yinmao.jpg",
+  "description": "作者：PURE 分类：东方",
+  "last_updatetime": 1368114054,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yinmao",
+  "hidden": 0,
+  "hot_num": 353842,
+  "hit_num": 164776,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21792,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6399,
+      "tag_name": "南方纯"
+    }
+  ],
+  "subscribe_num": 1634,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21792,
+          "chapter_title": "1话",
+          "updatetime": 1368114054,
+          "filesize": 3837395,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 24428639,
+        "uid": 106790830,
+        "content": "太甜了",
+        "createtime": 1582391341,
+        "nickname": "dmzj_106790830",
+        "avatar": "https://avatar.dmzj.com/72/18/7218c2d3fdab4097e31679ebca4e12cc.png"
+      },
+      {
+        "comment_id": 23852464,
+        "uid": 107712187,
+        "content": "好棒",
+        "createtime": 1581005464,
+        "nickname": "dmzj_107712187",
+        "avatar": "https://avatar.dmzj.com/16/57/165714d65b9ce679bade20da36177f41.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

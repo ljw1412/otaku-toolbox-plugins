@@ -1,0 +1,112 @@
+{
+  "id": 1432,
+  "islong": 2,
+  "direction": 1,
+  "title": "Burning_Hell",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/20091127_9303356ee89894209a8cg27Ud9tlwgAS.jpg",
+  "description": "伊仁完 梁庆一",
+  "last_updatetime": 1373017875,
+  "last_update_chapter_name": "CH04贴吧",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "burning_hell",
+  "hidden": 1,
+  "hot_num": 30710,
+  "hit_num": 601305,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25215,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 26,
+      "tag_name": "梁庆一"
+    },
+    {
+      "tag_id": 378,
+      "tag_name": "尹仁完"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 163,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25215,
+          "chapter_title": "4话",
+          "updatetime": 1373017875,
+          "filesize": 3758969,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 25214,
+          "chapter_title": "3话",
+          "updatetime": 1373017864,
+          "filesize": 2688829,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 2694,
+          "chapter_title": "2话",
+          "updatetime": 1260086640,
+          "filesize": 3723197,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 2560,
+          "chapter_title": "1话",
+          "updatetime": 1259312940,
+          "filesize": 6130685,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 20356622,
+        "uid": 101696712,
+        "content": "Burning_Hell",
+        "createtime": 1568625270,
+        "nickname": "beyond_our_dream",
+        "avatar": "https://avatar.dmzj.com/53/18/5318844bda08fa56e9421d24264a18f2.png"
+      },
+      {
+        "comment_id": 15177753,
+        "uid": 103530606,
+        "content": "mk",
+        "createtime": 1556656396,
+        "nickname": "李圣光41417",
+        "avatar": "https://avatar.dmzj.com/ec/39/ec39a5d8be19b19c0a31647fe11cf7a1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

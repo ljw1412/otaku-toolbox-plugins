@@ -1,0 +1,91 @@
+{
+  "id": 18036,
+  "islong": 2,
+  "direction": 1,
+  "title": "月光舞台",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/ygwtfengmianl.jpg",
+  "description": "V家漫画，ココアシガレットP的歌",
+  "last_updatetime": 1428496309,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yueguangwutai",
+  "hidden": 0,
+  "hot_num": 42874,
+  "hit_num": 38239,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 37506,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9005,
+      "tag_name": "GYARI"
+    }
+  ],
+  "subscribe_num": 216,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37506,
+          "chapter_title": "1话",
+          "updatetime": 1428496309,
+          "filesize": 2615911,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 23063882,
+        "uid": 102040486,
+        "content": "十周年复习呜呜呜呜\ngyari真的非常棒，abgm那几首真的是大家非常快乐地在玩音乐的感觉",
+        "createtime": 1578149180,
+        "nickname": "咸鱼亦_",
+        "avatar": "https://avatar.dmzj.com/7f/6b/7f6b3bf2cbaa7373aa406496bb8395e7.png"
+      },
+      {
+        "comment_id": 22745902,
+        "uid": 107535637,
+        "content": "那么连连到底……？",
+        "createtime": 1576904498,
+        "nickname": "毫升",
+        "avatar": "https://avatar.dmzj.com/b3/a6/b3a653f19530ba4dbb16d4eaa134f921.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

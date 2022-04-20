@@ -1,0 +1,89 @@
+{
+  "id": 16391,
+  "islong": 2,
+  "direction": 1,
+  "title": "西藏游记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/xzyj.jpg",
+  "description": "进藏的搞笑记录",
+  "last_updatetime": 1418810360,
+  "last_update_chapter_name": "西藏游记",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xzyj",
+  "hidden": 0,
+  "hot_num": 2660,
+  "hit_num": 84937,
+  "uid": 100104831,
+  "is_lock": 0,
+  "last_update_chapter_id": 33765,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8153,
+      "tag_name": "球球的画"
+    }
+  ],
+  "subscribe_num": 12,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33765,
+          "chapter_title": "1话",
+          "updatetime": 1418810360,
+          "filesize": 2497030,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 2695066,
+        "uid": 103431532,
+        "content": "boring？？？？？",
+        "createtime": 1502427537,
+        "nickname": "Long Live",
+        "avatar": "https://avatar.dmzj.com/f3/0d/f30dba94e6540773c36dbe8262f394c5.png"
+      },
+      {
+        "comment_id": 2372157,
+        "uid": 100130573,
+        "content": "去西藏",
+        "createtime": 1498362542,
+        "nickname": "dkuhg",
+        "avatar": "https://avatar.dmzj.com/32/41/324127fe33d7e7ecf4bf077bad31e34f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

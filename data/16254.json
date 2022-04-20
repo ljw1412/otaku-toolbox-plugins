@@ -1,0 +1,87 @@
+{
+  "id": 16254,
+  "islong": 2,
+  "direction": 1,
+  "title": "MangaONE教学漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/Mangaonejiaoxuemanhua.jpg",
+  "description": "若木民喜绘制的，MangaONE教学漫画。",
+  "last_updatetime": 1417486665,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mangaonejiaoxuemanhua",
+  "hidden": 0,
+  "hot_num": 119891,
+  "hit_num": 70148,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 32572,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 444,
+      "tag_name": "若木民喜"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 618,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 32572,
+          "chapter_title": "1话",
+          "updatetime": 1417486665,
+          "filesize": 1141023,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 1280618,
+        "uid": 101680210,
+        "content": "不算腰斩，虽然结尾的确很急... ...你们这群看不懂作者暗示的家伙... ...自己去看神知两季op歌词，那是作者自己写的",
+        "createtime": 1473864219,
+        "nickname": "阳炎级八番舰雪风号",
+        "avatar": "https://avatar.dmzj.com/35/46/3546f6e3be99686a47ee134ece5e104a.png"
+      },
+      {
+        "comment_id": 990721,
+        "uid": 101686040,
+        "content": "寄刀片",
+        "createtime": 1467990308,
+        "nickname": "境界 贤者",
+        "avatar": "https://avatar.dmzj.com/64/27/6427fbc1c15e48567a1115fac9f9705e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

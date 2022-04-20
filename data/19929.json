@@ -1,0 +1,76 @@
+{
+  "id": 19929,
+  "islong": 2,
+  "direction": 2,
+  "title": "萌萌哒Q版",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1002458661437038897.jpg",
+  "description": "萌萌哒Q版",
+  "last_updatetime": 1437038980,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "mengmengdaqban",
+  "hidden": 0,
+  "hot_num": 1032,
+  "hit_num": 4729,
+  "uid": 100245866,
+  "is_lock": 0,
+  "last_update_chapter_id": 39119,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9917,
+      "tag_name": "小纯纯"
+    }
+  ],
+  "subscribe_num": 7,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39119,
+          "chapter_title": "1话",
+          "updatetime": 1437038980,
+          "filesize": 427160,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

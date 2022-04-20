@@ -1,0 +1,93 @@
+{
+  "id": 15789,
+  "islong": 2,
+  "direction": 2,
+  "title": "M皇室之铁人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/houseofMironman1009.jpg",
+  "description": "M皇室(马格纳斯之殿)的故事想必各位都知道了...这是个变种人至上的社会，当然他们能与人类和平相处(某种程度上)...在这个故事里铁人——托尼·斯塔克的父亲没有死...然后父子两人有了些分歧,嗯——作为一个superhero的任务是什么?保护社会秩序?还是维护人类的权益?",
+  "last_updatetime": 1412867122,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mhsztr",
+  "hidden": 0,
+  "hot_num": 367641,
+  "hit_num": 128755,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 31349,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1481,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31349,
+          "chapter_title": "3卷",
+          "updatetime": 1412867122,
+          "filesize": 4148735,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 31348,
+          "chapter_title": "2卷",
+          "updatetime": 1412867048,
+          "filesize": 3194193,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 31347,
+          "chapter_title": "1卷",
+          "updatetime": 1412866972,
+          "filesize": 3485658,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 12956801,
+        "uid": 107728305,
+        "content": "第一？",
+        "createtime": 1552658887,
+        "nickname": "天生我材2015",
+        "avatar": "https://avatar.dmzj.com/82/89/828963ac0b51747ddd09b6f6871b4382.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

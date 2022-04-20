@@ -1,0 +1,112 @@
+{
+  "id": 17653,
+  "islong": 2,
+  "direction": 2,
+  "title": "时空旅人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/shikonglvren.jpg",
+  "description": "Sean Murphy做画师，Mark Millar做编剧，故事绝对有保障，短篇时空穿越的故事\n",
+  "last_updatetime": 1434255115,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shikonglvren",
+  "hidden": 0,
+  "hot_num": 222219,
+  "hit_num": 432470,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 38052,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2116,
+      "tag_name": "image"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1148,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38052,
+          "chapter_title": "4卷",
+          "updatetime": 1434255115,
+          "filesize": 6220368,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 37077,
+          "chapter_title": "3卷",
+          "updatetime": 1431836095,
+          "filesize": 4347804,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 36275,
+          "chapter_title": "2卷",
+          "updatetime": 1429420655,
+          "filesize": 5239872,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 35367,
+          "chapter_title": "1卷",
+          "updatetime": 1427091132,
+          "filesize": 6647737,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 25405204,
+        "uid": 106245170,
+        "content": "mark一下，神级编剧",
+        "createtime": 1584518268,
+        "nickname": "大逗比吐槽帝",
+        "avatar": "https://avatar.dmzj.com/3c/08/3c08dd1a4a73e85ba8c2933557f156ac.png"
+      },
+      {
+        "comment_id": 21934545,
+        "uid": 102157841,
+        "content": "富帅",
+        "createtime": 1572958845,
+        "nickname": "Itachi29192",
+        "avatar": "https://avatar.dmzj.com/b4/56/b4566b1d0700dc487f6ccdd0d5320228.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

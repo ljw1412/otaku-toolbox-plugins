@@ -1,0 +1,87 @@
+{
+  "id": 13977,
+  "islong": 2,
+  "direction": 1,
+  "title": "不要说人家可爱啦!",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/buyaoshuorenjiakeaila.jpg",
+  "description": "伪娘短篇漫画。",
+  "last_updatetime": 1392482956,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "buyaoshuorenjiakeaila",
+  "hidden": 0,
+  "hot_num": 251482,
+  "hit_num": 1314215,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 28850,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3244,
+      "tag_name": "秀吉"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4934,
+      "tag_name": "とめきち"
+    }
+  ],
+  "subscribe_num": 1172,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 28850,
+          "chapter_title": "1话",
+          "updatetime": 1392482956,
+          "filesize": 1924000,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 58,
+    "latest_comment": [
+      {
+        "comment_id": 26492679,
+        "uid": 110250538,
+        "content": "这是……",
+        "createtime": 1586896657,
+        "nickname": "你说说你还是人吗",
+        "avatar": "https://avatar.dmzj.com/46/69/4669971e65989f94e6393a13fec8e300.png"
+      },
+      {
+        "comment_id": 25769742,
+        "uid": 110118031,
+        "content": "这是删减版吗？",
+        "createtime": 1585338083,
+        "nickname": "dmzj_110118031",
+        "avatar": "https://avatar.dmzj.com/3e/24/3e24b3cca8a091776adc5c71b122cc08.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

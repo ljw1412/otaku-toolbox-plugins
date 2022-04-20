@@ -1,0 +1,122 @@
+{
+  "id": 11380,
+  "islong": 2,
+  "direction": 2,
+  "title": "猫女v2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/maonv94.jpg",
+  "description": "1993年，在《蝙蝠侠归来》取得成功之后，猫女开始有她自己的系列漫画。这个系列由不同的漫画家执笔，但他们都以吉姆·巴伦特（Jim Balent）署名。这个系列把猫女描绘成一个国际盗贼（通常叫做赏金猎人），她有一套模棱两可的道德标准。",
+  "last_updatetime": 1432262562,
+  "last_update_chapter_name": "第1000000卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "maonv94ban",
+  "hidden": 0,
+  "hot_num": 1911715,
+  "hit_num": 467569,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 41321,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 8292,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41321,
+          "chapter_title": "1000000卷",
+          "updatetime": 1432262562,
+          "filesize": 5016091,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 33740,
+          "chapter_title": "34卷",
+          "updatetime": 1408971252,
+          "filesize": 3677981,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 26685,
+          "chapter_title": "3卷",
+          "updatetime": 1386129915,
+          "filesize": 3020260,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 23457,
+          "chapter_title": "2卷",
+          "updatetime": 1370196943,
+          "filesize": 3065849,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 23225,
+          "chapter_title": "1卷",
+          "updatetime": 1369190641,
+          "filesize": 2773675,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23224,
+          "chapter_title": "0卷",
+          "updatetime": 1369190601,
+          "filesize": 4254051,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 22765228,
+        "uid": 101153126,
+        "content": "开始那个画风的后续呢？",
+        "createtime": 1576981932,
+        "nickname": ":风~吹云动",
+        "avatar": "https://avatar.dmzj.com/10/69/10691fc85c7b699b90da1b7e291bb39a.png"
+      },
+      {
+        "comment_id": 17523630,
+        "uid": 104503388,
+        "content": "剧情接不上。。",
+        "createtime": 1561599476,
+        "nickname": "防空步兵",
+        "avatar": "https://avatar.dmzj.com/99/9a/999a044f87eeb1009cbf6e5fa0feaee8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

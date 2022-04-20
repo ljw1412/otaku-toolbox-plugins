@@ -1,0 +1,87 @@
+{
+  "id": 18001,
+  "islong": 2,
+  "direction": 2,
+  "title": "乱斩/狂花",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/0001lzkhua0407.jpg",
+  "description": "猎杀杀手的故事",
+  "last_updatetime": 1428410979,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lzkhua",
+  "hidden": 0,
+  "hot_num": 8264,
+  "hit_num": 40174,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 37454,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8982,
+      "tag_name": "JFW"
+    }
+  ],
+  "subscribe_num": 56,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37454,
+          "chapter_title": "1卷",
+          "updatetime": 1428410979,
+          "filesize": 3390155,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 2256868,
+        "uid": 100180139,
+        "content": "还不错",
+        "createtime": 1496250804,
+        "nickname": "冻不僵的豹子",
+        "avatar": "https://avatar.dmzj.com/f4/2c/f42c10f4d686a88f53c8a1457d504870.png"
+      },
+      {
+        "comment_id": 1328499,
+        "uid": 102144356,
+        "content": "hgfhhih",
+        "createtime": 1475315898,
+        "nickname": "黄金圣堂",
+        "avatar": "https://avatar.dmzj.com/89/02/890273f6c59aba84d8193339f7f22ccf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

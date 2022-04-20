@@ -1,0 +1,94 @@
+{
+  "id": 13552,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔理沙和我",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/molishahewo.jpg",
+  "description": "乡长和魔理沙的故事，该烧！",
+  "last_updatetime": 1550130510,
+  "last_update_chapter_name": "后两话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "molishahewo",
+  "hidden": 0,
+  "hot_num": 159882,
+  "hit_num": 141343,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 85590,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4447,
+      "tag_name": "秋★枝"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 790,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 85590,
+          "chapter_title": "2话",
+          "updatetime": 1550130510,
+          "filesize": 7100716,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 28062,
+          "chapter_title": "1话",
+          "updatetime": 1388050846,
+          "filesize": 1797156,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 56,
+    "latest_comment": [
+      {
+        "comment_id": 25411467,
+        "uid": 108060134,
+        "content": "加那个组的页吧",
+        "createtime": 1584534924,
+        "nickname": "dmzj_108060134",
+        "avatar": "https://avatar.dmzj.com/7d/72/7d726342288f1752079e9b6b2a0150a1.png"
+      },
+      {
+        "comment_id": 25411445,
+        "uid": 108060134,
+        "content": "第二话不是第一话那个组",
+        "createtime": 1584534896,
+        "nickname": "dmzj_108060134",
+        "avatar": "https://avatar.dmzj.com/7d/72/7d726342288f1752079e9b6b2a0150a1.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

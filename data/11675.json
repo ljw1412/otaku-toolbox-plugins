@@ -1,0 +1,87 @@
+{
+  "id": 11675,
+  "islong": 2,
+  "direction": 1,
+  "title": "All Right",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/allright20130612.jpg",
+  "description": "就算没钱只要有爱就一切都OK！？！？",
+  "last_updatetime": 1584338247,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "all_right",
+  "hidden": 0,
+  "hot_num": 106847,
+  "hit_num": 564253,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 99521,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5668,
+      "tag_name": "藤绪爱"
+    }
+  ],
+  "subscribe_num": 478,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 99521,
+          "chapter_title": "1话",
+          "updatetime": 1584338247,
+          "filesize": 8923801,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 25559036,
+        "uid": 101109083,
+        "content": "这个爸爸太让人火大了，凭什么要让孩子背负一切啊？？？？",
+        "createtime": 1584874985,
+        "nickname": "野崎凛子",
+        "avatar": "https://avatar.dmzj.com/31/c0/31c0b2c765e2f55f9af75fc5e3d51219.png"
+      },
+      {
+        "comment_id": 25472026,
+        "uid": 10909469,
+        "content": "我一直不理解这个作者每个短篇故事都很有趣画风也很有味道为何不连载？还是作者就喜欢画短篇？",
+        "createtime": 1584652276,
+        "nickname": "钉宫病末期患者",
+        "avatar": "https://avatar.dmzj.com/35/28/35285136abb853ebe346135f6ca9e124.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

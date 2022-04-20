@@ -1,0 +1,101 @@
+{
+  "id": 11165,
+  "islong": 2,
+  "direction": 1,
+  "title": "一天四海",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/180627yitian.jpg",
+  "description": "堕落至死者之国的盗贼——卡拉斯，邂逅了女王之女——天河。 天河处在母亲（地下世界）与卡拉斯（人类世界）之间进退两难， 为了让自己蜕变成长，天河究竟该何去何从！？",
+  "last_updatetime": 1374651618,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yitiansihai",
+  "hidden": 0,
+  "hot_num": 10651,
+  "hit_num": 784839,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24329,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3524,
+      "tag_name": "华不魅"
+    }
+  ],
+  "subscribe_num": 39,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24329,
+          "chapter_title": "3卷",
+          "updatetime": 1374651618,
+          "filesize": 12494558,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 23729,
+          "chapter_title": "2卷",
+          "updatetime": 1371542168,
+          "filesize": 13280938,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22854,
+          "chapter_title": "1卷",
+          "updatetime": 1367715449,
+          "filesize": 13810981,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 5258088,
+        "uid": 107093213,
+        "content": "哇竟然有一天四海！",
+        "createtime": 1529778463,
+        "nickname": "华洛利亚",
+        "avatar": "https://avatar.dmzj.com/36/01/36017f19d9686bd09cd4f265ad73c66a.png"
+      },
+      {
+        "comment_id": 199812,
+        "uid": 25103042,
+        "content": "哇呜",
+        "createtime": 1390840340,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

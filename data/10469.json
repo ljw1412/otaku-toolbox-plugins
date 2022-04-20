@@ -1,0 +1,87 @@
+{
+  "id": 10469,
+  "islong": 2,
+  "direction": 1,
+  "title": "要幸福啊！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/yaoxingfu.jpg",
+  "description": "要幸福啊！  全一话东方本子，",
+  "last_updatetime": 1361810885,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yaoxingfua",
+  "hidden": 0,
+  "hot_num": 56336,
+  "hit_num": 536898,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20635,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5465,
+      "tag_name": "正木(こげコロッケ)"
+    }
+  ],
+  "subscribe_num": 335,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20635,
+          "chapter_title": "1话",
+          "updatetime": 1361810885,
+          "filesize": 3337222,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 24841002,
+        "uid": 105539985,
+        "content": "正木老师少见的快乐向（雾）作品？",
+        "createtime": 1583277919,
+        "nickname": "人類に栄光あれ",
+        "avatar": "https://avatar.dmzj.com/38/65/38653027eab7777177bfea604544cf75.png"
+      },
+      {
+        "comment_id": 23180969,
+        "uid": 102329776,
+        "content": "辉夜超级黑（",
+        "createtime": 1578595205,
+        "nickname": "蔄。",
+        "avatar": "https://avatar.dmzj.com/89/39/8939182dbaad1e82a23a182a99d7ba93.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

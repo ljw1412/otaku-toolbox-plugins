@@ -1,0 +1,93 @@
+{
+  "id": 16721,
+  "islong": 2,
+  "direction": 2,
+  "title": "回到2005",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/0112huidao2005fml.jpg",
+  "description": "如果能回到十年前……你有什么想对自己说……？",
+  "last_updatetime": 1421070796,
+  "last_update_chapter_name": "上",
+  "copyright": 1,
+  "first_letter": "h",
+  "comic_py": "huidao2005",
+  "hidden": 0,
+  "hot_num": 2637,
+  "hit_num": 64403,
+  "uid": 100030296,
+  "is_lock": 0,
+  "last_update_chapter_id": 34690,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8338,
+      "tag_name": "黛羽"
+    }
+  ],
+  "subscribe_num": 14,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34690,
+          "chapter_title": "1话",
+          "updatetime": 1421070796,
+          "filesize": 2972820,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 3284814,
+        "uid": 104213907,
+        "content": "作者现在和有妖气签约了。。。",
+        "createtime": 1510502027,
+        "nickname": "冬将军",
+        "avatar": "https://avatar.dmzj.com/86/04/8604aa51ced9194b3e4efd23af80cd3b.png"
+      },
+      {
+        "comment_id": 1327044,
+        "uid": 16324119,
+        "content": "下呢？",
+        "createtime": 1475275411,
+        "nickname": "光芒之眼",
+        "avatar": "https://avatar.dmzj.com/9b/8e/9b8e2ad351ba32cdba5b3f1abb021592.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,103 @@
+{
+  "id": 18739,
+  "islong": 1,
+  "direction": 2,
+  "title": "exo迷你小剧场",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1001684741431928014.jpg",
+  "description": "exo小剧场，不定期更新",
+  "last_updatetime": 1431930633,
+  "last_update_chapter_name": "你应该知道的23个张艺兴 之三",
+  "copyright": 1,
+  "first_letter": "e",
+  "comic_py": "exominixiaojuchang",
+  "hidden": 0,
+  "hot_num": 17251,
+  "hit_num": 63337,
+  "uid": 100168474,
+  "is_lock": 0,
+  "last_update_chapter_id": 37298,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9336,
+      "tag_name": "Hacky糕"
+    }
+  ],
+  "subscribe_num": 238,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37298,
+          "chapter_title": "你应该知道的23个张艺兴 之三",
+          "updatetime": 1431930633,
+          "filesize": 88487,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 37297,
+          "chapter_title": "你应该知道的23个张艺兴 之二",
+          "updatetime": 1431928177,
+          "filesize": 71070,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 37296,
+          "chapter_title": "你应该知道的23个张艺兴 之一",
+          "updatetime": 1431928167,
+          "filesize": 77945,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 1487303,
+        "uid": 102338968,
+        "content": "厉害了我家爱丽",
+        "createtime": 1479627341,
+        "nickname": "CBX",
+        "avatar": "https://avatar.dmzj.com/69/c3/69c3a77a7c8c0881b4cac0d3252c59cc.png"
+      },
+      {
+        "comment_id": 1035340,
+        "uid": 101760217,
+        "content": "好暖啊/b飞吻",
+        "createtime": 1468923733,
+        "nickname": "温笙",
+        "avatar": "https://avatar.dmzj.com/86/29/8629ed93e03eb46dc00c851485e58e62.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,79 @@
+{
+  "id": 17779,
+  "islong": 2,
+  "direction": 1,
+  "title": "风梦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/fengmeng98l.jpg",
+  "description": "创造了幻想乡的人，又该归往何处",
+  "last_updatetime": 1427520636,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fengmeng",
+  "hidden": 0,
+  "hot_num": 7506,
+  "hit_num": 32084,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 35732,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8892,
+      "tag_name": "ラクデス"
+    }
+  ],
+  "subscribe_num": 43,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35732,
+          "chapter_title": "1话",
+          "updatetime": 1427520636,
+          "filesize": 1646323,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 2313894,
+        "uid": 100318465,
+        "content": "看不懂",
+        "createtime": 1497324390,
+        "nickname": "陌然陌",
+        "avatar": "https://avatar.dmzj.com/49/81/498120b722aba42938b238a58578adc8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

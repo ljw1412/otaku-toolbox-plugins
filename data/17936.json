@@ -1,0 +1,87 @@
+{
+  "id": 17936,
+  "islong": 2,
+  "direction": 1,
+  "title": "再不曾改变",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/zbcgbfengmianl.jpg",
+  "description": "讲述了妹红是如何成为不死之身的故事",
+  "last_updatetime": 1428113380,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zbcgbbd",
+  "hidden": 0,
+  "hot_num": 165110,
+  "hit_num": 122687,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 37308,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5925,
+      "tag_name": "ふあん亭"
+    }
+  ],
+  "subscribe_num": 707,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37308,
+          "chapter_title": "1话",
+          "updatetime": 1428113380,
+          "filesize": 5486994,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 19159658,
+        "uid": 105176568,
+        "content": "不比等biss",
+        "createtime": 1565255937,
+        "nickname": "盐老根·奥力给",
+        "avatar": "https://avatar.dmzj.com/59/98/5998c6feacfa91e47c583c06083a07cf.png"
+      },
+      {
+        "comment_id": 6875375,
+        "uid": 107428484,
+        "content": "竹取物语",
+        "createtime": 1537208559,
+        "nickname": "dmzj_107428484",
+        "avatar": "https://avatar.dmzj.com/3a/26/3a26acde6be4e44283d26792a9e03885.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

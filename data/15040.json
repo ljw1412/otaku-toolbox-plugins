@@ -1,0 +1,91 @@
+{
+  "id": 15040,
+  "islong": 2,
+  "direction": 1,
+  "title": "fate prototype同人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/1fpymqtren524xfm.jpg",
+  "description": "《Fate/Prototype》正是Fate本篇《Fate/stay night》的原型，作品的制作时期比《魔法使之夜》还要早[1] ，是作者奈须蘑菇在中学时就构思出来的。而《Fate/Prototype》对后来的《Fate/stay night》和其他Fate系列作品创作都有很大的影响。 ",
+  "last_updatetime": 1405821555,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fateprototype",
+  "hidden": 1,
+  "hot_num": 117146,
+  "hit_num": 461026,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 30308,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 836,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30308,
+          "chapter_title": "1话",
+          "updatetime": 1405821555,
+          "filesize": 3941841,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 53,
+    "latest_comment": [
+      {
+        "comment_id": 25817567,
+        "uid": 104995819,
+        "content": "fate互相帮助",
+        "createtime": 1585476831,
+        "nickname": "sxbea",
+        "avatar": "https://avatar.dmzj.com/48/60/48604d6eceaa3265b50364382c1bea5d.png"
+      },
+      {
+        "comment_id": 24315694,
+        "uid": 110285109,
+        "content": "哈哈哈！",
+        "createtime": 1582123939,
+        "nickname": "dmzj_110285109",
+        "avatar": "https://avatar.dmzj.com/bd/77/bd77fe75291a0d76c59b581f99fb8745.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

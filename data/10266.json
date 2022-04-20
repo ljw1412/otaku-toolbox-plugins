@@ -1,0 +1,87 @@
+{
+  "id": 10266,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方小剧场 Missing Purple Power",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/dfxjcmissingpurplepower.jpg",
+  "description": "是讲一个既没有威严又没有领袖魅力的萃香的故事",
+  "last_updatetime": 1360167481,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dfxjcmissingpurplepower",
+  "hidden": 0,
+  "hot_num": 85234,
+  "hit_num": 488388,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20032,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5457,
+      "tag_name": "春日优希"
+    }
+  ],
+  "subscribe_num": 450,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20032,
+          "chapter_title": "1话",
+          "updatetime": 1360167481,
+          "filesize": 4852107,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 16378531,
+        "uid": 102339254,
+        "content": "可爱",
+        "createtime": 1558756855,
+        "nickname": "此人已退网",
+        "avatar": "https://avatar.dmzj.com/17/84/178421f723ace2deae6fc88df20315d4.png"
+      },
+      {
+        "comment_id": 7371803,
+        "uid": 106028926,
+        "content": "suika～",
+        "createtime": 1539446508,
+        "nickname": "绿牙葡萄",
+        "avatar": "https://avatar.dmzj.com/93/17/931784335e924afd370a676091cc6441.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

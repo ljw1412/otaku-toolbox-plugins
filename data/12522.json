@@ -1,0 +1,87 @@
+{
+  "id": 12522,
+  "islong": 2,
+  "direction": 1,
+  "title": "逢魔之时",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/fengmozhishi.jpg",
+  "description": "屠自古、青娥和神子的小故事。",
+  "last_updatetime": 1377050174,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fengmozhishi",
+  "hidden": 0,
+  "hot_num": 51221,
+  "hit_num": 230994,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 26018,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6252,
+      "tag_name": "じぜる"
+    }
+  ],
+  "subscribe_num": 218,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26018,
+          "chapter_title": "1话",
+          "updatetime": 1377050174,
+          "filesize": 4336688,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 18507537,
+        "uid": 104967075,
+        "content": "人过留名",
+        "createtime": 1563771505,
+        "nickname": "阳子同学",
+        "avatar": "https://avatar.dmzj.com/52/26/52264a827eeeb5e84ab6c27c26292217.png"
+      },
+      {
+        "comment_id": 12812472,
+        "uid": 102454684,
+        "content": "二婶子逢魔时王说",
+        "createtime": 1552440300,
+        "nickname": "qzuser32322617",
+        "avatar": "https://avatar.dmzj.com/6e/8c/6e8c2de8997f8fdc2340e82ade34d85f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

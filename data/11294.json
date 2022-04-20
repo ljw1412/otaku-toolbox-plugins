@@ -1,0 +1,87 @@
+{
+  "id": 11294,
+  "islong": 2,
+  "direction": 1,
+  "title": "伊弉冉幻想",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/yizangranhuanxiang.jpg",
+  "description": "伊弉冉幻想，东方同人本。",
+  "last_updatetime": 1368586553,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yizangranhuanxiang",
+  "hidden": 0,
+  "hot_num": 17675,
+  "hit_num": 66439,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21878,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5952,
+      "tag_name": "菊壱"
+    }
+  ],
+  "subscribe_num": 78,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21878,
+          "chapter_title": "1话",
+          "updatetime": 1368586553,
+          "filesize": 2026917,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 24915412,
+        "uid": 108837506,
+        "content": "差点把手机甩出去",
+        "createtime": 1583419717,
+        "nickname": "dmzj_108837506",
+        "avatar": "https://avatar.dmzj.com/06/36/0636a0741f3d56c9e2a9d7d5a48b0c19.png"
+      },
+      {
+        "comment_id": 24915380,
+        "uid": 108837506,
+        "content": "这个本前几页还挺温馨的\n\n然后就突然吓住我了",
+        "createtime": 1583419693,
+        "nickname": "dmzj_108837506",
+        "avatar": "https://avatar.dmzj.com/06/36/0636a0741f3d56c9e2a9d7d5a48b0c19.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

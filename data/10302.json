@@ -1,0 +1,87 @@
+{
+  "id": 10302,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方Web漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/dongfangwebmanhua20130209.jpg",
+  "description": "冷静一点，静下心来用我天才的头脑去思考~只要冷静地思考的话就能解开全部谜团真相了",
+  "last_updatetime": 1360345820,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongfangwebmanhua",
+  "hidden": 0,
+  "hot_num": 48745,
+  "hit_num": 313984,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22755,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3545,
+      "tag_name": "未知"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 194,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22755,
+          "chapter_title": "1话",
+          "updatetime": 1360345820,
+          "filesize": 2169867,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 18659950,
+        "uid": 108122483,
+        "content": "你身上没有足够的猫度/手动滑稽",
+        "createtime": 1564120583,
+        "nickname": "威严满满二小姐",
+        "avatar": "https://avatar.dmzj.com/45/27/452701a3b41b7e8c28ae7b1a6f0c7574.png"
+      },
+      {
+        "comment_id": 9879677,
+        "uid": 101895728,
+        "content": "不是这个作者的吗，怎么成未知了",
+        "createtime": 1547045451,
+        "nickname": "GoCPl",
+        "avatar": "https://avatar.dmzj.com/47/29/4729334504a6c0cf443cc9e76bcfdeff.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

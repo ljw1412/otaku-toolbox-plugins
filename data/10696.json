@@ -1,0 +1,87 @@
+{
+  "id": 10696,
+  "islong": 2,
+  "direction": 1,
+  "title": "爱之药",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/aizhishen.jpg",
+  "description": "东方 ； 作者：榎宫佑 ； 一话完",
+  "last_updatetime": 1363799304,
+  "last_update_chapter_name": "第一话",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "aizhiyao",
+  "hidden": 0,
+  "hot_num": 84577,
+  "hit_num": 167740,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20673,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 17953,
+      "tag_name": "榎宫佑(あゆか)"
+    }
+  ],
+  "subscribe_num": 452,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20673,
+          "chapter_title": "1话",
+          "updatetime": 1363799304,
+          "filesize": 3239054,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 25360737,
+        "uid": 105787337,
+        "content": "没人啊",
+        "createtime": 1584429369,
+        "nickname": "『纯洁的我』",
+        "avatar": "https://avatar.dmzj.com/33/13/3313f033c124fac9231a396ba8f298f8.png"
+      },
+      {
+        "comment_id": 8051430,
+        "uid": 107008997,
+        "content": "没人吗",
+        "createtime": 1541943785,
+        "nickname": "白天下第一可爱",
+        "avatar": "https://avatar.dmzj.com/99/24/9924e63df7b0524685d9fb827dcb98fc.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

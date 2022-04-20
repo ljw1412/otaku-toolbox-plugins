@@ -1,0 +1,87 @@
+{
+  "id": 11955,
+  "islong": 2,
+  "direction": 1,
+  "title": "盛开心中之花",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/shengkaixinzhongzhihua.jpg",
+  "description": "盛开心中之花，东方同人本。",
+  "last_updatetime": 1372843876,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shengkaixinzhongzhihua",
+  "hidden": 0,
+  "hot_num": 51394,
+  "hit_num": 134847,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23989,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6259,
+      "tag_name": "ハンモック"
+    }
+  ],
+  "subscribe_num": 238,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23989,
+          "chapter_title": "1话",
+          "updatetime": 1372843876,
+          "filesize": 4488530,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 4044090,
+        "uid": 100661889,
+        "content": "沙沙赛高！！",
+        "createtime": 1520515257,
+        "nickname": "更识循無",
+        "avatar": "https://avatar.dmzj.com/77/49/7749a813979cf319c94447178aa4545c.png"
+      },
+      {
+        "comment_id": 201447,
+        "uid": 25103042,
+        "content": "因为很重要所以说了两遍 ",
+        "createtime": 1391316220,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

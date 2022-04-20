@@ -1,0 +1,98 @@
+{
+  "id": 12733,
+  "islong": 2,
+  "direction": 1,
+  "title": "苍空之林苑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/cangkongzhilinyuan20130915.jpg",
+  "description": "一本奇怪的画集，内容丰富。已汉化三部短篇： 《赛琪&艾洛斯》根据希腊神话改编。 《插图随笔》作者化身喵星人，召唤笔下人物，快乐的喝茶时间。 《银灰色幻想》为[银青色的传说]（台译[银青鸟骑士]）后传。",
+  "last_updatetime": 1485479378,
+  "last_update_chapter_name": "画集01",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "cangkongzhilinyuan",
+  "hidden": 0,
+  "hot_num": 26167,
+  "hit_num": 185359,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 56744,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 5806,
+      "tag_name": "魔幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5045,
+      "tag_name": "中山星香"
+    }
+  ],
+  "subscribe_num": 157,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24148,
+          "chapter_title": "画集II",
+          "updatetime": 1379250663,
+          "filesize": 11382571,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 56744,
+          "chapter_title": "画集I",
+          "updatetime": 1485479378,
+          "filesize": 6361284,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 1726223,
+        "uid": 102405352,
+        "content": "亚尔斯兰战记 顶上来干嘛",
+        "createtime": 1485497955,
+        "nickname": "比良女木美美",
+        "avatar": "https://avatar.dmzj.com/da/25/da255ece7fa8b3ed6371d42a90fefdf5.png"
+      },
+      {
+        "comment_id": 195000,
+        "uid": 23310737,
+        "content": "还有在《妖精事典》最后的参考资料列表中可以看到，那位译者似乎翻译了一大堆跟妖精有关的（学术？）作品",
+        "createtime": 1389789618,
+        "nickname": "饱满多汁冰冰凉",
+        "avatar": "https://avatar.dmzj.com/fb/c8/fbc83c10440e1eb6abed1f97c8798a87.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 11898,
+  "islong": 2,
+  "direction": 1,
+  "title": "兔子芙拉",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/tuzifula.jpg",
+  "description": "白兔英雄传！",
+  "last_updatetime": 1372524753,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tuzifula",
+  "hidden": 0,
+  "hot_num": 728731,
+  "hit_num": 909019,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22826,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6137,
+      "tag_name": "クール教信者"
+    }
+  ],
+  "subscribe_num": 4407,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22826,
+          "chapter_title": "1话",
+          "updatetime": 1372524753,
+          "filesize": 4003039,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 58,
+    "latest_comment": [
+      {
+        "comment_id": 26573828,
+        "uid": 107479404,
+        "content": "考古ヾ(❀╹◡╹)ﾉ~",
+        "createtime": 1587116260,
+        "nickname": "派克峰",
+        "avatar": "https://avatar.dmzj.com/91/28/91286d2b60532ee15efa95a92fc088dd.png"
+      },
+      {
+        "comment_id": 25360168,
+        "uid": 106022058,
+        "content": "傲娇娇娇谁有啊 突然就不见了",
+        "createtime": 1584428112,
+        "nickname": "dmzj_106022058",
+        "avatar": "https://avatar.dmzj.com/cd/fa/cdfa347b33b1e13cf2501216a2c3ba01.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

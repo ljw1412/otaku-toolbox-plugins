@@ -1,0 +1,87 @@
+{
+  "id": 12769,
+  "islong": 2,
+  "direction": 1,
+  "title": "然后向你",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/ranhouni.jpg",
+  "description": "东方同人，淡淡的一点关注，发自内心的爱慕",
+  "last_updatetime": 1379785990,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "ranhouxiangni",
+  "hidden": 0,
+  "hot_num": 1117868,
+  "hit_num": 1772380,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24261,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6624,
+      "tag_name": "irua"
+    }
+  ],
+  "subscribe_num": 4853,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24261,
+          "chapter_title": "1话",
+          "updatetime": 1379785990,
+          "filesize": 11239680,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 153,
+    "latest_comment": [
+      {
+        "comment_id": 26719405,
+        "uid": 109222892,
+        "content": "这刀子真好吃（错乱）",
+        "createtime": 1587536470,
+        "nickname": "冰⑨冰",
+        "avatar": "https://avatar.dmzj.com/2e/20/2e20ef26d4ec28cee517250d1cf9902f.png"
+      },
+      {
+        "comment_id": 26317197,
+        "uid": 110067336,
+        "content": "百合已阅45",
+        "createtime": 1586526922,
+        "nickname": "噼里啪啦小仓沧",
+        "avatar": "https://avatar.dmzj.com/41/35/413502f6904d7c00ec4802f4713de0e5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

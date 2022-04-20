@@ -1,0 +1,150 @@
+{
+  "id": 13902,
+  "islong": 2,
+  "direction": 1,
+  "title": "新闻英雄",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/xinwenyingxiong.jpg",
+  "description": "大太阳底下，什么样的新鲜事情都会有。尤其在像大阪这样的舞台上，新进记者谷一平努力查访着各类精彩的新闻。大谷昭宏及大岛矢顺一这对黄金搭档合力推出的新闻记者兴斗记",
+  "last_updatetime": 1391842587,
+  "last_update_chapter_name": "阪神大震灾篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xinwenyingxiong",
+  "hidden": 0,
+  "hot_num": 31291,
+  "hit_num": 996249,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 28711,
+  "authors": [
+    {
+      "tag_id": 1868,
+      "tag_name": "大岛矢须一"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "subscribe_num": 166,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 28711,
+          "chapter_title": "阪神大震灾篇",
+          "updatetime": 1391842587,
+          "filesize": 29085084,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 28710,
+          "chapter_title": "9卷",
+          "updatetime": 1391842550,
+          "filesize": 29914046,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 28709,
+          "chapter_title": "8卷",
+          "updatetime": 1391841939,
+          "filesize": 27038074,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 28708,
+          "chapter_title": "7卷",
+          "updatetime": 1391841932,
+          "filesize": 31769271,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 28707,
+          "chapter_title": "6卷",
+          "updatetime": 1391841925,
+          "filesize": 33951008,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 28706,
+          "chapter_title": "5卷",
+          "updatetime": 1391841918,
+          "filesize": 35700275,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 28705,
+          "chapter_title": "4卷",
+          "updatetime": 1391841113,
+          "filesize": 32439382,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 28704,
+          "chapter_title": "3卷",
+          "updatetime": 1391840730,
+          "filesize": 33813230,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 28703,
+          "chapter_title": "2卷",
+          "updatetime": 1391840716,
+          "filesize": 34380947,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 28702,
+          "chapter_title": "1卷",
+          "updatetime": 1391840019,
+          "filesize": 34083814,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 25839928,
+        "uid": 102298938,
+        "content": "111",
+        "createtime": 1585511767,
+        "nickname": "我dnmd",
+        "avatar": "https://avatar.dmzj.com/8b/e6/8be6c988e3179c5476e12d5a08d6e40f.png"
+      },
+      {
+        "comment_id": 16605170,
+        "uid": 101678120,
+        "content": "好像挺好看的，可惜看不到",
+        "createtime": 1559207179,
+        "nickname": "弯曲的光XC",
+        "avatar": "https://avatar.dmzj.com/19/28/192878e2067e048b52eb7e7bf6bec8dd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

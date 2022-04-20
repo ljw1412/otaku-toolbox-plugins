@@ -1,0 +1,87 @@
+{
+  "id": 16464,
+  "islong": 2,
+  "direction": 1,
+  "title": "鬼蝶瓦版",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/gdwb653.jpg",
+  "description": "消灭蠢动黑暗的瓦版商人，前来参见！！",
+  "last_updatetime": 1419151107,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gdwb",
+  "hidden": 0,
+  "hot_num": 4828,
+  "hit_num": 93223,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 33046,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8198,
+      "tag_name": "瑞月あすな"
+    }
+  ],
+  "subscribe_num": 22,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33046,
+          "chapter_title": "1话",
+          "updatetime": 1419151107,
+          "filesize": 6617947,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 331996,
+        "uid": 100006785,
+        "content": "。",
+        "createtime": 1419247398,
+        "nickname": "他言语",
+        "avatar": "https://avatar.dmzj.com/76/95/7695ed528a0bad226f96af6ed0b0ec0d.png"
+      },
+      {
+        "comment_id": 331702,
+        "uid": 26460399,
+        "content": "...脑子有问题的姐弟...",
+        "createtime": 1419169403,
+        "nickname": "幕先生",
+        "avatar": "https://avatar.dmzj.com/ac/3d/ac3d2989822b99d5a77a98f11ec1b7f6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

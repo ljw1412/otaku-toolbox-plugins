@@ -1,0 +1,96 @@
+{
+  "id": 18202,
+  "islong": 2,
+  "direction": 2,
+  "title": "脑洞冷广告",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1001244411429168611.jpg",
+  "description": "妈妈再也不用担心我的脑洞勒！",
+  "last_updatetime": 1429754284,
+  "last_update_chapter_name": "02",
+  "copyright": 1,
+  "first_letter": "n",
+  "comic_py": "naodonglengguanggao",
+  "hidden": 0,
+  "hot_num": 3141,
+  "hit_num": 18481,
+  "uid": 100124441,
+  "is_lock": 0,
+  "last_update_chapter_id": 40528,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9084,
+      "tag_name": "我怕了"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40528,
+          "chapter_title": "2话",
+          "updatetime": 1429754284,
+          "filesize": 192150,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40336,
+          "chapter_title": "1话",
+          "updatetime": 1429238949,
+          "filesize": 335833,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "每日更新，脑洞大开。",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 381390,
+        "uid": 26294836,
+        "content": "烂。不知道是啥。。",
+        "createtime": 1429403700,
+        "nickname": "wojiaoliziyuan",
+        "avatar": "https://avatar.dmzj.com/94/5a/945ac510f837da85554c402327df685c.png"
+      },
+      {
+        "comment_id": 380450,
+        "uid": 7364580,
+        "content": "有够无聊",
+        "createtime": 1429241823,
+        "nickname": "鲜血崇拜",
+        "avatar": "https://avatar.dmzj.com/63/28/6328c9ad84be27db50e467fbe91ce82b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

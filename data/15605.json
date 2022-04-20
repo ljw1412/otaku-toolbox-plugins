@@ -1,0 +1,91 @@
+{
+  "id": 15605,
+  "islong": 2,
+  "direction": 1,
+  "title": "Angela",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/Angela0917.jpg",
+  "description": "无人岛的落难者与机器人妹抖的故事，眼睛里进机器人了。",
+  "last_updatetime": 1410925001,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "angela",
+  "hidden": 0,
+  "hot_num": 286974,
+  "hit_num": 658185,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 34179,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4831,
+      "tag_name": "高畠エナガ"
+    }
+  ],
+  "subscribe_num": 1575,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34179,
+          "chapter_title": "1话",
+          "updatetime": 1410925001,
+          "filesize": 2052553,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 266,
+    "latest_comment": [
+      {
+        "comment_id": 26995501,
+        "uid": 106145936,
+        "content": "哭了",
+        "createtime": 1588295326,
+        "nickname": "小小萃香",
+        "avatar": "https://avatar.dmzj.com/52/83/5283dca7506129726221fddc732992de.png"
+      },
+      {
+        "comment_id": 26722619,
+        "uid": 100602582,
+        "content": "无比喜欢的短篇",
+        "createtime": 1587546840,
+        "nickname": "grazioso",
+        "avatar": "https://avatar.dmzj.com/76/b6/76b62b07cf8f3b666f9948b3ec0d559f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

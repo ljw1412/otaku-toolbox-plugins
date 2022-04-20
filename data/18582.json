@@ -1,0 +1,91 @@
+{
+  "id": 18582,
+  "islong": 2,
+  "direction": 1,
+  "title": "瑞鹤立于春",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/ruiheliyuchun.jpg",
+  "description": "瑞鹤和翔鹤的同人本",
+  "last_updatetime": 1431182577,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "ruiheliyuchun",
+  "hidden": 0,
+  "hot_num": 75360,
+  "hit_num": 274194,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 40993,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7950,
+      "tag_name": "糸麦くん"
+    }
+  ],
+  "subscribe_num": 468,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40993,
+          "chapter_title": "1话",
+          "updatetime": 1431182577,
+          "filesize": 4282998,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 5123089,
+        "uid": 106282707,
+        "content": "双鹤大法好啊",
+        "createtime": 1529059645,
+        "nickname": "忍者晓是也",
+        "avatar": "https://avatar.dmzj.com/38/08/3808bd50f770fa80ad35ff3ff8527e63.png"
+      },
+      {
+        "comment_id": 4215460,
+        "uid": 100678779,
+        "content": "这个作者画的单图信息量巨大，内容超虐（毕竟都是日本海军的船，沉了一大堆）。不过重点是........太美了，一种凄惨的美。",
+        "createtime": 1522511762,
+        "nickname": "阿尔法一号",
+        "avatar": "https://avatar.dmzj.com/19/41/19410858f3b278b075c178977a17d62a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

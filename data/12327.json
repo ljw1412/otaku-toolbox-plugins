@@ -1,0 +1,91 @@
+{
+  "id": 12327,
+  "islong": 2,
+  "direction": 1,
+  "title": "Picnic",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/picnic.jpg",
+  "description": "鸣子ハナハル于杂志《Robot》第一期上刊载的短篇漫画《Picnic》。鸣子ハナハル是一位长年在18X杂志《快乐天》上刊载H漫画的画师。不过凭借其精湛的画技，也有很多一般向作品，比如《神是中学生》漫画版。\n本篇是讲述未来世界的女子高生的一次小小郊游。感觉很棒的短篇故事。",
+  "last_updatetime": 1375549523,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "p",
+  "comic_py": "picnic",
+  "hidden": 0,
+  "hot_num": 139939,
+  "hit_num": 137542,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25737,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 482,
+      "tag_name": "鸣子ハナハル"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 725,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25737,
+          "chapter_title": "1话",
+          "updatetime": 1375549523,
+          "filesize": 1065220,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 24014082,
+        "uid": 108686232,
+        "content": "梦想中的画风了",
+        "createtime": 1581426726,
+        "nickname": "卡加郡主与涅朵奇卡",
+        "avatar": "https://avatar.dmzj.com/fe/f2/fef22bae205d80d1d46790219c9cbd7f.png"
+      },
+      {
+        "comment_id": 23591688,
+        "uid": 10143213,
+        "content": "看不懂",
+        "createtime": 1580278288,
+        "nickname": "狮子花",
+        "avatar": "https://avatar.dmzj.com/d0/a9/d0a9e76e9a3f63f94f9170b636516610.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

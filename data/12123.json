@@ -1,0 +1,129 @@
+{
+  "id": 12123,
+  "islong": 2,
+  "direction": 1,
+  "title": "水色电影",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/shuisedianying.jpg",
+  "description": "治愈的， 就算你带着也没有用处了，眼泪已经止不住",
+  "last_updatetime": 1374517799,
+  "last_update_chapter_name": "番外篇",
+  "copyright": 3,
+  "first_letter": "s",
+  "comic_py": "shuisedianying",
+  "hidden": 1,
+  "hot_num": 155180,
+  "hit_num": 2388565,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23158,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6332,
+      "tag_name": "乙ひより"
+    }
+  ],
+  "subscribe_num": 394,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23158,
+          "chapter_title": "番外篇",
+          "updatetime": 1374517799,
+          "filesize": 1629162,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 23157,
+          "chapter_title": "6话",
+          "updatetime": 1374513653,
+          "filesize": 3215331,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 23156,
+          "chapter_title": "5话",
+          "updatetime": 1374513685,
+          "filesize": 1828434,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 23120,
+          "chapter_title": "4话",
+          "updatetime": 1374425808,
+          "filesize": 2652884,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 23117,
+          "chapter_title": "3话",
+          "updatetime": 1374424021,
+          "filesize": 774693,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 23105,
+          "chapter_title": "2话",
+          "updatetime": 1374376409,
+          "filesize": 1266889,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23103,
+          "chapter_title": "1话",
+          "updatetime": 1374341677,
+          "filesize": 3670852,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 132,
+    "latest_comment": [
+      {
+        "comment_id": 25444983,
+        "uid": 109589055,
+        "content": "致敬",
+        "createtime": 1584605167,
+        "nickname": "dmzj_109589055",
+        "avatar": "https://avatar.dmzj.com/0c/57/0c57f64b6e9ee7b142fc400f3d79ee2b.png"
+      },
+      {
+        "comment_id": 24993702,
+        "uid": 105705262,
+        "content": "留下足迹",
+        "createtime": 1583590784,
+        "nickname": "鱼鱼鱼鱼余",
+        "avatar": "https://avatar.dmzj.com/55/28/55282ef75938718b5c301e740f722fa7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

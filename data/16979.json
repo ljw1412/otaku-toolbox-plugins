@@ -1,0 +1,89 @@
+{
+  "id": 16979,
+  "islong": 2,
+  "direction": 2,
+  "title": "天才篮球部",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/0203tiancailanqiuyuanfml.jpg",
+  "description": "2009.3－2009.8在广州迪文文化传播有限公司《奇想EX》杂志连载了四期。",
+  "last_updatetime": 1422947053,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "t",
+  "comic_py": "tiancailanqiubu",
+  "hidden": 0,
+  "hot_num": 1623,
+  "hit_num": 5812,
+  "uid": 100042939,
+  "is_lock": 0,
+  "last_update_chapter_id": 34278,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8463,
+      "tag_name": "STAN"
+    }
+  ],
+  "subscribe_num": 6,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34278,
+          "chapter_title": "1话",
+          "updatetime": 1422947053,
+          "filesize": 252491,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1047243,
+        "uid": 101334204,
+        "content": "垃圾桶不可回收桶里的垃圾",
+        "createtime": 1469151511,
+        "nickname": "撒野人",
+        "avatar": "https://avatar.dmzj.com/7d/73/7d73ae7d5b4eeac9f6f8d646ec5099a6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

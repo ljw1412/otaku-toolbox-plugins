@@ -1,0 +1,72 @@
+{
+  "id": 19242,
+  "islong": 2,
+  "direction": 2,
+  "title": "乱乱的人生",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1001986451434538555.jpg",
+  "description": "随意的作品~~",
+  "last_updatetime": 1434538588,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "l",
+  "comic_py": "luanluanderensheng",
+  "hidden": 0,
+  "hot_num": 442,
+  "hit_num": 155,
+  "uid": 100198645,
+  "is_lock": 0,
+  "last_update_chapter_id": 42179,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8539,
+      "tag_name": "Neku锅"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42179,
+          "chapter_title": "1话",
+          "updatetime": 1434538588,
+          "filesize": 69315,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

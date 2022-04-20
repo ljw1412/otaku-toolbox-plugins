@@ -1,0 +1,249 @@
+{
+  "id": 19213,
+  "islong": 1,
+  "direction": 2,
+  "title": "豆豆的漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1002070631437553146.jpg",
+  "description": "《豆豆的漫画》是一部主题性原创漫画，本作品是以作者豆豆对生活以及爱情的亲身感受和作者身边的事情为题材，作者通过自己对生活爱情的理解以及身边的事寻找大众内心感受的共鸣进行创作；同时作者本着每天一个主题，每天一幅漫画，每天都有豆芽，每天都要给大家带来温暖与快乐的原则进行创作。豆豆的漫画是贴近生活给大家带来快乐和正能量的漫画。",
+  "last_updatetime": 1440200369,
+  "last_update_chapter_name": "执着",
+  "copyright": 1,
+  "first_letter": "d",
+  "comic_py": "doudoudemanhua",
+  "hidden": 0,
+  "hot_num": 2454,
+  "hit_num": 10879,
+  "uid": 100207063,
+  "is_lock": 0,
+  "last_update_chapter_id": 40585,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9604,
+      "tag_name": "豆豆"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40585,
+          "chapter_title": "25话",
+          "updatetime": 1440200369,
+          "filesize": 25153,
+          "chapter_order": 25
+        },
+        {
+          "chapter_id": 40529,
+          "chapter_title": "24话",
+          "updatetime": 1440116331,
+          "filesize": 29025,
+          "chapter_order": 24
+        },
+        {
+          "chapter_id": 40493,
+          "chapter_title": "23话",
+          "updatetime": 1440030945,
+          "filesize": 23176,
+          "chapter_order": 23
+        },
+        {
+          "chapter_id": 40104,
+          "chapter_title": "22话",
+          "updatetime": 1439112002,
+          "filesize": 131550,
+          "chapter_order": 22
+        },
+        {
+          "chapter_id": 40017,
+          "chapter_title": "21话",
+          "updatetime": 1438936378,
+          "filesize": 149145,
+          "chapter_order": 21
+        },
+        {
+          "chapter_id": 39558,
+          "chapter_title": "20话",
+          "updatetime": 1437967403,
+          "filesize": 177650,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 39875,
+          "chapter_title": "19话",
+          "updatetime": 1438645304,
+          "filesize": 95663,
+          "chapter_order": 19
+        },
+        {
+          "chapter_id": 39523,
+          "chapter_title": "18话",
+          "updatetime": 1437881130,
+          "filesize": 137184,
+          "chapter_order": 18
+        },
+        {
+          "chapter_id": 39500,
+          "chapter_title": "17话",
+          "updatetime": 1437793884,
+          "filesize": 156893,
+          "chapter_order": 17
+        },
+        {
+          "chapter_id": 39501,
+          "chapter_title": "16话",
+          "updatetime": 1437793572,
+          "filesize": 137184,
+          "chapter_order": 16
+        },
+        {
+          "chapter_id": 39468,
+          "chapter_title": "15话",
+          "updatetime": 1437713132,
+          "filesize": 66267,
+          "chapter_order": 15
+        },
+        {
+          "chapter_id": 39411,
+          "chapter_title": "14话",
+          "updatetime": 1437622625,
+          "filesize": 190134,
+          "chapter_order": 14
+        },
+        {
+          "chapter_id": 39381,
+          "chapter_title": "13话",
+          "updatetime": 1437553459,
+          "filesize": 69142,
+          "chapter_order": 13
+        },
+        {
+          "chapter_id": 39272,
+          "chapter_title": "12话",
+          "updatetime": 1437225820,
+          "filesize": 209177,
+          "chapter_order": 12
+        },
+        {
+          "chapter_id": 39185,
+          "chapter_title": "11话",
+          "updatetime": 1437108393,
+          "filesize": 172681,
+          "chapter_order": 11
+        },
+        {
+          "chapter_id": 39133,
+          "chapter_title": "10话",
+          "updatetime": 1437019922,
+          "filesize": 201844,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 39118,
+          "chapter_title": "9话",
+          "updatetime": 1436947705,
+          "filesize": 205538,
+          "chapter_order": 9
+        },
+        {
+          "chapter_id": 39019,
+          "chapter_title": "8话",
+          "updatetime": 1436725216,
+          "filesize": 185971,
+          "chapter_order": 8
+        },
+        {
+          "chapter_id": 38954,
+          "chapter_title": "7话",
+          "updatetime": 1436510860,
+          "filesize": 77429,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 38283,
+          "chapter_title": "6话",
+          "updatetime": 1434870547,
+          "filesize": 166865,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 38236,
+          "chapter_title": "5话",
+          "updatetime": 1434725201,
+          "filesize": 191180,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 38183,
+          "chapter_title": "4话",
+          "updatetime": 1434637450,
+          "filesize": 200263,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 38159,
+          "chapter_title": "3话",
+          "updatetime": 1434553475,
+          "filesize": 180351,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 38110,
+          "chapter_title": "2话",
+          "updatetime": 1434436332,
+          "filesize": 80149,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 38109,
+          "chapter_title": "1话",
+          "updatetime": 1434435875,
+          "filesize": 47865,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "豆豆的漫画是贴近生活给大家带来快乐和正能量的漫画。请关注我的新浪微博：豆豆漫画家",
+  "comic_notice": "豆豆的漫画是贴近生活给大家带来快乐和正能量的漫画，希望大家喜欢。",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 427566,
+        "uid": 100242184,
+        "content": "挺有意思啊，作者再整整清晰度会更好！加油！",
+        "createtime": 1436623001,
+        "nickname": "。12181",
+        "avatar": "https://avatar.dmzj.com/3e/dc/3edc9acd57017d2409bd76cd9001a92c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

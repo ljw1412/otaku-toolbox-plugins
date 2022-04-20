@@ -1,0 +1,100 @@
+{
+  "id": 18629,
+  "islong": 1,
+  "direction": 2,
+  "title": "山大厨房",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1001595111431401090.jpg",
+  "description": "热爱美食，热爱漫画，山大厨房，部分漫画已发表于《南方都市报》。",
+  "last_updatetime": 1432044903,
+  "last_update_chapter_name": "可以融化夏天的味道~猕猴桃雪糕",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "shandachufang",
+  "hidden": 0,
+  "hot_num": 14252,
+  "hit_num": 26987,
+  "uid": 100159511,
+  "is_lock": 0,
+  "last_update_chapter_id": 37381,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3327,
+      "tag_name": "美食"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9276,
+      "tag_name": "亚历山大不失眠"
+    }
+  ],
+  "subscribe_num": 121,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37381,
+          "chapter_title": "可以融化夏天的味道~猕猴桃雪糕",
+          "updatetime": 1432044903,
+          "filesize": 156926,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 37107,
+          "chapter_title": "懒人蔬菜咖喱",
+          "updatetime": 1431421565,
+          "filesize": 150201,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1796393,
+        "uid": 103500508,
+        "content": "好好看，菜谱很容易看懂！棒棒哒1",
+        "createtime": 1486867627,
+        "nickname": "汤圆忆雪",
+        "avatar": "https://avatar.dmzj.com/84/26/8426442e7af59d4101c97617b2115cd3.png"
+      },
+      {
+        "comment_id": 465055,
+        "uid": 100353936,
+        "content": "可爱 ",
+        "createtime": 1441009770,
+        "nickname": "WHY_泥狗狗",
+        "avatar": "https://avatar.dmzj.com/0d/7e/0d7e007d615efad31fe5861acb7e1340.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

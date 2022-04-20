@@ -1,0 +1,87 @@
+{
+  "id": 10378,
+  "islong": 2,
+  "direction": 1,
+  "title": "星空浪漫主义者 ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/xingkongbb.jpg",
+  "description": "星空浪漫主义者 ，浪漫的东方同人",
+  "last_updatetime": 1360949364,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xingkonglangmanzhuyi",
+  "hidden": 0,
+  "hot_num": 24188,
+  "hit_num": 118328,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20691,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5527,
+      "tag_name": "みゃま"
+    }
+  ],
+  "subscribe_num": 106,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20691,
+          "chapter_title": "1话",
+          "updatetime": 1360949364,
+          "filesize": 3174665,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 17675335,
+        "uid": 104889812,
+        "content": "魔爱啊魔爱",
+        "createtime": 1561916234,
+        "nickname": "义务特别关注",
+        "avatar": "https://avatar.dmzj.com/06/64/0664013b4526378e551586e06bcb6dd9.png"
+      },
+      {
+        "comment_id": 16601741,
+        "uid": 108403252,
+        "content": "魔爱二人",
+        "createtime": 1559198013,
+        "nickname": "江河湖泽",
+        "avatar": "https://avatar.dmzj.com/56/28/5628a230e0aa9bd38bf87670da5a9b55.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

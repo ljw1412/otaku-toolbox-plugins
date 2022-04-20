@@ -1,0 +1,89 @@
+{
+  "id": 17338,
+  "islong": 2,
+  "direction": 2,
+  "title": "成都故事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/0308chengdufushifml.jpg",
+  "description": "被初恋女友甩掉的男人的故事..",
+  "last_updatetime": 1425828244,
+  "last_update_chapter_name": "01毕业之后",
+  "copyright": 1,
+  "first_letter": "c",
+  "comic_py": "chengdugushi",
+  "hidden": 0,
+  "hot_num": 4228,
+  "hit_num": 96184,
+  "uid": 100098731,
+  "is_lock": 0,
+  "last_update_chapter_id": 34865,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8667,
+      "tag_name": "o画画吧我们o"
+    }
+  ],
+  "subscribe_num": 32,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34865,
+          "chapter_title": "1话",
+          "updatetime": 1425828244,
+          "filesize": 1597033,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 25741053,
+        "uid": 100917244,
+        "content": "成都人报道",
+        "createtime": 1585283607,
+        "nickname": "问同归",
+        "avatar": "https://avatar.dmzj.com/f2/43/f243415dfdd713c4fdcfccc7f545e489.png"
+      },
+      {
+        "comment_id": 362313,
+        "uid": 9106502,
+        "content": "我也在成都读大学！",
+        "createtime": 1425915185,
+        "nickname": "yangguo8280926",
+        "avatar": "https://avatar.dmzj.com/19/37/193740dff3a262cfa94bb47f6aaf3538.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,108 @@
+{
+  "id": 12188,
+  "islong": 2,
+  "direction": 1,
+  "title": "少年少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/shaonianshaonv.jpg",
+  "description": "经由福岛聪老师精心刻划的\n数篇小故事集结成册，\n让本书带您进入福岛聪老师\n细腻的内心世界。\n",
+  "last_updatetime": 1374643045,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shaonianshaonv",
+  "hidden": 1,
+  "hot_num": 31354,
+  "hit_num": 2904881,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23185,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6354,
+      "tag_name": "福岛聪"
+    }
+  ],
+  "subscribe_num": 277,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23185,
+          "chapter_title": "4卷",
+          "updatetime": 1374643045,
+          "filesize": 33105383,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 23184,
+          "chapter_title": "3卷",
+          "updatetime": 1374642650,
+          "filesize": 31860504,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 23183,
+          "chapter_title": "2卷",
+          "updatetime": 1374642244,
+          "filesize": 33363922,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23182,
+          "chapter_title": "1卷",
+          "updatetime": 1374641953,
+          "filesize": 29498351,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 25151519,
+        "uid": 100628644,
+        "content": "nice",
+        "createtime": 1583938900,
+        "nickname": "魔龙院光牙",
+        "avatar": "https://avatar.dmzj.com/16/58/1658c883391f5195a50d4dbaedc0a05c.png"
+      },
+      {
+        "comment_id": 23662921,
+        "uid": 104289262,
+        "content": "各种风格的短篇故事，看起来很有趣",
+        "createtime": 1580483506,
+        "nickname": "Samoty",
+        "avatar": "https://avatar.dmzj.com/5f/34/5f348837d28ae17d7ebce5ca1aaa88dc.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

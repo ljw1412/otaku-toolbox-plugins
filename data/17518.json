@@ -1,0 +1,112 @@
+{
+  "id": 17518,
+  "islong": 2,
+  "direction": 1,
+  "title": "常青茶馆",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/changqingchaguan.jpg",
+  "description": "茶馆里飘逸着一种春天的气息…雪熙身陷三角恋，自己却全然不知…青春的交响曲溶于从中，会擦出怎样的火花…",
+  "last_updatetime": 1433606543,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "changqingchaguan",
+  "hidden": 0,
+  "hot_num": 6007,
+  "hit_num": 245081,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 37804,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8762,
+      "tag_name": "高炳俊"
+    },
+    {
+      "tag_id": 8763,
+      "tag_name": "JENU"
+    }
+  ],
+  "subscribe_num": 47,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37804,
+          "chapter_title": "4话",
+          "updatetime": 1433606543,
+          "filesize": 2568017,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 37803,
+          "chapter_title": "3话",
+          "updatetime": 1433606534,
+          "filesize": 1887837,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 35814,
+          "chapter_title": "2话",
+          "updatetime": 1428207722,
+          "filesize": 2896054,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 35171,
+          "chapter_title": "1话",
+          "updatetime": 1426560258,
+          "filesize": 2696643,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 374724,
+        "uid": 7585134,
+        "content": "这是韩漫吧？地域为何是日本？",
+        "createtime": 1428211459,
+        "nickname": "佛若论",
+        "avatar": "https://avatar.dmzj.com/f6/ed/f6edbac16176e1793788503d5d17214b.png"
+      },
+      {
+        "comment_id": 365699,
+        "uid": 12979567,
+        "content": "少女？",
+        "createtime": 1426582408,
+        "nickname": "sd5745124",
+        "avatar": "https://avatar.dmzj.com/29/80/298070c54ee810681d5a41c730a4436e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,100 @@
+{
+  "id": 19384,
+  "islong": 2,
+  "direction": 2,
+  "title": "虹",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1435206216.jpg",
+  "description": "小短篇~希望大家喜欢",
+  "last_updatetime": 1435204262,
+  "last_update_chapter_name": "第02话",
+  "copyright": 1,
+  "first_letter": "h",
+  "comic_py": "hong",
+  "hidden": 0,
+  "hot_num": 15300,
+  "hit_num": 136175,
+  "uid": 100107482,
+  "is_lock": 0,
+  "last_update_chapter_id": 38401,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13113,
+      "tag_name": "鼠叔"
+    }
+  ],
+  "subscribe_num": 192,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38401,
+          "chapter_title": "2话",
+          "updatetime": 1435204262,
+          "filesize": 478396,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 38400,
+          "chapter_title": "1话",
+          "updatetime": 1435204223,
+          "filesize": 853474,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 4349468,
+        "uid": 100096204,
+        "content": "封面看着还行，进去一看，构图不行作画崩坏...又是骗人的玩意",
+        "createtime": 1523663586,
+        "nickname": "悼词的咏唱者",
+        "avatar": "https://avatar.dmzj.com/74/19/741959b11530e69ccecf73ef62c2d2f1.png"
+      },
+      {
+        "comment_id": 3215592,
+        "uid": 105300440,
+        "content": "/c鄙视",
+        "createtime": 1509612088,
+        "nickname": "tracyliong",
+        "avatar": "https://avatar.dmzj.com/e1/ba/e1bab9a585c8cabf33ba8e47b8b9b2d2.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

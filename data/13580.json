@@ -1,0 +1,87 @@
+{
+  "id": 13580,
+  "islong": 2,
+  "direction": 1,
+  "title": "Let's☆以食会友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/shiweitian.jpg",
+  "description": "苦苦找寻罗密欧前辈，前辈居然记得我，好开心",
+  "last_updatetime": 1388299628,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yishihuiyou",
+  "hidden": 0,
+  "hot_num": 9308,
+  "hit_num": 104578,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 27061,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6971,
+      "tag_name": "沙垣長子"
+    }
+  ],
+  "subscribe_num": 23,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27061,
+          "chapter_title": "1话",
+          "updatetime": 1388299628,
+          "filesize": 2269352,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 313099,
+        "uid": 11855210,
+        "content": "期待实体书的汉化呀~~",
+        "createtime": 1414765229,
+        "nickname": "snowcat518",
+        "avatar": "https://avatar.dmzj.com/03/ec/03ec6fa722262b30c476bbdbec783ca0.png"
+      },
+      {
+        "comment_id": 190029,
+        "uid": 17181563,
+        "content": "作者归到沙垣长子去吧",
+        "createtime": 1388505235,
+        "nickname": "藤田有静",
+        "avatar": "https://avatar.dmzj.com/06/0e/060e55b54aadf8ba7a9238fb7f46000b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

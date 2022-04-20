@@ -1,0 +1,76 @@
+{
+  "id": 19993,
+  "islong": 2,
+  "direction": 2,
+  "title": "校园超人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1002093781437028009.jpg",
+  "description": "校园超人",
+  "last_updatetime": 1437028135,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiaoyuanchaoren",
+  "hidden": 0,
+  "hot_num": 5961,
+  "hit_num": 227445,
+  "uid": 100209378,
+  "is_lock": 0,
+  "last_update_chapter_id": 39199,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9628,
+      "tag_name": "洋洋兔动漫"
+    }
+  ],
+  "subscribe_num": 19,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39199,
+          "chapter_title": "1话",
+          "updatetime": 1437028135,
+          "filesize": 4899595,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

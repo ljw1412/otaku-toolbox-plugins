@@ -1,0 +1,91 @@
+{
+  "id": 11152,
+  "islong": 2,
+  "direction": 1,
+  "title": "KILL GEPPU",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/killg.jpg",
+  "description": "铃仙的故事，感觉好凶残好厉害",
+  "last_updatetime": 1367571455,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "k",
+  "comic_py": "killgeppu",
+  "hidden": 0,
+  "hot_num": 1106537,
+  "hit_num": 691593,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24088,
+  "authors": [
+    {
+      "tag_id": 1879,
+      "tag_name": "ZUN"
+    },
+    {
+      "tag_id": 5630,
+      "tag_name": "威未图"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 4462,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24088,
+          "chapter_title": "1话",
+          "updatetime": 1367571455,
+          "filesize": 4061643,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 78,
+    "latest_comment": [
+      {
+        "comment_id": 26910415,
+        "uid": 110254856,
+        "content": "我。。。我™裂开",
+        "createtime": 1588041857,
+        "nickname": "Dr格里芬火车王",
+        "avatar": "https://avatar.dmzj.com/98/67/986766ced463a6ae87442df5673f61a9.png"
+      },
+      {
+        "comment_id": 26772299,
+        "uid": 107445997,
+        "content": "这是……？？？这是zun参与的？真的假的",
+        "createtime": 1587660469,
+        "nickname": "CHaRisa",
+        "avatar": "https://avatar.dmzj.com/73/63/736367b24f8270d7de0dea5efdb26b47.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

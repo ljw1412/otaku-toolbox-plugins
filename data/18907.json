@@ -1,0 +1,91 @@
+{
+  "id": 18907,
+  "islong": 2,
+  "direction": 1,
+  "title": "雷电提督",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/leidiantidu.jpg",
+  "description": "有人画风不一样。",
+  "last_updatetime": 1432782948,
+  "last_update_chapter_name": "第01-03话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "leidiantidu",
+  "hidden": 0,
+  "hot_num": 44983,
+  "hit_num": 34822,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 41565,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9429,
+      "tag_name": "Gibagiba"
+    }
+  ],
+  "subscribe_num": 333,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41565,
+          "chapter_title": "1话",
+          "updatetime": 1432782948,
+          "filesize": 414299,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 7200946,
+        "uid": 21060322,
+        "content": "就算一页一话，明显有一页是封面吧……",
+        "createtime": 1538745372,
+        "nickname": "DingSL",
+        "avatar": "https://avatar.dmzj.com/c0/eb/c0ebba79e6d1ca2256548e2b37a89b25.png"
+      },
+      {
+        "comment_id": 3475685,
+        "uid": 102253217,
+        "content": "这就完了！！！！？",
+        "createtime": 1512908424,
+        "nickname": "Aiessssssssss",
+        "avatar": "https://avatar.dmzj.com/78/07/78076aa9542289537130136e6eede5c8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

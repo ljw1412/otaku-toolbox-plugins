@@ -1,0 +1,93 @@
+{
+  "id": 18033,
+  "islong": 2,
+  "direction": 2,
+  "title": "Amusement Park 游乐园",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1001149381428464581.jpg",
+  "description": "“我们两个，一个像夏天，一个像秋天。\n却总能把冬天变成了春天。”",
+  "last_updatetime": 1428484757,
+  "last_update_chapter_name": "全一话",
+  "copyright": 1,
+  "first_letter": "a",
+  "comic_py": "amusementparkyly",
+  "hidden": 0,
+  "hot_num": 4984,
+  "hit_num": 20108,
+  "uid": 100114938,
+  "is_lock": 0,
+  "last_update_chapter_id": 35905,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9002,
+      "tag_name": "隋执祺"
+    }
+  ],
+  "subscribe_num": 22,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35905,
+          "chapter_title": "1话",
+          "updatetime": 1428484757,
+          "filesize": 580229,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 4148907,
+        "uid": 105817900,
+        "content": "喜欢画风，剧情emmmm",
+        "createtime": 1521769564,
+        "nickname": "dmzj_105817900",
+        "avatar": "https://avatar.dmzj.com/7e/3d/7e3deb15e612ca7c0ac73c007bf341b1.png"
+      },
+      {
+        "comment_id": 1071563,
+        "uid": 101812328,
+        "content": "这是什么鬼，偶没有看懂(⊙o⊙)QAQ",
+        "createtime": 1469598104,
+        "nickname": "β4869",
+        "avatar": "https://avatar.dmzj.com/72/93/7293099994d2051d101afaa8935aee7a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

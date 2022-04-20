@@ -1,0 +1,87 @@
+{
+  "id": 18013,
+  "islong": 2,
+  "direction": 1,
+  "title": "暑假生活！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/shujiashenghuo.jpg",
+  "description": "天才麻将少女的同人漫画",
+  "last_updatetime": 1428460100,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shujiashenghuo",
+  "hidden": 0,
+  "hot_num": 102630,
+  "hit_num": 82985,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 35895,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8989,
+      "tag_name": "梅の实画报"
+    }
+  ],
+  "subscribe_num": 610,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35895,
+          "chapter_title": "1话",
+          "updatetime": 1428460100,
+          "filesize": 861971,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 25874314,
+        "uid": 107805003,
+        "content": "固定诱导立场发生器",
+        "createtime": 1585591244,
+        "nickname": "子岳",
+        "avatar": "https://avatar.dmzj.com/37/20/37206e2cce5c97e3c4510f6aa9868633.png"
+      },
+      {
+        "comment_id": 16124799,
+        "uid": 102171187,
+        "content": "稳瞳啊啊啊啊",
+        "createtime": 1558268011,
+        "nickname": "柳树下的赤蛮奇",
+        "avatar": "https://avatar.dmzj.com/92/35/923591e96d4b7023abb027a3536dc500.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

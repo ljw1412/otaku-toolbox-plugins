@@ -1,0 +1,101 @@
+{
+  "id": 11419,
+  "islong": 2,
+  "direction": 1,
+  "title": "坠入闪烁的恋爱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/zhuirushanshuodelianai.jpg",
+  "description": "在踌躇的同时，又想着要XXX……",
+  "last_updatetime": 1377237410,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhuirushanshuodelianai",
+  "hidden": 0,
+  "hot_num": 1523283,
+  "hit_num": 6665434,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23840,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6011,
+      "tag_name": "杏堂麻衣"
+    }
+  ],
+  "subscribe_num": 10061,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23840,
+          "chapter_title": "3话",
+          "updatetime": 1377237410,
+          "filesize": 4122464,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 22622,
+          "chapter_title": "2话",
+          "updatetime": 1372324972,
+          "filesize": 4460916,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22063,
+          "chapter_title": "1话",
+          "updatetime": 1369384264,
+          "filesize": 5027856,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 83,
+    "latest_comment": [
+      {
+        "comment_id": 26837444,
+        "uid": 110924801,
+        "content": "滴",
+        "createtime": 1587831989,
+        "nickname": "dmzj_110924801",
+        "avatar": "https://avatar.dmzj.com/e1/46/e1462bf79242097e04f9949a11b8a53a.png"
+      },
+      {
+        "comment_id": 26326253,
+        "uid": 110474466,
+        "content": "留",
+        "createtime": 1586535914,
+        "nickname": "普通的女孩",
+        "avatar": "https://avatar.dmzj.com/a7/2a/a72a743329425281d2b3f7157eb666d8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

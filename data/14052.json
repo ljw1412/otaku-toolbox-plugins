@@ -1,0 +1,103 @@
+{
+  "id": 14052,
+  "islong": 2,
+  "direction": 1,
+  "title": "Helvetica Standard",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/helveticastandard.jpg",
+  "description": "《日常》的作者あらるけいいち的旧作。脑洞很大的漫画。",
+  "last_updatetime": 1397539877,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "helveticastandard",
+  "hidden": 0,
+  "hot_num": 504020,
+  "hit_num": 1089964,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 29805,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2516,
+      "tag_name": "あらるけいいち"
+    }
+  ],
+  "subscribe_num": 2878,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29805,
+          "chapter_title": "1卷",
+          "updatetime": 1397539877,
+          "filesize": 11927173,
+          "chapter_order": 1
+        }
+      ]
+    },
+    {
+      "title": "汉化版",
+      "data": [
+        {
+          "chapter_id": 29038,
+          "chapter_title": "9话",
+          "updatetime": 1393483937,
+          "filesize": 916551,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 52,
+    "latest_comment": [
+      {
+        "comment_id": 27098816,
+        "uid": 110110873,
+        "content": "太棒啦wwwwwww",
+        "createtime": 1588593303,
+        "nickname": "稔忆",
+        "avatar": "https://avatar.dmzj.com/32/21/3221f84d589f9fc75f247747a9e793a0.png"
+      },
+      {
+        "comment_id": 26639719,
+        "uid": 110179519,
+        "content": "好看",
+        "createtime": 1587308768,
+        "nickname": "dmzj_110179519",
+        "avatar": "https://avatar.dmzj.com/a4/8c/a48cac59a97727ce3ce86f42320229ea.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

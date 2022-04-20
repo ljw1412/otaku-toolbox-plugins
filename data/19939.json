@@ -1,0 +1,85 @@
+{
+  "id": 19939,
+  "islong": 2,
+  "direction": 2,
+  "title": "海豚与我",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1002492421436952354.jpg",
+  "description": "海豚与我",
+  "last_updatetime": 1436953622,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "h",
+  "comic_py": "haitunyuwo",
+  "hidden": 0,
+  "hot_num": 7505,
+  "hit_num": 394772,
+  "uid": 100249242,
+  "is_lock": 0,
+  "last_update_chapter_id": 39121,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9924,
+      "tag_name": "封-世"
+    }
+  ],
+  "subscribe_num": 7,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39121,
+          "chapter_title": "1话",
+          "updatetime": 1436953622,
+          "filesize": 4038185,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 4576507,
+        "uid": 104182895,
+        "content": "这是搞笑？你是在开玩笑吗？",
+        "createtime": 1525373253,
+        "nickname": "洛神OVO",
+        "avatar": "https://avatar.dmzj.com/19/a7/19a7f141ee3cc687b6d05c4834591dd6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 17582,
+  "islong": 2,
+  "direction": 1,
+  "title": "青蛙之国",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/qwzg963.jpg",
+  "description": "青蛙的报恩是将自己做成蛙肉串~",
+  "last_updatetime": 1426829686,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qwzg",
+  "hidden": 0,
+  "hot_num": 254530,
+  "hit_num": 138856,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 39336,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5104,
+      "tag_name": "ゾウノセ"
+    }
+  ],
+  "subscribe_num": 1272,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39336,
+          "chapter_title": "1话",
+          "updatetime": 1426829686,
+          "filesize": 3781276,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 104,
+    "latest_comment": [
+      {
+        "comment_id": 26571202,
+        "uid": 107501728,
+        "content": "6666666666",
+        "createtime": 1587107271,
+        "nickname": "dmzj_107501728",
+        "avatar": "https://avatar.dmzj.com/a5/94/a5947fdba7a659f7d380362583d495dd.png"
+      },
+      {
+        "comment_id": 26256568,
+        "uid": 104207515,
+        "content": "所以说药味分不清青蛙卵和蟾蜍卵????",
+        "createtime": 1586404134,
+        "nickname": "纯音乐请欣赏",
+        "avatar": "https://avatar.dmzj.com/20/94/20944f6b49d79dc45819cb3a0e195582.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

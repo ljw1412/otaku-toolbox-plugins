@@ -1,0 +1,91 @@
+{
+  "id": 11842,
+  "islong": 2,
+  "direction": 1,
+  "title": "投弃区画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/touqiquhua.jpg",
+  "description": "因为脏了就往上、脏了就往上增建的巨大化住宅区。他的下方是……",
+  "last_updatetime": 1372079699,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "touqiquhua",
+  "hidden": 0,
+  "hot_num": 25012,
+  "hit_num": 123522,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25055,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6214,
+      "tag_name": "杉浦洸"
+    }
+  ],
+  "subscribe_num": 107,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25055,
+          "chapter_title": "1话",
+          "updatetime": 1372079699,
+          "filesize": 3835624,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 22513118,
+        "uid": 109105680,
+        "content": "有趣",
+        "createtime": 1575780340,
+        "nickname": "dmzj_109105680",
+        "avatar": "https://avatar.dmzj.com/49/44/494487997ef233b92db5d9c856d69a40.png"
+      },
+      {
+        "comment_id": 22511975,
+        "uid": 105196482,
+        "content": "论不同世界下，不工作也能快乐生存的可能性2333永远都会有人试着走这条路，配合像游戏之类的精神娱乐简直是天作之合，虽然平均寿命可能比较惨，但总的来说也还行.jpg",
+        "createtime": 1575775311,
+        "nickname": "昏睡葫芦",
+        "avatar": "https://avatar.dmzj.com/48/75/4875e92fd662f26f1a6d7a2f71680132.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

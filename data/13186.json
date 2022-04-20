@@ -1,0 +1,87 @@
+{
+  "id": 13186,
+  "islong": 2,
+  "direction": 1,
+  "title": "Sweet Panic",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/sweetpanic.jpg",
+  "description": "强袭魔女同人",
+  "last_updatetime": 1383842659,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sweetpanic",
+  "hidden": 0,
+  "hot_num": 49983,
+  "hit_num": 127945,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24839,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6412,
+      "tag_name": "アガハリ"
+    }
+  ],
+  "subscribe_num": 267,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24839,
+          "chapter_title": "1话",
+          "updatetime": 1383842659,
+          "filesize": 1596566,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 24839207,
+        "uid": 102425051,
+        "content": "王牌组awsl",
+        "createtime": 1583265192,
+        "nickname": "好想吃炸串",
+        "avatar": "https://avatar.dmzj.com/42/39/4239735705a633c5627e2ef69659006a.png"
+      },
+      {
+        "comment_id": 15567147,
+        "uid": 103521589,
+        "content": "王牌组好可爱",
+        "createtime": 1557323499,
+        "nickname": "维克特利",
+        "avatar": "https://avatar.dmzj.com/25/f5/25f5ed4a865d34208b31542697e946e9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,101 @@
+{
+  "id": 11316,
+  "islong": 2,
+  "direction": 1,
+  "title": "X-CHEN",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/xchen.jpg",
+  "description": "东方含有【反差萌】同人本。（兄贵成分·慎入）",
+  "last_updatetime": 1485999291,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xchen",
+  "hidden": 0,
+  "hot_num": 141593,
+  "hit_num": 282094,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 61265,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5963,
+      "tag_name": "御月ユウヤ"
+    }
+  ],
+  "subscribe_num": 617,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61265,
+          "chapter_title": "3话",
+          "updatetime": 1485999291,
+          "filesize": 2445568,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 61264,
+          "chapter_title": "2话",
+          "updatetime": 1485999097,
+          "filesize": 2854195,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 21643,
+          "chapter_title": "1话",
+          "updatetime": 1368685964,
+          "filesize": 3062813,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 39,
+    "latest_comment": [
+      {
+        "comment_id": 26438086,
+        "uid": 107581821,
+        "content": "东方猛男乡，爱了",
+        "createtime": 1586783310,
+        "nickname": "ydmsama",
+        "avatar": "https://avatar.dmzj.com/22/87/228714e2f9eb98a9a7bc9823bff32c29.png"
+      },
+      {
+        "comment_id": 24738678,
+        "uid": 108633313,
+        "content": "整本漫画最正常（没有威严）的只有大小姐是什么鬼",
+        "createtime": 1583071527,
+        "nickname": "毛玉商人",
+        "avatar": "https://avatar.dmzj.com/60/70/60707b65a6cef00b1a46c1a0f7189852.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

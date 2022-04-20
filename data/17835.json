@@ -1,0 +1,80 @@
+{
+  "id": 17835,
+  "islong": 2,
+  "direction": 2,
+  "title": "下山记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1001055901427790176.jpg",
+  "description": "修武少年，初出茅庐，江湖之路又有什么样的奇妙经历呢？热血少年极道&功夫熊猫乌竹的江湖行开始了。",
+  "last_updatetime": 1427797083,
+  "last_update_chapter_name": "第一话：初出茅庐",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiashanji",
+  "hidden": 0,
+  "hot_num": 2759,
+  "hit_num": 71565,
+  "uid": 100105590,
+  "is_lock": 0,
+  "last_update_chapter_id": 39690,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8916,
+      "tag_name": "杨咩"
+    }
+  ],
+  "subscribe_num": 12,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39690,
+          "chapter_title": "1话",
+          "updatetime": 1427797083,
+          "filesize": 1783309,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

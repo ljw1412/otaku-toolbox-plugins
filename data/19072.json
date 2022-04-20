@@ -1,0 +1,91 @@
+{
+  "id": 19072,
+  "islong": 2,
+  "direction": 1,
+  "title": "村田雄介的漫画教室R",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/ctxjdmhjs894l.jpg",
+  "description": "手把手教你画漫画！",
+  "last_updatetime": 1433668581,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "cuntianxiongjiedemanhuajiaoshir",
+  "hidden": 0,
+  "hot_num": 1047241,
+  "hit_num": 5314687,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 41851,
+  "authors": [
+    {
+      "tag_id": 18,
+      "tag_name": "村田雄介"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "subscribe_num": 5912,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41851,
+          "chapter_title": "1卷",
+          "updatetime": 1433668581,
+          "filesize": 23696078,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 103,
+    "latest_comment": [
+      {
+        "comment_id": 26852152,
+        "uid": 106182792,
+        "content": "学习中",
+        "createtime": 1587878542,
+        "nickname": "科科大魔王",
+        "avatar": "https://avatar.dmzj.com/bb/97/bb97a6b407c1fc0b7cc0f94dc44c7e85.png"
+      },
+      {
+        "comment_id": 26439391,
+        "uid": 107526879,
+        "content": "学漫画",
+        "createtime": 1586785194,
+        "nickname": "暂时退了",
+        "avatar": "https://avatar.dmzj.com/23/82/238252e2e67fdbea1a9d380090f0e1b2.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 17751,
+  "islong": 2,
+  "direction": 1,
+  "title": "人气讲师",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/rqjs569l.jpg",
+  "description": "校园人气讲师与学生的故事…… ",
+  "last_updatetime": 1427442140,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "renqijiangshi",
+  "hidden": 0,
+  "hot_num": 41970,
+  "hit_num": 399053,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 37038,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8778,
+      "tag_name": "楢崎壮太"
+    }
+  ],
+  "subscribe_num": 297,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37038,
+          "chapter_title": "1卷",
+          "updatetime": 1427442140,
+          "filesize": 7987135,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 26539528,
+        "uid": 101907609,
+        "content": "挺甜的",
+        "createtime": 1587025239,
+        "nickname": "来るはずのない明日",
+        "avatar": "https://avatar.dmzj.com/2b/3b/2b3b7d374ab97758a4a278e16013d860.png"
+      },
+      {
+        "comment_id": 11954967,
+        "uid": 107946631,
+        "content": "_(:з」∠)_",
+        "createtime": 1551099249,
+        "nickname": "花开花谢花飞花满天",
+        "avatar": "https://avatar.dmzj.com/30/11/30114563bd2f8e16d2304603b8cd7015.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 16576,
+  "islong": 2,
+  "direction": 2,
+  "title": "奇异博士v1 ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/DrStrangeSorcerersupre80123001.jpg",
+  "description": "漫威大法师奇异博士的故事",
+  "last_updatetime": 1419952132,
+  "last_update_chapter_name": "第80卷",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qyboshi",
+  "hidden": 0,
+  "hot_num": 159708,
+  "hit_num": 209934,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 34311,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 918,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34311,
+          "chapter_title": "80卷",
+          "updatetime": 1419952132,
+          "filesize": 3574637,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 12097832,
+        "uid": 102216040,
+        "content": "cy",
+        "createtime": 1551359413,
+        "nickname": "霉良心银不了",
+        "avatar": "https://avatar.dmzj.com/87/45/874573308fab74b4ec0e88d3ed751022.png"
+      },
+      {
+        "comment_id": 6602726,
+        "uid": 107861008,
+        "content": "为什么只有第80卷",
+        "createtime": 1535714615,
+        "nickname": "dmzj_107861008",
+        "avatar": "https://avatar.dmzj.com/ac/c2/acc29c19753f62f76fb38932ada8f145.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

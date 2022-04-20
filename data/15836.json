@@ -1,0 +1,87 @@
+{
+  "id": 15836,
+  "islong": 2,
+  "direction": 1,
+  "title": "铃酱NOW ver.0",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/Imagelingjiangver01014.jpg",
+  "description": "萌萌的铃酱的故事",
+  "last_updatetime": 1413300007,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lingjiangnowver",
+  "hidden": 0,
+  "hot_num": 19443,
+  "hit_num": 305796,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 32304,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7888,
+      "tag_name": "田村ヒロ"
+    }
+  ],
+  "subscribe_num": 144,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 32304,
+          "chapter_title": "1卷",
+          "updatetime": 1458313608,
+          "filesize": 8841811,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 22607959,
+        "uid": 103523405,
+        "content": "我铃真可爱",
+        "createtime": 1576310813,
+        "nickname": "慎用抗生素",
+        "avatar": "https://avatar.dmzj.com/50/02/50029ec40fe75d7c932d6f09d1646ee7.png"
+      },
+      {
+        "comment_id": 19442182,
+        "uid": 108040818,
+        "content": "居然有这个！",
+        "createtime": 1565922460,
+        "nickname": "我不是怪异",
+        "avatar": "https://avatar.dmzj.com/98/28/9828d34e68a4222147313221cae18321.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

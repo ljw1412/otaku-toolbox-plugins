@@ -1,0 +1,83 @@
+{
+  "id": 18182,
+  "islong": 2,
+  "direction": 2,
+  "title": "Q奇快乐岛",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1001074111429157471.jpg",
+  "description": "小德儿是Q奇学园长的不帅还经常犯傻在校生，他的跟班是只小蝙蝠！所在的Q奇学园是个大杂烩学园，这里有王子班，ET班，恐龙班等各种班级。围绕小德儿的班级着都发生着搞怪有趣让人喷饭的事……",
+  "last_updatetime": 1429164884,
+  "last_update_chapter_name": "人设",
+  "copyright": 1,
+  "first_letter": "q",
+  "comic_py": "qqkld",
+  "hidden": 0,
+  "hot_num": 921,
+  "hit_num": 6824,
+  "uid": 100107411,
+  "is_lock": 0,
+  "last_update_chapter_id": 40296,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8940,
+      "tag_name": "亭子"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40296,
+          "chapter_title": "人设",
+          "updatetime": 1429164884,
+          "filesize": 266256,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40297,
+          "chapter_title": "1话",
+          "updatetime": 1429157509,
+          "filesize": 1028193,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

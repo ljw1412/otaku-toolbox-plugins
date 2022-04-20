@@ -1,0 +1,80 @@
+{
+  "id": 19862,
+  "islong": 2,
+  "direction": 2,
+  "title": "警察良太",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1437029927.jpg",
+  "description": "警察良太",
+  "last_updatetime": 1436943293,
+  "last_update_chapter_name": "第01章",
+  "copyright": 1,
+  "first_letter": "j",
+  "comic_py": "jingchaliangtai",
+  "hidden": 0,
+  "hot_num": 1033,
+  "hit_num": 4516,
+  "uid": 100248630,
+  "is_lock": 0,
+  "last_update_chapter_id": 43047,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9898,
+      "tag_name": "coolman"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43047,
+          "chapter_title": "1话",
+          "updatetime": 1436943293,
+          "filesize": 1357560,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

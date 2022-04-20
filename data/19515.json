@@ -1,0 +1,89 @@
+{
+  "id": 19515,
+  "islong": 2,
+  "direction": 2,
+  "title": "关于我的那些事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1001074821428030806.jpg",
+  "description": "一个人的生活一个人的漫画一个人的绘本一个人的单幅",
+  "last_updatetime": 1428030833,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "g",
+  "comic_py": "guanyuwodenaxieshi",
+  "hidden": 0,
+  "hot_num": 7141,
+  "hit_num": 60419,
+  "uid": 100107482,
+  "is_lock": 0,
+  "last_update_chapter_id": 42474,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 13113,
+      "tag_name": "鼠叔"
+    }
+  ],
+  "subscribe_num": 57,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42474,
+          "chapter_title": "1话",
+          "updatetime": 1428030833,
+          "filesize": 390392,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 10723477,
+        "uid": 105843529,
+        "content": "。",
+        "createtime": 1548891367,
+        "nickname": "dmzj_105843529",
+        "avatar": "https://avatar.dmzj.com/68/97/6897e1d4e267b3b2c871d5c6b8fa5c3a.png"
+      },
+      {
+        "comment_id": 5454839,
+        "uid": 106925810,
+        "content": "讲的啥啊",
+        "createtime": 1530817271,
+        "nickname": "dmzj_106925810",
+        "avatar": "https://avatar.dmzj.com/1d/56/1d563166bebf20f2af60f5176abd8abb.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

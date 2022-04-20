@@ -1,0 +1,91 @@
+{
+  "id": 15792,
+  "islong": 2,
+  "direction": 2,
+  "title": "漫威神盾局特工：追捕v1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/shendujutegong.jpg",
+  "description": "神盾局特工们之前完成的一次秘密任务...\n",
+  "last_updatetime": 1412910970,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shendunjutegong",
+  "hidden": 0,
+  "hot_num": 464763,
+  "hit_num": 291262,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 34696,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 2050,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34696,
+          "chapter_title": "1卷",
+          "updatetime": 1412910970,
+          "filesize": 2955028,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 5569907,
+        "uid": 100212106,
+        "content": "漫画版 秀",
+        "createtime": 1531395300,
+        "nickname": "Golden bullet",
+        "avatar": "https://avatar.dmzj.com/63/83/6383f268ada8be85d606d3d580965a81.png"
+      },
+      {
+        "comment_id": 5567799,
+        "uid": 105223872,
+        "content": "1348嗯出错的肯定是我的数学。",
+        "createtime": 1531386085,
+        "nickname": "你看我眼神多诚实",
+        "avatar": "https://avatar.dmzj.com/73/94/7394b70164b41d3f634f7babd0808cd9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

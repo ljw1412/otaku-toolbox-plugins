@@ -1,0 +1,87 @@
+{
+  "id": 16501,
+  "islong": 2,
+  "direction": 2,
+  "title": "蚁人的超级圣诞节",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/antmanxmasp03.jpg",
+  "description": "蚁人的圣诞节短篇",
+  "last_updatetime": 1419422969,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yrdcjsdjie",
+  "hidden": 0,
+  "hot_num": 15895,
+  "hit_num": 124654,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 34091,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 100,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34091,
+          "chapter_title": "1话",
+          "updatetime": 1419422969,
+          "filesize": 9724327,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 6687078,
+        "uid": 105608248,
+        "content": "突然看不了",
+        "createtime": 1536233042,
+        "nickname": "轻哼的小调",
+        "avatar": "https://avatar.dmzj.com/48/28/48288972973f636dbd157f4c55d15479.png"
+      },
+      {
+        "comment_id": 2841058,
+        "uid": 104944503,
+        "content": "他只是一个笨拙的多愁善感的人",
+        "createtime": 1504150137,
+        "nickname": "Hazel.27339",
+        "avatar": "https://avatar.dmzj.com/25/ce/25ce92b26cbbcff412d4f7d1052afc2a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

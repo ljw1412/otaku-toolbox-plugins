@@ -1,0 +1,87 @@
+{
+  "id": 16162,
+  "islong": 2,
+  "direction": 1,
+  "title": "主人公任务",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/zrgrw48.jpg",
+  "description": " 勇者泰尼为了打倒要毁灭世界的邪恶魔王而踏上旅程，然而……",
+  "last_updatetime": 1416458427,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zrgrw",
+  "hidden": 0,
+  "hot_num": 141821,
+  "hit_num": 87196,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 35722,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8040,
+      "tag_name": "樱井エネルギー"
+    }
+  ],
+  "subscribe_num": 595,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35722,
+          "chapter_title": "1话",
+          "updatetime": 1416458427,
+          "filesize": 1537933,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 26265883,
+        "uid": 104371075,
+        "content": "好大的脑洞",
+        "createtime": 1586425692,
+        "nickname": "我认识ゝ你吗づ",
+        "avatar": "https://avatar.dmzj.com/ae/1e/ae1efcde07c9b9581c9c173cf89de998.png"
+      },
+      {
+        "comment_id": 22323492,
+        "uid": 101429227,
+        "content": "无厘头",
+        "createtime": 1574746788,
+        "nickname": "gao852456",
+        "avatar": "https://avatar.dmzj.com/d2/b6/d2b678e113b831d074cad5177d9a72ee.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

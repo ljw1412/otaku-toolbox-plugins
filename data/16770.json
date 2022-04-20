@@ -1,0 +1,85 @@
+{
+  "id": 16770,
+  "islong": 2,
+  "direction": 2,
+  "title": "机械冲拳",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/0115jixiechongquanfml.jpg",
+  "description": "机械的世界。中国一个后起之秀加入了这个世界。会有怎样的故事呢？",
+  "last_updatetime": 1421332130,
+  "last_update_chapter_name": "触发",
+  "copyright": 1,
+  "first_letter": "j",
+  "comic_py": "jixiechongquan",
+  "hidden": 0,
+  "hot_num": 3825,
+  "hit_num": 29940,
+  "uid": 100032656,
+  "is_lock": 0,
+  "last_update_chapter_id": 37098,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8367,
+      "tag_name": "北野0matao"
+    }
+  ],
+  "subscribe_num": 18,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37098,
+          "chapter_title": "1话",
+          "updatetime": 1421332130,
+          "filesize": 639626,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1373392,
+        "uid": 102191320,
+        "content": "感觉很好看，作者大大加油！！！",
+        "createtime": 1476439312,
+        "nickname": "敢达AGE",
+        "avatar": "https://avatar.dmzj.com/81/82/8182e0b4d4a89f25c2327f7305bb596c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 16261,
+  "islong": 2,
+  "direction": 1,
+  "title": "多重梦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/duochongmeng.jpg",
+  "description": "短篇的诡异漫画。",
+  "last_updatetime": 1417659495,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "duochongmeng",
+  "hidden": 0,
+  "hot_num": 100404,
+  "hit_num": 137061,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 33457,
+  "authors": [
+    {
+      "tag_id": 2162,
+      "tag_name": "筒井哲也"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "subscribe_num": 586,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33457,
+          "chapter_title": "1话",
+          "updatetime": 1417659495,
+          "filesize": 1073436,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 26194147,
+        "uid": 102390766,
+        "content": "如果总结的部分也是一个人格的话，大概有6个?",
+        "createtime": 1586267519,
+        "nickname": "夏远57852",
+        "avatar": "https://avatar.dmzj.com/70/cc/70ccefa6947b5013b854a58271358519.png"
+      },
+      {
+        "comment_id": 25666153,
+        "uid": 108659773,
+        "content": "完食",
+        "createtime": 1585117779,
+        "nickname": "滴嘟滴嘟滴嘟",
+        "avatar": "https://avatar.dmzj.com/10/90/1090d031cbc99f9690ebf87c9449ccd3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

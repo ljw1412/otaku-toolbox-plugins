@@ -1,0 +1,85 @@
+{
+  "id": 18925,
+  "islong": 2,
+  "direction": 2,
+  "title": "破碎的魔法",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1001637241432818431.jpg",
+  "description": "破碎的爱情",
+  "last_updatetime": 1432818615,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "p",
+  "comic_py": "posuidemofa",
+  "hidden": 0,
+  "hot_num": 1398,
+  "hit_num": 50493,
+  "uid": 100163724,
+  "is_lock": 0,
+  "last_update_chapter_id": 41542,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9320,
+      "tag_name": "石头特大号"
+    }
+  ],
+  "subscribe_num": 12,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41542,
+          "chapter_title": "1话",
+          "updatetime": 1432818615,
+          "filesize": 3450122,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 18961359,
+        "uid": 108162025,
+        "content": "这个封面有一种成龙历险记的既视感",
+        "createtime": 1564816911,
+        "nickname": "古合",
+        "avatar": "https://avatar.dmzj.com/72/38/7238b8bcbc764192d140978947fe1235.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

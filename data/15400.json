@@ -1,0 +1,87 @@
+{
+  "id": 15400,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C86)Tabgraphics Works",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/TabgraphicsWorks.jpg",
+  "description": "初音的同人画集。P站id=27557\n",
+  "last_updatetime": 1408873423,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tabgraphicsworks",
+  "hidden": 0,
+  "hot_num": 53454,
+  "hit_num": 93235,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 33718,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7676,
+      "tag_name": "かんざき"
+    }
+  ],
+  "subscribe_num": 289,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33718,
+          "chapter_title": "1话",
+          "updatetime": 1408873423,
+          "filesize": 1455749,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 25310397,
+        "uid": 109386080,
+        "content": "这是俺妹画师吧",
+        "createtime": 1584322318,
+        "nickname": "门56562",
+        "avatar": "https://avatar.dmzj.com/73/90/739004730089127dad678983b9666270.png"
+      },
+      {
+        "comment_id": 17068264,
+        "uid": 107383687,
+        "content": "门",
+        "createtime": 1560349508,
+        "nickname": "神秘的留门人",
+        "avatar": "https://avatar.dmzj.com/98/33/9833ea1264a7ad0d6166f2c7dfa993d8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

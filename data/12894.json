@@ -1,0 +1,115 @@
+{
+  "id": 12894,
+  "islong": 2,
+  "direction": 2,
+  "title": "朱庇特的遗产",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/zhubiteyichan.jpg",
+  "description": "一部大师联手大师的神作。米勒的风格相信大家已经熟知，照目前看来绝对不会令大家失望的。",
+  "last_updatetime": 1481375409,
+  "last_update_chapter_name": "第05卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zbtyc",
+  "hidden": 0,
+  "hot_num": 198713,
+  "hit_num": 321286,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 57304,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2116,
+      "tag_name": "image"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1017,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 57304,
+          "chapter_title": "5卷",
+          "updatetime": 1481375409,
+          "filesize": 3746358,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 33684,
+          "chapter_title": "4卷",
+          "updatetime": 1421294073,
+          "filesize": 2803504,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 26670,
+          "chapter_title": "3卷",
+          "updatetime": 1392358023,
+          "filesize": 3611662,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 26671,
+          "chapter_title": "2卷",
+          "updatetime": 1478704536,
+          "filesize": 3133837,
+          "chapter_order": 11
+        },
+        {
+          "chapter_id": 24444,
+          "chapter_title": "1卷",
+          "updatetime": 1477574100,
+          "filesize": 2832296,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 16233647,
+        "uid": 108035231,
+        "content": "刚刚",
+        "createtime": 1558458120,
+        "nickname": "龙须不如面",
+        "avatar": "https://avatar.dmzj.com/13/06/1306f1c0be44fb71e4fb7f223cb7041f.png"
+      },
+      {
+        "comment_id": 9761458,
+        "uid": 12240,
+        "content": "也太……",
+        "createtime": 1546777133,
+        "nickname": "蜜雪冰城",
+        "avatar": "https://avatar.dmzj.com/fd/35/fd35e402538d8775dedce27a03effa4d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

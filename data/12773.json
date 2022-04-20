@@ -1,0 +1,91 @@
+{
+  "id": 12773,
+  "islong": 2,
+  "direction": 1,
+  "title": "Candy Trap",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/candytrap.jpg",
+  "description": "每个女人在爱上另一个女人之前都误以为自己是异性恋。",
+  "last_updatetime": 1379823332,
+  "last_update_chapter_name": "全一话",
+  "copyright": 3,
+  "first_letter": "c",
+  "comic_py": "candytrap",
+  "hidden": 0,
+  "hot_num": 228172,
+  "hit_num": 383037,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24260,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5286,
+      "tag_name": "ちさこ"
+    }
+  ],
+  "subscribe_num": 1074,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24260,
+          "chapter_title": "1话",
+          "updatetime": 1379823332,
+          "filesize": 2098706,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 43,
+    "latest_comment": [
+      {
+        "comment_id": 27062845,
+        "uid": 104856390,
+        "content": "百合30",
+        "createtime": 1588490195,
+        "nickname": "楼兰",
+        "avatar": "https://avatar.dmzj.com/ab/2d/ab2deb88536759a621fee5274a94e6be.png"
+      },
+      {
+        "comment_id": 23532318,
+        "uid": 102469187,
+        "content": "xswl",
+        "createtime": 1580065258,
+        "nickname": "在下亦小生poi~",
+        "avatar": "https://avatar.dmzj.com/15/63/15639774775d4cc3e0457978d9135c19.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

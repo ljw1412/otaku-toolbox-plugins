@@ -1,0 +1,98 @@
+{
+  "id": 1451,
+  "islong": 2,
+  "direction": 1,
+  "title": "偶像大师Splash-Red-for-DS",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/20091202_749bdd02cbafbad61c4b0twwzJtq0c7f.jpg",
+  "description": "坂野吉梨",
+  "last_updatetime": 1259732100,
+  "last_update_chapter_name": "CH02",
+  "copyright": 3,
+  "first_letter": "o",
+  "comic_py": "oxdssplash-red-for-d",
+  "hidden": 0,
+  "hot_num": 83659,
+  "hit_num": 233420,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 2622,
+  "authors": [
+    {
+      "tag_id": 410,
+      "tag_name": "坂野杏梨"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    },
+    {
+      "tag_id": 3326,
+      "tag_name": "音乐舞蹈"
+    }
+  ],
+  "subscribe_num": 447,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 2622,
+          "chapter_title": "2话",
+          "updatetime": 1259732100,
+          "filesize": 2814914,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 2621,
+          "chapter_title": "1话",
+          "updatetime": 1259732100,
+          "filesize": 2673166,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 25626831,
+        "uid": 107335997,
+        "content": "十一年真快啊……",
+        "createtime": 1585028183,
+        "nickname": "云海末",
+        "avatar": "https://avatar.dmzj.com/b2/0d/b20d5906beac6c745eff6b243d3b9b74.png"
+      },
+      {
+        "comment_id": 25373010,
+        "uid": 108812794,
+        "content": "十一年就这么过去了……",
+        "createtime": 1584452630,
+        "nickname": "澤野秀则あ",
+        "avatar": "https://avatar.dmzj.com/34/08/34080ff33df7fccab3bea26311c125f0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

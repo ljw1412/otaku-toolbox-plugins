@@ -1,0 +1,93 @@
+{
+  "id": 18281,
+  "islong": 2,
+  "direction": 2,
+  "title": "熊猫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1001303621429582962.jpg",
+  "description": "风行漫画工作室短篇作品《熊猫》\n创作于2008年，刊于《科幻世界画刊》\n火爆的熊猫家庭，各种重型武器齐上阵只为解决夫妻小矛盾。熊猫小朋友机智搞定偷猎人。",
+  "last_updatetime": 1429583504,
+  "last_update_chapter_name": "全1话",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiongmao",
+  "hidden": 0,
+  "hot_num": 6192,
+  "hit_num": 111898,
+  "uid": 100130362,
+  "is_lock": 0,
+  "last_update_chapter_id": 37962,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9110,
+      "tag_name": "风行漫画工作室"
+    }
+  ],
+  "subscribe_num": 25,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37962,
+          "chapter_title": "1话",
+          "updatetime": 1429583505,
+          "filesize": 1544513,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 382612,
+        "uid": 100020967,
+        "content": "/b巴掌这样的熊猫保护个P啊",
+        "createtime": 1429623435,
+        "nickname": "枫牙鬼月",
+        "avatar": "https://avatar.dmzj.com/31/38/313851d75f600cf144258a56a0673668.png"
+      },
+      {
+        "comment_id": 382363,
+        "uid": 15300104,
+        "content": "深井冰啊！",
+        "createtime": 1429585777,
+        "nickname": "磨齿机峨眉号",
+        "avatar": "https://avatar.dmzj.com/ef/43/ef438aefe0811b6e1067d970d39ddce0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

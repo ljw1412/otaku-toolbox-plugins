@@ -1,0 +1,125 @@
+{
+  "id": 12957,
+  "islong": 2,
+  "direction": 2,
+  "title": "钢铁侠v3",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/zwbsgtx.jpg",
+  "description": "钢铁侠V3-026~30（Sentient Armor事件）",
+  "last_updatetime": 1519618002,
+  "last_update_chapter_name": "第29卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zwbsgtx",
+  "hidden": 0,
+  "hot_num": 4264909,
+  "hit_num": 388639,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 74095,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 19596,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50666,
+          "chapter_title": "39卷",
+          "updatetime": 1455763983,
+          "filesize": 4546218,
+          "chapter_order": 390
+        },
+        {
+          "chapter_id": 46268,
+          "chapter_title": "38卷",
+          "updatetime": 1445236915,
+          "filesize": 2936242,
+          "chapter_order": 380
+        },
+        {
+          "chapter_id": 44510,
+          "chapter_title": "37卷",
+          "updatetime": 1440146268,
+          "filesize": 4583171,
+          "chapter_order": 370
+        },
+        {
+          "chapter_id": 74095,
+          "chapter_title": "29卷",
+          "updatetime": 1519618002,
+          "filesize": 3669093,
+          "chapter_order": 272
+        },
+        {
+          "chapter_id": 73374,
+          "chapter_title": "28卷",
+          "updatetime": 1517490293,
+          "filesize": 3968755,
+          "chapter_order": 271
+        },
+        {
+          "chapter_id": 71873,
+          "chapter_title": "27卷",
+          "updatetime": 1513610777,
+          "filesize": 5729025,
+          "chapter_order": 270
+        },
+        {
+          "chapter_id": 26825,
+          "chapter_title": "26卷",
+          "updatetime": 1381687907,
+          "filesize": 3828892,
+          "chapter_order": 260
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1350017,
+        "uid": 101239959,
+        "content": "这个还在更新吗QAQ",
+        "createtime": 1475802291,
+        "nickname": "Jenny_某凌",
+        "avatar": "https://avatar.dmzj.com/22/06/2206fb5d104abef42082ee0c7357626c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

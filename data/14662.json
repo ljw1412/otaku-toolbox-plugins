@@ -1,0 +1,140 @@
+{
+  "id": 14662,
+  "islong": 2,
+  "direction": 2,
+  "title": "死侍v1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/sishiv1.jpg",
+  "description": "漫威漫画(Marvel)旗下的著名漫画《X战警》[1]的衍生系列的角色之一，在X战警中数度出场。本名韦[2]德威尔逊，原本是一个身经百战的特种兵，后来得了癌症，为了治愈癌症和获得金刚狼的基因而加入“Weapon X”(X武器)计划得以延续生命。成为死侍后容貌被毁。后因灭霸的诅咒而成为不死之躯，暗恋着“死亡女神”。使得一手双刀，双枪，拥有比金刚狼还强的自愈能力。",
+  "last_updatetime": 1582034307,
+  "last_update_chapter_name": "年刊-死侍与死亡",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sishiv1",
+  "hidden": 0,
+  "hot_num": 1409262,
+  "hit_num": 3377034,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 97502,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 11861,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 97502,
+          "chapter_title": "年刊-死侍与死亡",
+          "updatetime": 1582034307,
+          "filesize": 7173698,
+          "chapter_order": 380
+        },
+        {
+          "chapter_id": 39013,
+          "chapter_title": "37卷",
+          "updatetime": 1426053059,
+          "filesize": 6370384,
+          "chapter_order": 370
+        },
+        {
+          "chapter_id": 65623,
+          "chapter_title": "11卷",
+          "updatetime": 1496124374,
+          "filesize": 8079025,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 38913,
+          "chapter_title": "5卷",
+          "updatetime": 1425798564,
+          "filesize": 3292973,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 38914,
+          "chapter_title": "4卷",
+          "updatetime": 1425798577,
+          "filesize": 2713398,
+          "chapter_order": 35
+        },
+        {
+          "chapter_id": 30545,
+          "chapter_title": "3卷",
+          "updatetime": 1401420118,
+          "filesize": 2728722,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 30544,
+          "chapter_title": "2卷",
+          "updatetime": 1401420097,
+          "filesize": 2685309,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 30543,
+          "chapter_title": "1卷",
+          "updatetime": 1401419252,
+          "filesize": 4810163,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 68,
+    "latest_comment": [
+      {
+        "comment_id": 25659888,
+        "uid": 107737786,
+        "content": "为什么章节不全",
+        "createtime": 1585101285,
+        "nickname": "秋明拓海",
+        "avatar": "https://avatar.dmzj.com/26/01/2601a4017548fca2f2692ceb93a65047.png"
+      },
+      {
+        "comment_id": 24815144,
+        "uid": 110497198,
+        "content": "这翻译说的吐槽内容，根本不是原文说的吧",
+        "createtime": 1583235335,
+        "nickname": "dmzj_110497198",
+        "avatar": "https://avatar.dmzj.com/0a/29/0a29e39da2fc005f1af871542bd1667e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

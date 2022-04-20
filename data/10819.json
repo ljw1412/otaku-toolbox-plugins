@@ -1,0 +1,108 @@
+{
+  "id": 10819,
+  "islong": 2,
+  "direction": 1,
+  "title": "少女幻葬",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/shaonvhuanzangdf.jpg",
+  "description": "东方同人漫画作品",
+  "last_updatetime": 1370333812,
+  "last_update_chapter_name": "Extra",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shaonvhuanzangdf",
+  "hidden": 1,
+  "hot_num": 161084,
+  "hit_num": 4156957,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22247,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5330,
+      "tag_name": "宫本龙一"
+    }
+  ],
+  "subscribe_num": 1302,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22247,
+          "chapter_title": "Extra",
+          "updatetime": 1370333812,
+          "filesize": 12503789,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 21172,
+          "chapter_title": "番外篇",
+          "updatetime": 1364974796,
+          "filesize": 694635,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 21169,
+          "chapter_title": "2话",
+          "updatetime": 1364974320,
+          "filesize": 12201476,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 21159,
+          "chapter_title": "1话",
+          "updatetime": 1364894316,
+          "filesize": 11370590,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 104,
+    "latest_comment": [
+      {
+        "comment_id": 27087981,
+        "uid": 110653290,
+        "content": "神作",
+        "createtime": 1588559769,
+        "nickname": "粉色节制",
+        "avatar": "https://avatar.dmzj.com/87/68/87689c7f1164be7f5f2aa885e60fd2f5.png"
+      },
+      {
+        "comment_id": 26190190,
+        "uid": 109393947,
+        "content": "慕名而来，插眼",
+        "createtime": 1586262226,
+        "nickname": "dmzj_109393947",
+        "avatar": "https://avatar.dmzj.com/d4/78/d4785eb457a9304a06e306ba8305e0f0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

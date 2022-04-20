@@ -1,0 +1,87 @@
+{
+  "id": 14341,
+  "islong": 2,
+  "direction": 2,
+  "title": "冰雪奇缘绘本",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/bingxueqiyuanhuiben.jpg",
+  "description": "大人气动画冰雪奇缘的绘本。",
+  "last_updatetime": 1397227995,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bxqyhuiben",
+  "hidden": 0,
+  "hot_num": 289886,
+  "hit_num": 546087,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 27839,
+  "authors": [
+    {
+      "tag_id": 103,
+      "tag_name": "佚名"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "subscribe_num": 1335,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27839,
+          "chapter_title": "1卷",
+          "updatetime": 1397227995,
+          "filesize": 1044904,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 36,
+    "latest_comment": [
+      {
+        "comment_id": 26727893,
+        "uid": 107408267,
+        "content": "“你告诉我，你爱我”\n\n啊啊啊啊啊啊我死了",
+        "createtime": 1587560680,
+        "nickname": "想吃凉皮的刘老爷子",
+        "avatar": "https://avatar.dmzj.com/54/20/5420d0686941ac9e136b2353a085b945.png"
+      },
+      {
+        "comment_id": 26727777,
+        "uid": 107408267,
+        "content": "今天也是为绝美姐妹情痛哭的一天qwq",
+        "createtime": 1587560479,
+        "nickname": "想吃凉皮的刘老爷子",
+        "avatar": "https://avatar.dmzj.com/54/20/5420d0686941ac9e136b2353a085b945.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

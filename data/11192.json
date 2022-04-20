@@ -1,0 +1,91 @@
+{
+  "id": 11192,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/moshaonv.jpg",
+  "description": "“想我刺痛你什么地方？”",
+  "last_updatetime": 1367820543,
+  "last_update_chapter_name": "全一话",
+  "copyright": 3,
+  "first_letter": "m",
+  "comic_py": "moshaonv",
+  "hidden": 0,
+  "hot_num": 61610,
+  "hit_num": 751201,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24131,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3849,
+      "tag_name": "さかもと麻乃"
+    }
+  ],
+  "subscribe_num": 239,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24131,
+          "chapter_title": "1话",
+          "updatetime": 1367820543,
+          "filesize": 3327258,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 15142329,
+        "uid": 107988502,
+        "content": "我怕了，不敢看",
+        "createtime": 1556612154,
+        "nickname": "纳克",
+        "avatar": "https://avatar.dmzj.com/63/82/638279c8d3d8ef6b0f6d68f5ed9b6655.png"
+      },
+      {
+        "comment_id": 11155457,
+        "uid": 106365757,
+        "content": "。。。",
+        "createtime": 1549762987,
+        "nickname": "夜游女子",
+        "avatar": "https://avatar.dmzj.com/12/91/1291d050989ba8c0dcde4b0234a00663.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

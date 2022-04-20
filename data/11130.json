@@ -1,0 +1,87 @@
+{
+  "id": 11130,
+  "islong": 2,
+  "direction": 1,
+  "title": "飞翔的深红恶魔",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/theflyingscarletdevilmansio.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1367424351,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "theflyingscarletdevilmansion",
+  "hidden": 0,
+  "hot_num": 139182,
+  "hit_num": 117267,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22808,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3384,
+      "tag_name": "东方同人"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 675,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22808,
+          "chapter_title": "1话",
+          "updatetime": 1367424351,
+          "filesize": 2123508,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 26423910,
+        "uid": 107219451,
+        "content": "贝尔蒙多草",
+        "createtime": 1586753343,
+        "nickname": "恩特普莱斯",
+        "avatar": "https://avatar.dmzj.com/b0/84/b08405f90a509e8884354dad0617e33f.png"
+      },
+      {
+        "comment_id": 24760898,
+        "uid": 105117467,
+        "content": "这是千寻的作品，站内已经有了!",
+        "createtime": 1583106816,
+        "nickname": "wumin",
+        "avatar": "https://avatar.dmzj.com/97/34/973440748f4e0e9d848d1cfe27a7c434.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

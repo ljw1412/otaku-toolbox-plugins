@@ -1,0 +1,122 @@
+{
+  "id": 14173,
+  "islong": 2,
+  "direction": 1,
+  "title": "测试用2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/183-243.jpg",
+  "description": "3232",
+  "last_updatetime": 1490239609,
+  "last_update_chapter_name": "测试o",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "test2",
+  "hidden": 1,
+  "hot_num": 4935,
+  "hit_num": 3779,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 27189,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 512,
+      "tag_name": "藤代健"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 21,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27189,
+          "chapter_title": "测试o",
+          "updatetime": 1490239610,
+          "filesize": 262582,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 27188,
+          "chapter_title": "测试k",
+          "updatetime": 1394681015,
+          "filesize": 75843,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 27187,
+          "chapter_title": "测试d",
+          "updatetime": 1394680972,
+          "filesize": 75843,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 27186,
+          "chapter_title": "测试用3",
+          "updatetime": 1394680914,
+          "filesize": 75843,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 27185,
+          "chapter_title": "测试用2",
+          "updatetime": 1394680871,
+          "filesize": 75843,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 27184,
+          "chapter_title": "测试用",
+          "updatetime": 1394680764,
+          "filesize": 75843,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 16399465,
+        "uid": 109203990,
+        "content": "测试用，不擅于和女孩子相处的少年, 展开新生活的途中,却遇上了百年一次 的个性长相都截然不同的美少女,身为男孩,他们之间会发生什么有趣的事呢？",
+        "createtime": 1558795402,
+        "nickname": "别回复我，会被封",
+        "avatar": "https://avatar.dmzj.com/69/59/6959c52bbe5967c4ad00f2b70a493a6a.png"
+      },
+      {
+        "comment_id": 11292293,
+        "uid": 102031813,
+        "content": "测试用，不擅于和女孩子相处的少年, 展开新生活的途中,却遇上了百年一次 的个性长相都截然不同的美少女,身为男孩,他们之间会发生什么有趣的事呢？",
+        "createtime": 1549984175,
+        "nickname": "李兰加洛德",
+        "avatar": "https://avatar.dmzj.com/45/53/45530e9cb0d65e3a5e5e0c19463a895e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

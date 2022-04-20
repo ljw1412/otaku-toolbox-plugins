@@ -1,0 +1,87 @@
+{
+  "id": 11186,
+  "islong": 2,
+  "direction": 1,
+  "title": "猜疑集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/caimiji.jpg",
+  "description": "手冢治虫大神的 短篇故事。",
+  "last_updatetime": 1367812504,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "caiyiji",
+  "hidden": 1,
+  "hot_num": 80198,
+  "hit_num": 515724,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21460,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 904,
+      "tag_name": "手冢治虫"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1040,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21460,
+          "chapter_title": "1卷",
+          "updatetime": 1367812504,
+          "filesize": 9811212,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 54,
+    "latest_comment": [
+      {
+        "comment_id": 26164260,
+        "uid": 101753563,
+        "content": "不错",
+        "createtime": 1586194066,
+        "nickname": "云中超人",
+        "avatar": "https://avatar.dmzj.com/92/02/9202c7a2886ae7640a340e2195198565.png"
+      },
+      {
+        "comment_id": 24419048,
+        "uid": 101692157,
+        "content": "手冢治虫",
+        "createtime": 1582379656,
+        "nickname": "flutterguy66576",
+        "avatar": "https://avatar.dmzj.com/cd/b1/cdb1c73b5c685219e5ec475a03a10c63.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

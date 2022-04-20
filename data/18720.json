@@ -1,0 +1,93 @@
+{
+  "id": 18720,
+  "islong": 1,
+  "direction": 2,
+  "title": "无厘头日常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1001655411431774885.jpg",
+  "description": "作者的日常，不定期更",
+  "last_updatetime": 1431775001,
+  "last_update_chapter_name": "【1】背影杀手",
+  "copyright": 1,
+  "first_letter": "w",
+  "comic_py": "wulitourichang",
+  "hidden": 0,
+  "hot_num": 2402,
+  "hit_num": 8693,
+  "uid": 100165541,
+  "is_lock": 0,
+  "last_update_chapter_id": 41165,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9327,
+      "tag_name": "珞什"
+    }
+  ],
+  "subscribe_num": 25,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41165,
+          "chapter_title": "【1】背影杀手",
+          "updatetime": 1431775001,
+          "filesize": 270214,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 1130130,
+        "uid": 101871282,
+        "content": "好棒好棒，大大要加油喔XD",
+        "createtime": 1470638461,
+        "nickname": "爰叁",
+        "avatar": "https://avatar.dmzj.com/41/22/41221482bfbadfd3238ff0002e18f665.png"
+      },
+      {
+        "comment_id": 398760,
+        "uid": 100165541,
+        "content": "回复 @銀行保安員:谢谢",
+        "createtime": 1432301951,
+        "nickname": "珞什",
+        "avatar": "https://avatar.dmzj.com/81/74/8174acf20260f4d93e46aeb2ca3330d4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

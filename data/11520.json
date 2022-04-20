@@ -1,0 +1,87 @@
+{
+  "id": 11520,
+  "islong": 2,
+  "direction": 1,
+  "title": "与卿共相约",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/yqgxy.jpg",
+  "description": "与卿共相约，东方同人本。",
+  "last_updatetime": 1370251139,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yqgxy",
+  "hidden": 0,
+  "hot_num": 14841,
+  "hit_num": 197236,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23466,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6024,
+      "tag_name": "あたる"
+    }
+  ],
+  "subscribe_num": 75,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23466,
+          "chapter_title": "1话",
+          "updatetime": 1370251139,
+          "filesize": 6012072,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 5735047,
+        "uid": 100077276,
+        "content": "记者组？",
+        "createtime": 1532091318,
+        "nickname": "神一样的笨蛋",
+        "avatar": "https://avatar.dmzj.com/1e/2d/1e2d5c5a151712e106b0511dc741e4d6.png"
+      },
+      {
+        "comment_id": 199089,
+        "uid": 25103042,
+        "content": "百合无限好",
+        "createtime": 1390731416,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

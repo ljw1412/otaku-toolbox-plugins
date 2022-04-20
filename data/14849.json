@@ -1,0 +1,91 @@
+{
+  "id": 14849,
+  "islong": 2,
+  "direction": 2,
+  "title": "Assassin's Creed",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/0Front24826.JPG",
+  "description": "《刺客信条》的短篇故事，是呆子萌和二泰姬的时空交错【亲妈拉郎】故事。\n",
+  "last_updatetime": 1403937489,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "assassinscreed",
+  "hidden": 0,
+  "hot_num": 268685,
+  "hit_num": 124153,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 28764,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7475,
+      "tag_name": "UBISOFT"
+    }
+  ],
+  "subscribe_num": 1303,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 28764,
+          "chapter_title": "1卷",
+          "updatetime": 1403937489,
+          "filesize": 1306149,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 1106619,
+        "uid": 101809507,
+        "content": "这是一个短篇集，我说明一下，这应该是在刺客信条锁链后面的",
+        "createtime": 1470248898,
+        "nickname": "高曲",
+        "avatar": "https://avatar.dmzj.com/6b/c8/6bc84a8357d5c81ca52e92943f166e0b.png"
+      },
+      {
+        "comment_id": 660371,
+        "uid": 100955414,
+        "content": "不错想继续看",
+        "createtime": 1457352290,
+        "nickname": "_Alex · Li_",
+        "avatar": "https://avatar.dmzj.com/61/66/616602c1a642df8015ab69b206bce7f5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

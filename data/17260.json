@@ -1,0 +1,101 @@
+{
+  "id": 17260,
+  "islong": 2,
+  "direction": 1,
+  "title": "银白色奏鸣曲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/yinsezhoumingqu.jpg",
+  "description": "花样滑冰少年命运的相遇之后会产生怎样的火花呢……",
+  "last_updatetime": 1440382460,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yinsezoumingqu",
+  "hidden": 0,
+  "hot_num": 105036,
+  "hit_num": 855397,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 44692,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4322,
+      "tag_name": "森田富士"
+    }
+  ],
+  "subscribe_num": 989,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44692,
+          "chapter_title": "3话",
+          "updatetime": 1440382460,
+          "filesize": 5027450,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 44593,
+          "chapter_title": "2话",
+          "updatetime": 1440136949,
+          "filesize": 4812104,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 38634,
+          "chapter_title": "1话",
+          "updatetime": 1425291343,
+          "filesize": 5464226,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 24709733,
+        "uid": 110292609,
+        "content": "喔",
+        "createtime": 1583001223,
+        "nickname": "07Shintaro",
+        "avatar": "https://avatar.dmzj.com/70/00/7000751858fe1ab8c6748a52c3556530.png"
+      },
+      {
+        "comment_id": 21954014,
+        "uid": 106361988,
+        "content": "很不错呀！",
+        "createtime": 1573029209,
+        "nickname": "言说",
+        "avatar": "https://avatar.dmzj.com/9d/44/9d446bcd5c6afcad4b2a51b28ef3486a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

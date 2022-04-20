@@ -1,0 +1,87 @@
+{
+  "id": 11371,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方青帖·琴之线",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/dongfangqingtieqinzhixian.jpg",
+  "description": "东方同人本，东方青帖系列。",
+  "last_updatetime": 1369123588,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongfangqingtieqinzhixian",
+  "hidden": 0,
+  "hot_num": 360764,
+  "hit_num": 166579,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21771,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5114,
+      "tag_name": "ヨハネ"
+    }
+  ],
+  "subscribe_num": 1615,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21771,
+          "chapter_title": "1话",
+          "updatetime": 1369123588,
+          "filesize": 3095445,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 23385909,
+        "uid": 107834590,
+        "content": "好看",
+        "createtime": 1579467596,
+        "nickname": "冰芽川四糸乃",
+        "avatar": "https://avatar.dmzj.com/55/50/555085298943fe5b331ecc661bf48a2a.png"
+      },
+      {
+        "comment_id": 7758582,
+        "uid": 104609675,
+        "content": "一次卖两对cp，快被甜死了",
+        "createtime": 1540975134,
+        "nickname": "鳕鱼贩子",
+        "avatar": "https://avatar.dmzj.com/57/18/5718cdebc18c03d754ae9ca812c2fb63.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

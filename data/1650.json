@@ -1,0 +1,87 @@
+{
+  "id": 1650,
+  "islong": 2,
+  "direction": 2,
+  "title": "光晕：崛起",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/guangyunV2.jpg",
+  "description": "光晕：崛起",
+  "last_updatetime": 1265113189,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "guangyun",
+  "hidden": 0,
+  "hot_num": 3400350,
+  "hit_num": 849342,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 3794,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 19258,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 3794,
+          "chapter_title": "1话",
+          "updatetime": 1265113189,
+          "filesize": 3433401,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 23110562,
+        "uid": 107027526,
+        "content": "zsbd",
+        "createtime": 1578323910,
+        "nickname": "dmzj_107027526",
+        "avatar": "https://avatar.dmzj.com/67/e8/67e831eb4ecc933881a5c813d01206a1.png"
+      },
+      {
+        "comment_id": 22164160,
+        "uid": 107348797,
+        "content": "终于找到了",
+        "createtime": 1573997655,
+        "nickname": "独自一人在？",
+        "avatar": "https://avatar.dmzj.com/93/06/9306429d0311c1dd8bf9940a0787a58c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

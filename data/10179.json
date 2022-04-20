@@ -1,0 +1,94 @@
+{
+  "id": 10179,
+  "islong": 2,
+  "direction": 1,
+  "title": "Farmer Mardi",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/farmer_mardi.jpg",
+  "description": "鲜血在眼前喷散，少女与手持长斧的男人相遇，于是物语开始了。",
+  "last_updatetime": 1359306817,
+  "last_update_chapter_name": "后篇",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "farmer_mardi",
+  "hidden": 0,
+  "hot_num": 36994,
+  "hit_num": 490537,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20329,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4101,
+      "tag_name": "桐野壱"
+    }
+  ],
+  "subscribe_num": 154,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20329,
+          "chapter_title": "2话",
+          "updatetime": 1359306817,
+          "filesize": 4165736,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 20293,
+          "chapter_title": "1话",
+          "updatetime": 1359128545,
+          "filesize": 4312662,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 26307569,
+        "uid": 109389518,
+        "content": "挨斯托玛是什么身份呀",
+        "createtime": 1586510669,
+        "nickname": "dmzj_109389518",
+        "avatar": "https://avatar.dmzj.com/4d/de/4dde1192cef95d0088130e539b277d60.png"
+      },
+      {
+        "comment_id": 99382,
+        "uid": 16853933,
+        "content": "怪大叔和萝莉。。",
+        "createtime": 1359131120,
+        "nickname": "首席执行长大大大王",
+        "avatar": "https://avatar.dmzj.com/76/1e/761e1714b5acf5423e082473855ea13f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

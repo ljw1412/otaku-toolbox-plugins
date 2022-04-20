@@ -1,0 +1,94 @@
+{
+  "id": 18329,
+  "islong": 2,
+  "direction": 1,
+  "title": "镜花水月.",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/jhsy9456l.jpg",
+  "description": "略微有病的故事……",
+  "last_updatetime": 1557800273,
+  "last_update_chapter_name": "重置版",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jinghuashuiyue",
+  "hidden": 0,
+  "hot_num": 792588,
+  "hit_num": 268750,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 84870,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7833,
+      "tag_name": " みもと(mimoto)"
+    }
+  ],
+  "subscribe_num": 4111,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 84870,
+          "chapter_title": "重置版",
+          "updatetime": 1557800273,
+          "filesize": 4829098,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 36590,
+          "chapter_title": "1话",
+          "updatetime": 1429854138,
+          "filesize": 3330724,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 119,
+    "latest_comment": [
+      {
+        "comment_id": 26866936,
+        "uid": 101837943,
+        "content": "？\n这有什么内涵有大佬解释一下？\n还只是单纯的故作玄虚？",
+        "createtime": 1587915405,
+        "nickname": "帅神起飞",
+        "avatar": "https://avatar.dmzj.com/99/09/990901e506915f737f001d2d939c46ab.png"
+      },
+      {
+        "comment_id": 26270534,
+        "uid": 107599627,
+        "content": "很厉害的样子",
+        "createtime": 1586436314,
+        "nickname": "dmzj_107599627",
+        "avatar": "https://avatar.dmzj.com/f4/12/f412a081278504b001d1d5866a1dee9f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,101 @@
+{
+  "id": 16009,
+  "islong": 2,
+  "direction": 1,
+  "title": "家有汪酱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/jiayouwangjiang.jpg",
+  "description": "人不如狗系列",
+  "last_updatetime": 1415109837,
+  "last_update_chapter_name": "最终话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jiayouwangjiang",
+  "hidden": 0,
+  "hot_num": 8569,
+  "hit_num": 85883,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 31983,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7970,
+      "tag_name": "さかもとあおい"
+    }
+  ],
+  "subscribe_num": 37,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31983,
+          "chapter_title": "5话",
+          "updatetime": 1415109837,
+          "filesize": 1117414,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 31982,
+          "chapter_title": "3话",
+          "updatetime": 1415109821,
+          "filesize": 1176958,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 31981,
+          "chapter_title": "1话",
+          "updatetime": 1415109805,
+          "filesize": 3227076,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 315493,
+        "uid": 7337312,
+        "content": "为了卖萌而卖萌，各种优柔造作。",
+        "createtime": 1415190566,
+        "nickname": "predatord",
+        "avatar": "https://avatar.dmzj.com/3d/dc/3ddc76dc0f888a8af10e1377a43df988.png"
+      },
+      {
+        "comment_id": 315249,
+        "uid": 18728750,
+        "content": "第一眼想到：家有汪峰",
+        "createtime": 1415153373,
+        "nickname": "命运君",
+        "avatar": "https://avatar.dmzj.com/9e/3c/9e3c94ff27e2b3e7ab9b492d93fa7c39.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

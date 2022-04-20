@@ -1,0 +1,87 @@
+{
+  "id": 16861,
+  "islong": 2,
+  "direction": 1,
+  "title": "十六岁症候群",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/zhq122002.jpg",
+  "description": "从小开始就是比谁都重要的存在",
+  "last_updatetime": 1421934973,
+  "last_update_chapter_name": "番外篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "slszhq",
+  "hidden": 0,
+  "hot_num": 57468,
+  "hit_num": 214451,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 35001,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4877,
+      "tag_name": "小夏"
+    }
+  ],
+  "subscribe_num": 313,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 35001,
+          "chapter_title": "番外篇",
+          "updatetime": 1421934973,
+          "filesize": 5481771,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 16388281,
+        "uid": 100967111,
+        "content": "心理上是很难过去的啊",
+        "createtime": 1558775964,
+        "nickname": "楚师兄",
+        "avatar": "https://avatar.dmzj.com/30/00/3000caf1a2d1fad8b97cc37dea7ae31e.png"
+      },
+      {
+        "comment_id": 9181907,
+        "uid": 100811489,
+        "content": "这个漫画的正片在哪看？",
+        "createtime": 1545149866,
+        "nickname": "卖蜂蜜的小女孩",
+        "avatar": "https://avatar.dmzj.com/93/50/9350e077bfbf46c44b143a5c63801668.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

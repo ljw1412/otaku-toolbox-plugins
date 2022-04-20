@@ -1,0 +1,91 @@
+{
+  "id": 12323,
+  "islong": 2,
+  "direction": 1,
+  "title": "菜花庄",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/caihuazhuang.jpg",
+  "description": "这是BD的附送漫画。是《樱花庄的宠物女孩》第六卷中真白所画的那个短篇\n——实际上并不是\n不论如何，樱花庄完结了，这是一份留念和不舍",
+  "last_updatetime": 1375511022,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "caihuazhuang",
+  "hidden": 0,
+  "hot_num": 2251994,
+  "hit_num": 1918667,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23345,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6428,
+      "tag_name": "鸭志田一"
+    },
+    {
+      "tag_id": 6429,
+      "tag_name": "椎名真白"
+    }
+  ],
+  "subscribe_num": 11188,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23345,
+          "chapter_title": "短篇",
+          "updatetime": 1375511022,
+          "filesize": 5187446,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 519,
+    "latest_comment": [
+      {
+        "comment_id": 27096244,
+        "uid": 104601941,
+        "content": "翻转的世界",
+        "createtime": 1588585081,
+        "nickname": "陌薛",
+        "avatar": "https://avatar.dmzj.com/93/65/9365da9e75537691752826a2aae330a8.png"
+      },
+      {
+        "comment_id": 27030895,
+        "uid": 110330952,
+        "content": "长夜将至，我从今开始守望，至死方休。我将不娶妻、不封地、不生子。我将不戴宝冠，不争荣宠。我将尽忠职守，生死于斯。我是黑暗中的利剑，长城上的守卫，抵御寒冷的烈焰，破晓时分的光线，唤醒眠者的号角，守护王国的坚盾。我将生命与荣耀献给守夜人，今夜如此，夜夜皆然。\n所以，\n这眼应该很牢靠",
+        "createtime": 1588402328,
+        "nickname": "时夜之叶",
+        "avatar": "https://avatar.dmzj.com/36/01/36016483c76ae076f90cab59679d6807.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

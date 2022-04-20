@@ -1,0 +1,91 @@
+{
+  "id": 13475,
+  "islong": 2,
+  "direction": 1,
+  "title": "LOST MAN",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/lostman.jpg",
+  "description": "不可思议国度发生的“爱”与“悲伤”的故事……",
+  "last_updatetime": 1387216910,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lostmanzy",
+  "hidden": 0,
+  "hot_num": 13907,
+  "hit_num": 195648,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 26876,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6927,
+      "tag_name": "久慈进之介"
+    }
+  ],
+  "subscribe_num": 78,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26876,
+          "chapter_title": "1话",
+          "updatetime": 1387216910,
+          "filesize": 3073523,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 28,
+    "latest_comment": [
+      {
+        "comment_id": 862114,
+        "uid": 100774760,
+        "content": "有点难过",
+        "createtime": 1464799178,
+        "nickname": "强い人より优しい人に",
+        "avatar": "https://avatar.dmzj.com/86/67/86673784613fd74e6247b34cd8bfce78.png"
+      },
+      {
+        "comment_id": 292085,
+        "uid": 24971357,
+        "content": "很棒的作品，但居然中了千叶弥彻奖，感觉还不至于吧……",
+        "createtime": 1411204761,
+        "nickname": "哥特式的苍白",
+        "avatar": "https://avatar.dmzj.com/58/55/5855a2f7cb2b333c23bb0ed107a19a4f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

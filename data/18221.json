@@ -1,0 +1,95 @@
+{
+  "id": 18221,
+  "islong": 2,
+  "direction": 1,
+  "title": "Virgiity",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/Virgiity.jpg",
+  "description": "LETRA touhou fanbook#10 魔理沙与幽香 不要在意漫画的颜色……",
+  "last_updatetime": 1429363462,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "v",
+  "comic_py": "virgiity",
+  "hidden": 0,
+  "hot_num": 76710,
+  "hit_num": 123740,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 37878,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4904,
+      "tag_name": "滝太郎"
+    },
+    {
+      "tag_id": 6157,
+      "tag_name": "LETRA"
+    }
+  ],
+  "subscribe_num": 349,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37878,
+          "chapter_title": "1话",
+          "updatetime": 1429363462,
+          "filesize": 4921711,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 27016780,
+        "uid": 109944736,
+        "content": "魔理沙用花妈炮，凶残",
+        "createtime": 1588350873,
+        "nickname": "得九",
+        "avatar": "https://avatar.dmzj.com/60/88/6088adfe09d6123567c66b64cced2a91.png"
+      },
+      {
+        "comment_id": 26195044,
+        "uid": 100053608,
+        "content": "是06年的古物了啊……令人惊叹",
+        "createtime": 1586268718,
+        "nickname": "步书",
+        "avatar": "https://avatar.dmzj.com/54/82/5482c00ea90f8c2f6ad99e9ab9bb9953.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

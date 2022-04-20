@@ -1,0 +1,87 @@
+{
+  "id": 15197,
+  "islong": 2,
+  "direction": 1,
+  "title": "秘密·新闻",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/mimixinwen.jpg",
+  "description": "如果喜欢的人是工作狂，真的很为难呢。",
+  "last_updatetime": 1407121541,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mimixinwen",
+  "hidden": 0,
+  "hot_num": 58930,
+  "hit_num": 72997,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 31855,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7591,
+      "tag_name": "ミキマキ"
+    }
+  ],
+  "subscribe_num": 288,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31855,
+          "chapter_title": "1话",
+          "updatetime": 1407121541,
+          "filesize": 1111516,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 22450199,
+        "uid": 109897393,
+        "content": "超级甜，但是校长和雕塑是怎么回事hhhhh",
+        "createtime": 1575388779,
+        "nickname": "火星不响",
+        "avatar": "https://avatar.dmzj.com/20/18/20186c1a4e92193fd4e20e806f3a201f.png"
+      },
+      {
+        "comment_id": 16239612,
+        "uid": 107564137,
+        "content": "狗粮，给我.jpg",
+        "createtime": 1558473166,
+        "nickname": "狮子尾的流星划过五月",
+        "avatar": "https://avatar.dmzj.com/52/20/5220689b6b9bf2d93c9f3dd894faedf8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

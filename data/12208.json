@@ -1,0 +1,91 @@
+{
+  "id": 12208,
+  "islong": 2,
+  "direction": 1,
+  "title": "テトラディオン",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/lianghesaki.jpg",
+  "description": "就是想轻轻说，喜欢你，百合赛高",
+  "last_updatetime": 1374739200,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tetorade",
+  "hidden": 0,
+  "hot_num": 35046,
+  "hit_num": 470502,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23199,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6376,
+      "tag_name": "新和涼"
+    }
+  ],
+  "subscribe_num": 171,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23199,
+          "chapter_title": "1话",
+          "updatetime": 1374739200,
+          "filesize": 2648612,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 16089962,
+        "uid": 102171187,
+        "content": "不容易啊",
+        "createtime": 1558200097,
+        "nickname": "柳树下的赤蛮奇",
+        "avatar": "https://avatar.dmzj.com/92/35/923591e96d4b7023abb027a3536dc500.png"
+      },
+      {
+        "comment_id": 245670,
+        "uid": 13506847,
+        "content": "多谢提醒",
+        "createtime": 1401947293,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

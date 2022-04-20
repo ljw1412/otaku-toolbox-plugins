@@ -1,0 +1,87 @@
+{
+  "id": 10213,
+  "islong": 2,
+  "direction": 1,
+  "title": "最后的夜里",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/zuihoudeyeli.jpg",
+  "description": "我的生命突然就结束了，即使如此还是想跟你在一起·····",
+  "last_updatetime": 1359377554,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zuihoudeyeli",
+  "hidden": 0,
+  "hot_num": 200356,
+  "hit_num": 2046968,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20506,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1386,
+      "tag_name": "车谷晴子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1121,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20506,
+          "chapter_title": "1话",
+          "updatetime": 1359377554,
+          "filesize": 4660510,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 37,
+    "latest_comment": [
+      {
+        "comment_id": 25640102,
+        "uid": 108577413,
+        "content": "自留了",
+        "createtime": 1585057970,
+        "nickname": "冠希不冠希",
+        "avatar": "https://avatar.dmzj.com/81/91/8191bd196f69cf086e868764776c43b0.png"
+      },
+      {
+        "comment_id": 25372734,
+        "uid": 100378600,
+        "content": "是怎么得到领养的结论啊？！话说这作者题材真是丰富，啥都画",
+        "createtime": 1584452304,
+        "nickname": "夏铃娜娜",
+        "avatar": "https://avatar.dmzj.com/db/bc/dbbcc208be3b1578f29f3fe63989e5ef.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

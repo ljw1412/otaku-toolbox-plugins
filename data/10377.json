@@ -1,0 +1,87 @@
+{
+  "id": 10377,
+  "islong": 2,
+  "direction": 1,
+  "title": "天才慧音老师教室",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/huiyinlaoshijiaoshi.jpg",
+  "description": "天才慧音老师教室，讲述慧音的萌故事",
+  "last_updatetime": 1360949188,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tinacaihuiyin",
+  "hidden": 0,
+  "hot_num": 47392,
+  "hit_num": 440010,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22806,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5526,
+      "tag_name": "地上屋"
+    }
+  ],
+  "subscribe_num": 248,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22806,
+          "chapter_title": "1话",
+          "updatetime": 1360949188,
+          "filesize": 5000752,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 25513963,
+        "uid": 106117482,
+        "content": "天才（噗）慧音老师",
+        "createtime": 1584757656,
+        "nickname": "芳轻萩",
+        "avatar": "https://avatar.dmzj.com/37/50/3750614eed0af9100c213c8f991690b4.png"
+      },
+      {
+        "comment_id": 2049298,
+        "uid": 100504650,
+        "content": "BB机",
+        "createtime": 1492162936,
+        "nickname": "矢泽越",
+        "avatar": "https://avatar.dmzj.com/b0/11/b011a7f8fab3e088ce7722545dfc5f43.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

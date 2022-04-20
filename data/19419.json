@@ -1,0 +1,93 @@
+{
+  "id": 19419,
+  "islong": 2,
+  "direction": 2,
+  "title": "暴力的小丑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871435228079.jpg",
+  "description": "独舞...",
+  "last_updatetime": 1435228269,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "b",
+  "comic_py": "baolidexiaochou",
+  "hidden": 0,
+  "hot_num": 17441,
+  "hit_num": 2146093,
+  "uid": 100205887,
+  "is_lock": 0,
+  "last_update_chapter_id": 38417,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 98,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38417,
+          "chapter_title": "1话",
+          "updatetime": 1435228269,
+          "filesize": 15027200,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 24915257,
+        "uid": 108524790,
+        "content": "不明觉厉",
+        "createtime": 1583419564,
+        "nickname": "dmzj_108524790",
+        "avatar": "https://avatar.dmzj.com/85/80/8580cdca052569edab568e98b8442a50.png"
+      },
+      {
+        "comment_id": 23181398,
+        "uid": 106939215,
+        "content": "看来要去隔壁抓个文科大佬过来辅助我理解",
+        "createtime": 1578597215,
+        "nickname": "黑色骷髅先生",
+        "avatar": "https://avatar.dmzj.com/04/38/04384944e3de3b2d6a0752434e64b4c8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,101 @@
+{
+  "id": 10258,
+  "islong": 2,
+  "direction": 1,
+  "title": "无根之花",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/wugenzhihua.jpg",
+  "description": "落雨系列第二弹",
+  "last_updatetime": 1377580192,
+  "last_update_chapter_name": "后篇",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wugenzhihua",
+  "hidden": 1,
+  "hot_num": 65487,
+  "hit_num": 743413,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23747,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5342,
+      "tag_name": "秀良子"
+    }
+  ],
+  "subscribe_num": 593,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23747,
+          "chapter_title": "3话",
+          "updatetime": 1377580192,
+          "filesize": 2939512,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 22512,
+          "chapter_title": "2话",
+          "updatetime": 1370771174,
+          "filesize": 3174271,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 20577,
+          "chapter_title": "1话",
+          "updatetime": 1360039120,
+          "filesize": 2442070,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 11230637,
+        "uid": 106473241,
+        "content": "找到了",
+        "createtime": 1549882214,
+        "nickname": "群青之底",
+        "avatar": "https://avatar.dmzj.com/71/29/7129ccdd12f3d1b25b9f55682a19b7dd.png"
+      },
+      {
+        "comment_id": 1141874,
+        "uid": 101765432,
+        "content": "有趣的小故事。有宗教神话，传统技艺的点缀，更有味道了。",
+        "createtime": 1470829603,
+        "nickname": "CieyaVivian",
+        "avatar": "https://avatar.dmzj.com/81/2e/812ea9454b6f1f8a6498454abc505c8d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

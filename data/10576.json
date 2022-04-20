@@ -1,0 +1,87 @@
+{
+  "id": 10576,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方美食猎人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/meishilieren.jpg",
+  "description": "东方同人，好吃的东方美食猎人",
+  "last_updatetime": 1362883045,
+  "last_update_chapter_name": "全一話",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dfmslr",
+  "hidden": 1,
+  "hot_num": 34175,
+  "hit_num": 749852,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20544,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5626,
+      "tag_name": "さやかた红茶馆"
+    }
+  ],
+  "subscribe_num": 224,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20544,
+          "chapter_title": "1话",
+          "updatetime": 1362883045,
+          "filesize": 4508544,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 23684815,
+        "uid": 106911933,
+        "content": "e",
+        "createtime": 1580559744,
+        "nickname": "非石传说",
+        "avatar": "https://avatar.dmzj.com/49/31/4931d2a1002f3444a735a20daba495be.png"
+      },
+      {
+        "comment_id": 17399833,
+        "uid": 106415629,
+        "content": "作者哈哈哈",
+        "createtime": 1561205132,
+        "nickname": "宇佐见-堇子",
+        "avatar": "https://avatar.dmzj.com/57/28/572813e57fb7709b3ae0138577097ba5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

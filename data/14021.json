@@ -1,0 +1,168 @@
+{
+  "id": 14021,
+  "islong": 2,
+  "direction": 2,
+  "title": "新勇士v5",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/0001.jpg",
+  "description": "全新的勇士现在已经归来。",
+  "last_updatetime": 1439192952,
+  "last_update_chapter_name": "第12卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xinyongshi",
+  "hidden": 0,
+  "hot_num": 370236,
+  "hit_num": 358665,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 41792,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1477,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41792,
+          "chapter_title": "12卷",
+          "updatetime": 1439192952,
+          "filesize": 3053737,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 41791,
+          "chapter_title": "11卷",
+          "updatetime": 1439192946,
+          "filesize": 2868630,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 41790,
+          "chapter_title": "10卷",
+          "updatetime": 1439192939,
+          "filesize": 2952094,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 41789,
+          "chapter_title": "9卷",
+          "updatetime": 1439192386,
+          "filesize": 2879399,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 41788,
+          "chapter_title": "8卷",
+          "updatetime": 1439192376,
+          "filesize": 2978212,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 41787,
+          "chapter_title": "7卷",
+          "updatetime": 1439192369,
+          "filesize": 2907387,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 33769,
+          "chapter_title": "6卷",
+          "updatetime": 1418831518,
+          "filesize": 4318572,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 33664,
+          "chapter_title": "5卷",
+          "updatetime": 1418371887,
+          "filesize": 3865987,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 29549,
+          "chapter_title": "4卷",
+          "updatetime": 1405445707,
+          "filesize": 3622677,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 28817,
+          "chapter_title": "3卷",
+          "updatetime": 1402233997,
+          "filesize": 2698054,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 27973,
+          "chapter_title": "2卷",
+          "updatetime": 1397983470,
+          "filesize": 3256224,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 26973,
+          "chapter_title": "1卷",
+          "updatetime": 1393071930,
+          "filesize": 2704053,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 19479374,
+        "uid": 107282403,
+        "content": "这刊是内战时间线之后的吗？为什么速球还在这蹦跶？",
+        "createtime": 1566017210,
+        "nickname": "lemonlee21",
+        "avatar": "https://avatar.dmzj.com/91/42/9142f1073a40841d29ce1bf974b7930d.png"
+      },
+      {
+        "comment_id": 8929628,
+        "uid": 100301076,
+        "content": "请问接下来是什么篇章？",
+        "createtime": 1544622970,
+        "nickname": "Observer53131",
+        "avatar": "https://avatar.dmzj.com/77/7a/777a31bf15313113a758eec6ec4e042b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

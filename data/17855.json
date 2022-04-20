@@ -1,0 +1,107 @@
+{
+  "id": 17855,
+  "islong": 2,
+  "direction": 2,
+  "title": "神秘调查帮",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/shenmidiaochabang.jpg",
+  "description": "几个高中学生组成了“神秘调差帮”，喜爱实地调查、探险的他们，特别喜欢弄清现代科学无法解释的各种神奇之谜，最终得到令人信服的调查结果。",
+  "last_updatetime": 1428027147,
+  "last_update_chapter_name": "恐龙多悬念01",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "shenmidiaochabang",
+  "hidden": 0,
+  "hot_num": 36002,
+  "hit_num": 358555,
+  "uid": 100151693,
+  "is_lock": 0,
+  "last_update_chapter_id": 39846,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8920,
+      "tag_name": "神界漫画"
+    }
+  ],
+  "subscribe_num": 184,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39845,
+          "chapter_title": "3话",
+          "updatetime": 1428027126,
+          "filesize": 1002027,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 39844,
+          "chapter_title": "2话",
+          "updatetime": 1428027092,
+          "filesize": 1002408,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 39846,
+          "chapter_title": "1话",
+          "updatetime": 1428027147,
+          "filesize": 942007,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 435470,
+        "uid": 100223190,
+        "content": "是漫画先锋上的。嗯。",
+        "createtime": 1437658785,
+        "nickname": "品茶悟道、",
+        "avatar": "https://avatar.dmzj.com/1e/f5/1ef55c7e1403b22c39c7785a958cbd9d.png"
+      },
+      {
+        "comment_id": 375057,
+        "uid": 25893681,
+        "content": "哦这个以前在杂志上看过",
+        "createtime": 1428250777,
+        "nickname": "赵子方",
+        "avatar": "https://avatar.dmzj.com/17/5a/175a62afbb0e17de6410003151355aa0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

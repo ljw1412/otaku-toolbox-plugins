@@ -1,0 +1,87 @@
+{
+  "id": 10488,
+  "islong": 2,
+  "direction": 1,
+  "title": "少女漫画什么的最讨厌了",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/snmhsmdztyl.jpg",
+  "description": "够了！够了！漫画家什么的我再也不做了！",
+  "last_updatetime": 1361898539,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "snmhsmdztyl",
+  "hidden": 0,
+  "hot_num": 39682,
+  "hit_num": 670682,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20841,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4692,
+      "tag_name": "莳田ナオ"
+    }
+  ],
+  "subscribe_num": 220,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20841,
+          "chapter_title": "1话",
+          "updatetime": 1361898539,
+          "filesize": 5477474,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 1172938,
+        "uid": 26213873,
+        "content": "以前看过",
+        "createtime": 1471417698,
+        "nickname": "偷香窃玉采花贼",
+        "avatar": "https://avatar.dmzj.com/10/59/10592e4381f743d63827e5676922e901.png"
+      },
+      {
+        "comment_id": 520593,
+        "uid": 100518734,
+        "content": "没有连载真是伤感啊，我觉得很棒的说",
+        "createtime": 1448153755,
+        "nickname": "不逃避会死星人",
+        "avatar": "https://avatar.dmzj.com/38/48/3848ecf54023765cf3851137352358de.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

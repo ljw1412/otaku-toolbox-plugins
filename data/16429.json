@@ -1,0 +1,128 @@
+{
+  "id": 16429,
+  "islong": 2,
+  "direction": 2,
+  "title": "奋斗鸡系列",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/1225fendoujixiliefml.jpg",
+  "description": "大家喜闻乐见的漫画形式讲解礼仪、宣传交通安全知识，形式活泼，通俗易懂，老少皆宜。",
+  "last_updatetime": 1419492407,
+  "last_update_chapter_name": "第04话",
+  "copyright": 1,
+  "first_letter": "f",
+  "comic_py": "fendoujixilie",
+  "hidden": 0,
+  "hot_num": 5887,
+  "hit_num": 257327,
+  "uid": 100009367,
+  "is_lock": 0,
+  "last_update_chapter_id": 33158,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8181,
+      "tag_name": "老烟斗"
+    }
+  ],
+  "subscribe_num": 21,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33158,
+          "chapter_title": "4话",
+          "updatetime": 1419492407,
+          "filesize": 4560032,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 33157,
+          "chapter_title": "3话",
+          "updatetime": 1419492392,
+          "filesize": 8642540,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 33156,
+          "chapter_title": "2话",
+          "updatetime": 1419492379,
+          "filesize": 7910055,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 33155,
+          "chapter_title": "1话",
+          "updatetime": 1419492367,
+          "filesize": 2187966,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 33003,
+          "chapter_title": "笑话篇：爆笑时分",
+          "updatetime": 1418954045,
+          "filesize": 766135,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 33002,
+          "chapter_title": "消防安全篇01",
+          "updatetime": 1418954029,
+          "filesize": 1131391,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 33001,
+          "chapter_title": "廉政篇01",
+          "updatetime": 1418953963,
+          "filesize": 1712961,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 33000,
+          "chapter_title": "礼仪篇：见面礼仪",
+          "updatetime": 1418953947,
+          "filesize": 594142,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 32999,
+          "chapter_title": "交通安全篇01",
+          "updatetime": 1418953940,
+          "filesize": 2400854,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

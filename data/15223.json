@@ -1,0 +1,112 @@
+{
+  "id": 15223,
+  "islong": 2,
+  "direction": 2,
+  "title": "四目暴龙",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/simubaolong.jpg",
+  "description": "故事以20世纪30年代美国大萧条时期为背景，将“斗龙”引入了进去，描写了在美国的意大利裔少年，在父亲被龙杀死后，如何撑起家庭，由猎龙到驯龙的故事。 ",
+  "last_updatetime": 1407401912,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "simubaolong",
+  "hidden": 0,
+  "hot_num": 172277,
+  "hit_num": 244581,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 29551,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2116,
+      "tag_name": "image"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 794,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29551,
+          "chapter_title": "4卷",
+          "updatetime": 1407401912,
+          "filesize": 2788469,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 29550,
+          "chapter_title": "3卷",
+          "updatetime": 1407401864,
+          "filesize": 2724256,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 29549,
+          "chapter_title": "2卷",
+          "updatetime": 1407401823,
+          "filesize": 2937105,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 29548,
+          "chapter_title": "1卷",
+          "updatetime": 1407401553,
+          "filesize": 3369200,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 25195671,
+        "uid": 108249900,
+        "content": "111",
+        "createtime": 1584035928,
+        "nickname": "dmzj_108249900",
+        "avatar": "https://avatar.dmzj.com/99/70/9970a149a82544f76b099283ac3bb6fa.png"
+      },
+      {
+        "comment_id": 17161330,
+        "uid": 106035392,
+        "content": "2",
+        "createtime": 1560604381,
+        "nickname": "dmzj_106035392",
+        "avatar": "https://avatar.dmzj.com/ca/78/ca7861d3c53602493797db4ca88cea60.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

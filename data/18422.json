@@ -1,0 +1,85 @@
+{
+  "id": 18422,
+  "islong": 2,
+  "direction": 2,
+  "title": "玩家万岁",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1001358541430360106.jpg",
+  "description": "画说那些为游戏疯狂的人们......",
+  "last_updatetime": 1430361123,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "w",
+  "comic_py": "wanjiawansui",
+  "hidden": 0,
+  "hot_num": 2069,
+  "hit_num": 33207,
+  "uid": 100135854,
+  "is_lock": 0,
+  "last_update_chapter_id": 40728,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9159,
+      "tag_name": "坏小德"
+    }
+  ],
+  "subscribe_num": 13,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40728,
+          "chapter_title": "1话",
+          "updatetime": 1430361123,
+          "filesize": 721536,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 463170,
+        "uid": 25382341,
+        "content": "这漫画要我该说什么好？？？？？？我只能够说真的是醉了。",
+        "createtime": 1440768269,
+        "nickname": "土御门神人",
+        "avatar": "https://avatar.dmzj.com/73/44/7344eb3a4c6cf5ddaf79627f02c91671.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 14103,
+  "islong": 2,
+  "direction": 1,
+  "title": "编辑女王",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/bianji20180820.jpg",
+  "description": "在「漫畫月刊ＣＯＲＥＳ」內，有一位讓大家敬畏三分的女編輯，其名為川島禮子！她能把各種漫畫的潛力發揮到極致，打造成一部部的大作……當這位川島和新進的無能編輯‧平戶路合作之時，新的業界四格漫畫於焉誕生───那本漫畫的名字，也叫做「編輯女王」第１集！",
+  "last_updatetime": 1393914894,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bianjinvwang",
+  "hidden": 0,
+  "hot_num": 21047,
+  "hit_num": 551183,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 27022,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7187,
+      "tag_name": "高内优向"
+    }
+  ],
+  "subscribe_num": 163,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27022,
+          "chapter_title": "1卷",
+          "updatetime": 1393914894,
+          "filesize": 25256951,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 286237,
+        "uid": 24487176,
+        "content": "很欢乐",
+        "createtime": 1410021235,
+        "nickname": "najanaja",
+        "avatar": "https://avatar.dmzj.com/ae/0f/ae0fb0c21326c175d980640ff154480f.png"
+      },
+      {
+        "comment_id": 211866,
+        "uid": 25103042,
+        "content": "订阅",
+        "createtime": 1393920364,
+        "nickname": "黑暗之环",
+        "avatar": "https://avatar.dmzj.com/57/27/5727ba49eb8b05dc03d90b63643d5d6a.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 11923,
+  "islong": 2,
+  "direction": 1,
+  "title": "进击的巨人四格小黄漫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/jurensigexiaohuangman.jpg",
+  "description": "三哥与艾伦小天使的欢乐日常。",
+  "last_updatetime": 1372750281,
+  "last_update_chapter_name": "第一辑",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jurensigexiaohuangman",
+  "hidden": 0,
+  "hot_num": 1200413,
+  "hit_num": 1929674,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22850,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5692,
+      "tag_name": "hounori"
+    }
+  ],
+  "subscribe_num": 5598,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22850,
+          "chapter_title": "第一辑",
+          "updatetime": 1372750281,
+          "filesize": 1246755,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 640,
+    "latest_comment": [
+      {
+        "comment_id": 26451577,
+        "uid": 108014255,
+        "content": "传送点准备投放，代号457，投放完毕。",
+        "createtime": 1586799737,
+        "nickname": "时间轴EX",
+        "avatar": "https://avatar.dmzj.com/b0/5c/b05c2fc575192c379a35fc0600ebac5e.png"
+      },
+      {
+        "comment_id": 26316162,
+        "uid": 106187892,
+        "content": "可爱",
+        "createtime": 1586525511,
+        "nickname": "友人帐中胖次妖",
+        "avatar": "https://avatar.dmzj.com/63/25/63255ca97283ac93ff5264fb507225bf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

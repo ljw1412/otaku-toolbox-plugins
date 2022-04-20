@@ -1,0 +1,91 @@
+{
+  "id": 10236,
+  "islong": 2,
+  "direction": 1,
+  "title": "铃之音",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/lingzhiyintr.jpg",
+  "description": "もりのほん的东方同人，丢东西绝对不能容忍，尤其是pad",
+  "last_updatetime": 1359684519,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lingzhiyin",
+  "hidden": 0,
+  "hot_num": 202800,
+  "hit_num": 1216542,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 19961,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5439,
+      "tag_name": "もりのほん"
+    }
+  ],
+  "subscribe_num": 1000,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19961,
+          "chapter_title": "1话",
+          "updatetime": 1359684519,
+          "filesize": 7005145,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 21459959,
+        "uid": 106305588,
+        "content": "我死了",
+        "createtime": 1571463190,
+        "nickname": "守矢神社的土著神",
+        "avatar": "https://avatar.dmzj.com/37/16/371665cd8222f91e18dfb34331204448.png"
+      },
+      {
+        "comment_id": 20960713,
+        "uid": 109203078,
+        "content": "假新闻害人啊你文文",
+        "createtime": 1570297382,
+        "nickname": "东方幻想乡daze",
+        "avatar": "https://avatar.dmzj.com/c9/b4/c9b486895b5e1552578957ade6938aa9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

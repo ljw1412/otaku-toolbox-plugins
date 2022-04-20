@@ -1,0 +1,87 @@
+{
+  "id": 18901,
+  "islong": 2,
+  "direction": 1,
+  "title": "Lyrical lily",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/Lyricallilyfengmianl.jpg",
+  "description": "倒在麦田吧汉化，希疾&奈菲同人志",
+  "last_updatetime": 1432727627,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lyricallily",
+  "hidden": 0,
+  "hot_num": 90354,
+  "hit_num": 98049,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 39292,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9425,
+      "tag_name": "おいも"
+    }
+  ],
+  "subscribe_num": 509,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39292,
+          "chapter_title": "1话",
+          "updatetime": 1432727627,
+          "filesize": 2764158,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 21910141,
+        "uid": 107328023,
+        "content": "哇哦",
+        "createtime": 1572876200,
+        "nickname": "雨中山荷叶",
+        "avatar": "https://avatar.dmzj.com/9f/ab/9fab0d181adb5200609ec25de25f7a91.png"
+      },
+      {
+        "comment_id": 20249187,
+        "uid": 100097915,
+        "content": "奈菲！",
+        "createtime": 1568298881,
+        "nickname": "所谓正确之物——",
+        "avatar": "https://avatar.dmzj.com/77/48/774894646be75df73318d5f7d65fb03d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

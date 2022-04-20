@@ -1,0 +1,87 @@
+{
+  "id": 11714,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方恶漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/dongfangemanhua.jpg",
+  "description": "东方同人漫画。",
+  "last_updatetime": 1371201848,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongfangemanhua",
+  "hidden": 0,
+  "hot_num": 22982,
+  "hit_num": 146797,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22448,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6158,
+      "tag_name": "くらりん"
+    }
+  ],
+  "subscribe_num": 64,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22448,
+          "chapter_title": "1话",
+          "updatetime": 1371201848,
+          "filesize": 1352427,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 128341,
+        "uid": 23711357,
+        "content": "原来我看错了 、名字是恶漫 。",
+        "createtime": 1371398877,
+        "nickname": "",
+        "avatar": ""
+      },
+      {
+        "comment_id": 128340,
+        "uid": 23711357,
+        "content": "看到邪恶俩字就进来了",
+        "createtime": 1371398839,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

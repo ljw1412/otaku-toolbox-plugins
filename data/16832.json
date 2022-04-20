@@ -1,0 +1,87 @@
+{
+  "id": 16832,
+  "islong": 2,
+  "direction": 1,
+  "title": "小牧与麻纪",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/1xmymaji12023.jpg",
+  "description": "少女与欠债男的故事",
+  "last_updatetime": 1421753904,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xmymaji",
+  "hidden": 0,
+  "hot_num": 102615,
+  "hit_num": 218264,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 37472,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4077,
+      "tag_name": "大武政夫"
+    }
+  ],
+  "subscribe_num": 513,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37472,
+          "chapter_title": "1话",
+          "updatetime": 1421753904,
+          "filesize": 3571785,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 25630850,
+        "uid": 102224470,
+        "content": "田中庒司(错乱)",
+        "createtime": 1585038676,
+        "nickname": "naaaaaa",
+        "avatar": "https://avatar.dmzj.com/19/74/19743a1e779d176a068942809993b2ea.png"
+      },
+      {
+        "comment_id": 11752172,
+        "uid": 105111285,
+        "content": "噗哈哈哈哈哈哈哈",
+        "createtime": 1550727681,
+        "nickname": "化身後のスライム",
+        "avatar": "https://avatar.dmzj.com/38/12/3812d0dcf584a8ed9b739cd514c9c215.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 11080,
+  "islong": 2,
+  "direction": 1,
+  "title": "疾风怪盗",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/jifengguaidao.jpg",
+  "description": "在先崖市突然掀起一阵夜盗风，白天是个认真优等生的拘真拍郎，到了夜晚却会化身成怪盗巴克里库，所偷的东西从世界第一大宝石到食物，没有他偷不到的东西，但唯一的缺点是无法保持猎物的完整性……今夜，巴克里库又要开始活跃了。",
+  "last_updatetime": 1367128333,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jifengguaidao",
+  "hidden": 0,
+  "hot_num": 13564,
+  "hit_num": 469410,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22713,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2604,
+      "tag_name": "古山基夫"
+    }
+  ],
+  "subscribe_num": 53,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22713,
+          "chapter_title": "3卷",
+          "updatetime": 1367128333,
+          "filesize": 18918615,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 22712,
+          "chapter_title": "2卷",
+          "updatetime": 1367056602,
+          "filesize": 18998655,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22711,
+          "chapter_title": "1卷",
+          "updatetime": 1367056369,
+          "filesize": 17615933,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

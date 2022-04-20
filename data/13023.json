@@ -1,0 +1,108 @@
+{
+  "id": 13023,
+  "islong": 2,
+  "direction": 1,
+  "title": "花与兔",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/1016huayutu.jpg",
+  "description": "411号室的相泽先生一直戴着兔子头套……。经常送货的老顾客相泽先生是一个怕生的家里蹲兔子男。到底为什么要戴着头套呢。变态吗？",
+  "last_updatetime": 1392718698,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huayutu",
+  "hidden": 0,
+  "hot_num": 2288359,
+  "hit_num": 3003504,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 26819,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6737,
+      "tag_name": "嘉島ちあき"
+    }
+  ],
+  "subscribe_num": 14257,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26818,
+          "chapter_title": "番外",
+          "updatetime": 1392718661,
+          "filesize": 1304016,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 26819,
+          "chapter_title": "3话",
+          "updatetime": 1392718698,
+          "filesize": 4548116,
+          "chapter_order": 21
+        },
+        {
+          "chapter_id": 26143,
+          "chapter_title": "2话",
+          "updatetime": 1388937788,
+          "filesize": 3605656,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 24658,
+          "chapter_title": "1话",
+          "updatetime": 1382321899,
+          "filesize": 4542072,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 221,
+    "latest_comment": [
+      {
+        "comment_id": 26900932,
+        "uid": 106379626,
+        "content": "哈哈哈",
+        "createtime": 1588004818,
+        "nickname": "dmzj_106379626",
+        "avatar": "https://avatar.dmzj.com/bf/7f/bf7f4e2ca3ac51e69a2d6f250ae5ff77.png"
+      },
+      {
+        "comment_id": 26627738,
+        "uid": 105346877,
+        "content": "可可爱爱",
+        "createtime": 1587278835,
+        "nickname": "腐国深巷",
+        "avatar": "https://avatar.dmzj.com/a7/7b/a77bf2829261520f6821b10c0bd1e1c6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

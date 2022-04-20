@@ -1,0 +1,79 @@
+{
+  "id": 15506,
+  "islong": 2,
+  "direction": 1,
+  "title": "正如花儿绽放",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/zhengruhuaerzhanfang.jpg",
+  "description": "中二别扭少女最赞了，两个都别扭就更赞了",
+  "last_updatetime": 1409714701,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhengruhauerzhanfang",
+  "hidden": 0,
+  "hot_num": 30142,
+  "hit_num": 131753,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 31534,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7377,
+      "tag_name": "きよたとも"
+    }
+  ],
+  "subscribe_num": 164,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31534,
+          "chapter_title": "1话",
+          "updatetime": 1409714701,
+          "filesize": 3083836,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 12220641,
+        "uid": 102419826,
+        "content": "赞",
+        "createtime": 1551541198,
+        "nickname": "吃土骚年",
+        "avatar": "https://avatar.dmzj.com/d3/2e/d32e224af3438a69a5905dc92567d69b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,112 @@
+{
+  "id": 15399,
+  "islong": 2,
+  "direction": 2,
+  "title": "星球大战：达斯·摩尔：达索米尔之子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/SonofDathomir.jpg",
+  "description": "星球大战的漫画，达斯·摩尔:达索米尔之子的故事。",
+  "last_updatetime": 1408869142,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dsmedsmezz",
+  "hidden": 0,
+  "hot_num": 325740,
+  "hit_num": 273672,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 30512,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1778,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30512,
+          "chapter_title": "4卷",
+          "updatetime": 1408869142,
+          "filesize": 2526707,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 30511,
+          "chapter_title": "3卷",
+          "updatetime": 1408869137,
+          "filesize": 2677840,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 30510,
+          "chapter_title": "2卷",
+          "updatetime": 1408868412,
+          "filesize": 2676175,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 30509,
+          "chapter_title": "1卷",
+          "updatetime": 1408868409,
+          "filesize": 2670252,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 8129951,
+        "uid": 100744146,
+        "content": "吼吼吼",
+        "createtime": 1542194944,
+        "nickname": "灵魂舞非",
+        "avatar": "https://avatar.dmzj.com/0c/86/0c867deb56919cee4a19bee1531df76b.png"
+      },
+      {
+        "comment_id": 4218892,
+        "uid": 106394419,
+        "content": "摩尔男神",
+        "createtime": 1522550461,
+        "nickname": "dmzj_106394419",
+        "avatar": "https://avatar.dmzj.com/b3/52/b3526c1a47998b46b2a5a82f5c46fbae.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

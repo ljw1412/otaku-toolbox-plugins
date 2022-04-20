@@ -1,0 +1,91 @@
+{
+  "id": 10379,
+  "islong": 2,
+  "direction": 1,
+  "title": "制服DUTY",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/zhifuduty.jpg",
+  "description": "对于我们来说这个相遇的瞬间就是全部——",
+  "last_updatetime": 1361032155,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhifuduty",
+  "hidden": 0,
+  "hot_num": 7743,
+  "hit_num": 130659,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20524,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5528,
+      "tag_name": "山崎童々"
+    }
+  ],
+  "subscribe_num": 18,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20524,
+          "chapter_title": "1话",
+          "updatetime": 1361032155,
+          "filesize": 5582024,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 348082,
+        "uid": 24691363,
+        "content": "认真你就输了~",
+        "createtime": 1423109587,
+        "nickname": "落英乱舞爱唛唛",
+        "avatar": "https://avatar.dmzj.com/fe/9b/fe9b7593184f1ae53af82601aa977132.png"
+      },
+      {
+        "comment_id": 103170,
+        "uid": 17320969,
+        "content": "楼主你中毒太深了！\n\n\n虽然我也是。。。。",
+        "createtime": 1361073158,
+        "nickname": "糟践者",
+        "avatar": "https://avatar.dmzj.com/9a/93/9a93751249458c184cc40b2320f9853e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 11601,
+  "islong": 2,
+  "direction": 1,
+  "title": "暗黑五芒星",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/ahwmx.jpg",
+  "description": "暗黑四天王的续作……给力的作品……",
+  "last_updatetime": 1370573768,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "ahwmx",
+  "hidden": 0,
+  "hot_num": 14086,
+  "hit_num": 283646,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22134,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6108,
+      "tag_name": "nagare"
+    }
+  ],
+  "subscribe_num": 50,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22134,
+          "chapter_title": "1话",
+          "updatetime": 1370573768,
+          "filesize": 7517294,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 24774329,
+        "uid": 105877380,
+        "content": "幻想乡都什么人啊这。",
+        "createtime": 1583144817,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      },
+      {
+        "comment_id": 20382651,
+        "uid": 101357726,
+        "content": "？？？",
+        "createtime": 1568703516,
+        "nickname": "茨木•华扇",
+        "avatar": "https://avatar.dmzj.com/84/85/848500f95cb1fba201b1efc930adcc55.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

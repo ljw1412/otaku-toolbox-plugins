@@ -1,0 +1,91 @@
+{
+  "id": 10394,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔女姻缘",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/monvyinyuan.jpg",
+  "description": "欢乐的东方同人本，黑白与七色的身体互换。",
+  "last_updatetime": 1361082567,
+  "last_update_chapter_name": " 全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "monvyinyuan",
+  "hidden": 0,
+  "hot_num": 18038,
+  "hit_num": 107247,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20534,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5535,
+      "tag_name": "しゃおみん"
+    }
+  ],
+  "subscribe_num": 83,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20534,
+          "chapter_title": "1话",
+          "updatetime": 1361082567,
+          "filesize": 1706031,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 25141427,
+        "uid": 108874877,
+        "content": "不错",
+        "createtime": 1583921287,
+        "nickname": "蕾米remilet",
+        "avatar": "https://avatar.dmzj.com/27/45/27459b64a2998e9ec1cb9343e83c0771.png"
+      },
+      {
+        "comment_id": 22253209,
+        "uid": 106132777,
+        "content": "洛陽鏟。。。。",
+        "createtime": 1574434444,
+        "nickname": "哆哆哆来咪",
+        "avatar": "https://avatar.dmzj.com/06/b5/06b5d85e939af61799dd92a466731dfc.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

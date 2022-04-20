@@ -1,0 +1,87 @@
+{
+  "id": 10348,
+  "islong": 2,
+  "direction": 1,
+  "title": "猫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/maomaomao.jpg",
+  "description": "猫，东方短篇  大家的友情团结努力。",
+  "last_updatetime": 1360863656,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "catmao",
+  "hidden": 0,
+  "hot_num": 135100,
+  "hit_num": 1699360,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20677,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5925,
+      "tag_name": "ふあん亭"
+    }
+  ],
+  "subscribe_num": 570,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20677,
+          "chapter_title": "1话",
+          "updatetime": 1360863656,
+          "filesize": 17940025,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 26054527,
+        "uid": 106151320,
+        "content": "紫……打不过灵梦？！",
+        "createtime": 1585992365,
+        "nickname": "幻想乡的女巫",
+        "avatar": "https://avatar.dmzj.com/46/90/4690842d65df261bef3b7dd2270e275c.png"
+      },
+      {
+        "comment_id": 22019994,
+        "uid": 109258956,
+        "content": "史前巨片？!",
+        "createtime": 1573314342,
+        "nickname": "dmzj_109258956",
+        "avatar": "https://avatar.dmzj.com/f1/82/f182c15c301447b1c89a8b9db9d4a7ab.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

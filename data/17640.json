@@ -1,0 +1,115 @@
+{
+  "id": 17640,
+  "islong": 2,
+  "direction": 1,
+  "title": "23：45",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/2345l.jpg",
+  "description": "关于——和你、恋爱、这件事！",
+  "last_updatetime": 1431345100,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "2",
+  "comic_py": "23dian45fen",
+  "hidden": 0,
+  "hot_num": 207020,
+  "hit_num": 583782,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 40979,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8818,
+      "tag_name": "绪花"
+    }
+  ],
+  "subscribe_num": 1595,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40979,
+          "chapter_title": "4话",
+          "updatetime": 1431345100,
+          "filesize": 3830792,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 40753,
+          "chapter_title": "3话",
+          "updatetime": 1430647933,
+          "filesize": 4107142,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 39944,
+          "chapter_title": "2话",
+          "updatetime": 1428233052,
+          "filesize": 4261330,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 39943,
+          "chapter_title": "1话",
+          "updatetime": 1428232834,
+          "filesize": 6145845,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 39384,
+          "chapter_title": "0话",
+          "updatetime": 1427020750,
+          "filesize": 1690554,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 23936380,
+        "uid": 100759575,
+        "content": "记得早些年在动漫之家看完结了，怎么现在这么多就不全了",
+        "createtime": 1581228145,
+        "nickname": "厮混",
+        "avatar": "https://avatar.dmzj.com/60/bf/60bf0326e0b2df2a4dc0fecf4561e9d4.png"
+      },
+      {
+        "comment_id": 19594983,
+        "uid": 109613602,
+        "content": "画风非常不错啊，人都很好看，设定也是很有趣(´▽`ʃƪ)",
+        "createtime": 1566308270,
+        "nickname": "禾水勿人",
+        "avatar": "https://avatar.dmzj.com/19/63/19635c117b8cae6969a48ed412f99574.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

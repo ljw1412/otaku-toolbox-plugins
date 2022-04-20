@@ -1,0 +1,81 @@
+{
+  "id": 18684,
+  "islong": 2,
+  "direction": 2,
+  "title": "梦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1001179351431669159.jpg",
+  "description": "这是以前一部没有画完的故事",
+  "last_updatetime": 1431669219,
+  "last_update_chapter_name": "第一话",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "meng-baixiao",
+  "hidden": 0,
+  "hot_num": 3225,
+  "hit_num": 63241,
+  "uid": 100117935,
+  "is_lock": 0,
+  "last_update_chapter_id": 37187,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9032,
+      "tag_name": "白骁"
+    }
+  ],
+  "subscribe_num": 15,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37187,
+          "chapter_title": "1话",
+          "updatetime": 1431669219,
+          "filesize": 1432229,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 25783774,
+        "uid": 104321288,
+        "content": "沙发",
+        "createtime": 1585392376,
+        "nickname": "真实的马鹿",
+        "avatar": "https://avatar.dmzj.com/20/47/20477b27d1755aecc8819c8c626dbdbb.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

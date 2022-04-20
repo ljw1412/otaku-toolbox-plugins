@@ -1,0 +1,93 @@
+{
+  "id": 18700,
+  "islong": 2,
+  "direction": 2,
+  "title": "360PK腾讯",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1001292291431678798.jpg",
+  "description": "360PK腾讯 最近看到QQPK360耽美漫画~~有意思有意思~~不小心进入腐女心~~忍不住画~~~",
+  "last_updatetime": 1431678827,
+  "last_update_chapter_name": "01",
+  "copyright": 1,
+  "first_letter": "3",
+  "comic_py": "360pktengxun",
+  "hidden": 0,
+  "hot_num": 5194,
+  "hit_num": 45966,
+  "uid": 100217567,
+  "is_lock": 0,
+  "last_update_chapter_id": 41113,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9162,
+      "tag_name": "猫猫佳大人"
+    }
+  ],
+  "subscribe_num": 36,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41113,
+          "chapter_title": "1话",
+          "updatetime": 1431678827,
+          "filesize": 548720,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 27059385,
+        "uid": 104446398,
+        "content": "我看到了时代的眼泪（捂脸泣）",
+        "createtime": 1588479652,
+        "nickname": "橘猫咆哮",
+        "avatar": "https://avatar.dmzj.com/98/50/98509742c50f444a462d5ffeba749a6e.png"
+      },
+      {
+        "comment_id": 6384451,
+        "uid": 107706030,
+        "content": "我能排到这么前吗？顺便问一句有没有一人之下和魔道祖师的漫画或小说",
+        "createtime": 1534776426,
+        "nickname": "阿姆斯特朗丶",
+        "avatar": "https://avatar.dmzj.com/13/00/130036b511919694b0102a679a02601f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

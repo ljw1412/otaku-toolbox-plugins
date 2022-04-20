@@ -1,0 +1,111 @@
+{
+  "id": 16643,
+  "islong": 2,
+  "direction": 2,
+  "title": "分一半给你",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/0105fenyibangeinifml.jpg",
+  "description": "我叫李真，是一个普通的高中生，一天躺在床上发呆时突然遇上了死神，我的命运在这开始转折了……",
+  "last_updatetime": 1421908728,
+  "last_update_chapter_name": "第03话",
+  "copyright": 1,
+  "first_letter": "f",
+  "comic_py": "fenyibangeini",
+  "hidden": 0,
+  "hot_num": 18585,
+  "hit_num": 287155,
+  "uid": 19551569,
+  "is_lock": 0,
+  "last_update_chapter_id": 33715,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 5806,
+      "tag_name": "魔幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8296,
+      "tag_name": "湘立"
+    }
+  ],
+  "subscribe_num": 96,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33715,
+          "chapter_title": "3话",
+          "updatetime": 1421908728,
+          "filesize": 1322873,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 33283,
+          "chapter_title": "2话",
+          "updatetime": 1420508458,
+          "filesize": 819593,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 33276,
+          "chapter_title": "1话",
+          "updatetime": 1420448783,
+          "filesize": 699549,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 2761824,
+        "uid": 104848062,
+        "content": "我……是不是遇到了一个万年巨坑？",
+        "createtime": 1503155617,
+        "nickname": "零崎凌时",
+        "avatar": "https://avatar.dmzj.com/43/08/4308d2a3b94f2484d2397e9de68d3de7.png"
+      },
+      {
+        "comment_id": 342453,
+        "uid": 33512287,
+        "content": "剧情有点不太好…看看发展吧",
+        "createtime": 1421911042,
+        "nickname": "大正狂犬",
+        "avatar": "https://avatar.dmzj.com/eb/b5/ebb5724afc84339a772e918b94c919d0.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

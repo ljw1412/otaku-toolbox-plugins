@@ -1,0 +1,91 @@
+{
+  "id": 13958,
+  "islong": 2,
+  "direction": 2,
+  "title": "闪点 格鲁迪战争",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/shandiangeludizhanzheng.jpg",
+  "description": "闪点支线 格鲁迪战争",
+  "last_updatetime": 1392287615,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shandiangeludizhanzheng",
+  "hidden": 0,
+  "hot_num": 1720512,
+  "hit_num": 118778,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 26725,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 7287,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26725,
+          "chapter_title": "1卷",
+          "updatetime": 1392287615,
+          "filesize": 3128361,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 22441260,
+        "uid": 107930996,
+        "content": "有后续吗？请大哥指路",
+        "createtime": 1575344078,
+        "nickname": "sg007",
+        "avatar": "https://avatar.dmzj.com/4c/3f/4c3f82ba6dbe1e1bfdccbc229b6bb309.png"
+      },
+      {
+        "comment_id": 19334021,
+        "uid": 107441883,
+        "content": "金色巨猿这里太弱了吧",
+        "createtime": 1565653041,
+        "nickname": "格物穷理",
+        "avatar": "https://avatar.dmzj.com/cf/0c/cf0c4947b294bffdfab29cc6b98d24a6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

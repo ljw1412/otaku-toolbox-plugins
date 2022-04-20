@@ -1,0 +1,87 @@
+{
+  "id": 12815,
+  "islong": 2,
+  "direction": 1,
+  "title": "奇怪的动物园",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/qiguaidedongwuyuan.jpg",
+  "description": "这可能也是职业病的一种吧，今天的日子真的是...话说相亲对象是兔子...！？",
+  "last_updatetime": 1380292167,
+  "last_update_chapter_name": "短篇第01话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qiguaidedongwuyuan",
+  "hidden": 0,
+  "hot_num": 14770,
+  "hit_num": 110309,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25500,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6649,
+      "tag_name": "来海ユウ"
+    }
+  ],
+  "subscribe_num": 75,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25500,
+          "chapter_title": "1话",
+          "updatetime": 1380292167,
+          "filesize": 1694774,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 3910407,
+        "uid": 102431487,
+        "content": "要是变成不便当版的恋情浪人就好玩了",
+        "createtime": 1518970235,
+        "nickname": "老喵攻",
+        "avatar": "https://avatar.dmzj.com/c2/d8/c2d8efbc418d6e8e5c2606d741921417.png"
+      },
+      {
+        "comment_id": 331375,
+        "uid": 26136620,
+        "content": "女角应该是乌鸦属性吧",
+        "createtime": 1419084286,
+        "nickname": "未燃羽",
+        "avatar": "https://avatar.dmzj.com/2b/ae/2bae95e064b77f812f4d812d18517c7e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 16086,
+  "islong": 2,
+  "direction": 1,
+  "title": "漫画娘",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/0manhuaniang11121.jpg",
+  "description": "通向梦想的路上，会迷惘，会困扰，那是理所当然的。",
+  "last_updatetime": 1415806224,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mhniang",
+  "hidden": 1,
+  "hot_num": 19179,
+  "hit_num": 55650,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 33046,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6161,
+      "tag_name": "寅ヤス"
+    }
+  ],
+  "subscribe_num": 115,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33046,
+          "chapter_title": "1话",
+          "updatetime": 1415806224,
+          "filesize": 1945317,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 319195,
+        "uid": 21772844,
+        "content": " /外星人 很萌的娘",
+        "createtime": 1415868803,
+        "nickname": "奈亚子佧弥",
+        "avatar": "https://avatar.dmzj.com/b4/4d/b44db452a77a486aeef77a6269048756.png"
+      },
+      {
+        "comment_id": 319076,
+        "uid": 16773302,
+        "content": "看画风知作者",
+        "createtime": 1415847011,
+        "nickname": "逆袭的三千院",
+        "avatar": "https://avatar.dmzj.com/9e/30/9e30fa6666238ac3145e57ff8350f94e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

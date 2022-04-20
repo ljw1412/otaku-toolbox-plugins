@@ -1,0 +1,112 @@
+{
+  "id": 12409,
+  "islong": 2,
+  "direction": 2,
+  "title": "星球大战：楚巴卡",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/xingqiudazhanchubaka.jpg",
+  "description": "楚巴卡Chewbacca，也译作乔巴卡、丘巴卡，在西斯的复仇中，丘巴卡在动荡之中保护自己的母星——卡须克，同时他也是尤达大师的故友。他是一名武技族的战士，擅长使用十字弓，而且拥有强大的力量。后来成为韩索罗的合作搭当。韩索罗能听的懂他的语言，所以总是知道他在抱怨些什么。此外，他还是一名优秀的技工，会修理机械物品，曾经修理过千年隼的光速引擎以及C3PO。",
+  "last_updatetime": 1376720608,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xingqiudazhanchubaka",
+  "hidden": 1,
+  "hot_num": 139419,
+  "hit_num": 55397,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23726,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1187,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23637,
+          "chapter_title": "10卷",
+          "updatetime": 1376281108,
+          "filesize": 1691027,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23638,
+          "chapter_title": "9卷",
+          "updatetime": 1376281115,
+          "filesize": 1784131,
+          "chapter_order": 19
+        },
+        {
+          "chapter_id": 23726,
+          "chapter_title": "2卷",
+          "updatetime": 1376720608,
+          "filesize": 2251731,
+          "chapter_order": 11
+        },
+        {
+          "chapter_id": 23636,
+          "chapter_title": "1卷",
+          "updatetime": 1376281123,
+          "filesize": 1642860,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 283784,
+        "uid": 21470209,
+        "content": "毛球挂了？？？",
+        "createtime": 1409486325,
+        "nickname": "猞猁猫",
+        "avatar": "https://avatar.dmzj.com/bb/94/bb94583fefc2c2e69102b2283715515a.png"
+      },
+      {
+        "comment_id": 147936,
+        "uid": 17278496,
+        "content": "sofa\n",
+        "createtime": 1376722886,
+        "nickname": "wowo小索",
+        "avatar": "https://avatar.dmzj.com/35/6c/356c00a55fa35b597362569eccc1392e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

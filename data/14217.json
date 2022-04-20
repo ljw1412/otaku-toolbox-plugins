@@ -1,0 +1,137 @@
+{
+  "id": 14217,
+  "islong": 2,
+  "direction": 2,
+  "title": "效果拔群",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/效果拔群.jpg",
+  "description": "口袋妖怪的搞笑四格漫画。",
+  "last_updatetime": 1434680601,
+  "last_update_chapter_name": "第07话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xgbq",
+  "hidden": 0,
+  "hot_num": 347188,
+  "hit_num": 2584024,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 42191,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7242,
+      "tag_name": "史考特"
+    }
+  ],
+  "subscribe_num": 1776,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42191,
+          "chapter_title": "7话",
+          "updatetime": 1434680601,
+          "filesize": 56892,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 36555,
+          "chapter_title": "6话",
+          "updatetime": 1419421698,
+          "filesize": 183385,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 34226,
+          "chapter_title": "5话",
+          "updatetime": 1410705181,
+          "filesize": 72732,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 33958,
+          "chapter_title": "4话",
+          "updatetime": 1409449966,
+          "filesize": 109536,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 33837,
+          "chapter_title": "3话",
+          "updatetime": 1408940156,
+          "filesize": 279178,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 31746,
+          "chapter_title": "2话",
+          "updatetime": 1406608452,
+          "filesize": 88483,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 29416,
+          "chapter_title": "1话",
+          "updatetime": 1406608366,
+          "filesize": 5594684,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 63,
+    "latest_comment": [
+      {
+        "comment_id": 24535203,
+        "uid": 101444932,
+        "content": "哈哈哈哈哈哈哈鬲",
+        "createtime": 1582646704,
+        "nickname": "蛮神心脏",
+        "avatar": "https://avatar.dmzj.com/21/b3/21b313467da1250f2d2c82c353820262.png"
+      },
+      {
+        "comment_id": 20597557,
+        "uid": 108296924,
+        "content": "哈哈哈哈哈",
+        "createtime": 1569344266,
+        "nickname": "dmzj_108296924",
+        "avatar": "https://avatar.dmzj.com/af/86/af86a598434333255db50611388c06dd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

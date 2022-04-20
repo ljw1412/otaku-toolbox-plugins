@@ -1,0 +1,115 @@
+{
+  "id": 12428,
+  "islong": 2,
+  "direction": 1,
+  "title": "永铃戏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/yonglingxi.jpg",
+  "description": "好久不见的以师酱为主角的本子。",
+  "last_updatetime": 1514380255,
+  "last_update_chapter_name": "永铃戏6",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yonglingxi",
+  "hidden": 0,
+  "hot_num": 193733,
+  "hit_num": 670024,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 66240,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5864,
+      "tag_name": "凡"
+    }
+  ],
+  "subscribe_num": 906,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66240,
+          "chapter_title": "6话",
+          "updatetime": 1514380257,
+          "filesize": 3320326,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 29481,
+          "chapter_title": "永铃戏5",
+          "updatetime": 1407069804,
+          "filesize": 3923548,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 26006,
+          "chapter_title": "永铃戏4",
+          "updatetime": 1388136491,
+          "filesize": 2292953,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 25306,
+          "chapter_title": "永铃戏2",
+          "updatetime": 1385486577,
+          "filesize": 2458026,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 23503,
+          "chapter_title": "永铃戏1",
+          "updatetime": 1376375383,
+          "filesize": 2514562,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 34,
+    "latest_comment": [
+      {
+        "comment_id": 25075788,
+        "uid": 107672210,
+        "content": "第三话，铃仙和师匠嘿嘿嘿",
+        "createtime": 1583765569,
+        "nickname": "承太郎必秒Dio",
+        "avatar": "https://avatar.dmzj.com/61/72/617257e10349aaa2cd6206ee575e0540.png"
+      },
+      {
+        "comment_id": 24072953,
+        "uid": 105039807,
+        "content": "问第三话的自己去e站看去",
+        "createtime": 1581566240,
+        "nickname": "儏殇の月",
+        "avatar": "https://avatar.dmzj.com/66/57/66575ad394ec8a6b7278bd3cd59de74b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

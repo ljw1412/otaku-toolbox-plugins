@@ -1,0 +1,89 @@
+{
+  "id": 16490,
+  "islong": 2,
+  "direction": 1,
+  "title": "活着",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/huozhe.jpg",
+  "description": "承生命之轻短篇漫画。活着",
+  "last_updatetime": 1419244688,
+  "last_update_chapter_name": "活着",
+  "copyright": 1,
+  "first_letter": "h",
+  "comic_py": "huozhe",
+  "hidden": 0,
+  "hot_num": 4856,
+  "hit_num": 43843,
+  "uid": 100200595,
+  "is_lock": 0,
+  "last_update_chapter_id": 36438,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8162,
+      "tag_name": "承生命之轻"
+    }
+  ],
+  "subscribe_num": 22,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36438,
+          "chapter_title": "1话",
+          "updatetime": 1419244688,
+          "filesize": 715871,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 918011,
+        "uid": 13104916,
+        "content": "不好吗……",
+        "createtime": 1466270244,
+        "nickname": "落叶因风",
+        "avatar": "https://avatar.dmzj.com/fa/9b/fa9baf93b4dece83fd676c062ef6bc00.png"
+      },
+      {
+        "comment_id": 735543,
+        "uid": 100719178,
+        "content": "卧槽……",
+        "createtime": 1460768411,
+        "nickname": "钠钠想当大魔法师",
+        "avatar": "https://avatar.dmzj.com/2c/97/2c97a36c1fc6331b065531cf9947fdee.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

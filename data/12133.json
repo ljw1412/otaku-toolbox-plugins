@@ -1,0 +1,87 @@
+{
+  "id": 12133,
+  "islong": 2,
+  "direction": 1,
+  "title": "小盒子里的信",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/xiaohezilidexin.jpg",
+  "description": "我想窥探你的心，却又不愿你知晓我的意，阴差阳错的感情，静静的被震撼，深刻的短8P",
+  "last_updatetime": 1374400240,
+  "last_update_chapter_name": "全一话",
+  "copyright": 3,
+  "first_letter": "x",
+  "comic_py": "xiaohezilidexin",
+  "hidden": 0,
+  "hot_num": 48957,
+  "hit_num": 113126,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23112,
+  "authors": [
+    {
+      "tag_id": 1694,
+      "tag_name": "タカハシマコ"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "subscribe_num": 191,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23112,
+          "chapter_title": "1话",
+          "updatetime": 1374400240,
+          "filesize": 876690,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 25447906,
+        "uid": 109589055,
+        "content": "emmm",
+        "createtime": 1584612632,
+        "nickname": "dmzj_109589055",
+        "avatar": "https://avatar.dmzj.com/0c/57/0c57f64b6e9ee7b142fc400f3d79ee2b.png"
+      },
+      {
+        "comment_id": 19361476,
+        "uid": 101873119,
+        "content": "盒子",
+        "createtime": 1565711083,
+        "nickname": "BlossomFlight",
+        "avatar": "https://avatar.dmzj.com/12/76/12767bd00fed849c73fc15b82a528dba.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

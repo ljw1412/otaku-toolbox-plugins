@@ -1,0 +1,87 @@
+{
+  "id": 11078,
+  "islong": 2,
+  "direction": 1,
+  "title": "女王蜂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/nvwangfeng.jpg",
+  "description": "漫画奇才樱田雏描绘的江户的动人故事。",
+  "last_updatetime": 1367051658,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "n",
+  "comic_py": "nvwangfeng",
+  "hidden": 0,
+  "hot_num": 410215,
+  "hit_num": 2009394,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21738,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1876,
+      "tag_name": "樱田雏"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2466,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21738,
+          "chapter_title": "1话",
+          "updatetime": 1367051658,
+          "filesize": 7070363,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 53,
+    "latest_comment": [
+      {
+        "comment_id": 26662867,
+        "uid": 110541701,
+        "content": "留",
+        "createtime": 1587377921,
+        "nickname": "dmzj_110541701",
+        "avatar": "https://avatar.dmzj.com/45/46/4546a8472dcdc289666e22da0eab736c.png"
+      },
+      {
+        "comment_id": 26242232,
+        "uid": 100760178,
+        "content": "Now you are in my eyes",
+        "createtime": 1586363201,
+        "nickname": "。42527",
+        "avatar": "https://avatar.dmzj.com/c6/ea/c6ead6309fc168bbae181e7f5a284fdf.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,92 @@
+{
+  "id": 19759,
+  "islong": 2,
+  "direction": 2,
+  "title": "同人·各有千秋",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1002459941436781456.jpg",
+  "description": "各种小同人图~希望大家喜欢",
+  "last_updatetime": 1436781574,
+  "last_update_chapter_name": "第02话 精灵王",
+  "copyright": 1,
+  "first_letter": "t",
+  "comic_py": "tongrengeyouqianqiu",
+  "hidden": 0,
+  "hot_num": 14440,
+  "hit_num": 86540,
+  "uid": 100245994,
+  "is_lock": 0,
+  "last_update_chapter_id": 39017,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 7900,
+      "tag_name": "仙侠"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9892,
+      "tag_name": "草莓点心"
+    }
+  ],
+  "subscribe_num": 125,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39017,
+          "chapter_title": "2话",
+          "updatetime": 1436781574,
+          "filesize": 233031,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 39016,
+          "chapter_title": "1话",
+          "updatetime": 1436781551,
+          "filesize": 407402,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 500253,
+        "uid": 100472100,
+        "content": "画风好棒",
+        "createtime": 1445949664,
+        "nickname": "narcissist",
+        "avatar": "https://avatar.dmzj.com/5a/47/5a476e7864b8536e619469b1ecfbbc21.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

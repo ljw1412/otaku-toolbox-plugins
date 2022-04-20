@@ -1,0 +1,105 @@
+{
+  "id": 17008,
+  "islong": 2,
+  "direction": 1,
+  "title": "巴甫洛夫少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/bplfsn536l.jpg",
+  "description": "I ❤ 妹，妹妹，一直都在在我的心中！！",
+  "last_updatetime": 1425355601,
+  "last_update_chapter_name": "第03话",
+  "copyright": 3,
+  "first_letter": "b",
+  "comic_py": "bplfsn",
+  "hidden": 0,
+  "hot_num": 40161,
+  "hit_num": 295020,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 34734,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6817,
+      "tag_name": "ねこ太"
+    }
+  ],
+  "subscribe_num": 152,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34734,
+          "chapter_title": "3话",
+          "updatetime": 1425355601,
+          "filesize": 1135896,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 34551,
+          "chapter_title": "2话",
+          "updatetime": 1424944692,
+          "filesize": 1080914,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 34033,
+          "chapter_title": "1话",
+          "updatetime": 1423110642,
+          "filesize": 1058084,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 17450665,
+        "uid": 101937434,
+        "content": "怎么只有3话",
+        "createtime": 1561406072,
+        "nickname": "卍魑魅魍魉卍",
+        "avatar": "https://avatar.dmzj.com/e6/6e/e66e7ffdc1a1528c81784f84278c2d00.png"
+      },
+      {
+        "comment_id": 5483713,
+        "uid": 7940706,
+        "content": "这个没加百合标签？",
+        "createtime": 1530970936,
+        "nickname": "秋山澪殿下舔足同好会",
+        "avatar": "https://avatar.dmzj.com/05/8b/058b9b7eb720135e0d354a0cac543b85.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

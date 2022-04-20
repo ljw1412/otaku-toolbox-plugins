@@ -1,0 +1,87 @@
+{
+  "id": 16279,
+  "islong": 2,
+  "direction": 1,
+  "title": "501BOX！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/501boxbaihehui1.jpg",
+  "description": "日常与夏日的短篇合集",
+  "last_updatetime": 1417883887,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "5",
+  "comic_py": "501box",
+  "hidden": 0,
+  "hot_num": 30415,
+  "hit_num": 175170,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 32662,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6908,
+      "tag_name": "くみちょう"
+    }
+  ],
+  "subscribe_num": 182,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 32662,
+          "chapter_title": "1话",
+          "updatetime": 1417883887,
+          "filesize": 5064953,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 7420599,
+        "uid": 107656627,
+        "content": "好像要出下一部了，期待",
+        "createtime": 1539619039,
+        "nickname": "水星marine",
+        "avatar": "https://avatar.dmzj.com/be/a4/bea47d953e728fe511ea88c190aa4552.png"
+      },
+      {
+        "comment_id": 2348672,
+        "uid": 100664601,
+        "content": "评论，少",
+        "createtime": 1497955067,
+        "nickname": "ssssssssssssssss",
+        "avatar": "https://avatar.dmzj.com/14/99/149907f36fdbc5179e54c685b60ba74d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

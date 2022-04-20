@@ -1,0 +1,91 @@
+{
+  "id": 15495,
+  "islong": 2,
+  "direction": 1,
+  "title": "舰娘日志~吹雪型的一日~",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/chuixuejideyitian.jpg",
+  "description": "舰娘漫画同人，吹雪级的一天。",
+  "last_updatetime": 1409626113,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "chuixuejideyitian",
+  "hidden": 0,
+  "hot_num": 64896,
+  "hit_num": 316047,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 33871,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6634,
+      "tag_name": "こるり"
+    }
+  ],
+  "subscribe_num": 410,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 33871,
+          "chapter_title": "1话",
+          "updatetime": 1409626113,
+          "filesize": 2489506,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 22701591,
+        "uid": 106199207,
+        "content": "这个作者花了好多型号的舰队，还是比较给力的。",
+        "createtime": 1576736237,
+        "nickname": "dmzj_106199207",
+        "avatar": "https://avatar.dmzj.com/de/b4/deb40080a6cb5d22c9b0c9ce0954ffb0.png"
+      },
+      {
+        "comment_id": 1566328,
+        "uid": 101201246,
+        "content": "喜欢",
+        "createtime": 1481793290,
+        "nickname": "酒池肉林",
+        "avatar": "https://avatar.dmzj.com/ca/59/ca59f26aa8fd31462ba0107e25f4c937.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 10549,
+  "islong": 2,
+  "direction": 2,
+  "title": "辐射漫画 All Roads",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/fushelasiweijiasi.jpg",
+  "description": "辐射新维加斯官方漫画 \n",
+  "last_updatetime": 1362652505,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fusheallroads",
+  "hidden": 0,
+  "hot_num": 351825,
+  "hit_num": 725880,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20751,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1551,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20751,
+          "chapter_title": "1卷",
+          "updatetime": 1362652505,
+          "filesize": 6103273,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 22457199,
+        "uid": 105617147,
+        "content": "nv前传啊",
+        "createtime": 1575438954,
+        "nickname": "醉鸡",
+        "avatar": "https://avatar.dmzj.com/87/54/8754c8a82dbfb2efeaa5f92d74986b62.png"
+      },
+      {
+        "comment_id": 17600767,
+        "uid": 105653521,
+        "content": "黑岛与民间合作的mod辐射新加州是fn前传",
+        "createtime": 1561786695,
+        "nickname": "Nayidesu",
+        "avatar": "https://avatar.dmzj.com/35/87/35871483eb13e64cfff8e2951b7e9a01.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

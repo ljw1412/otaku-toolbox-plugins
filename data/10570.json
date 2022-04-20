@@ -1,0 +1,87 @@
+{
+  "id": 10570,
+  "islong": 2,
+  "direction": 1,
+  "title": "小戌年",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/xiaoxunian.jpg",
+  "description": "因为今年是戌年，所以想着要大量的加入各种犬的要素。",
+  "last_updatetime": 1362845709,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xiaoxunian",
+  "hidden": 0,
+  "hot_num": 19959,
+  "hit_num": 176107,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22027,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5619,
+      "tag_name": "苍威"
+    }
+  ],
+  "subscribe_num": 87,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22027,
+          "chapter_title": "1话",
+          "updatetime": 1362845709,
+          "filesize": 2262751,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 695373,
+        "uid": 100077276,
+        "content": "主角组好闪",
+        "createtime": 1459064731,
+        "nickname": "神一样的笨蛋",
+        "avatar": "https://avatar.dmzj.com/1e/2d/1e2d5c5a151712e106b0511dc741e4d6.png"
+      },
+      {
+        "comment_id": 663621,
+        "uid": 100731869,
+        "content": "异性恋被同性恋晒了一脸",
+        "createtime": 1457518927,
+        "nickname": "unbiased",
+        "avatar": "https://avatar.dmzj.com/36/d7/36d72e95de028bdc679a939b2cdcbcef.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

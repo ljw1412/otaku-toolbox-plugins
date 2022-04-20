@@ -1,0 +1,87 @@
+{
+  "id": 10856,
+  "islong": 2,
+  "direction": 1,
+  "title": "竹取物语",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/zhuquwuyudongfang.jpg",
+  "description": "东方同人漫画短篇。",
+  "last_updatetime": 1365165269,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhuquwuyudongfang",
+  "hidden": 0,
+  "hot_num": 189663,
+  "hit_num": 342201,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20894,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3384,
+      "tag_name": "东方同人"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 910,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20894,
+          "chapter_title": "1话",
+          "updatetime": 1365165269,
+          "filesize": 2762271,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 26550007,
+        "uid": 109062974,
+        "content": "剧本里那个人是乡长吧？那眼镜绝对是乡长没错吧！为什么乡长沦为工具人了啊！乡长很可怜的好不好！（错乱）",
+        "createtime": 1587048144,
+        "nickname": "dmzj_109062974",
+        "avatar": "https://avatar.dmzj.com/37/de/37de2f5964f6b15a583e830f493d249a.png"
+      },
+      {
+        "comment_id": 26265882,
+        "uid": 109925357,
+        "content": "好沙雕",
+        "createtime": 1586425691,
+        "nickname": "爾子田里乃",
+        "avatar": "https://avatar.dmzj.com/f5/9a/f59a3602903ae1ae6f264cdef6970c4e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

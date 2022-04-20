@@ -1,0 +1,94 @@
+{
+  "id": 19312,
+  "islong": 1,
+  "direction": 2,
+  "title": "来点果子萌萌哒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1002143921434955377.jpg",
+  "description": "XSX漫画工作室的小日常",
+  "last_updatetime": 1434956223,
+  "last_update_chapter_name": "第03话 关于凤梨",
+  "copyright": 1,
+  "first_letter": "l",
+  "comic_py": "laidianguozimengmengda",
+  "hidden": 0,
+  "hot_num": 799,
+  "hit_num": 1706,
+  "uid": 100214392,
+  "is_lock": 0,
+  "last_update_chapter_id": 42272,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9658,
+      "tag_name": "XSX动漫设计"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42272,
+          "chapter_title": "3话",
+          "updatetime": 1434956223,
+          "filesize": 460860,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 42271,
+          "chapter_title": "2话",
+          "updatetime": 1434955836,
+          "filesize": 281477,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42270,
+          "chapter_title": "1话",
+          "updatetime": 1434955679,
+          "filesize": 194705,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "不定时更新",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

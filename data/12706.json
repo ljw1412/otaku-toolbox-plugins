@@ -1,0 +1,91 @@
+{
+  "id": 12706,
+  "islong": 2,
+  "direction": 1,
+  "title": "奇迹般的早晨",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/qijibandezaochen.jpg",
+  "description": "由子与爱果的闪光弹百合日常。",
+  "last_updatetime": 1378867227,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qijibandezaochen",
+  "hidden": 0,
+  "hot_num": 271957,
+  "hit_num": 367516,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23857,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4324,
+      "tag_name": "森岛明子"
+    }
+  ],
+  "subscribe_num": 1364,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23857,
+          "chapter_title": "1话",
+          "updatetime": 1378867227,
+          "filesize": 1422133,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 21,
+    "latest_comment": [
+      {
+        "comment_id": 22497663,
+        "uid": 108571172,
+        "content": "俺好了",
+        "createtime": 1575688613,
+        "nickname": "lotixous",
+        "avatar": "https://avatar.dmzj.com/43/88/4388f59b8955f8d6f6d63b89b1b8c65d.png"
+      },
+      {
+        "comment_id": 21425187,
+        "uid": 109458331,
+        "content": "我好了",
+        "createtime": 1571364602,
+        "nickname": "dmzj_109458331",
+        "avatar": "https://avatar.dmzj.com/64/22/6422507f7e57a8b29f60fddfb6086084.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

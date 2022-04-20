@@ -1,0 +1,87 @@
+{
+  "id": 10602,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方紫香花",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/dongfangzijinhua.jpg",
+  "description": "东方紫香花，东方同人",
+  "last_updatetime": 1362939791,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongfangzixianghua",
+  "hidden": 0,
+  "hot_num": 359696,
+  "hit_num": 2754448,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23204,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3384,
+      "tag_name": "东方同人"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 1797,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23204,
+          "chapter_title": "1话",
+          "updatetime": 1362939791,
+          "filesize": 19248203,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 43,
+    "latest_comment": [
+      {
+        "comment_id": 25095736,
+        "uid": 107943468,
+        "content": "黑白出场率好高啊",
+        "createtime": 1583811787,
+        "nickname": "dmzj_107943468",
+        "avatar": "https://avatar.dmzj.com/38/96/38968eb5662b0f2b4adfaf79853e3cac.png"
+      },
+      {
+        "comment_id": 24697173,
+        "uid": 109377596,
+        "content": "萌新表示入东方太难了，人物很多名字也不好记，想来看个漫画还不怎么讲设定，大佬们有什么好的入门法吗？",
+        "createtime": 1582990872,
+        "nickname": "dmzj_109377596",
+        "avatar": "https://avatar.dmzj.com/ce/c4/cec4a5c4a6b9711413879c47b1cbbc58.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,79 @@
+{
+  "id": 11028,
+  "islong": 2,
+  "direction": 2,
+  "title": "至黑之夜-原子侠与飞鹰侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/zhiheizhiyeyuanzixia.jpg",
+  "description": "成为蓝灯的原子侠对抗黑灯尸",
+  "last_updatetime": 1366680852,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhiheizhiyeyuanzixiayufeiyingxia",
+  "hidden": 0,
+  "hot_num": 1846290,
+  "hit_num": 74573,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21650,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 8154,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21650,
+          "chapter_title": "1话",
+          "updatetime": 1366680852,
+          "filesize": 5156908,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 4974298,
+        "uid": 105364470,
+        "content": "简介写错了，原子侠是青灯",
+        "createtime": 1528156988,
+        "nickname": "kaldur esla",
+        "avatar": "https://avatar.dmzj.com/59/98/59984b840caa8f550c39a01e2451be1e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

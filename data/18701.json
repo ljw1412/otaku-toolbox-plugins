@@ -1,0 +1,94 @@
+{
+  "id": 18701,
+  "islong": 1,
+  "direction": 2,
+  "title": "豆腐游京传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1001637131431678422.jpg",
+  "description": "小豆腐淡定面对时空穿越，搞笑游京城。结识奇葩小伙伴，快乐的经历，偶然的重逢，兔爷带你一路吃喝玩乐——游遍京城！",
+  "last_updatetime": 1431678745,
+  "last_update_chapter_name": "熊猫出没",
+  "copyright": 1,
+  "first_letter": "d",
+  "comic_py": "doufuyoujingzhuan",
+  "hidden": 0,
+  "hot_num": 1950,
+  "hit_num": 17565,
+  "uid": 100163713,
+  "is_lock": 0,
+  "last_update_chapter_id": 38910,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3324,
+      "tag_name": "武侠"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9319,
+      "tag_name": "鲨鱼"
+    }
+  ],
+  "subscribe_num": 15,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38910,
+          "chapter_title": "熊猫出没",
+          "updatetime": 1431678745,
+          "filesize": 784340,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 38909,
+          "chapter_title": "请叫我豆腐侠",
+          "updatetime": 1431678691,
+          "filesize": 380238,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 38908,
+          "chapter_title": "豆腐游京传第一集",
+          "updatetime": 1431678623,
+          "filesize": 314219,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

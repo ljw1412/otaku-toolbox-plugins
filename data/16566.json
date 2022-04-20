@@ -1,0 +1,83 @@
+{
+  "id": 16566,
+  "islong": 2,
+  "direction": 1,
+  "title": "外出游玩的美人鱼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/chuquyouwandemeirenyu.jpg",
+  "description": "百合四格漫画。",
+  "last_updatetime": 1419923850,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "waichuyouwandemeirenyu",
+  "hidden": 0,
+  "hot_num": 22060,
+  "hit_num": 35475,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 34297,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3707,
+      "tag_name": "佐野妙"
+    }
+  ],
+  "subscribe_num": 117,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34297,
+          "chapter_title": "1话",
+          "updatetime": 1419923850,
+          "filesize": 907372,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 439180,
+        "uid": 100256928,
+        "content": "沒感覺到百合呀~",
+        "createtime": 1438084962,
+        "nickname": "黑貓仔kate",
+        "avatar": "https://avatar.dmzj.com/7d/8f/7d8f4ecc0b2b713c0c525784a91f769c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

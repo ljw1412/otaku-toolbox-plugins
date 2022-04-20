@@ -1,0 +1,140 @@
+{
+  "id": 13980,
+  "islong": 2,
+  "direction": 2,
+  "title": "涂鸦冒险家：水落石出",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/tuyamaoxianjiashuiluoshichu.jpg",
+  "description": "以轰动一时的游戏为基础的全新冒险！",
+  "last_updatetime": 1558145398,
+  "last_update_chapter_name": "第12卷",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "tuyamaoxianjiashuiluoshichu",
+  "hidden": 0,
+  "hot_num": 1879652,
+  "hit_num": 149824,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 89536,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 7661,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 89536,
+          "chapter_title": "12卷",
+          "updatetime": 1558145398,
+          "filesize": 4925208,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 55210,
+          "chapter_title": "7卷",
+          "updatetime": 1465984667,
+          "filesize": 4966131,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 54914,
+          "chapter_title": "6卷",
+          "updatetime": 1465398043,
+          "filesize": 5068697,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 52343,
+          "chapter_title": "5卷",
+          "updatetime": 1459419294,
+          "filesize": 3993527,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 30723,
+          "chapter_title": "4卷",
+          "updatetime": 1407394410,
+          "filesize": 2590259,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 30724,
+          "chapter_title": "3卷",
+          "updatetime": 1407394425,
+          "filesize": 2551933,
+          "chapter_order": 25
+        },
+        {
+          "chapter_id": 30215,
+          "chapter_title": "2卷",
+          "updatetime": 1537532851,
+          "filesize": 6392423,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 27933,
+          "chapter_title": "1卷",
+          "updatetime": 1392565588,
+          "filesize": 2051851,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 16154301,
+        "uid": 105453134,
+        "content": "总共18期，谁来把它填完",
+        "createtime": 1558323377,
+        "nickname": "215sadsaf",
+        "avatar": "https://avatar.dmzj.com/40/09/4009eef5b82a51f986d521a10aeee430.png"
+      },
+      {
+        "comment_id": 16070378,
+        "uid": 107728305,
+        "content": "中间缺了4卷？",
+        "createtime": 1558166386,
+        "nickname": "天生我材2015",
+        "avatar": "https://avatar.dmzj.com/82/89/828963ac0b51747ddd09b6f6871b4382.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

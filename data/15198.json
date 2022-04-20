@@ -1,0 +1,87 @@
+{
+  "id": 15198,
+  "islong": 2,
+  "direction": 1,
+  "title": "有一朵玫瑰存在的风景",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/yipianmeiguicunzaidefengj.jpg",
+  "description": "若是希望，我亦可以让那朵花凋零。",
+  "last_updatetime": 1407121537,
+  "last_update_chapter_name": "全一话",
+  "copyright": 3,
+  "first_letter": "y",
+  "comic_py": "yydmgczdfj",
+  "hidden": 0,
+  "hot_num": 126976,
+  "hit_num": 137141,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 29492,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7592,
+      "tag_name": "片仓アコ"
+    }
+  ],
+  "subscribe_num": 566,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29492,
+          "chapter_title": "1话",
+          "updatetime": 1407121537,
+          "filesize": 2349817,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 27054368,
+        "uid": 105935284,
+        "content": "百合323",
+        "createtime": 1588459472,
+        "nickname": "天倒海",
+        "avatar": "https://avatar.dmzj.com/86/46/864624881ff024fc8df9194ea685ffd2.png"
+      },
+      {
+        "comment_id": 25443260,
+        "uid": 110445649,
+        "content": "没看懂，有谁解释一下？",
+        "createtime": 1584601022,
+        "nickname": "dmzj_110445649",
+        "avatar": "https://avatar.dmzj.com/c9/26/c92662018ac12cfcc14cc53fd2fa3e3c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

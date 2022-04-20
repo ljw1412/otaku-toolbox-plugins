@@ -1,0 +1,87 @@
+{
+  "id": 10567,
+  "islong": 2,
+  "direction": 1,
+  "title": "煌くは色あせぬ想い",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/huangsexiang.jpg",
+  "description": "幽幽子讨厌吃猫肉",
+  "last_updatetime": 1362842136,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "huangsexiang",
+  "hidden": 0,
+  "hot_num": 145885,
+  "hit_num": 534332,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23186,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3384,
+      "tag_name": "东方同人"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 699,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23186,
+          "chapter_title": "1话",
+          "updatetime": 1362842136,
+          "filesize": 5177678,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 25131670,
+        "uid": 109361419,
+        "content": "我突然感觉我不如猫",
+        "createtime": 1583895853,
+        "nickname": "dmzj_109361419",
+        "avatar": "https://avatar.dmzj.com/06/09/0609bd246cadc1a9340c7463471bb2ed.png"
+      },
+      {
+        "comment_id": 23100779,
+        "uid": 108184753,
+        "content": "我枯了(ｉДｉ)",
+        "createtime": 1578291549,
+        "nickname": "卡家君",
+        "avatar": "https://avatar.dmzj.com/87/43/8743089d184e346dfaa86f2d26f86b9e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

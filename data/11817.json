@@ -1,0 +1,87 @@
+{
+  "id": 11817,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方青帖·君如雪",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/dfqtjrx.jpg",
+  "description": "东方青帖·君如雪，东方同人本。",
+  "last_updatetime": 1371811089,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dfqtjrx",
+  "hidden": 0,
+  "hot_num": 355629,
+  "hit_num": 235422,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24999,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5114,
+      "tag_name": "ヨハネ"
+    }
+  ],
+  "subscribe_num": 1576,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24999,
+          "chapter_title": "1话",
+          "updatetime": 1371811089,
+          "filesize": 3879970,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 16896448,
+        "uid": 108441941,
+        "content": "东方青帖•你太美",
+        "createtime": 1559923391,
+        "nickname": "dmzj_108441941",
+        "avatar": "https://avatar.dmzj.com/77/09/7709cd3bdad003218a5d37c35845a9ad.png"
+      },
+      {
+        "comment_id": 6466712,
+        "uid": 106075284,
+        "content": "君（田所）是雪",
+        "createtime": 1535116022,
+        "nickname": "mjdk",
+        "avatar": "https://avatar.dmzj.com/24/09/2409e09e8f8773af32d67689187d2cb3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

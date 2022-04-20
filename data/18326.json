@@ -1,0 +1,89 @@
+{
+  "id": 18326,
+  "islong": 2,
+  "direction": 2,
+  "title": "逍遥游",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1001317061429776225.jpg",
+  "description": "逍遥游",
+  "last_updatetime": 1429848071,
+  "last_update_chapter_name": "第一回，前世今生的缘",
+  "copyright": 1,
+  "first_letter": "x",
+  "comic_py": "xiaoyaoyou",
+  "hidden": 0,
+  "hot_num": 3084,
+  "hit_num": 59798,
+  "uid": 100131706,
+  "is_lock": 0,
+  "last_update_chapter_id": 38070,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9135,
+      "tag_name": "枫子"
+    }
+  ],
+  "subscribe_num": 12,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 38070,
+          "chapter_title": "1话",
+          "updatetime": 1429848071,
+          "filesize": 1597180,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 5913773,
+        "uid": 107386402,
+        "content": "有人吗？",
+        "createtime": 1532778255,
+        "nickname": "dmzj_107386402",
+        "avatar": "https://avatar.dmzj.com/d0/0d/d00d987af43107c997d3bcbb5ac2d67d.png"
+      },
+      {
+        "comment_id": 384063,
+        "uid": 12979567,
+        "content": "国风？",
+        "createtime": 1429899482,
+        "nickname": "sd5745124",
+        "avatar": "https://avatar.dmzj.com/29/80/298070c54ee810681d5a41c730a4436e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

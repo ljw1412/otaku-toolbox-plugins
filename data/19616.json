@@ -1,0 +1,85 @@
+{
+  "id": 19616,
+  "islong": 2,
+  "direction": 2,
+  "title": "风之狐",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871436164800.jpg",
+  "description": "风之狐",
+  "last_updatetime": 1436164922,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "f",
+  "comic_py": "fengzhihu",
+  "hidden": 0,
+  "hot_num": 3072,
+  "hit_num": 142558,
+  "uid": 100205887,
+  "is_lock": 0,
+  "last_update_chapter_id": 40500,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 21,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40500,
+          "chapter_title": "1话",
+          "updatetime": 1436164922,
+          "filesize": 4603293,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "风之狐",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1915055,
+        "uid": 12830526,
+        "content": "画风好好！好有中国范！赞一个！",
+        "createtime": 1489435819,
+        "nickname": "开始！",
+        "avatar": "https://avatar.dmzj.com/46/61/4661f61f349a963ea69cc07e665c94b8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

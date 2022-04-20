@@ -1,0 +1,87 @@
+{
+  "id": 11128,
+  "islong": 2,
+  "direction": 1,
+  "title": "捞金鱼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/laojinyu.jpg",
+  "description": "一段短暂而又平淡，却又十分珍贵的回忆。",
+  "last_updatetime": 1367421824,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "laojinyu",
+  "hidden": 0,
+  "hot_num": 152566,
+  "hit_num": 358607,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21791,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5342,
+      "tag_name": "秀良子"
+    }
+  ],
+  "subscribe_num": 915,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21791,
+          "chapter_title": "1话",
+          "updatetime": 1367421824,
+          "filesize": 4432085,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 25574199,
+        "uid": 107945286,
+        "content": "小穷好漂亮啊...这篇好现实啊..但是无赖男也有无赖男的好啊...",
+        "createtime": 1584896547,
+        "nickname": "dmzj_107945286",
+        "avatar": "https://avatar.dmzj.com/94/39/943924783869c891b94eaf042202a841.png"
+      },
+      {
+        "comment_id": 25347736,
+        "uid": 110250538,
+        "content": "太现实了8",
+        "createtime": 1584393160,
+        "nickname": "你说说你还是人吗",
+        "avatar": "https://avatar.dmzj.com/46/69/4669971e65989f94e6393a13fec8e300.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

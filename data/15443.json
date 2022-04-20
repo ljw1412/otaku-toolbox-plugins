@@ -1,0 +1,87 @@
+{
+  "id": 15443,
+  "islong": 2,
+  "direction": 1,
+  "title": "帕琪妈妈",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/paqimama.jpg",
+  "description": "东方同人漫画，吐槽点好多。",
+  "last_updatetime": 1409071399,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "p",
+  "comic_py": "paqimama",
+  "hidden": 0,
+  "hot_num": 17600,
+  "hit_num": 80191,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 30561,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7696,
+      "tag_name": "黑嘘"
+    }
+  ],
+  "subscribe_num": 81,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30561,
+          "chapter_title": "1话",
+          "updatetime": 1409071399,
+          "filesize": 2504391,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 24805283,
+        "uid": 110101748,
+        "content": "重点是乡长的绝版DS被砸了啊",
+        "createtime": 1583210802,
+        "nickname": "merit\\'gemini",
+        "avatar": "https://avatar.dmzj.com/77/29/7729f4e5af0b11af238a3bb51585bef5.png"
+      },
+      {
+        "comment_id": 18095585,
+        "uid": 100561900,
+        "content": "美赞臣？？",
+        "createtime": 1562853083,
+        "nickname": "怂蛋逃跑王",
+        "avatar": "https://avatar.dmzj.com/46/39/46398e2c993c21d5d66a4655ec9d00f2.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

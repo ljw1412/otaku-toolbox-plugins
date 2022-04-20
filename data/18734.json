@@ -1,0 +1,79 @@
+{
+  "id": 18734,
+  "islong": 2,
+  "direction": 1,
+  "title": "GOTTA煮",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/gottazhufengmianl.jpg",
+  "description": "海贼王同人漫画",
+  "last_updatetime": 1431876657,
+  "last_update_chapter_name": "第01话",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gottazhu",
+  "hidden": 0,
+  "hot_num": 5661,
+  "hit_num": 140074,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 37284,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9332,
+      "tag_name": "一亿"
+    }
+  ],
+  "subscribe_num": 25,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37284,
+          "chapter_title": "1话",
+          "updatetime": 1431876657,
+          "filesize": 5437569,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 396601,
+        "uid": 13801027,
+        "content": "这封面试要干嘛",
+        "createtime": 1431958211,
+        "nickname": "太后太往后还往后",
+        "avatar": "https://avatar.dmzj.com/18/05/180577c1438ec333adf26fe13ed7ce08.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

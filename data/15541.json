@@ -1,0 +1,91 @@
+{
+  "id": 15541,
+  "islong": 2,
+  "direction": 1,
+  "title": "畜生达の宴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/chushengdazhiyan.jpg",
+  "description": "猫吃鱼，狗吃肉，ATM打小怪兽",
+  "last_updatetime": 1410059211,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chushengdazhiyan",
+  "hidden": 0,
+  "hot_num": 20982,
+  "hit_num": 46582,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 31605,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7743,
+      "tag_name": "青犬"
+    }
+  ],
+  "subscribe_num": 107,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31605,
+          "chapter_title": "1话",
+          "updatetime": 1410059211,
+          "filesize": 404061,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 25310586,
+        "uid": 105877380,
+        "content": "魔理沙已经坏掉了。",
+        "createtime": 1584322929,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      },
+      {
+        "comment_id": 23784435,
+        "uid": 100589277,
+        "content": "这事ao的",
+        "createtime": 1580830134,
+        "nickname": "咸鱼61",
+        "avatar": "https://avatar.dmzj.com/86/03/86031af2b5f183059ef4dbb4c3328a71.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

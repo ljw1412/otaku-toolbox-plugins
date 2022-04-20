@@ -1,0 +1,87 @@
+{
+  "id": 10294,
+  "islong": 2,
+  "direction": 1,
+  "title": "东方夏映塚",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/dongfangxiayingzhong.jpg",
+  "description": "东方同人，各种恶搞 军曹 肌肉男",
+  "last_updatetime": 1360307026,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongfangxiayingzhong",
+  "hidden": 0,
+  "hot_num": 26789,
+  "hit_num": 231995,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20446,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5474,
+      "tag_name": "yago-no-ana"
+    }
+  ],
+  "subscribe_num": 108,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20446,
+          "chapter_title": "1话",
+          "updatetime": 1360307026,
+          "filesize": 6474156,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 101764,
+        "uid": 7624926,
+        "content": "看我大东方党占领178！",
+        "createtime": 1360323561,
+        "nickname": "over118118",
+        "avatar": "https://avatar.dmzj.com/30/6c/306c9d05f279dadb0387a12a06b02050.png"
+      },
+      {
+        "comment_id": 101731,
+        "uid": 15783324,
+        "content": "东方的同人本已经渐渐把178占领了，什么时候我大劳模亚丝娜，肉的本子才能放上178呢",
+        "createtime": 1360316347,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

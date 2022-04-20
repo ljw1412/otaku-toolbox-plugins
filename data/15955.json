@@ -1,0 +1,122 @@
+{
+  "id": 15955,
+  "islong": 2,
+  "direction": 2,
+  "title": "漫威1985",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/mw1985000a.jpg",
+  "description": "复仇者，X战警，蜘蛛侠，神奇四侠并不只是书中的人物。也许有一天你也会和他们来场浪漫的邂逅...一个叫托比·古德曼的男孩将自己沉浸在漫画之中，但当他看见红骷髅的第一眼后，一切都改变了...\n",
+  "last_updatetime": 1439959312,
+  "last_update_chapter_name": "第06卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "manwei1985",
+  "hidden": 0,
+  "hot_num": 611589,
+  "hit_num": 3286439,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 44458,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2614,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44458,
+          "chapter_title": "6卷",
+          "updatetime": 1439959312,
+          "filesize": 3431368,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 40220,
+          "chapter_title": "5卷",
+          "updatetime": 1428932502,
+          "filesize": 3451207,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 39395,
+          "chapter_title": "4卷",
+          "updatetime": 1427036254,
+          "filesize": 3524210,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 37784,
+          "chapter_title": "3卷",
+          "updatetime": 1423227557,
+          "filesize": 3179444,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 35841,
+          "chapter_title": "2卷",
+          "updatetime": 1417184693,
+          "filesize": 3192572,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 35159,
+          "chapter_title": "1卷",
+          "updatetime": 1414573138,
+          "filesize": 4515768,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 22706165,
+        "uid": 103442873,
+        "content": "w",
+        "createtime": 1576755960,
+        "nickname": "妖梦poi",
+        "avatar": "https://avatar.dmzj.com/28/73/2873db8e9f7e1ff1a1677968291c0ac6.png"
+      },
+      {
+        "comment_id": 14200423,
+        "uid": 11811026,
+        "content": "死亡侯爵",
+        "createtime": 1555082336,
+        "nickname": "a845878564",
+        "avatar": "https://avatar.dmzj.com/c9/d0/c9d054a0df77be7fe3e883891b3cf2a5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

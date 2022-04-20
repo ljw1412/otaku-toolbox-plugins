@@ -1,0 +1,79 @@
+{
+  "id": 12900,
+  "islong": 2,
+  "direction": 2,
+  "title": "宇宙的巨人 霍达克的起源",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/yuzhoudejuren20131006.jpg",
+  "description": "霍达克的黑历史，基本算是希曼系列的恶役月特刊吧，设定与动画版有出入，看官自行斟酌。",
+  "last_updatetime": 1380990936,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yuzhoudejuren-huodakedeqiyuan",
+  "hidden": 0,
+  "hot_num": 1700764,
+  "hit_num": 95080,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25652,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 7252,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25652,
+          "chapter_title": "1卷",
+          "updatetime": 1380990936,
+          "filesize": 2973225,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 10036324,
+        "uid": 100740458,
+        "content": "希拉的养父？？？？？",
+        "createtime": 1547381715,
+        "nickname": "魔人奥拉",
+        "avatar": "https://avatar.dmzj.com/14/10/141056e8e50495aa169abc90cfb23eb8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

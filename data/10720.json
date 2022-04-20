@@ -1,0 +1,87 @@
+{
+  "id": 10720,
+  "islong": 2,
+  "direction": 1,
+  "title": "HEART SEEK!",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/headstee.jpg",
+  "description": "当地灵殿的主人又回到地上时，会发生什么事呢？搞笑的四格短篇",
+  "last_updatetime": 1363922887,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "heartseek",
+  "hidden": 0,
+  "hot_num": 142628,
+  "hit_num": 145658,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22185,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5465,
+      "tag_name": "正木(こげコロッケ)"
+    }
+  ],
+  "subscribe_num": 698,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22185,
+          "chapter_title": "1话",
+          "updatetime": 1363922887,
+          "filesize": 1872926,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 26743945,
+        "uid": 107673693,
+        "content": "黑白罪孽深重",
+        "createtime": 1587589047,
+        "nickname": "吐槽役也有春天",
+        "avatar": "https://avatar.dmzj.com/76/4d/764dd2a89d57235df9a6ba8ccf3c1814.png"
+      },
+      {
+        "comment_id": 7838705,
+        "uid": 100589277,
+        "content": "留名",
+        "createtime": 1541247780,
+        "nickname": "咸鱼61",
+        "avatar": "https://avatar.dmzj.com/86/03/86031af2b5f183059ef4dbb4c3328a71.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

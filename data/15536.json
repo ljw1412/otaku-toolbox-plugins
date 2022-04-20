@@ -1,0 +1,87 @@
+{
+  "id": 15536,
+  "islong": 2,
+  "direction": 1,
+  "title": "世上最热的冬季",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/shishangzuirededongji.jpg",
+  "description": "东方同人，既然是世上最热的冬季，那干脆叫夏季好了（够。",
+  "last_updatetime": 1410008497,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shishangzuirededongji",
+  "hidden": 0,
+  "hot_num": 23930,
+  "hit_num": 92392,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 31596,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7740,
+      "tag_name": "茜屋"
+    }
+  ],
+  "subscribe_num": 133,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 31596,
+          "chapter_title": "1话",
+          "updatetime": 1410008497,
+          "filesize": 2327210,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 2086811,
+        "uid": 102570374,
+        "content": "唉，彼岸没什么人气啊",
+        "createtime": 1492926388,
+        "nickname": "Rvoby",
+        "avatar": "https://avatar.dmzj.com/38/54/3854804ee27916caa5f509877258b453.png"
+      },
+      {
+        "comment_id": 639773,
+        "uid": 100760556,
+        "content": "真萌",
+        "createtime": 1456290546,
+        "nickname": "二分惟一",
+        "avatar": "https://avatar.dmzj.com/94/fc/94fc300686305310b5f0e0746d7b9e67.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

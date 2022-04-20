@@ -1,0 +1,94 @@
+{
+  "id": 19130,
+  "islong": 2,
+  "direction": 2,
+  "title": "致命柔情",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/Velvetzmrq611001000.jpg",
+  "description": "黑暗中的女杀手的故事。",
+  "last_updatetime": 1437299472,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zhimingrouqing",
+  "hidden": 0,
+  "hot_num": 143905,
+  "hit_num": 63898,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 43174,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2116,
+      "tag_name": "image"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 660,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43174,
+          "chapter_title": "2卷",
+          "updatetime": 1437299472,
+          "filesize": 2909792,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 41962,
+          "chapter_title": "1卷",
+          "updatetime": 1434033243,
+          "filesize": 3821217,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1759643,
+        "uid": 429221,
+        "content": "挺好看的，就坑了",
+        "createtime": 1486210169,
+        "nickname": "芝麻酱碎饼",
+        "avatar": "https://avatar.dmzj.com/61/86/61868811f33be67788b40f3dd3bfdecd.png"
+      },
+      {
+        "comment_id": 410874,
+        "uid": 23069401,
+        "content": "看到image就滚进来了~",
+        "createtime": 1434036903,
+        "nickname": "动漫猪",
+        "avatar": "https://avatar.dmzj.com/1a/2f/1a2fdab2c88a8a9a66362d80a872ccd9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

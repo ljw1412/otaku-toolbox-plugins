@@ -1,0 +1,270 @@
+{
+  "id": 10195,
+  "islong": 2,
+  "direction": 2,
+  "title": "地狱小子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/hellboy.jpg",
+  "description": "Hellboy是Dark Horse Comics（黑马漫画公司）的漫画人物，由Mike Mignola（麦克·米格诺拉）创造。故事情节是关于超自然现象的冒险，画面风格黑暗，具有独一无二的个人风格。Mignola尖锐的线条处理，对大面积阴影和纯色的运用都使他的作品特点极为明显。",
+  "last_updatetime": 1534912679,
+  "last_update_chapter_name": "不死者科西切",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hellboy",
+  "hidden": 1,
+  "hot_num": 653561,
+  "hit_num": 17453942,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 81115,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    },
+    {
+      "tag_id": 3604,
+      "tag_name": "Mike Mignola"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 3291,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 81115,
+          "chapter_title": "不死者科西切",
+          "updatetime": 1534912679,
+          "filesize": 15211792,
+          "chapter_order": 260
+        },
+        {
+          "chapter_id": 76401,
+          "chapter_title": "拉斯普廷-龙之声",
+          "updatetime": 1523698676,
+          "filesize": 15160192,
+          "chapter_order": 250
+        },
+        {
+          "chapter_id": 74217,
+          "chapter_title": "坎普斯",
+          "updatetime": 1518773365,
+          "filesize": 7267617,
+          "chapter_order": 240
+        },
+        {
+          "chapter_id": 65955,
+          "chapter_title": "地狱篇：塔罗死神",
+          "updatetime": 1496485952,
+          "filesize": 11112364,
+          "chapter_order": 230
+        },
+        {
+          "chapter_id": 65801,
+          "chapter_title": "寂静之海",
+          "updatetime": 1496074525,
+          "filesize": 8889856,
+          "chapter_order": 220
+        },
+        {
+          "chapter_id": 64551,
+          "chapter_title": "2017深冬特别篇",
+          "updatetime": 1492187874,
+          "filesize": 3922561,
+          "chapter_order": 210
+        },
+        {
+          "chapter_id": 53899,
+          "chapter_title": "墨西哥大冒险",
+          "updatetime": 1463150508,
+          "filesize": 18342189,
+          "chapter_order": 200
+        },
+        {
+          "chapter_id": 52837,
+          "chapter_title": "深冬特别篇",
+          "updatetime": 1460612643,
+          "filesize": 2104579,
+          "chapter_order": 190
+        },
+        {
+          "chapter_id": 43188,
+          "chapter_title": "活死人之屋(2011)",
+          "updatetime": 1437358235,
+          "filesize": 5818016,
+          "chapter_order": 180
+        },
+        {
+          "chapter_id": 39230,
+          "chapter_title": "大螯虾强生02",
+          "updatetime": 1426649416,
+          "filesize": 11001364,
+          "chapter_order": 170
+        },
+        {
+          "chapter_id": 39229,
+          "chapter_title": "大螯虾强生01",
+          "updatetime": 1426648923,
+          "filesize": 13974937,
+          "chapter_order": 160
+        },
+        {
+          "chapter_id": 38129,
+          "chapter_title": "地狱篇：魔族血统",
+          "updatetime": 1424099284,
+          "filesize": 11782437,
+          "chapter_order": 150
+        },
+        {
+          "chapter_id": 36686,
+          "chapter_title": "画集(2006)",
+          "updatetime": 1419919592,
+          "filesize": 18501377,
+          "chapter_order": 140
+        },
+        {
+          "chapter_id": 26990,
+          "chapter_title": "午夜马戏团(2013)",
+          "updatetime": 1387887197,
+          "filesize": 7680183,
+          "chapter_order": 130
+        },
+        {
+          "chapter_id": 23042,
+          "chapter_title": "12卷",
+          "updatetime": 1368580682,
+          "filesize": 19327192,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 23000,
+          "chapter_title": "11卷",
+          "updatetime": 1368358322,
+          "filesize": 19211104,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 22999,
+          "chapter_title": "10卷",
+          "updatetime": 1368357999,
+          "filesize": 17895198,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 22665,
+          "chapter_title": "9卷",
+          "updatetime": 1366783202,
+          "filesize": 20148409,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 22520,
+          "chapter_title": "8卷",
+          "updatetime": 1365826129,
+          "filesize": 20711793,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 22518,
+          "chapter_title": "7卷",
+          "updatetime": 1365824787,
+          "filesize": 12911036,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 22517,
+          "chapter_title": "6卷",
+          "updatetime": 1365824235,
+          "filesize": 12457265,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 22516,
+          "chapter_title": "5卷",
+          "updatetime": 1365822591,
+          "filesize": 10469029,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 21506,
+          "chapter_title": "4卷",
+          "updatetime": 1419919308,
+          "filesize": 13458901,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 21505,
+          "chapter_title": "3卷",
+          "updatetime": 1419919272,
+          "filesize": 17406100,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 21504,
+          "chapter_title": "2卷",
+          "updatetime": 1359202391,
+          "filesize": 14485320,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 21503,
+          "chapter_title": "1卷",
+          "updatetime": 1359202378,
+          "filesize": 11524483,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 318,
+    "latest_comment": [
+      {
+        "comment_id": 27018513,
+        "uid": 105023627,
+        "content": "留下脚印，证明我曾经来到过这里，纵使终有一天它会随着这片森林一同消逝，顽石风化。偶尔想起……啊……我来过这",
+        "createtime": 1588353274,
+        "nickname": "か大少爷か",
+        "avatar": "https://avatar.dmzj.com/0b/01/0b019def2d7529b3f6a1cc645cdfe9a2.png"
+      },
+      {
+        "comment_id": 26837083,
+        "uid": 108081312,
+        "content": "哇偶，真不错",
+        "createtime": 1587831514,
+        "nickname": "萨摩没有耶",
+        "avatar": "https://avatar.dmzj.com/fe/16/fe16bd54f9e4cc33fffd46b57ea250f8.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

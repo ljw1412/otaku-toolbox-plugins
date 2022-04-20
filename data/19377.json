@@ -1,0 +1,107 @@
+{
+  "id": 19377,
+  "islong": 2,
+  "direction": 2,
+  "title": "12奇星",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1002093781435141290.jpg",
+  "description": "12奇星",
+  "last_updatetime": 1436166163,
+  "last_update_chapter_name": "狂人榜-12",
+  "copyright": 1,
+  "first_letter": "s",
+  "comic_py": "seqixing",
+  "hidden": 0,
+  "hot_num": 5981,
+  "hit_num": 221467,
+  "uid": 100209378,
+  "is_lock": 0,
+  "last_update_chapter_id": 42698,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9628,
+      "tag_name": "洋洋兔动漫"
+    }
+  ],
+  "subscribe_num": 15,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42698,
+          "chapter_title": "狂人榜-12",
+          "updatetime": 1436166163,
+          "filesize": 3085295,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 42697,
+          "chapter_title": "分手时节+酒后撒泼",
+          "updatetime": 1436166012,
+          "filesize": 3117606,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 42696,
+          "chapter_title": "聚餐与斗殴",
+          "updatetime": 1436165757,
+          "filesize": 2853913,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 42572,
+          "chapter_title": "看鬼片篇",
+          "updatetime": 1435731521,
+          "filesize": 2382841,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 42542,
+          "chapter_title": "BOSS训斥篇",
+          "updatetime": 1435660076,
+          "filesize": 2894369,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42342,
+          "chapter_title": "遭遇打劫篇",
+          "updatetime": 1435141395,
+          "filesize": 2881560,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

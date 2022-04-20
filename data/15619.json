@@ -1,0 +1,87 @@
+{
+  "id": 15619,
+  "islong": 2,
+  "direction": 1,
+  "title": "mimesis dolls",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/01misson7894.jpg",
+  "description": "不擅长表达自我的爱丽丝与自律人偶的故事...",
+  "last_updatetime": 1411039540,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mimesisdolls",
+  "hidden": 0,
+  "hot_num": 545787,
+  "hit_num": 196198,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 30976,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6109,
+      "tag_name": "仲谷鳰(仲谷)"
+    }
+  ],
+  "subscribe_num": 2627,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30976,
+          "chapter_title": "1话",
+          "updatetime": 1411039540,
+          "filesize": 3426367,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 26715857,
+        "uid": 109295931,
+        "content": "留",
+        "createtime": 1587525994,
+        "nickname": "湛世幽兰",
+        "avatar": "https://avatar.dmzj.com/32/40/3240f2028b9d72e0191ae20b3d259e8d.png"
+      },
+      {
+        "comment_id": 26001162,
+        "uid": 107475249,
+        "content": "自律人偶会梦到机械人偶吗？",
+        "createtime": 1585883550,
+        "nickname": "Yangsen",
+        "avatar": "https://avatar.dmzj.com/93/14/931440405cd6a7ead3c6bce8ebfb5e00.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,97 @@
+{
+  "id": 18497,
+  "islong": 2,
+  "direction": 1,
+  "title": "我的朋友有问题",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1001415581430299080.jpg",
+  "description": "小翼与一群变态朋友的快乐校园生活...",
+  "last_updatetime": 1430735750,
+  "last_update_chapter_name": "短篇",
+  "copyright": 1,
+  "first_letter": "w",
+  "comic_py": "wodepengyouyouwenti",
+  "hidden": 0,
+  "hot_num": 10945,
+  "hit_num": 95903,
+  "uid": 100141558,
+  "is_lock": 0,
+  "last_update_chapter_id": 40849,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9178,
+      "tag_name": "烏鴉小翼"
+    }
+  ],
+  "subscribe_num": 87,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40849,
+          "chapter_title": "短篇",
+          "updatetime": 1430735750,
+          "filesize": 2285425,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 12270836,
+        "uid": 100969383,
+        "content": "哦",
+        "createtime": 1551611066,
+        "nickname": "……52521",
+        "avatar": "https://avatar.dmzj.com/c7/40/c7408312fd15a90deb5f84b97436d6e9.png"
+      },
+      {
+        "comment_id": 564119,
+        "uid": 100694722,
+        "content": "哈哈哈……不错",
+        "createtime": 1452040544,
+        "nickname": "┽﹏甜心♛王子♛",
+        "avatar": "https://avatar.dmzj.com/13/96/1396b8bf70e133843491c1a3c5419681.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

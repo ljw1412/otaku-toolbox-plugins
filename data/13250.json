@@ -1,0 +1,91 @@
+{
+  "id": 13250,
+  "islong": 2,
+  "direction": 2,
+  "title": "恐怖小镇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/greatingsfromgellville.jpg",
+  "description": "Thomas Ott作品系列，他是瑞士人，同样不止一技一能，除了画漫画，政治讽刺文学与画，做动画片以外，还是摇滚乐队花花公子们乐队（The Playboys）的主唱。他的漫画通篇没有对白，完全依靠视觉形象黑白的笔触制造出无言的恐怖。",
+  "last_updatetime": 1384443000,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "k",
+  "comic_py": "kongbuxiaozhen",
+  "hidden": 0,
+  "hot_num": 158550,
+  "hit_num": 641387,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 26283,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6831,
+      "tag_name": "Thomas Ott"
+    }
+  ],
+  "subscribe_num": 662,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 26283,
+          "chapter_title": "1卷",
+          "updatetime": 1384443000,
+          "filesize": 4194003,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 29,
+    "latest_comment": [
+      {
+        "comment_id": 26165719,
+        "uid": 100856082,
+        "content": "?！",
+        "createtime": 1586196397,
+        "nickname": "黑白熊",
+        "avatar": "https://avatar.dmzj.com/0c/5a/0c5a995826dc058b6d9c2e5276dd3440.png"
+      },
+      {
+        "comment_id": 24974961,
+        "uid": 106917891,
+        "content": "画面太强了吧",
+        "createtime": 1583548990,
+        "nickname": "砂糖和盐",
+        "avatar": "https://avatar.dmzj.com/25/14/2514c09456fc21ca8d19af67d6b52966.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

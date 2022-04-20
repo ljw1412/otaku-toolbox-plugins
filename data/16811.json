@@ -1,0 +1,126 @@
+{
+  "id": 16811,
+  "islong": 2,
+  "direction": 2,
+  "title": "神盾局V3",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/shendunjul.jpg",
+  "description": "漫画《神盾局》是漫威推出的2015年全新连载，地球编号616(非199999)，讲述以菲尔·寇森为首的神盾局特工在超级英雄/恶棍的世界是如何行驶自己职责的。",
+  "last_updatetime": 1530934532,
+  "last_update_chapter_name": "第08卷",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shendunju",
+  "hidden": 1,
+  "hot_num": 26706,
+  "hit_num": 647905,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 78060,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 299,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 78060,
+          "chapter_title": "8卷",
+          "updatetime": 1530934532,
+          "filesize": 3179848,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 40595,
+          "chapter_title": "5卷",
+          "updatetime": 1436361072,
+          "filesize": 2815484,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 39379,
+          "chapter_title": "4卷",
+          "updatetime": 1432917124,
+          "filesize": 3255242,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 37125,
+          "chapter_title": "3卷",
+          "updatetime": 1427685023,
+          "filesize": 3730299,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 36061,
+          "chapter_title": "2卷",
+          "updatetime": 1425039091,
+          "filesize": 3416064,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 34858,
+          "chapter_title": "1卷",
+          "updatetime": 1421634099,
+          "filesize": 4814418,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 25104164,
+        "uid": 101403425,
+        "content": "神盾局V3",
+        "createtime": 1583833167,
+        "nickname": "狐尼克27833",
+        "avatar": "https://avatar.dmzj.com/54/f4/54f450e0629bfb97d1bb3faec538bd66.png"
+      },
+      {
+        "comment_id": 23781599,
+        "uid": 109823354,
+        "content": "这部还行 能串起来",
+        "createtime": 1580826105,
+        "nickname": "dmzj_109823354",
+        "avatar": "https://avatar.dmzj.com/31/74/31743800131acabc6f2c132ccbe934a7.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

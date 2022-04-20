@@ -1,0 +1,126 @@
+{
+  "id": 13498,
+  "islong": 2,
+  "direction": 2,
+  "title": "末日之书",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/morizhishu.jpg",
+  "description": "一个古老传说的全新扭曲，一个黑暗而富有启示性的测试，一个无辜的孩子，如何成长为一个暴君……",
+  "last_updatetime": 1387477849,
+  "last_update_chapter_name": "第06卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "morizhishu",
+  "hidden": 0,
+  "hot_num": 4170602,
+  "hit_num": 755360,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25828,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 17901,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25828,
+          "chapter_title": "6卷",
+          "updatetime": 1387477849,
+          "filesize": 2526019,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 25827,
+          "chapter_title": "5卷",
+          "updatetime": 1387477843,
+          "filesize": 2299920,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 25826,
+          "chapter_title": "4卷",
+          "updatetime": 1387477834,
+          "filesize": 2792047,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 25825,
+          "chapter_title": "3卷",
+          "updatetime": 1387477827,
+          "filesize": 2593979,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 25824,
+          "chapter_title": "2卷",
+          "updatetime": 1387477820,
+          "filesize": 2772566,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 25823,
+          "chapter_title": "1卷",
+          "updatetime": 1387477811,
+          "filesize": 3042163,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 26875464,
+        "uid": 101916131,
+        "content": "维克多·冯·杜姆，你被赠予了凡人所能得到最好的馈赠，你被赠予了苦难。",
+        "createtime": 1587934401,
+        "nickname": "隔壁那个傻笑的",
+        "avatar": "https://avatar.dmzj.com/91/47/9147aa7bd490663c36668652c5702182.png"
+      },
+      {
+        "comment_id": 26238857,
+        "uid": 105801946,
+        "content": "先来一个",
+        "createtime": 1586359950,
+        "nickname": "路边的一只黑猫",
+        "avatar": "https://avatar.dmzj.com/2a/62/2a625eeeb728b692a64c23ab2545666f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

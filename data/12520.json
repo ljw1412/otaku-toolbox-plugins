@@ -1,0 +1,130 @@
+{
+  "id": 12520,
+  "islong": 2,
+  "direction": 1,
+  "title": "哆啦A梦历险记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/duolaamenglixianji.jpg",
+  "description": "藤子·F·不二雄于1996年与世长辞后，田中道明，三谷幸广等漫画哆啦A梦历险记新秀开始画机器猫漫画，他们的主题是哆啦A梦七小子的冒险故事，田中的风格比较简洁，三谷的画法则多是根据历史而创作的玄幻漫画。其中田中版共6卷，三谷版共12卷。",
+  "last_updatetime": 1377015313,
+  "last_update_chapter_name": "第06卷",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dlamlxj",
+  "hidden": 0,
+  "hot_num": 2017129,
+  "hit_num": 29069960,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24845,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1849,
+      "tag_name": "藤子·F·不二雄"
+    },
+    {
+      "tag_id": 6513,
+      "tag_name": "田中道明"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 10440,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24845,
+          "chapter_title": "6卷",
+          "updatetime": 1377015313,
+          "filesize": 14824214,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 24844,
+          "chapter_title": "5卷",
+          "updatetime": 1377015298,
+          "filesize": 15679287,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 24843,
+          "chapter_title": "4卷",
+          "updatetime": 1377015293,
+          "filesize": 18333164,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 24842,
+          "chapter_title": "3卷",
+          "updatetime": 1377015287,
+          "filesize": 19980632,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 24841,
+          "chapter_title": "2卷",
+          "updatetime": 1377015279,
+          "filesize": 21177999,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 24840,
+          "chapter_title": "1卷",
+          "updatetime": 1377015271,
+          "filesize": 19646300,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 283,
+    "latest_comment": [
+      {
+        "comment_id": 27082230,
+        "uid": 108617159,
+        "content": "童年啊",
+        "createtime": 1588529028,
+        "nickname": "dmzj_108617159",
+        "avatar": "https://avatar.dmzj.com/b1/83/b183d11bd08074a11644d6a08f50ea2a.png"
+      },
+      {
+        "comment_id": 27069570,
+        "uid": 100802648,
+        "content": "从来都无法得知，人们是究竟为什么会爱上另一个人。我猜也许我们心上都有一个缺口，呼呼往灵魂里灌着寒风，我们急切需要一个正好形状的心来填上它",
+        "createtime": 1588508849,
+        "nickname": "lisnshark",
+        "avatar": "https://avatar.dmzj.com/16/56/16568cd06e0cc6bf877f94e583c776b2.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

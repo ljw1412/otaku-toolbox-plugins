@@ -1,0 +1,72 @@
+{
+  "id": 18066,
+  "islong": 2,
+  "direction": 2,
+  "title": "冒险者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1001172011428645456.jpg",
+  "description": "各种不要脸的冒险者",
+  "last_updatetime": 1428653028,
+  "last_update_chapter_name": "各种不要脸的冒险者",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "maoxianzhe",
+  "hidden": 0,
+  "hot_num": 1873,
+  "hit_num": 5757,
+  "uid": 100117201,
+  "is_lock": 0,
+  "last_update_chapter_id": 37568,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9021,
+      "tag_name": "夜叉行 "
+    }
+  ],
+  "subscribe_num": 6,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37568,
+          "chapter_title": "各种不要脸的冒险者",
+          "updatetime": 1428653028,
+          "filesize": 122948,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

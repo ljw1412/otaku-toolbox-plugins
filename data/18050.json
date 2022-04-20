@@ -1,0 +1,96 @@
+{
+  "id": 18050,
+  "islong": 2,
+  "direction": 2,
+  "title": "剑三短篇漫画合集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1001161501428559080.jpg",
+  "description": "脚本：阿笑\n都是剑三的同人短篇合集，CP……苍咩，明唐，唐毒？！\n最近画的也会直接更新在这个合集里",
+  "last_updatetime": 1428651950,
+  "last_update_chapter_name": "殊途同歸（一）",
+  "copyright": 1,
+  "first_letter": "j",
+  "comic_py": "jsdpmhhj",
+  "hidden": 0,
+  "hot_num": 14384,
+  "hit_num": 147521,
+  "uid": 100116150,
+  "is_lock": 0,
+  "last_update_chapter_id": 40107,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3324,
+      "tag_name": "武侠"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9013,
+      "tag_name": "feisna"
+    }
+  ],
+  "subscribe_num": 149,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40107,
+          "chapter_title": "殊途同歸（一）",
+          "updatetime": 1428651950,
+          "filesize": 563568,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40083,
+          "chapter_title": "苍咩，我们约定。",
+          "updatetime": 1428560476,
+          "filesize": 808809,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 1798592,
+        "uid": 103478988,
+        "content": "又是我大天策府(°ㅂ° ╬)狼牙兵打死",
+        "createtime": 1486905555,
+        "nickname": "藏策藏",
+        "avatar": "https://avatar.dmzj.com/22/dc/22dc264673bec980f23b3f4459a4ccdf.png"
+      },
+      {
+        "comment_id": 1288551,
+        "uid": 102085608,
+        "content": "哇啊啊，咩太和盾太都嫁给我！！！",
+        "createtime": 1474082098,
+        "nickname": "一半凄迷一半伤感",
+        "avatar": "https://avatar.dmzj.com/eb/fa/ebfad98d317a226235dbfe57c283613c.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

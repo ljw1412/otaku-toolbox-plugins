@@ -1,0 +1,91 @@
+{
+  "id": 10204,
+  "islong": 2,
+  "direction": 1,
+  "title": "BEST PARTNER",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/bestpartner.jpg",
+  "description": "沙耶加和杏子,两人会相处好吗.....!?",
+  "last_updatetime": 1359210232,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bestpartner",
+  "hidden": 0,
+  "hot_num": 114132,
+  "hit_num": 353435,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20317,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5424,
+      "tag_name": "桃屋チカ"
+    }
+  ],
+  "subscribe_num": 533,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20317,
+          "chapter_title": "1话",
+          "updatetime": 1359210232,
+          "filesize": 3082424,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 25765238,
+        "uid": 109120477,
+        "content": "查个眼的话真的有用吗？话说大妈之家为什么会出现这种事情啊？还有听说查眼太短的话会被清除，我也不知道真的假的啊，想写多点真的不知道该写什么，算了，就这样吧。感觉也差不多了，这样子的话应该就不会被清除了吧！（我是复制机）",
+        "createtime": 1585328714,
+        "nickname": "dmzj_109120477",
+        "avatar": "https://avatar.dmzj.com/e7/14/e7142a6e8182860408db366791f30690.png"
+      },
+      {
+        "comment_id": 24042304,
+        "uid": 105733084,
+        "content": "好康",
+        "createtime": 1581495535,
+        "nickname": "圆环之理馒头卡",
+        "avatar": "https://avatar.dmzj.com/26/66/2666e8fe98a0080bd52244cb9aa9bbce.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

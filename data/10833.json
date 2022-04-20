@@ -1,0 +1,91 @@
+{
+  "id": 10833,
+  "islong": 2,
+  "direction": 1,
+  "title": "这条街道没有人鱼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/jiedaomeiyourenyu.jpg",
+  "description": "她突如其来的造访了这条街，又如同泡沫一般消失不见了······",
+  "last_updatetime": 1543938165,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "z",
+  "comic_py": "zheitaojiedaomeiyourenyu",
+  "hidden": 0,
+  "hot_num": 286732,
+  "hit_num": 409316,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21303,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5760,
+      "tag_name": "未幡"
+    }
+  ],
+  "subscribe_num": 1340,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21303,
+          "chapter_title": "1话",
+          "updatetime": 1543938165,
+          "filesize": 2493778,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 46,
+    "latest_comment": [
+      {
+        "comment_id": 25698129,
+        "uid": 109574802,
+        "content": "淡淡的忧伤，emmm",
+        "createtime": 1585186146,
+        "nickname": "独揽神明",
+        "avatar": "https://avatar.dmzj.com/71/07/71071faff03b02cff22c74360ca18b14.png"
+      },
+      {
+        "comment_id": 23582591,
+        "uid": 107376776,
+        "content": "好看",
+        "createtime": 1580234634,
+        "nickname": "dmzj_107376776",
+        "avatar": "https://avatar.dmzj.com/d9/2e/d92e6a74d6529230190d214dc4061a9f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

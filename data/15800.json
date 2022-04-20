@@ -1,0 +1,119 @@
+{
+  "id": 15800,
+  "islong": 2,
+  "direction": 2,
+  "title": "无畏捍卫者v1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/FearlessDefendersFearless587.jpg",
+  "description": "在这条街上你必须无畏前行！",
+  "last_updatetime": 1561373748,
+  "last_update_chapter_name": "第04卷",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wwhwzmn",
+  "hidden": 0,
+  "hot_num": 45280,
+  "hit_num": 73479,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 90609,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 233,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 34618,
+          "chapter_title": "10卷",
+          "updatetime": 1412955233,
+          "filesize": 5181677,
+          "chapter_order": 200
+        },
+        {
+          "chapter_id": 90609,
+          "chapter_title": "4卷",
+          "updatetime": 1561373748,
+          "filesize": 4154883,
+          "chapter_order": 122
+        },
+        {
+          "chapter_id": 80029,
+          "chapter_title": "3卷",
+          "updatetime": 1532427335,
+          "filesize": 3691912,
+          "chapter_order": 121
+        },
+        {
+          "chapter_id": 76923,
+          "chapter_title": "2卷",
+          "updatetime": 1524989451,
+          "filesize": 4215350,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 76922,
+          "chapter_title": "1卷",
+          "updatetime": 1524989422,
+          "filesize": 4009817,
+          "chapter_order": 110
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 12797011,
+        "uid": 107023800,
+        "content": "插眼",
+        "createtime": 1552402740,
+        "nickname": "dmzj_107023800",
+        "avatar": "https://avatar.dmzj.com/af/ef/afef2f4e38367d6a38008a8c0669a005.png"
+      },
+      {
+        "comment_id": 4527181,
+        "uid": 101608177,
+        "content": "大佬",
+        "createtime": 1525016778,
+        "nickname": "音透湖",
+        "avatar": "https://avatar.dmzj.com/27/22/2722962e04c219c3c3e1ab7f3b11434b.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

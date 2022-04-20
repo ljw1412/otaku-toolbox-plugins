@@ -1,0 +1,83 @@
+{
+  "id": 19392,
+  "islong": 2,
+  "direction": 2,
+  "title": "召唤之国",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1002177561435214529.jpg",
+  "description": "原本在《漫画BAR》上连载的作品。讲述的是类似游戏幻兽对战的故事，也许有的读者已经看过了吧。 战争游戏，是不是真的是游戏呢…….",
+  "last_updatetime": 1435214734,
+  "last_update_chapter_name": "第02话",
+  "copyright": 1,
+  "first_letter": "z",
+  "comic_py": "zhaohuanzhiguo",
+  "hidden": 0,
+  "hot_num": 15081,
+  "hit_num": 183054,
+  "uid": 100217756,
+  "is_lock": 0,
+  "last_update_chapter_id": 42376,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8013,
+      "tag_name": "青鸟童话"
+    }
+  ],
+  "subscribe_num": 130,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42376,
+          "chapter_title": "2话",
+          "updatetime": 1435214734,
+          "filesize": 1036240,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42375,
+          "chapter_title": "1话",
+          "updatetime": 1435214673,
+          "filesize": 1042319,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

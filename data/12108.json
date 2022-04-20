@@ -1,0 +1,95 @@
+{
+  "id": 12108,
+  "islong": 2,
+  "direction": 1,
+  "title": "某妄想的电波日志",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/mwxddbrz.jpg",
+  "description": "某妄想的电波日志，让人笑到崩的糟糕同人本。",
+  "last_updatetime": 1374211070,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "mwxddbrz",
+  "hidden": 0,
+  "hot_num": 103968,
+  "hit_num": 980020,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 23085,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 6219,
+      "tag_name": "节操"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6328,
+      "tag_name": "PAPALA"
+    }
+  ],
+  "subscribe_num": 583,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 23085,
+          "chapter_title": "1卷",
+          "updatetime": 1374211070,
+          "filesize": 2684364,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 26314079,
+        "uid": 110518788,
+        "content": "xswl",
+        "createtime": 1586522558,
+        "nickname": "鲨鱼ge",
+        "avatar": "https://avatar.dmzj.com/89/17/8917da89ae5dc0621c6c2b14d746a866.png"
+      },
+      {
+        "comment_id": 24871159,
+        "uid": 109895189,
+        "content": "有趣，笑死了。",
+        "createtime": 1583334825,
+        "nickname": "老蔡ac",
+        "avatar": "https://avatar.dmzj.com/ae/e8/aee8848c174cfc89d39031c365e2e583.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

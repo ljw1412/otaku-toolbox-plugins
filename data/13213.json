@@ -1,0 +1,87 @@
+{
+  "id": 13213,
+  "islong": 2,
+  "direction": 1,
+  "title": "千万饭店",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/qianwanfandian.jpg",
+  "description": "阿求毒日记……",
+  "last_updatetime": 1384067854,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "q",
+  "comic_py": "qianwanfandian",
+  "hidden": 0,
+  "hot_num": 57746,
+  "hit_num": 59745,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 25065,
+  "authors": [
+    {
+      "tag_id": 1102,
+      "tag_name": "FLIPFLOPs"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 291,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25065,
+          "chapter_title": "1话",
+          "updatetime": 1384067854,
+          "filesize": 1387787,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 25412974,
+        "uid": 105877380,
+        "content": "这标题什么意思啊。",
+        "createtime": 1584537339,
+        "nickname": "笑话大师杰洛齐贝林",
+        "avatar": "https://avatar.dmzj.com/29/52/2952f3fa5d773fd4f4f5f8df57684c53.png"
+      },
+      {
+        "comment_id": 24769467,
+        "uid": 109541430,
+        "content": "这人也太少了吧",
+        "createtime": 1583131249,
+        "nickname": "dmzj_109541430",
+        "avatar": "https://avatar.dmzj.com/42/59/425953a56127cb2d4f743cf9b92ace3e.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

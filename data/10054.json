@@ -1,0 +1,87 @@
+{
+  "id": 10054,
+  "islong": 2,
+  "direction": 1,
+  "title": "LOVE&PEACE南方游侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/lovepeace.jpg",
+  "description": "梅泽春人早期短篇漫画合集。喜欢梅泽春人老湿的童鞋可以关注一下，涉及的漫画题材很宽，说明梅泽春人老湿想象力还是很丰富的。",
+  "last_updatetime": 1357528842,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lovepeace",
+  "hidden": 0,
+  "hot_num": 31043,
+  "hit_num": 446147,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20085,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 376,
+      "tag_name": "梅泽春人"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 166,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20085,
+          "chapter_title": "1卷",
+          "updatetime": 1357528842,
+          "filesize": 27490971,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 6846298,
+        "uid": 100700807,
+        "content": "摇滚漫画家了",
+        "createtime": 1537071070,
+        "nickname": "H N E",
+        "avatar": "https://avatar.dmzj.com/19/e6/19e601d287f065140c85297bb1eefda6.png"
+      },
+      {
+        "comment_id": 96770,
+        "uid": 1853351,
+        "content": "说好的王子呢",
+        "createtime": 1357535786,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

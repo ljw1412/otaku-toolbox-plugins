@@ -1,0 +1,72 @@
+{
+  "id": 17291,
+  "islong": 2,
+  "direction": 2,
+  "title": "来段伴奏吧",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/0304laiduanbanzoubafml.jpg",
+  "description": "我是个写歌的，只是没人知道而已",
+  "last_updatetime": 1425457055,
+  "last_update_chapter_name": "短篇",
+  "copyright": 1,
+  "first_letter": "l",
+  "comic_py": "laiduanbanzouba",
+  "hidden": 0,
+  "hot_num": 3559,
+  "hit_num": 34226,
+  "uid": 100098810,
+  "is_lock": 0,
+  "last_update_chapter_id": 36224,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8638,
+      "tag_name": "亮司"
+    }
+  ],
+  "subscribe_num": 15,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36224,
+          "chapter_title": "1话",
+          "updatetime": 1425457055,
+          "filesize": 1415780,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

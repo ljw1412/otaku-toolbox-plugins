@@ -1,0 +1,91 @@
+{
+  "id": 18234,
+  "islong": 2,
+  "direction": 1,
+  "title": "亡者安息之殿",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/wangzheanxizhidian.jpg",
+  "description": "内涵很丰富的一本呢……",
+  "last_updatetime": 1429370769,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "wangzheanxizhidian",
+  "hidden": 0,
+  "hot_num": 76875,
+  "hit_num": 99898,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 36457,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4904,
+      "tag_name": "滝太郎"
+    },
+    {
+      "tag_id": 6157,
+      "tag_name": "LETRA"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "subscribe_num": 361,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 36457,
+          "chapter_title": "1话",
+          "updatetime": 1429370769,
+          "filesize": 6515576,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 21070596,
+        "uid": 100561900,
+        "content": "来了来了",
+        "createtime": 1570504872,
+        "nickname": "怂蛋逃跑王",
+        "avatar": "https://avatar.dmzj.com/46/39/46398e2c993c21d5d66a4655ec9d00f2.png"
+      },
+      {
+        "comment_id": 11478091,
+        "uid": 107802943,
+        "content": "诶——没了?感觉还有后续的内容",
+        "createtime": 1550287070,
+        "nickname": "牧师不偷牌",
+        "avatar": "https://avatar.dmzj.com/e6/05/e605cc1761a0430b34aa14da6956651d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

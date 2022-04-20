@@ -1,0 +1,122 @@
+{
+  "id": 14871,
+  "islong": 2,
+  "direction": 1,
+  "title": "狂欢节二次创作合集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/khjecczhj.jpg",
+  "description": "由多位漫画家共同创作的狂欢节系列！",
+  "last_updatetime": 1407158605,
+  "last_update_chapter_name": "第05话",
+  "copyright": 0,
+  "first_letter": "k",
+  "comic_py": "khjecczhj",
+  "hidden": 0,
+  "hot_num": 476335,
+  "hit_num": 139202,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 29989,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 2054,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29989,
+          "chapter_title": "5话",
+          "updatetime": 1407158605,
+          "filesize": 2151927,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 29800,
+          "chapter_title": "4话",
+          "updatetime": 1406462512,
+          "filesize": 1897468,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 29634,
+          "chapter_title": "3话",
+          "updatetime": 1405832397,
+          "filesize": 2486446,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 29234,
+          "chapter_title": "2.5话",
+          "updatetime": 1404202919,
+          "filesize": 1576133,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 29233,
+          "chapter_title": "2话",
+          "updatetime": 1404202708,
+          "filesize": 1767504,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 29232,
+          "chapter_title": "1话",
+          "updatetime": 1404202220,
+          "filesize": 1790335,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 26062028,
+        "uid": 110701778,
+        "content": "我找到啦",
+        "createtime": 1586003981,
+        "nickname": "虎皮尖椒儿味",
+        "avatar": "https://avatar.dmzj.com/68/28/6828ca3054315aef453dee98f1bcb789.png"
+      },
+      {
+        "comment_id": 24627738,
+        "uid": 105010202,
+        "content": "大家一起来狂欢吧，开启",
+        "createtime": 1582894162,
+        "nickname": "莫笑吾家有女初长成",
+        "avatar": "https://avatar.dmzj.com/59/94/5994839818bcb36006214edb93186c63.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,157 @@
+{
+  "id": 10480,
+  "islong": 2,
+  "direction": 1,
+  "title": "棒球大奇迹",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/bangqiudaqiji.jpg",
+  "description": "一部不错的棒球漫,画风比较老,出版社的名字好有特色",
+  "last_updatetime": 1361869287,
+  "last_update_chapter_name": "第11卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bangqiudaqiji",
+  "hidden": 0,
+  "hot_num": 22715,
+  "hit_num": 1159864,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 21896,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5578,
+      "tag_name": "こせきこうじ"
+    }
+  ],
+  "subscribe_num": 51,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 21896,
+          "chapter_title": "11卷",
+          "updatetime": 1361869287,
+          "filesize": 31000055,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 21895,
+          "chapter_title": "10卷",
+          "updatetime": 1361869224,
+          "filesize": 27659574,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 21894,
+          "chapter_title": "9卷",
+          "updatetime": 1361869213,
+          "filesize": 28265016,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 21893,
+          "chapter_title": "8卷",
+          "updatetime": 1361869196,
+          "filesize": 27196600,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 21892,
+          "chapter_title": "7卷",
+          "updatetime": 1361868983,
+          "filesize": 29347899,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 21891,
+          "chapter_title": "6卷",
+          "updatetime": 1361868974,
+          "filesize": 27821487,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 21890,
+          "chapter_title": "5卷",
+          "updatetime": 1361868966,
+          "filesize": 29713016,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 21889,
+          "chapter_title": "4卷",
+          "updatetime": 1361868953,
+          "filesize": 30986737,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 21888,
+          "chapter_title": "3卷",
+          "updatetime": 1361868928,
+          "filesize": 28893170,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 21887,
+          "chapter_title": "2卷",
+          "updatetime": 1361868921,
+          "filesize": 29490925,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 21886,
+          "chapter_title": "1卷",
+          "updatetime": 1361868914,
+          "filesize": 30260697,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 23173664,
+        "uid": 109775679,
+        "content": "考古",
+        "createtime": 1578578257,
+        "nickname": "dmzj_109775679",
+        "avatar": "https://avatar.dmzj.com/9e/07/9e07e964f8a9bae20e8dfad18e7bd4c0.png"
+      },
+      {
+        "comment_id": 105062,
+        "uid": 15175662,
+        "content": "这不是垃圾君某颜艺吗",
+        "createtime": 1361879527,
+        "nickname": "黑长直大好！！",
+        "avatar": "https://avatar.dmzj.com/34/8b/348b96ab58ce724815bec8fd06ae168f.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

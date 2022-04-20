@@ -1,0 +1,87 @@
+{
+  "id": 14364,
+  "islong": 2,
+  "direction": 1,
+  "title": "小革命家",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/xxgmj.jpg",
+  "description": "梦想是什么。梦想就是手拉手一块去实现的东西！！",
+  "last_updatetime": 1397643529,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xmxj",
+  "hidden": 0,
+  "hot_num": 10084,
+  "hit_num": 216488,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 27639,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7314,
+      "tag_name": "56"
+    }
+  ],
+  "subscribe_num": 20,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27639,
+          "chapter_title": "1话",
+          "updatetime": 1397643529,
+          "filesize": 4787414,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 226656,
+        "uid": 11275101,
+        "content": "嘛...別把封面 放跟 內容無關的圖= =",
+        "createtime": 1397647079,
+        "nickname": "吾名小犬",
+        "avatar": "https://avatar.dmzj.com/20/9a/209ac0c1166e073a3f5e93cb740dfc5f.png"
+      },
+      {
+        "comment_id": 226654,
+        "uid": 26300474,
+        "content": "浪漫的家伙，呵呵  求连载\n /b弹跳 ",
+        "createtime": 1397646609,
+        "nickname": "雪原色",
+        "avatar": "https://avatar.dmzj.com/d8/46/d846dd68e3053335602618b1023da7fa.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

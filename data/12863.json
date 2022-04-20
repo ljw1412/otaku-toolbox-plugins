@@ -1,0 +1,87 @@
+{
+  "id": 12863,
+  "islong": 2,
+  "direction": 1,
+  "title": "TOO RED！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/toored.jpg",
+  "description": "正木的东方本",
+  "last_updatetime": 1380639531,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "t",
+  "comic_py": "toored",
+  "hidden": 0,
+  "hot_num": 138830,
+  "hit_num": 171896,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24394,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5465,
+      "tag_name": "正木(こげコロッケ)"
+    }
+  ],
+  "subscribe_num": 692,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24394,
+          "chapter_title": "1话",
+          "updatetime": 1380639531,
+          "filesize": 2768444,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 17370401,
+        "uid": 107706616,
+        "content": "妹芙组，出乎意料的可爱呢出乎意料的可爱呢",
+        "createtime": 1561112454,
+        "nickname": "蝉藻城",
+        "avatar": "https://avatar.dmzj.com/55/03/5503283f3cd946c5a52bb9dbf09bd4ea.png"
+      },
+      {
+        "comment_id": 1915383,
+        "uid": 100504650,
+        "content": "教出来的高徒233333333",
+        "createtime": 1489452610,
+        "nickname": "矢泽越",
+        "avatar": "https://avatar.dmzj.com/b0/11/b011a7f8fab3e088ce7722545dfc5f43.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 15236,
+  "islong": 2,
+  "direction": 1,
+  "title": "ATM男",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/atmnan.jpg",
+  "description": "在你身边的那些机器，也存在着烦恼与辛苦。",
+  "last_updatetime": 1407674972,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "a",
+  "comic_py": "atmnan",
+  "hidden": 1,
+  "hot_num": 118240,
+  "hit_num": 2078063,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 30080,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7608,
+      "tag_name": "派手な看护妇"
+    }
+  ],
+  "subscribe_num": 697,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 30080,
+          "chapter_title": "1话",
+          "updatetime": 1407674972,
+          "filesize": 4221590,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 84,
+    "latest_comment": [
+      {
+        "comment_id": 26600178,
+        "uid": 100226202,
+        "content": "！！！",
+        "createtime": 1587199496,
+        "nickname": "做大死1",
+        "avatar": "https://avatar.dmzj.com/45/10/45109d8eec63318b6a6e51b1ac75719e.png"
+      },
+      {
+        "comment_id": 25267653,
+        "uid": 109568833,
+        "content": "。。。。。。。。。。。。。。。。。",
+        "createtime": 1584206712,
+        "nickname": "琥珀木星",
+        "avatar": "https://avatar.dmzj.com/64/66/646646c47bfb568d84a8431ba9e218de.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,107 @@
+{
+  "id": 11512,
+  "islong": 2,
+  "direction": 2,
+  "title": "夜行神龙：坏蛋们",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/yexingshenlong.jpg",
+  "description": "夜行神龙的支线漫画，讲述当初的几个反派改过自新，组成救赎小队执行任务的故事。主要对抗的是光照会",
+  "last_updatetime": 1370744792,
+  "last_update_chapter_name": "第05卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yxslhdm",
+  "hidden": 0,
+  "hot_num": 15476,
+  "hit_num": 231542,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 24812,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1669,
+      "tag_name": "Greg Weisman"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 53,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 24812,
+          "chapter_title": "5卷",
+          "updatetime": 1370744792,
+          "filesize": 2514917,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 24651,
+          "chapter_title": "4卷",
+          "updatetime": 1370225557,
+          "filesize": 3076325,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 24650,
+          "chapter_title": "3卷",
+          "updatetime": 1370225531,
+          "filesize": 3293857,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 24649,
+          "chapter_title": "2卷",
+          "updatetime": 1370225483,
+          "filesize": 2992954,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 24648,
+          "chapter_title": "1卷",
+          "updatetime": 1370225440,
+          "filesize": 3002312,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 126625,
+        "uid": 7345587,
+        "content": "童年",
+        "createtime": 1370777882,
+        "nickname": "",
+        "avatar": ""
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

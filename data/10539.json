@@ -1,0 +1,94 @@
+{
+  "id": 10539,
+  "islong": 2,
+  "direction": 1,
+  "title": "海贼王-熊猫人历险记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/haizeiwangxiongmao.jpg",
+  "description": "喜欢《海贼王》的朋友，应该知道里面有一个专跑龙套的熊猫人，他的大名甚至还登在监狱LV5的名单里。这两本熊猫人单行本，是OnePiece中文网将《海贼王》1-60卷里熊猫人出现的画面搜集起来，名为《PandaMan熊猫人历险记》。\n",
+  "last_updatetime": 1362550314,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hzxiongmaoren",
+  "hidden": 0,
+  "hot_num": 584084,
+  "hit_num": 9870199,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20738,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 667,
+      "tag_name": "尾田荣一郎"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 2675,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20738,
+          "chapter_title": "2卷",
+          "updatetime": 1362550314,
+          "filesize": 13063217,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 20737,
+          "chapter_title": "1卷",
+          "updatetime": 1362550300,
+          "filesize": 10468461,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 453,
+    "latest_comment": [
+      {
+        "comment_id": 26756394,
+        "uid": 110809134,
+        "content": "留",
+        "createtime": 1587629722,
+        "nickname": "dmzj_110809134",
+        "avatar": "https://avatar.dmzj.com/7b/c8/7bc83e69a2426d62b7bb30463b0bb277.png"
+      },
+      {
+        "comment_id": 25989102,
+        "uid": 100985966,
+        "content": "先……马为敬！",
+        "createtime": 1585846727,
+        "nickname": "成比例",
+        "avatar": "https://avatar.dmzj.com/70/69/7069537aaea805fe1a57231d93fd4b8d.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

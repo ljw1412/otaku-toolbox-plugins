@@ -1,0 +1,91 @@
+{
+  "id": 10008,
+  "islong": 2,
+  "direction": 1,
+  "title": "都市传说",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/yongzheyongzheaa.jpg",
+  "description": "不可思议的世界让我们来悄悄地看一眼？",
+  "last_updatetime": 1357031978,
+  "last_update_chapter_name": "第1-2话",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dushichuanshuo",
+  "hidden": 0,
+  "hot_num": 112112,
+  "hit_num": 844236,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20190,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 370,
+      "tag_name": "勇人"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 826,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20190,
+          "chapter_title": "1话",
+          "updatetime": 1357031978,
+          "filesize": 4641604,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 26269536,
+        "uid": 104937044,
+        "content": "谁有花丸幼稚园的坐标，求定位，谢",
+        "createtime": 1586434757,
+        "nickname": "黑曜16200",
+        "avatar": "https://avatar.dmzj.com/a7/6f/a76f43d2966bb2df0b5e766f3a95e426.png"
+      },
+      {
+        "comment_id": 26104060,
+        "uid": 109306331,
+        "content": "我靠到现在都还没更新。",
+        "createtime": 1586082512,
+        "nickname": "布拉LB",
+        "avatar": "https://avatar.dmzj.com/d2/92/d292311c0006f3dfdb8d51027a92cc24.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

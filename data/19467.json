@@ -1,0 +1,72 @@
+{
+  "id": 19467,
+  "islong": 2,
+  "direction": 2,
+  "title": "摸鱼图",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1002180521435324235.jpg",
+  "description": "平时画的一些画，很多不足~希望大家能鞭笞我~",
+  "last_updatetime": 1435325044,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "m",
+  "comic_py": "moyutu",
+  "hidden": 0,
+  "hot_num": 767,
+  "hit_num": 2129,
+  "uid": 100218052,
+  "is_lock": 0,
+  "last_update_chapter_id": 42471,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9723,
+      "tag_name": "糖醋排骨"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42471,
+          "chapter_title": "1话",
+          "updatetime": 1435325044,
+          "filesize": 860917,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

@@ -1,0 +1,129 @@
+{
+  "id": 18465,
+  "islong": 2,
+  "direction": 1,
+  "title": "宝石色之恋",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/bsszl48569l.jpg",
+  "description": "在车站等待百合",
+  "last_updatetime": 1432264812,
+  "last_update_chapter_name": "假人",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bsszl",
+  "hidden": 0,
+  "hot_num": 152389,
+  "hit_num": 290273,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 41325,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9199,
+      "tag_name": "西uko"
+    }
+  ],
+  "subscribe_num": 952,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41325,
+          "chapter_title": "假人",
+          "updatetime": 1432264812,
+          "filesize": 1394907,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 41324,
+          "chapter_title": "PV",
+          "updatetime": 1432264810,
+          "filesize": 524806,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 41020,
+          "chapter_title": "短篇5",
+          "updatetime": 1431431800,
+          "filesize": 758020,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 40929,
+          "chapter_title": "短篇4",
+          "updatetime": 1431187340,
+          "filesize": 1409421,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 40928,
+          "chapter_title": "短篇3",
+          "updatetime": 1431187337,
+          "filesize": 604580,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 40754,
+          "chapter_title": "短篇2",
+          "updatetime": 1430648478,
+          "filesize": 435331,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 40752,
+          "chapter_title": "短篇1",
+          "updatetime": 1430642343,
+          "filesize": 1456543,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 22226860,
+        "uid": 108242138,
+        "content": "这是艺术！！",
+        "createtime": 1574309469,
+        "nickname": "dmzj_108242138",
+        "avatar": "https://avatar.dmzj.com/41/42/41423fd4f7c4032d6b5f9e0016c5c4c1.png"
+      },
+      {
+        "comment_id": 21142013,
+        "uid": 108418051,
+        "content": "777那边都有的嘛",
+        "createtime": 1570677943,
+        "nickname": "新奥尔良桃子",
+        "avatar": "https://avatar.dmzj.com/11/74/11749acc276692b006c79e0c96b09998.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

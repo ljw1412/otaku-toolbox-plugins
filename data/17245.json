@@ -1,0 +1,109 @@
+{
+  "id": 17245,
+  "islong": 2,
+  "direction": 1,
+  "title": "龙珠Z 复活的F",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/fuhuodef.jpg",
+  "description": "龙珠Z的新篇连载。",
+  "last_updatetime": 1439522064,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lzzfhdf",
+  "hidden": 0,
+  "hot_num": 755776,
+  "hit_num": 4549558,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 44257,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 446,
+      "tag_name": "鸟山明"
+    },
+    {
+      "tag_id": 3438,
+      "tag_name": "Toyble"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 4183,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44257,
+          "chapter_title": "3话",
+          "updatetime": 1439522064,
+          "filesize": 2782716,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 39282,
+          "chapter_title": "2话",
+          "updatetime": 1426819421,
+          "filesize": 3348539,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 38580,
+          "chapter_title": "1话",
+          "updatetime": 1425262516,
+          "filesize": 4830184,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 318,
+    "latest_comment": [
+      {
+        "comment_id": 25549220,
+        "uid": 110113854,
+        "content": "和",
+        "createtime": 1584842630,
+        "nickname": "dmzj_110113854",
+        "avatar": "https://avatar.dmzj.com/8b/25/8b25ee5bbfa0c30a6003fceeb815758d.png"
+      },
+      {
+        "comment_id": 24011628,
+        "uid": 106158877,
+        "content": "求龙珠漫画",
+        "createtime": 1581422476,
+        "nickname": "dmzj_106158877",
+        "avatar": "https://avatar.dmzj.com/70/c2/70c25084e7ac6de35725657b3dcc31a6.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

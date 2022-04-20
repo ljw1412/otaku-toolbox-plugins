@@ -1,0 +1,105 @@
+{
+  "id": 10915,
+  "islong": 2,
+  "direction": 1,
+  "title": "终极保镖",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/zhongjibaobiao.jpg",
+  "description": "描绘执行赌上性命工作的男人之感动作品！",
+  "last_updatetime": 1365585814,
+  "last_update_chapter_name": "第03卷",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "zhongjibaobiao",
+  "hidden": 0,
+  "hot_num": 18844,
+  "hit_num": 979986,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 22486,
+  "authors": [
+    {
+      "tag_id": 937,
+      "tag_name": "国友泰士"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    },
+    {
+      "tag_id": 4459,
+      "tag_name": "高清单行"
+    }
+  ],
+  "subscribe_num": 84,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 22486,
+          "chapter_title": "3卷",
+          "updatetime": 1365585814,
+          "filesize": 18068520,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 22485,
+          "chapter_title": "2卷",
+          "updatetime": 1365585617,
+          "filesize": 17874955,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22484,
+          "chapter_title": "1卷",
+          "updatetime": 1365585440,
+          "filesize": 18377654,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 3578287,
+        "uid": 105000338,
+        "content": "怎么都长一个样啊！",
+        "createtime": 1514303890,
+        "nickname": "Koekichon",
+        "avatar": "https://avatar.dmzj.com/16/75/1675f3626e46d52282b673c810ec751a.png"
+      },
+      {
+        "comment_id": 112568,
+        "uid": 16733446,
+        "content": "呃……第一个评论？\n为什么这么老的漫画，第一卷竟然也基情四射……- -！",
+        "createtime": 1365589396,
+        "nickname": "turnip_gray",
+        "avatar": "https://avatar.dmzj.com/cf/ce/cfceb99a87fd518f93103dc0009f68e4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

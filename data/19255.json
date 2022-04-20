@@ -1,0 +1,87 @@
+{
+  "id": 19255,
+  "islong": 2,
+  "direction": 1,
+  "title": "拼图",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/00pingtusjh618.jpg",
+  "description": "我在寻找像拼图碎片一样，\n跟我合拍的人……\n缺失的部分想要你来填满，\n让我们存异求同！",
+  "last_updatetime": 1498471571,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "p",
+  "comic_py": "pintu",
+  "hidden": 1,
+  "hot_num": 482393,
+  "hit_num": 598864,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 42159,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4597,
+      "tag_name": "森江慧"
+    }
+  ],
+  "subscribe_num": 2650,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42159,
+          "chapter_title": "1话",
+          "updatetime": 1498471571,
+          "filesize": 5522460,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 104,
+    "latest_comment": [
+      {
+        "comment_id": 26739749,
+        "uid": 110397490,
+        "content": "留",
+        "createtime": 1587575857,
+        "nickname": "噼里啪啦轰",
+        "avatar": "https://avatar.dmzj.com/b2/b4/b2b4509e64c3afeb881a608540b93176.png"
+      },
+      {
+        "comment_id": 26372495,
+        "uid": 110378811,
+        "content": "感觉老师各个题材的都有画过",
+        "createtime": 1586622876,
+        "nickname": "dmzj_110378811",
+        "avatar": "https://avatar.dmzj.com/77/59/7759f4f43f444a361477b524e9748bc3.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

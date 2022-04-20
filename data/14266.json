@@ -1,0 +1,87 @@
+{
+  "id": 14266,
+  "islong": 2,
+  "direction": 1,
+  "title": "樱花绽放",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/yhzf.jpg",
+  "description": "美丽的樱花也有落下的时候。",
+  "last_updatetime": 1396270625,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yinghuazhanfang",
+  "hidden": 0,
+  "hot_num": 4676,
+  "hit_num": 14266,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 27655,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7264,
+      "tag_name": "松村直纪"
+    }
+  ],
+  "subscribe_num": 17,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 27655,
+          "chapter_title": "1话",
+          "updatetime": 1396270625,
+          "filesize": 780032,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 221467,
+        "uid": 21772844,
+        "content": "这画风和画质无力 /c背对 ",
+        "createtime": 1396422800,
+        "nickname": "奈亚子佧弥",
+        "avatar": "https://avatar.dmzj.com/b4/4d/b44db452a77a486aeef77a6269048756.png"
+      },
+      {
+        "comment_id": 221182,
+        "uid": 6220944,
+        "content": "人生毕业！",
+        "createtime": 1396329289,
+        "nickname": "qazedr",
+        "avatar": "https://avatar.dmzj.com/59/83/5983d162f12eacffa4939ea65d599491.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

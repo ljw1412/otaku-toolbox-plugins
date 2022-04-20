@@ -1,0 +1,122 @@
+{
+  "id": 12069,
+  "islong": 2,
+  "direction": 1,
+  "title": "Honey & Mustard",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/HoneyMustard.jpg",
+  "description": "蜂蜜芥末的味道是什么样的呢？又甜又辣——",
+  "last_updatetime": 1406435602,
+  "last_update_chapter_name": "Side：B-1",
+  "copyright": 3,
+  "first_letter": "h",
+  "comic_py": "honeymustard",
+  "hidden": 1,
+  "hot_num": 102304,
+  "hit_num": 978433,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 29399,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4324,
+      "tag_name": "森岛明子"
+    }
+  ],
+  "subscribe_num": 391,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29399,
+          "chapter_title": "Side：B-1",
+          "updatetime": 1406435602,
+          "filesize": 1788978,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 29398,
+          "chapter_title": "Side：A",
+          "updatetime": 1406435591,
+          "filesize": 2884841,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 23000,
+          "chapter_title": "2.5番外",
+          "updatetime": 1373861416,
+          "filesize": 612422,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 29393,
+          "chapter_title": "02Honey&Mustard02",
+          "updatetime": 1406433336,
+          "filesize": 2979842,
+          "chapter_order": 21
+        },
+        {
+          "chapter_id": 22999,
+          "chapter_title": "1.5夜晚篇",
+          "updatetime": 1373861349,
+          "filesize": 355190,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 22998,
+          "chapter_title": "01Honey&Mustard",
+          "updatetime": 1373861319,
+          "filesize": 3326536,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 102,
+    "latest_comment": [
+      {
+        "comment_id": 27070808,
+        "uid": 106300994,
+        "content": "留下足迹",
+        "createtime": 1588511689,
+        "nickname": "dmzj_106300994",
+        "avatar": "https://avatar.dmzj.com/58/00/580059b9ca6c3b69e4156bef972fa7e0.png"
+      },
+      {
+        "comment_id": 26337610,
+        "uid": 80371,
+        "content": "嗯，完全可以，留",
+        "createtime": 1586563035,
+        "nickname": "庶辙",
+        "avatar": "https://avatar.dmzj.com/71/20/7120ee5770483d9d53a03f462ebf6064.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

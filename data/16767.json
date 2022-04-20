@@ -1,0 +1,87 @@
+{
+  "id": 16767,
+  "islong": 2,
+  "direction": 2,
+  "title": "异形之猪",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/0115yixingzhizhufml.jpg",
+  "description": "在太空中，没人听得到你的尖叫",
+  "last_updatetime": 1421309777,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yixingzhizhudh",
+  "hidden": 0,
+  "hot_num": 265628,
+  "hit_num": 190085,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 37281,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1019,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 37281,
+          "chapter_title": "1卷",
+          "updatetime": 1421309777,
+          "filesize": 3558959,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 25752679,
+        "uid": 110745475,
+        "content": "牛掰",
+        "createtime": 1585313194,
+        "nickname": "dmzj_110745475",
+        "avatar": "https://avatar.dmzj.com/08/91/0891a729149d957881b46480e4156936.png"
+      },
+      {
+        "comment_id": 18817913,
+        "uid": 108872644,
+        "content": "最后的形状好像炸猪排",
+        "createtime": 1564504039,
+        "nickname": "Rustin",
+        "avatar": "https://avatar.dmzj.com/79/48/7948ceb566f9ad4410738ac451d98ca5.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

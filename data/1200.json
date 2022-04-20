@@ -1,0 +1,105 @@
+{
+  "id": 1200,
+  "islong": 2,
+  "direction": 1,
+  "title": "空谈师",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/kts.jpg",
+  "description": "是以電腦網絡作為媒介的假想遊戲空間。當中生存了兩種人──白之族和黑之族。每一天,兩族間都會有一場戰爭,以傷亡的人數去決定當天的勝利者,戰爭時間一結束,死去的人會一筆勾銷,直至第二天戰爭的開始。一天,一個不屬於兩族人的小女孩忽然闖進「Board」,還有一個來歷不明的黑之族族人──由艾魯於「Board」中大開殺戒,速度力、戰鬥力皆驚人的他,究竟隱藏著什麼秘密……？\n",
+  "last_updatetime": 1536297776,
+  "last_update_chapter_name": "vol_03",
+  "copyright": 0,
+  "first_letter": "k",
+  "comic_py": "kts",
+  "hidden": 1,
+  "hot_num": 32888,
+  "hit_num": 1204223,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 1868,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2625,
+      "tag_name": "篠房六郎"
+    }
+  ],
+  "subscribe_num": 203,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 1868,
+          "chapter_title": "3卷",
+          "updatetime": 1536297777,
+          "filesize": 14518087,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 1867,
+          "chapter_title": "2卷",
+          "updatetime": 1178197740,
+          "filesize": 14124579,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 1866,
+          "chapter_title": "1卷",
+          "updatetime": 1178197740,
+          "filesize": 14307583,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 25848706,
+        "uid": 101753563,
+        "content": "不错不错",
+        "createtime": 1585546955,
+        "nickname": "云中超人",
+        "avatar": "https://avatar.dmzj.com/92/02/9202c7a2886ae7640a340e2195198565.png"
+      },
+      {
+        "comment_id": 24057861,
+        "uid": 108176131,
+        "content": "康康",
+        "createtime": 1581524300,
+        "nickname": "dmzj_108176131",
+        "avatar": "https://avatar.dmzj.com/12/16/1216d6a92bf464fc5ce0350bd4be30fd.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

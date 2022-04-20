@@ -1,0 +1,99 @@
+{
+  "id": 14282,
+  "islong": 2,
+  "direction": 1,
+  "title": "回转企鹅罐：Fabulous Anthology",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/hzqeggftr.jpg",
+  "description": "企鹅罐官方合同志，由多位作者联合制作的豪华特辑。",
+  "last_updatetime": 1396497425,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "f",
+  "comic_py": "fabulousanthology",
+  "hidden": 0,
+  "hot_num": 554914,
+  "hit_num": 1768701,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 29594,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "百合"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 2369,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29594,
+          "chapter_title": "1卷",
+          "updatetime": 1396497425,
+          "filesize": 16382241,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 31,
+    "latest_comment": [
+      {
+        "comment_id": 25419515,
+        "uid": 107813153,
+        "content": "快乐",
+        "createtime": 1584545161,
+        "nickname": "小喵呜",
+        "avatar": "https://avatar.dmzj.com/60/fc/60fc00aaa3113a6e7f4ffc54d4ad3dcc.png"
+      },
+      {
+        "comment_id": 25114046,
+        "uid": 100032174,
+        "content": "结局最心疼的是苹果...这么短的时间连着失恋两次...",
+        "createtime": 1583852033,
+        "nickname": "虫皇虫义",
+        "avatar": "https://avatar.dmzj.com/58/84/5884b166e6b37842f905a7566711ece9.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

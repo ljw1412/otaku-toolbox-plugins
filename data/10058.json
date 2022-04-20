@@ -1,0 +1,87 @@
+{
+  "id": 10058,
+  "islong": 2,
+  "direction": 1,
+  "title": "sunday四格彩漫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/sundaysgcm.jpg",
+  "description": "sunday连载全家合集，轻松搞笑小四格",
+  "last_updatetime": 1357610866,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "sundaysgcm",
+  "hidden": 0,
+  "hot_num": 377680,
+  "hit_num": 203168,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 20262,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 1419,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 20262,
+          "chapter_title": "1话",
+          "updatetime": 1357610866,
+          "filesize": 1929303,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 16856205,
+        "uid": 104273578,
+        "content": "红红火火恍恍惚惚万年一年级死神小学生",
+        "createtime": 1559818321,
+        "nickname": "艾扎克·佛斯特",
+        "avatar": "https://avatar.dmzj.com/c4/83/c48372494ade1efb660aed6d979e3c22.png"
+      },
+      {
+        "comment_id": 96842,
+        "uid": 15131099,
+        "content": "万年小学生的官方权威解释版——\n连解释都不用的解释版本",
+        "createtime": 1357612011,
+        "nickname": "luciferadam",
+        "avatar": "https://avatar.dmzj.com/2c/77/2c779743125532d5a850823e3aa3ef00.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}

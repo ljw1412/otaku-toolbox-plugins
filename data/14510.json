@@ -1,0 +1,91 @@
+{
+  "id": 14510,
+  "islong": 2,
+  "direction": 1,
+  "title": "Colors",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/Colors.jpg",
+  "description": "为了守护街道的和平，coior战队再次出场！",
+  "last_updatetime": 1399530963,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "colors",
+  "hidden": 0,
+  "hot_num": 11956,
+  "hit_num": 39181,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 29155,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7367,
+      "tag_name": "カシヲ"
+    }
+  ],
+  "subscribe_num": 55,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29155,
+          "chapter_title": "1话",
+          "updatetime": 1399530963,
+          "filesize": 2284354,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 13119515,
+        "uid": 107077940,
+        "content": "为什么只有一话啊啊啊啊啊！",
+        "createtime": 1552922896,
+        "nickname": "dmzj_107077940",
+        "avatar": "https://avatar.dmzj.com/a3/ca/a3ca1c075ac7c162ee563e6cab16d573.png"
+      },
+      {
+        "comment_id": 12287328,
+        "uid": 106427490,
+        "content": "cy",
+        "createtime": 1551629400,
+        "nickname": "dmzj_106427490",
+        "avatar": "https://avatar.dmzj.com/3f/c7/3fc7656cb5725712136f59a7a139e5d4.png"
+      }
+    ]
+  },
+  "url_links": [],
+  "isHideChapter": "0",
+  "dh_url_links": [
+    {
+      "title": "网页端",
+      "list": []
+    },
+    {
+      "title": "APP端",
+      "list": []
+    }
+  ],
+  "is_dot": "0"
+}
