@@ -1,0 +1,71 @@
+{
+  "id": 22419,
+  "islong": 2,
+  "direction": 2,
+  "title": "团团虎跳虎",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445929530.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445929567,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 950,
+  "hit_num": 5685,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42887,
+          "chapter_title": "1话",
+          "updatetime": 1445929567,
+          "filesize": 580644,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 20308574,
+        "uid": 101844932,
+        "content": "我知道你们都是搜一个人的朋友的名字进来的",
+        "createtime": 1568477007,
+        "nickname": "辛并狂",
+        "avatar": "https://avatar.dmzj.com/79/15/79150b4bb1596efd6cb3c54148967895.png"
+      },
+      {
+        "comment_id": 20275894,
+        "uid": 107400796,
+        "content": "稻花香里说丰年",
+        "createtime": 1568384055,
+        "nickname": "抱头蹲防的麻薯",
+        "avatar": "https://avatar.dmzj.com/99/51/9951223c3c5117ae4079b33be2614f8d.png"
+      }
+    ]
+  }
+}

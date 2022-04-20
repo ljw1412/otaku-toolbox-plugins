@@ -1,0 +1,73 @@
+{
+  "id": 25181,
+  "islong": 2,
+  "direction": 1,
+  "title": "尽头",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/311102015jintoujianniang1110.jpg",
+  "description": "在战争结束前夕，曾经杀敌无数的英雄武藏被派到了一个荒岛中，在那里，有一名特殊的敌人在等着她。",
+  "last_updatetime": 1447157733,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 17164,
+  "hit_num": 101764,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8545,
+      "tag_name": "Cボ"
+    }
+  ],
+  "subscribe_num": 70,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45118,
+          "chapter_title": "1话",
+          "updatetime": 1447157733,
+          "filesize": 2764685,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 27104235,
+        "uid": 104364175,
+        "content": "不错。。。",
+        "createtime": 1588604258,
+        "nickname": "骷髅王113",
+        "avatar": "https://avatar.dmzj.com/35/75/3575cebfb278faaa2adfcc82731669f2.png"
+      },
+      {
+        "comment_id": 515017,
+        "uid": 100526018,
+        "content": "英雄惜英雄。感谢汉化。当初在P站看的时候就已经觉得很震撼了",
+        "createtime": 1447560838,
+        "nickname": "BonedWoo",
+        "avatar": "https://avatar.dmzj.com/82/75/8275b324713b9e492e025ea0235c419d.png"
+      }
+    ]
+  }
+}

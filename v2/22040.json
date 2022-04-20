@@ -1,0 +1,103 @@
+{
+  "id": 22040,
+  "islong": 1,
+  "direction": 2,
+  "title": "漫画家与大明星",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1446084245.jpg",
+  "description": "漫画家与大明星能擦出怎样的火花那？",
+  "last_updatetime": 1448430378,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 90116,
+  "hit_num": 1979111,
+  "uid": 100473771,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 14892,
+      "tag_name": "元气工场"
+    }
+  ],
+  "subscribe_num": 872,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48195,
+          "chapter_title": "5话",
+          "updatetime": 1448430378,
+          "filesize": 1375885,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 48033,
+          "chapter_title": "4话",
+          "updatetime": 1447820232,
+          "filesize": 1624474,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 47824,
+          "chapter_title": "3话",
+          "updatetime": 1447210950,
+          "filesize": 1928193,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 47356,
+          "chapter_title": "2话",
+          "updatetime": 1446632344,
+          "filesize": 1680838,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 46866,
+          "chapter_title": "1话",
+          "updatetime": 1446027116,
+          "filesize": 1971850,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 14,
+    "latest_comment": [
+      {
+        "comment_id": 7737549,
+        "uid": 104997738,
+        "content": "跪求《漫画家与助手》",
+        "createtime": 1540889321,
+        "nickname": "夏天63510",
+        "avatar": "https://avatar.dmzj.com/97/6d/976d3170f039fa5e3b883f7dd6991c6e.png"
+      },
+      {
+        "comment_id": 2420279,
+        "uid": 104770961,
+        "content": "好期待悦成声源",
+        "createtime": 1499138480,
+        "nickname": "镜瞳Nayo",
+        "avatar": "https://avatar.dmzj.com/86/71/86716a8b2d3d467f16d1c8131768b767.png"
+      }
+    ]
+  }
+}

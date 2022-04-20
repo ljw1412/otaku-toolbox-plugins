@@ -1,0 +1,63 @@
+{
+  "id": 22558,
+  "islong": 2,
+  "direction": 2,
+  "title": "两两小店情",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445936657.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445936673,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 1879,
+  "hit_num": 15067,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 6,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42590,
+          "chapter_title": "1话",
+          "updatetime": 1445936673,
+          "filesize": 544973,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 14440203,
+        "uid": 107273258,
+        "content": "这是啥呀？。。。",
+        "createtime": 1555432982,
+        "nickname": "隔夜",
+        "avatar": "https://avatar.dmzj.com/fa/46/fa46d9e781300f3abd758046e9da74cf.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": 21971,
+  "islong": 2,
+  "direction": 2,
+  "title": "冷笑话",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1004604581445588315.jpg",
+  "description": "我听过的一些冷笑话……",
+  "last_updatetime": 1445588333,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 1750,
+  "hit_num": 8518,
+  "uid": 100460458,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10806,
+      "tag_name": "二囬"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44071,
+          "chapter_title": "1话",
+          "updatetime": 1445588333,
+          "filesize": 176470,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 497572,
+        "uid": 100102818,
+        "content": "~≧▽≦)/~好搞笑啊~作者加油哦(^_^)Y",
+        "createtime": 1445598198,
+        "nickname": "あの日タイムマシン",
+        "avatar": "https://avatar.dmzj.com/3a/2d/3a2d7d1f144e76eb1128d54f0137ce07.png"
+      }
+    ]
+  }
+}

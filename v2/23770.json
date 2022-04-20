@@ -1,0 +1,54 @@
+{
+  "id": 23770,
+  "islong": 2,
+  "direction": 2,
+  "title": "非常假",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1004738361446106976.jpg",
+  "description": "顶点动漫",
+  "last_updatetime": 1446106996,
+  "copyright": 1,
+  "first_letter": "f",
+  "hot_num": 732,
+  "hit_num": 3478,
+  "uid": 100473836,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10829,
+      "tag_name": "顶点动漫"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47405,
+          "chapter_title": "1话",
+          "updatetime": 1446106996,
+          "filesize": 1029726,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

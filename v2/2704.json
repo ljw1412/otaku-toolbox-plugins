@@ -1,0 +1,97 @@
+{
+  "id": 2704,
+  "islong": 2,
+  "direction": 1,
+  "title": "天下无敌",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/tw01-01_a572e991c257b5a8f08df6ba66868819.jpg",
+  "description": "胡绍权的新漫画。",
+  "last_updatetime": 1271929205,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 8510,
+  "hit_num": 273301,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1496,
+      "tag_name": "胡绍权"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 13,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6841,
+          "chapter_title": "5卷",
+          "updatetime": 1272534005,
+          "filesize": 5184767,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 6840,
+          "chapter_title": "4卷",
+          "updatetime": 1272534005,
+          "filesize": 5920153,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 6839,
+          "chapter_title": "3卷",
+          "updatetime": 1272534005,
+          "filesize": 5717282,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 6838,
+          "chapter_title": "2卷",
+          "updatetime": 1272534005,
+          "filesize": 5756644,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 6837,
+          "chapter_title": "1卷",
+          "updatetime": 1272534005,
+          "filesize": 8438733,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 21731987,
+        "uid": 105282220,
+        "content": "这个漫画好像挺神奇的",
+        "createtime": 1572272926,
+        "nickname": "谁守护着沙滩呢",
+        "avatar": "https://avatar.dmzj.com/89/00/890021a21bdc436e7c726229201a9e73.png"
+      },
+      {
+        "comment_id": 7921860,
+        "uid": 106377369,
+        "content": "这个是因为版权被封的吧",
+        "createtime": 1541501232,
+        "nickname": "dmzj_106377369",
+        "avatar": "https://avatar.dmzj.com/07/de/07dee0dae2861cdc9388e3545f7897c7.png"
+      }
+    ]
+  }
+}

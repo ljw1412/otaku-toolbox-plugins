@@ -1,0 +1,105 @@
+{
+  "id": 21668,
+  "islong": 2,
+  "direction": 2,
+  "title": "Confess ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/132701131443081611.jpg",
+  "description": "confess",
+  "last_updatetime": 1443081561,
+  "last_update_chapter_name": "第05话",
+  "copyright": 1,
+  "first_letter": "c",
+  "comic_py": "confess",
+  "hidden": 0,
+  "hot_num": 48439,
+  "hit_num": 570205,
+  "uid": 13270113,
+  "is_lock": 0,
+  "last_update_chapter_id": 41559,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10270,
+      "tag_name": "柒家喵"
+    }
+  ],
+  "subscribe_num": 348,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41559,
+          "chapter_title": "5话",
+          "updatetime": 1443081561,
+          "filesize": 1170485,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 41558,
+          "chapter_title": "4话",
+          "updatetime": 1443081541,
+          "filesize": 998421,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 41557,
+          "chapter_title": "3话",
+          "updatetime": 1443081520,
+          "filesize": 1068334,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 41556,
+          "chapter_title": "2话",
+          "updatetime": 1443081498,
+          "filesize": 955641,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 41555,
+          "chapter_title": "1话",
+          "updatetime": 1443081474,
+          "filesize": 954005,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 25580430,
+        "uid": 102510264,
+        "content": "你好",
+        "createtime": 1584913585,
+        "nickname": "绅士@百合",
+        "avatar": "https://avatar.dmzj.com/ce/6c/ce6cde0d26f5863f3fae2f90848d24ea.png"
+      },
+      {
+        "comment_id": 22530730,
+        "uid": 106267026,
+        "content": "还更新吗。。。。qvq",
+        "createtime": 1575868646,
+        "nickname": "今世无法替代的18765",
+        "avatar": "https://avatar.dmzj.com/39/25/39254d966ad2b1a3d2655beadeec07c8.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

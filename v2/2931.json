@@ -1,0 +1,77 @@
+{
+  "id": 2931,
+  "islong": 2,
+  "direction": 1,
+  "title": "神风英雄",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/8_abb420eaa91d589383892bbf6d9ba679.jpg",
+  "description": "能以神一般的武学与力量，去改变其世界及命运者，便有资格成为他们时代和空间的—武神。一切尽在武神外传《神风英雄》 ",
+  "last_updatetime": 1273041888,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 4795,
+  "hit_num": 81465,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1484,
+      "tag_name": "海洋二号"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6003,
+          "chapter_title": "4卷",
+          "updatetime": 1273646688,
+          "filesize": 3675822,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 6002,
+          "chapter_title": "3卷",
+          "updatetime": 1273646688,
+          "filesize": 3439762,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 6001,
+          "chapter_title": "2卷",
+          "updatetime": 1273646688,
+          "filesize": 3446534,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 6000,
+          "chapter_title": "1卷",
+          "updatetime": 1273646688,
+          "filesize": 3465352,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

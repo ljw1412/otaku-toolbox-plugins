@@ -1,0 +1,79 @@
+{
+  "id": 21684,
+  "islong": 2,
+  "direction": 2,
+  "title": "魔王的烦恼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1000210401443166152.jpg",
+  "description": "魔王的烦恼生活  有妖气大搬运",
+  "last_updatetime": 1443166363,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 7986,
+  "hit_num": 110688,
+  "uid": 100021040,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10654,
+      "tag_name": "师阔"
+    }
+  ],
+  "subscribe_num": 34,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41812,
+          "chapter_title": "1话",
+          "updatetime": 1443166363,
+          "filesize": 828258,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "我就是没事画画",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 21159058,
+        "uid": 109818254,
+        "content": "怎么有个奥特曼？",
+        "createtime": 1570713660,
+        "nickname": "dmzj_109818254",
+        "avatar": "https://avatar.dmzj.com/3f/c2/3fc24e15c3402b9619880796d3da6f06.png"
+      },
+      {
+        "comment_id": 790743,
+        "uid": 100345312,
+        "content": "谜之画风",
+        "createtime": 1462713664,
+        "nickname": "破夜雷鸣",
+        "avatar": "https://avatar.dmzj.com/a7/fa/a7fab2a21fed135a8894e2d4417bdece.png"
+      }
+    ]
+  }
+}

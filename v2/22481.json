@@ -1,0 +1,63 @@
+{
+  "id": 22481,
+  "islong": 2,
+  "direction": 2,
+  "title": "猫语花香",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445932512.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445932544,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 1054,
+  "hit_num": 6765,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44402,
+          "chapter_title": "1话",
+          "updatetime": 1445932544,
+          "filesize": 554469,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 643511,
+        "uid": 100362263,
+        "content": "封面挺好看。。。",
+        "createtime": 1456488859,
+        "nickname": "▲自挂东南枝",
+        "avatar": "https://avatar.dmzj.com/57/63/57638f1bdea569d5bc2a3ce76b196712.png"
+      }
+    ]
+  }
+}

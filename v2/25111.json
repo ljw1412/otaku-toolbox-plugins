@@ -1,0 +1,71 @@
+{
+  "id": 25111,
+  "islong": 2,
+  "direction": 2,
+  "title": "回复疗法",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1004913721446541025.jpg",
+  "description": "神乐动漫",
+  "last_updatetime": 1446541043,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 2272,
+  "hit_num": 8958,
+  "uid": 100491372,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10848,
+      "tag_name": "神乐动漫"
+    }
+  ],
+  "subscribe_num": 6,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45101,
+          "chapter_title": "1话",
+          "updatetime": 1446541043,
+          "filesize": 836895,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 21586669,
+        "uid": 101318347,
+        "content": "这是个啥",
+        "createtime": 1571804686,
+        "nickname": "我的灯姐攒来的",
+        "avatar": "https://avatar.dmzj.com/c0/54/c054317f759b78faaab052056e7e79ac.png"
+      },
+      {
+        "comment_id": 14133046,
+        "uid": 105028666,
+        "content": "回复术士",
+        "createtime": 1554982535,
+        "nickname": "忆枭笙",
+        "avatar": "https://avatar.dmzj.com/24/79/24798896971fb69f5407e830fc9d090d.png"
+      }
+    ]
+  }
+}

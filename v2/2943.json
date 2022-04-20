@@ -1,0 +1,84 @@
+{
+  "id": 2943,
+  "islong": 2,
+  "direction": 1,
+  "title": "八神",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/bashen_01_001_35010a8e932356e12f2dfca9a0a5c52d.jpg",
+  "description": "邓耀荣的作品最让人记忆清晰的就是格斗天王系列了，从97格斗天王开始，他就延续着绘画高素质的SNK系列漫画，虽然本作与格斗天王系列不同，但延续的强劲风格仍然使很多读者激动",
+  "last_updatetime": 1273045926,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 4731,
+  "hit_num": 123602,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 652,
+      "tag_name": "邓耀荣"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 7575,
+          "chapter_title": "5卷",
+          "updatetime": 1273650726,
+          "filesize": 4493106,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 7574,
+          "chapter_title": "4卷",
+          "updatetime": 1273650726,
+          "filesize": 4341768,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 7573,
+          "chapter_title": "3卷",
+          "updatetime": 1273650726,
+          "filesize": 4758471,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 7572,
+          "chapter_title": "2卷",
+          "updatetime": 1273650726,
+          "filesize": 5026953,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 7571,
+          "chapter_title": "1卷",
+          "updatetime": 1273650726,
+          "filesize": 6168380,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

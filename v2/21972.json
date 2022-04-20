@@ -1,0 +1,63 @@
+{
+  "id": 21972,
+  "islong": 2,
+  "direction": 2,
+  "title": "罗迪克的铁盒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1004604581445588375.jpg",
+  "description": "作者很懒什么介绍也没有",
+  "last_updatetime": 1445588405,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 680,
+  "hit_num": 868,
+  "uid": 100460458,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10806,
+      "tag_name": "二囬"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46446,
+          "chapter_title": "1话",
+          "updatetime": 1445588405,
+          "filesize": 367788,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 497788,
+        "uid": 100431574,
+        "content": "也许是我少见多怪，这名字总让我往神北克上想",
+        "createtime": 1445614544,
+        "nickname": "鐵拳無敵孫逸仙",
+        "avatar": "https://avatar.dmzj.com/23/9d/239d0904fe9e4824c921497f9da2a9c2.png"
+      }
+    ]
+  }
+}

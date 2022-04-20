@@ -1,0 +1,63 @@
+{
+  "id": 23590,
+  "islong": 2,
+  "direction": 2,
+  "title": "实习老师",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446115028.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446115057,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 833,
+  "hit_num": 4480,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47354,
+          "chapter_title": "1话",
+          "updatetime": 1446115057,
+          "filesize": 714136,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 2381585,
+        "uid": 100984863,
+        "content": "说实话没想到封面和里面的画风完全是两个人，推荐大家看看内容也",
+        "createtime": 1498494735,
+        "nickname": "二受",
+        "avatar": "https://avatar.dmzj.com/ca/8e/ca8e2aaabca367613dfc68667dbea243.png"
+      }
+    ]
+  }
+}

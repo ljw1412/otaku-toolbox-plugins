@@ -1,0 +1,83 @@
+{
+  "id": 2458,
+  "islong": 2,
+  "direction": 1,
+  "title": "大地之王",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/ddzw01-001_6fda6f3657ec9dcce1919b9806016409.jpg",
+  "description": "「天下无敌」和「黑龙传奇」令胡绍权跃升至拥有销量保证之主笔的行列。及後，他转 投「彩叶」，推出中篇漫画「大地之王」，使他再次受到读者们的注视。",
+  "last_updatetime": 1271327901,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 5357,
+  "hit_num": 307613,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1496,
+      "tag_name": "胡绍权"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 11,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6726,
+          "chapter_title": "3卷",
+          "updatetime": 1271932701,
+          "filesize": 16804981,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 6725,
+          "chapter_title": "2卷",
+          "updatetime": 1271932701,
+          "filesize": 15250930,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 6724,
+          "chapter_title": "1卷",
+          "updatetime": 1271932701,
+          "filesize": 18306014,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 26229786,
+        "uid": 106000514,
+        "content": "55555",
+        "createtime": 1586348291,
+        "nickname": "dmzj_106000514",
+        "avatar": "https://avatar.dmzj.com/82/db/82db80d428bc6e1deaaaaf8502e4383e.png"
+      },
+      {
+        "comment_id": 22981842,
+        "uid": 107222815,
+        "content": "在对的时间，遇见对的人，是一生幸福；在对的时间，遇见错的人，是一场心伤；在错的时间，遇见对的人，是一世无奈；在错的时间，遇见错的人，是一段折磨。",
+        "createtime": 1577808117,
+        "nickname": "dmzj_107222815",
+        "avatar": "https://avatar.dmzj.com/53/68/53689bbf7d20070f0a4ef1283ee936dc.png"
+      }
+    ]
+  }
+}

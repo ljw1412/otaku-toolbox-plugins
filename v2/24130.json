@@ -1,0 +1,96 @@
+{
+  "id": 24130,
+  "islong": 2,
+  "direction": 1,
+  "title": "任性的千惠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/renxingdeqianhui.jpg",
+  "description": "只有我能看到的幽灵女孩的故事……",
+  "last_updatetime": 1511658068,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "renxingdeqianhui",
+  "hidden": 0,
+  "hot_num": 1103428,
+  "hit_num": 295729,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 71549,
+  "authors": [
+    {
+      "tag_id": 147,
+      "tag_name": "志村贵子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "subscribe_num": 5338,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 71549,
+          "chapter_title": "4话",
+          "updatetime": 1511658068,
+          "filesize": 1085962,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 47943,
+          "chapter_title": "3话",
+          "updatetime": 1447556658,
+          "filesize": 1446221,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 47815,
+          "chapter_title": "2话",
+          "updatetime": 1447207506,
+          "filesize": 1356086,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 47553,
+          "chapter_title": "1话",
+          "updatetime": 1447036880,
+          "filesize": 1186529,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 103,
+    "latest_comment": [
+      {
+        "comment_id": 29663962,
+        "uid": 106299064,
+        "content": "死的是早慧。千惠在梦里逃避，描绘出早慧还活着而自己早已死去的故事",
+        "createtime": 1597336691,
+        "nickname": "dmzj_106299064",
+        "avatar": "https://avatar.dmzj.com/34/c3/34c3501782b4ef7c1762403cc82972ac.png"
+      },
+      {
+        "comment_id": 29370248,
+        "uid": 109386159,
+        "content": "百合留下脚印",
+        "createtime": 1596233051,
+        "nickname": "利姆露·特恩佩斯特～",
+        "avatar": "https://avatar.dmzj.com/2f/28/2f288007f4b49baeaadce38d8dc7a464.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

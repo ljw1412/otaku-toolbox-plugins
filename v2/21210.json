@@ -1,0 +1,89 @@
+{
+  "id": 21210,
+  "islong": 1,
+  "direction": 2,
+  "title": "三鲜小梗",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1003471801440666589.jpg",
+  "description": "霹雳三先天的Q版同人。脑内自yy的Happy小梗~~",
+  "last_updatetime": 1440666839,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 956,
+  "hit_num": 1186,
+  "uid": 100347180,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10407,
+      "tag_name": "卜欢"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44866,
+          "chapter_title": "6话",
+          "updatetime": 1440666839,
+          "filesize": 79007,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 44865,
+          "chapter_title": "5话",
+          "updatetime": 1440666821,
+          "filesize": 79870,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 44864,
+          "chapter_title": "4话",
+          "updatetime": 1440666763,
+          "filesize": 192873,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 44863,
+          "chapter_title": "3话",
+          "updatetime": 1440666675,
+          "filesize": 57123,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 44862,
+          "chapter_title": "2话",
+          "updatetime": 1440666653,
+          "filesize": 61630,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 44861,
+          "chapter_title": "1话",
+          "updatetime": 1440666639,
+          "filesize": 43992,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

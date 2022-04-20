@@ -1,0 +1,80 @@
+{
+  "id": 2601,
+  "islong": 2,
+  "direction": 1,
+  "title": "恶神RX",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/rx01_001_6c8eac5f5eedadc9da73d3df108191cc.jpg",
+  "description": "主人公是如来和孙悟空的弟子仙龄200岁，背着箱子里面是金箍棒，在和魔族战斗中感觉到天庭的阴谋。 漫画里最厉害的好像是魔神，几百年前 ...",
+  "last_updatetime": 1271750914,
+  "copyright": 0,
+  "first_letter": "e",
+  "hot_num": 7112,
+  "hit_num": 311751,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1361,
+      "tag_name": "永仁"
+    },
+    {
+      "tag_id": 1362,
+      "tag_name": "蔡景东"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 17,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 5501,
+          "chapter_title": "2卷",
+          "updatetime": 1272355714,
+          "filesize": 10982008,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 5500,
+          "chapter_title": "1卷",
+          "updatetime": 1272355714,
+          "filesize": 17914998,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 25371734,
+        "uid": 107765756,
+        "content": "沟通沟通沟通",
+        "createtime": 1584450949,
+        "nickname": "萨格里斯",
+        "avatar": "https://avatar.dmzj.com/66/24/6624be7c9296c8a103ac32c0bee4613e.png"
+      },
+      {
+        "comment_id": 10842622,
+        "uid": 25378689,
+        "content": "还可以",
+        "createtime": 1549107497,
+        "nickname": "sqawzxzx",
+        "avatar": "https://avatar.dmzj.com/95/14/9514a2c7df128c89b61b1a2ba375e431.png"
+      }
+    ]
+  }
+}

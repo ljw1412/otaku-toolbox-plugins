@@ -1,0 +1,68 @@
+{
+  "id": 21911,
+  "islong": 1,
+  "direction": 2,
+  "title": "电波旅社",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1000910821445227584.jpg",
+  "description": "不务正业的神秘漫画家组织，爱旅行，说走就走，吃货，我们的征途是星辰大海！",
+  "last_updatetime": 1446443385,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 7844,
+  "hit_num": 59167,
+  "uid": 100091082,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8727,
+      "tag_name": "漫天星工作室"
+    }
+  ],
+  "subscribe_num": 59,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44292,
+          "chapter_title": "3话",
+          "updatetime": 1446443385,
+          "filesize": 732340,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 44127,
+          "chapter_title": "2话",
+          "updatetime": 1445828139,
+          "filesize": 670404,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 43954,
+          "chapter_title": "1话",
+          "updatetime": 1445227684,
+          "filesize": 790242,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

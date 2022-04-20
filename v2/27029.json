@@ -1,0 +1,86 @@
+{
+  "id": 27029,
+  "islong": 2,
+  "direction": 1,
+  "title": "灯火管制",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/chenghuoguanzhu.jpg",
+  "description": "永远的菜鸟的东方同人誌(妹红x慧音)",
+  "last_updatetime": 1451224427,
+  "last_update_chapter_name": "后记",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "denghuoguanzhi",
+  "hidden": 0,
+  "hot_num": 71505,
+  "hit_num": 152741,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 45087,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11011,
+      "tag_name": "永远的菜鸟"
+    }
+  ],
+  "subscribe_num": 483,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45087,
+          "chapter_title": "后记",
+          "updatetime": 1451224427,
+          "filesize": 543926,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 45086,
+          "chapter_title": "1话",
+          "updatetime": 1451222032,
+          "filesize": 4122734,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 28458674,
+        "uid": 104838185,
+        "content": "棒！",
+        "createtime": 1593184747,
+        "nickname": "开挖掘机的二营长",
+        "avatar": "https://avatar.dmzj.com/74/94/7494f5ff640478d1d84e1db37eb698d8.png"
+      },
+      {
+        "comment_id": 27630094,
+        "uid": 106117482,
+        "content": "这本也好老了啊www",
+        "createtime": 1590255865,
+        "nickname": "芳轻萩",
+        "avatar": "https://avatar.dmzj.com/37/50/3750614eed0af9100c213c8f991690b4.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

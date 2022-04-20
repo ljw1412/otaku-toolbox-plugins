@@ -1,0 +1,67 @@
+{
+  "id": 21627,
+  "islong": 2,
+  "direction": 2,
+  "title": "我的表弟很幼稚",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1003901611442906527.jpg",
+  "description": "我的弟弟很幼稚",
+  "last_updatetime": 1442906573,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 7078,
+  "hit_num": 51077,
+  "uid": 100390161,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10632,
+      "tag_name": "阿罡"
+    }
+  ],
+  "subscribe_num": 32,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45554,
+          "chapter_title": "1话",
+          "updatetime": 1442906573,
+          "filesize": 832368,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 27662871,
+        "uid": 107181046,
+        "content": "天哪，竟然只有一话吗，我记得最开始看还是很多年前在有妖气看的",
+        "createtime": 1590350283,
+        "nickname": "神楽爱吃醋醌布",
+        "avatar": "https://avatar.dmzj.com/82/91/829121fb023bd2a715fae2248218e3dc.png"
+      }
+    ]
+  }
+}

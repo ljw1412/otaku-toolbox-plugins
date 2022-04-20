@@ -1,0 +1,63 @@
+{
+  "id": 23872,
+  "islong": 2,
+  "direction": 2,
+  "title": "别人更厉害",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1004738361446179272.jpg",
+  "description": "顶点动漫",
+  "last_updatetime": 1446179293,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 641,
+  "hit_num": 2594,
+  "uid": 100473836,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10829,
+      "tag_name": "顶点动漫"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47090,
+          "chapter_title": "1话",
+          "updatetime": 1446179293,
+          "filesize": 548432,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 10156039,
+        "uid": 101989437,
+        "content": "哟吼吼",
+        "createtime": 1547635752,
+        "nickname": "爱尔娃",
+        "avatar": "https://avatar.dmzj.com/72/2c/722c25eafadc188bcfaa3b5b9220648f.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": 29099,
+  "islong": 2,
+  "direction": 2,
+  "title": "国际正义联盟v1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/guojizhengyilianmeng.JPG",
+  "description": "虽然是金蓝安利，但是原子队长和囧叔实力卖萌",
+  "last_updatetime": 1467472326,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 21731,
+  "hit_num": 34934,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 143,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 51847,
+          "chapter_title": "季刊#10约会之战",
+          "updatetime": 1467472326,
+          "filesize": 1778267,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 46490,
+          "chapter_title": "1卷",
+          "updatetime": 1454932680,
+          "filesize": 3913514,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 28538392,
+        "uid": 109369865,
+        "content": "这里大家都好可爱，如果一直都只有这种程度的烦心事，没人死也没人在新52后人际关系/经历大变多好……",
+        "createtime": 1593435451,
+        "nickname": "dmzj_109369865",
+        "avatar": "https://avatar.dmzj.com/70/42/704215c247a7df3068ae9ec14940273c.png"
+      },
+      {
+        "comment_id": 3801808,
+        "uid": 105608248,
+        "content": "太好玩了吧",
+        "createtime": 1517576676,
+        "nickname": "轻哼的小调",
+        "avatar": "https://avatar.dmzj.com/48/28/48288972973f636dbd157f4c55d15479.png"
+      }
+    ]
+  }
+}

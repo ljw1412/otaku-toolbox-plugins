@@ -1,0 +1,78 @@
+{
+  "id": 21665,
+  "islong": 2,
+  "direction": 2,
+  "title": "我买了条龙",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1003935581443086285.jpg",
+  "description": "我买了条龙",
+  "last_updatetime": 1443086323,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 16534,
+  "hit_num": 110473,
+  "uid": 100393558,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10651,
+      "tag_name": "菊花老板"
+    }
+  ],
+  "subscribe_num": 69,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45888,
+          "chapter_title": "2话",
+          "updatetime": 1443086323,
+          "filesize": 703424,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 45887,
+          "chapter_title": "1话",
+          "updatetime": 1443086307,
+          "filesize": 565492,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 25364352,
+        "uid": 108976456,
+        "content": "不更了吗？",
+        "createtime": 1584437239,
+        "nickname": "dmzj_108976456",
+        "avatar": "https://avatar.dmzj.com/1e/4d/1e4d51882cc129e4d935003495b2158b.png"
+      },
+      {
+        "comment_id": 3644951,
+        "uid": 103420366,
+        "content": "我也买了龙。但是啊。。。。。。不中啊！！！！我的特码啊！！！！",
+        "createtime": 1515420464,
+        "nickname": "青·鋒",
+        "avatar": "https://avatar.dmzj.com/4d/38/4d383d3e190b82522aada2c9f68cce3a.png"
+      }
+    ]
+  }
+}

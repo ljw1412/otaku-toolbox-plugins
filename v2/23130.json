@@ -1,0 +1,63 @@
+{
+  "id": 23130,
+  "islong": 2,
+  "direction": 2,
+  "title": "冲冲冲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446459487.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446459499,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 820,
+  "hit_num": 4720,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47262,
+          "chapter_title": "1话",
+          "updatetime": 1446459499,
+          "filesize": 873165,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 12834450,
+        "uid": 100151610,
+        "content": "冲冲冲(๑ºั╰╯ºั๑)",
+        "createtime": 1552469612,
+        "nickname": "铡草机",
+        "avatar": "https://avatar.dmzj.com/54/23/542311a41c158f99e45727d8dde342cc.png"
+      }
+    ]
+  }
+}

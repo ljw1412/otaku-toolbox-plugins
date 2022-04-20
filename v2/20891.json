@@ -1,0 +1,67 @@
+{
+  "id": 20891,
+  "islong": 2,
+  "direction": 2,
+  "title": "洛夫镇的兔子多多",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1003142241439427912.jpg",
+  "description": "讲述一只小兔子多多的生活。",
+  "last_updatetime": 1439429458,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 4570,
+  "hit_num": 35005,
+  "uid": 100314224,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10257,
+      "tag_name": "Lilliput"
+    }
+  ],
+  "subscribe_num": 20,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41873,
+          "chapter_title": "1话",
+          "updatetime": 1439429458,
+          "filesize": 2949836,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 19562944,
+        "uid": 105144783,
+        "content": "挺好的⊙▽⊙",
+        "createtime": 1566223732,
+        "nickname": "鬼厉心",
+        "avatar": "https://avatar.dmzj.com/24/63/24632f4ed583d4ef0c2a648e3329434d.png"
+      }
+    ]
+  }
+}

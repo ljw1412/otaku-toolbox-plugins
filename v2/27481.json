@@ -1,0 +1,63 @@
+{
+  "id": 27481,
+  "islong": 2,
+  "direction": 2,
+  "title": "MOON4",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1005376321448439666.jpg",
+  "description": "覃自勇",
+  "last_updatetime": 1448439694,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 879,
+  "hit_num": 7502,
+  "uid": 100537632,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11196,
+      "tag_name": "覃自勇"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47231,
+          "chapter_title": "1话",
+          "updatetime": 1448439694,
+          "filesize": 1192844,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 5065830,
+        "uid": 104992141,
+        "content": "233没有后续了么",
+        "createtime": 1528732552,
+        "nickname": "PandaChang",
+        "avatar": "https://avatar.dmzj.com/55/53/5553791066032b9c40dcb74d62e628f9.png"
+      }
+    ]
+  }
+}

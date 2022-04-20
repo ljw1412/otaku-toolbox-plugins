@@ -1,0 +1,63 @@
+{
+  "id": 22589,
+  "islong": 2,
+  "direction": 2,
+  "title": "迷茫之路",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445937734.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445937770,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 1148,
+  "hit_num": 7719,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42921,
+          "chapter_title": "1话",
+          "updatetime": 1445937770,
+          "filesize": 573993,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 10743240,
+        "uid": 107717185,
+        "content": "谁有黑学姐的黑屋子里不要迷茫",
+        "createtime": 1548924722,
+        "nickname": "舒服的巨人",
+        "avatar": "https://avatar.dmzj.com/ec/3b/ec3beb7b385a45d50a9636c93030e5c7.png"
+      }
+    ]
+  }
+}

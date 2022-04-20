@@ -1,0 +1,83 @@
+{
+  "id": 2345,
+  "islong": 2,
+  "direction": 1,
+  "title": "火箭大使",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/ambassador_magma_01_000_6e396603b9bd472a57ee151423457300.jpg",
+  "description": "一天早上,小守一家人醒来时,发现竟然身在史前的世界里！那正是怪人国亚计画侵略地球所施的诡计之一,而当时能够对抗国亚阴谋的只有火箭人,火箭大使又是何许人呢？",
+  "last_updatetime": 1271070931,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 389884,
+  "hit_num": 283863,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 904,
+      "tag_name": "手冢治虫"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2266,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 7419,
+          "chapter_title": "3卷",
+          "updatetime": 1271675731,
+          "filesize": 15127375,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 7418,
+          "chapter_title": "2卷",
+          "updatetime": 1271675731,
+          "filesize": 14657497,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 7417,
+          "chapter_title": "1卷",
+          "updatetime": 1271675731,
+          "filesize": 16670873,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 24584446,
+        "uid": 105514814,
+        "content": "熔岩大使，老特摄了",
+        "createtime": 1582779280,
+        "nickname": "谁说我是老王",
+        "avatar": "https://avatar.dmzj.com/89/14/8914eb71d69f5414b238ae107ce38850.png"
+      },
+      {
+        "comment_id": 12653434,
+        "uid": 103220029,
+        "content": "1951年的作品都有啊",
+        "createtime": 1552215625,
+        "nickname": "意而散似舞",
+        "avatar": "https://avatar.dmzj.com/a1/11/a11194700bfa23347fb7d3667d0e3f46.png"
+      }
+    ]
+  }
+}

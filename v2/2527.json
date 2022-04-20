@@ -1,0 +1,73 @@
+{
+  "id": 2527,
+  "islong": 2,
+  "direction": 1,
+  "title": "少女漫画家之恋",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/001_3f192d4e3fe9b71e12adfc43a3e8ddfa.jpg",
+  "description": "少女漫画家与英俊编辑的故事",
+  "last_updatetime": 1271651906,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 65432,
+  "hit_num": 1894874,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1523,
+      "tag_name": "刑部真芯"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 334,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6940,
+          "chapter_title": "1卷",
+          "updatetime": 1272256706,
+          "filesize": 8490221,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 29917970,
+        "uid": 100320509,
+        "content": "好看",
+        "createtime": 1598291210,
+        "nickname": "〃番组 ヅ",
+        "avatar": "https://avatar.dmzj.com/3f/4a/3f4aa068bd366717e28982f4a10234d2.png"
+      },
+      {
+        "comment_id": 29595704,
+        "uid": 100165473,
+        "content": "这个老师的漫画我有好几本，以前挂别的作家名印的，都是有点H口的_(:з」∠)_不过最往年老家进白蚁，不知道有没存活_(:з」∠)_",
+        "createtime": 1597067085,
+        "nickname": "白樱草",
+        "avatar": "https://avatar.dmzj.com/97/6c/976c84a3ce009143ce49f5b54dbb4111.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 25778,
+  "islong": 2,
+  "direction": 1,
+  "title": "ANI-KAN",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/ANI-KAN.jpg",
+  "description": "舰娘的四格漫画同人。",
+  "last_updatetime": 1449022884,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 31995,
+  "hit_num": 155957,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7145,
+      "tag_name": "猫娘亭"
+    }
+  ],
+  "subscribe_num": 264,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43801,
+          "chapter_title": "1话",
+          "updatetime": 1449022884,
+          "filesize": 3167981,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 19698722,
+        "uid": 107328023,
+        "content": "好好好好好好好好好好好看!",
+        "createtime": 1566574357,
+        "nickname": "雨中山荷叶",
+        "avatar": "https://avatar.dmzj.com/9f/ab/9fab0d181adb5200609ec25de25f7a91.png"
+      },
+      {
+        "comment_id": 635362,
+        "uid": 100502306,
+        "content": "和rj多大仇，每本都。。。",
+        "createtime": 1456074676,
+        "nickname": "吴美由纪",
+        "avatar": "https://avatar.dmzj.com/97/25/97258f9a11567fb686a52a88467a85d1.png"
+      }
+    ]
+  }
+}

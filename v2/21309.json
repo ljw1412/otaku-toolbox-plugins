@@ -1,0 +1,89 @@
+{
+  "id": 21309,
+  "islong": 2,
+  "direction": 2,
+  "title": "我要打篮球",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1003571361441095538.jpg",
+  "description": "一个大学生的校园篮球历程",
+  "last_updatetime": 1442582533,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 3501,
+  "hit_num": 32462,
+  "uid": 100357136,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10476,
+      "tag_name": "上梁兔"
+    }
+  ],
+  "subscribe_num": 14,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41626,
+          "chapter_title": "3话",
+          "updatetime": 1442582533,
+          "filesize": 913045,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 41103,
+          "chapter_title": "2话",
+          "updatetime": 1441269550,
+          "filesize": 763746,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40991,
+          "chapter_title": "1话",
+          "updatetime": 1441095644,
+          "filesize": 883982,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 27478398,
+        "uid": 104142701,
+        "content": "不错",
+        "createtime": 1589791427,
+        "nickname": "聂勇",
+        "avatar": "https://avatar.dmzj.com/74/91/749187bf0204168bdbab163c648d5de9.png"
+      },
+      {
+        "comment_id": 21359750,
+        "uid": 104438001,
+        "content": "安静之地",
+        "createtime": 1571194131,
+        "nickname": "mujicro",
+        "avatar": "https://avatar.dmzj.com/41/69/4169e8097df4a620fb79d1c229885e57.png"
+      }
+    ]
+  }
+}

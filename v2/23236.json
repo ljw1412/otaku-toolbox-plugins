@@ -1,0 +1,63 @@
+{
+  "id": 23236,
+  "islong": 2,
+  "direction": 2,
+  "title": "工作请认真",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446104166.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446104179,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 844,
+  "hit_num": 5129,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44585,
+          "chapter_title": "1话",
+          "updatetime": 1446104179,
+          "filesize": 1264158,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 4132082,
+        "uid": 101049178,
+        "content": "被遗忘的玩意儿?要不是正好搜索别的漫画搜了个认真两个字还真的看不到了……",
+        "createtime": 1521560497,
+        "nickname": "不明行走物",
+        "avatar": "https://avatar.dmzj.com/1d/50/1d5082ae4a87d8ec9ddc2676412abd01.png"
+      }
+    ]
+  }
+}

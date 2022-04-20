@@ -1,0 +1,63 @@
+{
+  "id": 23483,
+  "islong": 2,
+  "direction": 2,
+  "title": "神秘女朋友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446112640.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446112655,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 1819,
+  "hit_num": 16136,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42811,
+          "chapter_title": "1话",
+          "updatetime": 1446112655,
+          "filesize": 693020,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 8783591,
+        "uid": 102365078,
+        "content": "海星",
+        "createtime": 1544279440,
+        "nickname": "板蓝根嗷呜",
+        "avatar": "https://avatar.dmzj.com/f3/3d/f33db0ee0f1e822f5688f79f5b835cff.png"
+      }
+    ]
+  }
+}

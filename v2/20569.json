@@ -1,0 +1,78 @@
+{
+  "id": 20569,
+  "islong": 2,
+  "direction": 2,
+  "title": "平斜线",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1002263061438331245.jpg",
+  "description": "瓶邪的条漫，哥嫂请一直幸福的在一起",
+  "last_updatetime": 1438331356,
+  "copyright": 1,
+  "first_letter": "p",
+  "hot_num": 30889,
+  "hit_num": 41802,
+  "uid": 100226306,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9776,
+      "tag_name": "羽瞳晶"
+    }
+  ],
+  "subscribe_num": 325,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39694,
+          "chapter_title": "2话",
+          "updatetime": 1438331356,
+          "filesize": 88562,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 39693,
+          "chapter_title": "1话",
+          "updatetime": 1438331336,
+          "filesize": 81268,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 1030692,
+        "uid": 101053501,
+        "content": "瓶邪王道",
+        "createtime": 1468834924,
+        "nickname": "桃花无尽",
+        "avatar": "https://avatar.dmzj.com/a2/71/a271a4c1f2aab14c40f5057e1df595be.png"
+      },
+      {
+        "comment_id": 1030690,
+        "uid": 101053501,
+        "content": "瓶邪王道",
+        "createtime": 1468834916,
+        "nickname": "桃花无尽",
+        "avatar": "https://avatar.dmzj.com/a2/71/a271a4c1f2aab14c40f5057e1df595be.png"
+      }
+    ]
+  }
+}

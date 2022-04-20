@@ -1,0 +1,75 @@
+{
+  "id": 21409,
+  "islong": 2,
+  "direction": 2,
+  "title": "巧克力大作战",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1000952701440489624.jpg",
+  "description": "巧克力大作战",
+  "last_updatetime": 1440489695,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 5007,
+  "hit_num": 132310,
+  "uid": 100095270,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8884,
+      "tag_name": "吉林星海动漫公司"
+    }
+  ],
+  "subscribe_num": 78,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41251,
+          "chapter_title": "1话",
+          "updatetime": 1440489695,
+          "filesize": 1544418,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 14623892,
+        "uid": 100955217,
+        "content": "10",
+        "createtime": 1555765162,
+        "nickname": "夏明夏",
+        "avatar": "https://avatar.dmzj.com/02/c5/02c54366f889415b85d60c146db3c1b6.png"
+      },
+      {
+        "comment_id": 4746434,
+        "uid": 106517795,
+        "content": "。。。。。。。。。…无力吐槽了。-_-||",
+        "createtime": 1526644980,
+        "nickname": "一个有理想的阿宅！",
+        "avatar": "https://avatar.dmzj.com/98/48/9848067d1a746132b0eb1539db0ad6b2.png"
+      }
+    ]
+  }
+}

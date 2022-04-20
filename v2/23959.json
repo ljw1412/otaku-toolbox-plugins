@@ -1,0 +1,63 @@
+{
+  "id": 23959,
+  "islong": 2,
+  "direction": 2,
+  "title": "发抖",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1004738361446105456.jpg",
+  "description": "顶点动漫",
+  "last_updatetime": 1446105483,
+  "copyright": 1,
+  "first_letter": "f",
+  "hot_num": 909,
+  "hit_num": 5334,
+  "uid": 100473836,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10829,
+      "tag_name": "顶点动漫"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43259,
+          "chapter_title": "1话",
+          "updatetime": 1446105483,
+          "filesize": 628838,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 2606108,
+        "uid": 101419318,
+        "content": "这是个什么玩意？",
+        "createtime": 1501476675,
+        "nickname": "无尽の悖论",
+        "avatar": "https://avatar.dmzj.com/79/ef/79ef4ca05b301767efc985a100860b04.png"
+      }
+    ]
+  }
+}

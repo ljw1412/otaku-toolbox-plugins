@@ -1,0 +1,71 @@
+{
+  "id": 24599,
+  "islong": 2,
+  "direction": 2,
+  "title": "黑社会",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1004913721446713770.jpg",
+  "description": "神乐动漫",
+  "last_updatetime": 1446713783,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 2762,
+  "hit_num": 23710,
+  "uid": 100491372,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10848,
+      "tag_name": "神乐动漫"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43493,
+          "chapter_title": "1话",
+          "updatetime": 1446713783,
+          "filesize": 1529124,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 17290947,
+        "uid": 20210954,
+        "content": "我选大d",
+        "createtime": 1560913890,
+        "nickname": "得瑟君",
+        "avatar": "https://avatar.dmzj.com/17/16/1716b6f70351992e53c1096a2123769d.png"
+      },
+      {
+        "comment_id": 4374713,
+        "uid": 100508699,
+        "content": "能不能添加个新分类“儿童读物”？",
+        "createtime": 1523811659,
+        "nickname": "纯纸原味鸡",
+        "avatar": "https://avatar.dmzj.com/b4/e1/b4e1f3cb248e4c5f184bd36ffad89a48.png"
+      }
+    ]
+  }
+}

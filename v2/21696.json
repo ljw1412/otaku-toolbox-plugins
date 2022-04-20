@@ -1,0 +1,73 @@
+{
+  "id": 21696,
+  "islong": 2,
+  "direction": 2,
+  "title": "超人与蝙蝠侠：信任",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/bianfuxiayuchaorenxinrengfengmial.jpg",
+  "description": "我会为你破戒",
+  "last_updatetime": 1443328675,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 201105,
+  "hit_num": 29271,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 958,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43388,
+          "chapter_title": "1卷",
+          "updatetime": 1443328675,
+          "filesize": 957797,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 29886110,
+        "uid": 111501583,
+        "content": "艾迪代表我的观点",
+        "createtime": 1598187460,
+        "nickname": "WF就是坠般配的",
+        "avatar": "https://avatar.dmzj.com/35/80/3580792f649655f7517b33989d52e509.png"
+      },
+      {
+        "comment_id": 29860387,
+        "uid": 111469508,
+        "content": "这俩什么时候公开",
+        "createtime": 1598094326,
+        "nickname": "克拉克肯特别帅",
+        "avatar": "https://avatar.dmzj.com/fb/f2/fbf216c5e04b9111e93f9cb33f90b116.png"
+      }
+    ]
+  }
+}

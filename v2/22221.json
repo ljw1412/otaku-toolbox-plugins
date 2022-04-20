@@ -1,0 +1,63 @@
+{
+  "id": 22221,
+  "islong": 2,
+  "direction": 2,
+  "title": "苦逼上班族",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445915332.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445915369,
+  "copyright": 1,
+  "first_letter": "k",
+  "hot_num": 1212,
+  "hit_num": 8701,
+  "uid": 100469239,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44335,
+          "chapter_title": "1话",
+          "updatetime": 1445915369,
+          "filesize": 967425,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 7479646,
+        "uid": 106109087,
+        "content": "谁有上班族杀手啊，好想看完",
+        "createtime": 1539853094,
+        "nickname": "神出鬼没的泉新一",
+        "avatar": "https://avatar.dmzj.com/81/42/814235d2819848749d802606b1a52584.png"
+      }
+    ]
+  }
+}

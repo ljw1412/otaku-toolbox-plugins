@@ -1,0 +1,73 @@
+{
+  "id": 21191,
+  "islong": 2,
+  "direction": 2,
+  "title": "X战警：剑下亡魂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/Xzjjxwhfengmianl.jpg",
+  "description": "这本主要讲述了红女巫发出的现实巨浪重启整个全能宇宙并在途中复活MJJ的故事",
+  "last_updatetime": 1440567567,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 32819,
+  "hit_num": 52846,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 178,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42373,
+          "chapter_title": "1卷",
+          "updatetime": 1440567567,
+          "filesize": 3456413,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 9467710,
+        "uid": 107728305,
+        "content": "终于找到了",
+        "createtime": 1546100204,
+        "nickname": "天生我材2015",
+        "avatar": "https://avatar.dmzj.com/82/89/828963ac0b51747ddd09b6f6871b4382.png"
+      },
+      {
+        "comment_id": 700293,
+        "uid": 100481239,
+        "content": "完全不知道在讲什么，这是哪个时期的事件？",
+        "createtime": 1459280981,
+        "nickname": "AMD 恐龙X6 1090T",
+        "avatar": "https://avatar.dmzj.com/43/40/4340b208a7c0694d598276dc55995c8b.png"
+      }
+    ]
+  }
+}

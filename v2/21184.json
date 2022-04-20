@@ -1,0 +1,71 @@
+{
+  "id": 21184,
+  "islong": 2,
+  "direction": 2,
+  "title": "告白计划",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1003428991440501738.jpg",
+  "description": "告白计划\n",
+  "last_updatetime": 1440501760,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 674,
+  "hit_num": 4255,
+  "uid": 100342899,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10391,
+      "tag_name": "晴凉不腐only "
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40769,
+          "chapter_title": "1话",
+          "updatetime": 1440501760,
+          "filesize": 331529,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1742210,
+        "uid": 101086491,
+        "content": "md好怕",
+        "createtime": 1485870585,
+        "nickname": "SliderA",
+        "avatar": "https://avatar.dmzj.com/3c/ba/3cba5aac65f20a1482adb2efa0931ec9.png"
+      },
+      {
+        "comment_id": 464476,
+        "uid": 100284560,
+        "content": "不错~作者加油画~",
+        "createtime": 1440932051,
+        "nickname": "卜米猫",
+        "avatar": "https://avatar.dmzj.com/48/41/48415252db5c64ce8d4851ddd7443eda.png"
+      }
+    ]
+  }
+}

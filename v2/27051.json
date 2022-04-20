@@ -1,0 +1,75 @@
+{
+  "id": 27051,
+  "islong": 2,
+  "direction": 1,
+  "title": "企鹅！企鹅！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1006732691451367543.jpg",
+  "description": "发生在遥远的企鹅星上的勇者故事。",
+  "last_updatetime": 1451367666,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 3962,
+  "hit_num": 182429,
+  "uid": 100673269,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11150,
+      "tag_name": "P先生"
+    }
+  ],
+  "subscribe_num": 9,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46882,
+          "chapter_title": "1话",
+          "updatetime": 1451367666,
+          "filesize": 5777474,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "【注意】实验性质作品，未必有后续~!!",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 19432569,
+        "uid": 100715317,
+        "content": "好好看",
+        "createtime": 1565886918,
+        "nickname": "鲈花鸡",
+        "avatar": "https://avatar.dmzj.com/60/75/607576710537f90fd63a586a34aef905.png"
+      },
+      {
+        "comment_id": 789204,
+        "uid": 101247288,
+        "content": "p先生画风都很赞啊！希望多多发表作品～～～～",
+        "createtime": 1462669994,
+        "nickname": "月89090",
+        "avatar": "https://avatar.dmzj.com/69/d2/69d290fd1485bc102ddeef045fd4ae06.png"
+      }
+    ]
+  }
+}

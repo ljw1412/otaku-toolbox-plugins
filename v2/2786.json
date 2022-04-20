@@ -1,0 +1,90 @@
+{
+  "id": 2786,
+  "islong": 2,
+  "direction": 1,
+  "title": "JINKI_EXTEND_RELATION",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/JER_000_2-3_f47757a709159fea0057b41416ac68fe.jpg",
+  "description": "JINKI_EXTEND_RELATION",
+  "last_updatetime": 1272447812,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 107102,
+  "hit_num": 406174,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1229,
+      "tag_name": "纲岛志朗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 532,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 5853,
+          "chapter_title": "4话",
+          "updatetime": 1273052612,
+          "filesize": 4435841,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 5852,
+          "chapter_title": "3话",
+          "updatetime": 1273052612,
+          "filesize": 4934452,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 5851,
+          "chapter_title": "2话",
+          "updatetime": 1273052612,
+          "filesize": 4396455,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 5850,
+          "chapter_title": "1话",
+          "updatetime": 1273052612,
+          "filesize": 6309386,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 27236997,
+        "uid": 106193652,
+        "content": "其实我挺喜欢这个画风的女孩子",
+        "createtime": 1589013329,
+        "nickname": "x5656466",
+        "avatar": "https://avatar.dmzj.com/e1/87/e18786879ef06746454dfc98e116af3b.png"
+      },
+      {
+        "comment_id": 25070769,
+        "uid": 103414645,
+        "content": "不更了？",
+        "createtime": 1583759634,
+        "nickname": "HOW TO 世界征服30629",
+        "avatar": "https://avatar.dmzj.com/3b/c0/3bc06897d23f5ba907c071745c19dace.png"
+      }
+    ]
+  }
+}

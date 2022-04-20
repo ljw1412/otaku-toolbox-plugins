@@ -1,0 +1,54 @@
+{
+  "id": 22318,
+  "islong": 2,
+  "direction": 2,
+  "title": "校园语录",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445919641.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445919704,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 1092,
+  "hit_num": 7499,
+  "uid": 100469239,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42530,
+          "chapter_title": "1话",
+          "updatetime": 1445919704,
+          "filesize": 612040,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

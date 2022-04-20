@@ -1,0 +1,71 @@
+{
+  "id": 24506,
+  "islong": 2,
+  "direction": 2,
+  "title": "从零开始",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1004913721446716884.jpg",
+  "description": "神乐动漫",
+  "last_updatetime": 1446716900,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 2955,
+  "hit_num": 28925,
+  "uid": 100491372,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10848,
+      "tag_name": "神乐动漫"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44973,
+          "chapter_title": "1话",
+          "updatetime": 1446716900,
+          "filesize": 726921,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 20810492,
+        "uid": 107549025,
+        "content": "不是木头做的杯子虽不是木但还是杯啊",
+        "createtime": 1569972122,
+        "nickname": "kisshana",
+        "avatar": "https://avatar.dmzj.com/35/14/351473f479c3e095f5e719f1e9589f48.png"
+      },
+      {
+        "comment_id": 1957466,
+        "uid": 103454618,
+        "content": "好多。。。",
+        "createtime": 1490332299,
+        "nickname": "Vflower",
+        "avatar": "https://avatar.dmzj.com/12/24/1224a9d5fd8ae13d461d72ed634625fd.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 25443,
+  "islong": 2,
+  "direction": 2,
+  "title": "错了人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1001918781448770251.jpg",
+  "description": "都是一场误会",
+  "last_updatetime": 1448770300,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 1015,
+  "hit_num": 4751,
+  "uid": 100191878,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9568,
+      "tag_name": "耕读老农"
+    }
+  ],
+  "subscribe_num": 6,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43692,
+          "chapter_title": "1话",
+          "updatetime": 1448770300,
+          "filesize": 512462,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

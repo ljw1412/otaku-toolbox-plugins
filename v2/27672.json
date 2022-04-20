@@ -1,0 +1,73 @@
+{
+  "id": 27672,
+  "islong": 2,
+  "direction": 1,
+  "title": "近战弓手",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/jinzhangongshou.jpg",
+  "description": "即将激射而出的，崭新奇迹。",
+  "last_updatetime": 1452442997,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 504750,
+  "hit_num": 2230808,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 459,
+      "tag_name": "藤卷忠俊"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 4379,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49509,
+          "chapter_title": "1话",
+          "updatetime": 1452442997,
+          "filesize": 7587770,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 162,
+    "latest_comment": [
+      {
+        "comment_id": 29953506,
+        "uid": 13517323,
+        "content": "这真是我看过最帅的弓箭手，好强！！！！",
+        "createtime": 1598427079,
+        "nickname": "bigdady",
+        "avatar": "https://avatar.dmzj.com/a1/e1/a1e1a8ca5f3af6915b5b909d5e0cbd58.png"
+      },
+      {
+        "comment_id": 28351621,
+        "uid": 107322542,
+        "content": "这不比黑子的篮球好多了",
+        "createtime": 1592820070,
+        "nickname": "魔法少年擎天柱",
+        "avatar": "https://avatar.dmzj.com/37/26/3726ff1a662078acbe3db7e30563050e.png"
+      }
+    ]
+  }
+}

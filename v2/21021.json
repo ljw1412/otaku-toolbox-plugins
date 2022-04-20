@@ -1,0 +1,75 @@
+{
+  "id": 21021,
+  "islong": 2,
+  "direction": 2,
+  "title": "懂你的人会懂你的好",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1003265521439889516.jpg",
+  "description": "这是一本写给在大城市里打拼，感到落寞、彷徨的人们，激励，并且帮助他们找寻回内心的书",
+  "last_updatetime": 1439889617,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 5087,
+  "hit_num": 153115,
+  "uid": 100326552,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10311,
+      "tag_name": "慕容引刀"
+    }
+  ],
+  "subscribe_num": 25,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42057,
+          "chapter_title": "1话",
+          "updatetime": 1439889617,
+          "filesize": 2665540,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 3804434,
+        "uid": 104313177,
+        "content": "*dúlì*",
+        "createtime": 1517608670,
+        "nickname": "瞳々、",
+        "avatar": "https://avatar.dmzj.com/70/f3/70f33256564568b94313990fe129cba6.png"
+      },
+      {
+        "comment_id": 3804433,
+        "uid": 104313177,
+        "content": "就算是一只蚂蚁，你也很了不起。因为你会思考，有一颗独立的灵魂，还有独立的收获。 --- 刀刀",
+        "createtime": 1517608629,
+        "nickname": "瞳々、",
+        "avatar": "https://avatar.dmzj.com/70/f3/70f33256564568b94313990fe129cba6.png"
+      }
+    ]
+  }
+}

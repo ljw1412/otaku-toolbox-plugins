@@ -1,0 +1,83 @@
+{
+  "id": 21200,
+  "islong": 2,
+  "direction": 2,
+  "title": "终结者1984",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/zhongjieguoqufengmianl.jpg",
+  "description": "黑马漫画推出的外传性质的短系列，故事架构于电影的前两部，讲述在1984年发生的荧幕外的故事",
+  "last_updatetime": 1440583383,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 321866,
+  "hit_num": 415413,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1994,
+      "tag_name": "Dark Horse Comics "
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1342,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44828,
+          "chapter_title": "3卷",
+          "updatetime": 1440583383,
+          "filesize": 3360192,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 44827,
+          "chapter_title": "2卷",
+          "updatetime": 1440583370,
+          "filesize": 3132236,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 44825,
+          "chapter_title": "1卷",
+          "updatetime": 1440583332,
+          "filesize": 2981685,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 20221754,
+        "uid": 107795798,
+        "content": "好",
+        "createtime": 1568206246,
+        "nickname": "dmzj_107795798",
+        "avatar": "https://avatar.dmzj.com/77/70/7770c247bf45c376349f3e5cb0d6cdbc.png"
+      },
+      {
+        "comment_id": 4663940,
+        "uid": 101610824,
+        "content": "讲的是电影终结者1到终结者2之间的空白期",
+        "createtime": 1526064471,
+        "nickname": "Mr.xian yu",
+        "avatar": "https://avatar.dmzj.com/46/47/4647e7914c924ee9f03ea57a8db59650.png"
+      }
+    ]
+  }
+}

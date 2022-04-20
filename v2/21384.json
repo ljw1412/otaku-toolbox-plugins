@@ -1,0 +1,79 @@
+{
+  "id": 21384,
+  "islong": 2,
+  "direction": 2,
+  "title": "你是猴子请来的救兵吗",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1000246121441595270.jpg",
+  "description": "你全家都是猴子请来的！ ",
+  "last_updatetime": 1441595442,
+  "copyright": 1,
+  "first_letter": "n",
+  "hot_num": 1690,
+  "hit_num": 18398,
+  "uid": 100024612,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10522,
+      "tag_name": "明小卷"
+    }
+  ],
+  "subscribe_num": 11,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41194,
+          "chapter_title": "1话",
+          "updatetime": 1441595442,
+          "filesize": 1627240,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 10340531,
+        "uid": 106718293,
+        "content": "开花开花",
+        "createtime": 1548072465,
+        "nickname": "不思议魔法禁书目录",
+        "avatar": "https://avatar.dmzj.com/72/99/729949f686de0ef3c1ccfe8fabcbece1.png"
+      },
+      {
+        "comment_id": 539033,
+        "uid": 100024612,
+        "content": "(#ﾟДﾟ)",
+        "createtime": 1449915510,
+        "nickname": "wsyΘ",
+        "avatar": "https://avatar.dmzj.com/61/cd/61cdc02dd2a6e0fa7daf028dc855013c.png"
+      }
+    ]
+  }
+}

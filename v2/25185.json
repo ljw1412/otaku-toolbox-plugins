@@ -1,0 +1,100 @@
+{
+  "id": 25185,
+  "islong": 2,
+  "direction": 2,
+  "title": "LOL战记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1005124591447141940.jpg",
+  "description": "最叼的LOL漫画",
+  "last_updatetime": 1447396135,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 80391,
+  "hit_num": 1427941,
+  "uid": 100512459,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10892,
+      "tag_name": "段言   木偶"
+    }
+  ],
+  "subscribe_num": 577,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47904,
+          "chapter_title": "4话",
+          "updatetime": 1447396135,
+          "filesize": 1916971,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 47818,
+          "chapter_title": "3话",
+          "updatetime": 1447142905,
+          "filesize": 1498261,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 47817,
+          "chapter_title": "2话",
+          "updatetime": 1447142789,
+          "filesize": 2416200,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 47816,
+          "chapter_title": "1话",
+          "updatetime": 1447142017,
+          "filesize": 3013507,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 27,
+    "latest_comment": [
+      {
+        "comment_id": 27770630,
+        "uid": 102273145,
+        "content": "神马垃圾",
+        "createtime": 1590710321,
+        "nickname": "金鱼生猛",
+        "avatar": "https://avatar.dmzj.com/65/89/6589de4b33b9cd10b890c061e6eee03a.png"
+      },
+      {
+        "comment_id": 22037159,
+        "uid": 105914818,
+        "content": "FPX牛逼",
+        "createtime": 1573401543,
+        "nickname": "一人独秀",
+        "avatar": "https://avatar.dmzj.com/78/02/78029c47759508b407bb1c824cc6bd35.png"
+      }
+    ]
+  }
+}

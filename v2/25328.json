@@ -1,0 +1,79 @@
+{
+  "id": 25328,
+  "islong": 2,
+  "direction": 2,
+  "title": "女巫传奇",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1005371911447906153.jpg",
+  "description": "",
+  "last_updatetime": 1449805522,
+  "copyright": 1,
+  "first_letter": "n",
+  "hot_num": 1782,
+  "hit_num": 39544,
+  "uid": 100537191,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10968,
+      "tag_name": "王凯"
+    }
+  ],
+  "subscribe_num": 16,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44001,
+          "chapter_title": "4话",
+          "updatetime": 1449805522,
+          "filesize": 1985490,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 43857,
+          "chapter_title": "3话",
+          "updatetime": 1449196797,
+          "filesize": 2168468,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 43640,
+          "chapter_title": "2话",
+          "updatetime": 1448595138,
+          "filesize": 1920888,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 43485,
+          "chapter_title": "1话",
+          "updatetime": 1447906428,
+          "filesize": 1504082,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

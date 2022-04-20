@@ -1,0 +1,71 @@
+{
+  "id": 22519,
+  "islong": 2,
+  "direction": 2,
+  "title": "理想的季节",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445935727.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445935742,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 4123,
+  "hit_num": 37962,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 13,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42907,
+          "chapter_title": "1话",
+          "updatetime": 1445935742,
+          "filesize": 827247,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 9693021,
+        "uid": 100472334,
+        "content": "封。。。封面欺诈！",
+        "createtime": 1546606883,
+        "nickname": "藤℃",
+        "avatar": "https://avatar.dmzj.com/68/79/68794dc90a1228c274ae5a6ed9fe7550.png"
+      },
+      {
+        "comment_id": 1303142,
+        "uid": 101240039,
+        "content": "1",
+        "createtime": 1474541769,
+        "nickname": "八行hang",
+        "avatar": "https://avatar.dmzj.com/66/31/6631a0885e978b2ee63b6b7609960ad9.png"
+      }
+    ]
+  }
+}

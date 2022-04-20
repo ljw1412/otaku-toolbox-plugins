@@ -1,0 +1,54 @@
+{
+  "id": 21973,
+  "islong": 2,
+  "direction": 2,
+  "title": "损友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1004604581445588434.jpg",
+  "description": "损友",
+  "last_updatetime": 1445588458,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 857,
+  "hit_num": 5350,
+  "uid": 100460458,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10806,
+      "tag_name": "二囬"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42262,
+          "chapter_title": "1话",
+          "updatetime": 1445588458,
+          "filesize": 304592,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

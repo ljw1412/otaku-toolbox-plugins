@@ -1,0 +1,74 @@
+{
+  "id": 21819,
+  "islong": 2,
+  "direction": 2,
+  "title": "王之國",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1004298001444457729.jpg",
+  "description": "三国的恶搞吐槽向（｀・ω・´）全程无笑点",
+  "last_updatetime": 1444457901,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 2865,
+  "hit_num": 37870,
+  "uid": 100429800,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10739,
+      "tag_name": "未央君"
+    }
+  ],
+  "subscribe_num": 12,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42195,
+          "chapter_title": "2话",
+          "updatetime": 1444457901,
+          "filesize": 747868,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42194,
+          "chapter_title": "1话",
+          "updatetime": 1444457844,
+          "filesize": 582927,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "【LOFTER】http://xmarzt.lofter.com/",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 489241,
+        "uid": 13879792,
+        "content": "看到作者的名字，我只想到一句经典的句子",
+        "createtime": 1444468176,
+        "nickname": "正如3k大神所言",
+        "avatar": "https://avatar.dmzj.com/41/ab/41ab06daf5d9ed0f869df7daeb5ced74.png"
+      }
+    ]
+  }
+}

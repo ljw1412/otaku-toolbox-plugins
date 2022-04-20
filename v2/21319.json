@@ -1,0 +1,73 @@
+{
+  "id": 21319,
+  "islong": 2,
+  "direction": 1,
+  "title": "偶像侵略队",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/ouxiangqinluedui10.jpg",
+  "description": "宇宙人想成为“偶像”征服地球！？异想天开的喜剧，新的邪教即将诞生。\n",
+  "last_updatetime": 1441112667,
+  "copyright": 0,
+  "first_letter": "o",
+  "hot_num": 37002,
+  "hit_num": 108141,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5929,
+      "tag_name": "高木ユーナ"
+    }
+  ],
+  "subscribe_num": 235,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40994,
+          "chapter_title": "1话",
+          "updatetime": 1441112667,
+          "filesize": 6172261,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 28839342,
+        "uid": 107113733,
+        "content": "只有5个人？",
+        "createtime": 1594395245,
+        "nickname": "逸动",
+        "avatar": "https://avatar.dmzj.com/61/49/6149d8238ca9143dce53fd750b81c730.png"
+      },
+      {
+        "comment_id": 26884274,
+        "uid": 108659773,
+        "content": "待更",
+        "createtime": 1587970040,
+        "nickname": "滴嘟滴嘟滴嘟",
+        "avatar": "https://avatar.dmzj.com/10/90/1090d031cbc99f9690ebf87c9449ccd3.png"
+      }
+    ]
+  }
+}

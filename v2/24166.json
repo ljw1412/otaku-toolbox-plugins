@@ -1,0 +1,54 @@
+{
+  "id": 24166,
+  "islong": 2,
+  "direction": 2,
+  "title": "好好学习",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1004738421446176642.jpg",
+  "description": "灵耀动漫",
+  "last_updatetime": 1446176660,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 1270,
+  "hit_num": 8260,
+  "uid": 100473842,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10878,
+      "tag_name": "灵耀动漫"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44877,
+          "chapter_title": "1话",
+          "updatetime": 1446176660,
+          "filesize": 654573,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

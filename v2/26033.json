@@ -1,0 +1,71 @@
+{
+  "id": 26033,
+  "islong": 2,
+  "direction": 2,
+  "title": "我叫冷笑话滑稽",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1005376591449201664.jpg",
+  "description": "星漫文化",
+  "last_updatetime": 1449201682,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 750,
+  "hit_num": 1937,
+  "uid": 100537659,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10967,
+      "tag_name": "星漫文化 "
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44040,
+          "chapter_title": "1话",
+          "updatetime": 1449201682,
+          "filesize": 375822,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 4933959,
+        "uid": 106428776,
+        "content": "滑稽",
+        "createtime": 1527915573,
+        "nickname": "dmzj_106428776",
+        "avatar": "https://avatar.dmzj.com/59/11/591110f001670697e8976d6028e8690e.png"
+      },
+      {
+        "comment_id": 1121389,
+        "uid": 101564249,
+        "content": "滑稽",
+        "createtime": 1470487217,
+        "nickname": "八云绘",
+        "avatar": "https://avatar.dmzj.com/73/8d/738d49c8e47a4f98fcd236931a9afc5c.png"
+      }
+    ]
+  }
+}

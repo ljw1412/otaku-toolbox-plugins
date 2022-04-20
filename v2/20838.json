@@ -1,0 +1,68 @@
+{
+  "id": 20838,
+  "islong": 2,
+  "direction": 2,
+  "title": "学校里的事情",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1003031611439021137.jpg",
+  "description": "学校发生一些搞笑真实小故事改编",
+  "last_updatetime": 1439021429,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 847,
+  "hit_num": 1974,
+  "uid": 100303161,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10223,
+      "tag_name": "冰凌传晴"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40113,
+          "chapter_title": "3话",
+          "updatetime": 1439021429,
+          "filesize": 74590,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 40112,
+          "chapter_title": "2话",
+          "updatetime": 1439021350,
+          "filesize": 307572,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40111,
+          "chapter_title": "1话",
+          "updatetime": 1439021271,
+          "filesize": 364505,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

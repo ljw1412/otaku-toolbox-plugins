@@ -1,0 +1,73 @@
+{
+  "id": 21492,
+  "islong": 2,
+  "direction": 2,
+  "title": "神奇四侠：第一季",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/shenqisixiadiyiji689l.jpg",
+  "description": "四位科学家由于受到宇宙射线辐射而变异，获得四种不同超能力，从此成立一个团队，既打击犯罪，也进行科学探险，解决各种离奇的问题。",
+  "last_updatetime": 1441954418,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 33737,
+  "hit_num": 278438,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 132,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45266,
+          "chapter_title": "1话",
+          "updatetime": 1441954418,
+          "filesize": 14594845,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 472263,
+        "uid": 100353739,
+        "content": "千万不要放弃616啊",
+        "createtime": 1442043580,
+        "nickname": "oaa2.0",
+        "avatar": "https://avatar.dmzj.com/1c/a3/1ca3bcf8896edd262d6b3b1484d25363.png"
+      },
+      {
+        "comment_id": 472205,
+        "uid": 100353739,
+        "content": "漫威不会要重启所有超级英雄吧",
+        "createtime": 1442037023,
+        "nickname": "oaa2.0",
+        "avatar": "https://avatar.dmzj.com/1c/a3/1ca3bcf8896edd262d6b3b1484d25363.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": 22711,
+  "islong": 2,
+  "direction": 1,
+  "title": "不羁的风",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1004883631446528261.jpg",
+  "description": "一个关于格斗的故事，梦想、热血都在这里！",
+  "last_updatetime": 1448330899,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 5166,
+  "hit_num": 85683,
+  "uid": 100488363,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10851,
+      "tag_name": "寰宇歌手胖虎"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45469,
+          "chapter_title": "4话",
+          "updatetime": 1448330899,
+          "filesize": 2102248,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 45295,
+          "chapter_title": "3话",
+          "updatetime": 1447731191,
+          "filesize": 2265956,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 45126,
+          "chapter_title": "2话",
+          "updatetime": 1447128842,
+          "filesize": 2322085,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 44459,
+          "chapter_title": "1话",
+          "updatetime": 1446528400,
+          "filesize": 1794349,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 26407045,
+        "uid": 106482446,
+        "content": "从前如不羁的风 不爱生根 我说我最害怕誓盟",
+        "createtime": 1586707544,
+        "nickname": "百合喵咪喵",
+        "avatar": "https://avatar.dmzj.com/93/06/930677ef6895e7ca8d70c291ce977e69.png"
+      }
+    ]
+  }
+}

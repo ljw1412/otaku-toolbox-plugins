@@ -1,0 +1,71 @@
+{
+  "id": 20807,
+  "islong": 2,
+  "direction": 2,
+  "title": "彼岸之匙",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1003030671439018265.jpg",
+  "description": "关于未知世界的故事",
+  "last_updatetime": 1439018560,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 4303,
+  "hit_num": 74935,
+  "uid": 100303067,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10203,
+      "tag_name": "猫小骷"
+    }
+  ],
+  "subscribe_num": 25,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43972,
+          "chapter_title": "1话",
+          "updatetime": 1439018560,
+          "filesize": 2168130,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 8144424,
+        "uid": 106027041,
+        "content": "这画风真的好眼熟啊",
+        "createtime": 1542249253,
+        "nickname": "太初有一",
+        "avatar": "https://avatar.dmzj.com/71/87/7187273af0aa31d09132b874e20f68b1.png"
+      }
+    ]
+  }
+}

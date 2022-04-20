@@ -1,0 +1,83 @@
+{
+  "id": 28869,
+  "islong": 2,
+  "direction": 1,
+  "title": "美国队长：永远的盟友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/11/mgdzyydmy568l.jpg",
+  "description": "吧唧在“老”伙伴的葬礼上看到几十年前的宿敌。她怎么可能还活着？还辣么年轻？？好吧，吧唧自己也很年轻。",
+  "last_updatetime": 1468556833,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 44027,
+  "hit_num": 111230,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 209,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52461,
+          "chapter_title": "3卷",
+          "updatetime": 1468556833,
+          "filesize": 3399271,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 47530,
+          "chapter_title": "2卷",
+          "updatetime": 1457588505,
+          "filesize": 3383412,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 46201,
+          "chapter_title": "1卷",
+          "updatetime": 1454044399,
+          "filesize": 3640738,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 1017519,
+        "uid": 100036824,
+        "content": "九头蛇万岁！",
+        "createtime": 1468565734,
+        "nickname": "核心高达",
+        "avatar": "https://avatar.dmzj.com/96/21/9621b3ad9a3469555d71120fa97122ce.png"
+      },
+      {
+        "comment_id": 667085,
+        "uid": 10048326,
+        "content": "老兵不死，日渐凋零",
+        "createtime": 1457699769,
+        "nickname": "dubbleteeth",
+        "avatar": "https://avatar.dmzj.com/cd/7a/cd7af93b968571c4fb008a084e98838c.png"
+      }
+    ]
+  }
+}

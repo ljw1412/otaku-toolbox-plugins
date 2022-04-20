@@ -1,0 +1,63 @@
+{
+  "id": 22602,
+  "islong": 1,
+  "direction": 2,
+  "title": "护花",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1004913721446530937.jpg",
+  "description": "护花",
+  "last_updatetime": 1446531015,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 667,
+  "hit_num": 989,
+  "uid": 100491372,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10848,
+      "tag_name": "神乐动漫"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46788,
+          "chapter_title": "1话",
+          "updatetime": 1446531015,
+          "filesize": 381238,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 505145,
+        "uid": 100491789,
+        "content": "很不错",
+        "createtime": 1446542788,
+        "nickname": "忆如初",
+        "avatar": "https://avatar.dmzj.com/85/c1/85c1bc1d9cb67228b2d2b4bf73ae46b6.png"
+      }
+    ]
+  }
+}

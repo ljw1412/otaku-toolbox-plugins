@@ -1,0 +1,54 @@
+{
+  "id": 26240,
+  "islong": 2,
+  "direction": 2,
+  "title": "问道一日",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1006196061450082682.jpg",
+  "description": "问道一日",
+  "last_updatetime": 1450082735,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 1328,
+  "hit_num": 49440,
+  "uid": 100619606,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11076,
+      "tag_name": "兔子"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48755,
+          "chapter_title": "1话",
+          "updatetime": 1450082735,
+          "filesize": 5938792,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": 20245,
+  "islong": 2,
+  "direction": 2,
+  "title": "进击的初音",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1002685931437743881.jpg",
+  "description": "唯美绘翼第一期",
+  "last_updatetime": 1437743923,
+  "copyright": 1,
+  "first_letter": "j",
+  "hot_num": 5846,
+  "hit_num": 55257,
+  "uid": 100268593,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10029,
+      "tag_name": "赫佳"
+    }
+  ],
+  "subscribe_num": 31,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43492,
+          "chapter_title": "1话",
+          "updatetime": 1437743923,
+          "filesize": 752854,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 4618249,
+        "uid": 105524373,
+        "content": "画的不错",
+        "createtime": 1525741955,
+        "nickname": "痴成zjc39",
+        "avatar": "https://avatar.dmzj.com/95/0e/950e22a57d881b7b9a6da8fe9c19c2c6.png"
+      },
+      {
+        "comment_id": 1472483,
+        "uid": 102321653,
+        "content": "希望有其他V家的人来串，还有脑部的甩葱歌，不必写吧，还希望快速更新",
+        "createtime": 1479222809,
+        "nickname": "贵族✨霸气15735",
+        "avatar": "https://avatar.dmzj.com/60/89/608932e144b2fee35decd70f13598ae7.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": 21899,
+  "islong": 2,
+  "direction": 1,
+  "title": "Hello＆Hello",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/hellohellofengmianl.jpg",
+  "description": "长陆奥本",
+  "last_updatetime": 1513679859,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 336098,
+  "hit_num": 561214,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10781,
+      "tag_name": "こずみっく"
+    }
+  ],
+  "subscribe_num": 1680,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67845,
+          "chapter_title": "3话",
+          "updatetime": 1513679862,
+          "filesize": 8501656,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 67844,
+          "chapter_title": "2话",
+          "updatetime": 1513678401,
+          "filesize": 7067851,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 67843,
+          "chapter_title": "1话",
+          "updatetime": 1513678360,
+          "filesize": 6458791,
+          "chapter_order": 30
+        }
+      ]
+    },
+    {
+      "title": "其它汉化版",
+      "data": [
+        {
+          "chapter_id": 42391,
+          "chapter_title": "2话",
+          "updatetime": 1445161791,
+          "filesize": 4812552,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 42390,
+          "chapter_title": "1话",
+          "updatetime": 1445161768,
+          "filesize": 4367783,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 64,
+    "latest_comment": [
+      {
+        "comment_id": 29818086,
+        "uid": 100120207,
+        "content": "舰c本质量都挺高",
+        "createtime": 1597933234,
+        "nickname": "Sumikaze",
+        "avatar": "https://avatar.dmzj.com/a3/8d/a38d73081a4d66eb275cda7827cec124.png"
+      },
+      {
+        "comment_id": 27439423,
+        "uid": 100565193,
+        "content": "咕噜咕噜",
+        "createtime": 1589652324,
+        "nickname": "贫穷人",
+        "avatar": "https://avatar.dmzj.com/49/16/4916ca3c3a8fed74fa232225600a6348.png"
+      }
+    ]
+  }
+}

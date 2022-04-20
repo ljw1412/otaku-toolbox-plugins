@@ -1,0 +1,108 @@
+{
+  "id": 22119,
+  "islong": 1,
+  "direction": 2,
+  "title": "不是我干的",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/bushiwogande.jpg",
+  "description": "韩国最顶级的悬疑推理漫画，最顶级的画工、光影和分镜。",
+  "last_updatetime": 1446558511,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 82400,
+  "hit_num": 514565,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10843,
+      "tag_name": "min hyung"
+    },
+    {
+      "tag_id": 10844,
+      "tag_name": "kim jun-seok"
+    }
+  ],
+  "subscribe_num": 618,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42967,
+          "chapter_title": "5话",
+          "updatetime": 1446558511,
+          "filesize": 1012741,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 42958,
+          "chapter_title": "4话",
+          "updatetime": 1446549365,
+          "filesize": 1163604,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 42948,
+          "chapter_title": "3话",
+          "updatetime": 1446542166,
+          "filesize": 1306820,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 42835,
+          "chapter_title": "2话",
+          "updatetime": 1446474054,
+          "filesize": 856056,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 42834,
+          "chapter_title": "1话",
+          "updatetime": 1446465493,
+          "filesize": 1730167,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 42814,
+          "chapter_title": "0话",
+          "updatetime": 1446454675,
+          "filesize": 1955072,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 26586754,
+        "uid": 109922497,
+        "content": "4年没更新(ﾉ ○ Д ○)ﾉ　",
+        "createtime": 1587144353,
+        "nickname": "dmzj_109922497",
+        "avatar": "https://avatar.dmzj.com/48/40/484009be7c68dcebaba88acefe3fa318.png"
+      },
+      {
+        "comment_id": 19717238,
+        "uid": 108794810,
+        "content": "话说大大什么时候更新",
+        "createtime": 1566629115,
+        "nickname": "阿飞DMZJ",
+        "avatar": "https://avatar.dmzj.com/57/07/57077c13fbcf0b2e66d6947116b8130a.png"
+      }
+    ]
+  }
+}

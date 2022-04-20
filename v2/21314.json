@@ -1,0 +1,71 @@
+{
+  "id": 21314,
+  "islong": 2,
+  "direction": 2,
+  "title": "一起成为魔法少女吧！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1003570141441088431.jpg",
+  "description": "一起成为魔法少女吧！",
+  "last_updatetime": 1441088454,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 8288,
+  "hit_num": 44964,
+  "uid": 100357014,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10480,
+      "tag_name": "Srad"
+    }
+  ],
+  "subscribe_num": 53,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40992,
+          "chapter_title": "1话",
+          "updatetime": 1441088454,
+          "filesize": 525403,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 25783742,
+        "uid": 104321288,
+        "content": "o",
+        "createtime": 1585392272,
+        "nickname": "真实的马鹿",
+        "avatar": "https://avatar.dmzj.com/20/47/20477b27d1755aecc8819c8c626dbdbb.png"
+      },
+      {
+        "comment_id": 20643263,
+        "uid": 106428705,
+        "content": "嗯。。。。",
+        "createtime": 1569491983,
+        "nickname": "熬夜不好",
+        "avatar": "https://avatar.dmzj.com/65/95/6595d068e90baeb1ea4497c5318fb258.png"
+      }
+    ]
+  }
+}

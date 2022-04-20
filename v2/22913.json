@@ -1,0 +1,63 @@
+{
+  "id": 22913,
+  "islong": 2,
+  "direction": 2,
+  "title": "小书郎",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446023418.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446023442,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 824,
+  "hit_num": 5657,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42685,
+          "chapter_title": "1话",
+          "updatetime": 1446023442,
+          "filesize": 829907,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 11550080,
+        "uid": 106164832,
+        "content": "这个漫画甚至没有评论。。",
+        "createtime": 1550384152,
+        "nickname": "箐椿～少年＊",
+        "avatar": "https://avatar.dmzj.com/4b/f8/4bf876180837b5454811742846ff2923.png"
+      }
+    ]
+  }
+}

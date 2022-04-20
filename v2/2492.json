@@ -1,0 +1,77 @@
+{
+  "id": 2492,
+  "islong": 2,
+  "direction": 1,
+  "title": "假面骑士EX",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/001_c4481dbcf9e5f8c1161133f54ba10f00.jpg",
+  "description": "《假面骑士EX》讲的是 完全收录在ＴＶmagazine杂志中的连载。除了使用崭新的手法描绘出梦幻的100页作品‘假面骑士插图漫画'，还收录了作者在‘假面骑士BLACK' 电影开拍前，亲自绘制给工作人员介绍假面世界的小册子‘你看过假面骑士了吗?!' 你不可不知的石森版假面骑士世界！",
+  "last_updatetime": 1271413348,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 432447,
+  "hit_num": 2160305,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1509,
+      "tag_name": "石之森章太郎"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1921,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6910,
+          "chapter_title": "1卷",
+          "updatetime": 1272018148,
+          "filesize": 27008998,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 29146297,
+        "uid": 108981421,
+        "content": "废案？",
+        "createtime": 1595424577,
+        "nickname": "约瑟夫没朋友",
+        "avatar": "https://avatar.dmzj.com/31/36/3136ecbdd9079771af87cba384fa435f.png"
+      },
+      {
+        "comment_id": 26936348,
+        "uid": 105447883,
+        "content": "请问为什么没有骑士人的漫画啊，就只有v3最后一点和强人最后七骑士说了骑士人",
+        "createtime": 1588089326,
+        "nickname": "明冥如栞",
+        "avatar": "https://avatar.dmzj.com/ee/bb/eebb406af4e6be4a681c56a19c3a5c01.png"
+      }
+    ]
+  }
+}

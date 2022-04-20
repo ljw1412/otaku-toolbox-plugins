@@ -1,0 +1,94 @@
+{
+  "id": 20968,
+  "islong": 2,
+  "direction": 1,
+  "title": "妖女传说",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/yaonvchuanshuo.jpg",
+  "description": "《妖女传说》,这部堪称星野之宣作品最高峰的杰作,将与初期发表时一样的形式出版,再次上演“传说”！",
+  "last_updatetime": 1443936085,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 26035,
+  "hit_num": 1764714,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1295,
+      "tag_name": "星野之宣"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 255,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41747,
+          "chapter_title": "4话",
+          "updatetime": 1443936085,
+          "filesize": 3933269,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 41354,
+          "chapter_title": "3话",
+          "updatetime": 1442411712,
+          "filesize": 7870696,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 40934,
+          "chapter_title": "2话",
+          "updatetime": 1441125733,
+          "filesize": 13831560,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 40366,
+          "chapter_title": "1话",
+          "updatetime": 1439779896,
+          "filesize": 21014808,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 29651072,
+        "uid": 100788311,
+        "content": "感人",
+        "createtime": 1597289305,
+        "nickname": "食人蘑",
+        "avatar": "https://avatar.dmzj.com/a3/a3/a3a3886d91a6cf592c69f5d255d9535d.png"
+      },
+      {
+        "comment_id": 27277400,
+        "uid": 106051989,
+        "content": "rt",
+        "createtime": 1589127213,
+        "nickname": "猫街小子",
+        "avatar": "https://avatar.dmzj.com/33/07/330771e3aac7ac14f90a8c7091858b47.png"
+      }
+    ]
+  }
+}

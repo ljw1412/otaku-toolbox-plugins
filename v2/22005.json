@@ -1,0 +1,79 @@
+{
+  "id": 22005,
+  "islong": 2,
+  "direction": 1,
+  "title": "杀马特SMART传说",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1004612911445608053.jpg",
+  "description": "此作品与现实世界的人名地名无关。热血杀马特漫画",
+  "last_updatetime": 1445608365,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 6155,
+  "hit_num": 148215,
+  "uid": 100461291,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10818,
+      "tag_name": "冰戈"
+    }
+  ],
+  "subscribe_num": 40,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46766,
+          "chapter_title": "1话",
+          "updatetime": 1445608365,
+          "filesize": 2968123,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "我的微博：冰戈是爆炸热血少年",
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 8928405,
+        "uid": 101052801,
+        "content": "海贼王的梦想，上空岛前辈嘲笑，黑胡子出现233",
+        "createtime": 1544620398,
+        "nickname": "ZRJfxs",
+        "avatar": "https://avatar.dmzj.com/99/13/9913df47eb4cb78c6586e5e35cc9afa9.png"
+      },
+      {
+        "comment_id": 2916778,
+        "uid": 100332445,
+        "content": "我觉得还好啊！感觉挺有趣的，支持！^ω^",
+        "createtime": 1505364396,
+        "nickname": "HALLS  BUTLER",
+        "avatar": "https://avatar.dmzj.com/a1/3e/a13e105470a34c11e6bd8226085780de.png"
+      }
+    ]
+  }
+}

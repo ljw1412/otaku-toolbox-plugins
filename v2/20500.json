@@ -1,0 +1,73 @@
+{
+  "id": 20500,
+  "islong": 2,
+  "direction": 2,
+  "title": "正义联盟3001",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/zhengyilianmeng3001fengmianl.jpg",
+  "description": "正义联盟3000的未来",
+  "last_updatetime": 1438160995,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 31449,
+  "hit_num": 26157,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 164,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43610,
+          "chapter_title": "0卷",
+          "updatetime": 1438160995,
+          "filesize": 2005499,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 12721687,
+        "uid": 105099321,
+        "content": "隔壁3000都诈尸了，3001还会远吗(〃-ー-)ﾉ",
+        "createtime": 1552290674,
+        "nickname": "曾有一滴水",
+        "avatar": "https://avatar.dmzj.com/95/26/95262df25eff737e75a29b8548e2c961.png"
+      },
+      {
+        "comment_id": 785418,
+        "uid": 101112676,
+        "content": "没人！？",
+        "createtime": 1462539236,
+        "nickname": "qzuser33146156",
+        "avatar": "https://avatar.dmzj.com/0e/b4/0eb40224cb6c6f174bac7728b644cf4f.png"
+      }
+    ]
+  }
+}

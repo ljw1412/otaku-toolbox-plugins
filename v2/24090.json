@@ -1,0 +1,79 @@
+{
+  "id": 24090,
+  "islong": 2,
+  "direction": 1,
+  "title": "少女所见之物",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/shaonvsuojianzhiwu.jpg",
+  "description": "舰队同人，罕见的史实梗催泪向。",
+  "last_updatetime": 1446716782,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "s",
+  "comic_py": "shaonvsuojianzhiwu",
+  "hidden": 0,
+  "hot_num": 53456,
+  "hit_num": 152196,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 47470,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 7758,
+      "tag_name": "茶茶畑"
+    }
+  ],
+  "subscribe_num": 319,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47470,
+          "chapter_title": "1话",
+          "updatetime": 1446716782,
+          "filesize": 1920994,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 29963561,
+        "uid": 107037636,
+        "content": "愿世界永保和平！",
+        "createtime": 1598457100,
+        "nickname": "金月龙之介",
+        "avatar": "https://avatar.dmzj.com/24/20/24206df99a560cce08a84ff78981a334.png"
+      },
+      {
+        "comment_id": 28983850,
+        "uid": 104749419,
+        "content": "哇真的好看",
+        "createtime": 1594871216,
+        "nickname": "以萨伊的赐福",
+        "avatar": "https://avatar.dmzj.com/19/49/19498486f2ba2b109705477df4a87162.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

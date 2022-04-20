@@ -1,0 +1,71 @@
+{
+  "id": 25309,
+  "islong": 2,
+  "direction": 1,
+  "title": "访客",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1005370631447902289.jpg",
+  "description": "自己会不会在某个时间段的自己相遇呢？",
+  "last_updatetime": 1447902911,
+  "copyright": 1,
+  "first_letter": "f",
+  "hot_num": 2553,
+  "hit_num": 45436,
+  "uid": 100537063,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10964,
+      "tag_name": "杨不女"
+    }
+  ],
+  "subscribe_num": 17,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43805,
+          "chapter_title": "1话",
+          "updatetime": 1447902911,
+          "filesize": 1978799,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 949281,
+        "uid": 100428064,
+        "content": "画风不错",
+        "createtime": 1467022192,
+        "nickname": "怪咖女王嘻唰唰",
+        "avatar": "https://avatar.dmzj.com/2a/39/2a391aa106a001ebca1765c91e766aad.png"
+      },
+      {
+        "comment_id": 588649,
+        "uid": 100185656,
+        "content": "有新作吗",
+        "createtime": 1453797718,
+        "nickname": "你的好友『苏沐秋』已上线",
+        "avatar": "https://avatar.dmzj.com/58/76/5876c960eae66244ec5e9477206746f0.png"
+      }
+    ]
+  }
+}

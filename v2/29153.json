@@ -1,0 +1,68 @@
+{
+  "id": 29153,
+  "islong": 2,
+  "direction": 2,
+  "title": "终极复仇者3",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/Ultimate-Avengers-3-00-01pga.jpg",
+  "description": "终极复仇者第三部，两个宇宙的组织互掐。",
+  "last_updatetime": 1584705736,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 19320,
+  "hit_num": 46873,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 137,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 95173,
+          "chapter_title": "2卷",
+          "updatetime": 1584705736,
+          "filesize": 2563264,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 46148,
+          "chapter_title": "1卷",
+          "updatetime": 1455525349,
+          "filesize": 3126325,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 6980490,
+        "uid": 105731516,
+        "content": "求大佬们接手吧",
+        "createtime": 1537778503,
+        "nickname": "追到追到吐血",
+        "avatar": "https://avatar.dmzj.com/4d/c8/4dc87167a840e6f0b4a9e580d4d158ea.png"
+      }
+    ]
+  }
+}

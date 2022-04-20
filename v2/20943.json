@@ -1,0 +1,75 @@
+{
+  "id": 20943,
+  "islong": 2,
+  "direction": 2,
+  "title": "斗战",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871439448537.jpg",
+  "description": "五色神石所化的男孩，他被女蜗取名为斗战，在小时候朦胧的爱情与逐渐长大的友情，以及世间万物的部落斗争中，他明白了女蜗造出自己的意义……",
+  "last_updatetime": 1439449124,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 2863,
+  "hit_num": 27455,
+  "uid": 100205887,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40316,
+          "chapter_title": "3话",
+          "updatetime": 1439449124,
+          "filesize": 2165869,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 40315,
+          "chapter_title": "2话",
+          "updatetime": 1439449106,
+          "filesize": 2423117,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 40314,
+          "chapter_title": "1话",
+          "updatetime": 1439449082,
+          "filesize": 2065732,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40313,
+          "chapter_title": "0话",
+          "updatetime": 1439449055,
+          "filesize": 2486716,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

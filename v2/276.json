@@ -1,0 +1,93 @@
+{
+  "id": 276,
+  "islong": 2,
+  "direction": 1,
+  "title": "伙伴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/huoban.jpg",
+  "description": "主人公四个：同卵双胞胎姐妹樱泽苗、樱泽萌和异卵双胞胎兄弟添田贤、添田武。温柔的小萌和安静的小贤在交往,乐观外向的小武则在追求坚强自主的小苗。本来是这样普通的校园恋爱漫画,却突然因为妹妹小萌出车祸暴毙变成了完全不一样的故事。之后小萌的尸体不翼而飞,剩下的三人也被一个秘密的研究所监禁起来——原来小萌的遗体被研究所的领导者,一个叫做东条博士的人当作试验品,变成了一个失去心志的能走路的娃娃。于是剩下的三个人一边带着巨大的悲痛,一边设法想要逃出这个基地揭露这些人的罪行......",
+  "last_updatetime": 1178197680,
+  "last_update_chapter_name": "vol_03",
+  "copyright": 0,
+  "first_letter": "h",
+  "comic_py": "hb",
+  "hidden": 0,
+  "hot_num": 124284,
+  "hit_num": 4437370,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 393,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 49,
+      "tag_name": "小花美穗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 636,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 393,
+          "chapter_title": "3卷",
+          "updatetime": 1178197680,
+          "filesize": 27124120,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 392,
+          "chapter_title": "2卷",
+          "updatetime": 1178197680,
+          "filesize": 25652169,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 391,
+          "chapter_title": "1卷",
+          "updatetime": 1178197680,
+          "filesize": 27242787,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 23884627,
+        "uid": 108883479,
+        "content": "My friends",
+        "createtime": 1581090472,
+        "nickname": "dmzj_108883479",
+        "avatar": "https://avatar.dmzj.com/14/22/142287e21d8253e4c828b6183c384011.png"
+      },
+      {
+        "comment_id": 13909220,
+        "uid": 101758008,
+        "content": "挺不错的说。",
+        "createtime": 1554643421,
+        "nickname": "华阳音",
+        "avatar": "https://avatar.dmzj.com/21/33/213302ba390ff00a5f84a80277b68acf.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,71 @@
+{
+  "id": 21952,
+  "islong": 2,
+  "direction": 2,
+  "title": "暗黑东游记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1004564271445433079.jpg",
+  "description": "以西游记人物为原型，诉说人界，天界，魔界的一系列故事",
+  "last_updatetime": 1445433380,
+  "copyright": 1,
+  "first_letter": "a",
+  "hot_num": 1041,
+  "hit_num": 13439,
+  "uid": 100456427,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10796,
+      "tag_name": "嘉哥"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46350,
+          "chapter_title": "1话",
+          "updatetime": 1445433380,
+          "filesize": 591452,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "希望大家喜欢这个故事",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 496895,
+        "uid": 100452439,
+        "content": "只想说很无聊",
+        "createtime": 1445500544,
+        "nickname": "超神大佬张",
+        "avatar": "https://avatar.dmzj.com/0f/57/0f577e369a22711e13e9f07f5d9d17d5.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": 20990,
+  "islong": 2,
+  "direction": 2,
+  "title": "坑王之王",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1003239591439789968.jpg",
+  "description": "大家好，这些作品都是坑，坑得我都不想填，已经被我彻底舍弃了，请随便看。",
+  "last_updatetime": 1439790130,
+  "copyright": 1,
+  "first_letter": "k",
+  "hot_num": 1230,
+  "hit_num": 19793,
+  "uid": 100323959,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10299,
+      "tag_name": "IC"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44373,
+          "chapter_title": "2话",
+          "updatetime": 1439790130,
+          "filesize": 2667470,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 44372,
+          "chapter_title": "1话",
+          "updatetime": 1439790075,
+          "filesize": 3290062,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "我根本不承认这些东西是我画的，嗯。",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 22835201,
+        "uid": 104358615,
+        "content": "哇，考古找到沙发？！",
+        "createtime": 1577256029,
+        "nickname": "ちび",
+        "avatar": "https://avatar.dmzj.com/82/82/8282fb0eacd9977b786fd506eedc5e37.png"
+      }
+    ]
+  }
+}

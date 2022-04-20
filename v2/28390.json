@@ -1,0 +1,71 @@
+{
+  "id": 28390,
+  "islong": 2,
+  "direction": 2,
+  "title": "这个世界奇奇怪怪十八",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1005376591452767619.jpg",
+  "description": "星漫文化",
+  "last_updatetime": 1452767627,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 1224,
+  "hit_num": 3226,
+  "uid": 100537659,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10967,
+      "tag_name": "星漫文化 "
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49914,
+          "chapter_title": "1话",
+          "updatetime": 1452767627,
+          "filesize": 311025,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 19365563,
+        "uid": 107241137,
+        "content": "这就一话？",
+        "createtime": 1565717352,
+        "nickname": "dmzj_107241137",
+        "avatar": "https://avatar.dmzj.com/2c/82/2c821bbf9be5875c9f69b073a7373238.png"
+      },
+      {
+        "comment_id": 4406421,
+        "uid": 105767122,
+        "content": "明明超有意思的东西居然没人看？！没天理！顺便第一！",
+        "createtime": 1524046987,
+        "nickname": "晓眀",
+        "avatar": "https://avatar.dmzj.com/43/bc/43bce38d6ecc952def13d3af97be81cd.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": 20769,
+  "islong": 2,
+  "direction": 2,
+  "title": "未完的黑夜",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871438846093.jpg",
+  "description": "人在黑暗中往往会变得很脆弱，特别内心受 过伤害的人，每当黑夜来临，心里都会感到 很彷徨。",
+  "last_updatetime": 1438846204,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 2892,
+  "hit_num": 17572,
+  "uid": 100205887,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39945,
+          "chapter_title": "1话",
+          "updatetime": 1438846204,
+          "filesize": 847439,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 11832285,
+        "uid": 104959121,
+        "content": "封面想起来樱",
+        "createtime": 1550864094,
+        "nickname": "若无其事17143",
+        "avatar": "https://avatar.dmzj.com/ff/68/ff684538e959cd727cf376811396c809.png"
+      }
+    ]
+  }
+}

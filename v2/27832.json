@@ -1,0 +1,73 @@
+{
+  "id": 27832,
+  "islong": 2,
+  "direction": 2,
+  "title": "中国拳王",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/zhongguoquanwang.jpg",
+  "description": "邹市明早15岁时就开始了拳击之路，邹市明在遵义校开始接受梁峰教授的一连串训练。3年之后入选成为国家队成员之一，邹市明教练是张传良。",
+  "last_updatetime": 1452842697,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 8651,
+  "hit_num": 291340,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11243,
+      "tag_name": "胡智杰"
+    }
+  ],
+  "subscribe_num": 49,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49655,
+          "chapter_title": "1卷",
+          "updatetime": 1452842697,
+          "filesize": 15335503,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 15648184,
+        "uid": 108758142,
+        "content": "赞赞",
+        "createtime": 1557455985,
+        "nickname": "dmzj_108758142",
+        "avatar": "https://avatar.dmzj.com/4f/86/4f86a178347dd63b6e2a81638cae22e3.png"
+      },
+      {
+        "comment_id": 4533055,
+        "uid": 103454209,
+        "content": "超赞啊",
+        "createtime": 1525069444,
+        "nickname": "qzuser08431983",
+        "avatar": "https://avatar.dmzj.com/76/cb/76cb2a10b2c0140a056304dddbf23965.png"
+      }
+    ]
+  }
+}

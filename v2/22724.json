@@ -1,0 +1,79 @@
+{
+  "id": 22724,
+  "islong": 2,
+  "direction": 1,
+  "title": "落失时间之犬",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/01luoshizhiquan113syz.jpg",
+  "description": "为迷路的灵魂指引方向的手",
+  "last_updatetime": 1446561332,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "luoshishijianzhiquan",
+  "hidden": 0,
+  "hot_num": 50018,
+  "hit_num": 84088,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 42968,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 5806,
+      "tag_name": "魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10852,
+      "tag_name": "うみハル"
+    }
+  ],
+  "subscribe_num": 301,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42968,
+          "chapter_title": "1话",
+          "updatetime": 1446561332,
+          "filesize": 4448425,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 30052296,
+        "uid": 108119806,
+        "content": "好",
+        "createtime": 1598807346,
+        "nickname": "dmzj_108119806",
+        "avatar": "https://avatar.dmzj.com/06/6c/066ca46a10921d57b12c76ac9fd3bfd3.png"
+      },
+      {
+        "comment_id": 25994532,
+        "uid": 100378600,
+        "content": "一般之作，没有惊喜",
+        "createtime": 1585856328,
+        "nickname": "夏铃娜娜",
+        "avatar": "https://avatar.dmzj.com/db/bc/dbbcc208be3b1578f29f3fe63989e5ef.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

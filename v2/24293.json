@@ -1,0 +1,63 @@
+{
+  "id": 24293,
+  "islong": 2,
+  "direction": 2,
+  "title": "疯狂小驴子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1004738421446092914.jpg",
+  "description": "灵耀动漫",
+  "last_updatetime": 1446092961,
+  "copyright": 1,
+  "first_letter": "f",
+  "hot_num": 636,
+  "hit_num": 2558,
+  "uid": 100473842,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10878,
+      "tag_name": "灵耀动漫"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43077,
+          "chapter_title": "1话",
+          "updatetime": 1446092961,
+          "filesize": 1006424,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 8104210,
+        "uid": 107579874,
+        "content": "好看的一匹",
+        "createtime": 1542106545,
+        "nickname": "dmzj_107579874",
+        "avatar": "https://avatar.dmzj.com/68/e6/68e6e541a893309d318a8c75ef727e6c.png"
+      }
+    ]
+  }
+}

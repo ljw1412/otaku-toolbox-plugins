@@ -1,0 +1,73 @@
+{
+  "id": 21596,
+  "islong": 2,
+  "direction": 1,
+  "title": "死刑游戏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/sixinyouxifengmianl.jpg",
+  "description": "万圣节之夜，死刑犯们的死亡游戏开始了。活下来的只能有一人，其馀的都得死！",
+  "last_updatetime": 1442656909,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 39866,
+  "hit_num": 146420,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10614,
+      "tag_name": "人九间四朗"
+    },
+    {
+      "tag_id": 10615,
+      "tag_name": "竜"
+    }
+  ],
+  "subscribe_num": 451,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43201,
+          "chapter_title": "1话",
+          "updatetime": 1442656909,
+          "filesize": 2429059,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 24789009,
+        "uid": 107697359,
+        "content": "15年的。。。不抱希望了",
+        "createtime": 1583166059,
+        "nickname": "dmzj_107697359",
+        "avatar": "https://avatar.dmzj.com/11/87/1187c289d3f1b71d857b34b9b7bd6765.png"
+      },
+      {
+        "comment_id": 13657280,
+        "uid": 101068592,
+        "content": "留一下",
+        "createtime": 1554194689,
+        "nickname": "二宫重",
+        "avatar": "https://avatar.dmzj.com/39/88/39886afdcabf6d56badb1294c9efb48b.png"
+      }
+    ]
+  }
+}

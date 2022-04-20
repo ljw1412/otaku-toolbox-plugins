@@ -1,0 +1,71 @@
+{
+  "id": 24963,
+  "islong": 2,
+  "direction": 2,
+  "title": "第一次坐大巴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1004913721446623781.jpg",
+  "description": "神乐动漫",
+  "last_updatetime": 1446623792,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 825,
+  "hit_num": 2814,
+  "uid": 100491372,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10848,
+      "tag_name": "神乐动漫"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43232,
+          "chapter_title": "1话",
+          "updatetime": 1446623792,
+          "filesize": 698830,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 11852541,
+        "uid": 104372243,
+        "content": "神作传送门",
+        "createtime": 1550909767,
+        "nickname": "C_E",
+        "avatar": "https://avatar.dmzj.com/56/82/5682371d96f95da56f8d7bf170095241.png"
+      },
+      {
+        "comment_id": 2684254,
+        "uid": 100037390,
+        "content": "玩呢",
+        "createtime": 1502312342,
+        "nickname": "Notonli",
+        "avatar": "https://avatar.dmzj.com/77/93/7793103cd785bfa3743fdf15efdaf9eb.png"
+      }
+    ]
+  }
+}

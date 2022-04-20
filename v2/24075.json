@@ -1,0 +1,71 @@
+{
+  "id": 24075,
+  "islong": 2,
+  "direction": 2,
+  "title": "大妈",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1004738361446104156.jpg",
+  "description": "顶点动漫",
+  "last_updatetime": 1446104186,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 5311,
+  "hit_num": 46680,
+  "uid": 100473836,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10829,
+      "tag_name": "顶点动漫"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47467,
+          "chapter_title": "1话",
+          "updatetime": 1446104186,
+          "filesize": 544403,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 11798707,
+        "uid": 105111237,
+        "content": "。。。。",
+        "createtime": 1550813281,
+        "nickname": "xvanjie",
+        "avatar": "https://avatar.dmzj.com/29/36/29366fdac3a07a03e2ec879f0358cc3e.png"
+      },
+      {
+        "comment_id": 11191801,
+        "uid": 108451986,
+        "content": "真大妈之家",
+        "createtime": 1549811552,
+        "nickname": "ミツココ",
+        "avatar": "https://avatar.dmzj.com/52/13/52134c4e2764e7ee012d26a1e6f975de.png"
+      }
+    ]
+  }
+}

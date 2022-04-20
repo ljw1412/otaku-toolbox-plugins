@@ -1,0 +1,63 @@
+{
+  "id": 21295,
+  "islong": 2,
+  "direction": 2,
+  "title": "霹雳同人 喵本",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1003555941441007934.jpg",
+  "description": "霹雳同人",
+  "last_updatetime": 1441008618,
+  "copyright": 1,
+  "first_letter": "p",
+  "hot_num": 4741,
+  "hit_num": 52344,
+  "uid": 100355594,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10469,
+      "tag_name": "吞赦日月"
+    }
+  ],
+  "subscribe_num": 12,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45044,
+          "chapter_title": "1话",
+          "updatetime": 1441008618,
+          "filesize": 1116650,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1379837,
+        "uid": 102151327,
+        "content": "我的龙宿呀ヾ(´∀`o)+",
+        "createtime": 1476603986,
+        "nickname": "殇64651",
+        "avatar": "https://avatar.dmzj.com/8e/90/8e9072cf53a10d0791a0407c32ddd901.png"
+      }
+    ]
+  }
+}

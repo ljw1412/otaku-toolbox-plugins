@@ -1,0 +1,65 @@
+{
+  "id": 20865,
+  "islong": 2,
+  "direction": 1,
+  "title": "西游骑骑骑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/shenzhang.jpg",
+  "description": "续《大话西游》、《父子神探》，邓本邦最新作品。",
+  "last_updatetime": 1439287670,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 10530,
+  "hit_num": 329049,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10238,
+      "tag_name": "邓本邦"
+    }
+  ],
+  "subscribe_num": 46,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44152,
+          "chapter_title": "1卷",
+          "updatetime": 1439287670,
+          "filesize": 7823343,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 2383889,
+        "uid": 100867740,
+        "content": "这封面。。。这内容？逗我？",
+        "createtime": 1498545710,
+        "nickname": "你男朋友有我帅吗",
+        "avatar": "https://avatar.dmzj.com/58/43/584374d69667fa258cd9d8686ce81485.png"
+      }
+    ]
+  }
+}

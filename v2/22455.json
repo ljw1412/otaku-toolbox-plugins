@@ -1,0 +1,63 @@
+{
+  "id": 22455,
+  "islong": 2,
+  "direction": 2,
+  "title": "为艰之冠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445930203.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445930221,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 825,
+  "hit_num": 4800,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47094,
+          "chapter_title": "1话",
+          "updatetime": 1445930221,
+          "filesize": 654391,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 17768229,
+        "uid": 109291425,
+        "content": "这个奇葩的漫画居然有点想看",
+        "createtime": 1562136925,
+        "nickname": "咋种花",
+        "avatar": "https://avatar.dmzj.com/17/6c/176c67f7410b521cb0976e505b497168.png"
+      }
+    ]
+  }
+}

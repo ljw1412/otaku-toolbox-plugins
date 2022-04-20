@@ -1,0 +1,63 @@
+{
+  "id": 22233,
+  "islong": 2,
+  "direction": 2,
+  "title": "来偷我吧",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445916476.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445916493,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 886,
+  "hit_num": 5333,
+  "uid": 100469239,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42511,
+          "chapter_title": "1话",
+          "updatetime": 1445916493,
+          "filesize": 928685,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 2193177,
+        "uid": 104244380,
+        "content": "来偷我啊菊花",
+        "createtime": 1495020962,
+        "nickname": "骨终",
+        "avatar": "https://avatar.dmzj.com/19/40/19406f1cf1c558bb50c9292e8d1eef5b.png"
+      }
+    ]
+  }
+}

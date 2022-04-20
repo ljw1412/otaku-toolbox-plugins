@@ -1,0 +1,54 @@
+{
+  "id": 23150,
+  "islong": 2,
+  "direction": 2,
+  "title": "丑与美丽",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446459699.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446459711,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 831,
+  "hit_num": 4942,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47266,
+          "chapter_title": "1话",
+          "updatetime": 1446459711,
+          "filesize": 761065,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

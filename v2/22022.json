@@ -1,0 +1,69 @@
+{
+  "id": 22022,
+  "islong": 2,
+  "direction": 2,
+  "title": "卡特特工",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/versarkatetegogn1027.jpg",
+  "description": "神盾局50周年纪念作品",
+  "last_updatetime": 1445952413,
+  "copyright": 0,
+  "first_letter": "k",
+  "hot_num": 16213,
+  "hit_num": 38163,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 75,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46544,
+          "chapter_title": "1卷",
+          "updatetime": 1445952413,
+          "filesize": 3410187,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 3193503,
+        "uid": 105476075,
+        "content": "再多发点",
+        "createtime": 1509271581,
+        "nickname": "心静如水      关文新",
+        "avatar": "https://avatar.dmzj.com/46/b7/46b7f23e0c3a6efe8c7115d75c5004d3.png"
+      },
+      {
+        "comment_id": 500578,
+        "uid": 100095824,
+        "content": "题目",
+        "createtime": 1445991640,
+        "nickname": "达纳214",
+        "avatar": "https://avatar.dmzj.com/be/8f/be8fe4da01898bdd08596d9c521e3004.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": 21114,
+  "islong": 2,
+  "direction": 2,
+  "title": "地狱玫瑰 ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1003373421440299220.jpg",
+  "description": "地狱玫瑰",
+  "last_updatetime": 1440299294,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 535,
+  "hit_num": 2675,
+  "uid": 100337342,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10361,
+      "tag_name": "君莫笑"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40684,
+          "chapter_title": "1话",
+          "updatetime": 1440299294,
+          "filesize": 996973,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 14795840,
+        "uid": 100943004,
+        "content": "没看懂，告辞",
+        "createtime": 1556034337,
+        "nickname": "斩刃ver2",
+        "avatar": "https://avatar.dmzj.com/32/87/3287843552bd549f4c6594a2874273f8.png"
+      },
+      {
+        "comment_id": 5974770,
+        "uid": 100760671,
+        "content": "没人么",
+        "createtime": 1533031346,
+        "nickname": "yume59P",
+        "avatar": "https://avatar.dmzj.com/15/70/1570e785d2f66a2d51f164d0ccb1e9b5.png"
+      }
+    ]
+  }
+}

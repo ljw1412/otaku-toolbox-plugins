@@ -1,0 +1,75 @@
+{
+  "id": 21262,
+  "islong": 2,
+  "direction": 2,
+  "title": "The summer夏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1003510621440824635.jpg",
+  "description": "恋女情结严重的大叔",
+  "last_updatetime": 1440824826,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 3178,
+  "hit_num": 95228,
+  "uid": 100351062,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10444,
+      "tag_name": "李望安"
+    }
+  ],
+  "subscribe_num": 21,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44811,
+          "chapter_title": "1话",
+          "updatetime": 1440824826,
+          "filesize": 2523468,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "老爸才是男主啊啊啊啊啊",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 716576,
+        "uid": 101078856,
+        "content": "快更快更",
+        "createtime": 1460019433,
+        "nickname": "The princess",
+        "avatar": "https://avatar.dmzj.com/14/60/1460aee221c52cc00d83f7533bff4ab7.png"
+      },
+      {
+        "comment_id": 613411,
+        "uid": 100755038,
+        "content": "超級好看的啦~期待更新",
+        "createtime": 1455101224,
+        "nickname": "晴晴雅",
+        "avatar": "https://avatar.dmzj.com/cc/4d/cc4d97bd11e7cc20cc665c714402b5dc.png"
+      }
+    ]
+  }
+}

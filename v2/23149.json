@@ -1,0 +1,71 @@
+{
+  "id": 23149,
+  "islong": 2,
+  "direction": 2,
+  "title": "搞怪同学",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446102691.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446102706,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 1172,
+  "hit_num": 9934,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43078,
+          "chapter_title": "1话",
+          "updatetime": 1446102706,
+          "filesize": 876289,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 9830659,
+        "uid": 107878475,
+        "content": "厉害",
+        "createtime": 1546937262,
+        "nickname": "中。二。少。年",
+        "avatar": "https://avatar.dmzj.com/43/87/4387e4a7e2cd2563dc40a61b251177bc.png"
+      },
+      {
+        "comment_id": 2000333,
+        "uid": 102285997,
+        "content": "个个老梗",
+        "createtime": 1491206924,
+        "nickname": "两颗西柚72732",
+        "avatar": "https://avatar.dmzj.com/88/85/8885c8104833885f825ed34b9b09ed38.png"
+      }
+    ]
+  }
+}

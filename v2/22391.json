@@ -1,0 +1,71 @@
+{
+  "id": 22391,
+  "islong": 2,
+  "direction": 2,
+  "title": "笑哈哈哈",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445929052.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445929094,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 1074,
+  "hit_num": 7848,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44384,
+          "chapter_title": "1话",
+          "updatetime": 1445929094,
+          "filesize": 710977,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 14820737,
+        "uid": 109076490,
+        "content": "。",
+        "createtime": 1556084321,
+        "nickname": "dmzj_109076490",
+        "avatar": "https://avatar.dmzj.com/38/17/3817fa80bd763528d32ca9e2884a7113.png"
+      },
+      {
+        "comment_id": 13714813,
+        "uid": 101998264,
+        "content": "。",
+        "createtime": 1554289102,
+        "nickname": "球没落地……",
+        "avatar": "https://avatar.dmzj.com/e8/54/e854d2a784c325d2c117fdf5b16a730e.png"
+      }
+    ]
+  }
+}

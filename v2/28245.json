@@ -1,0 +1,79 @@
+{
+  "id": 28245,
+  "islong": 2,
+  "direction": 2,
+  "title": "游戏奇妙档案",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1007510121453184335.jpg",
+  "description": "关于游戏，一些不为人知的奇妙小故事。",
+  "last_updatetime": 1453185050,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 6642,
+  "hit_num": 62920,
+  "uid": 100751012,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11261,
+      "tag_name": "牧羊人"
+    }
+  ],
+  "subscribe_num": 50,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49832,
+          "chapter_title": "1话",
+          "updatetime": 1453185050,
+          "filesize": 1484304,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "微博：http://weibo.com/1882673054",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 23681165,
+        "uid": 110264127,
+        "content": "很有创意",
+        "createtime": 1580547828,
+        "nickname": "科瓦克",
+        "avatar": "https://avatar.dmzj.com/ee/56/ee56c2a9502dffd50455cd5b6b9c0595.png"
+      },
+      {
+        "comment_id": 580379,
+        "uid": 100701544,
+        "content": "下一话大概是另一个游戏了吧",
+        "createtime": 1453254860,
+        "nickname": "灵枫飞叶",
+        "avatar": "https://avatar.dmzj.com/bc/9a/bc9ab28a41b28000cb6e82275455f98c.png"
+      }
+    ]
+  }
+}

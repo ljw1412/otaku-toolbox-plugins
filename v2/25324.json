@@ -1,0 +1,63 @@
+{
+  "id": 25324,
+  "islong": 2,
+  "direction": 2,
+  "title": "登珠穆朗玛",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1005371911447926401.jpg",
+  "description": "",
+  "last_updatetime": 1447926476,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 561,
+  "hit_num": 1599,
+  "uid": 100537191,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10968,
+      "tag_name": "王凯"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43812,
+          "chapter_title": "1话",
+          "updatetime": 1447926476,
+          "filesize": 366505,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 522098,
+        "uid": 100554036,
+        "content": "哥们就不能将这些短篇整合成一个短篇集么？这样一个页面就一话没意思。可以参考一下赵石的‘漫画家日记’也是可拆分的单个故事",
+        "createtime": 1448291250,
+        "nickname": "Samuel2015",
+        "avatar": "https://avatar.dmzj.com/30/83/30832b10ed82912d21b8b7e6270c6d4b.png"
+      }
+    ]
+  }
+}

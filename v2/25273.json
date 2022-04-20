@@ -1,0 +1,73 @@
+{
+  "id": 25273,
+  "islong": 2,
+  "direction": 1,
+  "title": "情书小说",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/qingshuxiaoshuo.jpg",
+  "description": "想让你看的这本小说的名字是……？",
+  "last_updatetime": 1447643091,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 127421,
+  "hit_num": 608648,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4127,
+      "tag_name": "小樱池夏海"
+    }
+  ],
+  "subscribe_num": 973,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43409,
+          "chapter_title": "1话",
+          "updatetime": 1447643091,
+          "filesize": 4820084,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 11464733,
+        "uid": 107704750,
+        "content": "小樱池夏海",
+        "createtime": 1550254603,
+        "nickname": "莓凛凛",
+        "avatar": "https://avatar.dmzj.com/44/41/444106851360ce9b7e93294bbc81156a.png"
+      },
+      {
+        "comment_id": 7450313,
+        "uid": 107509540,
+        "content": "不明白这三观",
+        "createtime": 1539742902,
+        "nickname": "Fennel°",
+        "avatar": "https://avatar.dmzj.com/77/67/7767a23513b1389e4e3306925cc468ef.png"
+      }
+    ]
+  }
+}

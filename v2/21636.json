@@ -1,0 +1,78 @@
+{
+  "id": 21636,
+  "islong": 2,
+  "direction": 2,
+  "title": "我是你",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1002169341442991506.jpg",
+  "description": "丑女遇奇葩神仙企图翻身，可能吗？",
+  "last_updatetime": 1442991562,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 1200,
+  "hit_num": 9043,
+  "uid": 100216934,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9692,
+      "tag_name": "萌傻子MAKUDA"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43287,
+          "chapter_title": "NO.2",
+          "updatetime": 1442991562,
+          "filesize": 263014,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 43286,
+          "chapter_title": "NO.1",
+          "updatetime": 1442991536,
+          "filesize": 347857,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 493356,
+        "uid": 100443909,
+        "content": "这种也能连载啊，也是醉了，画风设定真是小学生，被萌萌哒的封面欺骗了",
+        "createtime": 1445055871,
+        "nickname": "花鸮非鸟",
+        "avatar": "https://avatar.dmzj.com/25/48/2548b4332c9c43094ac7577acc971bdd.png"
+      },
+      {
+        "comment_id": 484926,
+        "uid": 100249505,
+        "content": "其实我一开始没看出来有多丑？！(°_°)阿勒......总之加油w",
+        "createtime": 1443972163,
+        "nickname": "环保猫猫",
+        "avatar": "https://avatar.dmzj.com/ca/2f/ca2f9908af26dcc95a1b317c45deabc8.png"
+      }
+    ]
+  }
+}

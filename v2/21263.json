@@ -1,0 +1,71 @@
+{
+  "id": 21263,
+  "islong": 2,
+  "direction": 2,
+  "title": "圣诞快乐",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1003505761440810084.jpg",
+  "description": "无人陪伴的圣诞",
+  "last_updatetime": 1440810182,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 1652,
+  "hit_num": 19788,
+  "uid": 100350576,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10445,
+      "tag_name": "大鬼"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40879,
+          "chapter_title": "1话",
+          "updatetime": 1440810182,
+          "filesize": 1011307,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 474693,
+        "uid": 100209060,
+        "content": "好看！",
+        "createtime": 1442476054,
+        "nickname": "merry1116",
+        "avatar": "https://avatar.dmzj.com/30/66/30662a7d1c90b1a0d5b7bbb2f62f9431.png"
+      },
+      {
+        "comment_id": 467516,
+        "uid": 100305951,
+        "content": "……",
+        "createtime": 1441346349,
+        "nickname": "qzuser46094",
+        "avatar": "https://avatar.dmzj.com/28/6b/286bd48624939dcd3d94480f3ee3bda8.png"
+      }
+    ]
+  }
+}

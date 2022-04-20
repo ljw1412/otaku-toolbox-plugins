@@ -1,0 +1,90 @@
+{
+  "id": 28263,
+  "islong": 2,
+  "direction": 1,
+  "title": "DCPSY作品集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/qiuyifan06.jpg",
+  "description": "综漫同人，看懂梗的，你已经老了……",
+  "last_updatetime": 1453376782,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 8047,
+  "hit_num": 85923,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11270,
+      "tag_name": "DCPSY"
+    }
+  ],
+  "subscribe_num": 87,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45410,
+          "chapter_title": "10话",
+          "updatetime": 1453376782,
+          "filesize": 1181212,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 45409,
+          "chapter_title": "8话",
+          "updatetime": 1453376721,
+          "filesize": 2555749,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 45408,
+          "chapter_title": "7话",
+          "updatetime": 1453376736,
+          "filesize": 2320864,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 45407,
+          "chapter_title": "6话",
+          "updatetime": 1453375834,
+          "filesize": 2070868,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 582954,
+        "uid": 100720586,
+        "content": "我应该不老啊，今年才18岁￣▽￣",
+        "createtime": 1453436099,
+        "nickname": "命运早已注定",
+        "avatar": "https://avatar.dmzj.com/78/88/78880c06ed8c1aed4a06fee23c46b504.png"
+      },
+      {
+        "comment_id": 582917,
+        "uid": 100105110,
+        "content": "我已经老了",
+        "createtime": 1453432800,
+        "nickname": "游离轩",
+        "avatar": "https://avatar.dmzj.com/8f/4a/8f4a3de59871b9698729c671c37c2d7c.png"
+      }
+    ]
+  }
+}

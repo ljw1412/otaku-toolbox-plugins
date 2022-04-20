@@ -1,0 +1,71 @@
+{
+  "id": 20570,
+  "islong": 2,
+  "direction": 2,
+  "title": "世界末日",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1000132731438331169.jpg",
+  "description": "世界末日来临时的爸爸和女儿",
+  "last_updatetime": 1438331346,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 4189,
+  "hit_num": 14200,
+  "uid": 100013273,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10088,
+      "tag_name": "ZUK"
+    }
+  ],
+  "subscribe_num": 11,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43702,
+          "chapter_title": "1话",
+          "updatetime": 1438331346,
+          "filesize": 444024,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 471836,
+        "uid": 100370882,
+        "content": "侮辱",
+        "createtime": 1441977774,
+        "nickname": "qzuser455025555558",
+        "avatar": "https://avatar.dmzj.com/41/07/4107e5ee9af7ae4306f71fe4f06d9cb1.png"
+      }
+    ]
+  }
+}

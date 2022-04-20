@@ -1,0 +1,85 @@
+{
+  "id": 25395,
+  "islong": 2,
+  "direction": 2,
+  "title": "若风之声",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1005590401448432966.jpg",
+  "description": "開心坑，原創，這個系列的片段，不知道會不會審核不通過啊...",
+  "last_updatetime": 1448433128,
+  "copyright": 1,
+  "first_letter": "r",
+  "hot_num": 149210,
+  "hit_num": 1630956,
+  "uid": 100559040,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10997,
+      "tag_name": "avici"
+    }
+  ],
+  "subscribe_num": 869,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48223,
+          "chapter_title": "3话",
+          "updatetime": 1448433128,
+          "filesize": 1012367,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 48222,
+          "chapter_title": "2话",
+          "updatetime": 1448433086,
+          "filesize": 1159046,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 48221,
+          "chapter_title": "1话",
+          "updatetime": 1448433009,
+          "filesize": 1112000,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 25976548,
+        "uid": 105637558,
+        "content": "这个真的很棒，wb上面有连载的",
+        "createtime": 1585833389,
+        "nickname": "Miethy",
+        "avatar": "https://avatar.dmzj.com/51/42/5142b50e44402177a302f2ad5af54552.png"
+      },
+      {
+        "comment_id": 18556940,
+        "uid": 100875031,
+        "content": "哦吼吼吼\\^O^/",
+        "createtime": 1563870041,
+        "nickname": "锦殇墨年",
+        "avatar": "https://avatar.dmzj.com/4d/06/4d06d65c785482eedce8d556c584d714.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": 21444,
+  "islong": 2,
+  "direction": 2,
+  "title": "我的天地",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1003571131441096818.jpg",
+  "description": "我的天地",
+  "last_updatetime": 1441096833,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 443,
+  "hit_num": 389,
+  "uid": 100357113,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10537,
+      "tag_name": "木木树文化"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41276,
+          "chapter_title": "1话",
+          "updatetime": 1441096833,
+          "filesize": 335018,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 13776935,
+        "uid": 105445727,
+        "content": "动漫之家最近低龄化了啊（雾）",
+        "createtime": 1554381799,
+        "nickname": "美汁源果粒把阳光给你",
+        "avatar": "https://avatar.dmzj.com/80/25/80258da8622eeb88a46650a0c5db46dd.png"
+      }
+    ]
+  }
+}

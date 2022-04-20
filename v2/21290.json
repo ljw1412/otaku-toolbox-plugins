@@ -1,0 +1,71 @@
+{
+  "id": 21290,
+  "islong": 1,
+  "direction": 2,
+  "title": "我的妈妈有强迫症",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1003491901441013789.jpg",
+  "description": "我的妈妈有强迫症",
+  "last_updatetime": 1441013821,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 4935,
+  "hit_num": 40522,
+  "uid": 100349190,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10468,
+      "tag_name": "阿T与张二狗1\t"
+    }
+  ],
+  "subscribe_num": 21,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45043,
+          "chapter_title": "1话",
+          "updatetime": 1441013821,
+          "filesize": 184383,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 3797733,
+        "uid": 13223343,
+        "content": "打破7-1从我做起",
+        "createtime": 1517533262,
+        "nickname": "daikai52341",
+        "avatar": "https://avatar.dmzj.com/c9/e5/c9e593cdbc6d417cdca4beb998425b21.png"
+      },
+      {
+        "comment_id": 1494965,
+        "uid": 101218648,
+        "content": "可能将来我就是这样一位妈妈了，哈哈哈哈哈",
+        "createtime": 1479825129,
+        "nickname": "谁丑瞅谁",
+        "avatar": "https://avatar.dmzj.com/57/d5/57d53a5b46ae99adba1f997a07369e66.png"
+      }
+    ]
+  }
+}

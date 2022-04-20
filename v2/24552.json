@@ -1,0 +1,63 @@
+{
+  "id": 24552,
+  "islong": 2,
+  "direction": 2,
+  "title": "鸽子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1004913721446632355.jpg",
+  "description": "神乐动漫",
+  "last_updatetime": 1446632369,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 783,
+  "hit_num": 2203,
+  "uid": 100491372,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10848,
+      "tag_name": "神乐动漫"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47340,
+          "chapter_title": "1话",
+          "updatetime": 1446632369,
+          "filesize": 604870,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 7195314,
+        "uid": 100515757,
+        "content": "。。。没人吗？",
+        "createtime": 1538730217,
+        "nickname": "一条不可爱的咸鱼",
+        "avatar": "https://avatar.dmzj.com/0d/37/0d3793cc24b59e30d52ce04f12105994.png"
+      }
+    ]
+  }
+}

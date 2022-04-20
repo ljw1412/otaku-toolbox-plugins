@@ -1,0 +1,93 @@
+{
+  "id": 28618,
+  "islong": 2,
+  "direction": 1,
+  "title": "Re:BORDER",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/reborder.jpg",
+  "description": "某氏屋画的舰娘短篇。",
+  "last_updatetime": 1494470709,
+  "last_update_chapter_name": "第03话",
+  "copyright": 0,
+  "first_letter": "r",
+  "comic_py": "reborder",
+  "hidden": 0,
+  "hot_num": 83356,
+  "hit_num": 160019,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 59459,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9323,
+      "tag_name": "某氏屋"
+    }
+  ],
+  "subscribe_num": 453,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59459,
+          "chapter_title": "3话",
+          "updatetime": 1494470709,
+          "filesize": 3601200,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 45548,
+          "chapter_title": "2话",
+          "updatetime": 1453707592,
+          "filesize": 1778660,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 45547,
+          "chapter_title": "1话",
+          "updatetime": 1453707504,
+          "filesize": 2879991,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 25719460,
+        "uid": 104364175,
+        "content": "这画风就好像终末了一样。。。",
+        "createtime": 1585233196,
+        "nickname": "骷髅王113",
+        "avatar": "https://avatar.dmzj.com/35/75/3575cebfb278faaa2adfcc82731669f2.png"
+      },
+      {
+        "comment_id": 4663270,
+        "uid": 100977358,
+        "content": "这封面一股阿拉蕾的感觉",
+        "createtime": 1526059260,
+        "nickname": "酷似人",
+        "avatar": "https://avatar.dmzj.com/ae/c3/aec3c94322b60fcb206313e56fa13a06.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

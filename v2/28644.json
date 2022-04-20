@@ -1,0 +1,82 @@
+{
+  "id": 28644,
+  "islong": 2,
+  "direction": 2,
+  "title": "青鬼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1007825641453876143.jpg",
+  "description": "从小弱小的妖怪张不凡，偶然的机会下得到了姐姐给予的能力，在不知觉中得到的能力，带给他不一样的故事。",
+  "last_updatetime": 1453876830,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 14794,
+  "hit_num": 174942,
+  "uid": 100782564,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11292,
+      "tag_name": "三条"
+    }
+  ],
+  "subscribe_num": 135,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46105,
+          "chapter_title": "2话",
+          "updatetime": 1453876830,
+          "filesize": 677961,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 46104,
+          "chapter_title": "1话",
+          "updatetime": 1453876797,
+          "filesize": 1364468,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 1146402,
+        "uid": 100553779,
+        "content": "被新闻带过来。。。好像不一个啊",
+        "createtime": 1470914842,
+        "nickname": "晴天好心情",
+        "avatar": "https://avatar.dmzj.com/44/00/44008bc1991432bcd3dd49125d28ba50.png"
+      },
+      {
+        "comment_id": 597840,
+        "uid": 100729280,
+        "content": "难得封面这么美",
+        "createtime": 1454289561,
+        "nickname": "一旦译丹",
+        "avatar": "https://avatar.dmzj.com/15/72/1572ba59756f28b1d158c98ece927ffb.png"
+      }
+    ]
+  }
+}

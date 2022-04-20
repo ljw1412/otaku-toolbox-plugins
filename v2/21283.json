@@ -1,0 +1,71 @@
+{
+  "id": 21283,
+  "islong": 2,
+  "direction": 2,
+  "title": "小白狼和小黑狼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1003558561441016624.jpg",
+  "description": "初漫刊",
+  "last_updatetime": 1441016649,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 4340,
+  "hit_num": 32506,
+  "uid": 100355856,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10461,
+      "tag_name": "轩辕十冷"
+    }
+  ],
+  "subscribe_num": 17,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40907,
+          "chapter_title": "1话",
+          "updatetime": 1441016649,
+          "filesize": 494161,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 6319444,
+        "uid": 101107202,
+        "content": "可爱！",
+        "createtime": 1534489535,
+        "nickname": "青浅陌上桑",
+        "avatar": "https://avatar.dmzj.com/92/27/9227f36d3e6d34f49c0159af213e70ac.png"
+      },
+      {
+        "comment_id": 5533311,
+        "uid": 106407087,
+        "content": "唔，哇，可惜太短了",
+        "createtime": 1531217392,
+        "nickname": "替身00400",
+        "avatar": "https://avatar.dmzj.com/49/24/4924aeb61ad5ee8d940fe6ae8d6b6768.png"
+      }
+    ]
+  }
+}

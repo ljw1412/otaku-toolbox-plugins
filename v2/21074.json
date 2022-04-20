@@ -1,0 +1,96 @@
+{
+  "id": 21074,
+  "islong": 1,
+  "direction": 2,
+  "title": "我の小小故事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1003323701440090895.jpg",
+  "description": "定期更新漫画哟，如果大家喜欢我的作品，就来关注我吧，商业合作请发至邮箱61807455@qq.com哈哈O(∩_∩)O。微博@:赵小白0225 ",
+  "last_updatetime": 1440091103,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 1340,
+  "hit_num": 1112,
+  "uid": 100332370,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10337,
+      "tag_name": "赵小白"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40601,
+          "chapter_title": "7话",
+          "updatetime": 1440091103,
+          "filesize": 81608,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 40600,
+          "chapter_title": "6话",
+          "updatetime": 1440091088,
+          "filesize": 74288,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 40599,
+          "chapter_title": "5话",
+          "updatetime": 1440091065,
+          "filesize": 28812,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 40598,
+          "chapter_title": "4话",
+          "updatetime": 1440091043,
+          "filesize": 63308,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 40597,
+          "chapter_title": "3话",
+          "updatetime": 1440091030,
+          "filesize": 43203,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 40596,
+          "chapter_title": "2话",
+          "updatetime": 1440091016,
+          "filesize": 65025,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40595,
+          "chapter_title": "1话",
+          "updatetime": 1440090999,
+          "filesize": 55710,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

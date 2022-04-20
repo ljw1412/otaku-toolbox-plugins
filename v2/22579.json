@@ -1,0 +1,63 @@
+{
+  "id": 22579,
+  "islong": 2,
+  "direction": 2,
+  "title": "我的朋友在这里",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445938209.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445938243,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 1044,
+  "hit_num": 4602,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42919,
+          "chapter_title": "1话",
+          "updatetime": 1445938243,
+          "filesize": 558847,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 21024579,
+        "uid": 102308644,
+        "content": "这是、大妈之家的内部？！",
+        "createtime": 1570423458,
+        "nickname": "雪月是也",
+        "avatar": "https://avatar.dmzj.com/60/78/60783d7d8662d3f3ced79169e21f7478.png"
+      }
+    ]
+  }
+}

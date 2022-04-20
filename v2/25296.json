@@ -1,0 +1,73 @@
+{
+  "id": 25296,
+  "islong": 2,
+  "direction": 1,
+  "title": "灵柩惑星",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/001ljhuoxing11174gggg.jpg",
+  "description": "遭受陨石毁灭的世界，以及伴随而来的奇异怪物。故事将从东京开始……",
+  "last_updatetime": 1447772059,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 31145,
+  "hit_num": 103149,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10956,
+      "tag_name": "池上ナオ"
+    }
+  ],
+  "subscribe_num": 176,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45311,
+          "chapter_title": "1话",
+          "updatetime": 1447772059,
+          "filesize": 4014844,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 28052861,
+        "uid": 86005,
+        "content": "一话没吗..",
+        "createtime": 1591735820,
+        "nickname": "空気が読めない",
+        "avatar": "https://avatar.dmzj.com/22/f8/22f836b1b94efe13cd41a1733f89d16f.png"
+      },
+      {
+        "comment_id": 28043840,
+        "uid": 110699125,
+        "content": "混乱了",
+        "createtime": 1591712137,
+        "nickname": "MealusAbi",
+        "avatar": "https://avatar.dmzj.com/46/43/4643717a239c9592ffb5ea5b8f1918f3.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 21253,
+  "islong": 2,
+  "direction": 1,
+  "title": "奥特曼THE NEXT",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/otmtehnextfengmianl.jpg",
+  "description": "《奈克瑟斯奥特曼》前传电影的漫画版",
+  "last_updatetime": 1440910553,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 507383,
+  "hit_num": 4693192,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10437,
+      "tag_name": "泽树隆广"
+    }
+  ],
+  "subscribe_num": 2300,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40858,
+          "chapter_title": "1卷",
+          "updatetime": 1440910553,
+          "filesize": 28217480,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 29746387,
+        "uid": 109176573,
+        "content": "奈克瑟斯来一手",
+        "createtime": 1597671062,
+        "nickname": "dmzj_109176573",
+        "avatar": "https://avatar.dmzj.com/dd/99/dd993b827d935c5200838932a865110e.png"
+      },
+      {
+        "comment_id": 29261697,
+        "uid": 111015965,
+        "content": "back",
+        "createtime": 1595849809,
+        "nickname": "dmzj_111015965",
+        "avatar": "https://avatar.dmzj.com/02/a4/02a43f3877c8458e4210e86514769509.png"
+      }
+    ]
+  }
+}

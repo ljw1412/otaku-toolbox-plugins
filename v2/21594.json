@@ -1,0 +1,75 @@
+{
+  "id": 21594,
+  "islong": 2,
+  "direction": 1,
+  "title": "博丽神社的天邪鬼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/blssdtianxieguifengmianl.jpg",
+  "description": "天邪鬼攻略指南",
+  "last_updatetime": 1442634445,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bolishengshedetianxiegui",
+  "hidden": 0,
+  "hot_num": 49058,
+  "hit_num": 85135,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 41602,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10612,
+      "tag_name": "べル助"
+    }
+  ],
+  "subscribe_num": 240,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41602,
+          "chapter_title": "1话",
+          "updatetime": 1442634445,
+          "filesize": 2784964,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 29908349,
+        "uid": 109062974,
+        "content": "油卡里变成油库里了！",
+        "createtime": 1598271956,
+        "nickname": "dmzj_109062974",
+        "avatar": "https://avatar.dmzj.com/37/de/37de2f5964f6b15a583e830f493d249a.png"
+      },
+      {
+        "comment_id": 25270225,
+        "uid": 108620087,
+        "content": "双倍的快乐",
+        "createtime": 1584210272,
+        "nickname": "MMQMK",
+        "avatar": "https://avatar.dmzj.com/28/a8/28a8c040ec80f4915de1ada8f58074d5.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,73 @@
+{
+  "id": 27626,
+  "islong": 2,
+  "direction": 2,
+  "title": "乾坤奇侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/qiankunqixia.jpg",
+  "description": "宇宙在无始之前由无动而动，巨大的爆炸令不动的无极变成了永远的太极，太极一开始运转，便产生了乾坤两极。",
+  "last_updatetime": 1452239911,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 36251,
+  "hit_num": 201204,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 47,
+      "tag_name": "黄玉郎"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 212,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47267,
+          "chapter_title": "1卷",
+          "updatetime": 1452239911,
+          "filesize": 3180250,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 2640855,
+        "uid": 53920,
+        "content": "看起来像手稿的感觉😄😄😄",
+        "createtime": 1501860035,
+        "nickname": "O.ut_ 曼",
+        "avatar": "https://avatar.dmzj.com/f0/0d/f00d534a9a8d6df15639018e80b7a705.png"
+      },
+      {
+        "comment_id": 2630324,
+        "uid": 100577638,
+        "content": "很6啊",
+        "createtime": 1501743011,
+        "nickname": "拉轰的虫虫",
+        "avatar": "https://avatar.dmzj.com/7d/36/7d36852c3f44d455260715533f5006ab.png"
+      }
+    ]
+  }
+}

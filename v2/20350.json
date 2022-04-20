@@ -1,0 +1,54 @@
+{
+  "id": 20350,
+  "islong": 2,
+  "direction": 2,
+  "title": "小布丁都市漫画系列5",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1002093781437039435.jpg",
+  "description": "小布丁都市漫画系列5",
+  "last_updatetime": 1437039553,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 6188,
+  "hit_num": 216689,
+  "uid": 100209378,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9628,
+      "tag_name": "洋洋兔动漫"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43575,
+          "chapter_title": "1话",
+          "updatetime": 1437039553,
+          "filesize": 2711550,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

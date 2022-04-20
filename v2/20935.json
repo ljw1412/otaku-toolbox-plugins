@@ -1,0 +1,68 @@
+{
+  "id": 20935,
+  "islong": 2,
+  "direction": 2,
+  "title": "少年南澄",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871439451990.jpg",
+  "description": "改编自《荧光•绘梦版》同步连载的小说《少年蓝橙怪奇事件簿》，讲述史上最怕麻烦的少年和史上最强兵器少女一起对抗黑暗势力的校园玄幻故事。",
+  "last_updatetime": 1439452077,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 3786,
+  "hit_num": 40282,
+  "uid": 100205887,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 15,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44280,
+          "chapter_title": "3话",
+          "updatetime": 1439452077,
+          "filesize": 1372106,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 44279,
+          "chapter_title": "2话",
+          "updatetime": 1439452057,
+          "filesize": 1007148,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 44278,
+          "chapter_title": "1话",
+          "updatetime": 1439452017,
+          "filesize": 2047620,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

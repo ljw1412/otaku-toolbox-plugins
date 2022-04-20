@@ -1,0 +1,71 @@
+{
+  "id": 20694,
+  "islong": 2,
+  "direction": 2,
+  "title": "漂流之旅",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871438674799.jpg",
+  "description": "少年为救姐姐加入海盗团的故事。。。。。。。。。",
+  "last_updatetime": 1438675351,
+  "copyright": 1,
+  "first_letter": "p",
+  "hot_num": 6850,
+  "hit_num": 110683,
+  "uid": 100205887,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 42,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39850,
+          "chapter_title": "1话",
+          "updatetime": 1438675351,
+          "filesize": 2221181,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 9081591,
+        "uid": 107607081,
+        "content": "谁有漂流武士",
+        "createtime": 1544951107,
+        "nickname": "dmzj_107607081",
+        "avatar": "https://avatar.dmzj.com/0f/7f/0f7ffc435b937b3c9770b14f472de9ac.png"
+      },
+      {
+        "comment_id": 2114117,
+        "uid": 101920585,
+        "content": "我是第二喽。。。",
+        "createtime": 1493465510,
+        "nickname": "某響",
+        "avatar": "https://avatar.dmzj.com/69/17/6917e2bec9ba446a8e688ea255662a22.png"
+      }
+    ]
+  }
+}

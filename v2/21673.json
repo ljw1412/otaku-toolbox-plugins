@@ -1,0 +1,79 @@
+{
+  "id": 21673,
+  "islong": 2,
+  "direction": 2,
+  "title": "分身乏术",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1000210401443156123.jpg",
+  "description": "搞笑漫画",
+  "last_updatetime": 1443156571,
+  "copyright": 1,
+  "first_letter": "f",
+  "hot_num": 1476,
+  "hit_num": 23963,
+  "uid": 100021040,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10654,
+      "tag_name": "师阔"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41566,
+          "chapter_title": "1话",
+          "updatetime": 1443156571,
+          "filesize": 1505124,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 29617990,
+        "uid": 106197743,
+        "content": "挺有意思的",
+        "createtime": 1597154191,
+        "nickname": "不起眼的克劳恩",
+        "avatar": "https://avatar.dmzj.com/71/1e/711ed67533b0ccd704b6487fb6bedc8a.png"
+      },
+      {
+        "comment_id": 28711674,
+        "uid": 109155015,
+        "content": "沙发",
+        "createtime": 1593963136,
+        "nickname": "我是娄大大",
+        "avatar": "https://avatar.dmzj.com/0a/d1/0ad16e79c1db375127a1caf94d42e3d3.png"
+      }
+    ]
+  }
+}

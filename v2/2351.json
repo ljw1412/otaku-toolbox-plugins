@@ -1,0 +1,97 @@
+{
+  "id": 2351,
+  "islong": 2,
+  "direction": 1,
+  "title": "龙族",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/0001_88b3923702bc973fd5c82f1bc4e46e85.jpg",
+  "description": "龙族",
+  "last_updatetime": 1271071489,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 153016,
+  "hit_num": 3865651,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1362,
+      "tag_name": "蔡景东"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 200,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 5118,
+          "chapter_title": "5话",
+          "updatetime": 1271676289,
+          "filesize": 5358130,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 5117,
+          "chapter_title": "4话",
+          "updatetime": 1271676289,
+          "filesize": 5803539,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 5116,
+          "chapter_title": "3话",
+          "updatetime": 1271676289,
+          "filesize": 5531854,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 5115,
+          "chapter_title": "2话",
+          "updatetime": 1271676289,
+          "filesize": 5683127,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 5114,
+          "chapter_title": "1话",
+          "updatetime": 1271676289,
+          "filesize": 5802142,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 67,
+    "latest_comment": [
+      {
+        "comment_id": 29636351,
+        "uid": 5488176,
+        "content": "什么意思？正宗货被山寨货逼着下架了？",
+        "createtime": 1597230289,
+        "nickname": "短足猫",
+        "avatar": "https://avatar.dmzj.com/81/29/812933fc49d1cf257220934de24b2c9f.png"
+      },
+      {
+        "comment_id": 29620348,
+        "uid": 105637405,
+        "content": "想看",
+        "createtime": 1597159299,
+        "nickname": "锖尽酒",
+        "avatar": "https://avatar.dmzj.com/0d/d8/0dd8967d2ebb11bed60ee90a08879336.png"
+      }
+    ]
+  }
+}

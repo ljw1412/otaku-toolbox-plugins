@@ -1,0 +1,75 @@
+{
+  "id": 25438,
+  "islong": 2,
+  "direction": 1,
+  "title": "不存在的管理人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/bucunzaideguanliren.jpg",
+  "description": "犬丸的兽耳百合短篇。",
+  "last_updatetime": 1448808848,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bucunzaideguanliren",
+  "hidden": 0,
+  "hot_num": 73272,
+  "hit_num": 49165,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 43689,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5756,
+      "tag_name": "犬丸"
+    }
+  ],
+  "subscribe_num": 440,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43689,
+          "chapter_title": "1话",
+          "updatetime": 1448808848,
+          "filesize": 1193332,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 23100533,
+        "uid": 109843619,
+        "content": "是届不到吗？？",
+        "createtime": 1578290236,
+        "nickname": "我爱gl漫画",
+        "avatar": "https://avatar.dmzj.com/99/48/994881e362dc46b174330fe206777223.png"
+      },
+      {
+        "comment_id": 10516421,
+        "uid": 105401844,
+        "content": "这个原作是啥啊…",
+        "createtime": 1548440458,
+        "nickname": "山无陵",
+        "avatar": "https://avatar.dmzj.com/04/4c/044c96cc688ccd78a6474b1073cb0065.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,71 @@
+{
+  "id": 22665,
+  "islong": 2,
+  "direction": 2,
+  "title": "妖精可爱秀",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446003522.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446003547,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 1770,
+  "hit_num": 13343,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47141,
+          "chapter_title": "1话",
+          "updatetime": 1446003547,
+          "filesize": 1048220,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 22001801,
+        "uid": 106929158,
+        "content": "没啥好说的，实品和封面差了一个亿",
+        "createtime": 1573221347,
+        "nickname": "小帅123456789",
+        "avatar": "https://avatar.dmzj.com/84/08/8408c0f1531e933854055eb65048d159.png"
+      },
+      {
+        "comment_id": 2358389,
+        "uid": 102428869,
+        "content": "毁了我可爱的初代。那么难看为什么要用妖尾梅伊比斯的图像做封面?找打么",
+        "createtime": 1498124040,
+        "nickname": "鹤◇",
+        "avatar": "https://avatar.dmzj.com/68/ab/68ab55b9bc4349bb6c7d1384e0ce1401.png"
+      }
+    ]
+  }
+}

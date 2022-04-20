@@ -1,0 +1,100 @@
+{
+  "id": 21846,
+  "islong": 2,
+  "direction": 2,
+  "title": "捉喵计",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1004343781444640072.jpg",
+  "description": "《捉喵计》描绘的是原创3D科幻动画《双月之城》主创们及吉祥物“小龙包”之间的逗趣生活和搞笑日常。",
+  "last_updatetime": 1445598667,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 4045,
+  "hit_num": 39991,
+  "uid": 100434378,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10756,
+      "tag_name": "上海龙沧文化创意有限公司"
+    }
+  ],
+  "subscribe_num": 20,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44079,
+          "chapter_title": "7话",
+          "updatetime": 1445598667,
+          "filesize": 544896,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 43910,
+          "chapter_title": "6话",
+          "updatetime": 1444990712,
+          "filesize": 516088,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 43791,
+          "chapter_title": "5话",
+          "updatetime": 1444643263,
+          "filesize": 503957,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 43790,
+          "chapter_title": "4话",
+          "updatetime": 1444643066,
+          "filesize": 524236,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 43789,
+          "chapter_title": "3话",
+          "updatetime": 1444642951,
+          "filesize": 509627,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 43788,
+          "chapter_title": "2话",
+          "updatetime": 1444642817,
+          "filesize": 528432,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 43787,
+          "chapter_title": "1话",
+          "updatetime": 1444642663,
+          "filesize": 543572,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

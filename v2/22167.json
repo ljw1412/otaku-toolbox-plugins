@@ -1,0 +1,71 @@
+{
+  "id": 22167,
+  "islong": 2,
+  "direction": 2,
+  "title": "惊爆校园",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445915819.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445915879,
+  "copyright": 1,
+  "first_letter": "j",
+  "hot_num": 5129,
+  "hit_num": 48201,
+  "uid": 100469239,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 18,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46688,
+          "chapter_title": "1话",
+          "updatetime": 1445915879,
+          "filesize": 610348,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 9619040,
+        "uid": 105792945,
+        "content": "不好意思，打扰了！",
+        "createtime": 1546425821,
+        "nickname": "凌止",
+        "avatar": "https://avatar.dmzj.com/17/12/1712cb329c3c315d183eac1695e1df82.png"
+      },
+      {
+        "comment_id": 6887579,
+        "uid": 102031799,
+        "content": "L.M.老师的新作《少年PMC》正在他本人微博连载，请有兴趣的朋友前去支持。",
+        "createtime": 1537282319,
+        "nickname": "NIDHOG·李嘉图·MF·路",
+        "avatar": "https://avatar.dmzj.com/55/89/5589cdf2dfe621cd5dc64e4fb4890e72.png"
+      }
+    ]
+  }
+}

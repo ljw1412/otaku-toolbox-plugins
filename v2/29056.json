@@ -1,0 +1,101 @@
+{
+  "id": 29056,
+  "islong": 2,
+  "direction": 1,
+  "title": "自宅警备舰川内",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/zizhaijingbeijianchuanneifengmianl.jpg",
+  "description": "C89川内日常向本子",
+  "last_updatetime": 1503315408,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 1734046,
+  "hit_num": 1742668,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8065,
+      "tag_name": "こるり屋"
+    }
+  ],
+  "subscribe_num": 12042,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67004,
+          "chapter_title": "5话",
+          "updatetime": 1503315408,
+          "filesize": 2144137,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 60949,
+          "chapter_title": "4话",
+          "updatetime": 1484877253,
+          "filesize": 3866342,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 59706,
+          "chapter_title": "3话",
+          "updatetime": 1481087786,
+          "filesize": 2591344,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 54329,
+          "chapter_title": "2话",
+          "updatetime": 1467591142,
+          "filesize": 2552079,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 48211,
+          "chapter_title": "1话",
+          "updatetime": 1454473156,
+          "filesize": 2674166,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 119,
+    "latest_comment": [
+      {
+        "comment_id": 27373511,
+        "uid": 104389509,
+        "content": "堕落的连锁",
+        "createtime": 1589441529,
+        "nickname": "二号毛玉",
+        "avatar": "https://avatar.dmzj.com/e6/c2/e6c280fb92cd34669e00b61011e310c5.png"
+      },
+      {
+        "comment_id": 23130369,
+        "uid": 107366614,
+        "content": "还行",
+        "createtime": 1578405511,
+        "nickname": "王二麻duck",
+        "avatar": "https://avatar.dmzj.com/38/95/38959f24463a6e0cbaeb10bc982fd728.png"
+      }
+    ]
+  }
+}

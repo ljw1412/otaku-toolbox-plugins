@@ -1,0 +1,80 @@
+{
+  "id": 280,
+  "islong": 2,
+  "direction": 1,
+  "title": "幻兽少年",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/180621hssn.jpg",
+  "description": "从小就有感应能力的祇心，总是能遇知危难的发生。直到研究中心的人绑架了妹妹小尚，才知道自己其实并不是人类，而是经由遗传因子强化而制造出来的〝幻兽〞…。为了解开一层又一层的谜团，祇心和好友树踏上了冒险的旅程… ",
+  "last_updatetime": 1178197680,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 71704,
+  "hit_num": 6731307,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 626,
+      "tag_name": "星野和夏子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 223,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 578,
+          "chapter_title": "2卷",
+          "updatetime": 1178197680,
+          "filesize": 18555844,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 577,
+          "chapter_title": "1卷",
+          "updatetime": 1178197680,
+          "filesize": 19943132,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 29260387,
+        "uid": 111070541,
+        "content": "add water ",
+        "createtime": 1595844844,
+        "nickname": "dmzj_111070541",
+        "avatar": "https://avatar.dmzj.com/ae/7c/ae7c19c274d0352acc29fc0ab344992f.png"
+      },
+      {
+        "comment_id": 29213188,
+        "uid": 107784221,
+        "content": "复古的画质，精致的画风",
+        "createtime": 1595683215,
+        "nickname": "什么猫啊",
+        "avatar": "https://avatar.dmzj.com/8b/c0/8bc06d664a1345a97530987482b5576b.png"
+      }
+    ]
+  }
+}

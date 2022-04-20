@@ -1,0 +1,69 @@
+{
+  "id": 27431,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C89)Kariwaza",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/kariwaza.jpg",
+  "description": "东方的同人漫画本。",
+  "last_updatetime": 1451962350,
+  "copyright": 0,
+  "first_letter": "k",
+  "hot_num": 19522,
+  "hit_num": 91378,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11176,
+      "tag_name": "VENTOPLUS"
+    }
+  ],
+  "subscribe_num": 133,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47117,
+          "chapter_title": "1话",
+          "updatetime": 1451962350,
+          "filesize": 3638374,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 2183744,
+        "uid": 44020,
+        "content": "封面画风完全的缠流子",
+        "createtime": 1494831127,
+        "nickname": "见陇原扛把子",
+        "avatar": "https://avatar.dmzj.com/1f/e1/1fe1ed66dcc7bba9c926c9b1a957622f.png"
+      },
+      {
+        "comment_id": 609208,
+        "uid": 100830638,
+        "content": "好可爱，不过完全看不懂啊",
+        "createtime": 1454849646,
+        "nickname": "二次元里的小透明",
+        "avatar": "https://avatar.dmzj.com/85/04/850427385b2cc57efbd6948eb3a712e1.png"
+      }
+    ]
+  }
+}

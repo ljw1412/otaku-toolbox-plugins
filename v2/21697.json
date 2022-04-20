@@ -1,0 +1,73 @@
+{
+  "id": 21697,
+  "islong": 2,
+  "direction": 2,
+  "title": "星期三漫画：蝙蝠侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/xinqisanmanhuabianfuxiafengmianl.jpg",
+  "description": "蝙蝠侠的短篇漫画",
+  "last_updatetime": 1443328710,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 23158,
+  "hit_num": 15116,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 82,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45657,
+          "chapter_title": "1卷",
+          "updatetime": 1443328710,
+          "filesize": 1710069,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 10382016,
+        "uid": 105608248,
+        "content": "系列吗",
+        "createtime": 1548161484,
+        "nickname": "轻哼的小调",
+        "avatar": "https://avatar.dmzj.com/48/28/48288972973f636dbd157f4c55d15479.png"
+      },
+      {
+        "comment_id": 1767076,
+        "uid": 100224709,
+        "content": "沙发？",
+        "createtime": 1486351831,
+        "nickname": "也许是v",
+        "avatar": "https://avatar.dmzj.com/2c/69/2c699d2c1215bf1a76302c09bb266f23.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 21412,
+  "islong": 2,
+  "direction": 2,
+  "title": "许愿吧狐仙大人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1000952701440490122.jpg",
+  "description": "许愿吧狐仙大人",
+  "last_updatetime": 1440490438,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 8803,
+  "hit_num": 224141,
+  "uid": 100095270,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8884,
+      "tag_name": "吉林星海动漫公司"
+    }
+  ],
+  "subscribe_num": 67,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45177,
+          "chapter_title": "2话",
+          "updatetime": 1440490438,
+          "filesize": 2496542,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 45176,
+          "chapter_title": "1话",
+          "updatetime": 1440490345,
+          "filesize": 2963882,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 2061619,
+        "uid": 100485892,
+        "content": "星海动漫的连载漫画《天降女教官》《狐仙物语》《男神是一对》《影子行动》《山海经灵妖传》《依兰花女孩》《苏格兰裙男孩》《越界直播》《天价萌妹》《奇门女名师》等等统统都很好看！您的关注就是我们最大的动力~~",
+        "createtime": 1492412016,
+        "nickname": "星海动漫@兔纸",
+        "avatar": "https://avatar.dmzj.com/98/23/9823bba8c77d31bed9779df460ff3ddd.png"
+      },
+      {
+        "comment_id": 613469,
+        "uid": 100755038,
+        "content": "好好看。更新更新",
+        "createtime": 1455103992,
+        "nickname": "晴晴雅",
+        "avatar": "https://avatar.dmzj.com/cc/4d/cc4d97bd11e7cc20cc665c714402b5dc.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": 21241,
+  "islong": 2,
+  "direction": 2,
+  "title": "Thomas Ott 选集",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/TomasOttxuanjifengmianl.jpg",
+  "description": "来自瑞士的惊悚无字漫画，仔细品尝吧......",
+  "last_updatetime": 1440867433,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 136391,
+  "hit_num": 618278,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10432,
+      "tag_name": "Tomas Ott"
+    }
+  ],
+  "subscribe_num": 856,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42512,
+          "chapter_title": "7卷",
+          "updatetime": 1440867433,
+          "filesize": 6633293,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 42511,
+          "chapter_title": "6卷",
+          "updatetime": 1440866485,
+          "filesize": 1483735,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 42510,
+          "chapter_title": "5卷",
+          "updatetime": 1440866302,
+          "filesize": 8176373,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 42508,
+          "chapter_title": "4卷",
+          "updatetime": 1440864277,
+          "filesize": 5578389,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 42507,
+          "chapter_title": "3卷",
+          "updatetime": 1440862908,
+          "filesize": 2126331,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 42506,
+          "chapter_title": "2卷",
+          "updatetime": 1440862890,
+          "filesize": 6988691,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 42477,
+          "chapter_title": "1卷",
+          "updatetime": 1440778383,
+          "filesize": 17243454,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 25542803,
+        "uid": 101753563,
+        "content": "还行",
+        "createtime": 1584813735,
+        "nickname": "云中超人",
+        "avatar": "https://avatar.dmzj.com/92/02/9202c7a2886ae7640a340e2195198565.png"
+      },
+      {
+        "comment_id": 16432980,
+        "uid": 107197519,
+        "content": "悬疑类型好",
+        "createtime": 1558865663,
+        "nickname": "adasll",
+        "avatar": "https://avatar.dmzj.com/11/33/113377523de0453d48884c51830bdc26.png"
+      }
+    ]
+  }
+}

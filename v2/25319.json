@@ -1,0 +1,71 @@
+{
+  "id": 25319,
+  "islong": 2,
+  "direction": 2,
+  "title": "猪才怪",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1005371911447925774.jpg",
+  "description": "",
+  "last_updatetime": 1447925811,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 947,
+  "hit_num": 1423,
+  "uid": 100537191,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10968,
+      "tag_name": "王凯"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43811,
+          "chapter_title": "1话",
+          "updatetime": 1447925811,
+          "filesize": 403349,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 518407,
+        "uid": 20937793,
+        "content": "小编你吗炸了。这些弱智玩意也放上来。。。。",
+        "createtime": 1447936621,
+        "nickname": "七条私奔？",
+        "avatar": "https://avatar.dmzj.com/98/92/98928c0e4aa418cfabf065761450f5bf.png"
+      },
+      {
+        "comment_id": 518396,
+        "uid": 100518553,
+        "content": "1",
+        "createtime": 1447935277,
+        "nickname": "丛云伴月、风拂花",
+        "avatar": "https://avatar.dmzj.com/f9/61/f9619247c526f4a0ac30ce8d893d1194.png"
+      }
+    ]
+  }
+}

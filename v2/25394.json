@@ -1,0 +1,76 @@
+{
+  "id": 25394,
+  "islong": 2,
+  "direction": 2,
+  "title": "Madman V1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/madmanfengmianl.jpg",
+  "description": "一觉醒来，你发现自己拥有了超能力，但是却对自己的身份和来历毫无记忆",
+  "last_updatetime": 1465573037,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 10238,
+  "hit_num": 159518,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 80,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50882,
+          "chapter_title": "2卷",
+          "updatetime": 1465573037,
+          "filesize": 6727429,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 43939,
+          "chapter_title": "1卷",
+          "updatetime": 1448469131,
+          "filesize": 7654133,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 28564183,
+        "uid": 100095266,
+        "content": "这漫画这么好看后续呢？",
+        "createtime": 1593519592,
+        "nickname": "环岛游2",
+        "avatar": "https://avatar.dmzj.com/52/32/5232a93ea2f6991c22b269759e9f6060.png"
+      },
+      {
+        "comment_id": 890770,
+        "uid": 101281161,
+        "content": "妈囧的侠 … 好牛的名字",
+        "createtime": 1465588082,
+        "nickname": "侠客行",
+        "avatar": "https://avatar.dmzj.com/85/98/8598eb9b2507dea3d385d258479b30a8.png"
+      }
+    ]
+  }
+}

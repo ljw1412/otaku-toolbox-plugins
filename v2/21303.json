@@ -1,0 +1,71 @@
+{
+  "id": 21303,
+  "islong": 2,
+  "direction": 2,
+  "title": "黑泪",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1003569691441086012.jpg",
+  "description": "瞳漫",
+  "last_updatetime": 1441086034,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 487,
+  "hit_num": 1106,
+  "uid": 100356969,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10471,
+      "tag_name": "鱼子"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40917,
+          "chapter_title": "1话",
+          "updatetime": 1441086034,
+          "filesize": 538221,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 465815,
+        "uid": 26326285,
+        "content": "。。。。。",
+        "createtime": 1441099121,
+        "nickname": "兔子小萱",
+        "avatar": "https://avatar.dmzj.com/f2/0a/f20aeeca4a34151ce1fc612c246365ce.png"
+      },
+      {
+        "comment_id": 465803,
+        "uid": 100320512,
+        "content": "哇，手画的图吗？虽然剧情不太吸引人但是还是棒",
+        "createtime": 1441098059,
+        "nickname": "severelyk",
+        "avatar": "https://avatar.dmzj.com/cc/82/cc823a090ca0758e933af17773ee46d4.png"
+      }
+    ]
+  }
+}

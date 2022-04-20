@@ -1,0 +1,73 @@
+{
+  "id": 2688,
+  "islong": 2,
+  "direction": 1,
+  "title": "赤壁之战",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/cb02-01_bf321ca41ab26491fcaa93e982289c46.jpg",
+  "description": "暂无",
+  "last_updatetime": 1271924654,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 6532,
+  "hit_num": 210262,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 1460,
+      "tag_name": "李志清"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3250,
+      "tag_name": "历史"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "subscribe_num": 27,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 7117,
+          "chapter_title": "1卷",
+          "updatetime": 1272529454,
+          "filesize": 6938775,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 28092341,
+        "uid": 106051989,
+        "content": "rt",
+        "createtime": 1591888922,
+        "nickname": "猫街小子",
+        "avatar": "https://avatar.dmzj.com/33/07/330771e3aac7ac14f90a8c7091858b47.png"
+      },
+      {
+        "comment_id": 23437876,
+        "uid": 107860515,
+        "content": "一",
+        "createtime": 1579699230,
+        "nickname": "十庸",
+        "avatar": "https://avatar.dmzj.com/79/b6/79b67b4bdf34de68fb93cd276b15d57f.png"
+      }
+    ]
+  }
+}

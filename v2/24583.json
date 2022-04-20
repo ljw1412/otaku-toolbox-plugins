@@ -1,0 +1,63 @@
+{
+  "id": 24583,
+  "islong": 2,
+  "direction": 2,
+  "title": "合唱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1004913721446713410.jpg",
+  "description": "神乐动漫",
+  "last_updatetime": 1446713424,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 653,
+  "hit_num": 745,
+  "uid": 100491372,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10848,
+      "tag_name": "神乐动漫"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43151,
+          "chapter_title": "1话",
+          "updatetime": 1446713424,
+          "filesize": 839002,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 2213737,
+        "uid": 102237998,
+        "content": "什么鬼",
+        "createtime": 1495455888,
+        "nickname": "ët42615",
+        "avatar": "https://avatar.dmzj.com/d8/09/d809d1f9832db2ca892970025e0b2602.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": 21582,
+  "islong": 2,
+  "direction": 2,
+  "title": "喵日常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1003822161442559697.jpg",
+  "description": "喵日常",
+  "last_updatetime": 1442559741,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 2282,
+  "hit_num": 12203,
+  "uid": 100382216,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10603,
+      "tag_name": "木容狗剩"
+    }
+  ],
+  "subscribe_num": 12,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45453,
+          "chapter_title": "1话",
+          "updatetime": 1442559741,
+          "filesize": 683430,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 475397,
+        "uid": 100211764,
+        "content": "快更新",
+        "createtime": 1442575342,
+        "nickname": "5要看动漫",
+        "avatar": "https://avatar.dmzj.com/46/64/4664d2b32e292addc644ccb658ea71d5.png"
+      }
+    ]
+  }
+}

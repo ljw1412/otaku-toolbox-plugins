@@ -1,0 +1,90 @@
+{
+  "id": 2121,
+  "islong": 2,
+  "direction": 1,
+  "title": "摇摆吧!少女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/yaogunbashaonv.jpg",
+  "description": "打算買新電腦、騎腳踏車騎到迷路、捲入擁擠的通勤電車、姊妹吵架…日常生活中會發生的事，透過作者獨特的想法呈現在四格漫畫中！",
+  "last_updatetime": 1280978247,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "yaogunbashaonv",
+  "hidden": 0,
+  "hot_num": 16229,
+  "hit_num": 625597,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 8910,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1312,
+      "tag_name": "むねきち"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 137,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8910,
+          "chapter_title": "2卷",
+          "updatetime": 1280978236,
+          "filesize": 14275148,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 4646,
+          "chapter_title": "1卷",
+          "updatetime": 1270797748,
+          "filesize": 14384026,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 4465856,
+        "uid": 18491933,
+        "content": "可惜尖X後續4-5集不會再取得授權了",
+        "createtime": 1524509484,
+        "nickname": "MAN0615",
+        "avatar": "https://avatar.dmzj.com/53/90/539003f7d15e08c48a9b534b31674a1d.png"
+      },
+      {
+        "comment_id": 322408,
+        "uid": 11780501,
+        "content": "http://178.fm/E9Ihkg",
+        "createtime": 1416502141,
+        "nickname": "叶の猪",
+        "avatar": "https://avatar.dmzj.com/8f/61/8f61b35f6aa1877d8d1b1bda6ab178fe.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

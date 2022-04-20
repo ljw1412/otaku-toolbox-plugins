@@ -1,0 +1,76 @@
+{
+  "id": 20874,
+  "islong": 2,
+  "direction": 2,
+  "title": "惊奇超级英雄之秘密战争II",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/jqcjyxzmmzziifengmainl.jpg",
+  "description": "MARVEL1985年的大事件，剧情紧接1984年大事件秘密战争1，.剧情将会继续围绕超越者展开",
+  "last_updatetime": 1439955948,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 133921,
+  "hit_num": 155676,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 600,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40534,
+          "chapter_title": "2卷",
+          "updatetime": 1439955948,
+          "filesize": 5595040,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 40292,
+          "chapter_title": "1卷",
+          "updatetime": 1439346609,
+          "filesize": 3376575,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 25307487,
+        "uid": 110664264,
+        "content": "没有1872了吗？那是我入坑漫画啊????",
+        "createtime": 1584305869,
+        "nickname": "上楚",
+        "avatar": "https://avatar.dmzj.com/45/86/4586e3a5c83843242904c85773c7419d.png"
+      },
+      {
+        "comment_id": 21140902,
+        "uid": 109796386,
+        "content": "666",
+        "createtime": 1570675583,
+        "nickname": "dmzj_109796386",
+        "avatar": "https://avatar.dmzj.com/d1/9a/d19aa481facbeb3836697d4543f1c861.png"
+      }
+    ]
+  }
+}

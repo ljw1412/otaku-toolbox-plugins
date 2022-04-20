@@ -1,0 +1,101 @@
+{
+  "id": 26264,
+  "islong": 2,
+  "direction": 1,
+  "title": "虚无战记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/xuwuzhanjixuzhang121501.jpg",
+  "description": "飞吧，这是最后的如来光了……",
+  "last_updatetime": 1542251850,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 276590,
+  "hit_num": 3334243,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3988,
+      "tag_name": "石川贤"
+    }
+  ],
+  "subscribe_num": 1613,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 79238,
+          "chapter_title": "4卷",
+          "updatetime": 1542251850,
+          "filesize": 69294209,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 55863,
+          "chapter_title": "3卷",
+          "updatetime": 1477222559,
+          "filesize": 63520268,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 48507,
+          "chapter_title": "2卷",
+          "updatetime": 1459760669,
+          "filesize": 64155697,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 46395,
+          "chapter_title": "1卷",
+          "updatetime": 1454602662,
+          "filesize": 63982883,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 44618,
+          "chapter_title": "0话",
+          "updatetime": 1450185878,
+          "filesize": 10631013,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 100,
+    "latest_comment": [
+      {
+        "comment_id": 30016101,
+        "uid": 104316410,
+        "content": "我可以认为这部漫画讲的是被卷入战争的，相对普通人的故事吗。",
+        "createtime": 1598669605,
+        "nickname": "古月晓60432",
+        "avatar": "https://avatar.dmzj.com/49/e4/49e4b1295f524b8ee51eeb51eeb8720a.png"
+      },
+      {
+        "comment_id": 28033245,
+        "uid": 105937362,
+        "content": "特来拜读，唉，石川一走，拉古斯、盖塔皇帝和时天空的后续也就没了下文了…",
+        "createtime": 1591671383,
+        "nickname": "佩尔菲克提奥",
+        "avatar": "https://avatar.dmzj.com/34/31/3431c21b80c2dd304017fe19ac7e9670.png"
+      }
+    ]
+  }
+}

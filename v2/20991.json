@@ -1,0 +1,93 @@
+{
+  "id": 20991,
+  "islong": 1,
+  "direction": 2,
+  "title": "夫妻日常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1003178641439794072.jpg",
+  "description": "记录我和老师生活中的小故事，哈哈，我的老公很蠢萌~",
+  "last_updatetime": 1440398890,
+  "copyright": 1,
+  "first_letter": "f",
+  "hot_num": 91569,
+  "hit_num": 629988,
+  "uid": 100317864,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10300,
+      "tag_name": "才叔是只猫"
+    }
+  ],
+  "subscribe_num": 831,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42310,
+          "chapter_title": "3话",
+          "updatetime": 1440398890,
+          "filesize": 317087,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 42046,
+          "chapter_title": "2话",
+          "updatetime": 1439878038,
+          "filesize": 505066,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42005,
+          "chapter_title": "1话",
+          "updatetime": 1439794556,
+          "filesize": 149502,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 20,
+    "latest_comment": [
+      {
+        "comment_id": 7400987,
+        "uid": 100832945,
+        "content": "谁有夫妻成长日记。。。。",
+        "createtime": 1539559180,
+        "nickname": "希里哗啦",
+        "avatar": "https://avatar.dmzj.com/98/37/9837f5723a471a5af9a69430412324db.png"
+      },
+      {
+        "comment_id": 1081669,
+        "uid": 101814299,
+        "content": "好有爱呀",
+        "createtime": 1469786267,
+        "nickname": "12320249",
+        "avatar": "https://avatar.dmzj.com/ca/7d/ca7dd9c590c3308e316d4e9ae1bc0c67.png"
+      }
+    ]
+  }
+}

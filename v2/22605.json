@@ -1,0 +1,54 @@
+{
+  "id": 22605,
+  "islong": 2,
+  "direction": 2,
+  "title": "我的天使",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445938532.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445938556,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 1647,
+  "hit_num": 18813,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 6,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47128,
+          "chapter_title": "1话",
+          "updatetime": 1445938556,
+          "filesize": 1068371,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

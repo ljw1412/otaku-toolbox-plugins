@@ -1,0 +1,58 @@
+{
+  "id": 20835,
+  "islong": 2,
+  "direction": 2,
+  "title": "莫笙日记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1002865661439112750.jpg",
+  "description": "一些日常，，",
+  "last_updatetime": 1439112816,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 659,
+  "hit_num": 3067,
+  "uid": 100286566,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10105,
+      "tag_name": "云笙"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44096,
+          "chapter_title": "1话",
+          "updatetime": 1439112816,
+          "filesize": 491264,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

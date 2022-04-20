@@ -1,0 +1,71 @@
+{
+  "id": 22815,
+  "islong": 2,
+  "direction": 2,
+  "title": "嘻嘻人类",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446020468.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446020498,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 840,
+  "hit_num": 5060,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47188,
+          "chapter_title": "1话",
+          "updatetime": 1446020498,
+          "filesize": 826922,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 20305192,
+        "uid": 105712366,
+        "content": "11",
+        "createtime": 1568471061,
+        "nickname": "无锡老铁",
+        "avatar": "https://avatar.dmzj.com/fb/4d/fb4d35480086c071815afe76a5776ca4.png"
+      },
+      {
+        "comment_id": 16675595,
+        "uid": 105916632,
+        "content": "我发现了什么漫画",
+        "createtime": 1559383431,
+        "nickname": "每日自我反省",
+        "avatar": "https://avatar.dmzj.com/82/80/82809f5c36102dd57afa5a6d751a5ccd.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": 20575,
+  "islong": 2,
+  "direction": 2,
+  "title": "暮光之歌",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/335218801438323152.jpg",
+  "description": "体内的魔神正在渐渐苏醒，一个普通少年该如何应对……",
+  "last_updatetime": 1440041049,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 4097,
+  "hit_num": 63531,
+  "uid": 33521880,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10093,
+      "tag_name": "生姜"
+    }
+  ],
+  "subscribe_num": 68,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44553,
+          "chapter_title": "3话",
+          "updatetime": 1440041049,
+          "filesize": 874931,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 43716,
+          "chapter_title": "2话",
+          "updatetime": 1438323304,
+          "filesize": 827741,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 43715,
+          "chapter_title": "1话",
+          "updatetime": 1438323245,
+          "filesize": 747883,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1215560,
+        "uid": 101881449,
+        "content": "你在不更新的话，我就投诉你",
+        "createtime": 1472203940,
+        "nickname": "不可抹去的的记忆",
+        "avatar": "https://avatar.dmzj.com/b7/90/b790d3cae3377ab349ac126eabfdc498.png"
+      },
+      {
+        "comment_id": 442988,
+        "uid": 100287817,
+        "content": "……",
+        "createtime": 1438493098,
+        "nickname": "谁かの为に生きている汝",
+        "avatar": "https://avatar.dmzj.com/97/82/97829d9da75f6e036e39b4fef79d5db0.png"
+      }
+    ]
+  }
+}

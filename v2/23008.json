@@ -1,0 +1,63 @@
+{
+  "id": 23008,
+  "islong": 2,
+  "direction": 2,
+  "title": "幻想无限",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446462061.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446462078,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 857,
+  "hit_num": 5354,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42705,
+          "chapter_title": "1话",
+          "updatetime": 1446462078,
+          "filesize": 881118,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 9537467,
+        "uid": 100970208,
+        "content": "看着看着心中一股孤独的感觉就油然而生",
+        "createtime": 1546263438,
+        "nickname": "不羁41297",
+        "avatar": "https://avatar.dmzj.com/bf/ad/bfad8a77e3346132e104d04e45d70f44.png"
+      }
+    ]
+  }
+}

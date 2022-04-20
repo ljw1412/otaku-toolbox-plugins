@@ -1,0 +1,71 @@
+{
+  "id": 23558,
+  "islong": 2,
+  "direction": 2,
+  "title": "神之雪女",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446113112.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446113131,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 1894,
+  "hit_num": 15424,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 7,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42826,
+          "chapter_title": "1话",
+          "updatetime": 1446113131,
+          "filesize": 666794,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 18929856,
+        "uid": 107260897,
+        "content": "这什么记巴玩意儿？",
+        "createtime": 1564750941,
+        "nickname": "dmzj_107260897",
+        "avatar": "https://avatar.dmzj.com/b4/f0/b4f042a1395dbd732e05c781262bb687.png"
+      },
+      {
+        "comment_id": 17505077,
+        "uid": 108530927,
+        "content": "大妈之家就该下架这种没头没尾的东西",
+        "createtime": 1561547963,
+        "nickname": "longlongko",
+        "avatar": "https://avatar.dmzj.com/12/13/12136466ba0943be494e6660ed3ceeae.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": 24517,
+  "islong": 2,
+  "direction": 2,
+  "title": "打110",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1004913721446717219.jpg",
+  "description": "神乐动漫",
+  "last_updatetime": 1446717242,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 706,
+  "hit_num": 1654,
+  "uid": 100491372,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10848,
+      "tag_name": "神乐动漫"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47332,
+          "chapter_title": "1话",
+          "updatetime": 1446717242,
+          "filesize": 833836,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1270711,
+        "uid": 100887748,
+        "content": "卧槽，辣眼睛。真的辣",
+        "createtime": 1473572922,
+        "nickname": "女权？批权！",
+        "avatar": "https://avatar.dmzj.com/17/65/176554ba83ea87df5cc0b70237a689a3.png"
+      },
+      {
+        "comment_id": 1036502,
+        "uid": 101454028,
+        "content": "沙发",
+        "createtime": 1468940191,
+        "nickname": "和和琴",
+        "avatar": "https://avatar.dmzj.com/62/31/62319c144f5a85830471dd62ab25ea5e.png"
+      }
+    ]
+  }
+}

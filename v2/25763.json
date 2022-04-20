@@ -1,0 +1,80 @@
+{
+  "id": 25763,
+  "islong": 2,
+  "direction": 1,
+  "title": "皮格马利翁",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/0pigemaliwengdbqh12102.jpg",
+  "description": "萌萌的吉祥物集合却突然变成血肉横飞的悲惨景象，这到底是……？",
+  "last_updatetime": 1454836099,
+  "copyright": 0,
+  "first_letter": "p",
+  "hot_num": 591249,
+  "hit_num": 1372845,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11019,
+      "tag_name": "渡辺千紘"
+    }
+  ],
+  "subscribe_num": 8003,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45990,
+          "chapter_title": "2话",
+          "updatetime": 1454836099,
+          "filesize": 5603620,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 43772,
+          "chapter_title": "1话",
+          "updatetime": 1448899545,
+          "filesize": 7638270,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 168,
+    "latest_comment": [
+      {
+        "comment_id": 28953015,
+        "uid": 104500436,
+        "content": "所以是么有组来接下么",
+        "createtime": 1594754861,
+        "nickname": "伊良部一郎",
+        "avatar": "https://avatar.dmzj.com/82/00/8200db41ec419c77690a59476fb7cae3.png"
+      },
+      {
+        "comment_id": 27652390,
+        "uid": 105157294,
+        "content": "留下我的眼",
+        "createtime": 1590329797,
+        "nickname": "卜卦",
+        "avatar": "https://avatar.dmzj.com/42/8e/428e1ff7b426347cdec0f63cc83b82fa.png"
+      }
+    ]
+  }
+}

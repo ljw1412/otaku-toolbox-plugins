@@ -1,0 +1,73 @@
+{
+  "id": 21150,
+  "islong": 2,
+  "direction": 1,
+  "title": "黑豚晚餐会",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/heitunwanchanhui.jpg",
+  "description": "少女们被诅咒的盛宴-- 好吃又惹人怜的祭品是谁呢？",
+  "last_updatetime": 1440400072,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 38987,
+  "hit_num": 105655,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10372,
+      "tag_name": "进叶シロ"
+    }
+  ],
+  "subscribe_num": 205,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44722,
+          "chapter_title": "1话",
+          "updatetime": 1440400072,
+          "filesize": 2081491,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 14349137,
+        "uid": 100921490,
+        "content": "。",
+        "createtime": 1555298347,
+        "nickname": "罪恶的快乐",
+        "avatar": "https://avatar.dmzj.com/4e/2f/4e2fd4959fb223064e9440dc2d3bbbcd.png"
+      },
+      {
+        "comment_id": 4420923,
+        "uid": 102435415,
+        "content": "男主才是幕后boss？",
+        "createtime": 1524152513,
+        "nickname": "妄三生",
+        "avatar": "https://avatar.dmzj.com/30/d1/30d190cc340604e09249f6b7e8e143bc.png"
+      }
+    ]
+  }
+}

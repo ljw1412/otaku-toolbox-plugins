@@ -1,0 +1,86 @@
+{
+  "id": 24129,
+  "islong": 2,
+  "direction": 1,
+  "title": "异妖少年",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1005069071446976285.jpg",
+  "description": "小要怪誓要成为大妖怪的冒险之旅",
+  "last_updatetime": 1447660041,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 3140,
+  "hit_num": 37519,
+  "uid": 100506907,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10876,
+      "tag_name": "龙丸"
+    }
+  ],
+  "subscribe_num": 38,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43750,
+          "chapter_title": "2话",
+          "updatetime": 1447660041,
+          "filesize": 844085,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 43380,
+          "chapter_title": "1话",
+          "updatetime": 1446976862,
+          "filesize": 691252,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "希望大家喜欢。有可能会更新草稿喔",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1234510,
+        "uid": 9717665,
+        "content": "这画风...作者努力吧",
+        "createtime": 1472604179,
+        "nickname": "lanweiming",
+        "avatar": "https://avatar.dmzj.com/a1/dd/a1ddec251743278aa7fecabe97d2da9f.png"
+      },
+      {
+        "comment_id": 510364,
+        "uid": 100482829,
+        "content": "无聊",
+        "createtime": 1447072314,
+        "nickname": "乌鲁西",
+        "avatar": "https://avatar.dmzj.com/48/39/4839bc47c7380fdf2c9f1057144522ab.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 2226,
+  "islong": 2,
+  "direction": 1,
+  "title": "APPLE苹果",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/955.c51c2_6b8bcc5912ef180b16011454e6e5aecb.jpg",
+  "description": "如果是为了某人，想成为怎么样的人都能够做到。世界在这手中……终极少年传说！古味直志的特别连载！",
+  "last_updatetime": 1270622315,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 61570,
+  "hit_num": 902032,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1381,
+      "tag_name": "古味直志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 385,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 4947,
+          "chapter_title": "1话",
+          "updatetime": 1271227115,
+          "filesize": 6403186,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 7284200,
+        "uid": 100491697,
+        "content": "1",
+        "createtime": 1539005947,
+        "nickname": "笨鸟。",
+        "avatar": "https://avatar.dmzj.com/b8/c9/b8c9e826a47de2648676f35d076c6311.png"
+      },
+      {
+        "comment_id": 1048753,
+        "uid": 101746802,
+        "content": "少7页，不过百度贴吧看见了，他没有死了，能重生能力。",
+        "createtime": 1469178684,
+        "nickname": "qzuser06056439",
+        "avatar": "https://avatar.dmzj.com/e5/de/e5deae8874f4f7ffca4f2a56f99465cb.png"
+      }
+    ]
+  }
+}

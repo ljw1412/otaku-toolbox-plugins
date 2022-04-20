@@ -1,0 +1,99 @@
+{
+  "id": 2566,
+  "islong": 2,
+  "direction": 1,
+  "title": "8.1山田悠介剧场",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/01-02_b67d8fe03e7b7ad47acdfa63a5878228.jpg",
+  "description": "山田悠介给我们带来全新漫画。故事继续山田悠介一贯的恐怖风格，讲述一群人在做过山车时候，遇到危险，这时候的人性中的微妙变化。",
+  "last_updatetime": 1388503602,
+  "copyright": 0,
+  "first_letter": "8",
+  "hot_num": 32333,
+  "hit_num": 2484684,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 14,
+      "tag_name": "惊悚"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 154,
+      "tag_name": "山田悠介"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 92,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 25919,
+          "chapter_title": "2卷",
+          "updatetime": 1388503602,
+          "filesize": 23180417,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 25918,
+          "chapter_title": "1卷",
+          "updatetime": 1388503590,
+          "filesize": 25558553,
+          "chapter_order": 30
+        }
+      ]
+    },
+    {
+      "title": "汉化版",
+      "data": [
+        {
+          "chapter_id": 5576,
+          "chapter_title": "2话",
+          "updatetime": 1272438063,
+          "filesize": 3650719,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 5451,
+          "chapter_title": "1话",
+          "updatetime": 1272438078,
+          "filesize": 2649088,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 29022036,
+        "uid": 106808708,
+        "content": "好东西啊",
+        "createtime": 1594999867,
+        "nickname": "dmzj_106808708",
+        "avatar": "https://avatar.dmzj.com/27/0a/270a16fe78227f8f66db2370e1644c1a.png"
+      },
+      {
+        "comment_id": 28997872,
+        "uid": 100535909,
+        "content": "一看还行-=-/b踏步",
+        "createtime": 1594914668,
+        "nickname": "MISAKA1328",
+        "avatar": "https://avatar.dmzj.com/86/77/86778d5b3774eb59490ad45b2870dd84.png"
+      }
+    ]
+  }
+}

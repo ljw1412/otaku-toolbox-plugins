@@ -1,0 +1,63 @@
+{
+  "id": 23826,
+  "islong": 2,
+  "direction": 2,
+  "title": "城市的生活",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1004738361446088731.jpg",
+  "description": "顶点动漫",
+  "last_updatetime": 1446088776,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 754,
+  "hit_num": 3729,
+  "uid": 100473836,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10829,
+      "tag_name": "顶点动漫"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44725,
+          "chapter_title": "1话",
+          "updatetime": 1446088776,
+          "filesize": 849646,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 17981834,
+        "uid": 107571336,
+        "content": "为什么我点别的漫画会跳到这里？",
+        "createtime": 1562602782,
+        "nickname": "智慧⑨",
+        "avatar": "https://avatar.dmzj.com/6c/d3/6cd30368c7b1fe2c815c24c243ef1973.png"
+      }
+    ]
+  }
+}

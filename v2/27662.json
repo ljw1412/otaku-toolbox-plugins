@@ -1,0 +1,85 @@
+{
+  "id": 27662,
+  "islong": 2,
+  "direction": 1,
+  "title": "红色的约定",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1007117931452325712.jpg",
+  "description": "关于一个约定的故事。",
+  "last_updatetime": 1507720423,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 10635,
+  "hit_num": 127630,
+  "uid": 100711793,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11208,
+      "tag_name": "十叶枫"
+    }
+  ],
+  "subscribe_num": 55,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 69704,
+          "chapter_title": "3话",
+          "updatetime": 1507720487,
+          "filesize": 916085,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 69705,
+          "chapter_title": "2话",
+          "updatetime": 1507720423,
+          "filesize": 768860,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 49489,
+          "chapter_title": "1话",
+          "updatetime": 1452328420,
+          "filesize": 970355,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 8331817,
+        "uid": 105159303,
+        "content": "很棒",
+        "createtime": 1542898137,
+        "nickname": "東漢",
+        "avatar": "https://avatar.dmzj.com/94/70/9470dd1707456e3027ec32ef01198c48.png"
+      },
+      {
+        "comment_id": 3080147,
+        "uid": 104269240,
+        "content": "故事情节不错",
+        "createtime": 1507767936,
+        "nickname": "君与君之恋",
+        "avatar": "https://avatar.dmzj.com/98/75/987573ea96d2a3f1a7bf1dd052d1a987.png"
+      }
+    ]
+  }
+}

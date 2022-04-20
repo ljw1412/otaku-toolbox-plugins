@@ -1,0 +1,63 @@
+{
+  "id": 23235,
+  "islong": 2,
+  "direction": 2,
+  "title": "这个女孩很特别",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446445745.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446445779,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 1349,
+  "hit_num": 11827,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47283,
+          "chapter_title": "1话",
+          "updatetime": 1446445779,
+          "filesize": 1019534,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 539032,
+        "uid": 100310974,
+        "content": "。。。寂静",
+        "createtime": 1449915487,
+        "nickname": "阪本製藥丨",
+        "avatar": "https://avatar.dmzj.com/8d/fd/8dfddc81e37bd1e57f8bf594b5678235.png"
+      }
+    ]
+  }
+}

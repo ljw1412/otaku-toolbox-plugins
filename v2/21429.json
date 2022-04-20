@@ -1,0 +1,63 @@
+{
+  "id": 21429,
+  "islong": 2,
+  "direction": 2,
+  "title": "唱童谣",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1003571131441094199.jpg",
+  "description": "唱童谣",
+  "last_updatetime": 1441094214,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 584,
+  "hit_num": 1414,
+  "uid": 100357113,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10537,
+      "tag_name": "木木树文化"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41273,
+          "chapter_title": "1话",
+          "updatetime": 1441094214,
+          "filesize": 430004,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 6226941,
+        "uid": 106921587,
+        "content": "惊了",
+        "createtime": 1534069025,
+        "nickname": "淦鸭",
+        "avatar": "https://avatar.dmzj.com/77/58/7758d370103b256af0659406390c629d.png"
+      }
+    ]
+  }
+}

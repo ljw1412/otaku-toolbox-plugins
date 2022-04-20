@@ -1,0 +1,78 @@
+{
+  "id": 21146,
+  "islong": 2,
+  "direction": 2,
+  "title": "夜之鹰",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871439965475.jpg",
+  "description": "这是一个有关铁和血的故事，讲述的是公元前5世纪北亚从青铜时代进入铁器时代的故事。也是匈奴民族形成的历史故事。",
+  "last_updatetime": 1439965811,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 41990,
+  "hit_num": 1241355,
+  "uid": 100205887,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 176,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42303,
+          "chapter_title": "2话",
+          "updatetime": 1439965811,
+          "filesize": 4718873,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42302,
+          "chapter_title": "1话",
+          "updatetime": 1439965707,
+          "filesize": 4639668,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 6765903,
+        "uid": 103485297,
+        "content": "估计不会更了",
+        "createtime": 1536652176,
+        "nickname": "侧脸烟灰",
+        "avatar": "https://avatar.dmzj.com/7e/f8/7ef886b3b66415cf10373f19bd613c96.png"
+      },
+      {
+        "comment_id": 473003,
+        "uid": 100005100,
+        "content": "吓死了可怕",
+        "createtime": 1442156923,
+        "nickname": "颠沛流离的青春〃",
+        "avatar": "https://avatar.dmzj.com/bd/60/bd6068ee4fda1c5f7d2e98b09057c70c.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": 21173,
+  "islong": 2,
+  "direction": 1,
+  "title": "今天两人也是好朋友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/t4008442pengyouidol8250001.jpg",
+  "description": "偶像少女的百合故事",
+  "last_updatetime": 1440850438,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 795729,
+  "hit_num": 409260,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 1655,
+      "tag_name": "くずしろ"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "subscribe_num": 4449,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40853,
+          "chapter_title": "3话",
+          "updatetime": 1440850438,
+          "filesize": 1530516,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 40749,
+          "chapter_title": "2话",
+          "updatetime": 1440642956,
+          "filesize": 1535138,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 40689,
+          "chapter_title": "1话",
+          "updatetime": 1440510304,
+          "filesize": 1519466,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 80,
+    "latest_comment": [
+      {
+        "comment_id": 29943517,
+        "uid": 111404324,
+        "content": "今天两人也是好朋友",
+        "createtime": 1598376588,
+        "nickname": "dmzj_111404324",
+        "avatar": "https://avatar.dmzj.com/95/63/9563a585b0f394ad32596eeb4dadbfd4.png"
+      },
+      {
+        "comment_id": 29502735,
+        "uid": 109644030,
+        "content": "留",
+        "createtime": 1596714136,
+        "nickname": "小giao吃不饱",
+        "avatar": "https://avatar.dmzj.com/5e/7c/5e7c7cc996e85716cee428e201a10476.png"
+      }
+    ]
+  }
+}

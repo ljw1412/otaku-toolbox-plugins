@@ -1,0 +1,63 @@
+{
+  "id": 24511,
+  "islong": 2,
+  "direction": 2,
+  "title": "村长",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1004913721446717045.jpg",
+  "description": "神乐动漫",
+  "last_updatetime": 1446717061,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 1538,
+  "hit_num": 11686,
+  "uid": 100491372,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10848,
+      "tag_name": "神乐动漫"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44974,
+          "chapter_title": "1话",
+          "updatetime": 1446717061,
+          "filesize": 789551,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 11096369,
+        "uid": 108530927,
+        "content": "下面呢",
+        "createtime": 1549632818,
+        "nickname": "longlongko",
+        "avatar": "https://avatar.dmzj.com/12/13/12136466ba0943be494e6660ed3ceeae.png"
+      }
+    ]
+  }
+}

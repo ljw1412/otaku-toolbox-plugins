@@ -1,0 +1,86 @@
+{
+  "id": 20550,
+  "islong": 2,
+  "direction": 1,
+  "title": "半夜扯谈",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1002823831438256962.jpg",
+  "description": "这是一个严肃的恐怖故事....",
+  "last_updatetime": 1438258079,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 22169,
+  "hit_num": 1369199,
+  "uid": 100282383,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10078,
+      "tag_name": "HL"
+    }
+  ],
+  "subscribe_num": 199,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43688,
+          "chapter_title": "2话",
+          "updatetime": 1438258079,
+          "filesize": 4683588,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 43687,
+          "chapter_title": "1话",
+          "updatetime": 1438257653,
+          "filesize": 5159238,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "阅读 由右至左\n~~多谢捧场~~",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 716308,
+        "uid": 101078053,
+        "content": "Wonderful !/b转圈",
+        "createtime": 1460006503,
+        "nickname": "大黑洞",
+        "avatar": "https://avatar.dmzj.com/70/47/70471dfb8a4963291927e382e853f71a.png"
+      },
+      {
+        "comment_id": 677041,
+        "uid": 100978243,
+        "content": "非常棒的作品啊，有热血，有感动",
+        "createtime": 1458210063,
+        "nickname": "阿蛮奴奴",
+        "avatar": "https://avatar.dmzj.com/6f/24/6f24c5f9d5a15a4102344a1047177ad0.png"
+      }
+    ]
+  }
+}

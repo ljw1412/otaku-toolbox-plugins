@@ -1,0 +1,63 @@
+{
+  "id": 23933,
+  "islong": 2,
+  "direction": 2,
+  "title": "从哪里来的",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1004738361446101773.jpg",
+  "description": "顶点动漫",
+  "last_updatetime": 1446101801,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 765,
+  "hit_num": 4075,
+  "uid": 100473836,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10829,
+      "tag_name": "顶点动漫"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42922,
+          "chapter_title": "1话",
+          "updatetime": 1446101801,
+          "filesize": 973241,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 507171,
+        "uid": 11638186,
+        "content": "谁能告诉在下，为毛这种莫名其妙的玩意会分类在伪娘分类下啊！小编你给我滚粗来！",
+        "createtime": 1446744876,
+        "nickname": "云韩慕柳",
+        "avatar": "https://avatar.dmzj.com/15/81/1581e1fb66212a5d02ff46e1c4653c7d.png"
+      }
+    ]
+  }
+}

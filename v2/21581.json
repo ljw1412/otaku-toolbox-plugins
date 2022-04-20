@@ -1,0 +1,61 @@
+{
+  "id": 21581,
+  "islong": 1,
+  "direction": 2,
+  "title": "熊想想",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1002877931442556548.jpg",
+  "description": "一个发呆少女的日常~",
+  "last_updatetime": 1442557084,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 684,
+  "hit_num": 1831,
+  "uid": 100287793,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10602,
+      "tag_name": "味鲨"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43164,
+          "chapter_title": "2话",
+          "updatetime": 1442557084,
+          "filesize": 237175,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 43163,
+          "chapter_title": "1话",
+          "updatetime": 1442556959,
+          "filesize": 181611,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

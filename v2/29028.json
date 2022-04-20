@@ -1,0 +1,75 @@
+{
+  "id": 29028,
+  "islong": 2,
+  "direction": 1,
+  "title": "虚伪的明天",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1000084311454121756.jpg",
+  "description": "2017年。香港九龙。僵尸危机。",
+  "last_updatetime": 1454119552,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 9538,
+  "hit_num": 151733,
+  "uid": 100008431,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11314,
+      "tag_name": "Jan"
+    }
+  ],
+  "subscribe_num": 46,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45800,
+          "chapter_title": "1话",
+          "updatetime": 1454119552,
+          "filesize": 1839483,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 26673907,
+        "uid": 108426162,
+        "content": "emmm",
+        "createtime": 1587398559,
+        "nickname": "萝卜糕灬",
+        "avatar": "https://avatar.dmzj.com/94/47/94472e63afe33eb28663f1faf321ab35.png"
+      },
+      {
+        "comment_id": 26349500,
+        "uid": 108043653,
+        "content": "四年了",
+        "createtime": 1586588242,
+        "nickname": "xzq",
+        "avatar": "https://avatar.dmzj.com/64/bd/64bd556dae2b07e1c934b86e5ea8813d.png"
+      }
+    ]
+  }
+}

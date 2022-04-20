@@ -1,0 +1,73 @@
+{
+  "id": 27654,
+  "islong": 2,
+  "direction": 1,
+  "title": "Artifact",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/Artifactfengmianl.jpg",
+  "description": "Kodamandara老师的深海画集",
+  "last_updatetime": 1452411530,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 624701,
+  "hit_num": 108661,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11202,
+      "tag_name": "Kodamandara"
+    }
+  ],
+  "subscribe_num": 4210,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45520,
+          "chapter_title": "1话",
+          "updatetime": 1452411530,
+          "filesize": 716978,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 64,
+    "latest_comment": [
+      {
+        "comment_id": 29541506,
+        "uid": 100727970,
+        "content": "我用这个图去订做了一个装饰画",
+        "createtime": 1596850851,
+        "nickname": "町90460",
+        "avatar": "https://avatar.dmzj.com/d3/64/d36411f187644a4c74964f95546419bb.png"
+      },
+      {
+        "comment_id": 27356408,
+        "uid": 102462652,
+        "content": "666",
+        "createtime": 1589383585,
+        "nickname": "Mnl",
+        "avatar": "https://avatar.dmzj.com/91/69/9169815b88a0fc867269e72ed17a3185.png"
+      }
+    ]
+  }
+}

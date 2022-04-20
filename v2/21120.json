@@ -1,0 +1,63 @@
+{
+  "id": 21120,
+  "islong": 2,
+  "direction": 2,
+  "title": "你好，月亮男孩",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1003368691440262608.jpg",
+  "description": "你好，月亮男孩\n",
+  "last_updatetime": 1440262671,
+  "copyright": 1,
+  "first_letter": "n",
+  "hot_num": 1163,
+  "hit_num": 4910,
+  "uid": 100336869,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10367,
+      "tag_name": "AK我很47"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44709,
+          "chapter_title": "1话",
+          "updatetime": 1440262671,
+          "filesize": 538226,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 11755960,
+        "uid": 100993718,
+        "content": "不错",
+        "createtime": 1550734209,
+        "nickname": "你为何这么吊",
+        "avatar": "https://avatar.dmzj.com/a4/7b/a47b1083b8549fd0670ee979735cef87.png"
+      }
+    ]
+  }
+}

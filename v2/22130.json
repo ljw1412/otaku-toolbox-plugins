@@ -1,0 +1,71 @@
+{
+  "id": 22130,
+  "islong": 2,
+  "direction": 2,
+  "title": "爱上下雨天",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445911576.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445911592,
+  "copyright": 1,
+  "first_letter": "a",
+  "hot_num": 938,
+  "hit_num": 6197,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47015,
+          "chapter_title": "1话",
+          "updatetime": 1445911592,
+          "filesize": 730045,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 1313617,
+        "uid": 102124994,
+        "content": "血妈",
+        "createtime": 1474861286,
+        "nickname": "德君锅",
+        "avatar": "https://avatar.dmzj.com/34/63/3463b30994269e55b8ed2fac5808458d.png"
+      },
+      {
+        "comment_id": 1313614,
+        "uid": 100746241,
+        "content": "德军总部",
+        "createtime": 1474861247,
+        "nickname": "呸喽呸喽菌",
+        "avatar": "https://avatar.dmzj.com/05/2e/052e3ccac5dfe03fa8406e3a6b455018.png"
+      }
+    ]
+  }
+}

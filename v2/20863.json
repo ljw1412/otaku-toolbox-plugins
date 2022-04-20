@@ -1,0 +1,73 @@
+{
+  "id": 20863,
+  "islong": 2,
+  "direction": 1,
+  "title": "李小龙",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/lixoiaolongjiniankan.jpg",
+  "description": "《李小龙》漫画，42周年纪念特刊，小强漫画集。",
+  "last_updatetime": 1439289071,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 13362,
+  "hit_num": 312876,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10237,
+      "tag_name": "上官小强"
+    }
+  ],
+  "subscribe_num": 63,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40150,
+          "chapter_title": "1卷",
+          "updatetime": 1439289071,
+          "filesize": 11457866,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 3187402,
+        "uid": 105200723,
+        "content": "表示喜欢，希望李小龙有关的作品多一点",
+        "createtime": 1509184788,
+        "nickname": "人生不设限84997",
+        "avatar": "https://avatar.dmzj.com/7a/d1/7ad1c37b01b13edc6cb4b836b7ed032e.png"
+      },
+      {
+        "comment_id": 2932507,
+        "uid": 104636220,
+        "content": "龙粉路过.",
+        "createtime": 1505639174,
+        "nickname": "ke飞雨",
+        "avatar": "https://avatar.dmzj.com/77/d7/77d7fadcd89d02cf4510d828d1e81195.png"
+      }
+    ]
+  }
+}

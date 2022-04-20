@@ -1,0 +1,96 @@
+{
+  "id": 26258,
+  "islong": 2,
+  "direction": 2,
+  "title": "失控",
+  "is_dmzj": 1,
+  "cover": "https://images.dmzj.com/img/webpic/4/1006054441449721308.jpg",
+  "description": "我尽量把故事做的细致真实一些，做一个有深度的丧尸漫画。",
+  "last_updatetime": 1452567348,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 998620,
+  "hit_num": 18998562,
+  "uid": 100605444,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11081,
+      "tag_name": "阿童目"
+    }
+  ],
+  "subscribe_num": 5957,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45075,
+          "chapter_title": "4话",
+          "updatetime": 1452567348,
+          "filesize": 1270708,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 44628,
+          "chapter_title": "3话",
+          "updatetime": 1451356473,
+          "filesize": 1895023,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 44362,
+          "chapter_title": "2话",
+          "updatetime": 1450753322,
+          "filesize": 841249,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 44153,
+          "chapter_title": "1话",
+          "updatetime": 1450144790,
+          "filesize": 1426427,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "想看丧尸割草系列的请左转。",
+  "comment": {
+    "comment_count": 277,
+    "latest_comment": [
+      {
+        "comment_id": 29747234,
+        "uid": 110419431,
+        "content": "作者还不跳预言家？！",
+        "createtime": 1597673013,
+        "nickname": "金KK呦",
+        "avatar": "https://avatar.dmzj.com/48/90/48904fd1ad3223a708fd3bf240448f67.png"
+      },
+      {
+        "comment_id": 29592054,
+        "uid": 107877933,
+        "content": "作者还在更吗……",
+        "createtime": 1597055328,
+        "nickname": "列星安陈",
+        "avatar": "https://avatar.dmzj.com/30/8c/308c70755323228f6e64658c35be440f.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": 20679,
+  "islong": 2,
+  "direction": 2,
+  "title": "行侠都市",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1002933461438677835.jpg",
+  "description": "洛克市，人口1700万，生活在这里的人们，皆不以道德、法律为行为准则。是一座真正的犯罪之都！",
+  "last_updatetime": 1438744014,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 6361,
+  "hit_num": 215893,
+  "uid": 100293346,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10132,
+      "tag_name": "佐手"
+    }
+  ],
+  "subscribe_num": 31,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39853,
+          "chapter_title": "5话",
+          "updatetime": 1438744014,
+          "filesize": 3797020,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 39852,
+          "chapter_title": "4话",
+          "updatetime": 1438743982,
+          "filesize": 3410451,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 39851,
+          "chapter_title": "3话",
+          "updatetime": 1438743941,
+          "filesize": 2935020,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 39849,
+          "chapter_title": "2话",
+          "updatetime": 1438743890,
+          "filesize": 4615902,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 39816,
+          "chapter_title": "1话",
+          "updatetime": 1438678611,
+          "filesize": 6822297,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1963562,
+        "uid": 20360662,
+        "content": "可惜没有其他篇章就结束了……明明挺喜欢妹子的/a吐血",
+        "createtime": 1490443078,
+        "nickname": "我过鹿的",
+        "avatar": "https://avatar.dmzj.com/26/46/26466096a1570d6de9e63f27035b2d5e.png"
+      },
+      {
+        "comment_id": 1090838,
+        "uid": 100110068,
+        "content": "5话完结？明明看着还有点意思，结果就没了",
+        "createtime": 1469958050,
+        "nickname": "雷击木",
+        "avatar": "https://avatar.dmzj.com/a7/85/a785cdca49c951f3c494608546155e33.png"
+      }
+    ]
+  }
+}

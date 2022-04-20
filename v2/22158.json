@@ -1,0 +1,63 @@
+{
+  "id": 22158,
+  "islong": 2,
+  "direction": 2,
+  "title": "笨蠢贼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445914787.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445914809,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 922,
+  "hit_num": 5999,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42490,
+          "chapter_title": "1话",
+          "updatetime": 1445914809,
+          "filesize": 733941,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 886901,
+        "uid": 100631430,
+        "content": "狗逼",
+        "createtime": 1465500415,
+        "nickname": "Gettlo",
+        "avatar": "https://avatar.dmzj.com/99/26/9926ed603393cd06af0868b117ed155c.png"
+      }
+    ]
+  }
+}

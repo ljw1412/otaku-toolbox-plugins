@@ -1,0 +1,79 @@
+{
+  "id": 20809,
+  "islong": 2,
+  "direction": 2,
+  "title": "Return",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1000299191438936320.jpg",
+  "description": "一个关于警察和小偷的坑爹故事。。。。OYZ",
+  "last_updatetime": 1438936440,
+  "copyright": 1,
+  "first_letter": "r",
+  "hot_num": 3669,
+  "hit_num": 48025,
+  "uid": 100029919,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10205,
+      "tag_name": "言麒YQ"
+    }
+  ],
+  "subscribe_num": 47,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40003,
+          "chapter_title": "1话",
+          "updatetime": 1438936440,
+          "filesize": 1359600,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "第一次画漫画。。各种不足，还请大家多多关照~XD~来吧~各种拍砖都猛烈点吧~（喂）",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 13214051,
+        "uid": 107279828,
+        "content": "茶汤事实上",
+        "createtime": 1553194529,
+        "nickname": "dmzj_107279828",
+        "avatar": "https://avatar.dmzj.com/82/70/82709051574774d89459cb2612ea1abe.png"
+      },
+      {
+        "comment_id": 5673255,
+        "uid": 104527783,
+        "content": "入宫了？",
+        "createtime": 1531836046,
+        "nickname": "World Dominator",
+        "avatar": "https://avatar.dmzj.com/2d/2d/2d2d2161e561470ed55948085014493e.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": 20913,
+  "islong": 2,
+  "direction": 2,
+  "title": "境界之外",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1002987241439452101.jpg",
+  "description": "不要轻易踏入不属于自己的世界",
+  "last_updatetime": 1439452329,
+  "copyright": 1,
+  "first_letter": "j",
+  "hot_num": 1737,
+  "hit_num": 22144,
+  "uid": 100298724,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10262,
+      "tag_name": "clr"
+    }
+  ],
+  "subscribe_num": 11,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40275,
+          "chapter_title": "1话",
+          "updatetime": 1439452329,
+          "filesize": 1731440,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 452386,
+        "uid": 100298724,
+        "content": "/b皮",
+        "createtime": 1439544765,
+        "nickname": "C.l r",
+        "avatar": "https://avatar.dmzj.com/89/03/890391d701daa59442de6035358b16ca.png"
+      }
+    ]
+  }
+}

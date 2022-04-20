@@ -1,0 +1,79 @@
+{
+  "id": 20629,
+  "islong": 2,
+  "direction": 1,
+  "title": "空之虎 海之鹤 陆之鲤",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/kongzhihuhaizhiheluzhili.jpg",
+  "description": "奇怪的名字啊，舰队同人",
+  "last_updatetime": 1438589000,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "k",
+  "comic_py": "kongzhihuhaizhiheluzhili",
+  "hidden": 0,
+  "hot_num": 53296,
+  "hit_num": 156057,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 39772,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5984,
+      "tag_name": "meet"
+    }
+  ],
+  "subscribe_num": 336,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39772,
+          "chapter_title": "1话",
+          "updatetime": 1438589000,
+          "filesize": 3494953,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 21660569,
+        "uid": 107557850,
+        "content": "海之虎 海之虎呀",
+        "createtime": 1572026650,
+        "nickname": "dmzj_107557850",
+        "avatar": "https://avatar.dmzj.com/64/48/6448c05719fd0c465758ce91fb5a3a2c.png"
+      },
+      {
+        "comment_id": 5497119,
+        "uid": 105515205,
+        "content": "那是……加贺前辈你很垃圾的意思",
+        "createtime": 1531034301,
+        "nickname": "阳炎级不知火",
+        "avatar": "https://avatar.dmzj.com/36/38/36382e0579f910d4af860921b20e1dd7.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

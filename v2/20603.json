@@ -1,0 +1,80 @@
+{
+  "id": 20603,
+  "islong": 2,
+  "direction": 1,
+  "title": "再见提督",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/zjtd787l.jpg",
+  "description": "提督再见啦~",
+  "last_updatetime": 1438500070,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 34905,
+  "hit_num": 140604,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10107,
+      "tag_name": "新美栖"
+    }
+  ],
+  "subscribe_num": 216,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39820,
+          "chapter_title": "2话",
+          "updatetime": 1438500070,
+          "filesize": 2121327,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 39819,
+          "chapter_title": "1话",
+          "updatetime": 1438500060,
+          "filesize": 2420422,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 20433239,
+        "uid": 108593561,
+        "content": "這個系列其實都到6了",
+        "createtime": 1568858809,
+        "nickname": "flxhmyj",
+        "avatar": "https://avatar.dmzj.com/fe/32/fe328a2aa7c2b04043ea6f17a21fafc9.png"
+      },
+      {
+        "comment_id": 19356813,
+        "uid": 106201950,
+        "content": "提督去当刀客塔了",
+        "createtime": 1565703434,
+        "nickname": "民政局本橘",
+        "avatar": "https://avatar.dmzj.com/76/2b/762b1b4c7508300239ccc2ad97008590.png"
+      }
+    ]
+  }
+}

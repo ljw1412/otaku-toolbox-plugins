@@ -1,0 +1,81 @@
+{
+  "id": 25360,
+  "islong": 2,
+  "direction": 2,
+  "title": "neno",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1005338321448096936.jpg",
+  "description": "五个怀着不同目标的年轻人，参加了一个名为‘neno’的计划，五个人的命运就此改变。",
+  "last_updatetime": 1449484180,
+  "copyright": 1,
+  "first_letter": "n",
+  "hot_num": 1568,
+  "hit_num": 29573,
+  "uid": 100533832,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10980,
+      "tag_name": "校长"
+    }
+  ],
+  "subscribe_num": 30,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48547,
+          "chapter_title": "3话",
+          "updatetime": 1449484180,
+          "filesize": 1877989,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 48220,
+          "chapter_title": "2话",
+          "updatetime": 1448449595,
+          "filesize": 2120599,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 48132,
+          "chapter_title": "1话",
+          "updatetime": 1448098146,
+          "filesize": 1075197,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 521660,
+        "uid": 100510034,
+        "content": "然后呢",
+        "createtime": 1448254240,
+        "nickname": "袁伦理",
+        "avatar": "https://avatar.dmzj.com/92/6e/926eaab55d3bb4d4021a013765079ec4.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": 20563,
+  "islong": 2,
+  "direction": 2,
+  "title": "初色堂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1002839621438327974.jpg",
+  "description": "生存于现代都市夹缝中的妖魔和人类之间的小故事",
+  "last_updatetime": 1438326511,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 308256,
+  "hit_num": 2853256,
+  "uid": 100283962,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10084,
+      "tag_name": "三千笑容"
+    }
+  ],
+  "subscribe_num": 2398,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39761,
+          "chapter_title": "3话",
+          "updatetime": 1438326511,
+          "filesize": 388603,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 39760,
+          "chapter_title": "2话",
+          "updatetime": 1438326509,
+          "filesize": 611461,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 39759,
+          "chapter_title": "1话",
+          "updatetime": 1438326473,
+          "filesize": 830292,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 54,
+    "latest_comment": [
+      {
+        "comment_id": 29451641,
+        "uid": 110889191,
+        "content": "这恐怕是个太监",
+        "createtime": 1596528592,
+        "nickname": "張叁s",
+        "avatar": "https://avatar.dmzj.com/76/f6/76f6e8b95a973924a6be7c8a6da0857d.png"
+      },
+      {
+        "comment_id": 25823910,
+        "uid": 110758310,
+        "content": "呃……这漫画也太-太短了吧????????????",
+        "createtime": 1585489321,
+        "nickname": "dmzj_110758310",
+        "avatar": "https://avatar.dmzj.com/65/61/656177c214280bc18162c9087264bac1.png"
+      }
+    ]
+  }
+}

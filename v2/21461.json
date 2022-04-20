@@ -1,0 +1,63 @@
+{
+  "id": 21461,
+  "islong": 2,
+  "direction": 2,
+  "title": "颜色形状",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1003571131441180334.jpg",
+  "description": "颜色形状",
+  "last_updatetime": 1441180348,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 451,
+  "hit_num": 542,
+  "uid": 100357113,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10537,
+      "tag_name": "木木树文化"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42875,
+          "chapter_title": "1话",
+          "updatetime": 1441180348,
+          "filesize": 128504,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1481470,
+        "uid": 102333332,
+        "content": "。。这是什么，幼儿书？",
+        "createtime": 1479474773,
+        "nickname": "蓝海韩寒",
+        "avatar": "https://avatar.dmzj.com/48/28/482875390c3eca5053e6d59a4a08f3e2.png"
+      }
+    ]
+  }
+}

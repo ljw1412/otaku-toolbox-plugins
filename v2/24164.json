@@ -1,0 +1,54 @@
+{
+  "id": 24164,
+  "islong": 2,
+  "direction": 2,
+  "title": "好酒",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1004738421446177125.jpg",
+  "description": "灵耀动漫",
+  "last_updatetime": 1446177147,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 470,
+  "hit_num": 934,
+  "uid": 100473842,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10878,
+      "tag_name": "灵耀动漫"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43392,
+          "chapter_title": "1话",
+          "updatetime": 1446177147,
+          "filesize": 596273,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": 20983,
+  "islong": 2,
+  "direction": 2,
+  "title": "题目没想好的少女漫",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1439777631.jpg",
+  "description": "题目没想好的少女漫\n",
+  "last_updatetime": 1439737833,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 1446,
+  "hit_num": 11432,
+  "uid": 100322912,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10294,
+      "tag_name": "南极鱼233"
+    }
+  ],
+  "subscribe_num": 6,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40397,
+          "chapter_title": "1话",
+          "updatetime": 1439737833,
+          "filesize": 701425,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 454605,
+        "uid": 100226677,
+        "content": "分镜有点不原创",
+        "createtime": 1439808532,
+        "nickname": "江天暮雨",
+        "avatar": "https://avatar.dmzj.com/99/dd/99dd1fbeeacd7f1de768ce8c64eb38a2.png"
+      },
+      {
+        "comment_id": 454403,
+        "uid": 100258623,
+        "content": "挺好",
+        "createtime": 1439792142,
+        "nickname": "卿卿初霁",
+        "avatar": "https://avatar.dmzj.com/31/17/311761a7639b27b30edaf5ba18c86c92.png"
+      }
+    ]
+  }
+}

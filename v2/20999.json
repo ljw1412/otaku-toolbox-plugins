@@ -1,0 +1,71 @@
+{
+  "id": 20999,
+  "islong": 2,
+  "direction": 2,
+  "title": "工口八力",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1003239591439789742.jpg",
+  "description": "未来的漫画大师成长史？",
+  "last_updatetime": 1439789826,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 119310,
+  "hit_num": 1575527,
+  "uid": 100323959,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10299,
+      "tag_name": "IC"
+    }
+  ],
+  "subscribe_num": 228,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40473,
+          "chapter_title": "1话",
+          "updatetime": 1439789826,
+          "filesize": 746842,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "保佑我不坑！！！！",
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 22835217,
+        "uid": 104358615,
+        "content": "良子！",
+        "createtime": 1577256108,
+        "nickname": "ちび",
+        "avatar": "https://avatar.dmzj.com/82/82/8282fb0eacd9977b786fd506eedc5e37.png"
+      },
+      {
+        "comment_id": 15299635,
+        "uid": 105254691,
+        "content": "一年……嘛，天赋好还拼命大概行吧?",
+        "createtime": 1556875962,
+        "nickname": "花合鸟",
+        "avatar": "https://avatar.dmzj.com/67/07/67070b286d7ecaf84bd3b2d774de998d.png"
+      }
+    ]
+  }
+}

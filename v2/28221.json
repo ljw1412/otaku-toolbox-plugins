@@ -1,0 +1,77 @@
+{
+  "id": 28221,
+  "islong": 2,
+  "direction": 1,
+  "title": "我们的百物语",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/womendebaiwuyu.jpg",
+  "description": "这是一个温馨治愈的故事",
+  "last_updatetime": 1453015089,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 125431,
+  "hit_num": 73004,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 699,
+      "tag_name": "安童夕马"
+    },
+    {
+      "tag_id": 11251,
+      "tag_name": "堀内厚德"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1044,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47610,
+          "chapter_title": "1话",
+          "updatetime": 1453015089,
+          "filesize": 2141338,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 63,
+    "latest_comment": [
+      {
+        "comment_id": 29339725,
+        "uid": 111070560,
+        "content": "dmzj   dmzj    dmzj",
+        "createtime": 1596123147,
+        "nickname": "dmzj_111070560",
+        "avatar": "https://avatar.dmzj.com/23/f2/23f2e00aca4d784180dbf5b2e5665615.png"
+      },
+      {
+        "comment_id": 28036805,
+        "uid": 101474735,
+        "content": "？？？",
+        "createtime": 1591685920,
+        "nickname": "chenai6080",
+        "avatar": "https://avatar.dmzj.com/82/79/8279774e12d439450b20a9c92caa4b98.png"
+      }
+    ]
+  }
+}

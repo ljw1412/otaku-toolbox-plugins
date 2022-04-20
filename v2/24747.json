@@ -1,0 +1,63 @@
+{
+  "id": 24747,
+  "islong": 2,
+  "direction": 2,
+  "title": "补偿",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1004913721446710202.jpg",
+  "description": "神乐动漫",
+  "last_updatetime": 1446710214,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 645,
+  "hit_num": 666,
+  "uid": 100491372,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10848,
+      "tag_name": "神乐动漫"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47382,
+          "chapter_title": "1话",
+          "updatetime": 1446710214,
+          "filesize": 625124,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 864060,
+        "uid": 101028613,
+        "content": "1",
+        "createtime": 1464865993,
+        "nickname": "冷冷冷还是好冷",
+        "avatar": "https://avatar.dmzj.com/cc/b9/ccb9df387c194c560886ac494c9a3c8f.png"
+      }
+    ]
+  }
+}

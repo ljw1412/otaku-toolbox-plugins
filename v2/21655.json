@@ -1,0 +1,100 @@
+{
+  "id": 21655,
+  "islong": 2,
+  "direction": 2,
+  "title": "缭乱世界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1002184911443061428.jpg",
+  "description": "这是2046年的废墟地球，这是一个奇异缭乱的世界。拥有神奇T恤的唐小山迎来了他的使命，开始一段奇异之旅。",
+  "last_updatetime": 1444630894,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 4624,
+  "hit_num": 104207,
+  "uid": 100218491,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10646,
+      "tag_name": "雨落笑笑生"
+    }
+  ],
+  "subscribe_num": 30,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46335,
+          "chapter_title": "4话",
+          "updatetime": 1444630894,
+          "filesize": 1315558,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 46163,
+          "chapter_title": "3话",
+          "updatetime": 1444192597,
+          "filesize": 1518653,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 46028,
+          "chapter_title": "2话",
+          "updatetime": 1443536075,
+          "filesize": 1449730,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 45836,
+          "chapter_title": "1话",
+          "updatetime": 1443061583,
+          "filesize": 912082,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "每天白天B站http://live.bilibili.com/20998直播漫画绘制过程以及漫画基础绘画教学，欢迎大家来收看~",
+  "comic_notice": "每天B站http://live.bilibili.com/20998直播漫画绘制过程漫画基础绘画教学",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 479291,
+        "uid": 3301291,
+        "content": "是个人就能画漫画",
+        "createtime": 1443185581,
+        "nickname": "良崽",
+        "avatar": "https://avatar.dmzj.com/de/fd/defd2bfea12e425f976d0619582386df.png"
+      },
+      {
+        "comment_id": 478828,
+        "uid": 100054891,
+        "content": "   什么鬼",
+        "createtime": 1443105852,
+        "nickname": "得之我命",
+        "avatar": "https://avatar.dmzj.com/86/71/867142aaa370b6f8a579062a52689c94.png"
+      }
+    ]
+  }
+}

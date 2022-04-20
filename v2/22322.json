@@ -1,0 +1,71 @@
+{
+  "id": 22322,
+  "islong": 2,
+  "direction": 2,
+  "title": "笑不停",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445920437.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445920493,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 881,
+  "hit_num": 5763,
+  "uid": 100469239,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46729,
+          "chapter_title": "1话",
+          "updatetime": 1445920493,
+          "filesize": 1183756,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 739296,
+        "uid": 101117442,
+        "content": "纯粹是在扯淡",
+        "createtime": 1460899137,
+        "nickname": "汝爱",
+        "avatar": "https://avatar.dmzj.com/37/04/3704bfc8b3608f502fd285a9094db53f.png"
+      },
+      {
+        "comment_id": 739295,
+        "uid": 101117442,
+        "content": "我竟无言以对。。。。。。",
+        "createtime": 1460899090,
+        "nickname": "汝爱",
+        "avatar": "https://avatar.dmzj.com/37/04/3704bfc8b3608f502fd285a9094db53f.png"
+      }
+    ]
+  }
+}

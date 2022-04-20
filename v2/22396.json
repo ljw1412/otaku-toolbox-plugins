@@ -1,0 +1,71 @@
+{
+  "id": 22396,
+  "islong": 2,
+  "direction": 2,
+  "title": "王者女神",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445930001.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445930019,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 2206,
+  "hit_num": 18663,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 7,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44385,
+          "chapter_title": "1话",
+          "updatetime": 1445930019,
+          "filesize": 713424,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 15593824,
+        "uid": 105230479,
+        "content": "好难看",
+        "createtime": 1557372047,
+        "nickname": "屎来母",
+        "avatar": "https://avatar.dmzj.com/0d/ec/0decc8b1be10ff04847918b25ef293cc.png"
+      },
+      {
+        "comment_id": 2510663,
+        "uid": 103834860,
+        "content": "第二",
+        "createtime": 1500368259,
+        "nickname": "Master Chief John117",
+        "avatar": "https://avatar.dmzj.com/f1/df/f1dfa94c356a2980f57149e3706089ae.png"
+      }
+    ]
+  }
+}

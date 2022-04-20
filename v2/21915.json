@@ -1,0 +1,89 @@
+{
+  "id": 21915,
+  "islong": 2,
+  "direction": 2,
+  "title": "诸子百家谈",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1000910821445241914.jpg",
+  "description": "今天的自习课由我来代理。我乃是儒家孔丘，上课之前，要先做几件准备工作……",
+  "last_updatetime": 1446697712,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 16107,
+  "hit_num": 139403,
+  "uid": 100091082,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8727,
+      "tag_name": "漫天星工作室"
+    }
+  ],
+  "subscribe_num": 190,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47366,
+          "chapter_title": "3话",
+          "updatetime": 1446697712,
+          "filesize": 623201,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 46877,
+          "chapter_title": "2话",
+          "updatetime": 1446083588,
+          "filesize": 805126,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 46566,
+          "chapter_title": "1话",
+          "updatetime": 1445242447,
+          "filesize": 732692,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 3686304,
+        "uid": 105772769,
+        "content": "这就没了？",
+        "createtime": 1516072298,
+        "nickname": "conflict",
+        "avatar": "https://avatar.dmzj.com/55/47/5547723fb27e71c19ad6f1b0a39bac76.png"
+      },
+      {
+        "comment_id": 2751546,
+        "uid": 104836663,
+        "content": "好可爱啊啊啊啊",
+        "createtime": 1503045579,
+        "nickname": "扶柳",
+        "avatar": "https://avatar.dmzj.com/28/ef/28ef49b645afb40068fb1c080cc995e0.png"
+      }
+    ]
+  }
+}

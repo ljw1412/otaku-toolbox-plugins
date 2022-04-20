@@ -1,0 +1,79 @@
+{
+  "id": 21792,
+  "islong": 2,
+  "direction": 2,
+  "title": "魔猎",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1004198401444098921.jpg",
+  "description": "不死魔尸作为一个邪恶种族严重的威胁着人类的生存。人们成立了各种组织来抵抗魔尸，有能力击杀魔尸的人们聚集在一起，他们被称为“魔猎”。",
+  "last_updatetime": 1444269862,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 16502,
+  "hit_num": 355368,
+  "uid": 100419840,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10717,
+      "tag_name": "画画的金鱼"
+    }
+  ],
+  "subscribe_num": 114,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 45912,
+          "chapter_title": "1话",
+          "updatetime": 1444269862,
+          "filesize": 1702638,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "各位朋友你们好，这里是画画的金鱼。看心情更新，希望大家喜欢~更多《魔猎》原图可关注微博：画画的金鱼",
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 14300936,
+        "uid": 108495858,
+        "content": "至少把对话框改成半透明吧，不然太违和了，要不就改成黑笔漫画",
+        "createtime": 1555231007,
+        "nickname": "旅人一戈",
+        "avatar": "https://avatar.dmzj.com/28/55/28554edd1b333c4ff82a196eb652b5f9.png"
+      },
+      {
+        "comment_id": 6552838,
+        "uid": 105752436,
+        "content": "剧情挺好的，不用全彩吧，每话开头弄一张彩页效果也一样吧",
+        "createtime": 1535508595,
+        "nickname": "打肥鸡的舒克",
+        "avatar": "https://avatar.dmzj.com/69/03/69033b9f23471b87c9e7e5cdb1794ac1.png"
+      }
+    ]
+  }
+}

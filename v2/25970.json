@@ -1,0 +1,71 @@
+{
+  "id": 25970,
+  "islong": 2,
+  "direction": 2,
+  "title": "小萌孩之豆浆",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1005376591449631582.jpg",
+  "description": "星漫文化",
+  "last_updatetime": 1449632561,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 1021,
+  "hit_num": 3192,
+  "uid": 100537659,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10967,
+      "tag_name": "星漫文化 "
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48646,
+          "chapter_title": "1话",
+          "updatetime": 1449632561,
+          "filesize": 346720,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 19079883,
+        "uid": 109343202,
+        "content": "想看春物小说",
+        "createtime": 1565063680,
+        "nickname": "绫小路1",
+        "avatar": "https://avatar.dmzj.com/86/81/86811d1f1450e83c6acaddc7040c47f8.png"
+      },
+      {
+        "comment_id": 15973596,
+        "uid": 108225543,
+        "content": "GG",
+        "createtime": 1557968478,
+        "nickname": "dmzj_108225543",
+        "avatar": "https://avatar.dmzj.com/61/32/6132ea4a2878e0c1382ee5a3f31d758e.png"
+      }
+    ]
+  }
+}

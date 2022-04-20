@@ -1,0 +1,63 @@
+{
+  "id": 23137,
+  "islong": 2,
+  "direction": 2,
+  "title": "搞笑课堂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446103183.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446103196,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 1156,
+  "hit_num": 9161,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46920,
+          "chapter_title": "1话",
+          "updatetime": 1446103196,
+          "filesize": 893444,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 9164723,
+        "uid": 100501023,
+        "content": "伦理课堂点我头像",
+        "createtime": 1545119541,
+        "nickname": "桑鼠",
+        "avatar": "https://avatar.dmzj.com/35/09/3509e5c5cdd02d2726425e9748927c88.png"
+      }
+    ]
+  }
+}

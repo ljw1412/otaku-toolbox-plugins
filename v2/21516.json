@@ -1,0 +1,101 @@
+{
+  "id": 21516,
+  "islong": 2,
+  "direction": 2,
+  "title": "M皇室蜘蛛侠",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/mhuangshizhizhuxia.jpg",
+  "description": "2005年大事件《M皇室》支线《M皇室蜘蛛侠》。",
+  "last_updatetime": 1442206656,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 105977,
+  "hit_num": 203216,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 440,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43000,
+          "chapter_title": "5卷",
+          "updatetime": 1442206656,
+          "filesize": 2291453,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 42999,
+          "chapter_title": "4卷",
+          "updatetime": 1442206476,
+          "filesize": 2628701,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 42998,
+          "chapter_title": "3卷",
+          "updatetime": 1442205818,
+          "filesize": 2688716,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 42997,
+          "chapter_title": "2卷",
+          "updatetime": 1442205403,
+          "filesize": 2983965,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 42996,
+          "chapter_title": "1卷",
+          "updatetime": 1442205088,
+          "filesize": 2796025,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 7708774,
+        "uid": 100875991,
+        "content": "并不是其他时间线的蜘蛛侠，只是大事件的一段",
+        "createtime": 1540761070,
+        "nickname": "司佐",
+        "avatar": "https://avatar.dmzj.com/71/67/716766f2c10775a684977eef13f03fd0.png"
+      },
+      {
+        "comment_id": 4451000,
+        "uid": 100808961,
+        "content": "第一个！",
+        "createtime": 1524409198,
+        "nickname": "啥都能看",
+        "avatar": "https://avatar.dmzj.com/52/65/5265f324453d4e1daf6d581ef29485af.png"
+      }
+    ]
+  }
+}

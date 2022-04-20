@@ -1,0 +1,80 @@
+{
+  "id": 25805,
+  "islong": 2,
+  "direction": 1,
+  "title": "舰娘涂鸦（いど）",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/1jianniangtuyaido123.jpg",
+  "description": "いど老师的各种脑洞涂鸦。",
+  "last_updatetime": 1449283134,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 109562,
+  "hit_num": 79237,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11034,
+      "tag_name": "いど"
+    }
+  ],
+  "subscribe_num": 771,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48493,
+          "chapter_title": "2话",
+          "updatetime": 1449283134,
+          "filesize": 770384,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 48463,
+          "chapter_title": "1话",
+          "updatetime": 1449149328,
+          "filesize": 305345,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 20260216,
+        "uid": 24128475,
+        "content": "第二话的第2页neta的是那个日本有名的都市传说吧，一个普通的描写暑假的游戏可以靠bug卡进不可能存在的8月32日，之后游戏就开始慢慢崩坏。",
+        "createtime": 1568340458,
+        "nickname": "帕秋丽♂GO",
+        "avatar": "https://avatar.dmzj.com/90/50/90501174fdd606af1396871c686a148d.png"
+      },
+      {
+        "comment_id": 7800724,
+        "uid": 100949787,
+        "content": "snake",
+        "createtime": 1541119489,
+        "nickname": "随随便",
+        "avatar": "https://avatar.dmzj.com/92/99/9299b374080a35cc60ce4c8b5271e847.png"
+      }
+    ]
+  }
+}

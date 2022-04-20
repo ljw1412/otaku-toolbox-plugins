@@ -1,0 +1,71 @@
+{
+  "id": 21970,
+  "islong": 2,
+  "direction": 2,
+  "title": "表白",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1004604581445588239.jpg",
+  "description": "小清新的表白，网络上的段子为灵感。",
+  "last_updatetime": 1445588286,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 2393,
+  "hit_num": 21951,
+  "uid": 100460458,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10806,
+      "tag_name": "二囬"
+    }
+  ],
+  "subscribe_num": 15,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46690,
+          "chapter_title": "1话",
+          "updatetime": 1445588286,
+          "filesize": 511444,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1435421,
+        "uid": 101788132,
+        "content": "是啊，最美好的事是你喜欢的人喜欢的是自己，可我™二十年了都还没遇见这个人。😂",
+        "createtime": 1478200919,
+        "nickname": "篠原世以子",
+        "avatar": "https://avatar.dmzj.com/22/e2/22e22d3f0ea752abf732baf1a7028406.png"
+      },
+      {
+        "comment_id": 499201,
+        "uid": 100192968,
+        "content": "稍稍有点，对自己以前的青春的回顾",
+        "createtime": 1445795202,
+        "nickname": "海の棉",
+        "avatar": "https://avatar.dmzj.com/d7/2b/d72b57efa828dcc1a4762653660b7121.png"
+      }
+    ]
+  }
+}

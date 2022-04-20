@@ -1,0 +1,71 @@
+{
+  "id": 20918,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠：黑色哥谭",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/bianfuxiaheisegetan.JPG",
+  "description": "大概就是一个幸运E的戈登+神秘蝙蝠+帅气检察官哈维+炮灰了的某人的故事…",
+  "last_updatetime": 1439481362,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bianfuxiaheisegetan",
+  "hidden": 0,
+  "hot_num": 61204,
+  "hit_num": 118591,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 40281,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 310,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40281,
+          "chapter_title": "1卷",
+          "updatetime": 1439481362,
+          "filesize": 7740369,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 4648144,
+        "uid": 105909097,
+        "content": "哇",
+        "createtime": 1525941374,
+        "nickname": "wayyyyyyne",
+        "avatar": "https://avatar.dmzj.com/22/69/2269d0ee8c138bf6ea5167b30fc83ed8.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

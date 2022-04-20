@@ -1,0 +1,68 @@
+{
+  "id": 21416,
+  "islong": 2,
+  "direction": 2,
+  "title": "女孩俱乐部",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1003426601440494927.jpg",
+  "description": "女孩俱乐部",
+  "last_updatetime": 1440495113,
+  "copyright": 1,
+  "first_letter": "n",
+  "hot_num": 1675,
+  "hit_num": 1800,
+  "uid": 100342660,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10535,
+      "tag_name": "豚宝漫画"
+    }
+  ],
+  "subscribe_num": 9,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42866,
+          "chapter_title": "3话",
+          "updatetime": 1440495113,
+          "filesize": 284515,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 42865,
+          "chapter_title": "2话",
+          "updatetime": 1440495101,
+          "filesize": 294490,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42864,
+          "chapter_title": "1话",
+          "updatetime": 1440495092,
+          "filesize": 276762,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

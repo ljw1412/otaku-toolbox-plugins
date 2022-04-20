@@ -1,0 +1,63 @@
+{
+  "id": 25318,
+  "islong": 2,
+  "direction": 2,
+  "title": "带病上学",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1005371911447925704.jpg",
+  "description": "",
+  "last_updatetime": 1447925732,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 835,
+  "hit_num": 2014,
+  "uid": 100537191,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10968,
+      "tag_name": "王凯"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43483,
+          "chapter_title": "1话",
+          "updatetime": 1447925732,
+          "filesize": 379453,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 689626,
+        "uid": 101016567,
+        "content": "好 ",
+        "createtime": 1458799193,
+        "nickname": "王庆宝",
+        "avatar": "https://avatar.dmzj.com/82/00/8200228e7a500e62a24e14a7c8a29cfa.png"
+      }
+    ]
+  }
+}

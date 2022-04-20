@@ -1,0 +1,69 @@
+{
+  "id": 2382,
+  "islong": 2,
+  "direction": 1,
+  "title": "武神外传 天王剑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/wai001_7e8551d0a7c309a5d6d0cba9cca81a59.jpg",
+  "description": "海洋出版的经典之作\"武神\"的外传,描述关于蓝国强人刹亚的配剑--天王剑的一段故事。",
+  "last_updatetime": 1271155675,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 5317,
+  "hit_num": 109903,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1128,
+      "tag_name": "温日良"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 27,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 5760,
+          "chapter_title": "1话",
+          "updatetime": 1271760475,
+          "filesize": 4520189,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 25212636,
+        "uid": 101860546,
+        "content": "这个不会也看不了了吧",
+        "createtime": 1584092191,
+        "nickname": "星之海思想之中",
+        "avatar": "https://avatar.dmzj.com/6f/cb/6fcbf0c1e33f8a1ee4b2cc56959468ef.png"
+      },
+      {
+        "comment_id": 23408316,
+        "uid": 107830211,
+        "content": "重归于好",
+        "createtime": 1579575571,
+        "nickname": "dmzj_107830211",
+        "avatar": "https://avatar.dmzj.com/25/df/25df008f1d3292d0a940929339c5d03b.png"
+      }
+    ]
+  }
+}

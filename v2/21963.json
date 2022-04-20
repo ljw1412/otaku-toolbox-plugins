@@ -1,0 +1,65 @@
+{
+  "id": 21963,
+  "islong": 2,
+  "direction": 2,
+  "title": "飞出米岛",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1004602671445581498.jpg",
+  "description": "被热血出去流浪的老父亲遗留在孤岛上，两个孩子的奇幻寻父之路，和收留的狗‘骷多’一路坎坷却不乏惊喜！我们成长，在路上！",
+  "last_updatetime": 1445581947,
+  "copyright": 1,
+  "first_letter": "f",
+  "hot_num": 623,
+  "hit_num": 2860,
+  "uid": 100460267,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10803,
+      "tag_name": "漫画洋JING"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42260,
+          "chapter_title": "2话",
+          "updatetime": 1445581947,
+          "filesize": 375171,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42259,
+          "chapter_title": "1话",
+          "updatetime": 1445581925,
+          "filesize": 334983,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

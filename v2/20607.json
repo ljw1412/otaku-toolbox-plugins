@@ -1,0 +1,73 @@
+{
+  "id": 20607,
+  "islong": 2,
+  "direction": 1,
+  "title": "无山亦无雨",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/wsywy89l.jpg",
+  "description": "名中有真意。",
+  "last_updatetime": 1438503362,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 30675,
+  "hit_num": 89787,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10110,
+      "tag_name": "転进甘栗"
+    }
+  ],
+  "subscribe_num": 123,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43683,
+          "chapter_title": "1话",
+          "updatetime": 1438503362,
+          "filesize": 2265246,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1573346,
+        "uid": 101142090,
+        "content": "good!!!!!!!!!!!!!!",
+        "createtime": 1481991805,
+        "nickname": "apk001",
+        "avatar": "https://avatar.dmzj.com/32/2f/322fa9917ddc9b1e7b203b673a989826.png"
+      },
+      {
+        "comment_id": 516216,
+        "uid": 100460702,
+        "content": "首发",
+        "createtime": 1447673697,
+        "nickname": "蛋蛋不疼了",
+        "avatar": "https://avatar.dmzj.com/95/52/9552247a7d2f008f66cd5d7c5c4e9bb9.png"
+      }
+    ]
+  }
+}

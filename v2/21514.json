@@ -1,0 +1,71 @@
+{
+  "id": 21514,
+  "islong": 2,
+  "direction": 1,
+  "title": "礼物",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1003505761441939985.jpg",
+  "description": "带着话痨狗的送货员，一个不寻常的邮件",
+  "last_updatetime": 1441940096,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 1148,
+  "hit_num": 8033,
+  "uid": 100350576,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10445,
+      "tag_name": "大鬼"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41458,
+          "chapter_title": "礼物",
+          "updatetime": 1441940096,
+          "filesize": 978476,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 475348,
+        "uid": 100350576,
+        "content": "回复 @隔壁请喝茶:谢谢!",
+        "createtime": 1442566682,
+        "nickname": "大鬼画桃符",
+        "avatar": "https://avatar.dmzj.com/26/20/26200c0621df8056debcbaa0bf7d2f7f.png"
+      },
+      {
+        "comment_id": 475347,
+        "uid": 100350576,
+        "content": "回复 @merry1116:谢谢！这大概是我人生巅峰的图力了",
+        "createtime": 1442566668,
+        "nickname": "大鬼画桃符",
+        "avatar": "https://avatar.dmzj.com/26/20/26200c0621df8056debcbaa0bf7d2f7f.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 27411,
+  "islong": 2,
+  "direction": 1,
+  "title": "我只有一个朋友",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/02wodepengyouzhiyouyirenjiaernakuailai12.jpg",
+  "description": "这是记载着我的回忆的一页。",
+  "last_updatetime": 1451744979,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 187790,
+  "hit_num": 139611,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11169,
+      "tag_name": "柴"
+    }
+  ],
+  "subscribe_num": 1366,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47057,
+          "chapter_title": "1话",
+          "updatetime": 1451744979,
+          "filesize": 6975218,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 25,
+    "latest_comment": [
+      {
+        "comment_id": 29331886,
+        "uid": 111252895,
+        "content": "回忆幽灵。。。",
+        "createtime": 1596101247,
+        "nickname": "dmzj_111252895",
+        "avatar": "https://avatar.dmzj.com/e4/15/e4157fcf1dee4b2dd0fc43c8909940a8.png"
+      },
+      {
+        "comment_id": 28484899,
+        "uid": 106224399,
+        "content": "好看",
+        "createtime": 1593268150,
+        "nickname": "巧克力味病毒",
+        "avatar": "https://avatar.dmzj.com/23/97/2397e46564993ce5485d56ef8952ff3d.png"
+      }
+    ]
+  }
+}

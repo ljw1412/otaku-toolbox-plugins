@@ -1,0 +1,71 @@
+{
+  "id": 20620,
+  "islong": 2,
+  "direction": 2,
+  "title": "我的世界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1002453551438578870.jpg",
+  "description": "一路上 经历了很多 有欢笑 有悲伤 那些幼稚的想法一起来体会吧 欢迎来到我的世界！ ",
+  "last_updatetime": 1438579082,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 5437,
+  "hit_num": 58702,
+  "uid": 100245355,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9891,
+      "tag_name": "火舞叶子"
+    }
+  ],
+  "subscribe_num": 21,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43798,
+          "chapter_title": "1话",
+          "updatetime": 1438579082,
+          "filesize": 666117,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 12818401,
+        "uid": 104679760,
+        "content": "????",
+        "createtime": 1552448448,
+        "nickname": "qzuser12672300",
+        "avatar": "https://avatar.dmzj.com/e0/4c/e04cbb8f501c3d5b149b84b8e9e9abe3.png"
+      },
+      {
+        "comment_id": 12817019,
+        "uid": 102530577,
+        "content": "好看！",
+        "createtime": 1552446881,
+        "nickname": "六花",
+        "avatar": "https://avatar.dmzj.com/db/21/db2166ae7a46c9d76c3e1a08d17d8613.png"
+      }
+    ]
+  }
+}

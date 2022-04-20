@@ -1,0 +1,68 @@
+{
+  "id": 21115,
+  "islong": 2,
+  "direction": 2,
+  "title": "卷毛留学记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/1/1003372611440296510.jpg",
+  "description": "留学党的日常",
+  "last_updatetime": 1440297313,
+  "copyright": 1,
+  "first_letter": "j",
+  "hot_num": 934,
+  "hit_num": 4353,
+  "uid": 100337261,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10362,
+      "tag_name": "一团卷毛"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44708,
+          "chapter_title": "3话",
+          "updatetime": 1440297313,
+          "filesize": 485454,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 44707,
+          "chapter_title": "2话",
+          "updatetime": 1440297192,
+          "filesize": 618039,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 44706,
+          "chapter_title": "1话",
+          "updatetime": 1440296934,
+          "filesize": 360730,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

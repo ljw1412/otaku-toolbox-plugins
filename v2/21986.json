@@ -1,0 +1,87 @@
+{
+  "id": 21986,
+  "islong": 2,
+  "direction": 1,
+  "title": "私立南云学园",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/silinanyunxueyuanfengmianl.jpg",
+  "description": "赤城/瑞鹤中心的学园paro一二五航贵乱",
+  "last_updatetime": 1452313205,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 85641,
+  "hit_num": 584994,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6423,
+      "tag_name": "38式"
+    }
+  ],
+  "subscribe_num": 697,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47286,
+          "chapter_title": "3话",
+          "updatetime": 1452313205,
+          "filesize": 4101697,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 44103,
+          "chapter_title": "2话",
+          "updatetime": 1445746787,
+          "filesize": 6437960,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 44101,
+          "chapter_title": "1话",
+          "updatetime": 1445746739,
+          "filesize": 4984445,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 15,
+    "latest_comment": [
+      {
+        "comment_id": 29002476,
+        "uid": 107037636,
+        "content": "好像坑掉了...",
+        "createtime": 1594922116,
+        "nickname": "金月龙之介",
+        "avatar": "https://avatar.dmzj.com/24/20/24206df99a560cce08a84ff78981a334.png"
+      },
+      {
+        "comment_id": 25585831,
+        "uid": 110694003,
+        "content": "欢乐个鬼啦啊啊啊啊啊啊啊草",
+        "createtime": 1584934985,
+        "nickname": "dmzj_110694003",
+        "avatar": "https://avatar.dmzj.com/8a/15/8a154ee425a2a1710293f1f3fc6ad520.png"
+      }
+    ]
+  }
+}

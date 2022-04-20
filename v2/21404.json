@@ -1,0 +1,63 @@
+{
+  "id": 21404,
+  "islong": 2,
+  "direction": 2,
+  "title": "虹色",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1003423401440484266.jpg",
+  "description": "虹色",
+  "last_updatetime": 1440484283,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 4157,
+  "hit_num": 25240,
+  "uid": 100342340,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10381,
+      "tag_name": "周绘"
+    }
+  ],
+  "subscribe_num": 24,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41250,
+          "chapter_title": "1话",
+          "updatetime": 1440484283,
+          "filesize": 545618,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 645151,
+        "uid": 100891215,
+        "content": "赞~",
+        "createtime": 1456567272,
+        "nickname": "依天洛",
+        "avatar": "https://avatar.dmzj.com/73/28/7328f953b0eb43b3ba4451dd4f569982.png"
+      }
+    ]
+  }
+}

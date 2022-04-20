@@ -1,0 +1,79 @@
+{
+  "id": 29109,
+  "islong": 2,
+  "direction": 2,
+  "title": "如果还能爱你",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1003780451455004676.jpg",
+  "description": "呆萌少女与霸道少爷的love story~！",
+  "last_updatetime": 1455004821,
+  "copyright": 1,
+  "first_letter": "r",
+  "hot_num": 14734,
+  "hit_num": 219296,
+  "uid": 100378045,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11347,
+      "tag_name": "木子鹿"
+    }
+  ],
+  "subscribe_num": 456,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46515,
+          "chapter_title": "1话",
+          "updatetime": 1455004821,
+          "filesize": 952208,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 6206789,
+        "uid": 102584999,
+        "content": "气漫画",
+        "createtime": 1533975620,
+        "nickname": "我忙着呢!",
+        "avatar": "https://avatar.dmzj.com/d1/9a/d19a21079db775cea985530aa269d35e.png"
+      },
+      {
+        "comment_id": 806218,
+        "uid": 100523618,
+        "content": "不更新了吗",
+        "createtime": 1463201898,
+        "nickname": "",
+        "avatar": "https://avatar.dmzj.com/e8/54/e854eeaf1fa06cd0e13713a0da539aa7.png"
+      }
+    ]
+  }
+}

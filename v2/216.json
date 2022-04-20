@@ -1,0 +1,73 @@
+{
+  "id": 216,
+  "islong": 2,
+  "direction": 1,
+  "title": "漫画摘星梦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/mhzxm.jpg",
+  "description": "同时成为漫画家 的夕花和玛惠是最亲的知己和最强的劲敌，她们之间以梦与爱情做为赌注的战争，结果是…？ 由加利送给天下少女的圆梦指引录！",
+  "last_updatetime": 1178197680,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 104053,
+  "hit_num": 1935521,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 581,
+      "tag_name": "河内由加利"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 577,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 630,
+          "chapter_title": "1卷",
+          "updatetime": 1178197680,
+          "filesize": 20718321,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 15586139,
+        "uid": 105227818,
+        "content": "好喜欢这种类型的男主",
+        "createtime": 1557359289,
+        "nickname": "啦啦啦露",
+        "avatar": "https://avatar.dmzj.com/10/46/1046bebf163eba5400f3cbc3ed1624ee.png"
+      },
+      {
+        "comment_id": 929442,
+        "uid": 101474213,
+        "content": "小学生的时候看过，诶，有点怀念。",
+        "createtime": 1466530561,
+        "nickname": "一个普通人",
+        "avatar": "https://avatar.dmzj.com/00/6f/006fafae06927ffadca775db7b998f47.png"
+      }
+    ]
+  }
+}

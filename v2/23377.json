@@ -1,0 +1,63 @@
+{
+  "id": 23377,
+  "islong": 2,
+  "direction": 2,
+  "title": "她来自远方",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391446198808.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1446198824,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 1232,
+  "hit_num": 9181,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46968,
+          "chapter_title": "1话",
+          "updatetime": 1446198824,
+          "filesize": 812399,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 11284954,
+        "uid": 101939075,
+        "content": "哇 沙发耶",
+        "createtime": 1549970327,
+        "nickname": "夏ss",
+        "avatar": "https://avatar.dmzj.com/9a/9f/9a9f2529cd509fc948eba35e49977e65.png"
+      }
+    ]
+  }
+}

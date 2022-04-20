@@ -1,0 +1,73 @@
+{
+  "id": 23593,
+  "islong": 2,
+  "direction": 1,
+  "title": "烦恼山城",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/shanchengfefannaofengmianl.jpg",
+  "description": "有关山城烦恼的舰娘短篇",
+  "last_updatetime": 1446644335,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 19148,
+  "hit_num": 105697,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10859,
+      "tag_name": "アバ番地"
+    }
+  ],
+  "subscribe_num": 124,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42836,
+          "chapter_title": "1话",
+          "updatetime": 1446644335,
+          "filesize": 3099585,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 597536,
+        "uid": 100502306,
+        "content": "山城的朋友除了姐姐大人和时雨还有谁",
+        "createtime": 1454260434,
+        "nickname": "吴美由纪",
+        "avatar": "https://avatar.dmzj.com/97/25/97258f9a11567fb686a52a88467a85d1.png"
+      },
+      {
+        "comment_id": 577839,
+        "uid": 20789773,
+        "content": "这哪里是山城，分明小丧",
+        "createtime": 1453090330,
+        "nickname": "欧尼jiang",
+        "avatar": "https://avatar.dmzj.com/69/f2/69f21590b794eb5b2507ca90c79b44d4.png"
+      }
+    ]
+  }
+}

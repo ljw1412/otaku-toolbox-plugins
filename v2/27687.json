@@ -1,0 +1,78 @@
+{
+  "id": 27687,
+  "islong": 1,
+  "direction": 1,
+  "title": "白小姐何先生",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/17/1007222371452589145.jpg",
+  "description": "在这个浮躁的城市当中，在某一个里，生活着一群小伙伴－－他们已经是成年人了，他们还是孩子",
+  "last_updatetime": 1455780143,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 3522,
+  "hit_num": 25143,
+  "uid": 100722237,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11220,
+      "tag_name": "呼啦啦"
+    }
+  ],
+  "subscribe_num": 11,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50678,
+          "chapter_title": "2话",
+          "updatetime": 1455780143,
+          "filesize": 132337,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 49556,
+          "chapter_title": "1话",
+          "updatetime": 1452589970,
+          "filesize": 422117,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 669270,
+        "uid": 100969127,
+        "content": "什么鬼！？",
+        "createtime": 1457795792,
+        "nickname": "qzuser50035",
+        "avatar": "https://avatar.dmzj.com/9a/08/9a08bff499541ce9931804a16f08c078.png"
+      }
+    ]
+  }
+}

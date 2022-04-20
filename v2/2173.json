@@ -1,0 +1,75 @@
+{
+  "id": 2173,
+  "islong": 2,
+  "direction": 1,
+  "title": "5th",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/03_13ce4dfd1955c3b4c8ba54f8afdb2fb7.jpg",
+  "description": "那一天，我们的世界将在巨响中崩坏殆尽。",
+  "last_updatetime": 1270533894,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "5",
+  "comic_py": "5th",
+  "hidden": 0,
+  "hot_num": 13979,
+  "hit_num": 321159,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 5730,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1356,
+      "tag_name": "KIMCHI"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 68,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 5730,
+          "chapter_title": "1话",
+          "updatetime": 1271138694,
+          "filesize": 3197250,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 17319951,
+        "uid": 108595420,
+        "content": "标注下9年没更新了",
+        "createtime": 1560985607,
+        "nickname": "肥猫丶扶不上墙",
+        "avatar": "https://avatar.dmzj.com/4a/46/4a46c5ca642308d9cc7fe466e5c4c126.png"
+      },
+      {
+        "comment_id": 240311,
+        "uid": 14762504,
+        "content": "仍未更新",
+        "createtime": 1400732542,
+        "nickname": "adnks",
+        "avatar": "https://avatar.dmzj.com/19/40/19402ca868af194cf73af4304d101e14.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

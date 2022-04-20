@@ -1,0 +1,54 @@
+{
+  "id": 21089,
+  "islong": 2,
+  "direction": 2,
+  "title": "球星系列",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1003332691440139107.jpg",
+  "description": "最爱的十个球员",
+  "last_updatetime": 1440143550,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 735,
+  "hit_num": 4412,
+  "uid": 100333269,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10345,
+      "tag_name": "燃烧的湖"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40618,
+          "chapter_title": "1话",
+          "updatetime": 1440143550,
+          "filesize": 2057924,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

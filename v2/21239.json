@@ -1,0 +1,96 @@
+{
+  "id": 21239,
+  "islong": 2,
+  "direction": 1,
+  "title": "龙珠NG（下一代）",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/longzhung.jpg",
+  "description": "龙珠热血战斗类同人漫画",
+  "last_updatetime": 1441620072,
+  "last_update_chapter_name": "第04话",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "longzhungxiayidai",
+  "hidden": 0,
+  "hot_num": 49009,
+  "hit_num": 334923,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 41196,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10431,
+      "tag_name": "elyas11"
+    }
+  ],
+  "subscribe_num": 224,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41196,
+          "chapter_title": "4话",
+          "updatetime": 1441620072,
+          "filesize": 1287187,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 41195,
+          "chapter_title": "3话",
+          "updatetime": 1441619661,
+          "filesize": 2017873,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 41077,
+          "chapter_title": "2话",
+          "updatetime": 1441293348,
+          "filesize": 2451125,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 40884,
+          "chapter_title": "1话",
+          "updatetime": 1440776584,
+          "filesize": 1000180,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 16136743,
+        "uid": 109086798,
+        "content": "眼",
+        "createtime": 1558281323,
+        "nickname": "兰陵笑笑生ˇ",
+        "avatar": "https://avatar.dmzj.com/69/11/691155a60d54a4cfe6909025043bfa71.png"
+      },
+      {
+        "comment_id": 12260465,
+        "uid": 105874889,
+        "content": "搜as1（09）..",
+        "createtime": 1551598837,
+        "nickname": "MkVH",
+        "avatar": "https://avatar.dmzj.com/15/96/1596adce56aa8a702452f02c1df0f0d2.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

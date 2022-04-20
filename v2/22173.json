@@ -1,0 +1,63 @@
+{
+  "id": 22173,
+  "islong": 2,
+  "direction": 2,
+  "title": "可爱男士",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445916063.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445916079,
+  "copyright": 1,
+  "first_letter": "k",
+  "hot_num": 1158,
+  "hit_num": 7197,
+  "uid": 100469239,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 5,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42493,
+          "chapter_title": "1话",
+          "updatetime": 1445916079,
+          "filesize": 942785,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1064852,
+        "uid": 101453825,
+        "content": "被封面骗进来了，岂可修！😡",
+        "createtime": 1469463979,
+        "nickname": "大块并没有假我以文章",
+        "avatar": "https://avatar.dmzj.com/5a/72/5a72d7466b518e8a83811c37a08f6b9d.png"
+      }
+    ]
+  }
+}

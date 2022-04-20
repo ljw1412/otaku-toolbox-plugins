@@ -1,0 +1,87 @@
+{
+  "id": 262,
+  "islong": 2,
+  "direction": 1,
+  "title": "吉祥寺咖啡厅",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/jxskfw.jpg",
+  "description": "帅哥云集的咖啡厅里的日常琐事，轻松搞笑。五个帅哥在咖啡屋工作,每个都有不同的个性。可爱的纯可是超大力的人（人不可貌象）,还有个有点恐怖但也很帅的厨师（宠物是黑猫）,有洁癖的太郎（组长）可是很认真的人哦！还有......",
+  "last_updatetime": 1178197680,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 168773,
+  "hit_num": 1554082,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1017,
+      "tag_name": "根岸京子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 932,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 417,
+          "chapter_title": "3卷",
+          "updatetime": 1178197680,
+          "filesize": 5614154,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 416,
+          "chapter_title": "2卷",
+          "updatetime": 1178197680,
+          "filesize": 4445968,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 415,
+          "chapter_title": "1卷",
+          "updatetime": 1178197680,
+          "filesize": 5726684,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 31,
+    "latest_comment": [
+      {
+        "comment_id": 27766598,
+        "uid": 105741349,
+        "content": "咖啡遇上香草，来个门",
+        "createtime": 1590687364,
+        "nickname": "傻乎乎的烤面包机",
+        "avatar": "https://avatar.dmzj.com/67/10/6710e43bb1e9081c73edfcde661af911.png"
+      },
+      {
+        "comment_id": 27028214,
+        "uid": 110595793,
+        "content": "啊啊啊",
+        "createtime": 1588394241,
+        "nickname": "dmzj_110595793",
+        "avatar": "https://avatar.dmzj.com/23/59/23594cac15b2552ca0ab7262d0ebf53c.png"
+      }
+    ]
+  }
+}

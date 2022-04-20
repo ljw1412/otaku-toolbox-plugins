@@ -1,0 +1,71 @@
+{
+  "id": 20558,
+  "islong": 2,
+  "direction": 2,
+  "title": "Q版",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1002839621438328153.jpg",
+  "description": "希望大家喜欢~",
+  "last_updatetime": 1438328219,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 2870,
+  "hit_num": 14921,
+  "uid": 100283962,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10084,
+      "tag_name": "三千笑容"
+    }
+  ],
+  "subscribe_num": 7,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 39757,
+          "chapter_title": "1话",
+          "updatetime": 1438328219,
+          "filesize": 111111,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1736276,
+        "uid": 103425338,
+        "content": "好喜欢!!!",
+        "createtime": 1485707060,
+        "nickname": "「夜无べ鹊兮」",
+        "avatar": "https://avatar.dmzj.com/7f/f9/7ff9a781caa69f9bda8f68ce4e930c4f.png"
+      },
+      {
+        "comment_id": 441782,
+        "uid": 100250240,
+        "content": "萌萌哒",
+        "createtime": 1438352349,
+        "nickname": "熊酱w",
+        "avatar": "https://avatar.dmzj.com/5a/1e/5a1e1f9833b37add2d823c052d3868c5.png"
+      }
+    ]
+  }
+}

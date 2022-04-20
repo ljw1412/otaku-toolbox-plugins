@@ -1,0 +1,71 @@
+{
+  "id": 27068,
+  "islong": 2,
+  "direction": 2,
+  "title": "黑白道",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1006772231451477439.jpg",
+  "description": "一个色盲少年的梦想绘画之路。",
+  "last_updatetime": 1451477789,
+  "copyright": 1,
+  "first_letter": "h",
+  "hot_num": 2168,
+  "hit_num": 39923,
+  "uid": 100677223,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11155,
+      "tag_name": "西苏呐"
+    }
+  ],
+  "subscribe_num": 30,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44729,
+          "chapter_title": "0话",
+          "updatetime": 1451477789,
+          "filesize": 2990079,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "作者同时更2部,所以只能尽量两周一更.~请大家谅解 ",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 558334,
+        "uid": 100520430,
+        "content": "漫画从左往右看，文字最好也从左往右排。",
+        "createtime": 1451536584,
+        "nickname": "Z剑",
+        "avatar": "https://avatar.dmzj.com/25/97/25979347490d4430b610411ebdabea72.png"
+      }
+    ]
+  }
+}

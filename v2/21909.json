@@ -1,0 +1,86 @@
+{
+  "id": 21909,
+  "islong": 2,
+  "direction": 2,
+  "title": "星愿",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1003505761445147026.jpg",
+  "description": "是《果实》的长篇，然后各种原因胎死腹中了。放出2话，反正不会有以后了，祭奠一下",
+  "last_updatetime": 1445148719,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 3949,
+  "hit_num": 68712,
+  "uid": 100350576,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10445,
+      "tag_name": "大鬼"
+    }
+  ],
+  "subscribe_num": 15,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42412,
+          "chapter_title": "2话",
+          "updatetime": 1445148719,
+          "filesize": 1540505,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42411,
+          "chapter_title": "1话",
+          "updatetime": 1445147957,
+          "filesize": 1577200,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 501507,
+        "uid": 100350576,
+        "content": "回复 @merry1116:也是，不知道这个平台的底线在哪里，不如就完全转耽美系好了",
+        "createtime": 1446110606,
+        "nickname": "大鬼画桃符",
+        "avatar": "https://avatar.dmzj.com/26/20/26200c0621df8056debcbaa0bf7d2f7f.png"
+      },
+      {
+        "comment_id": 497479,
+        "uid": 100237103,
+        "content": "不要啊，能接着更吗",
+        "createtime": 1445588368,
+        "nickname": "unravel me",
+        "avatar": "https://avatar.dmzj.com/f9/f1/f9f1a1516b32d7b8d8ff850ecd5c7ac9.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": 21474,
+  "islong": 2,
+  "direction": 2,
+  "title": "猫说",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1003586601441186661.jpg",
+  "description": "猫说",
+  "last_updatetime": 1441186725,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 1586,
+  "hit_num": 44029,
+  "uid": 100358660,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10548,
+      "tag_name": "拉风漫画"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41302,
+          "chapter_title": "1话",
+          "updatetime": 1441186725,
+          "filesize": 5468544,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1457641,
+        "uid": 102299733,
+        "content": "为什么只有一张作品？",
+        "createtime": 1478831614,
+        "nickname": "花悸丿浅忆",
+        "avatar": "https://avatar.dmzj.com/20/25/2025175e291942503ffb529e26b03680.png"
+      }
+    ]
+  }
+}

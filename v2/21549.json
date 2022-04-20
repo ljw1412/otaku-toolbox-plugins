@@ -1,0 +1,86 @@
+{
+  "id": 21549,
+  "islong": 2,
+  "direction": 2,
+  "title": "太阳●雨",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1003797651442411777.jpg",
+  "description": "这是个围绕哥哥雨和弟弟太阳，以及身边几个奇葩朋友展开的日常故事，虽不热血，也不奇幻，但……生活不就是这样的么~欢迎来到《太阳●雨》的世界~",
+  "last_updatetime": 1442412564,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 2683,
+  "hit_num": 24449,
+  "uid": 100379765,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10590,
+      "tag_name": "淤鱼雨浴"
+    }
+  ],
+  "subscribe_num": 22,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 41539,
+          "chapter_title": "1话",
+          "updatetime": 1442412564,
+          "filesize": 995166,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 41538,
+          "chapter_title": "0话",
+          "updatetime": 1442412130,
+          "filesize": 1025909,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "如果有人喜欢……就好了~",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1783397,
+        "uid": 100067736,
+        "content": "喜欢",
+        "createtime": 1486641753,
+        "nickname": "sea_wind",
+        "avatar": "https://avatar.dmzj.com/18/94/1894e9d5d30df3d5048e74f46bf924ff.png"
+      },
+      {
+        "comment_id": 475290,
+        "uid": 100212332,
+        "content": "上色很赞！加油",
+        "createtime": 1442558131,
+        "nickname": "隔壁请喝茶",
+        "avatar": "https://avatar.dmzj.com/90/44/9044eaea5f4525c1e0bd95955f213cef.png"
+      }
+    ]
+  }
+}

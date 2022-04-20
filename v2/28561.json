@@ -1,0 +1,71 @@
+{
+  "id": 28561,
+  "islong": 2,
+  "direction": 2,
+  "title": "人在职场之乌贼",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1005376591453196228.jpg",
+  "description": "星漫文化",
+  "last_updatetime": 1453196238,
+  "copyright": 1,
+  "first_letter": "r",
+  "hot_num": 452,
+  "hit_num": 461,
+  "uid": 100537659,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10967,
+      "tag_name": "星漫文化 "
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47795,
+          "chapter_title": "1话",
+          "updatetime": 1453196238,
+          "filesize": 100577,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 2026727,
+        "uid": 103447886,
+        "content": "好看哦",
+        "createtime": 1491720878,
+        "nickname": "南箫落烟",
+        "avatar": "https://avatar.dmzj.com/90/15/90154fb6c22fcb9fe5e8cdda071f0f53.png"
+      },
+      {
+        "comment_id": 2026725,
+        "uid": 103447886,
+        "content": "好看哦",
+        "createtime": 1491720872,
+        "nickname": "南箫落烟",
+        "avatar": "https://avatar.dmzj.com/90/15/90154fb6c22fcb9fe5e8cdda071f0f53.png"
+      }
+    ]
+  }
+}

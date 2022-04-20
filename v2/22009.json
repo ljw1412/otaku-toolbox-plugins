@@ -1,0 +1,54 @@
+{
+  "id": 22009,
+  "islong": 2,
+  "direction": 2,
+  "title": "00后小生",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445847490.jpg",
+  "description": "动漫神剧",
+  "last_updatetime": 1445847872,
+  "copyright": 1,
+  "first_letter": "0",
+  "hot_num": 1338,
+  "hit_num": 15712,
+  "uid": 100469239,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42624,
+          "chapter_title": "1话",
+          "updatetime": 1445847872,
+          "filesize": 568411,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

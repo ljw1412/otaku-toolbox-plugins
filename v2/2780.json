@@ -1,0 +1,83 @@
+{
+  "id": 2780,
+  "islong": 2,
+  "direction": 1,
+  "title": "FLAGS旗帜",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/flg01_02_4d3e645e8cb8f16be1e9809d6c9658ec.jpg",
+  "description": "超大国凤华的时代，在全世界拥有三分之一的领土统治世界的凤华，为了防止各国的叛乱，展开了代替战争的武术大会。凤华大会八年一度，那个大会是各国派出五名称为“志士”的..",
+  "last_updatetime": 1272445739,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 39904,
+  "hit_num": 189188,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1628,
+      "tag_name": "上田悟司"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 182,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8631,
+          "chapter_title": "3话",
+          "updatetime": 1273050539,
+          "filesize": 5460486,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 8630,
+          "chapter_title": "2话",
+          "updatetime": 1273050539,
+          "filesize": 7394432,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8629,
+          "chapter_title": "1话",
+          "updatetime": 1273050539,
+          "filesize": 10080598,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 26353204,
+        "uid": 100891852,
+        "content": "还是72恶魔好看",
+        "createtime": 1586595403,
+        "nickname": "子非鱼qweasd",
+        "avatar": "https://avatar.dmzj.com/b5/15/b515a14ae29c8af056649fb10f35849c.png"
+      },
+      {
+        "comment_id": 21938917,
+        "uid": 100595237,
+        "content": "时代感",
+        "createtime": 1572967372,
+        "nickname": "DarkSix",
+        "avatar": "https://avatar.dmzj.com/9d/36/9d36e89e954193d0673b67b89764dedf.png"
+      }
+    ]
+  }
+}

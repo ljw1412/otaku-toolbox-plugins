@@ -1,0 +1,85 @@
+{
+  "id": 20934,
+  "islong": 2,
+  "direction": 2,
+  "title": "期待冒险",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1002058871439452130.jpg",
+  "description": "无论时代如何变迁，时事如何变幻，人们追求梦想与自由的脚步始终未有停歇....",
+  "last_updatetime": 1439452437,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 5595,
+  "hit_num": 101569,
+  "uid": 100205887,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4122,
+      "tag_name": "纵横动漫"
+    }
+  ],
+  "subscribe_num": 25,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 40378,
+          "chapter_title": "3话",
+          "updatetime": 1439452437,
+          "filesize": 2219856,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 40377,
+          "chapter_title": "2话",
+          "updatetime": 1439452356,
+          "filesize": 1890646,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 40376,
+          "chapter_title": "1话",
+          "updatetime": 1439452329,
+          "filesize": 1469648,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 4349602,
+        "uid": 105658495,
+        "content": "没有了吗。。。初一的时候好像也就三话吧。。。(இωஇ )",
+        "createtime": 1523665275,
+        "nickname": "Lan☆",
+        "avatar": "https://avatar.dmzj.com/73/70/7370b6acb9602806fafebc2ce3d1f139.png"
+      },
+      {
+        "comment_id": 3970902,
+        "uid": 2505,
+        "content": "初中时看的第一部西幻小说？应该是第一部吧，虽然是日式风格，从此喜欢上了西幻。",
+        "createtime": 1519678061,
+        "nickname": "is20444",
+        "avatar": "https://avatar.dmzj.com/6c/15/6c1504ac8f3db940f814549a6edd5e80.png"
+      }
+    ]
+  }
+}

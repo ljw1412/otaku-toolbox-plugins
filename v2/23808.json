@@ -1,0 +1,54 @@
+{
+  "id": 23808,
+  "islong": 2,
+  "direction": 2,
+  "title": "吃冰淇淋",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1004738361446089156.jpg",
+  "description": "顶点动漫",
+  "last_updatetime": 1446089183,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 775,
+  "hit_num": 4258,
+  "uid": 100473836,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10829,
+      "tag_name": "顶点动漫"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42897,
+          "chapter_title": "1话",
+          "updatetime": 1446089183,
+          "filesize": 792335,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

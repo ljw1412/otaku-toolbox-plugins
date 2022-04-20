@@ -1,0 +1,68 @@
+{
+  "id": 24183,
+  "islong": 2,
+  "direction": 2,
+  "title": "五月，不送",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/2/1005089421447039645.jpg",
+  "description": "枣椰的第三个短篇",
+  "last_updatetime": 1448179176,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 1065,
+  "hit_num": 12882,
+  "uid": 100508942,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10877,
+      "tag_name": "枣椰"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43560,
+          "chapter_title": "3话",
+          "updatetime": 1448179176,
+          "filesize": 927825,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 43401,
+          "chapter_title": "2话",
+          "updatetime": 1447499048,
+          "filesize": 1017347,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 43054,
+          "chapter_title": "1话",
+          "updatetime": 1447039700,
+          "filesize": 1134759,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

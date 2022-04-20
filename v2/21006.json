@@ -1,0 +1,70 @@
+{
+  "id": 21006,
+  "islong": 2,
+  "direction": 2,
+  "title": "邵教授的哲学",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1003239591439790172.jpg",
+  "description": "老头儿！你很能打是吧？！",
+  "last_updatetime": 1439863282,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 4022,
+  "hit_num": 19965,
+  "uid": 100323959,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10299,
+      "tag_name": "IC"
+    }
+  ],
+  "subscribe_num": 13,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42034,
+          "chapter_title": "2话",
+          "updatetime": 1439863282,
+          "filesize": 685545,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42033,
+          "chapter_title": "1话",
+          "updatetime": 1439863264,
+          "filesize": 760534,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "我又回来啦！哇哈哈哈哈哈哈哈！！",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 2345002,
+        "uid": 101268575,
+        "content": "哲♂学？",
+        "createtime": 1497884318,
+        "nickname": " 咲姬",
+        "avatar": "https://avatar.dmzj.com/e0/db/e0dba8534c014352bf4a5ee4d1318c95.png"
+      }
+    ]
+  }
+}

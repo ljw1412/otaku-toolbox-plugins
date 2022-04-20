@@ -1,0 +1,71 @@
+{
+  "id": 23971,
+  "islong": 2,
+  "direction": 2,
+  "title": "风云",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1004738361446107868.jpg",
+  "description": "顶点动漫",
+  "last_updatetime": 1446107888,
+  "copyright": 1,
+  "first_letter": "f",
+  "hot_num": 2230,
+  "hit_num": 20990,
+  "uid": 100473836,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10829,
+      "tag_name": "顶点动漫"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 44754,
+          "chapter_title": "1话",
+          "updatetime": 1446107888,
+          "filesize": 822702,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 10225519,
+        "uid": 14732351,
+        "content": "谁有风云",
+        "createtime": 1547799499,
+        "nickname": "kiavat",
+        "avatar": "https://avatar.dmzj.com/14/06/1406cc35b70c0d136f470577e4c100d3.png"
+      },
+      {
+        "comment_id": 704318,
+        "uid": 100419224,
+        "content": "什么鬼……",
+        "createtime": 1459489107,
+        "nickname": "孤独ホワイト",
+        "avatar": "https://avatar.dmzj.com/30/50/3050d04c04f599e53c31e0e6740d990e.png"
+      }
+    ]
+  }
+}

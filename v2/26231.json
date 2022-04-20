@@ -1,0 +1,67 @@
+{
+  "id": 26231,
+  "islong": 1,
+  "direction": 2,
+  "title": "我和矢联宝宝",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1006003121449858437.jpg",
+  "description": "我和矢联宝宝的日常",
+  "last_updatetime": 1449858479,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 1118,
+  "hit_num": 2508,
+  "uid": 100600312,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11056,
+      "tag_name": "linsan胖"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46168,
+          "chapter_title": "0话",
+          "updatetime": 1449858479,
+          "filesize": 298735,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1405496,
+        "uid": 101443380,
+        "content": "短得离谱，一话就6章，10句话都没有",
+        "createtime": 1477396537,
+        "nickname": "末夜微兮",
+        "avatar": "https://avatar.dmzj.com/b3/92/b3929b1851b337827571d12a5e6fd2db.png"
+      }
+    ]
+  }
+}

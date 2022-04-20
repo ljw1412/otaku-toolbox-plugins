@@ -1,0 +1,71 @@
+{
+  "id": 22098,
+  "islong": 2,
+  "direction": 2,
+  "title": "123大笑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445849366.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445849432,
+  "copyright": 1,
+  "first_letter": "1",
+  "hot_num": 877,
+  "hit_num": 5253,
+  "uid": 100469239,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 42475,
+          "chapter_title": "1话",
+          "updatetime": 1445849432,
+          "filesize": 848765,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 14474821,
+        "uid": 105088591,
+        "content": "tttttttt",
+        "createtime": 1555496390,
+        "nickname": "这就是带马之家吗？",
+        "avatar": "https://avatar.dmzj.com/94/80/94804cce47068b011a371fba7120d617.png"
+      },
+      {
+        "comment_id": 12263805,
+        "uid": 105088591,
+        "content": "老\n飞",
+        "createtime": 1551602984,
+        "nickname": "这就是带马之家吗？",
+        "avatar": "https://avatar.dmzj.com/94/80/94804cce47068b011a371fba7120d617.png"
+      }
+    ]
+  }
+}

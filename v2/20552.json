@@ -1,0 +1,77 @@
+{
+  "id": 20552,
+  "islong": 2,
+  "direction": 2,
+  "title": "水墨风铃",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1002823381438255990.jpg",
+  "description": "那些年，男孩女孩们一起拼搏，留下许多汗水、泪水，当然还有快乐的回忆。只为站上——世界的舞台。",
+  "last_updatetime": 1451190878,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 1799,
+  "hit_num": 22985,
+  "uid": 100282338,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10080,
+      "tag_name": "天狼"
+    }
+  ],
+  "subscribe_num": 6,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49069,
+          "chapter_title": "2.1话",
+          "updatetime": 1451190878,
+          "filesize": 534000,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 43662,
+          "chapter_title": "单幅漫画",
+          "updatetime": 1438338712,
+          "filesize": 820183,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 43606,
+          "chapter_title": "1话",
+          "updatetime": 1438256636,
+          "filesize": 1702905,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "此漫画为原创小说改编，或许我无法把故事演绎的那么完美，但还是希望大家多支持，多提意见。请多指教！",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 29698772,
+        "uid": 105164939,
+        "content": "情节不错",
+        "createtime": 1597493588,
+        "nickname": "休息休息米",
+        "avatar": "https://avatar.dmzj.com/11/c3/11c376064d66c464ed45a71bcc120386.png"
+      }
+    ]
+  }
+}

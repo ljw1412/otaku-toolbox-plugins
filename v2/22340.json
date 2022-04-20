@@ -1,0 +1,63 @@
+{
+  "id": 22340,
+  "islong": 2,
+  "direction": 2,
+  "title": "猫的世界",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391445927894.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1445928021,
+  "copyright": 1,
+  "first_letter": "m",
+  "hot_num": 1398,
+  "hit_num": 10621,
+  "uid": 100469239,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47067,
+          "chapter_title": "1话",
+          "updatetime": 1445928021,
+          "filesize": 611540,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1006986,
+        "uid": 101596738,
+        "content": "作者加油!我支持你",
+        "createtime": 1468373915,
+        "nickname": "qzuser82944587",
+        "avatar": "https://avatar.dmzj.com/ef/b0/efb0dab7a48322133dc048e0d5241171.png"
+      }
+    ]
+  }
+}

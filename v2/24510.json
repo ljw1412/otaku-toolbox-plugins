@@ -1,0 +1,63 @@
+{
+  "id": 24510,
+  "islong": 2,
+  "direction": 2,
+  "title": "摧毁",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1004913721446717015.jpg",
+  "description": "神乐动漫",
+  "last_updatetime": 1446717033,
+  "copyright": 1,
+  "first_letter": "c",
+  "hot_num": 657,
+  "hit_num": 771,
+  "uid": 100491372,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10848,
+      "tag_name": "神乐动漫"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47662,
+          "chapter_title": "1话",
+          "updatetime": 1446717033,
+          "filesize": 752158,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 17263210,
+        "uid": 105708025,
+        "content": "这是鸣人小队吗????????",
+        "createtime": 1560840643,
+        "nickname": "文艺复兴好啊",
+        "avatar": "https://avatar.dmzj.com/29/09/29090ab211b71eae06927660b99f6682.png"
+      }
+    ]
+  }
+}

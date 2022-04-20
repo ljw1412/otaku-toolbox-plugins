@@ -1,0 +1,86 @@
+{
+  "id": 22004,
+  "islong": 2,
+  "direction": 2,
+  "title": "异族残战",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1003095031445610413.jpg",
+  "description": "种族之间纷乱不断，弱肉强食，主人公九五所在的种族被灭，族人被屠，唯有自己逃过此劫，独活在这个世界上，经历人间沧桑，喜怒哀乐，被这个世界逐渐改变的他，也在用自己的行动一点点的改变着这个世界……\n",
+  "last_updatetime": 1447735365,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 1224,
+  "hit_num": 17585,
+  "uid": 100309503,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10817,
+      "tag_name": "韩永影"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 43767,
+          "chapter_title": "5话",
+          "updatetime": 1447735365,
+          "filesize": 1783994,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 43640,
+          "chapter_title": "4话",
+          "updatetime": 1447209641,
+          "filesize": 1266524,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 42951,
+          "chapter_title": "3话",
+          "updatetime": 1446537992,
+          "filesize": 1616155,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 42679,
+          "chapter_title": "2话",
+          "updatetime": 1446011245,
+          "filesize": 1835232,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 42615,
+          "chapter_title": "1话",
+          "updatetime": 1445610754,
+          "filesize": 1883396,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}
