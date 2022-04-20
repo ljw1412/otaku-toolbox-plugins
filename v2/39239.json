@@ -1,0 +1,79 @@
+{
+  "id": 39239,
+  "islong": 2,
+  "direction": 2,
+  "title": "一个漫画家",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1003022521479694736.jpg",
+  "description": "一个漫画家",
+  "last_updatetime": 1479694804,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 4081,
+  "hit_num": 66325,
+  "uid": 100302252,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12643,
+      "tag_name": "争气基"
+    }
+  ],
+  "subscribe_num": 26,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56747,
+          "chapter_title": "1话",
+          "updatetime": 1479694804,
+          "filesize": 2168350,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 26199744,
+        "uid": 108356555,
+        "content": "在中国，任何超脱飞扬的思想都会怦然坠地，因为现实中的引力太重了！ ——《三体》",
+        "createtime": 1586273529,
+        "nickname": "扇公式",
+        "avatar": "https://avatar.dmzj.com/76/21/76214b17b24fe6d33e5616b6b7dfdd9a.png"
+      },
+      {
+        "comment_id": 1560480,
+        "uid": 101856489,
+        "content": "负能量满满啊这个漫画真是……",
+        "createtime": 1481625917,
+        "nickname": "已匿名设置",
+        "avatar": "https://avatar.dmzj.com/42/65/42650868bfcee574a09f2bf0adeeeb6a.png"
+      }
+    ]
+  }
+}

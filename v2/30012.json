@@ -1,0 +1,69 @@
+{
+  "id": 30012,
+  "islong": 2,
+  "direction": 2,
+  "title": "伸出援翅",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/shenchuyuanchi.jpg",
+  "description": "微短篇。企鹅人，黑道的品格。",
+  "last_updatetime": 1456998482,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 7571,
+  "hit_num": 2369,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 47,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 51241,
+          "chapter_title": "1卷",
+          "updatetime": 1456998482,
+          "filesize": 359738,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 26807434,
+        "uid": 102335552,
+        "content": "你愿做什么维生",
+        "createtime": 1587750844,
+        "nickname": "FORFUN",
+        "avatar": "https://avatar.dmzj.com/60/03/6003c8a1b15bdd3f4b2870c8821982c7.png"
+      },
+      {
+        "comment_id": 2225691,
+        "uid": 18770,
+        "content": "是个片段？",
+        "createtime": 1495697571,
+        "nickname": "一只大二狗汪呜汪呜",
+        "avatar": "https://avatar.dmzj.com/57/29/57294ca86853d1f712a4609efe8cb1be.png"
+      }
+    ]
+  }
+}

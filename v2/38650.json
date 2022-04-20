@@ -1,0 +1,83 @@
+{
+  "id": 38650,
+  "islong": 2,
+  "direction": 1,
+  "title": "两个人的心与心间的距离",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/lianggerendexinyuxinjiandejuli.jpg",
+  "description": "东方的百合治愈系漫画本。",
+  "last_updatetime": 1472642498,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "l",
+  "comic_py": "lianggerendexinyuxinjiandejuli",
+  "hidden": 0,
+  "hot_num": 101908,
+  "hit_num": 154199,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 58381,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6074,
+      "tag_name": "okari"
+    }
+  ],
+  "subscribe_num": 836,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 58381,
+          "chapter_title": "1话",
+          "updatetime": 1472642498,
+          "filesize": 3024609,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 32,
+    "latest_comment": [
+      {
+        "comment_id": 26012645,
+        "uid": 108705182,
+        "content": "這個作者的作品好像少了幾個吧……",
+        "createtime": 1585913056,
+        "nickname": "名字什麽的無視就好",
+        "avatar": "https://avatar.dmzj.com/67/47/6747ad42a10cfc340df0ffb0021fc3cd.png"
+      },
+      {
+        "comment_id": 24954516,
+        "uid": 110107614,
+        "content": "最后一页.......搞不懂放出来干什么",
+        "createtime": 1583502846,
+        "nickname": "Rain寂",
+        "avatar": "https://avatar.dmzj.com/57/08/5708295b9ebeb3bf0645406f16e31967.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

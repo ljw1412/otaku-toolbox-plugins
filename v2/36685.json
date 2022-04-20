@@ -1,0 +1,78 @@
+{
+  "id": 36685,
+  "islong": 1,
+  "direction": 2,
+  "title": "王同学sir",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1016280431467356274.jpg",
+  "description": "这些校园趣事，你是否也经历过？",
+  "last_updatetime": 1467337799,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 946,
+  "hit_num": 2311,
+  "uid": 101628043,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12065,
+      "tag_name": "王同学"
+    }
+  ],
+  "subscribe_num": 8,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 55878,
+          "chapter_title": "2话",
+          "updatetime": 1467337799,
+          "filesize": 189226,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 55839,
+          "chapter_title": "1话",
+          "updatetime": 1467253495,
+          "filesize": 203378,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 25081468,
+        "uid": 110259359,
+        "content": "给我更新啊",
+        "createtime": 1583771396,
+        "nickname": "花萌小舞",
+        "avatar": "https://avatar.dmzj.com/30/66/306669a792cd8b6e0a38e0af345dc8bd.png"
+      },
+      {
+        "comment_id": 23742018,
+        "uid": 105179725,
+        "content": "上古老坟",
+        "createtime": 1580718634,
+        "nickname": "破像▽",
+        "avatar": "https://avatar.dmzj.com/1f/9c/1f9cb0314f28e453fb3cf07d87eda03a.png"
+      }
+    ]
+  }
+}

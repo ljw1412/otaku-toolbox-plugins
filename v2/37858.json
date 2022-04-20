@@ -1,0 +1,121 @@
+{
+  "id": 37858,
+  "islong": 2,
+  "direction": 2,
+  "title": "这西游",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/7/1008890071470479300.jpg",
+  "description": "关于西游老团队取经的四格故事漫画。",
+  "last_updatetime": 1472895005,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 2184,
+  "hit_num": 13475,
+  "uid": 100889007,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11388,
+      "tag_name": "请叫我乔克申叔叔"
+    }
+  ],
+  "subscribe_num": 20,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 53111,
+          "chapter_title": "7话",
+          "updatetime": 1472895005,
+          "filesize": 175619,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 52670,
+          "chapter_title": "6话",
+          "updatetime": 1471596431,
+          "filesize": 238918,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 52484,
+          "chapter_title": "5话",
+          "updatetime": 1470993816,
+          "filesize": 264382,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 52309,
+          "chapter_title": "4话",
+          "updatetime": 1470404148,
+          "filesize": 280243,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 52052,
+          "chapter_title": "3话",
+          "updatetime": 1469806012,
+          "filesize": 307355,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 51868,
+          "chapter_title": "2话",
+          "updatetime": 1469260012,
+          "filesize": 330941,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 51666,
+          "chapter_title": "1话",
+          "updatetime": 1468909936,
+          "filesize": 315953,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "如果您有什么好的建议、意见或点子，欢迎您的留言评论。作者有时会很懒。。。还请多多包涵。",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 10671108,
+        "uid": 108071425,
+        "content": "有谁有《请叫我英雄》",
+        "createtime": 1548763970,
+        "nickname": "dmzj_108071425",
+        "avatar": "https://avatar.dmzj.com/33/32/3332ea28be1c2036e0fe12c8689e650c.png"
+      },
+      {
+        "comment_id": 1150966,
+        "uid": 101157051,
+        "content": "还蛮可爱*^o^*",
+        "createtime": 1470998425,
+        "nickname": "201604212119423",
+        "avatar": "https://avatar.dmzj.com/2b/b3/2bb34d567c544d9effd48b0b48f9a20f.png"
+      }
+    ]
+  }
+}

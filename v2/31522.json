@@ -1,0 +1,73 @@
+{
+  "id": 31522,
+  "islong": 2,
+  "direction": 1,
+  "title": "永夜想曲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/yongyexiangqufengmianl.jpg",
+  "description": "由两位作者共同绘制的三篇爆笑小故事：悲惨毛玉复仇记、素裸天狐反被聪明误、永远亭肌肉兔防卫队。",
+  "last_updatetime": 1459211345,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 8456,
+  "hit_num": 59090,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11591,
+      "tag_name": "藤瀧タクロウ"
+    },
+    {
+      "tag_id": 11592,
+      "tag_name": "ねこ8"
+    }
+  ],
+  "subscribe_num": 62,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52146,
+          "chapter_title": "1话",
+          "updatetime": 1459211345,
+          "filesize": 2315912,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 28904687,
+        "uid": 105988354,
+        "content": "啊这",
+        "createtime": 1594608425,
+        "nickname": "路过的凡人",
+        "avatar": "https://avatar.dmzj.com/66/16/6616754d9b71f4cb2d6be72e106d2107.png"
+      },
+      {
+        "comment_id": 26769967,
+        "uid": 101804576,
+        "content": "真有毒啊。",
+        "createtime": 1587657531,
+        "nickname": "里克66",
+        "avatar": "https://avatar.dmzj.com/53/79/537901e45c9a04c0c272143894e43309.png"
+      }
+    ]
+  }
+}

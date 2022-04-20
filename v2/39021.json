@@ -1,0 +1,107 @@
+{
+  "id": 39021,
+  "islong": 2,
+  "direction": 2,
+  "title": "狰狞塔外传",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1019160361483458260.jpg",
+  "description": "个人原创外传，黑暗正能量",
+  "last_updatetime": 1501743304,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 19173,
+  "hit_num": 308330,
+  "uid": 101916036,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12292,
+      "tag_name": "clear blue"
+    }
+  ],
+  "subscribe_num": 63,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66387,
+          "chapter_title": "9话",
+          "updatetime": 1501743304,
+          "filesize": 1141200,
+          "chapter_order": 9
+        },
+        {
+          "chapter_id": 60902,
+          "chapter_title": "8话",
+          "updatetime": 1484752671,
+          "filesize": 6039843,
+          "chapter_order": 8
+        },
+        {
+          "chapter_id": 60603,
+          "chapter_title": "7话",
+          "updatetime": 1483708379,
+          "filesize": 1056685,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 60264,
+          "chapter_title": "6话",
+          "updatetime": 1482667231,
+          "filesize": 918964,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 59221,
+          "chapter_title": "5话",
+          "updatetime": 1479731166,
+          "filesize": 666392,
+          "chapter_order": 5
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "关于未知的魔鬼",
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 2634367,
+        "uid": 101300607,
+        "content": "不明所以",
+        "createtime": 1501780887,
+        "nickname": "EastSun.Xu",
+        "avatar": "https://avatar.dmzj.com/a1/1e/a11ee571d52063da2a3415852b5303d5.png"
+      },
+      {
+        "comment_id": 1691211,
+        "uid": 100519457,
+        "content": "这封面和内容……完全不像啊",
+        "createtime": 1484795017,
+        "nickname": "前轱辘不转后轱辘转",
+        "avatar": "https://avatar.dmzj.com/b7/23/b7233d881ce257ae0d0488ee6683c840.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": 29996,
+  "islong": 1,
+  "direction": 2,
+  "title": "《秦时明月》同人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/18/1009249181456823533.jpg",
+  "description": "根据动画《秦时明月》而创作的搞笑日常。",
+  "last_updatetime": 1456993979,
+  "copyright": 1,
+  "first_letter": "q",
+  "hot_num": 8855,
+  "hit_num": 35264,
+  "uid": 100924918,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11458,
+      "tag_name": "路子君"
+    }
+  ],
+  "subscribe_num": 54,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49218,
+          "chapter_title": "2话",
+          "updatetime": 1456993979,
+          "filesize": 372071,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 49174,
+          "chapter_title": "1话",
+          "updatetime": 1456914188,
+          "filesize": 216213,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "一些搞笑的段子画在自己喜欢的动画中。",
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 2670492,
+        "uid": 105064781,
+        "content": "@路子君画墨凤同人漫画，但是情节完全不同，在贴吧里发需不需要原作者授权？",
+        "createtime": 1502170145,
+        "nickname": "千里阡寻",
+        "avatar": "https://avatar.dmzj.com/84/33/84337483fc79e290114d8d4e804cbe80.png"
+      },
+      {
+        "comment_id": 1851995,
+        "uid": 104133852,
+        "content": "作者快更(๑•́ ₃ •̀๑)我的墨凤啊",
+        "createtime": 1488033632,
+        "nickname": "子玲小友",
+        "avatar": "https://avatar.dmzj.com/89/02/8902ac21b75a7bebdfcd76c30cf17d76.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": 30318,
+  "islong": 2,
+  "direction": 2,
+  "title": "星球大战：破碎的帝国",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/xingqiudazhanposuidediguo.jpg",
+  "description": "本部漫画是官方出品的衔接EP6,EP7的重要线索之一，讲述了EP7中的波·达默龙父母的故事惊喜连连，不要错过。",
+  "last_updatetime": 1463972707,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 60541,
+  "hit_num": 115017,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 294,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49430,
+          "chapter_title": "4卷",
+          "updatetime": 1463972707,
+          "filesize": 3199715,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 49300,
+          "chapter_title": "3卷",
+          "updatetime": 1463492999,
+          "filesize": 3125794,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 49429,
+          "chapter_title": "2卷",
+          "updatetime": 1463972628,
+          "filesize": 3022157,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 46779,
+          "chapter_title": "1卷",
+          "updatetime": 1457083591,
+          "filesize": 3307977,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 9547336,
+        "uid": 107114631,
+        "content": "我贼爱这位画师。欧比旺的与安纳金也是他画的。",
+        "createtime": 1546276692,
+        "nickname": "TOWERQ",
+        "avatar": "https://avatar.dmzj.com/41/40/414078e94c76b163bb86c219fb045494.png"
+      },
+      {
+        "comment_id": 4953768,
+        "uid": 101063170,
+        "content": "这画风赞啊，看楚巴卡都觉得眉清目秀",
+        "createtime": 1528028694,
+        "nickname": "Kzch",
+        "avatar": "https://avatar.dmzj.com/35/07/3507d9053bd8fced89a11dcd7ecb4cea.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": 35894,
+  "islong": 2,
+  "direction": 1,
+  "title": "Just Be Friends",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/160615justbf.jpg",
+  "description": "vocaloid曲『Just Be Friends』改编 宫田大地和立花流夏两人的恋爱物语.....",
+  "last_updatetime": 1468847554,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 227205,
+  "hit_num": 966115,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8082,
+      "tag_name": "モゲラッタ"
+    }
+  ],
+  "subscribe_num": 3430,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52625,
+          "chapter_title": "0话",
+          "updatetime": 1468847554,
+          "filesize": 2498551,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 52624,
+          "chapter_title": "5话",
+          "updatetime": 1468847549,
+          "filesize": 2310390,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 51517,
+          "chapter_title": "4话",
+          "updatetime": 1466820925,
+          "filesize": 3445029,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 51516,
+          "chapter_title": "3话",
+          "updatetime": 1466820688,
+          "filesize": 4976950,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 51172,
+          "chapter_title": "2话",
+          "updatetime": 1466140667,
+          "filesize": 5255075,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 51137,
+          "chapter_title": "1话",
+          "updatetime": 1465989374,
+          "filesize": 2751122,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 150,
+    "latest_comment": [
+      {
+        "comment_id": 29501692,
+        "uid": 105679121,
+        "content": "观光童年",
+        "createtime": 1596710166,
+        "nickname": "陈小47997",
+        "avatar": "https://avatar.dmzj.com/87/71/8771202a5e9b8ac9940c132c40f23cf8.png"
+      },
+      {
+        "comment_id": 26141733,
+        "uid": 104650555,
+        "content": "这个也是歌曲改编",
+        "createtime": 1586160848,
+        "nickname": "歌尽浮生",
+        "avatar": "https://avatar.dmzj.com/8a/8e/8a8e590f6e85ead5d30be8ce955bc934.png"
+      }
+    ]
+  }
+}

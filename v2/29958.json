@@ -1,0 +1,75 @@
+{
+  "id": 29958,
+  "islong": 2,
+  "direction": 1,
+  "title": "X战警与恶灵骑士",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/xpasx32zhanjingelingqs22702001.jpg",
+  "description": "X战警们与恶灵骑士之间的故事。",
+  "last_updatetime": 1456587228,
+  "last_update_chapter_name": "第02卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xzhanjingyuelingqishi",
+  "hidden": 0,
+  "hot_num": 76730,
+  "hit_num": 47480,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 46549,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 414,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46549,
+          "chapter_title": "2卷",
+          "updatetime": 1456587228,
+          "filesize": 1917757,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 23434352,
+        "uid": 101387784,
+        "content": "额，居然还有这篇，看了下内容其实是x-men: to serve and protect中的一部分，为什么自己起了个x战警与恶灵骑士的名字呢",
+        "createtime": 1579686288,
+        "nickname": "RABUMALAL",
+        "avatar": "https://avatar.dmzj.com/14/66/1466c75fe0dec23972386cf68afcb87e.png"
+      },
+      {
+        "comment_id": 923254,
+        "uid": 100822341,
+        "content": "错了，该叫x23与恶灵骑士",
+        "createtime": 1466406904,
+        "nickname": "VENOM00164",
+        "avatar": "https://avatar.dmzj.com/c1/3f/c13f3568a51679c694d2d36d87d29e5c.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

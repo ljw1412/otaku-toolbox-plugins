@@ -1,0 +1,76 @@
+{
+  "id": 3139,
+  "islong": 2,
+  "direction": 1,
+  "title": "创可帖的诱惑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/001_58b88a99bda6bc5252155de87ae8c6a9.jpg",
+  "description": "创可帖的诱惑漫画. 早乙女杏的秘密就是一见到女生的血就会兴奋起来。",
+  "last_updatetime": 1273573355,
+  "copyright": 0,
+  "first_letter": "c",
+  "hot_num": 91917,
+  "hit_num": 322962,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1012,
+      "tag_name": "椿明日"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 519,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 7639,
+          "chapter_title": "2话",
+          "updatetime": 1274178155,
+          "filesize": 2503226,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 7638,
+          "chapter_title": "1话",
+          "updatetime": 1274178155,
+          "filesize": 3040392,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 52,
+    "latest_comment": [
+      {
+        "comment_id": 29502066,
+        "uid": 105009467,
+        "content": "10年了啊",
+        "createtime": 1596711569,
+        "nickname": "柚芽",
+        "avatar": "https://avatar.dmzj.com/10/55/1055e02582782e5b431dbe968b92fa23.png"
+      },
+      {
+        "comment_id": 29401854,
+        "uid": 107496470,
+        "content": "10年了",
+        "createtime": 1596362917,
+        "nickname": "dmzj_107496470",
+        "avatar": "https://avatar.dmzj.com/b4/05/b4052c748a3d5bf1b89a419af57903fa.png"
+      }
+    ]
+  }
+}

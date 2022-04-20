@@ -1,0 +1,80 @@
+{
+  "id": 29999,
+  "islong": 2,
+  "direction": 1,
+  "title": "第三飞行少女队",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/dsfxsnd689l.jpg",
+  "description": "《白箱SHIROBAKO》TV动画剧中剧《第三飞行少女队》番外漫画。",
+  "last_updatetime": 1456935013,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 73569,
+  "hit_num": 186286,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 4424,
+      "tag_name": "野上武志"
+    }
+  ],
+  "subscribe_num": 652,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47232,
+          "chapter_title": "2话",
+          "updatetime": 1456935013,
+          "filesize": 2775296,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 47231,
+          "chapter_title": "1话",
+          "updatetime": 1456934980,
+          "filesize": 4739393,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 26829844,
+        "uid": 105371377,
+        "content": "剧中剧不止ova还有漫画草",
+        "createtime": 1587820979,
+        "nickname": "ggnoob",
+        "avatar": "https://avatar.dmzj.com/50/61/5061a8eb5c97b4a47efba7b46389d4ed.png"
+      },
+      {
+        "comment_id": 25128927,
+        "uid": 107580424,
+        "content": "这跟动画的情节好像不太一样",
+        "createtime": 1583888764,
+        "nickname": "館脇正太郎",
+        "avatar": "https://avatar.dmzj.com/48/35/48355e9916227962a84baf35a55436f6.png"
+      }
+    ]
+  }
+}

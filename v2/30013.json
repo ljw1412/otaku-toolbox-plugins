@@ -1,0 +1,73 @@
+{
+  "id": 30013,
+  "islong": 2,
+  "direction": 2,
+  "title": "蝙蝠侠：阿尔弗雷德·潘尼沃斯的错觉",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/aerfeileidedecuojue.jpg",
+  "description": "关于淘气和知更鸟的鬼魂。",
+  "last_updatetime": 1456999001,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 64356,
+  "hit_num": 18201,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 366,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 46690,
+          "chapter_title": "1卷",
+          "updatetime": 1456999001,
+          "filesize": 440392,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 25116824,
+        "uid": 109235227,
+        "content": "然后阿福已经在主宇宙死了ftk",
+        "createtime": 1583855383,
+        "nickname": "冷森8th",
+        "avatar": "https://avatar.dmzj.com/58/55/585529a858bce58d20679c882c056afe.png"
+      },
+      {
+        "comment_id": 18087283,
+        "uid": 108829402,
+        "content": "留",
+        "createtime": 1562836458,
+        "nickname": "Miju",
+        "avatar": "https://avatar.dmzj.com/22/28/2228beca23e0ce2e0ae55cd81e540f7c.png"
+      }
+    ]
+  }
+}

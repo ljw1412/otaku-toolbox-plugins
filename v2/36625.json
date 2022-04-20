@@ -1,0 +1,83 @@
+{
+  "id": 36625,
+  "islong": 2,
+  "direction": 1,
+  "title": "天诛x神曲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/02shenqutkxlz03.jpg",
+  "description": "少年少女们围绕着拥有治愈能力的少女展开的和风异能幻想故事",
+  "last_updatetime": 1473757560,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 412155,
+  "hit_num": 1418921,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3378,
+      "tag_name": "よしだもろへ"
+    }
+  ],
+  "subscribe_num": 3916,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 58773,
+          "chapter_title": "3话",
+          "updatetime": 1473757560,
+          "filesize": 8805083,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 57546,
+          "chapter_title": "2话",
+          "updatetime": 1470632510,
+          "filesize": 8114493,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 55642,
+          "chapter_title": "1话",
+          "updatetime": 1466776982,
+          "filesize": 6752311,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 96,
+    "latest_comment": [
+      {
+        "comment_id": 29027584,
+        "uid": 111275168,
+        "content": "四年了……",
+        "createtime": 1595010216,
+        "nickname": "dmzj_111275168",
+        "avatar": "https://avatar.dmzj.com/58/10/5810920d1b9b4a291dbbd88f905e4a92.png"
+      },
+      {
+        "comment_id": 27549881,
+        "uid": 109040425,
+        "content": "这。。。还在连载中。。。",
+        "createtime": 1589997482,
+        "nickname": "モモ酱不想认输",
+        "avatar": "https://avatar.dmzj.com/77/69/7769719de88e6c1cf1da469cbec8db2e.png"
+      }
+    ]
+  }
+}

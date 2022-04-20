@@ -1,0 +1,85 @@
+{
+  "id": 32664,
+  "islong": 2,
+  "direction": 2,
+  "title": "一个冥想的角落",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1011364541460887429.jpg",
+  "description": "短篇集。青年向。\n",
+  "last_updatetime": 1466127890,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 1800,
+  "hit_num": 14788,
+  "uid": 101136454,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11685,
+      "tag_name": "kotea"
+    }
+  ],
+  "subscribe_num": 16,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 51170,
+          "chapter_title": "3话",
+          "updatetime": 1466127890,
+          "filesize": 950945,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 49432,
+          "chapter_title": "2话",
+          "updatetime": 1461837932,
+          "filesize": 657935,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 49052,
+          "chapter_title": "1话",
+          "updatetime": 1460887561,
+          "filesize": 754556,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 912114,
+        "uid": 100481677,
+        "content": "前",
+        "createtime": 1466145078,
+        "nickname": "野西红兔",
+        "avatar": "https://avatar.dmzj.com/21/73/2173a134128c4a52e38ef4e5c500b368.png"
+      },
+      {
+        "comment_id": 764138,
+        "uid": 100619490,
+        "content": "占位",
+        "createtime": 1461848016,
+        "nickname": "代表国家",
+        "avatar": "https://avatar.dmzj.com/59/66/5966337fb1656fb9d627bf88423db1e7.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": 3462,
+  "islong": 2,
+  "direction": 1,
+  "title": "Lequios",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/Lequios.jpg",
+  "description": "2008年冲绳，疯狂和正气的冲浪要开始了！！",
+  "last_updatetime": 1274958262,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 43708,
+  "hit_num": 965249,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2079,
+      "tag_name": "池上永一"
+    },
+    {
+      "tag_id": 2080,
+      "tag_name": "前嶋重機"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 289,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8553,
+          "chapter_title": "1话",
+          "updatetime": 1274958262,
+          "filesize": 3985433,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 26397635,
+        "uid": 101753563,
+        "content": "不错",
+        "createtime": 1586695900,
+        "nickname": "云中超人",
+        "avatar": "https://avatar.dmzj.com/92/02/9202c7a2886ae7640a340e2195198565.png"
+      },
+      {
+        "comment_id": 22821277,
+        "uid": 100546009,
+        "content": "飞雷神之术",
+        "createtime": 1577198048,
+        "nickname": "Ｓmile、※々莫離",
+        "avatar": "https://avatar.dmzj.com/10/67/106760a5162f6edda4d13dbc052c90bf.png"
+      }
+    ]
+  }
+}

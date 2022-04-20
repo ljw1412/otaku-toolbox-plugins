@@ -1,0 +1,81 @@
+{
+  "id": 33070,
+  "islong": 2,
+  "direction": 2,
+  "title": "莱恩的魔法",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1011782201461565276.jpg",
+  "description": "古魔法是一切魔法的起源，通过修炼古魔法可以增加魔力的流向，但因其复杂的魔法公式，只有小部分魔力流向大的人才能学会。\n与古种魔法不同，现代魔法则更加注重道具——塔的使用，塔可以储存通过身体的魔力，因其简单易用并可以使用大型魔法而深受人们的偏爱。莱恩就是在这样一个时代中为数不多拥有古魔法能力的魔法师，他的准确年龄无人知晓，有传言说他手中的那本魔法书拥有让人永生的秘密。",
+  "last_updatetime": 1461565486,
+  "last_update_chapter_name": "第01话",
+  "copyright": 1,
+  "first_letter": "l",
+  "comic_py": "laiendemofa",
+  "hidden": 0,
+  "hot_num": 80983,
+  "hit_num": 3836550,
+  "uid": 101178220,
+  "is_lock": 0,
+  "last_update_chapter_id": 53300,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11721,
+      "tag_name": "sipiki"
+    }
+  ],
+  "subscribe_num": 866,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 53300,
+          "chapter_title": "1话",
+          "updatetime": 1461565486,
+          "filesize": 5085140,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 5410071,
+        "uid": 105787512,
+        "content": "两年更新一话，成功打消了我订阅的念头",
+        "createtime": 1530591703,
+        "nickname": "悠闲自在的秋刀鱼",
+        "avatar": "https://avatar.dmzj.com/88/59/8859917f2bb989df09dc78de3a9c22a3.png"
+      },
+      {
+        "comment_id": 3208519,
+        "uid": 26109752,
+        "content": "很不错，就是图的清晰度有点低啊",
+        "createtime": 1509503881,
+        "nickname": "叶逸0",
+        "avatar": "https://avatar.dmzj.com/1a/ae/1aae3554d235a07ee41ad4a4b69b397e.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

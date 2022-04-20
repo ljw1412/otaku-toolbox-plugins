@@ -1,0 +1,72 @@
+{
+  "id": 30750,
+  "islong": 2,
+  "direction": 2,
+  "title": "昆虫学园",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1009813561457949341.jpg",
+  "description": "在丛林中生活着这样一群可爱逗逼的昆虫孩子们。",
+  "last_updatetime": 1458968339,
+  "copyright": 1,
+  "first_letter": "k",
+  "hot_num": 1623,
+  "hit_num": 16161,
+  "uid": 100981356,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11515,
+      "tag_name": "明漫天下"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52123,
+          "chapter_title": "3话",
+          "updatetime": 1458968339,
+          "filesize": 832085,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 51743,
+          "chapter_title": "2话",
+          "updatetime": 1458005597,
+          "filesize": 890080,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 51733,
+          "chapter_title": "1话",
+          "updatetime": 1457949522,
+          "filesize": 932652,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "呦吼~感谢支持嗷嗷嗷",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

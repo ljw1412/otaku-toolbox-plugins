@@ -1,0 +1,82 @@
+{
+  "id": 3361,
+  "islong": 2,
+  "direction": 1,
+  "title": "快乐天堂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/001_b1d18603c43447cb4b5f0090399c6771.jpg",
+  "description": "小琉从小就失去父母,16年来她一直和父亲相依为命。然而父亲却为了躲债而潜逃失踪了！为了生活,小琉便和冰浦家的美形3兄弟展开一段温馨甜蜜的家庭生活……",
+  "last_updatetime": 1274163218,
+  "last_update_chapter_name": "VOL02",
+  "copyright": 0,
+  "first_letter": "k",
+  "comic_py": "kltt",
+  "hidden": 0,
+  "hot_num": 22807,
+  "hit_num": 965839,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 6558,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2012,
+      "tag_name": "宝田妃世"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 106,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6558,
+          "chapter_title": "2卷",
+          "updatetime": 1274768018,
+          "filesize": 15138580,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 6557,
+          "chapter_title": "1卷",
+          "updatetime": 1274768018,
+          "filesize": 16292460,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 23493269,
+        "uid": 101850108,
+        "content": "感觉还可以",
+        "createtime": 1579923213,
+        "nickname": "师太不要啊",
+        "avatar": "https://avatar.dmzj.com/d1/fb/d1fbda2415f0698599be8efc137e86ac.png"
+      },
+      {
+        "comment_id": 20604074,
+        "uid": 100875440,
+        "content": "留爪",
+        "createtime": 1569378633,
+        "nickname": "CN 丶Holmes",
+        "avatar": "https://avatar.dmzj.com/bb/05/bb0506ee306863ca4c6ac948041d7fbd.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

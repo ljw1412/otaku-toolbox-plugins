@@ -1,0 +1,63 @@
+{
+  "id": 37645,
+  "islong": 2,
+  "direction": 2,
+  "title": "神州无疆1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391468316598.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1468316609,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 817,
+  "hit_num": 1730,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56579,
+          "chapter_title": "1话",
+          "updatetime": 1468316609,
+          "filesize": 311821,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 14053936,
+        "uid": 108213471,
+        "content": "就很好",
+        "createtime": 1554877227,
+        "nickname": "墨夷邸茶",
+        "avatar": "https://avatar.dmzj.com/85/93/8593e03a6398b0e6f95ca184b3f7ebd9.png"
+      }
+    ]
+  }
+}

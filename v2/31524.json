@@ -1,0 +1,100 @@
+{
+  "id": 31524,
+  "islong": 2,
+  "direction": 2,
+  "title": "致水壶",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1001540991459179208.jpg",
+  "description": "老大哥在看着你",
+  "last_updatetime": 1459179945,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 1826,
+  "hit_num": 13474,
+  "uid": 100154099,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9265,
+      "tag_name": "壹小撮"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48281,
+          "chapter_title": "4话",
+          "updatetime": 1459179945,
+          "filesize": 635265,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 48280,
+          "chapter_title": "3话",
+          "updatetime": 1459179842,
+          "filesize": 467040,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 48279,
+          "chapter_title": "2话",
+          "updatetime": 1459179755,
+          "filesize": 602443,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 48278,
+          "chapter_title": "1话",
+          "updatetime": 1459179650,
+          "filesize": 537375,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "微博：壹小撮 ，欢迎交流~",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 15490051,
+        "uid": 101260440,
+        "content": "不错，好看",
+        "createtime": 1557194180,
+        "nickname": "水蓝汪之眸",
+        "avatar": "https://avatar.dmzj.com/20/20/20206d09b21d17e7a0b8b7feee424c63.png"
+      },
+      {
+        "comment_id": 3265171,
+        "uid": 102133133,
+        "content": "沙发",
+        "createtime": 1510244248,
+        "nickname": "770101549",
+        "avatar": "https://avatar.dmzj.com/b5/e2/b5e2fff4c0997eefcf27c59cda4f3786.png"
+      }
+    ]
+  }
+}

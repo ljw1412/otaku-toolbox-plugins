@@ -1,0 +1,75 @@
+{
+  "id": 38992,
+  "islong": 2,
+  "direction": 1,
+  "title": "冬天的邻居",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/domgtiandelinju.jpg",
+  "description": "这份爱恋不需要这种无畏的戏剧性……",
+  "last_updatetime": 1476286039,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "dongtiandelinju",
+  "hidden": 0,
+  "hot_num": 110607,
+  "hit_num": 288902,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 59075,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12514,
+      "tag_name": "矢岛冬美"
+    }
+  ],
+  "subscribe_num": 1714,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59075,
+          "chapter_title": "1话",
+          "updatetime": 1476286039,
+          "filesize": 3763683,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 42,
+    "latest_comment": [
+      {
+        "comment_id": 24338314,
+        "uid": 107592103,
+        "content": "好看",
+        "createtime": 1582182524,
+        "nickname": "refrain105",
+        "avatar": "https://avatar.dmzj.com/38/05/3805a9265e7831c33cbad417c196e9ee.png"
+      },
+      {
+        "comment_id": 22488287,
+        "uid": 108868212,
+        "content": "短篇也没有？可以认定真的是第二个步卡的结局了",
+        "createtime": 1575625535,
+        "nickname": "dmzj_108868212",
+        "avatar": "https://avatar.dmzj.com/53/34/5334716ccb5ec6b2f3424d3da2661423.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

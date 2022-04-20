@@ -1,0 +1,94 @@
+{
+  "id": 3853,
+  "islong": 2,
+  "direction": 1,
+  "title": "Auentura魔法少年",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/auentura.jpg",
+  "description": "“盖亚斯魔法学院”的创立，是为了培养下一个世代的新魔导士。就读这所学院的少年路文，因为不会魔法，每每遭班上同学排挤… 这样的他，在一次意外机缘中，认识了其他部门的学生克利斯和苏爱菈。认识他们之后，世界也逐渐变得宽广…然而，一个意想不到的事件，正等着他们！",
+  "last_updatetime": 1276332680,
+  "copyright": 0,
+  "first_letter": "a",
+  "hot_num": 119763,
+  "hit_num": 1511447,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2324,
+      "tag_name": "翠川森"
+    }
+  ],
+  "subscribe_num": 606,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8893,
+          "chapter_title": "5卷",
+          "updatetime": 1276332730,
+          "filesize": 19965849,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 8891,
+          "chapter_title": "3卷",
+          "updatetime": 1276332723,
+          "filesize": 15184208,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 8890,
+          "chapter_title": "2卷",
+          "updatetime": 1276332718,
+          "filesize": 16575447,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8889,
+          "chapter_title": "1卷",
+          "updatetime": 1276332715,
+          "filesize": 17605511,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 28585825,
+        "uid": 108324172,
+        "content": "我戳",
+        "createtime": 1593591762,
+        "nickname": "dmzj_108324172",
+        "avatar": "https://avatar.dmzj.com/39/93/399337e6b840a6f7b9686c2f70e27954.png"
+      },
+      {
+        "comment_id": 28523114,
+        "uid": 108324172,
+        "content": "e",
+        "createtime": 1593371197,
+        "nickname": "dmzj_108324172",
+        "avatar": "https://avatar.dmzj.com/39/93/399337e6b840a6f7b9686c2f70e27954.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": 29991,
+  "islong": 1,
+  "direction": 2,
+  "title": "鸡同兔讲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/3/1456911404.jpg",
+  "description": "鸡同兔讲",
+  "last_updatetime": 1456911605,
+  "copyright": 1,
+  "first_letter": "j",
+  "hot_num": 1225,
+  "hit_num": 4673,
+  "uid": 100864363,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11457,
+      "tag_name": "兔爷动漫"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49172,
+          "chapter_title": "10话",
+          "updatetime": 1456911605,
+          "filesize": 221871,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 49171,
+          "chapter_title": "9话",
+          "updatetime": 1456911588,
+          "filesize": 175283,
+          "chapter_order": 9
+        },
+        {
+          "chapter_id": 49170,
+          "chapter_title": "8话",
+          "updatetime": 1456911573,
+          "filesize": 136635,
+          "chapter_order": 8
+        },
+        {
+          "chapter_id": 49169,
+          "chapter_title": "7话",
+          "updatetime": 1456911556,
+          "filesize": 173857,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 49168,
+          "chapter_title": "6话",
+          "updatetime": 1456911539,
+          "filesize": 232883,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 49167,
+          "chapter_title": "5话",
+          "updatetime": 1456911524,
+          "filesize": 159003,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 49166,
+          "chapter_title": "4话",
+          "updatetime": 1456911506,
+          "filesize": 158221,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 49165,
+          "chapter_title": "3话",
+          "updatetime": 1456911489,
+          "filesize": 169191,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 49164,
+          "chapter_title": "2话",
+          "updatetime": 1456911474,
+          "filesize": 139754,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 49163,
+          "chapter_title": "1话",
+          "updatetime": 1456911452,
+          "filesize": 262785,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

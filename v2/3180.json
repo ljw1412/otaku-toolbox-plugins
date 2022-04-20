@@ -1,0 +1,76 @@
+{
+  "id": 3180,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔法鞋店",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/mofaxueziwu.jpg",
+  "description": "那条街上，聚集了想实现愿望的人们，那里有家不可思议的鞋店…… ",
+  "last_updatetime": 1373276601,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 158479,
+  "hit_num": 1907189,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 184,
+      "tag_name": "酒井真由"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 906,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9108,
+          "chapter_title": "1话",
+          "updatetime": 1274201336,
+          "filesize": 6853891,
+          "chapter_order": 10
+        },
+        {
+          "chapter_id": 24053,
+          "chapter_title": "1卷",
+          "updatetime": 1373276601,
+          "filesize": 13943132,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 9198717,
+        "uid": 101279254,
+        "content": "找漫画",
+        "createtime": 1545196784,
+        "nickname": "灼眼の佐手牵鼬手",
+        "avatar": "https://avatar.dmzj.com/63/45/6345b9eae25f95d838a79847bfe050fe.png"
+      },
+      {
+        "comment_id": 1120741,
+        "uid": 100208219,
+        "content": "总算有个故事有点爱情",
+        "createtime": 1470478668,
+        "nickname": "LITTLE。",
+        "avatar": "https://avatar.dmzj.com/95/6b/956b0484bdb71237f1d044499798918a.png"
+      }
+    ]
+  }
+}

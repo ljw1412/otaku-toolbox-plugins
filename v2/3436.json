@@ -1,0 +1,79 @@
+{
+  "id": 3436,
+  "islong": 2,
+  "direction": 1,
+  "title": "遗产怪盗",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/ldl01_f88b96bd1338d12310533eeb374d72e8.jpg",
+  "description": "LEGACY=遗产,自古以来流传至今,蕴藏先人灵魂,以各种形态存在的物品.或被有、据以为实.或被亲如尘土....而深究此道,契而不舍追寻遗产并能释放其力量之人,世人趁之为LEGACYDOG",
+  "last_updatetime": 1274260535,
+  "last_update_chapter_name": "VOL01",
+  "copyright": 0,
+  "first_letter": "y",
+  "comic_py": "ycgd",
+  "hidden": 0,
+  "hot_num": 15404,
+  "hit_num": 479582,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 6685,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2040,
+      "tag_name": "竹山祐右"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 75,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6685,
+          "chapter_title": "1卷",
+          "updatetime": 1274865335,
+          "filesize": 21433720,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 27096291,
+        "uid": 108123026,
+        "content": "不错",
+        "createtime": 1588585223,
+        "nickname": "dmzj_108123026",
+        "avatar": "https://avatar.dmzj.com/86/20/8620c47d00f60974059e0fb38ecf42ae.png"
+      },
+      {
+        "comment_id": 50526,
+        "uid": 8311236,
+        "content": "不错不错",
+        "createtime": 1331462697,
+        "nickname": "xdmlyzyx",
+        "avatar": "https://avatar.dmzj.com/6f/64/6f645dc34ede324683acf7f30dc7e6ac.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

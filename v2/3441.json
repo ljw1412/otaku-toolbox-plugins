@@ -1,0 +1,80 @@
+{
+  "id": 3441,
+  "islong": 2,
+  "direction": 1,
+  "title": "怪盗千面人",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/0204052121_41512.jpg",
+  "description": "一位幸福的小女孩，渴望浪漫的爱情能降临，而皇天不负苦心人，她终于遇见梦寐以求的白马王子。 谁知此人竟是一个无所不偷的侠盗，她该如何是好？",
+  "last_updatetime": 1274261930,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 1552995,
+  "hit_num": 635422,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 9,
+      "tag_name": "侦探"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 134,
+      "tag_name": "CLAMP"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 7763,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6687,
+          "chapter_title": "2卷",
+          "updatetime": 1274866730,
+          "filesize": 10543010,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 6686,
+          "chapter_title": "1卷",
+          "updatetime": 1274866739,
+          "filesize": 12686140,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 11,
+    "latest_comment": [
+      {
+        "comment_id": 26144240,
+        "uid": 109346907,
+        "content": "封面儿异常的扭曲。",
+        "createtime": 1586166466,
+        "nickname": "梨刁",
+        "avatar": "https://avatar.dmzj.com/59/49/5949e7260b55e1c958a40317a0911bde.png"
+      },
+      {
+        "comment_id": 16004938,
+        "uid": 105984933,
+        "content": "这也太模糊了吧，根本没办法看",
+        "createtime": 1558022150,
+        "nickname": "月光下的白色怪盗",
+        "avatar": "https://avatar.dmzj.com/36/84/36841c1f209e367777039ccacd321dfe.png"
+      }
+    ]
+  }
+}

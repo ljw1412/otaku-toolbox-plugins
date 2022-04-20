@@ -1,0 +1,52 @@
+{
+  "id": 39292,
+  "islong": 2,
+  "direction": 1,
+  "title": "漫画特攻队",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/manhuategongdui.jpg",
+  "description": "超·热血漫画教师曾建华。倾其多年漫画创作功力，以活泼有趣、深入浅出的教学方式，让想提笔创作的你快速上手优游于漫画国度。",
+  "last_updatetime": 1480297223,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 2170,
+  "hit_num": 7598,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12664,
+      "tag_name": "曾建华"
+    }
+  ],
+  "subscribe_num": 10,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 60458,
+          "chapter_title": "1卷",
+          "updatetime": 1480297223,
+          "filesize": 6227144,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

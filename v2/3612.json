@@ -1,0 +1,65 @@
+{
+  "id": 3612,
+  "islong": 2,
+  "direction": 1,
+  "title": "青春天国",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/001_4ad120655790620f8a9a829fcd1d48c2.jpg",
+  "description": "高须贺由枝=的短篇漫画《青春天国》许愿树下的我们~~",
+  "last_updatetime": 1274954329,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 56286,
+  "hit_num": 280692,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 203,
+      "tag_name": "高须贺由枝"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 304,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8825,
+          "chapter_title": "1话",
+          "updatetime": 1275559129,
+          "filesize": 3788687,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 674106,
+        "uid": 100609284,
+        "content": "呵呵",
+        "createtime": 1458044854,
+        "nickname": "我觉得你说的有点过哦",
+        "avatar": "https://avatar.dmzj.com/19/72/1972414ade04d0b18a4cfc9ebd166e92.png"
+      }
+    ]
+  }
+}

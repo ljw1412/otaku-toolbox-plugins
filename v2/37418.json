@@ -1,0 +1,83 @@
+{
+  "id": 37418,
+  "islong": 2,
+  "direction": 2,
+  "title": "斯卡利特",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/sikaleitefengmianl.jpg",
+  "description": "斯卡利特的世界在她经历过人生中最浪漫的时刻之后崩坏了，在询问自己为什么一切会变成这样之后，她决定去阻止一切……",
+  "last_updatetime": 1506942153,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 63076,
+  "hit_num": 165397,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8602,
+      "tag_name": "Icon Comics"
+    }
+  ],
+  "subscribe_num": 391,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 63652,
+          "chapter_title": "3卷",
+          "updatetime": 1506942153,
+          "filesize": 7618101,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 53857,
+          "chapter_title": "2卷",
+          "updatetime": 1475315680,
+          "filesize": 7001102,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 51344,
+          "chapter_title": "1卷",
+          "updatetime": 1467979026,
+          "filesize": 6546532,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 17,
+    "latest_comment": [
+      {
+        "comment_id": 29308439,
+        "uid": 109767443,
+        "content": "后面为啥没更啦",
+        "createtime": 1596017072,
+        "nickname": "Hyggy",
+        "avatar": "https://avatar.dmzj.com/2e/80/2e802efbc12d2bbe820469b88b01c683.png"
+      },
+      {
+        "comment_id": 6851772,
+        "uid": 106297487,
+        "content": "斯卡利特不是神庙逃亡2上的吗",
+        "createtime": 1537096577,
+        "nickname": "PandaK",
+        "avatar": "https://avatar.dmzj.com/36/48/36486e3ba58ff786176165a109597db1.png"
+      }
+    ]
+  }
+}

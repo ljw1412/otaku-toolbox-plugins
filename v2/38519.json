@@ -1,0 +1,121 @@
+{
+  "id": 38519,
+  "islong": 1,
+  "direction": 2,
+  "title": "芝麻得不到",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/4/1019405641471344800.jpg",
+  "description": "屌丝狗芝麻和高富帅面条，和小弟大饼的日常",
+  "last_updatetime": 1472466598,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 2152,
+  "hit_num": 8266,
+  "uid": 101940564,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12301,
+      "tag_name": "一犬一画"
+    }
+  ],
+  "subscribe_num": 37,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54069,
+          "chapter_title": "7话",
+          "updatetime": 1472466598,
+          "filesize": 124776,
+          "chapter_order": 8
+        },
+        {
+          "chapter_id": 53955,
+          "chapter_title": "7话",
+          "updatetime": 1472033233,
+          "filesize": 119375,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 53787,
+          "chapter_title": "5话",
+          "updatetime": 1471596177,
+          "filesize": 108844,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 53790,
+          "chapter_title": "4话",
+          "updatetime": 1471595737,
+          "filesize": 121752,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 53725,
+          "chapter_title": "3话",
+          "updatetime": 1471428662,
+          "filesize": 40884,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 53687,
+          "chapter_title": "2话",
+          "updatetime": 1471345061,
+          "filesize": 170079,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 53686,
+          "chapter_title": "1话",
+          "updatetime": 1471344970,
+          "filesize": 136810,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "关于第四话，恩，大概芝麻他们的智商全部用在怎么偷吃，怎么开门出去玩和睡上了..",
+  "comic_notice": "关注公众号“一犬一话”，所有关于狗狗的好东西都在这里",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 1228388,
+        "uid": 101932625,
+        "content": "……",
+        "createtime": 1472471435,
+        "nickname": "知我者谓我有",
+        "avatar": "https://avatar.dmzj.com/b6/07/b607a5b73931199bb25d440cf7d7731e.png"
+      },
+      {
+        "comment_id": 1173778,
+        "uid": 100302356,
+        "content": "一个朋友就叫芝麻",
+        "createtime": 1471431476,
+        "nickname": "真是poi了狗",
+        "avatar": "https://avatar.dmzj.com/41/bb/41bbc2150758b81c4ba64540361d04c0.png"
+      }
+    ]
+  }
+}

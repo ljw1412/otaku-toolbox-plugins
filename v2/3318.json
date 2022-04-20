@@ -1,0 +1,108 @@
+{
+  "id": 3318,
+  "islong": 2,
+  "direction": 1,
+  "title": "DANDAN入樽王",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/dandan_vol_1_001_d2eb7da33c84c9086fb3eb7d0897ed71.jpg",
+  "description": "立志成为NBA超级巨星的小学生的故事。",
+  "last_updatetime": 1475733559,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 9070,
+  "hit_num": 390221,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1975,
+      "tag_name": "户田胜之"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 49,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 53973,
+          "chapter_title": "7卷",
+          "updatetime": 1475733559,
+          "filesize": 21834132,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 53972,
+          "chapter_title": "6卷",
+          "updatetime": 1475733525,
+          "filesize": 21329748,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 53971,
+          "chapter_title": "5卷",
+          "updatetime": 1475733489,
+          "filesize": 20359444,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 8164,
+          "chapter_title": "4卷",
+          "updatetime": 1274694548,
+          "filesize": 12882748,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 8163,
+          "chapter_title": "3卷",
+          "updatetime": 1274694548,
+          "filesize": 12939752,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 8161,
+          "chapter_title": "1卷",
+          "updatetime": 1274694548,
+          "filesize": 22456948,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 1349279,
+        "uid": 100982160,
+        "content": "这个真心久远",
+        "createtime": 1475772219,
+        "nickname": "文jie",
+        "avatar": "https://avatar.dmzj.com/6a/eb/6aeba72b309728ba81a557f88d572ed1.png"
+      },
+      {
+        "comment_id": 1348842,
+        "uid": 26284203,
+        "content": "话说第二卷去哪了。。。。。",
+        "createtime": 1475766966,
+        "nickname": "拉面断了",
+        "avatar": "https://avatar.dmzj.com/29/21/2921bb8e01832906a7af819958126b5b.png"
+      }
+    ]
+  }
+}

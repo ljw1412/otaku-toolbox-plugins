@@ -1,0 +1,115 @@
+{
+  "id": 31906,
+  "islong": 2,
+  "direction": 1,
+  "title": "舰娘同盟",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/jianniangtongmeng.jpg",
+  "description": "钢铁与少女们交错而发生的故事。",
+  "last_updatetime": 1501566879,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 105882,
+  "hit_num": 410147,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11634,
+      "tag_name": "spooky house"
+    }
+  ],
+  "subscribe_num": 958,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 66322,
+          "chapter_title": "5话",
+          "updatetime": 1501566880,
+          "filesize": 5696859,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 51623,
+          "chapter_title": "4.2话",
+          "updatetime": 1462070487,
+          "filesize": 3642323,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 51493,
+          "chapter_title": "4.1话",
+          "updatetime": 1461811164,
+          "filesize": 1803646,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 51230,
+          "chapter_title": "3.2话",
+          "updatetime": 1461115964,
+          "filesize": 1663545,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 50975,
+          "chapter_title": "3.1话",
+          "updatetime": 1460598457,
+          "filesize": 1282643,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 50759,
+          "chapter_title": "2话",
+          "updatetime": 1460165290,
+          "filesize": 2450942,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 50660,
+          "chapter_title": "1话",
+          "updatetime": 1460083959,
+          "filesize": 1971723,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 79,
+    "latest_comment": [
+      {
+        "comment_id": 6336004,
+        "uid": 101783764,
+        "content": "求更新",
+        "createtime": 1534563516,
+        "nickname": "红魔馆核平协会",
+        "avatar": "https://avatar.dmzj.com/00/6a/006aadf76eeb21a8a14dc987f8fb3e68.png"
+      },
+      {
+        "comment_id": 4400505,
+        "uid": 106523060,
+        "content": "多久更一集呀？",
+        "createtime": 1523987857,
+        "nickname": "dmzj_106523060",
+        "avatar": "https://avatar.dmzj.com/bc/87/bc87a5e9a6e84f6bb1ed502eb929a788.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 3661,
+  "islong": 2,
+  "direction": 1,
+  "title": "公主养成法",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/01_a42868e1f069742e3543b93d22123d98.jpg",
+  "description": "短篇漫画",
+  "last_updatetime": 1275031809,
+  "last_update_chapter_name": "CH01",
+  "copyright": 0,
+  "first_letter": "g",
+  "comic_py": "gzycf",
+  "hidden": 0,
+  "hot_num": 14919,
+  "hit_num": 220048,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 7090,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 99,
+      "tag_name": "和泉明日香"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 52,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 7090,
+          "chapter_title": "1话",
+          "updatetime": 1275636609,
+          "filesize": 2802911,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 299630,
+        "uid": 27013366,
+        "content": "看过 /c不爽 ",
+        "createtime": 1412473803,
+        "nickname": "逝去的时光吧",
+        "avatar": "https://avatar.dmzj.com/6c/63/6c63778062c6165c0dd640a92bcf33da.png"
+      },
+      {
+        "comment_id": 150498,
+        "uid": 23736997,
+        "content": "沙发。。。",
+        "createtime": 1377410195,
+        "nickname": "绘阳",
+        "avatar": "https://avatar.dmzj.com/72/84/728493749acd071266879c234260e320.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

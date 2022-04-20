@@ -1,0 +1,98 @@
+{
+  "id": 3456,
+  "islong": 2,
+  "direction": 1,
+  "title": "执勤时没有发现异常状况",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/xlzmyyczk.jpg",
+  "description": "不管任何事件都交给羽织来解决吧！（？）",
+  "last_updatetime": 1274954551,
+  "copyright": 0,
+  "first_letter": "z",
+  "hot_num": 94866,
+  "hit_num": 462975,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2073,
+      "tag_name": "かずみ義幸"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 476,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6708,
+          "chapter_title": "4话",
+          "updatetime": 1274954551,
+          "filesize": 2443951,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 6707,
+          "chapter_title": "3话",
+          "updatetime": 1274954531,
+          "filesize": 2049119,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 6706,
+          "chapter_title": "2话",
+          "updatetime": 1274954517,
+          "filesize": 1621027,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 6705,
+          "chapter_title": "1话",
+          "updatetime": 1274954506,
+          "filesize": 2009676,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 33,
+    "latest_comment": [
+      {
+        "comment_id": 29040583,
+        "uid": 106989748,
+        "content": "\\小萝莉/\\小萝莉/\\小萝莉/",
+        "createtime": 1595068327,
+        "nickname": "涅音梦",
+        "avatar": "https://avatar.dmzj.com/85/96/8596d62a4cb727be35015dd27d2d6675.png"
+      },
+      {
+        "comment_id": 27656498,
+        "uid": 102367455,
+        "content": "异常者的爱",
+        "createtime": 1590336058,
+        "nickname": "Espectador",
+        "avatar": "https://avatar.dmzj.com/99/92/99927de6f3c658cd7e6110a5b797929c.png"
+      }
+    ]
+  }
+}

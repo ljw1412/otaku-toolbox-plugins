@@ -1,0 +1,103 @@
+{
+  "id": 33055,
+  "islong": 2,
+  "direction": 1,
+  "title": "剧场版少女战车漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/junchangbanshaonvzhanche.jpg",
+  "description": "少女战车同人  军神切开都是黑的",
+  "last_updatetime": 1478598661,
+  "last_update_chapter_name": "twitter涂鸦2",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "juchangbanshaonvzhanchemanhua",
+  "hidden": 0,
+  "hot_num": 87611,
+  "hit_num": 153866,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 60258,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11503,
+      "tag_name": "天沢夏久 "
+    }
+  ],
+  "subscribe_num": 1194,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 60258,
+          "chapter_title": "twitter涂鸦2",
+          "updatetime": 1478598661,
+          "filesize": 748436,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 59297,
+          "chapter_title": "twitter涂鸦",
+          "updatetime": 1475291214,
+          "filesize": 355996,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 54797,
+          "chapter_title": "11话",
+          "updatetime": 1465051620,
+          "filesize": 327136,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 53898,
+          "chapter_title": "6话",
+          "updatetime": 1463144498,
+          "filesize": 328505,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 53277,
+          "chapter_title": "1话",
+          "updatetime": 1461513129,
+          "filesize": 343220,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 37,
+    "latest_comment": [
+      {
+        "comment_id": 28373675,
+        "uid": 111114002,
+        "content": "大吉岭从第一话憋到了第六话？！",
+        "createtime": 1592895510,
+        "nickname": "dmzj_111114002",
+        "avatar": "https://avatar.dmzj.com/41/ee/41eea9ad1e5543ad217cf0eedbf706a2.png"
+      },
+      {
+        "comment_id": 23973348,
+        "uid": 108529860,
+        "content": "nice1",
+        "createtime": 1581328134,
+        "nickname": "阴影之下",
+        "avatar": "https://avatar.dmzj.com/20/48/2048d494843a08967a91e21beefa020e.png"
+      }
+    ]
+  },
+  "is_need_login": 1
+}

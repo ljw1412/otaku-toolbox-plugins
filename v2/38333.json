@@ -1,0 +1,73 @@
+{
+  "id": 38333,
+  "islong": 2,
+  "direction": 1,
+  "title": "八十龟酱观察日记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/bashiguiguanchariji.jpg",
+  "description": "Twitter上大人气作品“直率的名古屋方言女孩的四格漫画”终于开始连载！",
+  "last_updatetime": 1469762793,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 252134,
+  "hit_num": 74439,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12197,
+      "tag_name": "安藤正基"
+    }
+  ],
+  "subscribe_num": 2796,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52022,
+          "chapter_title": "1话",
+          "updatetime": 1469762793,
+          "filesize": 3311288,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 55,
+    "latest_comment": [
+      {
+        "comment_id": 25816871,
+        "uid": 100608709,
+        "content": "怎么才一集？单行本不是出了好多了吗",
+        "createtime": 1585474767,
+        "nickname": "司徒风轩",
+        "avatar": "https://avatar.dmzj.com/53/e5/53e5ec7356393a247d8fa6db8fd8dee3.png"
+      },
+      {
+        "comment_id": 24901518,
+        "uid": 110545326,
+        "content": "有动画的啊",
+        "createtime": 1583396460,
+        "nickname": "月下的真实",
+        "avatar": "https://avatar.dmzj.com/69/33/693316d5f8c3b5817607ef1b52e65d10.png"
+      }
+    ]
+  }
+}

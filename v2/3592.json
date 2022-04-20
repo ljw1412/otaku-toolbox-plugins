@@ -1,0 +1,73 @@
+{
+  "id": 3592,
+  "islong": 2,
+  "direction": 1,
+  "title": "我家的妹妹不可能这么好玩",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/006.jpg",
+  "description": "很邪恶的四个短篇，怪蜀黍们围观吧。",
+  "last_updatetime": 1275536564,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 51405,
+  "hit_num": 970950,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2163,
+      "tag_name": "Clone.Manga"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 166,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8812,
+          "chapter_title": "短篇",
+          "updatetime": 1275536557,
+          "filesize": 2115131,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 34,
+    "latest_comment": [
+      {
+        "comment_id": 29895328,
+        "uid": 110771315,
+        "content": "留",
+        "createtime": 1598206227,
+        "nickname": "赶尸人",
+        "avatar": "https://avatar.dmzj.com/a9/87/a987ce6dc684e43a21e39237309816e3.png"
+      },
+      {
+        "comment_id": 23296528,
+        "uid": 101106415,
+        "content": "哈哈哈，真好玩",
+        "createtime": 1579080769,
+        "nickname": "Rubia Elstein",
+        "avatar": "https://avatar.dmzj.com/79/52/79526762d782a3999e27ecae95129d19.png"
+      }
+    ]
+  }
+}

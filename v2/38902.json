@@ -1,0 +1,87 @@
+{
+  "id": 38902,
+  "islong": 2,
+  "direction": 1,
+  "title": "我心予妳",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/woxinyuniV1.jpg",
+  "description": "丧失，填满，继承下去的思念。这是有所欠缺的少女们的故事——",
+  "last_updatetime": 1495367486,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 950707,
+  "hit_num": 858102,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12478,
+      "tag_name": "match"
+    }
+  ],
+  "subscribe_num": 5820,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65398,
+          "chapter_title": "3话",
+          "updatetime": 1495367486,
+          "filesize": 3147468,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 60401,
+          "chapter_title": "2话",
+          "updatetime": 1480148081,
+          "filesize": 2843587,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 58759,
+          "chapter_title": "1话",
+          "updatetime": 1475372990,
+          "filesize": 4063867,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 252,
+    "latest_comment": [
+      {
+        "comment_id": 28053054,
+        "uid": 101306328,
+        "content": "百合訂閱",
+        "createtime": 1591739572,
+        "nickname": "利兹与青",
+        "avatar": "https://avatar.dmzj.com/42/39/423945466fe4a5eb25c63abe354cd3e6.png"
+      },
+      {
+        "comment_id": 27291744,
+        "uid": 106201259,
+        "content": "喔——是“物理”，“我心予你”【万能表情】",
+        "createtime": 1589183721,
+        "nickname": "铭银",
+        "avatar": "https://avatar.dmzj.com/64/77/647763b2abb6d9e951c89df62dfe52cf.png"
+      }
+    ]
+  }
+}

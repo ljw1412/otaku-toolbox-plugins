@@ -1,0 +1,77 @@
+{
+  "id": 39184,
+  "islong": 2,
+  "direction": 1,
+  "title": "RYOKO",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/161111ryokofml.jpg",
+  "description": "周刊少年sunday的美食冒险新连载。sunday史上唯一获得SSS赏大赛获奖作！\n讲述在蔬菜和动物都变异的世界里，女子高生为了生存而上演之狩猎捕捉的壮阔美食大冒险！",
+  "last_updatetime": 1478858835,
+  "copyright": 0,
+  "first_letter": "r",
+  "hot_num": 79087,
+  "hit_num": 208482,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3327,
+      "tag_name": "美食"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12615,
+      "tag_name": "三ツ桥快人"
+    }
+  ],
+  "subscribe_num": 1560,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56450,
+          "chapter_title": "1话",
+          "updatetime": 1478858835,
+          "filesize": 5429281,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 44,
+    "latest_comment": [
+      {
+        "comment_id": 29377024,
+        "uid": 101940837,
+        "content": "佳作预订",
+        "createtime": 1596268817,
+        "nickname": "林檎之花",
+        "avatar": "https://avatar.dmzj.com/69/74/69747f8ceb0a26c02a555ac4d4ba75bb.png"
+      },
+      {
+        "comment_id": 25440099,
+        "uid": 100356859,
+        "content": "看看",
+        "createtime": 1584593720,
+        "nickname": "我是单脚站立的稻草人",
+        "avatar": "https://avatar.dmzj.com/36/78/36786acbdf778a3562771ff755090e01.png"
+      }
+    ]
+  }
+}

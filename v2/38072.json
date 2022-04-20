@@ -1,0 +1,71 @@
+{
+  "id": 38072,
+  "islong": 2,
+  "direction": 2,
+  "title": "波塞冬之吻3",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391468906695.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1468906708,
+  "copyright": 1,
+  "first_letter": "b",
+  "hot_num": 821,
+  "hit_num": 1327,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56493,
+          "chapter_title": "1话",
+          "updatetime": 1468906708,
+          "filesize": 192613,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1980705,
+        "uid": 101616754,
+        "content": "诶，第二个还是我么",
+        "createtime": 1490791213,
+        "nickname": "秦休",
+        "avatar": "https://avatar.dmzj.com/5d/db/5ddbdf9b87cc3ac5e9233bfc5bd1970f.png"
+      },
+      {
+        "comment_id": 1048501,
+        "uid": 101616754,
+        "content": "第一个",
+        "createtime": 1469174008,
+        "nickname": "秦休",
+        "avatar": "https://avatar.dmzj.com/5d/db/5ddbdf9b87cc3ac5e9233bfc5bd1970f.png"
+      }
+    ]
+  }
+}

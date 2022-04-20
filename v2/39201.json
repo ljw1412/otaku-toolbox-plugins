@@ -1,0 +1,79 @@
+{
+  "id": 39201,
+  "islong": 1,
+  "direction": 2,
+  "title": "幼稚园二三事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1023150091479094312.jpg",
+  "description": "幼稚园卖萌小日常",
+  "last_updatetime": 1479094390,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 8928,
+  "hit_num": 106968,
+  "uid": 102315009,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12624,
+      "tag_name": "胖球pangball"
+    }
+  ],
+  "subscribe_num": 163,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 58891,
+          "chapter_title": "1话",
+          "updatetime": 1479094390,
+          "filesize": 473148,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 1505027,
+        "uid": 102250715,
+        "content": "多久更新一次啊？期待(๑˙ー˙๑)",
+        "createtime": 1480129931,
+        "nickname": "Achernar5",
+        "avatar": "https://avatar.dmzj.com/f4/4a/f44a6061d1060250349f6600872e5ee1.png"
+      },
+      {
+        "comment_id": 1471678,
+        "uid": 100777981,
+        "content": "耽美，这是何等的卧槽啊",
+        "createtime": 1479206313,
+        "nickname": "BVHGFTH",
+        "avatar": "https://avatar.dmzj.com/84/de/84def29acf2279376d8eb3d2498f8b6b.png"
+      }
+    ]
+  }
+}

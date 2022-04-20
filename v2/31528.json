@@ -1,0 +1,78 @@
+{
+  "id": 31528,
+  "islong": 2,
+  "direction": 2,
+  "title": "devil",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1010325321459142020.jpg",
+  "description": "在一座城市里的三人的普通日常",
+  "last_updatetime": 1460815689,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 2968,
+  "hit_num": 86713,
+  "uid": 101032532,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11597,
+      "tag_name": "moekao"
+    }
+  ],
+  "subscribe_num": 30,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48306,
+          "chapter_title": "1话",
+          "updatetime": 1460815689,
+          "filesize": 3399081,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 47631,
+          "chapter_title": "0话",
+          "updatetime": 1459142286,
+          "filesize": 1475257,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 739195,
+        "uid": 100915647,
+        "content": "这美妙的草稿画风…不过感觉剧情还可以！www",
+        "createtime": 1460896427,
+        "nickname": "PIPA_小豆",
+        "avatar": "https://avatar.dmzj.com/fe/45/fe4505f8f7b9df097da820f0ec4e671e.png"
+      },
+      {
+        "comment_id": 699399,
+        "uid": 100527194,
+        "content": "简介欺诈 漫画内容和日常两个字完全八竿子打不着",
+        "createtime": 1459247125,
+        "nickname": "人民公敌",
+        "avatar": "https://avatar.dmzj.com/6b/2d/6b2db19063e8979e0e86dcc1b87b099b.png"
+      }
+    ]
+  }
+}

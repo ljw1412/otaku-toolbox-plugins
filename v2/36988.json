@@ -1,0 +1,80 @@
+{
+  "id": 36988,
+  "islong": 2,
+  "direction": 2,
+  "title": "奇异博士电影前奏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/qiyiboshiqianzou.jpg",
+  "description": "本期主角正是电影里的大反派卡西里奥斯，也许反派黑化的秘密就和本期出现的神器有关？",
+  "last_updatetime": 1472188593,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 13896,
+  "hit_num": 240842,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3365,
+      "tag_name": "西方魔幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 395,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52836,
+          "chapter_title": "2卷",
+          "updatetime": 1472188593,
+          "filesize": 3971605,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 51214,
+          "chapter_title": "1卷",
+          "updatetime": 1467859188,
+          "filesize": 2993429,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 18873775,
+        "uid": 107838738,
+        "content": "好顶赞",
+        "createtime": 1564643033,
+        "nickname": "dmzj_107838738",
+        "avatar": "https://avatar.dmzj.com/49/30/4930dd3547585f5cd48b2febead3a3e6.png"
+      },
+      {
+        "comment_id": 8448845,
+        "uid": 108374366,
+        "content": "。",
+        "createtime": 1543311993,
+        "nickname": "MRDOGE",
+        "avatar": "https://avatar.dmzj.com/50/45/504577450c9ce15bc192ef020525bd4e.png"
+      }
+    ]
+  }
+}

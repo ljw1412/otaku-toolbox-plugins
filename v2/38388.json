@@ -1,0 +1,86 @@
+{
+  "id": 38388,
+  "islong": 2,
+  "direction": 2,
+  "title": "大画基三",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1018573451470197098.jpg",
+  "description": "一只不定时更新的咸鱼画手，基三欢乐多，好的故事会慢慢带给大家。微博名与作者名同步！233",
+  "last_updatetime": 1470652301,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 17301,
+  "hit_num": 234084,
+  "uid": 101857345,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12220,
+      "tag_name": "君山小师妹"
+    }
+  ],
+  "subscribe_num": 212,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52356,
+          "chapter_title": "2话",
+          "updatetime": 1470652301,
+          "filesize": 459806,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 52184,
+          "chapter_title": "1话",
+          "updatetime": 1470199483,
+          "filesize": 999071,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 1135081,
+        "uid": 26015925,
+        "content": "丐萝好萌·-·",
+        "createtime": 1470720807,
+        "nickname": "自私的覅丷",
+        "avatar": "https://avatar.dmzj.com/88/1e/881e547cf88e8eda7a4403feb6eafc43.png"
+      },
+      {
+        "comment_id": 1117803,
+        "uid": 101191199,
+        "content": "唯满侠约亲友吗？",
+        "createtime": 1470419959,
+        "nickname": "喃勿望    あ",
+        "avatar": "https://avatar.dmzj.com/3c/6f/3c6ffa77a33b41f9bbb357ff5254bce5.png"
+      }
+    ]
+  }
+}

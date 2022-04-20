@@ -1,0 +1,63 @@
+{
+  "id": 34853,
+  "islong": 2,
+  "direction": 2,
+  "title": "镇魔图",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/239070691464820286.jpg",
+  "description": "被遗忘于历史长河中的神魔，真的消逝了么？",
+  "last_updatetime": 1464771104,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 1782,
+  "hit_num": 28835,
+  "uid": 23907069,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9720,
+      "tag_name": "天麻鬼"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49883,
+          "chapter_title": "1话",
+          "updatetime": 1464771104,
+          "filesize": 1593738,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 863754,
+        "uid": 100593559,
+        "content": "基本功不够",
+        "createtime": 1464859243,
+        "nickname": "碎片",
+        "avatar": "https://avatar.dmzj.com/ae/26/ae26f7b74932ab3929b23f602e1f9ad3.png"
+      }
+    ]
+  }
+}

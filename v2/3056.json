@@ -1,0 +1,76 @@
+{
+  "id": 3056,
+  "islong": 2,
+  "direction": 1,
+  "title": "鬼幕",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/鬼幕_第2卷_0001_5a417df08779c6fe269339907c5930e5.jpg",
+  "description": "超恐怖的漫画,惊险,恐惧……",
+  "last_updatetime": 1273417019,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 9436,
+  "hit_num": 289394,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 422,
+      "tag_name": "马荣成"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 26,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 6214,
+          "chapter_title": "2话",
+          "updatetime": 1274021819,
+          "filesize": 5865054,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 6213,
+          "chapter_title": "1话",
+          "updatetime": 1274021819,
+          "filesize": 6503611,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 17484488,
+        "uid": 107297967,
+        "content": "鬼幕。",
+        "createtime": 1561488128,
+        "nickname": "御辛",
+        "avatar": "https://avatar.dmzj.com/31/23/3123adf8a4f228da6f86cb0a394a212c.png"
+      },
+      {
+        "comment_id": 15439143,
+        "uid": 108475921,
+        "content": "礼明",
+        "createtime": 1557101476,
+        "nickname": "dmzj_108475921",
+        "avatar": "https://avatar.dmzj.com/61/70/61702746908650ae7800e618a98489ec.png"
+      }
+    ]
+  }
+}

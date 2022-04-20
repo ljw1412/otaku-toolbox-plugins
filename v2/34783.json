@@ -1,0 +1,101 @@
+{
+  "id": 34783,
+  "islong": 2,
+  "direction": 2,
+  "title": "骄子",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/jiaozi2016.jpg",
+  "description": "这部漫画讲述的是在一个奇幻世界(星球),东西方两个大国因为一次伤亡惨重的战争后签订了和平协约,每年都会以剑斗仪式来纪念这个协约.西方苍鹭国最小的王子伊森已经成年,按照规定他必须惨叫剑斗仪式....但这决定仪式已被什么天外之人暗中的计划给渗了...而对方玄鸦国也一直在等待着战争的机会.年幼的王子方即成人,便迎来了人生的大危机.....",
+  "last_updatetime": 1485943274,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 7722,
+  "hit_num": 45243,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5806,
+      "tag_name": "魔幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 6781,
+      "tag_name": "CrossGen Comics"
+    }
+  ],
+  "subscribe_num": 73,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56845,
+          "chapter_title": "5卷",
+          "updatetime": 1485943274,
+          "filesize": 5413291,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 56844,
+          "chapter_title": "4卷",
+          "updatetime": 1485943249,
+          "filesize": 4537944,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 56843,
+          "chapter_title": "3卷",
+          "updatetime": 1485943227,
+          "filesize": 5418620,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 49726,
+          "chapter_title": "2卷",
+          "updatetime": 1464504161,
+          "filesize": 4050400,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 49725,
+          "chapter_title": "1卷",
+          "updatetime": 1464504129,
+          "filesize": 4706710,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 984688,
+        "uid": 100940027,
+        "content": "我看成了奶子",
+        "createtime": 1467857717,
+        "nickname": "旋沃鸣人",
+        "avatar": "https://avatar.dmzj.com/01/66/016659c6adae2415e55f0d804bd892dc.png"
+      },
+      {
+        "comment_id": 852612,
+        "uid": 100789731,
+        "content": "看成驴子的不会只有我一个吧",
+        "createtime": 1464540506,
+        "nickname": "半田清",
+        "avatar": "https://avatar.dmzj.com/10/2b/102bf09073cf37d8048b6d5467770a80.png"
+      }
+    ]
+  }
+}

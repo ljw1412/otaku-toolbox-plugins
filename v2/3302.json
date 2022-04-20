@@ -1,0 +1,129 @@
+{
+  "id": 3302,
+  "islong": 2,
+  "direction": 1,
+  "title": "雪莉·麦迪森",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/xueli20180821.jpg",
+  "description": "雪莉漫画短篇",
+  "last_updatetime": 1521819100,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 1733815,
+  "hit_num": 2431538,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 1962,
+      "tag_name": "森薰"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "subscribe_num": 8565,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 74786,
+          "chapter_title": "不安的夜晚",
+          "updatetime": 1521819100,
+          "filesize": 4231333,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 32063,
+          "chapter_title": "昔往旧事篇",
+          "updatetime": 1408025341,
+          "filesize": 3608781,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 30365,
+          "chapter_title": "高跟鞋篇",
+          "updatetime": 1400511042,
+          "filesize": 2031174,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 30343,
+          "chapter_title": "7话",
+          "updatetime": 1400346050,
+          "filesize": 2115399,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 25025,
+          "chapter_title": "6话",
+          "updatetime": 1371975484,
+          "filesize": 2889302,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 23590,
+          "chapter_title": "5话",
+          "updatetime": 1365072749,
+          "filesize": 3488058,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 23589,
+          "chapter_title": "4话",
+          "updatetime": 1365072736,
+          "filesize": 1426307,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 23588,
+          "chapter_title": "3话",
+          "updatetime": 1365072729,
+          "filesize": 4502943,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8412,
+          "chapter_title": "1话",
+          "updatetime": 1274689774,
+          "filesize": 4924265,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 248,
+    "latest_comment": [
+      {
+        "comment_id": 29915365,
+        "uid": 110452211,
+        "content": "好棒的作品",
+        "createtime": 1598286403,
+        "nickname": "丨珈百璃丨",
+        "avatar": "https://avatar.dmzj.com/65/64/6564edeaca45bc5dbd03e8b7b2dc6808.png"
+      },
+      {
+        "comment_id": 29538736,
+        "uid": 101323990,
+        "content": "阿，雪莉",
+        "createtime": 1596828588,
+        "nickname": "风吹草低见牛羊",
+        "avatar": "https://avatar.dmzj.com/19/78/1978caeb785be3e47da7e1c01f60c141.png"
+      }
+    ]
+  }
+}

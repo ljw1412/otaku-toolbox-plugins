@@ -1,0 +1,75 @@
+{
+  "id": 38901,
+  "islong": 2,
+  "direction": 1,
+  "title": "道口、你的手、樱道",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/zengtianlihuixin.png",
+  "description": "增田里穗的短篇漫画，青涩的恋爱。",
+  "last_updatetime": 1475334881,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "d",
+  "comic_py": "daokounideshouyingdao",
+  "hidden": 0,
+  "hot_num": 96470,
+  "hit_num": 358708,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 57629,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8926,
+      "tag_name": "增田里穗"
+    }
+  ],
+  "subscribe_num": 1060,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 57629,
+          "chapter_title": "1话",
+          "updatetime": 1475334881,
+          "filesize": 3551347,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 49,
+    "latest_comment": [
+      {
+        "comment_id": 29899170,
+        "uid": 109358182,
+        "content": "什么道？",
+        "createtime": 1598234308,
+        "nickname": "KiraLiiin",
+        "avatar": "https://avatar.dmzj.com/66/27/6627c097cc1d4f94f7c6c1e00d8d26f8.png"
+      },
+      {
+        "comment_id": 27121503,
+        "uid": 109182299,
+        "content": "女主考虑好多啊……但是好可爱",
+        "createtime": 1588663973,
+        "nickname": "高架线",
+        "avatar": "https://avatar.dmzj.com/44/29/4429a1ca0a7ea15b38a1618bc0df3145.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

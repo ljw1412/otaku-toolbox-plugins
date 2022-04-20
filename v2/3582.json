@@ -1,0 +1,80 @@
+{
+  "id": 3582,
+  "islong": 2,
+  "direction": 1,
+  "title": "全部都给你",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/01_7c7dea6343b183518dce26a6d9831c3d.jpg",
+  "description": "女王大人来了~~~~~~!!! 由两个高智慧的男女主角担任,就像国王与女王的斗爭般(笑)......",
+  "last_updatetime": 1274868630,
+  "copyright": 0,
+  "first_letter": "q",
+  "hot_num": 211553,
+  "hit_num": 1171617,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1386,
+      "tag_name": "车谷晴子"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1182,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8792,
+          "chapter_title": "2话",
+          "updatetime": 1275473431,
+          "filesize": 2905761,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8791,
+          "chapter_title": "1话",
+          "updatetime": 1275473431,
+          "filesize": 4673019,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 28271850,
+        "uid": 106225556,
+        "content": "土下座",
+        "createtime": 1592529001,
+        "nickname": "dmzj_106225556",
+        "avatar": "https://avatar.dmzj.com/16/6f/166f386b555106b64c13f107c47998d0.png"
+      },
+      {
+        "comment_id": 13584582,
+        "uid": 106275433,
+        "content": "1",
+        "createtime": 1554073659,
+        "nickname": "打死你们哦",
+        "avatar": "https://avatar.dmzj.com/97/77/9777154ba2b7a2715af183108b35f808.png"
+      }
+    ]
+  }
+}

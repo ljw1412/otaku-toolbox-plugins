@@ -1,0 +1,75 @@
+{
+  "id": 38419,
+  "islong": 2,
+  "direction": 1,
+  "title": "创作百合漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/7/chuangzuobaihemanhua.jpg",
+  "description": "甜甜的百合漫画。",
+  "last_updatetime": 1470490652,
+  "last_update_chapter_name": "短篇",
+  "copyright": 0,
+  "first_letter": "c",
+  "comic_py": "chuangzuobaihemanhua",
+  "hidden": 0,
+  "hot_num": 95252,
+  "hit_num": 90954,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 53289,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12240,
+      "tag_name": "ちいま"
+    }
+  ],
+  "subscribe_num": 827,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 53289,
+          "chapter_title": "1话",
+          "updatetime": 1470490652,
+          "filesize": 1742557,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 61,
+    "latest_comment": [
+      {
+        "comment_id": 29815827,
+        "uid": 107782566,
+        "content": "留门",
+        "createtime": 1597927682,
+        "nickname": "dmzj_107782566",
+        "avatar": "https://avatar.dmzj.com/d7/72/d7729261624f6aa9993620b2d61ce6d7.png"
+      },
+      {
+        "comment_id": 29044683,
+        "uid": 108465392,
+        "content": "好好熟悉的眼睫毛，难难道是……",
+        "createtime": 1595079974,
+        "nickname": "荼荼子小女",
+        "avatar": "https://avatar.dmzj.com/49/43/494348919d2c138a6f814e988b6deb18.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

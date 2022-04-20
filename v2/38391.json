@@ -1,0 +1,79 @@
+{
+  "id": 38391,
+  "islong": 2,
+  "direction": 2,
+  "title": "漫威与吉列 尖锋",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/fuchouzhelianmengdingzhiban.JPG",
+  "description": "事实证明，剃须和与九头蛇战斗其实真的没多大区别，剃下来一根长出来两根，不是吗？",
+  "last_updatetime": 1470229928,
+  "last_update_chapter_name": "第01卷",
+  "copyright": 0,
+  "first_letter": "m",
+  "comic_py": "manweiyujiliejianfeng",
+  "hidden": 0,
+  "hot_num": 96839,
+  "hit_num": 57195,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 55529,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 502,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 55529,
+          "chapter_title": "1卷",
+          "updatetime": 1470229928,
+          "filesize": 2228905,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 22,
+    "latest_comment": [
+      {
+        "comment_id": 5141857,
+        "uid": 101920841,
+        "content": "看标题进来了，真心好看，要是出连载就好了😂",
+        "createtime": 1529162960,
+        "nickname": "小白ASER",
+        "avatar": "https://avatar.dmzj.com/3c/0a/3c0a21726d8b74bd1562fd39750d89d1.png"
+      },
+      {
+        "comment_id": 1127163,
+        "uid": 100474272,
+        "content": "什么鬼",
+        "createtime": 1470580567,
+        "nickname": "山姆大叔队长",
+        "avatar": "https://avatar.dmzj.com/50/09/50096e0e13c89e40f0eed655509ed849.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

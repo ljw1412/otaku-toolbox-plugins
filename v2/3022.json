@@ -1,0 +1,89 @@
+{
+  "id": 3022,
+  "islong": 2,
+  "direction": 1,
+  "title": "ET公主",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/et公主漫画_第1卷_0001_6ab8fc5cd6b525bf4476af1ae43a9028.jpg",
+  "description": "龙雄和月子夫妇在学生时代，因在集训中捡到女婴美姬而结婚。但她却在一夕间成长…原来美姬是冰河行星的公主！於是养育官及暗杀者都来了，再加上美姬又喜欢上同学国头隼，情况越发混乱",
+  "last_updatetime": 1273221921,
+  "last_update_chapter_name": "VOL03",
+  "copyright": 0,
+  "first_letter": "e",
+  "comic_py": "etgongzhu",
+  "hidden": 0,
+  "hot_num": 14201,
+  "hit_num": 403508,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 8088,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1778,
+      "tag_name": "铃宫和由"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 57,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8088,
+          "chapter_title": "3卷",
+          "updatetime": 1273826721,
+          "filesize": 10991832,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 8087,
+          "chapter_title": "2卷",
+          "updatetime": 1273826721,
+          "filesize": 11327143,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8086,
+          "chapter_title": "1卷",
+          "updatetime": 1273826721,
+          "filesize": 10731995,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 550148,
+        "uid": 16488567,
+        "content": "挺有趣的，有些地方笑死了",
+        "createtime": 1450857740,
+        "nickname": "cake17",
+        "avatar": "https://avatar.dmzj.com/2a/fe/2afe2bf5f0911a1fa28f436fa129936b.png"
+      },
+      {
+        "comment_id": 40463,
+        "uid": 7404485,
+        "content": "想着画风好眼熟，一看作者，原来是顽固少爷的作者~",
+        "createtime": 1325536474,
+        "nickname": "kingsai",
+        "avatar": "https://avatar.dmzj.com/45/63/4563c8ecb8c04cd276453646cd0b3891.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

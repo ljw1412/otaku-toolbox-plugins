@@ -1,0 +1,112 @@
+{
+  "id": 35231,
+  "islong": 2,
+  "direction": 1,
+  "title": "伊势日向漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/yishirixiangmanhuafengmianl.jpg",
+  "description": "讲述伊势日向百合姐妹的不正常日常故事",
+  "last_updatetime": 1497440034,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 198286,
+  "hit_num": 778914,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 6219,
+      "tag_name": "节操"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11967,
+      "tag_name": "ビフィダス"
+    }
+  ],
+  "subscribe_num": 1376,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65101,
+          "chapter_title": "4话",
+          "updatetime": 1497440034,
+          "filesize": 1714010,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 65100,
+          "chapter_title": "山城改二",
+          "updatetime": 1497439978,
+          "filesize": 62914,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 53462,
+          "chapter_title": "3话",
+          "updatetime": 1465965193,
+          "filesize": 2713006,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 53359,
+          "chapter_title": "2话",
+          "updatetime": 1465777304,
+          "filesize": 2338433,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 53353,
+          "chapter_title": "1话",
+          "updatetime": 1465743543,
+          "filesize": 2007112,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 53198,
+          "chapter_title": "0话",
+          "updatetime": 1465691324,
+          "filesize": 1323189,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 60,
+    "latest_comment": [
+      {
+        "comment_id": 24838891,
+        "uid": 102425051,
+        "content": "哈哈",
+        "createtime": 1583264263,
+        "nickname": "好想吃炸串",
+        "avatar": "https://avatar.dmzj.com/42/39/4239735705a633c5627e2ef69659006a.png"
+      },
+      {
+        "comment_id": 16638509,
+        "uid": 104259345,
+        "content": "看看",
+        "createtime": 1559293171,
+        "nickname": "黑风龙王",
+        "avatar": "https://avatar.dmzj.com/58/47/58471d3fade9dab2afe497b7901e5d78.png"
+      }
+    ]
+  }
+}

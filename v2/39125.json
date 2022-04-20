@@ -1,0 +1,54 @@
+{
+  "id": 39125,
+  "islong": 2,
+  "direction": 2,
+  "title": "小美游玩记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/16/1013643561478158964.jpg",
+  "description": "小美游玩记",
+  "last_updatetime": 1478159002,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 492,
+  "hit_num": 1339,
+  "uid": 101364356,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11938,
+      "tag_name": "小美"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 60155,
+          "chapter_title": "1话",
+          "updatetime": 1478159002,
+          "filesize": 545109,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

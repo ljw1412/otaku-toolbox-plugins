@@ -1,0 +1,79 @@
+{
+  "id": 32689,
+  "islong": 2,
+  "direction": 2,
+  "title": "驭魂少年",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/9/1011523091461159540.jpg",
+  "description": "漫画爱好者",
+  "last_updatetime": 1461159694,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 2186,
+  "hit_num": 50027,
+  "uid": 101152309,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11692,
+      "tag_name": "Genson"
+    }
+  ],
+  "subscribe_num": 19,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49123,
+          "chapter_title": "1话",
+          "updatetime": 1461159694,
+          "filesize": 1974648,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 782702,
+        "uid": 101009535,
+        "content": "那你去画一个，幸幸苦苦画出来的漫画，被人说成辣鸡是什么感觉",
+        "createtime": 1462447411,
+        "nickname": "云融",
+        "avatar": "https://avatar.dmzj.com/25/40/2540aff520ad362e211a2ff57ea55912.png"
+      },
+      {
+        "comment_id": 746237,
+        "uid": 101008694,
+        "content": "垃圾",
+        "createtime": 1461213199,
+        "nickname": "埼煜",
+        "avatar": "https://avatar.dmzj.com/51/41/51416be25b7bb7028c699cc4bcb0ba50.png"
+      }
+    ]
+  }
+}

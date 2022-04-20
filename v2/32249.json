@@ -1,0 +1,97 @@
+{
+  "id": 32249,
+  "islong": 2,
+  "direction": 1,
+  "title": "愤怒鸟系列",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/3/fengnuniaoxiliefengmianl.jpg",
+  "description": "愤怒的小鸟各衍生系列漫画，介绍各个系列里的知识……",
+  "last_updatetime": 1460622865,
+  "copyright": 0,
+  "first_letter": "f",
+  "hot_num": 10040,
+  "hit_num": 473292,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11637,
+      "tag_name": "艾米·布里格斯"
+    }
+  ],
+  "subscribe_num": 42,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48884,
+          "chapter_title": "5话",
+          "updatetime": 1460622865,
+          "filesize": 16026153,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 48717,
+          "chapter_title": "4话",
+          "updatetime": 1460189276,
+          "filesize": 16994269,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 48716,
+          "chapter_title": "3话",
+          "updatetime": 1460189237,
+          "filesize": 16229482,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 48715,
+          "chapter_title": "2话",
+          "updatetime": 1460185631,
+          "filesize": 18292117,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 48714,
+          "chapter_title": "1话",
+          "updatetime": 1460185593,
+          "filesize": 16396164,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 722243,
+        "uid": 21034124,
+        "content": "就一科普书",
+        "createtime": 1460226817,
+        "nickname": "星—灵",
+        "avatar": "https://avatar.dmzj.com/71/28/71288fcc9fe5e75421f88daf2763de62.png"
+      },
+      {
+        "comment_id": 722006,
+        "uid": 100604556,
+        "content": "看你麻痹",
+        "createtime": 1460219349,
+        "nickname": "王国之心42236",
+        "avatar": "https://avatar.dmzj.com/a9/68/a9687120be8c29436edbf54605955d5e.png"
+      }
+    ]
+  }
+}

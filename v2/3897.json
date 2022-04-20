@@ -1,0 +1,101 @@
+{
+  "id": 3897,
+  "islong": 2,
+  "direction": 1,
+  "title": "小桃一家",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/momonchi02_0002-0003_0ddd3be2f856f9d1fc8b91a6b4998854.jpg",
+  "description": "冬目景短篇漫画",
+  "last_updatetime": 1276164446,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 223934,
+  "hit_num": 861011,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 282,
+      "tag_name": "冬目景"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 2030,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9124,
+          "chapter_title": "4话",
+          "updatetime": 1276769246,
+          "filesize": 4505154,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 9123,
+          "chapter_title": "3话",
+          "updatetime": 1276769246,
+          "filesize": 3149611,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 9122,
+          "chapter_title": "2话",
+          "updatetime": 1276769246,
+          "filesize": 4069676,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 9121,
+          "chapter_title": "1话",
+          "updatetime": 1276769246,
+          "filesize": 4370592,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9120,
+          "chapter_title": "短篇",
+          "updatetime": 1276769246,
+          "filesize": 3669494,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 37,
+    "latest_comment": [
+      {
+        "comment_id": 29830461,
+        "uid": 107106176,
+        "content": "多摩美大毕业的她。我因为她的 羔羊之歌入坑的",
+        "createtime": 1597975738,
+        "nickname": "dmzj_107106176",
+        "avatar": "https://avatar.dmzj.com/b5/31/b5314e234f91f688c5a60761f0136293.png"
+      },
+      {
+        "comment_id": 25136704,
+        "uid": 108757301,
+        "content": "留",
+        "createtime": 1583908465,
+        "nickname": "小囧皮球",
+        "avatar": "https://avatar.dmzj.com/11/62/1162d3f56772a814df71d47e2a53d908.png"
+      }
+    ]
+  }
+}

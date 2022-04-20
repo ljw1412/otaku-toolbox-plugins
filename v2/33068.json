@@ -1,0 +1,79 @@
+{
+  "id": 33068,
+  "islong": 2,
+  "direction": 2,
+  "title": "噬暗者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1011782601461566696.jpg",
+  "description": "“暗”——是当今无人不知无人不晓的一种神秘生物，如果将人比作食物链的顶点，那么“暗”则居于最下端，这种原本连基本的形态都没有的“生物”为了自己的成长潜入了人类的生活。",
+  "last_updatetime": 1461567820,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 124018,
+  "hit_num": 3071774,
+  "uid": 101178260,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11719,
+      "tag_name": "镜夜优"
+    }
+  ],
+  "subscribe_num": 891,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48568,
+          "chapter_title": "1话",
+          "updatetime": 1461567820,
+          "filesize": 3799007,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 23,
+    "latest_comment": [
+      {
+        "comment_id": 30006494,
+        "uid": 102012619,
+        "content": "引路",
+        "createtime": 1598627204,
+        "nickname": "玩具枪X",
+        "avatar": "https://avatar.dmzj.com/53/90/5390cc1563d8bdce1b5f7449263437c6.png"
+      },
+      {
+        "comment_id": 29502443,
+        "uid": 110761074,
+        "content": "我有噬谎者",
+        "createtime": 1596713039,
+        "nickname": "dmzj_110761074",
+        "avatar": "https://avatar.dmzj.com/d2/86/d2865772973b201ab69fa107fff1afb5.png"
+      }
+    ]
+  }
+}

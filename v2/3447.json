@@ -1,0 +1,83 @@
+{
+  "id": 3447,
+  "islong": 2,
+  "direction": 1,
+  "title": ".hack//link",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/link.jpg",
+  "description": "日本游戏发行商NBGI从2009年年初起就开始提供动画DVD版───《黑客时空：GU三部曲》的出租业务，而想必有幸获得其专属影像特典的玩家已经知道其中附送的预告片居然就是由PSP掌机独占的系列ARPG（动作角色扮演）最新作：《.hack//Link》（英文原名：《Dot Hack: Link》，中文正式译名：《黑客时空：链接》或《创世纪传说：链接》），新作目前预定2010年春季发售。而本作也号称将会是系列的集大成之作，很可能代表着系列的终结，系列FANS千万不要错过。\n",
+  "last_updatetime": 1286792003,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 49791,
+  "hit_num": 2908399,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2066,
+      "tag_name": "喜久屋めがね"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 275,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 13027,
+          "chapter_title": "3卷",
+          "updatetime": 1286792003,
+          "filesize": 27470998,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 9046,
+          "chapter_title": "2卷",
+          "updatetime": 1276330078,
+          "filesize": 20263466,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8540,
+          "chapter_title": "1卷",
+          "updatetime": 1274921984,
+          "filesize": 21755639,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 28206581,
+        "uid": 109825958,
+        "content": "漫画魔改有点多，游戏基本全语音多少还是能听懂点的",
+        "createtime": 1592308959,
+        "nickname": "dmzj_109825958",
+        "avatar": "https://avatar.dmzj.com/bd/55/bd552b7080ba785bd12eb11cb5197f69.png"
+      },
+      {
+        "comment_id": 12745500,
+        "uid": 108286134,
+        "content": "1",
+        "createtime": 1552315937,
+        "nickname": "二寒",
+        "avatar": "https://avatar.dmzj.com/3c/78/3c78ab98729d948a97a780f5772fbfd3.png"
+      }
+    ]
+  }
+}

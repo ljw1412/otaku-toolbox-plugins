@@ -1,0 +1,61 @@
+{
+  "id": 32295,
+  "islong": 2,
+  "direction": 2,
+  "title": "火星追猎者V2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/Martianh199000000g2zi.jpg",
+  "description": "火星猎人的个人刊。",
+  "last_updatetime": 1460551164,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 12089,
+  "hit_num": 22170,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 79,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52822,
+          "chapter_title": "0卷",
+          "updatetime": 1460551164,
+          "filesize": 4750546,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 731346,
+        "uid": 101050269,
+        "content": "沙发",
+        "createtime": 1460603590,
+        "nickname": "真污小公举",
+        "avatar": "https://avatar.dmzj.com/a0/ac/a0ac7a4a60159cddd8897d01885eb408.png"
+      }
+    ]
+  }
+}

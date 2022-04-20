@@ -1,0 +1,75 @@
+{
+  "id": 36659,
+  "islong": 2,
+  "direction": 2,
+  "title": "飞行梦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1005376751467186012.jpg",
+  "description": "在一个美丽的午后，突然从天空掉下一架飞机！。。",
+  "last_updatetime": 1467186102,
+  "copyright": 1,
+  "first_letter": "f",
+  "hot_num": 1436,
+  "hit_num": 17209,
+  "uid": 100537675,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12054,
+      "tag_name": "张登科"
+    }
+  ],
+  "subscribe_num": 13,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 51639,
+          "chapter_title": "1话",
+          "updatetime": 1467186102,
+          "filesize": 2331856,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1224839,
+        "uid": 14391984,
+        "content": "完结了?",
+        "createtime": 1472394341,
+        "nickname": "御伽伊里",
+        "avatar": "https://avatar.dmzj.com/61/64/61649547390afbadbb741009e634b64c.png"
+      },
+      {
+        "comment_id": 956219,
+        "uid": 100865517,
+        "content": "就这一话？",
+        "createtime": 1467189067,
+        "nickname": "某音京介",
+        "avatar": "https://avatar.dmzj.com/6e/ce/6ece35220b137893374597b863814741.png"
+      }
+    ]
+  }
+}

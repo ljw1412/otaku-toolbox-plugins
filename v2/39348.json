@@ -1,0 +1,78 @@
+{
+  "id": 39348,
+  "islong": 2,
+  "direction": 2,
+  "title": "炙热的心",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1023973281480652765.jpg",
+  "description": "一个意外的任务让她走上了一条不归路，各种压迫暗杀随之而来，她不断的抗争，后来发现，控制着这个世界的，超出了她的想象。",
+  "last_updatetime": 1481157041,
+  "copyright": 1,
+  "first_letter": "z",
+  "hot_num": 2382,
+  "hit_num": 23532,
+  "uid": 102397328,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12693,
+      "tag_name": "补翼"
+    }
+  ],
+  "subscribe_num": 13,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 55577,
+          "chapter_title": "2话",
+          "updatetime": 1481157041,
+          "filesize": 592708,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 55493,
+          "chapter_title": "1话",
+          "updatetime": 1480653427,
+          "filesize": 700756,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1543877,
+        "uid": 102324985,
+        "content": "。",
+        "createtime": 1481176864,
+        "nickname": "uzume的心次元",
+        "avatar": "https://avatar.dmzj.com/48/38/483807fe07df8dcb50f6ec921601d3c9.png"
+      }
+    ]
+  }
+}

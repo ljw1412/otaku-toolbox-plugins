@@ -1,0 +1,87 @@
+{
+  "id": 3733,
+  "islong": 2,
+  "direction": 1,
+  "title": "雾之森Hotel",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/9/wuzhisenhotelV2.jpg",
+  "description": "雾之森Hotel是由日本漫画家筱原千绘创作的一个魔幻神话系列漫画。谁都不知道这间旅馆在哪里，只有对人生感到烦恼，在内心的迷宫中彷徨无助之人才能抵达这间不可思议的旅馆「迷雾森林」，今天也在等候对人生感到困惑的客人大驾光临。由筱原千绘鲜明刻划出的全新悬疑浪漫力作登场！",
+  "last_updatetime": 1337942324,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 197491,
+  "hit_num": 2291006,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 323,
+      "tag_name": "筱原千绘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 1625,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 17944,
+          "chapter_title": "短篇",
+          "updatetime": 1337942324,
+          "filesize": 3327228,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 8756,
+          "chapter_title": "2卷",
+          "updatetime": 1275827420,
+          "filesize": 19129445,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8755,
+          "chapter_title": "1卷",
+          "updatetime": 1275827420,
+          "filesize": 11756163,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 37,
+    "latest_comment": [
+      {
+        "comment_id": 29052407,
+        "uid": 101270537,
+        "content": "要是现实中也有这样一个雾hotel就好了，帮人走出迷途，但是找不到????",
+        "createtime": 1595092262,
+        "nickname": "普普通通学生狗老狄",
+        "avatar": "https://avatar.dmzj.com/22/35/2235ac749380e9f229153dde16d2b72d.png"
+      },
+      {
+        "comment_id": 27845178,
+        "uid": 107781845,
+        "content": "哭得不行",
+        "createtime": 1590943638,
+        "nickname": "强强子",
+        "avatar": "https://avatar.dmzj.com/79/29/7929592d0655c175199ce77451a6a5b9.png"
+      }
+    ]
+  }
+}

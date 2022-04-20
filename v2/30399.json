@@ -1,0 +1,79 @@
+{
+  "id": 30399,
+  "islong": 2,
+  "direction": 2,
+  "title": "电子天堂",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1001057081457281949.jpg",
+  "description": "讲述一个死亡并不是人生终点的故事。",
+  "last_updatetime": 1457282346,
+  "copyright": 1,
+  "first_letter": "d",
+  "hot_num": 4263,
+  "hit_num": 65790,
+  "uid": 100105708,
+  "types": [
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    },
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9326,
+      "tag_name": "流动的墨水"
+    }
+  ],
+  "subscribe_num": 55,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47431,
+          "chapter_title": "1话",
+          "updatetime": 1457282346,
+          "filesize": 1478588,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "微博首更",
+  "comment": {
+    "comment_count": 13,
+    "latest_comment": [
+      {
+        "comment_id": 27331542,
+        "uid": 18860626,
+        "content": "误入此处，随便扫墓？",
+        "createtime": 1589299350,
+        "nickname": "光well",
+        "avatar": "https://avatar.dmzj.com/ee/10/ee109205513a311816a2e9e764db4534.png"
+      },
+      {
+        "comment_id": 22742095,
+        "uid": 109104522,
+        "content": "阔别3年的评论",
+        "createtime": 1576872946,
+        "nickname": "平平平平海",
+        "avatar": "https://avatar.dmzj.com/05/dc/05dc77ecd3402ff851c8502a6a7d6f35.png"
+      }
+    ]
+  }
+}

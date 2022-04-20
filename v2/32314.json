@@ -1,0 +1,73 @@
+{
+  "id": 32314,
+  "islong": 2,
+  "direction": 1,
+  "title": "拉包尔战线无异常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/labaoerzhanxianwuyichangfengmianl.jpg",
+  "description": "pixiv网站上的舰娘搞笑小品漫画",
+  "last_updatetime": 1460683366,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 31468,
+  "hit_num": 101238,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9807,
+      "tag_name": "失笑工房 (カペラ)"
+    }
+  ],
+  "subscribe_num": 302,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48899,
+          "chapter_title": "1话",
+          "updatetime": 1460683366,
+          "filesize": 994123,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 16629895,
+        "uid": 17624405,
+        "content": "西线无战事",
+        "createtime": 1559274236,
+        "nickname": "阿斯卡隆Tear",
+        "avatar": "https://avatar.dmzj.com/81/13/8113dfc4ed778de406c334cf511e67b4.png"
+      },
+      {
+        "comment_id": 2901426,
+        "uid": 100678779,
+        "content": "这个作者的另一部作品里的拉包尔可是一点都不和平",
+        "createtime": 1505066328,
+        "nickname": "阿尔法一号",
+        "avatar": "https://avatar.dmzj.com/19/41/19410858f3b278b075c178977a17d62a.png"
+      }
+    ]
+  }
+}

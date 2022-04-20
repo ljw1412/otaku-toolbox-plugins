@@ -1,0 +1,80 @@
+{
+  "id": 32657,
+  "islong": 2,
+  "direction": 1,
+  "title": "hajiman",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/hajimanfengmianl.jpg",
+  "description": "棋魂的故事原作者崛田由美来告诉你漫画真正的乐趣",
+  "last_updatetime": 1460883231,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 24153,
+  "hit_num": 79281,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2906,
+      "tag_name": "堀田由美"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "subscribe_num": 158,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52855,
+          "chapter_title": "2卷",
+          "updatetime": 1460883231,
+          "filesize": 7597622,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 52854,
+          "chapter_title": "1卷",
+          "updatetime": 1460883177,
+          "filesize": 8297541,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 27747943,
+        "uid": 106342102,
+        "content": "堀田老师画的还挺可爱的",
+        "createtime": 1590638324,
+        "nickname": "dmzj_106342102",
+        "avatar": "https://avatar.dmzj.com/ef/fe/effef5a00b2c21f579b61701a8cbab0e.png"
+      },
+      {
+        "comment_id": 873784,
+        "uid": 100716128,
+        "content": "23333",
+        "createtime": 1465137930,
+        "nickname": "亦为闲",
+        "avatar": "https://avatar.dmzj.com/8f/3a/8f3aef6ad74257ce486d1330006b09a5.png"
+      }
+    ]
+  }
+}

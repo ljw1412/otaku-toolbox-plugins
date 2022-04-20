@@ -1,0 +1,80 @@
+{
+  "id": 32669,
+  "islong": 2,
+  "direction": 1,
+  "title": "LV120扶桑与LV1日向的故事",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/LV120fusang.jpg",
+  "description": "pixiv网站上的舰娘同人漫画",
+  "last_updatetime": 1463906043,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 52007,
+  "hit_num": 86367,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11684,
+      "tag_name": "セシヤ"
+    }
+  ],
+  "subscribe_num": 468,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50141,
+          "chapter_title": "前世的记忆",
+          "updatetime": 1463906043,
+          "filesize": 188944,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 49058,
+          "chapter_title": "1话",
+          "updatetime": 1460953123,
+          "filesize": 473957,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 59,
+    "latest_comment": [
+      {
+        "comment_id": 5128682,
+        "uid": 101282624,
+        "content": "对不起伊势改二了，扶桑级gg",
+        "createtime": 1529085621,
+        "nickname": "悲鸣の翼·共振の心",
+        "avatar": "https://avatar.dmzj.com/57/b6/57b64ecef9f5258dcabef5a9e3c6ea2b.png"
+      },
+      {
+        "comment_id": 5095645,
+        "uid": 107074776,
+        "content": "2018年6月13日，伊势实装改二，是目前唯二有五个装备格的战舰",
+        "createtime": 1528901453,
+        "nickname": "owenli",
+        "avatar": "https://avatar.dmzj.com/46/25/4625f877a0928f22a0cf4792a2fcb584.png"
+      }
+    ]
+  }
+}

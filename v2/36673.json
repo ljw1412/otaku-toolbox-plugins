@@ -1,0 +1,67 @@
+{
+  "id": 36673,
+  "islong": 2,
+  "direction": 2,
+  "title": "燃烧的心",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1005376651467189855.jpg",
+  "description": "棒球少年们啊！为了第一名！",
+  "last_updatetime": 1467189916,
+  "copyright": 1,
+  "first_letter": "r",
+  "hot_num": 1078,
+  "hit_num": 32913,
+  "uid": 100537665,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12061,
+      "tag_name": "徐世晶"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50926,
+          "chapter_title": "1话",
+          "updatetime": 1467189916,
+          "filesize": 2858524,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 956516,
+        "uid": 12582590,
+        "content": "什么鬼，国漫当中也是奇葩了……",
+        "createtime": 1467194678,
+        "nickname": "samiace",
+        "avatar": "https://avatar.dmzj.com/72/83/72837858babb0f77c64cca528b4ab001.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 30794,
+  "islong": 2,
+  "direction": 1,
+  "title": "进击的巨人最终研究",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/jinjidejuren.jpg",
+  "description": "充满着谜团的巨人与人类之战，大揭秘！！",
+  "last_updatetime": 1458453921,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "j",
+  "comic_py": "jinjidejurenzuizhongyanjiu",
+  "hidden": 0,
+  "hot_num": 1349781,
+  "hit_num": 4583556,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 47899,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11538,
+      "tag_name": "「進撃の巨人」調査兵団"
+    }
+  ],
+  "subscribe_num": 6685,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 47899,
+          "chapter_title": "1卷",
+          "updatetime": 1458453921,
+          "filesize": 13446019,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 206,
+    "latest_comment": [
+      {
+        "comment_id": 29929159,
+        "uid": 111511438,
+        "content": "戳",
+        "createtime": 1598343253,
+        "nickname": "dmzj_5f44c7030130f",
+        "avatar": "https://avatar.dmzj.com/70/4a/704a1f3ae94732fc4a0932f666cf6850.png"
+      },
+      {
+        "comment_id": 29903753,
+        "uid": 110802629,
+        "content": "留",
+        "createtime": 1598253940,
+        "nickname": "dmzj_110802629",
+        "avatar": "https://avatar.dmzj.com/98/d1/98d1e8648afc62af49585b1c7b495c10.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

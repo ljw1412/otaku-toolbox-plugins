@@ -1,0 +1,63 @@
+{
+  "id": 37241,
+  "islong": 2,
+  "direction": 2,
+  "title": "怪兽1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/0/1016541001467603429.jpg",
+  "description": "小孩子",
+  "last_updatetime": 1467603439,
+  "copyright": 1,
+  "first_letter": "g",
+  "hot_num": 1056,
+  "hit_num": 2032,
+  "uid": 101654100,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 8425,
+      "tag_name": "小孩子"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54505,
+          "chapter_title": "1话",
+          "updatetime": 1467603439,
+          "filesize": 165606,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 3802887,
+        "uid": 101937493,
+        "content": "Emmmmmmmmm……第一？",
+        "createtime": 1517585045,
+        "nickname": "银发之疾狼",
+        "avatar": "https://avatar.dmzj.com/a0/aa/a0aab369f4bad44faf8f02473415b6f1.png"
+      }
+    ]
+  }
+}

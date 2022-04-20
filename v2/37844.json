@@ -1,0 +1,76 @@
+{
+  "id": 37844,
+  "islong": 2,
+  "direction": 1,
+  "title": "喜欢你！",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/8/xihuannifengmianl.jpg",
+  "description": "夏美妮的爱情之路并不好，在多次交往失败之后她明白了，她是喜欢漂亮女生的。",
+  "last_updatetime": 1470270788,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 169415,
+  "hit_num": 261842,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12224,
+      "tag_name": "宝贝"
+    }
+  ],
+  "subscribe_num": 1543,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 53209,
+          "chapter_title": "2话",
+          "updatetime": 1470270788,
+          "filesize": 3536090,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 52607,
+          "chapter_title": "1话",
+          "updatetime": 1468816529,
+          "filesize": 2803423,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 66,
+    "latest_comment": [
+      {
+        "comment_id": 15579246,
+        "uid": 108475921,
+        "content": "…",
+        "createtime": 1557335762,
+        "nickname": "dmzj_108475921",
+        "avatar": "https://avatar.dmzj.com/61/70/61702746908650ae7800e618a98489ec.png"
+      },
+      {
+        "comment_id": 13552876,
+        "uid": 25675006,
+        "content": "做记号",
+        "createtime": 1554007537,
+        "nickname": "青旗沽酒趁梨花。",
+        "avatar": "https://avatar.dmzj.com/90/83/90837b4d7d6e4ef73b58552216879e9d.png"
+      }
+    ]
+  }
+}

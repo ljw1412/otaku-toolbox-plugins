@@ -1,0 +1,111 @@
+{
+  "id": 39367,
+  "islong": 2,
+  "direction": 2,
+  "title": "新星v7",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/161208nova.jpg",
+  "description": "刊号重启的全新新星系列来啦！重启后理查德归来，成为继超人之后的又一本父子刊……画风更是突变得轻松可爱了起来，第一期便是一个没穿裤子撩妹的故事……",
+  "last_updatetime": 1497324369,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 89507,
+  "hit_num": 222745,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 553,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 65999,
+          "chapter_title": "7卷",
+          "updatetime": 1497324369,
+          "filesize": 3263043,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 65093,
+          "chapter_title": "6话",
+          "updatetime": 1494209101,
+          "filesize": 3228467,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 64105,
+          "chapter_title": "5卷",
+          "updatetime": 1491579765,
+          "filesize": 3369275,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 63436,
+          "chapter_title": "4卷",
+          "updatetime": 1489289450,
+          "filesize": 3256164,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 62310,
+          "chapter_title": "3卷",
+          "updatetime": 1486374976,
+          "filesize": 3318991,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 61622,
+          "chapter_title": "2卷",
+          "updatetime": 1483718167,
+          "filesize": 3478186,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 60773,
+          "chapter_title": "1卷",
+          "updatetime": 1481197006,
+          "filesize": 3110074,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 26,
+    "latest_comment": [
+      {
+        "comment_id": 25666765,
+        "uid": 104440767,
+        "content": "啊？以后没有新星了吗！？",
+        "createtime": 1585119454,
+        "nickname": "真中百合74040",
+        "avatar": "https://avatar.dmzj.com/c1/6a/c16a8cf19558c2a9edefb4a366073b19.png"
+      },
+      {
+        "comment_id": 4657370,
+        "uid": 100529201,
+        "content": "完结了？",
+        "createtime": 1526020155,
+        "nickname": "糕苏",
+        "avatar": "https://avatar.dmzj.com/d1/a0/d1a0baef900ed8082666bda9e798fef2.png"
+      }
+    ]
+  }
+}

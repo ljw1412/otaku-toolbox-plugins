@@ -1,0 +1,75 @@
+{
+  "id": 33431,
+  "islong": 2,
+  "direction": 2,
+  "title": "帕修斯战记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1005375951463045920.jpg",
+  "description": "帕修斯战记",
+  "last_updatetime": 1463045984,
+  "copyright": 1,
+  "first_letter": "p",
+  "hot_num": 1547,
+  "hit_num": 220391,
+  "uid": 100537595,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11793,
+      "tag_name": "李智"
+    }
+  ],
+  "subscribe_num": 19,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 51994,
+          "chapter_title": "1话",
+          "updatetime": 1463045984,
+          "filesize": 7584849,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 981101,
+        "uid": 101660711,
+        "content": "嗯嗯，好看",
+        "createtime": 1467775445,
+        "nickname": "紫罗兰白     X",
+        "avatar": "https://avatar.dmzj.com/68/2a/682aa19aeae176900ea80bc81dc2c5a1.png"
+      },
+      {
+        "comment_id": 801359,
+        "uid": 100554460,
+        "content": "第三",
+        "createtime": 1463050395,
+        "nickname": "Mysterious star ",
+        "avatar": "https://avatar.dmzj.com/55/0a/550aa3665264e14287c5f34d344f032d.png"
+      }
+    ]
+  }
+}

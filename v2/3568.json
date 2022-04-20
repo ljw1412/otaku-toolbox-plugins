@@ -1,0 +1,161 @@
+{
+  "id": 3568,
+  "islong": 2,
+  "direction": 1,
+  "title": "漫画王",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/10/ccover_827e4c057f8d85c20dccdd5fd87be37e.jpg",
+  "description": "传说中的男人J",
+  "last_updatetime": 1349516094,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 82871,
+  "hit_num": 2349908,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2081,
+      "tag_name": "田畑由秋"
+    },
+    {
+      "tag_id": 2082,
+      "tag_name": "余湖裕辉"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 407,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 19347,
+          "chapter_title": "13卷",
+          "updatetime": 1349516094,
+          "filesize": 19622016,
+          "chapter_order": 130
+        },
+        {
+          "chapter_id": 19346,
+          "chapter_title": "12卷",
+          "updatetime": 1349515966,
+          "filesize": 14826172,
+          "chapter_order": 120
+        },
+        {
+          "chapter_id": 19345,
+          "chapter_title": "11卷",
+          "updatetime": 1349515865,
+          "filesize": 12405934,
+          "chapter_order": 110
+        },
+        {
+          "chapter_id": 19344,
+          "chapter_title": "10卷",
+          "updatetime": 1349515745,
+          "filesize": 13695158,
+          "chapter_order": 100
+        },
+        {
+          "chapter_id": 19343,
+          "chapter_title": "9卷",
+          "updatetime": 1349515573,
+          "filesize": 12527541,
+          "chapter_order": 90
+        },
+        {
+          "chapter_id": 19342,
+          "chapter_title": "8卷",
+          "updatetime": 1349515136,
+          "filesize": 12503380,
+          "chapter_order": 80
+        },
+        {
+          "chapter_id": 19341,
+          "chapter_title": "7卷",
+          "updatetime": 1349515058,
+          "filesize": 12931292,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 19340,
+          "chapter_title": "6卷",
+          "updatetime": 1349514971,
+          "filesize": 13715227,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 19339,
+          "chapter_title": "5卷",
+          "updatetime": 1349514899,
+          "filesize": 12820514,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 19338,
+          "chapter_title": "4卷",
+          "updatetime": 1349514768,
+          "filesize": 12944250,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 19337,
+          "chapter_title": "3卷",
+          "updatetime": 1349514665,
+          "filesize": 14238862,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 19336,
+          "chapter_title": "2卷",
+          "updatetime": 1349514598,
+          "filesize": 13725047,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8526,
+          "chapter_title": "1卷",
+          "updatetime": 1275381150,
+          "filesize": 13568551,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 61,
+    "latest_comment": [
+      {
+        "comment_id": 27476314,
+        "uid": 101753563,
+        "content": "看一下。",
+        "createtime": 1589783938,
+        "nickname": "云中超人",
+        "avatar": "https://avatar.dmzj.com/92/02/9202c7a2886ae7640a340e2195198565.png"
+      },
+      {
+        "comment_id": 26870922,
+        "uid": 105857473,
+        "content": "冲一冲",
+        "createtime": 1587920500,
+        "nickname": "仙人阿泰",
+        "avatar": "https://avatar.dmzj.com/df/57/df57a7a37d3d4a0d95b2dbfb1467522b.png"
+      }
+    ]
+  }
+}

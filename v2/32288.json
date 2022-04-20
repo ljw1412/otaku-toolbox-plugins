@@ -1,0 +1,123 @@
+{
+  "id": 32288,
+  "islong": 1,
+  "direction": 1,
+  "title": "不知火特辑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/buzhihuotejifengmianl.jpg",
+  "description": "pixiv網站上的艦娘搞笑四格漫畫",
+  "last_updatetime": 1462434131,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 343880,
+  "hit_num": 627714,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 6437,
+      "tag_name": "颜艺"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11658,
+      "tag_name": "伊谷いなり"
+    }
+  ],
+  "subscribe_num": 2607,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48298,
+          "chapter_title": "7话",
+          "updatetime": 1462434131,
+          "filesize": 552226,
+          "chapter_order": 70
+        },
+        {
+          "chapter_id": 48273,
+          "chapter_title": "6话",
+          "updatetime": 1462434036,
+          "filesize": 511950,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 48183,
+          "chapter_title": "5话",
+          "updatetime": 1462433702,
+          "filesize": 604096,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 48165,
+          "chapter_title": "4话",
+          "updatetime": 1462433600,
+          "filesize": 515597,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 48153,
+          "chapter_title": "3话",
+          "updatetime": 1462433538,
+          "filesize": 646096,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 48143,
+          "chapter_title": "2话",
+          "updatetime": 1460527563,
+          "filesize": 955205,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 48141,
+          "chapter_title": "1话",
+          "updatetime": 1460513820,
+          "filesize": 442657,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 51,
+    "latest_comment": [
+      {
+        "comment_id": 23876154,
+        "uid": 105279158,
+        "content": "好看的游戏怎么了我就",
+        "createtime": 1581077002,
+        "nickname": "已被永久禁言",
+        "avatar": "https://avatar.dmzj.com/ff/6b/ff6b5e6ca64d43a9f4423ba7681e4638.png"
+      },
+      {
+        "comment_id": 23776021,
+        "uid": 101526528,
+        "content": "？更新了？还是刷新了",
+        "createtime": 1580813259,
+        "nickname": "黑色角落",
+        "avatar": "https://avatar.dmzj.com/30/29/302999a7d446e72526994475b58daf34.png"
+      }
+    ]
+  }
+}

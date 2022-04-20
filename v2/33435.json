@@ -1,0 +1,75 @@
+{
+  "id": 33435,
+  "islong": 2,
+  "direction": 2,
+  "title": "见习爱神",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1005375951463025757.jpg",
+  "description": "李智",
+  "last_updatetime": 1463025869,
+  "copyright": 1,
+  "first_letter": "j",
+  "hot_num": 14092,
+  "hit_num": 289109,
+  "uid": 100537595,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11793,
+      "tag_name": "李智"
+    }
+  ],
+  "subscribe_num": 280,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 53865,
+          "chapter_title": "1话",
+          "updatetime": 1463025869,
+          "filesize": 1558918,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 2393751,
+        "uid": 104756841,
+        "content": "这个怎么看",
+        "createtime": 1498716650,
+        "nickname": "叫我姐姐",
+        "avatar": "https://avatar.dmzj.com/67/28/672876f6b4748495afe8198c235c2df0.png"
+      },
+      {
+        "comment_id": 1784607,
+        "uid": 102405547,
+        "content": "总觉得好像以前在哪儿看过这漫画……？",
+        "createtime": 1486655748,
+        "nickname": "yslader",
+        "avatar": "https://avatar.dmzj.com/aa/6f/aa6f57716508b570ae706cdcde9b0bec.png"
+      }
+    ]
+  }
+}

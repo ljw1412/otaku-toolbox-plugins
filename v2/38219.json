@@ -1,0 +1,107 @@
+{
+  "id": 38219,
+  "islong": 2,
+  "direction": 2,
+  "title": "惊勿语系列",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1002441731469411560.jpg",
+  "description": "恐怖的不是故事，人心最恐怖",
+  "last_updatetime": 1500768998,
+  "copyright": 1,
+  "first_letter": "j",
+  "hot_num": 12141,
+  "hit_num": 210578,
+  "uid": 100244173,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 3245,
+      "tag_name": "悬疑"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12181,
+      "tag_name": "贱贱"
+    }
+  ],
+  "subscribe_num": 120,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 63453,
+          "chapter_title": "5话",
+          "updatetime": 1500768998,
+          "filesize": 2346553,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 56076,
+          "chapter_title": "4话",
+          "updatetime": 1477797273,
+          "filesize": 2133019,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 53430,
+          "chapter_title": "3话",
+          "updatetime": 1470794930,
+          "filesize": 1914780,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 53018,
+          "chapter_title": "2话",
+          "updatetime": 1469672391,
+          "filesize": 1738463,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 52897,
+          "chapter_title": "1话",
+          "updatetime": 1469412721,
+          "filesize": 1647759,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "微博@七色绣花鞋\n交流群： 117257804\n群里有我的直播间地址哦~",
+  "comic_notice": "微博@七色绣花鞋交流群：117257804群里还有直播间地址哦~",
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 1438418,
+        "uid": 100789236,
+        "content": "订阅啦",
+        "createtime": 1478300294,
+        "nickname": "腐小喵BL",
+        "avatar": "https://avatar.dmzj.com/9d/93/9d931504692c189e7295f92c8a01cfd7.png"
+      },
+      {
+        "comment_id": 1438417,
+        "uid": 100789236,
+        "content": "很不错i",
+        "createtime": 1478300277,
+        "nickname": "腐小喵BL",
+        "avatar": "https://avatar.dmzj.com/9d/93/9d931504692c189e7295f92c8a01cfd7.png"
+      }
+    ]
+  }
+}

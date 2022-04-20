@@ -1,0 +1,73 @@
+{
+  "id": 32287,
+  "islong": 1,
+  "direction": 1,
+  "title": "小品赤加贺漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/18/xiaochipingjiahemanhuafengmianl.jpg",
+  "description": "pixiv畫師7C的艦娘二創小品漫畫集「ヤマもオチもイミも無い赤加賀漫画」",
+  "last_updatetime": 1460513973,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 54170,
+  "hit_num": 99866,
+  "uid": null,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 9662,
+      "tag_name": "7c"
+    }
+  ],
+  "subscribe_num": 600,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52662,
+          "chapter_title": "1话",
+          "updatetime": 1460513973,
+          "filesize": 1117519,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 23153010,
+        "uid": 104440737,
+        "content": "挂失",
+        "createtime": 1578493618,
+        "nickname": "冰菓57049",
+        "avatar": "https://avatar.dmzj.com/6a/9f/6a9fc23d141b665d211690170820205a.png"
+      },
+      {
+        "comment_id": 22089976,
+        "uid": 106267026,
+        "content": "我可以！！！！！",
+        "createtime": 1573650927,
+        "nickname": "今世无法替代的18765",
+        "avatar": "https://avatar.dmzj.com/39/25/39254d966ad2b1a3d2655beadeec07c8.png"
+      }
+    ]
+  }
+}

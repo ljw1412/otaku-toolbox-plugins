@@ -1,0 +1,73 @@
+{
+  "id": 36231,
+  "islong": 2,
+  "direction": 2,
+  "title": "街头霸王V",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/jietoubawangv.JPG",
+  "description": "分三个小故事：拉希德、纳什、劳拉、神月花梨悉数登场",
+  "last_updatetime": 1466254827,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 48680,
+  "hit_num": 73326,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1586,
+      "tag_name": "capcom"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 322,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 53618,
+          "chapter_title": "特别篇",
+          "updatetime": 1466254827,
+          "filesize": 3589340,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 23032639,
+        "uid": 107860515,
+        "content": "一",
+        "createtime": 1578009350,
+        "nickname": "十庸",
+        "avatar": "https://avatar.dmzj.com/79/b6/79b67b4bdf34de68fb93cd276b15d57f.png"
+      },
+      {
+        "comment_id": 5949814,
+        "uid": 1149256,
+        "content": "卡琳一个CA带走猪皇，这真的是SF5吗????",
+        "createtime": 1532934802,
+        "nickname": "牛神转身说",
+        "avatar": "https://avatar.dmzj.com/07/ca/07ca275e186c4c5f9a4c5bb1e0f70c2b.png"
+      }
+    ]
+  }
+}

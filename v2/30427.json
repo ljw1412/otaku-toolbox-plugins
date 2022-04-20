@@ -1,0 +1,87 @@
+{
+  "id": 30427,
+  "islong": 2,
+  "direction": 1,
+  "title": "夕张与由良",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/xizhangyuyouliang390.jpg",
+  "description": "夕张与由良之间的萌萌四格",
+  "last_updatetime": 1500551564,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 128088,
+  "hit_num": 171217,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11488,
+      "tag_name": "ぐり～ん"
+    }
+  ],
+  "subscribe_num": 752,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 67175,
+          "chapter_title": "古鹰与青叶的假日",
+          "updatetime": 1500551564,
+          "filesize": 985490,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 67174,
+          "chapter_title": "夕立与时雨",
+          "updatetime": 1500551543,
+          "filesize": 2073761,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 51488,
+          "chapter_title": "1话",
+          "updatetime": 1457522985,
+          "filesize": 1278648,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 12,
+    "latest_comment": [
+      {
+        "comment_id": 22858866,
+        "uid": 102217839,
+        "content": "1话第三页那个Neta不该是aww鬼怒么",
+        "createtime": 1577351219,
+        "nickname": "抗德前线卢森堡",
+        "avatar": "https://avatar.dmzj.com/02/a9/02a9ab378650ed463cf3a379b73fe7b4.png"
+      },
+      {
+        "comment_id": 19698705,
+        "uid": 107328023,
+        "content": "真甜啊！",
+        "createtime": 1566574335,
+        "nickname": "雨中山荷叶",
+        "avatar": "https://avatar.dmzj.com/9f/ab/9fab0d181adb5200609ec25de25f7a91.png"
+      }
+    ]
+  }
+}

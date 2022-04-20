@@ -1,0 +1,94 @@
+{
+  "id": 33303,
+  "islong": 2,
+  "direction": 1,
+  "title": "蝙蝠侠：死亡天使之剑",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/13/siwangtianshizhijian.jpg",
+  "description": "当这位满身弹痕的夺命天使闯入哥谭市的游行人群中时，蝙蝠侠被卷入了死亡天使的神秘谜团中...",
+  "last_updatetime": 1510648897,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 56929,
+  "hit_num": 106906,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1096,
+      "tag_name": "DC Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 293,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 64904,
+          "chapter_title": "4卷",
+          "updatetime": 1510648897,
+          "filesize": 3760455,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 49706,
+          "chapter_title": "3话",
+          "updatetime": 1464364352,
+          "filesize": 3959721,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 49440,
+          "chapter_title": "2卷",
+          "updatetime": 1464014986,
+          "filesize": 4067426,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 48711,
+          "chapter_title": "1卷",
+          "updatetime": 1461937792,
+          "filesize": 4693243,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 7,
+    "latest_comment": [
+      {
+        "comment_id": 23117918,
+        "uid": 102485430,
+        "content": "解除了控制。",
+        "createtime": 1578343241,
+        "nickname": "城户真司",
+        "avatar": "https://avatar.dmzj.com/36/16/3616fba0ee6b3ba9884ac3459573fb9d.png"
+      },
+      {
+        "comment_id": 13306791,
+        "uid": 108075666,
+        "content": "蝙蝠侠好危险",
+        "createtime": 1553484189,
+        "nickname": "巧07555",
+        "avatar": "https://avatar.dmzj.com/5b/7a/5b7ad9d50b86e3a86359f5c262c66cd6.png"
+      }
+    ]
+  }
+}

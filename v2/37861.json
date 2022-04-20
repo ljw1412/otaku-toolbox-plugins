@@ -1,0 +1,100 @@
+{
+  "id": 37861,
+  "islong": 2,
+  "direction": 2,
+  "title": "野草团",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/5/1017655851468990814.jpg",
+  "description": "一个战争中的世界，一个新成立的佣兵团",
+  "last_updatetime": 1472715611,
+  "copyright": 1,
+  "first_letter": "y",
+  "hot_num": 7029,
+  "hit_num": 82523,
+  "uid": 101765585,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 3251,
+      "tag_name": "战争"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12155,
+      "tag_name": "三色棋"
+    }
+  ],
+  "subscribe_num": 155,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56652,
+          "chapter_title": "4话",
+          "updatetime": 1472715611,
+          "filesize": 694962,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 56352,
+          "chapter_title": "3话",
+          "updatetime": 1472009350,
+          "filesize": 757754,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 55915,
+          "chapter_title": "2话",
+          "updatetime": 1471052440,
+          "filesize": 956126,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 55009,
+          "chapter_title": "1话",
+          "updatetime": 1468991234,
+          "filesize": 836354,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "看的是上帝，收藏的是皇上帝。微博：三色棋",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 1165081,
+        "uid": 101233719,
+        "content": "反派脑门都被夹过",
+        "createtime": 1471268559,
+        "nickname": "qzuser58103",
+        "avatar": "https://avatar.dmzj.com/2e/ce/2ece9d02fde4c835501af32fd4a19f17.png"
+      },
+      {
+        "comment_id": 1046281,
+        "uid": 101299554,
+        "content": "懵逼....",
+        "createtime": 1469120708,
+        "nickname": "夜雨风云咸鱼成",
+        "avatar": "https://avatar.dmzj.com/10/65/10659461cd6a71d33e1e4637dea7fdd4.png"
+      }
+    ]
+  }
+}

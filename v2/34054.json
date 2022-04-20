@@ -1,0 +1,79 @@
+{
+  "id": 34054,
+  "islong": 2,
+  "direction": 2,
+  "title": "万象漫画工作室",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/14/1013148941463651201.jpg",
+  "description": "为爱好为理想，有基情也有姬情，六个性格迥异的漫画人给你展现最有趣的工作室日常！",
+  "last_updatetime": 1463726639,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 16326,
+  "hit_num": 182343,
+  "uid": 101314894,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3243,
+      "tag_name": "ゆり"
+    },
+    {
+      "tag_id": 3328,
+      "tag_name": "职场"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11847,
+      "tag_name": "万象漫画工作室"
+    }
+  ],
+  "subscribe_num": 111,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50083,
+          "chapter_title": "1话",
+          "updatetime": 1463726639,
+          "filesize": 1091847,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "连载漫画版权均归万象漫画工作室所有，请勿所以转载(๑´ㅂ`๑)\n互动吐槽搞基欢迎关注新浪微博@万象漫画工作室。",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 16251591,
+        "uid": 104752096,
+        "content": "破空而来",
+        "createtime": 1558497329,
+        "nickname": "星尘佣兵",
+        "avatar": "https://avatar.dmzj.com/63/30/63309e3700b431363a72641017a82263.png"
+      },
+      {
+        "comment_id": 9036932,
+        "uid": 106178613,
+        "content": "终于到头了(இωஇ )",
+        "createtime": 1544862348,
+        "nickname": "蓝色の幽灵",
+        "avatar": "https://avatar.dmzj.com/0f/83/0f83fbd258cb75c64d58e60060258606.png"
+      }
+    ]
+  }
+}

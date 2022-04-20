@@ -1,0 +1,80 @@
+{
+  "id": 38341,
+  "islong": 2,
+  "direction": 2,
+  "title": "冠军争夺战",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/guanjunzhengduozhanfengmianl.jpg",
+  "description": "斗界已成往事，争夺悄然进行。昔日勇者再度齐聚一堂，只为宇宙长老的命运博弈。最终，谁又将拔得头筹？",
+  "last_updatetime": 1470892542,
+  "copyright": 0,
+  "first_letter": "g",
+  "hot_num": 30943,
+  "hit_num": 158501,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 327,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 55788,
+          "chapter_title": "2卷",
+          "updatetime": 1470892542,
+          "filesize": 3636920,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 55396,
+          "chapter_title": "1卷",
+          "updatetime": 1469844690,
+          "filesize": 4963537,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 1224389,
+        "uid": 101097354,
+        "content": "漫威格斗",
+        "createtime": 1472387238,
+        "nickname": "百灵鸟52731",
+        "avatar": "https://avatar.dmzj.com/ec/48/ec48a9562f731ea0ac1adfdba90ac230.png"
+      },
+      {
+        "comment_id": 1146549,
+        "uid": 101164067,
+        "content": "阿瑞斯像金刚狼",
+        "createtime": 1470917116,
+        "nickname": "Logan31024",
+        "avatar": "https://avatar.dmzj.com/45/35/4535a3f12e902dde43eedd6b97f74123.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 35152,
+  "islong": 2,
+  "direction": 2,
+  "title": "惊奇队长v3",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/jqdzv36489l.jpg",
+  "description": "在咖啡厅休息的时候，遭遇了神秘蛇怪的袭击....",
+  "last_updatetime": 1465007338,
+  "copyright": 0,
+  "first_letter": "j",
+  "hot_num": 44648,
+  "hit_num": 30703,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 206,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54464,
+          "chapter_title": "0卷",
+          "updatetime": 1465007338,
+          "filesize": 2801913,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 23476864,
+        "uid": 110238172,
+        "content": "就1话a",
+        "createtime": 1579854568,
+        "nickname": "dmzj_110238172",
+        "avatar": "https://avatar.dmzj.com/ba/9c/ba9c96e9543541173e42bebd72ca8c65.png"
+      },
+      {
+        "comment_id": 4688488,
+        "uid": 102077360,
+        "content": "精分战士",
+        "createtime": 1526227315,
+        "nickname": "诶嘿呀",
+        "avatar": "https://avatar.dmzj.com/60/87/60871b423c13f8db83e77de1428dc90f.png"
+      }
+    ]
+  }
+}

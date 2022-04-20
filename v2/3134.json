@@ -1,0 +1,104 @@
+{
+  "id": 3134,
+  "islong": 2,
+  "direction": 1,
+  "title": "LittleLittle",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/littlelittle.jpg",
+  "description": "不需要翻译就能看懂的，超越了国家和语言的漫画……",
+  "last_updatetime": 1274166572,
+  "copyright": 0,
+  "first_letter": "l",
+  "hot_num": 45981,
+  "hit_num": 265705,
+  "uid": null,
+  "authors": [
+    {
+      "tag_id": 1839,
+      "tag_name": "ろくこ"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3252,
+      "tag_name": "萌系"
+    }
+  ],
+  "subscribe_num": 222,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 7637,
+          "chapter_title": "6话",
+          "updatetime": 1274166572,
+          "filesize": 1890040,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 7636,
+          "chapter_title": "5话",
+          "updatetime": 1274166559,
+          "filesize": 3278128,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 7635,
+          "chapter_title": "4话",
+          "updatetime": 1274166544,
+          "filesize": 2014631,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 7634,
+          "chapter_title": "3话",
+          "updatetime": 1274166534,
+          "filesize": 2728208,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 7633,
+          "chapter_title": "2话",
+          "updatetime": 1274166524,
+          "filesize": 1158535,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 7632,
+          "chapter_title": "1话",
+          "updatetime": 1274166515,
+          "filesize": 1551726,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 8,
+    "latest_comment": [
+      {
+        "comment_id": 5013292,
+        "uid": 104591766,
+        "content": "警告：最后女主跟一个路人甲 BG 了，不想瞎眼不要点。",
+        "createtime": 1528389770,
+        "nickname": "Angel Beats38674",
+        "avatar": "https://avatar.dmzj.com/70/8e/708ece0a3f27fdcb5869c80608162736.png"
+      },
+      {
+        "comment_id": 340101,
+        "uid": 33476293,
+        "content": "小狐狸是一只偷偷去她那里玩的啊。",
+        "createtime": 1421324468,
+        "nickname": "理科生ZN",
+        "avatar": "https://avatar.dmzj.com/4d/77/4d77a2dbff123fb155cdbb5eb1e103a5.png"
+      }
+    ]
+  }
+}

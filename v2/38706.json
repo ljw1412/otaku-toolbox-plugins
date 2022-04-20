@@ -1,0 +1,81 @@
+{
+  "id": 38706,
+  "islong": 1,
+  "direction": 2,
+  "title": "嘻多猴 ",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/10/1020517101473153352.jpg",
+  "description": "这是一只贱萌逗乐的猴子，据说他继承了齐天大圣孙悟空的基因。\n",
+  "last_updatetime": 1473409452,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 893,
+  "hit_num": 4400,
+  "uid": 102051710,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3248,
+      "tag_name": "热血"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12397,
+      "tag_name": "Fun Monkey"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56927,
+          "chapter_title": "3话",
+          "updatetime": 1473409452,
+          "filesize": 210656,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 56819,
+          "chapter_title": "2话",
+          "updatetime": 1473154022,
+          "filesize": 218877,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 56818,
+          "chapter_title": "1话",
+          "updatetime": 1473153765,
+          "filesize": 244231,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 13216772,
+        "uid": 101018006,
+        "content": "这个漫画是真的迷，看不懂啥意思......",
+        "createtime": 1553210221,
+        "nickname": "神魔VS传说",
+        "avatar": "https://avatar.dmzj.com/39/04/3904a123a09cb52fdec29ef163288d21.png"
+      }
+    ]
+  }
+}

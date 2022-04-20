@@ -1,0 +1,73 @@
+{
+  "id": 36689,
+  "islong": 2,
+  "direction": 1,
+  "title": "神姬噗嗤",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/19/shenjipuchi.JPG",
+  "description": "神姬PROJECT官方四格。",
+  "last_updatetime": 1467286536,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 25288,
+  "hit_num": 3349,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12068,
+      "tag_name": "神姫PROJECT"
+    }
+  ],
+  "subscribe_num": 399,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 51695,
+          "chapter_title": "1话",
+          "updatetime": 1467286536,
+          "filesize": 125932,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 73,
+    "latest_comment": [
+      {
+        "comment_id": 29100444,
+        "uid": 107447317,
+        "content": "这就是碧绿传说，碧绿航线????",
+        "createtime": 1595258435,
+        "nickname": "Chriren",
+        "avatar": "https://avatar.dmzj.com/ad/c7/adc7f93fa2c4bbb8c32cf5f085e71668.png"
+      },
+      {
+        "comment_id": 22888270,
+        "uid": 105962475,
+        "content": "这个怎么样啊",
+        "createtime": 1577464783,
+        "nickname": "dmzj_105962475",
+        "avatar": "https://avatar.dmzj.com/81/37/81375aae9b62805257c8179d00d2fd7f.png"
+      }
+    ]
+  }
+}

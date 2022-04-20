@@ -1,0 +1,77 @@
+{
+  "id": 38428,
+  "islong": 1,
+  "direction": 2,
+  "title": "喜欢一个人是一种怎么样的体验",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1018527111470446855.jpg",
+  "description": "不管你是累了，还是烦恼了，不管你是爱了，还是失恋了，学子漫画会一直陪你走下去！",
+  "last_updatetime": 1470714229,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 834,
+  "hit_num": 6685,
+  "uid": 101852711,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12248,
+      "tag_name": "学子漫画"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52363,
+          "chapter_title": "3话",
+          "updatetime": 1470714229,
+          "filesize": 299110,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 52328,
+          "chapter_title": "2话",
+          "updatetime": 1470628848,
+          "filesize": 239974,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 52326,
+          "chapter_title": "1话",
+          "updatetime": 1470451612,
+          "filesize": 439183,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1135293,
+        "uid": 101660711,
+        "content": "我表示从一个女人的角度说，爱就是爱，再怎么拼的没有用，KO?（第二话）",
+        "createtime": 1470724268,
+        "nickname": "紫罗兰白     X",
+        "avatar": "https://avatar.dmzj.com/68/2a/682aa19aeae176900ea80bc81dc2c5a1.png"
+      }
+    ]
+  }
+}

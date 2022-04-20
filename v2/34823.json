@@ -1,0 +1,80 @@
+{
+  "id": 34823,
+  "islong": 2,
+  "direction": 1,
+  "title": "hello警报",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/hellojingbao.jpg",
+  "description": "东方同人漫画",
+  "last_updatetime": 1464689882,
+  "copyright": 0,
+  "first_letter": "h",
+  "hot_num": 141003,
+  "hit_num": 231570,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 17,
+      "tag_name": "四格"
+    },
+    {
+      "tag_id": 5077,
+      "tag_name": "东方"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 5439,
+      "tag_name": "もりのほん"
+    }
+  ],
+  "subscribe_num": 848,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49821,
+          "chapter_title": "2话",
+          "updatetime": 1464689882,
+          "filesize": 3151161,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 49820,
+          "chapter_title": "1话",
+          "updatetime": 1464689829,
+          "filesize": 3074322,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 18,
+    "latest_comment": [
+      {
+        "comment_id": 23149556,
+        "uid": 105365971,
+        "content": "差点以为有第三部",
+        "createtime": 1578484233,
+        "nickname": "qzuser82537471",
+        "avatar": "https://avatar.dmzj.com/33/17/3317a3c93564a0bef495e3f56788ac49.png"
+      },
+      {
+        "comment_id": 22041778,
+        "uid": 108592478,
+        "content": "哈哈哈哈哈给",
+        "createtime": 1573435838,
+        "nickname": "dmzj_108592478",
+        "avatar": "https://avatar.dmzj.com/00/50/0050eda9119251c8484c57e64b6447bf.png"
+      }
+    ]
+  }
+}

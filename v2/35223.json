@@ -1,0 +1,67 @@
+{
+  "id": 35223,
+  "islong": 2,
+  "direction": 2,
+  "title": "套路",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1011380131465388594.jpg",
+  "description": "生活中满满都是套路，请不要大意地活着。",
+  "last_updatetime": 1465388913,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 918,
+  "hit_num": 3602,
+  "uid": 101138013,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11755,
+      "tag_name": "huihui"
+    }
+  ],
+  "subscribe_num": 0,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 50195,
+          "chapter_title": "1话",
+          "updatetime": 1465388913,
+          "filesize": 129034,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 893100,
+        "uid": 9952473,
+        "content": "Wtf?",
+        "createtime": 1465640657,
+        "nickname": "xuzhihua86",
+        "avatar": "https://avatar.dmzj.com/1b/cb/1bcb771c679b9ac266a16a817b35015c.png"
+      }
+    ]
+  }
+}

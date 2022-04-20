@@ -1,0 +1,79 @@
+{
+  "id": 36280,
+  "islong": 2,
+  "direction": 2,
+  "title": "ONE PARK",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/6/1005351661466699236.jpg",
+  "description": "集周刊少年JUMP精髓的欲望神作",
+  "last_updatetime": 1466699344,
+  "copyright": 1,
+  "first_letter": "o",
+  "hot_num": 5032,
+  "hit_num": 76592,
+  "uid": 100535166,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10958,
+      "tag_name": "田猪头"
+    }
+  ],
+  "subscribe_num": 41,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 55537,
+          "chapter_title": "1话",
+          "updatetime": 1466699344,
+          "filesize": 1784440,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 19086999,
+        "uid": 105015903,
+        "content": "what？？？",
+        "createtime": 1565080625,
+        "nickname": "以繁星の名",
+        "avatar": "https://avatar.dmzj.com/05/c9/05c9964ffbb784b49c8c4225a30f8cd8.png"
+      },
+      {
+        "comment_id": 941110,
+        "uid": 16435352,
+        "content": "几个画面基本都是摸着原图画的 没有原图作画突然就狗屎了",
+        "createtime": 1466809421,
+        "nickname": "HL是一个没有妹纸缘的家伙",
+        "avatar": "https://avatar.dmzj.com/6f/ee/6fee2409776e611204d0ae3c1ce0d5ca.png"
+      }
+    ]
+  }
+}

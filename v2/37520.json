@@ -1,0 +1,63 @@
+{
+  "id": 37520,
+  "islong": 2,
+  "direction": 2,
+  "title": "无解的谜团1",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391468319727.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1468319739,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 1121,
+  "hit_num": 2982,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 3,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56521,
+          "chapter_title": "1话",
+          "updatetime": 1468319739,
+          "filesize": 271264,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 1,
+    "latest_comment": [
+      {
+        "comment_id": 1017346,
+        "uid": 101589424,
+        "content": "这部漫画不叫无尽谜团。应该叫做   神农  。网络漫画。",
+        "createtime": 1468562491,
+        "nickname": "白翎绿萱",
+        "avatar": "https://avatar.dmzj.com/ea/5b/ea5b965f14a11c9a98424a07e468b4ce.png"
+      }
+    ]
+  }
+}

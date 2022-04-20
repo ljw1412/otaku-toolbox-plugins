@@ -1,0 +1,103 @@
+{
+  "id": 39118,
+  "islong": 2,
+  "direction": 2,
+  "title": "小噗",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/8/1017969481477876462.jpg",
+  "description": "有趣的逗比日常",
+  "last_updatetime": 1485853829,
+  "copyright": 1,
+  "first_letter": "x",
+  "hot_num": 1249,
+  "hit_num": 10934,
+  "uid": 101796948,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12579,
+      "tag_name": "高小噗"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56955,
+          "chapter_title": "8话",
+          "updatetime": 1485853829,
+          "filesize": 1831877,
+          "chapter_order": 8
+        },
+        {
+          "chapter_id": 56636,
+          "chapter_title": "7话",
+          "updatetime": 1485011789,
+          "filesize": 1952232,
+          "chapter_order": 7
+        },
+        {
+          "chapter_id": 55732,
+          "chapter_title": "6话",
+          "updatetime": 1481728563,
+          "filesize": 367357,
+          "chapter_order": 6
+        },
+        {
+          "chapter_id": 55380,
+          "chapter_title": "5话",
+          "updatetime": 1480483865,
+          "filesize": 276670,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 55229,
+          "chapter_title": "4话",
+          "updatetime": 1479879168,
+          "filesize": 261500,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 55063,
+          "chapter_title": "3话",
+          "updatetime": 1479291169,
+          "filesize": 241943,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 54930,
+          "chapter_title": "2话",
+          "updatetime": 1478791700,
+          "filesize": 259898,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 54722,
+          "chapter_title": "1话",
+          "updatetime": 1478007344,
+          "filesize": 457050,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "逗比中二份子就怂糗事情多多咯，那就画出来大家乐乐吧。                             ",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

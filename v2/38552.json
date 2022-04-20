@@ -1,0 +1,73 @@
+{
+  "id": 38552,
+  "islong": 2,
+  "direction": 2,
+  "title": "月光骑士V5",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/yueguangqishivsanfengmianl.jpg",
+  "description": "月骑的双腿断了，使得他不能继续作英雄了，可是在他内心深处仍旧强烈的希望着能继续作一个英雄……",
+  "last_updatetime": 1471770626,
+  "copyright": 0,
+  "first_letter": "y",
+  "hot_num": 25774,
+  "hit_num": 41150,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 169,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 57445,
+          "chapter_title": "1卷",
+          "updatetime": 1471770626,
+          "filesize": 5273179,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 23192346,
+        "uid": 101346779,
+        "content": "诈尸?",
+        "createtime": 1578656676,
+        "nickname": "ギルガメッシュ01638",
+        "avatar": "https://avatar.dmzj.com/fc/d4/fcd454e1dfafb66ef524cb3134bf5658.png"
+      },
+      {
+        "comment_id": 6396677,
+        "uid": 100194445,
+        "content": "这刊是V2不是V3啊",
+        "createtime": 1534834458,
+        "nickname": "横道",
+        "avatar": "https://avatar.dmzj.com/13/05/130520e286c93e3dcb0c0f6ebd11f31b.png"
+      }
+    ]
+  }
+}

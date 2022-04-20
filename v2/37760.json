@@ -1,0 +1,54 @@
+{
+  "id": 37760,
+  "islong": 2,
+  "direction": 2,
+  "title": "44.4电台2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/19/1004692391467714123.jpg",
+  "description": "动漫神居",
+  "last_updatetime": 1467714145,
+  "copyright": 1,
+  "first_letter": "4",
+  "hot_num": 814,
+  "hit_num": 1290,
+  "uid": 100469239,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 10819,
+      "tag_name": "动漫神居"
+    }
+  ],
+  "subscribe_num": 2,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 56602,
+          "chapter_title": "1话",
+          "updatetime": 1467714145,
+          "filesize": 200763,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

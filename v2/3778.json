@@ -1,0 +1,80 @@
+{
+  "id": 3778,
+  "islong": 2,
+  "direction": 1,
+  "title": "魔术士欧菲MAX",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/5/02_17cc190db6e34fcf7db03c04a7147cf0.jpg",
+  "description": "魔术士欧菲MAX（第二部）",
+  "last_updatetime": 1275298640,
+  "copyright": 0,
+  "first_letter": "m",
+  "hot_num": 72538,
+  "hit_num": 349083,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 196,
+      "tag_name": "沢田一"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 368,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8794,
+          "chapter_title": "2卷",
+          "updatetime": 1275903440,
+          "filesize": 19740269,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8793,
+          "chapter_title": "1卷",
+          "updatetime": 1275903440,
+          "filesize": 15452837,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 28937670,
+        "uid": 101675983,
+        "content": "很好看",
+        "createtime": 1594724657,
+        "nickname": "Master33553",
+        "avatar": "https://avatar.dmzj.com/27/5a/275aee63c2f5b50cdc641629cfbc3346.png"
+      },
+      {
+        "comment_id": 27803447,
+        "uid": 102029747,
+        "content": "太少了拉",
+        "createtime": 1590822919,
+        "nickname": "洛炎",
+        "avatar": "https://avatar.dmzj.com/95/c9/95c97420d9a0dfae0ef1fc1ab747d64d.png"
+      }
+    ]
+  }
+}

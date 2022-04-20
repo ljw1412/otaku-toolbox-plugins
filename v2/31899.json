@@ -1,0 +1,93 @@
+{
+  "id": 31899,
+  "islong": 2,
+  "direction": 2,
+  "title": "森之夏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1005376131460012154.jpg",
+  "description": "魔法的夏天",
+  "last_updatetime": 1460012457,
+  "copyright": 1,
+  "first_letter": "s",
+  "hot_num": 10278,
+  "hit_num": 412083,
+  "uid": 100537613,
+  "types": [
+    {
+      "tag_id": 11,
+      "tag_name": "魔法"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    },
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11629,
+      "tag_name": "潘晓歌"
+    }
+  ],
+  "subscribe_num": 175,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48587,
+          "chapter_title": "3话",
+          "updatetime": 1460012457,
+          "filesize": 2198686,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 48586,
+          "chapter_title": "2话",
+          "updatetime": 1460012421,
+          "filesize": 2164019,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 48585,
+          "chapter_title": "1话",
+          "updatetime": 1460012261,
+          "filesize": 2001013,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 5,
+    "latest_comment": [
+      {
+        "comment_id": 718209,
+        "uid": 101022703,
+        "content": "既然是连载应该还有吧，接下来应该就是小彩和男孩的校园生活了吧。好期待啊！",
+        "createtime": 1460084416,
+        "nickname": "合20951",
+        "avatar": "https://avatar.dmzj.com/57/30/5730b4d3c592bf34ddf4fc1645eb0f67.png"
+      },
+      {
+        "comment_id": 718197,
+        "uid": 10030382,
+        "content": "有意思啊，很好看。",
+        "createtime": 1460083825,
+        "nickname": "p8563734",
+        "avatar": "https://avatar.dmzj.com/60/4d/604d1ccbed5d45fb7de70fdcedef7954.png"
+      }
+    ]
+  }
+}

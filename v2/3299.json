@@ -1,0 +1,104 @@
+{
+  "id": 3299,
+  "islong": 2,
+  "direction": 1,
+  "title": "像这样的情歌",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/2/14_20e7e129b0bf64b42e645c808e853fe1.jpg",
+  "description": "左耳的明日，右耳的昨日。 在摇晃的耳环间，今日的心情发出SHALA声。",
+  "last_updatetime": 1274084023,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 40195,
+  "hit_num": 4352614,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1960,
+      "tag_name": "北崎拓"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 192,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 7961,
+          "chapter_title": "6卷",
+          "updatetime": 1274688823,
+          "filesize": 28843186,
+          "chapter_order": 60
+        },
+        {
+          "chapter_id": 7960,
+          "chapter_title": "5卷",
+          "updatetime": 1274688823,
+          "filesize": 25471113,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 7959,
+          "chapter_title": "4卷",
+          "updatetime": 1274688823,
+          "filesize": 23968177,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 7958,
+          "chapter_title": "3卷",
+          "updatetime": 1274688823,
+          "filesize": 26907038,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 7957,
+          "chapter_title": "2卷",
+          "updatetime": 1274688823,
+          "filesize": 25832901,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 7956,
+          "chapter_title": "1卷",
+          "updatetime": 1274688823,
+          "filesize": 25019096,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 36,
+    "latest_comment": [
+      {
+        "comment_id": 29878947,
+        "uid": 109863243,
+        "content": "可以",
+        "createtime": 1598157337,
+        "nickname": "dmzj_109863243",
+        "avatar": "https://avatar.dmzj.com/d6/45/d645be87b386048c42f93b90a2fec00e.png"
+      },
+      {
+        "comment_id": 29751550,
+        "uid": 107963153,
+        "content": "这就凉了吗",
+        "createtime": 1597680438,
+        "nickname": "锅巴铲",
+        "avatar": "https://avatar.dmzj.com/55/91/5591eb6c863608556198c8d3cf606f73.png"
+      }
+    ]
+  }
+}

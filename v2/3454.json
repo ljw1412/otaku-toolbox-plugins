@@ -1,0 +1,97 @@
+{
+  "id": 3454,
+  "islong": 2,
+  "direction": 1,
+  "title": "少年疾驱",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/shaonian.jpg",
+  "description": "附田佑斗最新在jump连载的足球漫画，讲述一群有梦想的男孩们，为了足球为了梦想努力的故事。",
+  "last_updatetime": 1277194432,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 87311,
+  "hit_num": 1038861,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2071,
+      "tag_name": "附田佑斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 284,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 8732,
+          "chapter_title": "5话",
+          "updatetime": 1277194432,
+          "filesize": 2185699,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 8647,
+          "chapter_title": "4话",
+          "updatetime": 1276617936,
+          "filesize": 2074539,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 8498,
+          "chapter_title": "3话",
+          "updatetime": 1275890860,
+          "filesize": 2581542,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 8255,
+          "chapter_title": "2话",
+          "updatetime": 1275268893,
+          "filesize": 2935923,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8143,
+          "chapter_title": "1话",
+          "updatetime": 1274952195,
+          "filesize": 6760668,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 57,
+    "latest_comment": [
+      {
+        "comment_id": 29847562,
+        "uid": 111490814,
+        "content": "dd",
+        "createtime": 1598030575,
+        "nickname": "dmzj_5f40014825072",
+        "avatar": "https://avatar.dmzj.com/d4/2a/d42a43a0d42ccf6ee76e2cf7f0e49485.png"
+      },
+      {
+        "comment_id": 25213325,
+        "uid": 24312319,
+        "content": "评论收藏标记水刀洪流接船一套带走",
+        "createtime": 1584094097,
+        "nickname": "汐晨沐雪",
+        "avatar": "https://avatar.dmzj.com/62/c3/62c35476a5106bc50e961ef01473c22c.png"
+      }
+    ]
+  }
+}

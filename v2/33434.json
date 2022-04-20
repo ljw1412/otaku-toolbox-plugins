@@ -1,0 +1,75 @@
+{
+  "id": 33434,
+  "islong": 2,
+  "direction": 2,
+  "title": "天下第二",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1005375951463025923.jpg",
+  "description": "天下第二",
+  "last_updatetime": 1463026022,
+  "copyright": 1,
+  "first_letter": "t",
+  "hot_num": 19536,
+  "hit_num": 397956,
+  "uid": 100537595,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11793,
+      "tag_name": "李智"
+    }
+  ],
+  "subscribe_num": 209,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49781,
+          "chapter_title": "1话",
+          "updatetime": 1463026022,
+          "filesize": 1587792,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 19,
+    "latest_comment": [
+      {
+        "comment_id": 2556838,
+        "uid": 104955673,
+        "content": "6年前在漫画书上看到的第一话，现在还是第一话，我也是醉了。",
+        "createtime": 1500897002,
+        "nickname": "52054766",
+        "avatar": "https://avatar.dmzj.com/ba/1d/ba1d3eb39f9e94d47ae1c99845378a1c.png"
+      },
+      {
+        "comment_id": 2359630,
+        "uid": 104721722,
+        "content": "怎么还不更",
+        "createtime": 1498140938,
+        "nickname": "☆ 笨 丫头じov",
+        "avatar": "https://avatar.dmzj.com/92/99/92999e1fc6a08f33b01f93d4a1f2be3f.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": 38642,
+  "islong": 2,
+  "direction": 1,
+  "title": "(C89)WorldWideWave",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/160831www.jpg",
+  "description": "共依存的雷酱系列总集篇",
+  "last_updatetime": 1472626954,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "w",
+  "comic_py": "worldwidewave",
+  "hidden": 0,
+  "hot_num": 111409,
+  "hit_num": 1578522,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 57784,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12369,
+      "tag_name": "うゑゐぶ"
+    }
+  ],
+  "subscribe_num": 805,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 57784,
+          "chapter_title": "1话",
+          "updatetime": 1472626954,
+          "filesize": 11006823,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 113,
+    "latest_comment": [
+      {
+        "comment_id": 29254443,
+        "uid": 105129553,
+        "content": "哦？",
+        "createtime": 1595822062,
+        "nickname": "MaxCoffee",
+        "avatar": "https://avatar.dmzj.com/64/48/6448a156e3719fe8656ed22a633c6871.png"
+      },
+      {
+        "comment_id": 27755143,
+        "uid": 109141248,
+        "content": "不对劲",
+        "createtime": 1590664001,
+        "nickname": "小狼暖暖",
+        "avatar": "https://avatar.dmzj.com/aa/f1/aaf1868e0fa730914b3778ada6f04872.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

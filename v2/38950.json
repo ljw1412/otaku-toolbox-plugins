@@ -1,0 +1,83 @@
+{
+  "id": 38950,
+  "islong": 2,
+  "direction": 1,
+  "title": "Bojoree Kuubou",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/bojoreekuubou.jpg",
+  "description": "舰娘同人",
+  "last_updatetime": 1475834742,
+  "last_update_chapter_name": "全一话",
+  "copyright": 0,
+  "first_letter": "b",
+  "comic_py": "bojoreekuubou",
+  "hidden": 0,
+  "hot_num": 113871,
+  "hit_num": 222411,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 59453,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 13627,
+      "tag_name": "舰娘"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12495,
+      "tag_name": "yumi"
+    },
+    {
+      "tag_id": 12496,
+      "tag_name": "nonco"
+    }
+  ],
+  "subscribe_num": 813,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59453,
+          "chapter_title": "1话",
+          "updatetime": 1475834744,
+          "filesize": 4856162,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 16,
+    "latest_comment": [
+      {
+        "comment_id": 16498766,
+        "uid": 101251245,
+        "content": "马可",
+        "createtime": 1558978457,
+        "nickname": "qzuser23983",
+        "avatar": "https://avatar.dmzj.com/5f/5e/5f5ee3312b35c5e3a15c4923557e26e1.png"
+      },
+      {
+        "comment_id": 1440068,
+        "uid": 21205922,
+        "content": "p站上看nonco的四格太感动了就过来了😂",
+        "createtime": 1478342398,
+        "nickname": "囧·囧死",
+        "avatar": "https://avatar.dmzj.com/5a/08/5a08afbc4f3da03c63faf8395773b4a4.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

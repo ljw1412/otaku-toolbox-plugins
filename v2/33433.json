@@ -1,0 +1,71 @@
+{
+  "id": 33433,
+  "islong": 2,
+  "direction": 2,
+  "title": "灵闪速递",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1005375951463026065.jpg",
+  "description": "灵闪速递",
+  "last_updatetime": 1463026272,
+  "copyright": 1,
+  "first_letter": "l",
+  "hot_num": 3216,
+  "hit_num": 108679,
+  "uid": 100537595,
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 5848,
+      "tag_name": "奇幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11793,
+      "tag_name": "李智"
+    }
+  ],
+  "subscribe_num": 91,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 49051,
+          "chapter_title": "1话",
+          "updatetime": 1463026272,
+          "filesize": 2128541,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 954999,
+        "uid": 101551848,
+        "content": "更新/发怒",
+        "createtime": 1467162206,
+        "nickname": "Sugar treasure",
+        "avatar": "https://avatar.dmzj.com/64/45/6445fa68c9de239d6a54aea12c2aa389.png"
+      },
+      {
+        "comment_id": 951991,
+        "uid": 101070061,
+        "content": "快更新！",
+        "createtime": 1467087634,
+        "nickname": "我想听你的故事",
+        "avatar": "https://avatar.dmzj.com/13/f0/13f05d4b19a2542119b0e1c56e6d7d72.png"
+      }
+    ]
+  }
+}

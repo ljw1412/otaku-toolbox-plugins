@@ -1,0 +1,82 @@
+{
+  "id": 38400,
+  "islong": 2,
+  "direction": 2,
+  "title": "雾中的他",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/15/1018635751470277815.jpg",
+  "description": "什么？？？？我的闺蜜和男神是同一个人？？怎么可能。。。。（没错我该怎么办。。。在线等建议",
+  "last_updatetime": 1470815813,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 5551,
+  "hit_num": 71974,
+  "uid": 101863575,
+  "types": [
+    {
+      "tag_id": 8,
+      "tag_name": "爱情"
+    },
+    {
+      "tag_id": 3255,
+      "tag_name": "励志"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12230,
+      "tag_name": "大头 yk"
+    }
+  ],
+  "subscribe_num": 111,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 57636,
+          "chapter_title": "2话",
+          "updatetime": 1470815813,
+          "filesize": 1163074,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 57398,
+          "chapter_title": "1话",
+          "updatetime": 1470278030,
+          "filesize": 799433,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 1180491,
+        "uid": 101221811,
+        "content": "更新啊！求更！",
+        "createtime": 1471535225,
+        "nickname": "我愿做你光下影",
+        "avatar": "https://avatar.dmzj.com/af/69/af69a7f03add88cd7f7777f59bf12d67.png"
+      },
+      {
+        "comment_id": 1145532,
+        "uid": 101908107,
+        "content": "不错画的很好。",
+        "createtime": 1470901293,
+        "nickname": "印驰漫画印刷",
+        "avatar": "https://avatar.dmzj.com/62/05/62054f0cbaf0c5e7499d64c136b84930.png"
+      }
+    ]
+  }
+}

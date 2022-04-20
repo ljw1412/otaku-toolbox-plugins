@@ -1,0 +1,95 @@
+{
+  "id": 39240,
+  "islong": 2,
+  "direction": 2,
+  "title": "五重奏",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/12/1003022521479694307.jpg",
+  "description": "五个小故事",
+  "last_updatetime": 1482070150,
+  "copyright": 1,
+  "first_letter": "w",
+  "hot_num": 2020,
+  "hit_num": 40819,
+  "uid": 100302252,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12643,
+      "tag_name": "争气基"
+    }
+  ],
+  "subscribe_num": 11,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 61320,
+          "chapter_title": "5话",
+          "updatetime": 1482070279,
+          "filesize": 1451620,
+          "chapter_order": 5
+        },
+        {
+          "chapter_id": 61321,
+          "chapter_title": "4话",
+          "updatetime": 1482070236,
+          "filesize": 1300375,
+          "chapter_order": 4
+        },
+        {
+          "chapter_id": 61322,
+          "chapter_title": "3话",
+          "updatetime": 1482070187,
+          "filesize": 2375295,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 61323,
+          "chapter_title": "2话",
+          "updatetime": 1482070150,
+          "filesize": 2944173,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 60583,
+          "chapter_title": "1话",
+          "updatetime": 1479694466,
+          "filesize": 2480191,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 2,
+    "latest_comment": [
+      {
+        "comment_id": 1490447,
+        "uid": 100127745,
+        "content": "第一咯!!!",
+        "createtime": 1479707226,
+        "nickname": "咲心",
+        "avatar": "https://avatar.dmzj.com/86/29/8629495f02df2c21a482f3e520b20701.png"
+      }
+    ]
+  }
+}

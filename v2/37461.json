@@ -1,0 +1,76 @@
+{
+  "id": 37461,
+  "islong": 2,
+  "direction": 2,
+  "title": "无限守卫者",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/0/wxswz56356l.jpg",
+  "description": "银河守卫者是一支保卫太空安全的英雄团队，但是太空并不是危险潜伏的唯一低点，现在我们的银河守卫者找到了他们...",
+  "last_updatetime": 1494086347,
+  "copyright": 0,
+  "first_letter": "w",
+  "hot_num": 40537,
+  "hit_num": 129121,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 252,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 64100,
+          "chapter_title": "2卷",
+          "updatetime": 1494086347,
+          "filesize": 6023861,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 54728,
+          "chapter_title": "1卷",
+          "updatetime": 1468406485,
+          "filesize": 5805095,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 2146071,
+        "uid": 104520788,
+        "content": "就用宋体多好，这字体太影响阅读",
+        "createtime": 1494102474,
+        "nickname": "一文92306",
+        "avatar": "https://avatar.dmzj.com/cf/aa/cfaa3c39bee4e186f780733b1d7c9657.png"
+      },
+      {
+        "comment_id": 1010553,
+        "uid": 100180474,
+        "content": "新？时间？",
+        "createtime": 1468421410,
+        "nickname": "乔四四",
+        "avatar": "https://avatar.dmzj.com/ef/71/ef71b47c9a8c4124837f5ebc6261d91d.png"
+      }
+    ]
+  }
+}

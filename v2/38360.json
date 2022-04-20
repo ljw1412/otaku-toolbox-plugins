@@ -1,0 +1,73 @@
+{
+  "id": 38360,
+  "islong": 2,
+  "direction": 2,
+  "title": "科技战甲",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/d6f2d4b44aed2e73b151527c8f01a18b86d6fkejizhanjiaaab.jpg",
+  "description": "爸爸，你认为我们孤独吗？",
+  "last_updatetime": 1469981240,
+  "copyright": 0,
+  "first_letter": "k",
+  "hot_num": 75491,
+  "hit_num": 70013,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2116,
+      "tag_name": "image"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 461,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 57266,
+          "chapter_title": "1卷",
+          "updatetime": 1469981240,
+          "filesize": 4575407,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 10,
+    "latest_comment": [
+      {
+        "comment_id": 1263784,
+        "uid": 24971357,
+        "content": "他喊他爸兄弟？",
+        "createtime": 1473390535,
+        "nickname": "哥特式的苍白",
+        "avatar": "https://avatar.dmzj.com/58/55/5855a2f7cb2b333c23bb0ed107a19a4f.png"
+      },
+      {
+        "comment_id": 1114507,
+        "uid": 100981276,
+        "content": "╮(￣▽￣)╭",
+        "createtime": 1470384795,
+        "nickname": "萌萌哒的守酱",
+        "avatar": "https://avatar.dmzj.com/2a/da/2adad480c93c13b5f818f18b3655e744.png"
+      }
+    ]
+  }
+}

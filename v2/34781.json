@@ -1,0 +1,73 @@
+{
+  "id": 34781,
+  "islong": 2,
+  "direction": 2,
+  "title": "X战警：第一课V2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/xzhanjingdiyike.jpg",
+  "description": "新生的x战警已经组成，现在该解决队员们各自的问题了。",
+  "last_updatetime": 1464498085,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 30563,
+  "hit_num": 51524,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 218,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 52742,
+          "chapter_title": "1卷",
+          "updatetime": 1464498085,
+          "filesize": 3737405,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 6,
+    "latest_comment": [
+      {
+        "comment_id": 854492,
+        "uid": 100078956,
+        "content": "问是不是密战后的看过漫画吗",
+        "createtime": 1464604014,
+        "nickname": "疯子阿萌",
+        "avatar": "https://avatar.dmzj.com/fb/91/fb918b55715839907c55302c37ec147a.png"
+      },
+      {
+        "comment_id": 851345,
+        "uid": 100925781,
+        "content": "应该是密战前，因为隐形女和神棍德已经上天了...",
+        "createtime": 1464515349,
+        "nickname": "职业性交涉人员",
+        "avatar": "https://avatar.dmzj.com/3d/6d/3d6d309c0518ba208795c1db49fa1ccf.png"
+      }
+    ]
+  }
+}

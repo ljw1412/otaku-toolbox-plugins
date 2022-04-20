@@ -1,0 +1,73 @@
+{
+  "id": 32248,
+  "islong": 2,
+  "direction": 2,
+  "title": "星球大战：传说系列",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/6/xingqioudazhanchuanshuoxiliefnegmianl.jpg",
+  "description": "欧比旺与阿纳金追杜库伯爵和格里弗斯将军不成反被下套……",
+  "last_updatetime": 1460169773,
+  "copyright": 0,
+  "first_letter": "x",
+  "hot_num": 31577,
+  "hit_num": 42840,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 178,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 48053,
+          "chapter_title": "1卷",
+          "updatetime": 1460169773,
+          "filesize": 3905696,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 9,
+    "latest_comment": [
+      {
+        "comment_id": 8375592,
+        "uid": 107456562,
+        "content": "obikin真的是永远的最佳拍档",
+        "createtime": 1543060763,
+        "nickname": "了不起的秀逗桑",
+        "avatar": "https://avatar.dmzj.com/6e/93/6e93fa539b1ecc2b9514c4cb622e3d22.png"
+      },
+      {
+        "comment_id": 2149693,
+        "uid": 101740840,
+        "content": "太虐了，Ani和Obi-wan……",
+        "createtime": 1494171158,
+        "nickname": "虾球_G_Pace",
+        "avatar": "https://avatar.dmzj.com/37/3f/373f58715a4b4954611156366cdff4eb.png"
+      }
+    ]
+  }
+}

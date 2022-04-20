@@ -1,0 +1,69 @@
+{
+  "id": 38615,
+  "islong": 1,
+  "direction": 2,
+  "title": "阿腾漫画",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/11/1018527111472438324.jpg",
+  "description": "不管你是累了，还是烦恼了，不管你是爱了，还是失恋了，学子漫画会一直陪你走下去！",
+  "last_updatetime": 1472615887,
+  "copyright": 1,
+  "first_letter": "a",
+  "hot_num": 1128,
+  "hit_num": 9710,
+  "uid": 101852711,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12248,
+      "tag_name": "学子漫画"
+    }
+  ],
+  "subscribe_num": 1,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 58364,
+          "chapter_title": "2话",
+          "updatetime": 1472615887,
+          "filesize": 178744,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 58304,
+          "chapter_title": "1话",
+          "updatetime": 1472438537,
+          "filesize": 338658,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 0,
+    "latest_comment": []
+  }
+}

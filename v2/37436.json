@@ -1,0 +1,79 @@
+{
+  "id": 37436,
+  "islong": 2,
+  "direction": 1,
+  "title": "行星9的假日",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/1/xingxingjiudejiari.jpg",
+  "description": "在每一天里，与陌生人相遇，与陌生人相互理解，又与陌生人永远分离，是稀松平常又无可替代的体验。",
+  "last_updatetime": 1468207609,
+  "last_update_chapter_name": "全一卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xingxing9dejiari",
+  "hidden": 0,
+  "hot_num": 113691,
+  "hit_num": 180544,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 54617,
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "types": [
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 3254,
+      "tag_name": "治愈"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12111,
+      "tag_name": "町田洋"
+    }
+  ],
+  "subscribe_num": 644,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54617,
+          "chapter_title": "1卷",
+          "updatetime": 1468207609,
+          "filesize": 13689387,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 53,
+    "latest_comment": [
+      {
+        "comment_id": 28337891,
+        "uid": 100681060,
+        "content": "好温柔的故事。",
+        "createtime": 1592759277,
+        "nickname": "惑星五月雨",
+        "avatar": "https://avatar.dmzj.com/48/86/48863193954b087039696948632be6cc.png"
+      },
+      {
+        "comment_id": 28287015,
+        "uid": 107356067,
+        "content": "有好多故事都超浪漫",
+        "createtime": 1592583611,
+        "nickname": "朝雾钦银",
+        "avatar": "https://avatar.dmzj.com/86/51/8651d75a1255fff9ab2545b7c5ddc5cb.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

@@ -1,0 +1,107 @@
+{
+  "id": 32267,
+  "islong": 2,
+  "direction": 2,
+  "title": "新复仇者v4",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/12/xinfuchouzhe2016.jpg",
+  "description": "巴黎街头传来撕心裂肺的呼救声，男男女女转变成了水晶头的怪物！鸣啼鸟带领着新复仇者前去一探究竟，到底发生了什么呢？",
+  "last_updatetime": 1463237683,
+  "last_update_chapter_name": "第10卷",
+  "copyright": 0,
+  "first_letter": "x",
+  "comic_py": "xinfuchouzhe2016",
+  "hidden": 0,
+  "hot_num": 78693,
+  "hit_num": 222223,
+  "uid": null,
+  "is_lock": 0,
+  "last_update_chapter_id": 53586,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 7,
+      "tag_name": "科幻"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 1136,
+      "tag_name": "Marvel Comics"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "subscribe_num": 688,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 53586,
+          "chapter_title": "10卷",
+          "updatetime": 1463237683,
+          "filesize": 2958694,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 53336,
+          "chapter_title": "9卷",
+          "updatetime": 1462280273,
+          "filesize": 2743354,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 53275,
+          "chapter_title": "8卷",
+          "updatetime": 1462106599,
+          "filesize": 3037689,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 53277,
+          "chapter_title": "2卷",
+          "updatetime": 1462110569,
+          "filesize": 2914116,
+          "chapter_order": 11
+        },
+        {
+          "chapter_id": 52603,
+          "chapter_title": "1卷",
+          "updatetime": 1460301903,
+          "filesize": 2538025,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 30,
+    "latest_comment": [
+      {
+        "comment_id": 6948863,
+        "uid": 105608248,
+        "content": "这是哪条时间线啊",
+        "createtime": 1537631592,
+        "nickname": "轻哼的小调",
+        "avatar": "https://avatar.dmzj.com/48/28/48288972973f636dbd157f4c55d15479.png"
+      },
+      {
+        "comment_id": 6492683,
+        "uid": 75694,
+        "content": "密战结束以来的刊在动漫之家怎么补啊。好乱啊没有头绪，理不清。",
+        "createtime": 1535220958,
+        "nickname": "北月海",
+        "avatar": "https://avatar.dmzj.com/ae/f8/aef80beab53aecea4b8a87934cdbfde1.png"
+      }
+    ]
+  },
+  "is_need_login": 0
+}

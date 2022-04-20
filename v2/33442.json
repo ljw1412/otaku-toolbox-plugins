@@ -1,0 +1,93 @@
+{
+  "id": 33442,
+  "islong": 1,
+  "direction": 2,
+  "title": "拼图修正带的日常",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/img/webpic/13/1012872131463102963.jpg",
+  "description": "修正带家族迎来新成员，创意拼图修正带滑稽登场，让我们一起来感受下拼图修正带的日常吧！",
+  "last_updatetime": 1464920083,
+  "copyright": 1,
+  "first_letter": "p",
+  "hot_num": 754,
+  "hit_num": 1584,
+  "uid": 101287213,
+  "types": [
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    },
+    {
+      "tag_id": 7568,
+      "tag_name": "搞笑"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 11798,
+      "tag_name": "天仔"
+    }
+  ],
+  "subscribe_num": 4,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 54378,
+          "chapter_title": "3话",
+          "updatetime": 1464920083,
+          "filesize": 125940,
+          "chapter_order": 3
+        },
+        {
+          "chapter_id": 53620,
+          "chapter_title": "2话",
+          "updatetime": 1463365890,
+          "filesize": 126471,
+          "chapter_order": 2
+        },
+        {
+          "chapter_id": 53552,
+          "chapter_title": "1话",
+          "updatetime": 1463103232,
+          "filesize": 126548,
+          "chapter_order": 1
+        }
+      ]
+    }
+  ],
+  "author_notice": "",
+  "comic_notice": "",
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 803910,
+        "uid": 101109764,
+        "content": "这说的都是啥跟啥……",
+        "createtime": 1463127877,
+        "nickname": "qzuser98278763",
+        "avatar": "https://avatar.dmzj.com/73/ff/73ff2f993e00014eccdf3650af6f1082.png"
+      },
+      {
+        "comment_id": 803707,
+        "uid": 101292261,
+        "content": "这是修正带？/惊讶",
+        "createtime": 1463121163,
+        "nickname": "天高文具",
+        "avatar": "https://avatar.dmzj.com/54/41/5441133aa33082159b184acf805b3735.png"
+      }
+    ]
+  }
+}

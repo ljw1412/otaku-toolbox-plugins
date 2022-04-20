@@ -1,0 +1,69 @@
+{
+  "id": 38595,
+  "islong": 2,
+  "direction": 1,
+  "title": "收藏哆啦A梦",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/14/shoucangduolaiamengfengmianl.jpg",
+  "description": "电子游戏软件增刊，哆啦A梦的各种道具。",
+  "last_updatetime": 1472178761,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 457857,
+  "hit_num": 447418,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 16,
+      "tag_name": "其他"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3745,
+      "tag_name": "多人"
+    }
+  ],
+  "subscribe_num": 2018,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 58205,
+          "chapter_title": "1卷",
+          "updatetime": 1472178761,
+          "filesize": 15146276,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 24,
+    "latest_comment": [
+      {
+        "comment_id": 25462066,
+        "uid": 100410330,
+        "content": "资料书，眼",
+        "createtime": 1584634019,
+        "nickname": "Rixel",
+        "avatar": "https://avatar.dmzj.com/21/98/21989595b92351be3e14d3965a72a950.png"
+      },
+      {
+        "comment_id": 25112355,
+        "uid": 105147690,
+        "content": "有趣",
+        "createtime": 1583849831,
+        "nickname": "沉默的黑曜石",
+        "avatar": "https://avatar.dmzj.com/16/48/164891fb0a25b8c7c42bf9d81b45e42f.png"
+      }
+    ]
+  }
+}

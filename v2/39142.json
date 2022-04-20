@@ -1,0 +1,73 @@
+{
+  "id": 39142,
+  "islong": 2,
+  "direction": 1,
+  "title": "虽然无法看到(c90)",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/4/suiranwufakandao.jpg",
+  "description": "NARUTO -ナルト-(火影忍者)同人漫画",
+  "last_updatetime": 1478422911,
+  "copyright": 0,
+  "first_letter": "s",
+  "hot_num": 48980,
+  "hit_num": 211758,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 3242,
+      "tag_name": "生活"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 12591,
+      "tag_name": "carbonate(soda)"
+    }
+  ],
+  "subscribe_num": 441,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 59799,
+          "chapter_title": "1话",
+          "updatetime": 1478422912,
+          "filesize": 3883212,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 43,
+    "latest_comment": [
+      {
+        "comment_id": 29103452,
+        "uid": 109525550,
+        "content": "传送门传送门",
+        "createtime": 1595263138,
+        "nickname": "鸡掰之王中王",
+        "avatar": "https://avatar.dmzj.com/81/18/8118dff254403aa37e7e1c396d6b3e79.png"
+      },
+      {
+        "comment_id": 21877624,
+        "uid": 103449773,
+        "content": "这个简介很有看头，说起来我也是什么都看不成.....因为web",
+        "createtime": 1572783768,
+        "nickname": "境界的彼方25817",
+        "avatar": "https://avatar.dmzj.com/db/9d/db9d78fcc25915bdfe002400d3942d7c.png"
+      }
+    ]
+  }
+}

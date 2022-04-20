@@ -1,0 +1,73 @@
+{
+  "id": 39232,
+  "islong": 2,
+  "direction": 2,
+  "title": "刀锋战士v2",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/daofengzhanshiV2.jpg",
+  "description": "刀锋战士仍旧继续着他追杀吸血鬼的战斗的故事。",
+  "last_updatetime": 1479627912,
+  "copyright": 0,
+  "first_letter": "d",
+  "hot_num": 19238,
+  "hit_num": 41012,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 6,
+      "tag_name": "格斗"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2309,
+      "tag_name": "连载中"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 3483,
+      "tag_name": "MAX Comics"
+    }
+  ],
+  "subscribe_num": 124,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 60209,
+          "chapter_title": "1卷",
+          "updatetime": 1479627912,
+          "filesize": 3968603,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 4,
+    "latest_comment": [
+      {
+        "comment_id": 1488182,
+        "uid": 101939598,
+        "content": "我从第一次知道这家伙他就在杀吸血鬼，杀到现在？",
+        "createtime": 1479646012,
+        "nickname": "“Coffin”♤",
+        "avatar": "https://avatar.dmzj.com/ce/67/ce67d9d21b8895a3c45885ed7337f919.png"
+      },
+      {
+        "comment_id": 1487917,
+        "uid": 27259703,
+        "content": "不错的漫画啊，比电影感觉更黑暗",
+        "createtime": 1479641182,
+        "nickname": "圣光的帕拉丁",
+        "avatar": "https://avatar.dmzj.com/6c/a1/6ca17f28d9bdd7a9db366816d5f3e2dd.png"
+      }
+    ]
+  }
+}

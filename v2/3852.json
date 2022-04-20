@@ -1,0 +1,105 @@
+{
+  "id": 3852,
+  "islong": 2,
+  "direction": 1,
+  "title": "爆笑西游记",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/15/bxxyj.jpg",
+  "description": "齐天大圣孙悟空和兔小僧因大闹天界而被囚禁在岩石中, 过了五百年, 奉命前往天竺取经的三藏将悟空解放出来, 而兔小僧也因英铃的帮助得以解脱。从此他们一同踏上既爆笑又充满危险的旅程……",
+  "last_updatetime": 1275727703,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 53609,
+  "hit_num": 1987266,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 4,
+      "tag_name": "冒险"
+    },
+    {
+      "tag_id": 5,
+      "tag_name": "欢乐向"
+    },
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2323,
+      "tag_name": "真锅让治"
+    }
+  ],
+  "subscribe_num": 292,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9066,
+          "chapter_title": "5卷",
+          "updatetime": 1276332503,
+          "filesize": 10897274,
+          "chapter_order": 50
+        },
+        {
+          "chapter_id": 9065,
+          "chapter_title": "4卷",
+          "updatetime": 1276332503,
+          "filesize": 10815857,
+          "chapter_order": 40
+        },
+        {
+          "chapter_id": 9064,
+          "chapter_title": "3卷",
+          "updatetime": 1276332503,
+          "filesize": 10835753,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 9063,
+          "chapter_title": "2卷",
+          "updatetime": 1276332503,
+          "filesize": 11300720,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 9062,
+          "chapter_title": "1卷",
+          "updatetime": 1276332503,
+          "filesize": 11072027,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 52,
+    "latest_comment": [
+      {
+        "comment_id": 30022252,
+        "uid": 104687629,
+        "content": "童年回忆啊",
+        "createtime": 1598698213,
+        "nickname": "Sitri-西迪",
+        "avatar": "https://avatar.dmzj.com/2c/4d/2c4dbe1463dbe503f9bbf392044f421a.png"
+      },
+      {
+        "comment_id": 28377210,
+        "uid": 104374873,
+        "content": "童年乐趣",
+        "createtime": 1592909663,
+        "nickname": "天天大哥哥",
+        "avatar": "https://avatar.dmzj.com/57/70/57709ee253b8165a9e516a6b836bf306.png"
+      }
+    ]
+  }
+}

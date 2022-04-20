@@ -1,0 +1,87 @@
+{
+  "id": 3818,
+  "islong": 2,
+  "direction": 1,
+  "title": "天狗神",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/16/tenguzin001_f9fbdad39a8d1a84f7d5b0135f54dda7.jpg",
+  "description": "天狗神",
+  "last_updatetime": 1407811594,
+  "copyright": 0,
+  "first_letter": "t",
+  "hot_num": 331299,
+  "hit_num": 1525926,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 12,
+      "tag_name": "神鬼"
+    },
+    {
+      "tag_id": 3246,
+      "tag_name": "纯爱"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 2249,
+      "tag_name": "佐原ミズ（梦花李）"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 1690,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 29632,
+          "chapter_title": "后传：淋风之人后篇",
+          "updatetime": 1407811594,
+          "filesize": 2490521,
+          "chapter_order": 30
+        },
+        {
+          "chapter_id": 29630,
+          "chapter_title": "后传：淋风之人前篇",
+          "updatetime": 1407811215,
+          "filesize": 2711053,
+          "chapter_order": 20
+        },
+        {
+          "chapter_id": 8835,
+          "chapter_title": "1卷",
+          "updatetime": 1275994825,
+          "filesize": 13781425,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 21,
+    "latest_comment": [
+      {
+        "comment_id": 29861966,
+        "uid": 102275771,
+        "content": "留",
+        "createtime": 1598099658,
+        "nickname": "三丝白玉卷",
+        "avatar": "https://avatar.dmzj.com/5d/b9/5db9aa8fa8f5da8656e96ed1f2ee283b.png"
+      },
+      {
+        "comment_id": 28992761,
+        "uid": 110979490,
+        "content": "留",
+        "createtime": 1594905372,
+        "nickname": "dmzj_110979490",
+        "avatar": "https://avatar.dmzj.com/e7/09/e709adf076d61729ae393771dd69ddad.png"
+      }
+    ]
+  }
+}

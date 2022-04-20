@@ -1,0 +1,73 @@
+{
+  "id": 3165,
+  "islong": 2,
+  "direction": 1,
+  "title": "棒球大联盟角色名鉴",
+  "is_dmzj": 0,
+  "cover": "https://images.dmzj.com/webpic/17/bangqiudalianmengjuesemingjian1.jpg",
+  "description": "棒球大联盟的角色名鉴介绍人物..",
+  "last_updatetime": 1273585922,
+  "copyright": 0,
+  "first_letter": "b",
+  "hot_num": 62606,
+  "hit_num": 754431,
+  "uid": null,
+  "types": [
+    {
+      "tag_id": 10,
+      "tag_name": "竞技"
+    },
+    {
+      "tag_id": 13,
+      "tag_name": "校园"
+    }
+  ],
+  "authors": [
+    {
+      "tag_id": 160,
+      "tag_name": "满田拓也"
+    }
+  ],
+  "status": [
+    {
+      "tag_id": 2310,
+      "tag_name": "已完结"
+    }
+  ],
+  "subscribe_num": 297,
+  "chapters": [
+    {
+      "title": "连载",
+      "data": [
+        {
+          "chapter_id": 9089,
+          "chapter_title": "1卷",
+          "updatetime": 1274190722,
+          "filesize": 17288373,
+          "chapter_order": 10
+        }
+      ]
+    }
+  ],
+  "comment": {
+    "comment_count": 3,
+    "latest_comment": [
+      {
+        "comment_id": 28002963,
+        "uid": 63700,
+        "content": "才发现有凉子的外传，作者真用心",
+        "createtime": 1591549323,
+        "nickname": "水希水希",
+        "avatar": "https://avatar.dmzj.com/9b/13/9b13216f3b78e0a448e7613374f2b0fb.png"
+      },
+      {
+        "comment_id": 5806288,
+        "uid": 100933900,
+        "content": "凉子赞",
+        "createtime": 1532326003,
+        "nickname": "qzuser11971",
+        "avatar": "https://avatar.dmzj.com/83/36/83365b3ee5852d8c9884ae26d9107a87.png"
+      }
+    ]
+  }
+}
