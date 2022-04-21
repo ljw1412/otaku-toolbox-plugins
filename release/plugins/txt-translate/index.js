@@ -113,6 +113,14 @@
         <div class="txt-translate-action layout-lr px-16">
           <div class="fs-18 font-weight-bold">
             <span v-show="mList.length">{{ curIndex + 1 }} / {{ mList.length }}</span>
+            <a-button-group v-show="mList.length" class="ml-8">
+              <a-button size="medium" :disabled="curIndex <= 0" @click="handleCurMove(-1)">
+                <template #icon><icon-caret-up /></template>
+              </a-button>
+              <a-button size="medium" :disabled="curIndex >= mList.length -1 " @click="handleCurMove(1)">
+                <template #icon><icon-caret-down /></template>
+              </a-button>
+            </a-button-group>
           </div>
           <a-button-group>
             <a-button @click="handleSave">保存</a-button>
@@ -134,9 +142,8 @@
           <div class="translate-item translate-1 pr-6">
             <div class="title mb-4 layout-lr">
               <div>
-                <span class="mr-4">有道翻译</span>
-                <a-tag size="small" 
-                :color="store.loaded.youdao?'green':'red'">{{store.loaded.youdao ? '已加载':'未加载' }}</a-tag>
+                <a-tag size="medium" 
+                :color="store.loaded.youdao?'green':'red'">有道翻译</a-tag>
                 <a-divider direction="vertical" />
                 <a-tag checkable 
                   size="small"
@@ -144,8 +151,11 @@
                   :checked="store.youdao.default" 
                   @check="hadnleChangeDefaultUse('youdao')">默认采用</a-tag>
               </div>
-              <a-button size="mini" :disabled="!store.youdao.targetText"
-                @click="handleUseResult('youdao')">采用</a-button>
+              <a-space size="mini">
+                <a-button size="mini" @click="getTransTargetYoudao">获取</a-button>
+                <a-button size="mini" :disabled="!store.youdao.targetText"
+                  @click="handleUseResult('youdao')">采用</a-button>
+              </a-space>
             </div>
             <a-textarea v-model="store.youdao.targetText"
               readonly :auto-size="{minRows:6,maxRows:6}"></a-textarea>
@@ -163,9 +173,8 @@
           <div class="translate-item translate-2 pl-6">
             <div class="title mb-4 layout-lr">
               <div>
-                <span class="mr-4">百度翻译</span>
-                <a-tag size="small" 
-                  :color="store.loaded.baidu?'green':'red'">{{store.loaded.baidu ? '已加载':'未加载' }}</a-tag>
+                <a-tag size="medium" 
+                  :color="store.loaded.baidu?'green':'red'">百度翻译</a-tag>
                   <a-divider direction="vertical" />
                   <a-tag checkable 
                     size="small"
@@ -173,7 +182,10 @@
                     :checked="store.baidu.default"
                     @check="hadnleChangeDefaultUse('baidu')">默认采用</a-tag>
               </div>
-              <a-button size="mini" :disabled="!store.baidu.targetText" @click="handleUseResult('baidu')">采用</a-button>
+              <a-space size="mini">
+                <a-button size="mini" @click="getTransTargetBaidu">获取</a-button>
+                <a-button size="mini" :disabled="!store.baidu.targetText" @click="handleUseResult('baidu')">采用</a-button>
+              </a-space>
             </div>
             <a-textarea v-model="store.baidu.targetText" 
               readonly :auto-size="{minRows:6,maxRows:6}"></a-textarea>
@@ -643,6 +655,18 @@
         console.log(clipboard)
       },
 
+      handleCurMove(offset) {
+        if (
+          this.curIndex + offset < this.mList.length &&
+          this.curIndex + offset >= 0
+        ) {
+          const targetItem = this.mList[this.curIndex + offset]
+          this.handleTextItemClick(targetItem)
+          const el = document.querySelector(`[data-id='${targetItem.id}']`)
+          if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' })
+        }
+      },
+
       handleSave() {
         console.log(store.cur)
         if (!store.cur.id) {
@@ -662,10 +686,7 @@
       handleSaveAndNext() {
         this.handleSave()
         if (this.curIndex + 1 < this.mList.length) {
-          const nextItem = this.mList[this.curIndex + 1]
-          this.handleTextItemClick(nextItem)
-          const el = document.querySelector(`[data-id='${nextItem.id}']`)
-          if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' })
+          this.handleCurMove(1)
         }
       },
 
