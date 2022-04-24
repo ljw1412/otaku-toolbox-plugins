@@ -38,6 +38,12 @@
 
   const clipboard = useClipboard()
 
+  const fs = useFileSystemAccess({
+    dataType: 'Text',
+    types: [{ description: '文本', accept: { 'text/plain': ['.txt'] } }],
+    excludeAcceptAllOption: true,
+  })
+
   function clearStore() {
     store.text = ''
     store.translateText = ''
@@ -47,11 +53,13 @@
     store.cur = { id: 0, text: '', translateText: '' }
   }
 
-  const fs = useFileSystemAccess({
-    dataType: 'Text',
-    types: [{ description: '文本', accept: { 'text/plain': ['.txt'] } }],
-    excludeAcceptAllOption: true,
-  })
+  function uuid() {
+    return 'xxxx-xxxx-yxxx-xxxxxxxx'.replace(/[xy]/g, function (c) {
+      var r = (Math.random() * 16) | 0,
+        v = c == 'x' ? r : (r & 0x3) | 0x8
+      return v.toString(16)
+    })
+  }
 
   const app = createApp({
     name: 'TxtTranslate',
@@ -457,13 +465,28 @@
       appendItemByText(text) {
         const list = text.split('\n').map((item, i) => {
           return {
-            id: +new Date() + '-' + i,
+            id: uuid(),
             text: item.trim(),
             translateText: '',
           }
         })
         console.log(list)
         store.list.push(...list)
+      },
+
+      loadProjectData(json) {
+        clearStore()
+        store.list = json.data
+        console.log(json)
+        if (json.cursor) {
+          this.$nextTick(() => {
+            const targetItem = store.list.find(
+              (item) => item.id === json.cursor
+            )
+            targetItem && this.handleTextItemClick(targetItem)
+            this.scrollToTargetItem(targetItem)
+          })
+        }
       },
 
       async handleAction(action) {
@@ -493,8 +516,7 @@
             }
             if (Array.isArray(json.data) && json.data.length) {
               if (!store.list.length) {
-                clearStore()
-                store.list = json.data
+                this.loadProjectData(json)
                 return
               }
               this.$modal.confirm({
@@ -503,8 +525,7 @@
                 okText: '清空并打开',
                 cancelText: '取消',
                 onOk: () => {
-                  clearStore()
-                  store.list = json.data
+                  this.loadProjectData(json)
                 },
                 onCancel: () => {},
               })
@@ -516,9 +537,11 @@
           }
         } else if (action === 'saveProject') {
           if (!store.list.length) return
+          console.log(store.list)
           const result = await ipcInvoke('shell', 'saveFile', {
             content: JSON.stringify({
               type: 'otaku-tools-text-translate',
+              cursor: store.cur.id,
               data: store.list,
             }),
             filters: [
@@ -655,6 +678,11 @@
         console.log(clipboard)
       },
 
+      scrollToTargetItem(targetItem) {
+        const el = document.querySelector(`[data-id='${targetItem.id}']`)
+        if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' })
+      },
+
       handleCurMove(offset) {
         if (
           this.curIndex + offset < this.mList.length &&
@@ -662,8 +690,7 @@
         ) {
           const targetItem = this.mList[this.curIndex + offset]
           this.handleTextItemClick(targetItem)
-          const el = document.querySelector(`[data-id='${targetItem.id}']`)
-          if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' })
+          this.scrollToTargetItem(targetItem)
         }
       },
 
