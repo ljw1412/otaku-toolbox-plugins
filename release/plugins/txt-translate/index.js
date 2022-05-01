@@ -258,6 +258,19 @@
       <a-form-item label="未翻译的文本数">
         <div>{{ machineTranslation.list.length }}条</div>
       </a-form-item>
+      <a-form-item label="翻译数量">
+        <a-radio-group v-model="machineTranslation.isAll">
+          <a-radio :value="true">全部</a-radio>
+          <a-radio :value="false">  
+            <a-input-number v-model="machineTranslation.count" 
+              size="small"
+              :style="{width:'80px'}"
+              :min="1" :max="9999"
+              :default-value="10"
+              placeholder="翻译数量"/>
+          </a-radio>
+        </a-radio-group>
+      </a-form-item>
       <a-form-item label="翻译引擎">
         <a-radio-group v-model="machineTranslation.engine" type="button">
           <a-radio value="youdao">有道</a-radio>
@@ -280,7 +293,7 @@
         <div class="text-truncate">
           {{machineTranslation.current.text}}
         </div>
-        <div class="fs-32">{{ machineTranslation.index }}/{{ machineTranslation.list.length }}</div>
+        <div class="fs-32">{{ machineTranslation.index }}/{{  machineTranslation.isAll ? machineTranslation.list.length : machineTranslation.count }}</div>
         <a-button type="outline" status="danger" @click="stopStepTranslate">取消</a-button>
       </div>
 </a-modal>
@@ -357,6 +370,8 @@
           isCompare: false,
           isTranslating: false,
           index: 1,
+          isAll: true,
+          count: 10,
           engine: 'youdao',
           current: {},
           list: [],
@@ -604,7 +619,11 @@
         } else {
           this.machineTranslation.index++
         }
-        if (this.machineTranslation.index > list.length) {
+        if (
+          this.machineTranslation.index > list.length ||
+          (!this.machineTranslation.isAll &&
+            this.machineTranslation.index > this.machineTranslation.count)
+        ) {
           return this.stopStepTranslate()
         }
 

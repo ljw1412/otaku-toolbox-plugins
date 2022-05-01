@@ -3,7 +3,7 @@
   "icon": "icon-translate",
   "name": "文档翻译",
   "desc": "对文档进行逐段翻译，校对，保存。",
-  "version": 9,
+  "version": 10,
   "css": true,
   "config": { "width": 960, "webview": true }
 }
