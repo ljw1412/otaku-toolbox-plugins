@@ -244,7 +244,7 @@
 
       <div v-show="debugTxtTranslate && isDisplayWebview" class="webviews">
         <webview ref="youdao" src="https://fanyi.youdao.com/" @dom-ready="handleYouDaoDomReady"></webview>
-        <webview ref="baidu" src="https://fanyi.baidu.com/#zh/jp/"  @dom-ready="handleBaiduDomReady"></webview>
+        <webview ref="baidu" src="https://fanyi.baidu.com/#jp/zh/"  @dom-ready="handleBaiduDomReady"></webview>
       </div>
     </a-layout-content>
 </a-layout>
@@ -813,8 +813,7 @@
       async getTransTargetYoudao() {
         if (store.loaded.youdao) {
           const result = await this.youdao.executeJavaScript(
-            `var el = document.querySelector('#transTarget');
-           el? el.innerText : ''`
+            `Array.from(document.querySelectorAll('#transTarget p')).map(item=>item.innerText).join('\\n')`
           )
 
           if (this.machineTranslation.isTranslating) {
@@ -831,8 +830,7 @@
       async getTransTargetBaidu() {
         if (store.loaded.baidu) {
           const result = await this.baidu.executeJavaScript(
-            `var el = document.querySelector('.trans-right .target-output');
-           el? el.innerText : ''`
+            `Array.from(document.querySelectorAll('.trans-right .target-output')).map(item=>item.innerText).join('\\n')`
           )
 
           if (this.machineTranslation.isTranslating) {
