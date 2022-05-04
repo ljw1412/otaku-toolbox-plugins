@@ -1,10 +1,25 @@
 ;(function () {
   const { Vue, VueUse, appUse, appMount, electron } = window.usePlugin()
   const { createApp, defineComponent, ref, reactive } = Vue
-  const { watchDebounced, useFileSystemAccess, useClipboard } = VueUse
+  const {
+    watchDebounced,
+    useFileSystemAccess,
+    useClipboard,
+    useLocalStorage,
+    get,
+  } = VueUse
   const { ipcInvoke } = electron
   const baiduLanguageList = getBaiduLanguageList()
   window.debugTxtTranslate = ref(false)
+
+  const config = get(
+    useLocalStorage('PLUGIN_TXT-TRANSLATE', {
+      revision: {
+        isCompare: false,
+        isVertical: false,
+      },
+    })
+  )
 
   const engines = ['youdao', 'baidu']
   const store = reactive({
@@ -69,18 +84,21 @@
     },
 
     template: `<a-layout class="txt-translate h-100">
-    <a-layout-sider class="txt-translate-side">
-      <div class="action d-flex">
+    <a-layout-sider class="txt-translate-side" :width="330">
+      <div class="action d-flex align-items-center">
         <acg-ratio-div v-for="item of actions" 
           :key="item.action" 
           :title="item.name"
           class="action-item"
+          :class="{ null: !item.name, disabled: item.disabled }"
           @click="handleAction(item.action)">
           <component :is="item.icon" :size="20"></component>
         </acg-ratio-div>
-      </div>
-      <div v-if="hasNoTranslated" class="quick-btns">
-        <a-button long size="small" @click="handleShowTranslateDialog">一键机翻</a-button>
+        <div v-if="hasNoTranslated" class="quick-btns">
+          <a-divider direction="vertical" />
+          <a-button size="small" 
+            @click="handleShowTranslateDialog">一键机翻</a-button>
+        </div>
       </div>
       <div class="text-list pt-4">
         <div v-for="item of mList" 
@@ -90,8 +108,8 @@
           :class="{selected: item.id === store.cur.id}"
           :title="item.text + '\\n' + item.translateText"
           @click="handleTextItemClick(item)">
-            <div class="text text-truncate">{{ item.text }}</div>
-            <div class="text translated text-truncate">{{ item.translateText }}</div>
+            <div class="text">{{ item.text }}</div>
+            <div class="text translated">{{ item.translateText }}</div>
           </div>
       </div>
     </a-layout-sider>
@@ -308,20 +326,20 @@
     <template #title>
       <div class="layout-lr w-100" style="height: 28px">
         <span>预览保存</span>
-        <div>
-          <a-switch v-if="revision.isCompare" 
-            v-model="revision.isVertical"
-            type="round" size="small">
+        <div class="layout-lr">
+          <a-switch v-if="config.revision.isCompare" 
+            v-model="config.revision.isVertical"
+            type="round">
             <template #checked>上下</template>
             <template #unchecked>左右</template>
           </a-switch>
-          <a-checkbox v-model="revision.isCompare">对比模式</a-checkbox>
+          <a-checkbox v-model="config.revision.isCompare">对比模式</a-checkbox>
         </div>
       </div>
     </template>
-    <div class="txt-translate-revision" :class="{vertical: revision.isVertical}">
+    <div class="txt-translate-revision" :class="{vertical: config.revision.isVertical}">
       <div v-for="item of revision.list" class="revision-item my-4">
-        <template v-if="!revision.isCompare">
+        <template v-if="!config.revision.isCompare">
           <div class="px-4 w-100" 
             :class="item.translateText ? 'translated-text' : 'origin-text'">
             {{ item.translateText || item.text}}
@@ -349,25 +367,12 @@
         store,
         revision: {
           isDisplay: false,
-          isVertical: false,
           list: [],
         },
-        actions: [
-          { name: '新建', icon: 'icon-drive-file', action: 'new' },
-          { name: '打开项目', icon: 'icon-folder', action: 'openProject' },
-          {
-            name: '保存项目',
-            icon: 'icon-share-external',
-            action: 'saveProject',
-          },
-          { name: '导入', icon: 'icon-import', action: 'importDialog' },
-          { name: '保存', icon: 'icon-save', action: 'save' },
-        ],
         isDisplayWebview: true,
         isDisplayImport: false,
         machineTranslation: {
           isDisplay: false,
-          isCompare: false,
           isTranslating: false,
           index: 1,
           isAll: true,
@@ -383,6 +388,9 @@
     },
 
     computed: {
+      config() {
+        return config
+      },
       mList() {
         return store.list.filter((item) => item.text)
       },
@@ -397,6 +405,25 @@
       },
       hasNoTranslated() {
         return this.mList.some((item) => !item.translateText)
+      },
+      actions() {
+        return [
+          { name: '新建', icon: 'icon-drive-file', action: 'new' },
+          { name: '打开项目', icon: 'icon-folder', action: 'openProject' },
+          {
+            name: '保存项目',
+            icon: 'icon-share-external',
+            action: 'saveProject',
+            disabled: !store.list.length,
+          },
+          { name: '导入', icon: 'icon-import', action: 'importDialog' },
+          {
+            name: '保存',
+            icon: 'icon-save',
+            action: 'save',
+            disabled: !store.list.length,
+          },
+        ]
       },
     },
 
