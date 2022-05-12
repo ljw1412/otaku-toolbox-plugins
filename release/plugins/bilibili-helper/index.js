@@ -196,7 +196,7 @@
         if (visible) {
           this.loadPlayer()
         } else {
-          this.bPlayer.player.destroy()
+          this.bPlayer.player.stop()
           this.unhookXHR()
         }
       },
