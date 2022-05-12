@@ -1,9 +1,24 @@
 ;(function () {
   const { Vue, appUse, appMount, appUnMount, VueUse, electron, logger } =
     window.usePlugin()
-  const { useLocalStorage, get } = VueUse
+  const { useScriptTag, useLocalStorage, get } = VueUse
   const { ipcOn, ipcOff, ipcSend, ipcInvoke } = electron
-  const { createApp, defineComponent } = Vue
+  const { createApp, defineComponent, ref, reactive } = Vue
+
+  const dashPlayerData = reactive({
+    bvideoLoaded: false,
+    dashjsLoaded: false,
+    title: '',
+    data: {},
+  })
+
+  useScriptTag(
+    'https://s1.hdslb.com/bfs/static/player/main/video.9dd23994.js?v=20210111',
+    (el) => {
+      console.log(el)
+      dashPlayerData.bvideoLoaded = true
+    }
+  )
 
   const config = get(
     useLocalStorage('PLUGIN_BILIBILI-HELPER', { proxy: 'https://出差.xyz' })
@@ -19,9 +34,13 @@
   const biliBaseAPI = 'https://api.bilibili.com'
   async function fetchBiliApi(api, proxy = false) {
     const resp = await fetch((proxy ? config.proxy : biliBaseAPI) + api)
-    const json = await resp.json()
-    if (json.code) throw new Error(json.message)
-    return json.result || json.data
+    try {
+      const json = await resp.json()
+      if (json.code) throw new Error(json.message)
+      return json.result || json.data
+    } catch (error) {
+      throw new Error('数据获取失败！')
+    }
   }
 
   async function fetchBangumiMediaHTML(url) {
@@ -117,6 +136,120 @@
     a.click()
   }
 
+  const DashPlayer = defineComponent({
+    name: 'DashPlayer',
+
+    template: `<a-modal v-model:visible="mVisible"
+    class="dash-player"
+    :title="dashPlayerData.title || '播放器'"
+    :modal-style="{padding: 0}"
+    :width="900"
+    :mask-closable="false"
+    :footer="false">
+      <acg-ratio-div :ratio="[16,9]">
+        <acg-api-result :loading="areaLoading" 
+          :error="areaError" 
+          message="正在渡海中……"
+          error-message="区域代理失败！"
+          @retry="loadPlayer"></acg-api-result>
+        <div v-show="!areaLoading && !areaError" id="bofqi"></div>
+      </acg-ratio-div>
+    </a-modal>`,
+
+    props: {
+      modelValue: Boolean,
+    },
+
+    emits: ['update:modelValue'],
+
+    setup() {
+      const videoEl = ref()
+      return { videoEl }
+    },
+
+    data() {
+      return {
+        areaError: false,
+        areaLoading: false,
+        bPlayer: null,
+        XMLOriginOpen: window.XMLHttpRequest.prototype.open,
+      }
+    },
+
+    computed: {
+      mVisible: {
+        get() {
+          return this.modelValue
+        },
+        set(val) {
+          this.$emit('update:modelValue', val)
+        },
+      },
+
+      dashPlayerData() {
+        return dashPlayerData
+      },
+    },
+
+    watch: {
+      mVisible(visible) {
+        if (visible) {
+          this.loadPlayer()
+        } else {
+          this.bPlayer.player.destroy()
+          this.unhookXHR()
+        }
+      },
+    },
+
+    methods: {
+      hookXHR() {
+        XMLOriginOpen = this.XMLOriginOpen
+        window.XMLHttpRequest.prototype.open = function (methods, url, async) {
+          if (url.includes('playurl?') && config.proxy) {
+            const search = new URL(url).search
+            arguments[1] = `${config.proxy}/pgc/player/web/playurl${search}`
+          }
+          return XMLOriginOpen.apply(this, arguments)
+        }
+      },
+
+      unhookXHR() {
+        window.XMLHttpRequest.prototype.open = this.XMLOriginOpen
+      },
+
+      async loadPlayInfo() {
+        const { aid, cid, isAreaLimit, playInfo } = this.dashPlayerData.data
+        const mPlayinfo =
+          playInfo || (await fetchPlayUrl(isAreaLimit, { cid, aid }))
+        window.__playinfo__ = mPlayinfo
+      },
+
+      async loadPlayer() {
+        const { aid, cid, isAreaLimit, playInfo } = this.dashPlayerData.data
+        if (isAreaLimit) {
+          this.hookXHR()
+          this.areaLoading = true
+          this.areaError = false
+        }
+        try {
+          await this.loadPlayInfo()
+        } catch (error) {
+          isAreaLimit && (this.areaError = true)
+        }
+        isAreaLimit && (this.areaLoading = false)
+        this.bPlayer = new BPlayer({
+          aid,
+          cid,
+          autoplay: true,
+          theme: isAreaLimit ? 'red' : '',
+        })
+
+        console.log(this.bPlayer)
+      },
+    },
+  })
+
   const HelperSetting = defineComponent({
     name: 'HelperSetting',
 
@@ -162,7 +295,7 @@
     template: `<div class="bangumi-media d-flex">
       <div class="flex-shrink-0" style="width: 140px">
         <acg-ratio-div :ratio="[3,4]">
-          <img :src="media.cover + '@450w_600h.webp'">
+          <img v-if="media.cover" :src="media.cover + '@450w_600h.webp'">
         </acg-ratio-div>
       </div>
       <a-space class="pl-25" direction="vertical">
@@ -200,8 +333,11 @@
             :key="episode.id" >
             <a-card class="episode-card">
               <template #cover>
-                <acg-ratio-div :ratio="[16, 10]">
+                <acg-ratio-div :ratio="[16, 10]" class="cursor-pointer" @click="$emit('play-video',media,episode)">
                   <img :src="episode.cover + '@192w_120h_1c.webp'" loading="lazy" />
+                  <div class="ep-cover-masker layout-center">
+                    <icon-play-circle size="48" />
+                  </div>
                 </acg-ratio-div>
               </template>
               <a-card-meta>
@@ -214,19 +350,42 @@
                 </template>
 
                 <template #description>
-                  <div v-if="media.isAreaLimit">
-                    <a-button size="mini" type="outline" @click="$emit('fetchPlayUrl',episode,true)">获取视频地址</a-button>
-                  </div>
-                  <div v-if="episode.subtitles && episode.subtitles.length"  class="mt-8">
-                    <a-space size="mini">
-                      <span>字幕：</span>
-                      <a-button v-for="subtitle of episode.subtitles" 
-                        :key="subtitle.id" 
-                        size="mini"
-                        type="text"
-                        @click="downloadSubtitle(subtitle,media.title + ' ' + getTitle(episode))">{{ subtitle.lan_doc }}</a-button>
-                    </a-space>
-                  </div>
+                  <a-space direction="vertical" fill>
+                    <div v-if="media.isAreaLimit && !episode.playInfo">
+                      <a-button type="outline" :loading="episode.dataLoading"
+                        @click="$emit('fetchPlayUrl',episode)">获取视频地址</a-button>
+                    </div>
+                    <div v-else-if="episode.playInfo && episode.playInfo.type === 'DASH'">
+                      <a-space>
+                        <span>下载参数:</span>
+                        <span>视频</span>
+                        <a-select v-model="episode.selectedVideo" style="width: 200px;">
+                          <a-option v-for="video of getEpisodeVideo(episode)" 
+                          :key="video.key" 
+                          :value="video.key" 
+                          :label="video.label"></a-option>
+                        </a-select>
+
+                        <span>音频</span>
+                        <a-select v-model="episode.selectedAudio" style="width: 180px;">
+                          <a-option v-for="audio of getEpisodeAudio(episode)" 
+                          :key="audio.key" 
+                          :value="audio.key" 
+                          :label="audio.label"></a-option>
+                        </a-select>
+                      </a-space>
+                    </div>
+                    <div v-if="episode.subtitles && episode.subtitles.length">
+                      <a-space size="mini">
+                        <span>字幕：</span>
+                        <a-button v-for="subtitle of episode.subtitles" 
+                          :key="subtitle.id" 
+                          size="mini"
+                          type="text"
+                          @click="downloadSubtitle(subtitle,media.title + ' ' + getTitle(episode))">{{ subtitle.lan_doc }}</a-button>
+                      </a-space>
+                    </div>
+                  </a-space>
                 </template>
               </a-card-meta>
             </a-card>
@@ -237,16 +396,60 @@
 
     props: { media: { type: Object, default: () => ({}) } },
 
-    emits: ['fetchPlayUrl'],
+    emits: ['fetchPlayUrl', 'play-video'],
 
     data() {
-      return {}
+      return {
+        audioQualityMap: {
+          30280: '高质量',
+          30232: '中质量',
+          30216: '低质量',
+        },
+      }
     },
 
     methods: {
       downloadSubtitle,
       getTitle(episode) {
         return `第${episode.title}话 ${episode.long_title}`
+      },
+
+      getEpisodeVideo(episode) {
+        if (!episode.playInfo || episode.playInfo.type !== 'DASH') return []
+        const { support_formats, dash } = episode.playInfo
+        const result = dash.video.map((item) => {
+          const format = support_formats.find(
+            (format) => format.quality === item.id
+          ) || { new_description: '' }
+          return {
+            ...item,
+            key: item.id + item.codecs,
+            label: `${format.new_description} ${item.codecs}`,
+          }
+        })
+        if (result.length && !episode.selectedVideo) {
+          episode.selectedVideo = result[0].key
+        }
+        return result
+      },
+
+      getEpisodeAudio(episode) {
+        if (!episode.playInfo || episode.playInfo.type !== 'DASH') return []
+        const { dash } = episode.playInfo
+        const result = dash.audio.map((item) => {
+          const format = {
+            new_description: this.audioQualityMap[item.id] || '',
+          }
+          return {
+            ...item,
+            key: item.id + item.codecs,
+            label: `${format.new_description} ${item.codecs}`,
+          }
+        })
+        if (result.length && !episode.selectedAudio) {
+          episode.selectedAudio = result[0].key
+        }
+        return result
       },
     },
   })
@@ -272,16 +475,19 @@
         </a-button>
       </a-layout-header>
       <a-layout-content>
-        <BangumiMedia v-if="type==='bangumi-media'" :media="media" @fetchPlayUrl="fetchVideoUrl"/>
+        <BangumiMedia v-if="type==='bangumi-media'" :media="media" @fetchPlayUrl="fetchVideoUrl"
+        @play-video="playVideo"/>
       </a-layout-content>
       <HelperSetting v-model="isDisplaySetting" />
+      <DashPlayer v-model="isDisplayDashPlayer" />
     </a-layout>`,
 
-    components: { BangumiMedia, HelperSetting },
+    components: { BangumiMedia, HelperSetting, DashPlayer },
 
     data() {
       return {
         isDisplaySetting: false,
+        isDisplayDashPlayer: false,
         url: '',
         type: '',
         media: {},
@@ -333,7 +539,6 @@
             media
           )
           this.media.isAreaLimit = /僅限.+地區/.test(this.media.title)
-
           fetchBangumiMediaHTML(url).then(({ info }) => {
             this.media.info = info
           })
@@ -341,6 +546,12 @@
           if (media.season_id) {
             const season = await fetchBangumiSeasonInfo(media.season_id)
             Object.assign(this.media, season)
+            this.media.main_section.episodes.forEach(async (ep) => {
+              ep.isAreaLimit = this.media.isAreaLimit
+              ep.selectedVideo = ''
+              ep.selectedAudio = ''
+              ep.dataLoading = false
+            })
             if (this.media.isAreaLimit) {
               logger.message('港澳台自动获取字幕中……')
               this.media.main_section.episodes.forEach((ep) => {
@@ -349,28 +560,42 @@
                     ep.subtitles = info.subtitle.subtitles || []
                   }
                 })
-                // fetchPlayUrl(true, { cid: ep.cid, aid: ep.aid }).then(
-                //   (playInfo) => {
-                //     ep.playInfo = playInfo
-                //   }
-                // )
               })
             } else {
               this.media.main_section.episodes.forEach(async (ep) => {
-                fetchVideoUrl(ep)
+                this.fetchVideoUrl(ep)
               })
             }
           }
-          console.log(this.media)
+          logger.message('media result', 'media', this.media)
         }
       },
 
-      async fetchVideoUrl(ep, proxy = false) {
-        const playInfo = await fetchPlayUrl(proxy, {
-          cid: ep.cid,
-          aid: ep.aid,
-        })
-        ep.playInfo = playInfo
+      async playVideo(media, ep) {
+        logger.message('playVideo', 'data', media, ep)
+        if (this.type === 'bangumi-media') {
+          if (ep.badge === '会员') {
+            this.$message.warning('无法播放会员视频！')
+            return
+          }
+          dashPlayerData.title = ep.title + ' ' + ep.long_title
+          dashPlayerData.data = { ...ep, media: this.media }
+          this.isDisplayDashPlayer = true
+        }
+      },
+
+      async fetchVideoUrl(ep) {
+        ep.dataLoading = true
+        try {
+          const proxy = ep.isAreaLimit
+          const playInfo = await fetchPlayUrl(proxy, {
+            cid: ep.cid,
+            aid: ep.aid,
+          })
+          ep.playInfo = playInfo
+        } catch (error) {
+          ep.dataLoading = false
+        }
       },
     },
   })
