@@ -28,7 +28,7 @@
     'bangumi-media': /\/bangumi\/media\/md(\d+)/,
     'bangumi-ep': /\/bangumi\/play\/ep(\d+)/,
     'bangumi-ss': /\/bangumi\/play\/ss(\d+)/,
-    video: /\/video\/BV([\d\w]+)/,
+    video: /\/video\/(BV[\d\w]+)/,
   }
 
   const biliBaseAPI = 'https://api.bilibili.com'
@@ -99,6 +99,13 @@
       api,
       resp
     )
+    return resp
+  }
+
+  async function fetchVideoInfo({ aid = '', bvid = '' }) {
+    const api = `/x/web-interface/view?bvid=${bvid}&aid=${aid}`
+    const resp = await fetchBiliApi(api)
+    logger.response('FetchBiliApi', 'videoInfo', api, resp)
     return resp
   }
 
@@ -196,7 +203,7 @@
         if (visible) {
           this.loadPlayer()
         } else {
-          this.bPlayer.player.stop()
+          this.stopPlayer()
           this.unhookXHR()
         }
       },
@@ -226,6 +233,7 @@
       },
 
       async loadPlayer() {
+        this.stopPlayer()
         const { aid, cid, isAreaLimit, playInfo } = this.dashPlayerData.data
         if (isAreaLimit) {
           this.hookXHR()
@@ -246,6 +254,19 @@
         })
 
         console.log(this.bPlayer)
+      },
+
+      async stopPlayer() {
+        try {
+          this.bPlayer && this.bPlayer.player.stop()
+        } catch (error) {
+          console.error(error)
+        }
+        try {
+          this.bPlayer && this.bPlayer.player.destroy()
+        } catch (error) {
+          console.error(error)
+        }
       },
     },
   })
@@ -286,6 +307,105 @@
       config() {
         return config
       },
+    },
+  })
+
+  const BVideo = defineComponent({
+    name: 'BiliVideo',
+    template: `<div class="bili-video">
+  <div class="bili-base-info d-flex">
+    <a-card :bordered="false" class="flex-shrink-0" style="width: 320px" size="small">
+      <template #cover>
+        <acg-ratio-div :ratio="[16,9]" class="cursor-pointer" @click="$emit('play-video', video)">
+          <img v-if="video.pic" :src="video.pic + '@640w_360h.webp'">
+          <div class="video-cover-masker layout-center">
+            <icon-play-circle size="48" />
+          </div>
+        </acg-ratio-div>
+      </template>
+      <a-space v-if="video.stat" class="d-flex justify-content-center mt-4">
+        <span title="点赞数">
+          <icon-thumb-up-fill /> {{ video.stat.like }}
+        </span>
+        <span title="硬币数">
+          <span class="icon-bcoin"></span> {{ video.stat.coin }}</span>
+        <span title="收藏数">
+          <icon-star-fill /> {{ video.stat.favorite }}
+        </span>
+        <span title="分享数">
+          <icon-share-internal /> {{ video.stat.share }}
+        </span>
+      </a-space>
+    </a-card>
+    <a-space class="pl-25" direction="vertical">
+      <div class="title">
+        <h5 class="lh-24">{{ video.title }}</h5>
+      </div>
+
+      <a-space v-if="video.stat">
+        <a-tag class="mr-6">{{ video.tname }}</a-tag>
+        <span title="播放数">
+          <icon-eye /> {{ video.stat.view }}
+        </span>
+        <span title="弹幕数">
+          <icon-nav /> {{ video.stat.danmaku }}
+        </span>
+        <span title="发布时间">
+          <icon-clock-circle /> {{$dayjs((video.pubdate||0) * 1000).format('YYYY-MM-DD HH:mm:ss')}}
+        </span>
+      </a-space>
+
+      <a-space size="mini">
+        <a-tag color="arcoblue" size="small">aid: {{ video.aid }}</a-tag>
+        <a-tag color="arcoblue" size="small">bvid: {{ video.bvid }}</a-tag>
+        <a-tag color="arcoblue" size="small">cid: {{ video.cid }}</a-tag>
+      </a-space>
+
+      <div class="desc multi-text-truncate" style="height: 3.5em;" data-line="3" :title="video.desc">{{ video.desc || '' }}</div>
+
+      <a-space size="mini" class="owner-list mt-6">
+        <div v-if="video.owner" class="owner d-inline-flex flex-column">
+          <a-avatar class="m-auto">
+            <img alt="avatar" :src="video.owner.face" />
+          </a-avatar>
+          <div class="mt-4">{{ video.owner.name }}</div>
+        </div>
+      </a-space>
+    </a-space>
+  </div>
+</div>
+<template v-if="pages && pages.length > 1" >
+  <div class="fs-18 lh-24 pl-24 my-8">视频选集</div>
+  <a-space class="bili-video-pages" wrap>
+    <a-card v-for="page of pages" 
+      :key="page.cid" 
+      :bordered="false" 
+      size="small" 
+      class="cursor-pointer"
+      @click="$emit('play-video',page)">P{{ page.page }} {{page.part}}</a-card>
+  </a-space>
+</template>
+`,
+    props: { video: { type: Object, default: () => ({}) } },
+
+    emits: ['play-video'],
+
+    computed: {
+      pages() {
+        return (this.video.pages || []).map((page) => {
+          return {
+            ...page,
+            title: 'P' + page.page,
+            long_title: page.part,
+            aid: this.video.aid,
+            bvid: this.video.bvid,
+          }
+        })
+      },
+    },
+
+    methods: {
+      $dayjs: window.$dayjs,
     },
   })
 
@@ -333,9 +453,9 @@
             :key="episode.id" >
             <a-card class="episode-card">
               <template #cover>
-                <acg-ratio-div :ratio="[16, 10]" class="cursor-pointer" @click="$emit('play-video',media,episode)">
+                <acg-ratio-div :ratio="[16, 10]" class="cursor-pointer" @click="$emit('play-video',episode)">
                   <img :src="episode.cover + '@192w_120h_1c.webp'" loading="lazy" />
-                  <div class="ep-cover-masker layout-center">
+                  <div class="video-cover-masker layout-center">
                     <icon-play-circle size="48" />
                   </div>
                 </acg-ratio-div>
@@ -475,22 +595,24 @@
         </a-button>
       </a-layout-header>
       <a-layout-content>
-        <BangumiMedia v-if="type==='bangumi-media'" :media="media" @fetchPlayUrl="fetchVideoUrl"
+        <BangumiMedia v-if="type === 'bangumi-media'" :media="media" @fetchPlayUrl="fetchVideoUrl"
         @play-video="playVideo"/>
+        <BVideo v-else-if="type === 'video'" :video="video"  @play-video="playVideo"></BVideo>
       </a-layout-content>
       <HelperSetting v-model="isDisplaySetting" />
       <DashPlayer v-model="isDisplayDashPlayer" />
     </a-layout>`,
 
-    components: { BangumiMedia, HelperSetting, DashPlayer },
+    components: { BangumiMedia, BVideo, HelperSetting, DashPlayer },
 
     data() {
       return {
         isDisplaySetting: false,
         isDisplayDashPlayer: false,
-        url: '',
+        url: 'https://www.bilibili.com/video/BV17u41167Kb',
         type: '',
         media: {},
+        video: {},
       }
     },
 
@@ -526,6 +648,8 @@
 
         if (this.type === 'bangumi-media') {
           this.parseBangumiMedia(this.url)
+        } else if (this.type === 'video') {
+          this.parseVideo(this.url)
         }
       },
 
@@ -571,15 +695,27 @@
         }
       },
 
-      async playVideo(media, ep) {
-        logger.message('playVideo', 'data', media, ep)
-        if (this.type === 'bangumi-media') {
+      async parseVideo(url) {
+        const matched = url.match(checkUrlMap['video'])
+        console.log(matched)
+        if (matched && matched.length > 1) {
+          const bvid = matched[1]
+          const info = await fetchVideoInfo({ bvid })
+          console.log(info)
+          this.video = info
+        }
+      },
+
+      async playVideo(ep) {
+        logger.message('playVideo', 'data', ep)
+        if (this.type === 'bangumi-media' || this.type === 'video') {
           if (ep.badge === '会员') {
             this.$message.warning('无法播放会员视频！')
             return
           }
-          dashPlayerData.title = ep.title + ' ' + ep.long_title
-          dashPlayerData.data = { ...ep, media: this.media }
+          dashPlayerData.title =
+            ep.title + (ep.long_title ? ' ' + ep.long_title : '')
+          dashPlayerData.data = { ...ep }
           this.isDisplayDashPlayer = true
         }
       },

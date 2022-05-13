@@ -3,12 +3,17 @@
   height: 100%;
 }
 
+.bilibili-helper h5 {
+  font-size: 18px !important;
+}
+
 .bilibili-helper .arco-layout-header {
   position: relative;
   background-color: rgba(var(--app-theme-rgb), 0.6);
 }
 
 .bilibili-helper .arco-layout-content {
+  font-size: 14px;
   overflow-y: scroll;
 }
 
@@ -19,7 +24,36 @@
   transform: translateY(-50%);
 }
 
-.bilibili-helper .bangumi-media {
+.bilibili-helper .icon-bcoin {
+  position: relative;
+  display: inline-flex;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: currentColor;
+  vertical-align: top;
+}
+
+.bilibili-helper .icon-bcoin::after {
+  content: 'B';
+  margin: auto;
+  color: var(--app-color-common);
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 1;
+}
+
+.bilibili-helper .bili-video-pages {
+  padding-left: 24px;
+  padding-right: 16px;
+}
+
+.bilibili-helper .bili-video-pages .arco-space-item {
+  width: calc(20% - 8px);
+}
+
+.bilibili-helper .bangumi-media,
+.bilibili-helper .bili-base-info {
   position: relative;
   padding: 16px 48px;
   background-color: rgba(var(--app-theme-rgb), 0.2);
@@ -55,7 +89,7 @@
   width: 200px;
 }
 
-.bilibili-helper .episode-card .ep-cover-masker {
+.bilibili-helper .video-cover-masker {
   position: absolute;
   left: 0;
   top: 0;
