@@ -609,7 +609,7 @@
       return {
         isDisplaySetting: false,
         isDisplayDashPlayer: false,
-        url: 'https://www.bilibili.com/video/BV17u41167Kb',
+        url: '',
         type: '',
         media: {},
         video: {},
