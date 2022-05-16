@@ -24,6 +24,13 @@
   transform: translateY(-50%);
 }
 
+.bilibili-helper .quick-links {
+  position: absolute;
+  top: 50%;
+  left: 16px;
+  transform: translateY(-50%);
+}
+
 .bilibili-helper .icon-bcoin {
   position: relative;
   display: inline-flex;
@@ -107,4 +114,20 @@
 .dash-player #bofqi {
   width: 100%;
   height: 100%;
+}
+
+.bilibili-helper .bili-user-videos {
+  padding-left: calc(var(--scroll-bar-width) + 12px + 8px);
+  padding-right: 12px;
+}
+
+.bilibili-helper .bili-user-videos .video-list .title {
+}
+
+.bilibili-helper .bili-user-videos .video-list .arco-card-body {
+  padding: 2px 4px;
+}
+
+.bilibili-helper .bili-user-videos .video-list .arco-space-item {
+  width: calc(20% - 8px);
 }

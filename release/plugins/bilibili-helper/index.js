@@ -29,6 +29,7 @@
     'bangumi-ep': /\/bangumi\/play\/ep(\d+)/,
     'bangumi-ss': /\/bangumi\/play\/ss(\d+)/,
     video: /\/video\/(BV[\d\w]+)/,
+    'user-video-list': /space\.bilibili\.com\/(\d+)/,
   }
 
   const biliBaseAPI = 'https://api.bilibili.com'
@@ -90,8 +91,18 @@
     return resp
   }
 
-  async function fetchPlayUrl(proxy = false, { cid, qn = 80, aid }) {
-    const api = `/pgc/player/web/playurl?aid=${aid}&cid=${cid}&qn=${qn}&fnver=0&fnval=4048&fourk=1&type=&otype=json&module=bangumi&balh_ajax=1`
+  async function fetchPlayList({ aid = '', bvid = '' }) {
+    const api = `/x/player/pagelist?bvid=${bvid}&aid=${aid}`
+    const resp = await fetchBiliApi(api)
+    logger.response('FetchBiliApi', 'fetchPlayList', resp)
+    return resp
+  }
+
+  async function fetchPlayUrl(
+    proxy = false,
+    { cid = '', qn = 80, aid = '', bvid = '' }
+  ) {
+    const api = `/pgc/player/web/playurl?aid=${aid}&bvid=${bvid}&cid=${cid}&qn=${qn}&fnver=0&fnval=4048&fourk=1&type=&otype=json&module=bangumi&balh_ajax=1`
     const resp = await fetchBiliApi(api, proxy)
     logger.response(
       'FetchBiliApi',
@@ -106,6 +117,19 @@
     const api = `/x/web-interface/view?bvid=${bvid}&aid=${aid}`
     const resp = await fetchBiliApi(api)
     logger.response('FetchBiliApi', 'videoInfo', api, resp)
+    return resp
+  }
+
+  async function fetchUserVideos({
+    uid = '',
+    keyword = '',
+    order = 'pubdate',
+    pn = 1,
+    ps = 30,
+  }) {
+    const api = `/x/space/arc/search?mid=${uid}&ps=${ps}&tid=0&pn=${pn}&keyword=${keyword}&order=${order}&jsonp=jsonp`
+    const resp = await fetchBiliApi(api)
+    logger.response('FetchBiliApi', 'UserVideos', api, resp)
     return resp
   }
 
@@ -226,9 +250,10 @@
       },
 
       async loadPlayInfo() {
-        const { aid, cid, isAreaLimit, playInfo } = this.dashPlayerData.data
+        const { aid, cid, bvid, isAreaLimit, playInfo } =
+          this.dashPlayerData.data
         const mPlayinfo =
-          playInfo || (await fetchPlayUrl(isAreaLimit, { cid, aid }))
+          playInfo || (await fetchPlayUrl(isAreaLimit, { cid, aid, bvid }))
         window.__playinfo__ = mPlayinfo
       },
 
@@ -239,20 +264,22 @@
           this.hookXHR()
           this.areaLoading = true
           this.areaError = false
+          try {
+            await this.loadPlayInfo()
+          } catch (error) {
+            console.error(error)
+            this.areaError = true
+          }
+          this.areaLoading = false
+          if (this.areaError) return
         }
-        try {
-          await this.loadPlayInfo()
-        } catch (error) {
-          isAreaLimit && (this.areaError = true)
-        }
-        isAreaLimit && (this.areaLoading = false)
+
         this.bPlayer = new BPlayer({
           aid,
           cid,
           autoplay: true,
           theme: isAreaLimit ? 'red' : '',
         })
-
         console.log(this.bPlayer)
       },
 
@@ -306,6 +333,97 @@
 
       config() {
         return config
+      },
+    },
+  })
+
+  const BUserVideos = defineComponent({
+    name: 'BiliUserVideos',
+    template: `<div class="bili-user-videos">
+      <div class="user-info layout-lr py-10 pr-8">
+        <div></div>
+        <div>
+          <a-input-search v-model="keyword" size="small" @search="search" @press-enter="search"></a-input-search>
+        </div>
+      </div>
+      <div class="video-list">
+        <acg-api-result :loading="loading" 
+          :error="isError"
+          @retry="fetchVideos" />
+          <a-space wrap class="video-list">
+          <a-card v-for="item of vlist" :key="item.aid" class="video-card cursor-pointer" size="small" @click="$emit('play-video',item)">
+            <template #cover>
+              <acg-ratio-div :ratio="[16, 10]">
+                <img loading="lazy" :src="item.pic">
+              </acg-ratio-div>
+            </template>
+            <div class="video-title multi-text-truncate" data-line="2" style="word-break: break-all;">{{item.title}}</div>
+            <div class="video-info"></div>
+          </a-card>
+        </a-space>
+
+        <a-pagination
+          v-model:current="page.pn"
+          :total="page.count"
+          :page-size="page.ps"
+          style="justify-content: flex-end;"
+          @change="handlePageChange" />
+      </div>
+    </div>`,
+    props: { uid: String },
+    emits: ['play-video'],
+    data() {
+      return {
+        loading: false,
+        isError: false,
+        keyword: '',
+        tlist: [],
+        vlist: [],
+        page: { pn: 1, ps: 30, count: 0 },
+      }
+    },
+    watch: {
+      uid: {
+        immediate: true,
+        handler() {
+          this.keyword = ''
+          this.search()
+        },
+      },
+    },
+    methods: {
+      async fetchVideos() {
+        this.loading = true
+        this.isError = false
+        try {
+          const { list, page } = await fetchUserVideos({
+            uid: this.uid,
+            pn: this.page.pn,
+            keyword: this.keyword,
+          })
+          list.vlist.forEach((item) => {
+            item.isAreaLimit = /僅限.+地區/.test(item.title)
+          })
+          this.page = page
+          this.vlist = list.vlist
+          this.tlist = list.tlist
+        } catch (error) {
+          console.error(error)
+          this.isError = true
+        }
+        this.loading = false
+      },
+
+      async handlePageChange() {
+        this.vlist = []
+        this.fetchVideos()
+      },
+
+      async search() {
+        this.vlist = []
+        this.page.pn = 1
+        this.page.count = 0
+        this.fetchVideos()
       },
     },
   })
@@ -382,7 +500,9 @@
       :bordered="false" 
       size="small" 
       class="cursor-pointer"
-      @click="$emit('play-video',page)">P{{ page.page }} {{page.part}}</a-card>
+      @click="$emit('play-video',page)">
+        <div class=" text-truncate" :title="\`$\{ page.title } $\{page.long_title}\`">{{ page.title }} {{page.long_title}}</div>
+      </a-card>
   </a-space>
 </template>
 `,
@@ -588,6 +708,9 @@
           @press-enter="parseLink"
           @search="parseLink" />
         </div>
+        <div class="quick-links">
+          <a-link @click="quickLink('https://space.bilibili.com/11783021/video')">番剧出差</a-link>
+        </div>
         <a-button class="btn-helper-setting"
           type="primary" shape="circle"
           @click="isDisplaySetting = true">
@@ -598,12 +721,19 @@
         <BangumiMedia v-if="type === 'bangumi-media'" :media="media" @fetchPlayUrl="fetchVideoUrl"
         @play-video="playVideo"/>
         <BVideo v-else-if="type === 'video'" :video="video"  @play-video="playVideo"></BVideo>
+        <BUserVideos v-else-if="type==='user-video-list'" :uid="uid" @play-video="playVideo"></BUserVideos>
       </a-layout-content>
       <HelperSetting v-model="isDisplaySetting" />
       <DashPlayer v-model="isDisplayDashPlayer" />
     </a-layout>`,
 
-    components: { BangumiMedia, BVideo, HelperSetting, DashPlayer },
+    components: {
+      BangumiMedia,
+      BVideo,
+      HelperSetting,
+      DashPlayer,
+      BUserVideos,
+    },
 
     data() {
       return {
@@ -613,6 +743,7 @@
         type: '',
         media: {},
         video: {},
+        uid: '',
       }
     },
 
@@ -621,16 +752,23 @@
     mounted() {},
 
     methods: {
+      quickLink(url) {
+        this.url = url
+        this.parseLink()
+      },
+
       getUrlType() {
         if (!this.url) return ''
         try {
           const url = new URL(this.url)
-          if (url.host !== 'www.bilibili.com') return ''
+          if (!url.host.includes('.bilibili.com')) return ''
           const type = Object.keys(checkUrlMap).find((type) =>
-            checkUrlMap[type].test(url.pathname)
+            checkUrlMap[type].test(url.href)
           )
+          logger.message('getUrlType', type, url)
           return type || ''
         } catch (error) {
+          console.error(error)
           return ''
         }
       },
@@ -650,6 +788,8 @@
           this.parseBangumiMedia(this.url)
         } else if (this.type === 'video') {
           this.parseVideo(this.url)
+        } else if (this.type === 'user-video-list') {
+          this.parseUserId(this.url)
         }
       },
 
@@ -697,7 +837,7 @@
 
       async parseVideo(url) {
         const matched = url.match(checkUrlMap['video'])
-        console.log(matched)
+
         if (matched && matched.length > 1) {
           const bvid = matched[1]
           const info = await fetchVideoInfo({ bvid })
@@ -706,18 +846,33 @@
         }
       },
 
+      parseUserId(url) {
+        const matched = url.match(checkUrlMap['user-video-list'])
+        if (matched && matched.length > 1) {
+          this.uid = matched[1]
+        }
+      },
+
       async playVideo(ep) {
         logger.message('playVideo', 'data', ep)
-        if (this.type === 'bangumi-media' || this.type === 'video') {
+        if (['video', 'bangumi-media'].includes(this.type)) {
           if (ep.badge === '会员') {
             this.$message.warning('无法播放会员视频！')
             return
           }
-          dashPlayerData.title =
-            ep.title + (ep.long_title ? ' ' + ep.long_title : '')
-          dashPlayerData.data = { ...ep }
-          this.isDisplayDashPlayer = true
+        } else if (this.type === 'user-video-list') {
+          if (ep.isAreaLimit && !ep.cid) {
+            const pagelist = await fetchPlayList(ep)
+            if (pagelist.length) {
+              const { cid } = pagelist[0]
+              ep.cid = cid
+            }
+          }
         }
+        dashPlayerData.title =
+          ep.title + (ep.long_title ? ' ' + ep.long_title : '')
+        dashPlayerData.data = { ...ep }
+        this.isDisplayDashPlayer = true
       },
 
       async fetchVideoUrl(ep) {
