@@ -131,3 +131,17 @@
 .bilibili-helper .bili-user-videos .video-list .arco-space-item {
   width: calc(20% - 8px);
 }
+
+.bilibili-helper .server-list {
+  margin-top: 6px;
+}
+
+.bilibili-helper-setting .state-pass {
+  color: green;
+}
+.bilibili-helper-setting .state-loading {
+  color: yellow;
+}
+.bilibili-helper-setting .state-error {
+  color: red;
+}

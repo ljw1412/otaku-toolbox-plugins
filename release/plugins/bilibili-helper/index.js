@@ -12,6 +12,12 @@
     data: {},
   })
 
+  const serverStateMap = {
+    '-1': { state: 'state-loading', name: '测试中' },
+    0: { state: 'state-error', name: '失败' },
+    1: { state: 'state-pass', name: '可用' },
+  }
+
   useScriptTag(
     'https://s1.hdslb.com/bfs/static/player/main/video.9dd23994.js?v=20210111',
     (el) => {
@@ -35,6 +41,27 @@
   const biliBaseAPI = 'https://api.bilibili.com'
   async function fetchBiliApi(api, proxy = false) {
     const resp = await fetch((proxy ? config.proxy : biliBaseAPI) + api)
+    try {
+      const json = await resp.json()
+      if (json.code) throw new Error(json.message)
+      return json.result || json.data
+    } catch (error) {
+      throw new Error('数据获取失败！')
+    }
+  }
+
+  async function fetchTestProxy(proxyUrl, timeout = 10 * 1000) {
+    const controller = new AbortController()
+    const signal = controller.signal
+    setTimeout(() => {
+      controller.abort()
+    }, timeout)
+
+    const resp = await fetch(
+      proxyUrl +
+        '/pgc/player/web/playurl?aid=428150903&bvid=BV1YG411W7zZ&cid=765477233&qn=80&fnver=0&fnval=4048&fourk=1&type=&otype=json&module=bangumi&balh_ajax=1',
+      { signal }
+    )
     try {
       const json = await resp.json()
       if (json.code) throw new Error(json.message)
@@ -307,11 +334,20 @@
       title="哔哩哔哩助手设置"
       hideCancel
       okText="关闭"
+      modal-class="bilibili-helper-setting"
       :width="600">
       <a-form :model="{}">
         <a-form-item label="代理服务器" help="填写用于解除B站区域限制的服务器地址">
           <a-input v-model="config.proxy"></a-input>
         </a-form-item>
+        <div class="server-list">
+          <a-table :columns="columns" :data="serverList" 
+            :scroll="{y:200}" :pagination="false">
+            <template #optional="{ record }">
+              <a-button @click="switchServer(record)">选择</a-button>
+            </template>
+          </a-table>
+        </div>
       </a-form>
     </a-modal>`,
 
@@ -320,6 +356,25 @@
     },
 
     emits: ['update:modelValue'],
+
+    data() {
+      return {
+        serverList: [],
+        columns: [
+          { title: '服务器', dataIndex: 'url' },
+          {
+            title: '状态',
+            dataIndex: 'state',
+            render: function ({ record }) {
+              const state = serverStateMap[record.state]
+              return Vue.h('span', { className: state.state }, state.name)
+            },
+          },
+          { title: '信息', dataIndex: 'message' },
+          { title: '选项', slotName: 'optional', width: 120 },
+        ],
+      }
+    },
 
     computed: {
       mVisible: {
@@ -333,6 +388,56 @@
 
       config() {
         return config
+      },
+    },
+
+    created() {
+      this.fetchServerList()
+    },
+
+    methods: {
+      async fetchServerList() {
+        const resp = await fetch(
+          'https://github.com/yujincheng08/BiliRoaming/wiki/%E5%85%AC%E5%85%B1%E8%A7%A3%E6%9E%90%E6%9C%8D%E5%8A%A1%E5%99%A8'
+        )
+        const text = await resp.text()
+        const doc = new DOMParser().parseFromString(text, 'text/html')
+
+        this.serverList = Array.from(
+          doc.querySelectorAll('table tbody tr td:nth-child(3n)')
+        )
+          .map((item) => ({
+            url: 'https://' + item.innerHTML,
+            state: -1,
+            message: '',
+          }))
+          .filter((item) => !item.url.includes('<del'))
+        this.testProxyList()
+      },
+
+      async fetchProxyItem(item) {
+        try {
+          item.state = -1
+          item.message = ''
+          const data = await fetchTestProxy(item.url)
+          item.state = 1
+        } catch (error) {
+          item.state = 0
+          item.message = error.message
+          if (error.message.includes('aborted')) {
+            item.message = '超时'
+          }
+        }
+      },
+
+      testProxyList() {
+        this.serverList.forEach((item) => {
+          this.fetchProxyItem(item)
+        })
+      },
+
+      switchServer(record) {
+        config.proxy = record.url
       },
     },
   })
