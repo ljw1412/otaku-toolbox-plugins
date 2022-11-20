@@ -1,0 +1,15 @@
+{
+  "plugin": "txt-translate-quick-preview",
+  "icon": "icon-language",
+  "name": "机翻速览",
+  "desc": "快速预览机翻文本。方便超过5000字的机翻译文查看。",
+  "version": 0,
+  "css": true,
+  "config": {
+    "minWidth": 1080,
+    "minHeight": 600,
+    "width": 1080,
+    "webview": true,
+    "resizable": true
+  }
+}

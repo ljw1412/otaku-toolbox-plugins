@@ -1,0 +1,68 @@
+.txt-translate-quick-preview .webviews {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: 100;
+  border: 1px solid var(--color-border);
+}
+
+.txt-translate-quick-preview {
+  height: 100%;
+  overflow: hidden;
+}
+
+.txt-translate-quick-preview * {
+  box-sizing: border-box;
+}
+
+.txt-translate-quick-preview webview {
+  height: 213px;
+}
+
+.txt-translate-quick-preview .o-header {
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 40px;
+  height: 40px;
+}
+
+.txt-translate-quick-preview .arco-textarea {
+  height: 100%;
+  resize: none;
+}
+
+.txt-translate-quick-preview .arco-tabs-content {
+  height: 93%;
+  overflow-y: auto;
+}
+
+.txt-translate-quick-preview .translate-result {
+  white-space: pre-wrap;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.txt-translate-quick-preview .setting-fontsize {
+  position: absolute;
+  top: 40px;
+  right: 20px;
+  display: flex;
+  opacity: 0.6;
+}
+
+.txt-translate-quick-preview .setting-fontsize .fs-item {
+  cursor: pointer;
+  width: 24px;
+  height: 24px;
+  color: var(--color-text-4);
+  border: 1px solid currentColor;
+  text-align: center;
+  line-height: 24px;
+  margin-right: -1px;
+}
+
+.txt-translate-quick-preview .setting-fontsize .fs-item.active {
+  color: var(--app-color-common);
+  z-index: 1;
+}
