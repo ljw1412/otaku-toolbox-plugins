@@ -404,7 +404,7 @@
         const doc = new DOMParser().parseFromString(text, 'text/html')
 
         this.serverList = Array.from(
-          doc.querySelectorAll('table tbody tr td:nth-child(3n)')
+          doc.querySelectorAll('table tbody tr td:nth-child(3n) > li')
         )
           .map((item) => ({
             url: 'https://' + item.innerHTML,
