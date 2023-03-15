@@ -21,7 +21,7 @@
   useScriptTag(
     'https://s1.hdslb.com/bfs/static/player/main/video.9dd23994.js?v=20210111',
     (el) => {
-      console.log(el)
+      logger.success('加载播放器脚本', el)
       dashPlayerData.bvideoLoaded = true
     }
   )
@@ -57,17 +57,21 @@
       controller.abort()
     }, timeout)
 
-    const resp = await fetch(
-      proxyUrl +
-        '/pgc/player/web/playurl?aid=428150903&bvid=BV1YG411W7zZ&cid=765477233&qn=80&fnver=0&fnval=4048&fourk=1&type=&otype=json&module=bangumi&balh_ajax=1',
-      { signal }
-    )
     try {
+      const resp = await fetch(
+        proxyUrl +
+          '/pgc/player/web/playurl?aid=428150903&bvid=BV1YG411W7zZ&cid=765477233&qn=80&fnver=0&fnval=4048&fourk=1&type=&otype=json&module=bangumi&balh_ajax=1',
+        { signal }
+      )
       const json = await resp.json()
       if (json.code) throw new Error(json.message)
       return json.result || json.data
     } catch (error) {
-      throw new Error('数据获取失败！')
+      logger.error('代理请求失败', proxyUrl, error)
+      if (error.message.includes('Failed to fetch')) {
+        throw new Error('代理请求失败(连接不能)！')
+      }
+      throw error
     }
   }
 
@@ -162,11 +166,11 @@
 
   async function downloadSubtitle(subtitle, title) {
     if (subtitle.blobUrl) {
-      console.log('使用缓存下载字幕', subtitle)
+      logger.message('使用缓存下载字幕', subtitle)
       downloadFile(subtitle.blobUrl, subtitle.srtFileName)
       return
     }
-    console.log(subtitle)
+    // console.log(subtitle)
     const { subtitle_url, lan_doc } = subtitle
     const resp = await fetch(subtitle_url)
     const json = await resp.json()
@@ -307,7 +311,7 @@
           autoplay: true,
           theme: isAreaLimit ? 'red' : '',
         })
-        console.log(this.bPlayer)
+        logger.message('BPlayer', this.bPlayer)
       },
 
       async stopPlayer() {
@@ -340,6 +344,12 @@
         <a-form-item label="代理服务器" help="填写用于解除B站区域限制的服务器地址">
           <a-input v-model="config.proxy"></a-input>
         </a-form-item>
+        <a-divider>
+          公开的服务器列表
+          <a-link :disabled="testing" @click="testProxyList">
+            <icon-sync :spin="testing"/>
+          </a-link>
+        </a-divider>
         <div class="server-list">
           <a-table :columns="columns" :data="serverList" 
             :scroll="{y:200}" :pagination="false">
@@ -359,6 +369,7 @@
 
     data() {
       return {
+        testing: false,
         serverList: [],
         columns: [
           { title: '服务器', dataIndex: 'url' },
@@ -369,6 +380,7 @@
               const state = serverStateMap[record.state]
               return Vue.h('span', { className: state.state }, state.name)
             },
+            width: '100',
           },
           { title: '信息', dataIndex: 'message' },
           { title: '选项', slotName: 'optional', width: 120 },
@@ -430,10 +442,10 @@
         }
       },
 
-      testProxyList() {
-        this.serverList.forEach((item) => {
-          this.fetchProxyItem(item)
-        })
+      async testProxyList() {
+        this.testing = true
+        await Promise.all(this.serverList.map(this.fetchProxyItem))
+        this.testing = false
       },
 
       switchServer(record) {
@@ -946,7 +958,7 @@
         if (matched && matched.length > 1) {
           const bvid = matched[1]
           const info = await fetchVideoInfo({ bvid })
-          console.log(info)
+          logger.message('视频信息', info)
           this.video = info
         }
       },
