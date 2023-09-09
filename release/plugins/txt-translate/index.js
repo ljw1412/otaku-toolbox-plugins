@@ -460,7 +460,7 @@
 
     methods: {
       async handleYouDaoDomReady() {
-        await this.youdao.openDevTools()
+        // await this.youdao.openDevTools()
 
         const clicked = await this.youdao.executeJavaScript(
           `
