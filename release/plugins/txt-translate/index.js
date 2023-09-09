@@ -872,7 +872,7 @@
             document.body.click();
           }`
         )
-        setTimeout(this.getTransTargetYoudao, 1000)
+        setTimeout(this.getTransTargetYoudao, 1500)
       },
 
       async translateBaidu(text) {
