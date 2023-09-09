@@ -30,6 +30,8 @@
       targetText: '',
       languageList: [],
       language: '',
+      targetLanguageList: [],
+      targetLanguage: '',
     },
     baidu: {
       default: false,
@@ -185,12 +187,26 @@
             </div>
             <a-textarea v-model="store.youdao.targetText"
               readonly :auto-size="{minRows:6,maxRows:6}"></a-textarea>
-            <div class="mt-4">
+            <div class="layout-lr mt-4">
               <a-select v-model="store.youdao.language"
                 allow-search
                 size="mini" 
-                @change="handleYouDaoLanguageChange">
+                style="width: 160px;"
+                @change="handleYouDaoLanguageChange('From',$event)">
                 <a-option v-for="item of store.youdao.languageList"
+                  :disabled="item.value === store.youdao.targetLanguage"
+                  :key="item.value" :label="item.name" :value="item.value">
+                </a-option>
+              </a-select>
+              <icon-double-right class="mx-8"/>
+              <a-select v-model="store.youdao.targetLanguage"
+                allow-search
+                size="mini" 
+                style="width: 160px;"
+                :disabled="store.youdao.language === 'AUTO'"
+                @change="handleYouDaoLanguageChange('To',$event)">
+                <a-option v-for="item of store.youdao.targetLanguageList"
+                  :disabled="item.value === store.youdao.language"
                   :key="item.value" :label="item.name" :value="item.value">
                 </a-option>
               </a-select>
@@ -216,31 +232,31 @@
             <a-textarea v-model="store.baidu.targetText" 
               readonly :auto-size="{minRows:6,maxRows:6}"></a-textarea>
               <div class="layout-lr mt-4">
-              <a-select v-model="store.baidu.language"
-                allow-search
-                size="mini" 
-                style="width: 160px;"
-                @change="handleBaiduLanguageChange('from',$event)">
-                <a-option v-for="item of store.baidu.languageList"
-                  :disabled="item.value === store.baidu.targetLanguage"
-                  :key="item.value" :label="item.name" :value="item.value">
-                </a-option>
-              </a-select>
-              <icon-double-right class="mx-8"/>
-              <a-select v-model="store.baidu.targetLanguage"
-                allow-search
-                size="mini" 
-                style="width: 160px;"
-                @change="handleBaiduLanguageChange('to',$event)">
-                <a-option v-for="item of store.baidu.targetLanguageList"
-                  :disabled="item.value === store.baidu.language"
-                  :key="item.value" :label="item.name" :value="item.value">
-                </a-option>
-              </a-select>
+                <a-select v-model="store.baidu.language"
+                  allow-search
+                  size="mini" 
+                  style="width: 160px;"
+                  @change="handleBaiduLanguageChange('from',$event)">
+                  <a-option v-for="item of store.baidu.languageList"
+                    :disabled="item.value === store.baidu.targetLanguage"
+                    :key="item.value" :label="item.name" :value="item.value">
+                  </a-option>
+                </a-select>
+                <icon-double-right class="mx-8"/>
+                <a-select v-model="store.baidu.targetLanguage"
+                  allow-search
+                  size="mini" 
+                  style="width: 160px;"
+                  @change="handleBaiduLanguageChange('to',$event)">
+                  <a-option v-for="item of store.baidu.targetLanguageList"
+                    :disabled="item.value === store.baidu.language"
+                    :key="item.value" :label="item.name" :value="item.value">
+                  </a-option>
+                </a-select>
+              </div>
             </div>
           </div>
         </div>
-      </div>
 
       <div v-show="debugTxtTranslate && isDisplayWebview" class="webviews">
         <webview ref="youdao" src="https://fanyi.youdao.com/" @dom-ready="handleYouDaoDomReady"></webview>
@@ -444,18 +460,57 @@
 
     methods: {
       async handleYouDaoDomReady() {
-        const { languageList, language } = await this.youdao.executeJavaScript(
-          `var selected = document.querySelector('#languageSelect li.selected');
-          ({
-            language: selected ? (selected.dataset.value || 'AUTO') : 'AUTO',
-            languageList: Array.from(document.querySelectorAll('#languageSelect li')).map(el=>{return {name:el.textContent, value: el.dataset.value}})
-          })`
+        await this.youdao.openDevTools()
+
+        const clicked = await this.youdao.executeJavaScript(
+          `
+            var fromel = document.querySelector('.lanFrom-container');
+            if(fromel) fromel.click();
+            !!fromel;
+          `
         )
-        store.youdao.languageList = languageList
-        store.youdao.language = language
-        store.loaded.youdao = true
-        console.log('YouDao is Ready')
-        // this.youdao.openDevTools()
+        console.log('handleYouDaoDomReady:clicked', clicked)
+        if (clicked) {
+          const { languageList, language, targetLanguage } = await this.youdao
+            .executeJavaScript(`
+            var items = document.querySelectorAll('.complex-container .specify-language-container .language-item')
+
+            var languageList = [
+              {name:'自动选择语言',value:'AUTO'},
+              ...Array.from(items).map(item=>{
+              const code = item.dataset.code || 'AUTO'
+              return {
+                name:item.textContent,
+                value: code
+              }
+            })]
+
+            function getCurrentLang() {
+              const fromEl = document.querySelector('.lanFrom-container') || {}
+              const toEl = document.querySelector('.lanTo-container') || {}
+              const languageItem = languageList.find(item=>item.name === fromEl.textContent)
+              const targetLanguageItem = languageList.find(item=>item.name === toEl.textContent)
+              return {
+                language: languageItem ? languageItem.value : '',
+                targetLanguage:targetLanguageItem ? targetLanguageItem.value : '',
+              }
+            }
+            
+
+            const data ={...getCurrentLang() , languageList };
+            setTimeout(() => {document.body.click();}, 300)
+            data;
+            `)
+
+          console.log('handleYouDaoDomReady', languageList, language)
+          store.youdao.language = language
+          store.youdao.languageList = languageList
+          store.youdao.targetLanguage = targetLanguage
+          store.youdao.targetLanguageList = languageList
+
+          store.loaded.youdao = true
+          console.log('YouDao is Ready')
+        }
       },
 
       async handleBaiduDomReady() {
@@ -476,12 +531,34 @@
         // this.baidu.openDevTools()
       },
 
-      async handleYouDaoLanguageChange(lang) {
-        console.log('[有道切换语言]', lang)
-        await this.youdao.executeJavaScript(
-          `var langEl = document.querySelector("[data-value='${lang}'] a");
-          langEl && (langEl.click());`
+      async handleYouDaoLanguageChange(who, lang) {
+        const item = store.youdao.languageList.find(
+          (item) => item.value === lang
         )
+        console.log('[有道切换语言]', who, lang, item)
+        const selectName = `.lan${who}-container`
+        const clicked = await this.youdao.executeJavaScript(
+          `
+            var fromel = document.querySelector('${selectName}');
+            if(fromel) fromel.click();
+            !!fromel;
+          `
+        )
+        console.log('YouDao:clicked', clicked)
+        if (clicked) {
+          await this.youdao.executeJavaScript(
+            `var items = Array.from(document.querySelectorAll('.complex-container .language-item'));
+            var el = items.find(el=>el.dataset.code === '${item.value}') || items[0];
+            el.click();
+          `
+          )
+          const { language, targetLanguage } =
+            await this.youdao.executeJavaScript(`getCurrentLang();`)
+          console.log('YouDao:changed', language, targetLanguage)
+          store.youdao.language = language
+          store.youdao.targetLanguage = targetLanguage
+        }
+
         setTimeout(this.getTransTargetYoudao, 1000)
       },
 
@@ -787,11 +864,12 @@
       async translateYoudao(text) {
         if (!store.loaded.youdao) return
         await this.youdao.executeJavaScript(
-          `var input = document.querySelector('#inputOriginal');
-            var btn = document.querySelector('#transMachine');
-          if(input && btn){
-            input.value = \`${text}\`;
-            btn.click();
+          `var input = document.querySelector('#js_fanyi_input');
+          if(input){
+            input.innerHTML = '';
+            input.focus()
+            document.execCommand('insertText', false, \`${text}\`)
+            document.body.click();
           }`
         )
         setTimeout(this.getTransTargetYoudao, 1000)
@@ -813,9 +891,8 @@
       async getTransTargetYoudao() {
         if (store.loaded.youdao) {
           const result = await this.youdao.executeJavaScript(
-            `Array.from(document.querySelectorAll('#transTarget p')).map(item=>item.innerText).join('\\n')`
+            `Array.from(document.querySelectorAll('#js_fanyi_output_resultOutput p')).map(item=>item.innerText).join('')`
           )
-
           if (this.machineTranslation.isTranslating) {
             this.machineTranslation.current.translateText = result
             return
