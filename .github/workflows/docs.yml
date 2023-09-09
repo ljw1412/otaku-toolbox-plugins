@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Hub Mirror Action.
-        uses: Yikun/hub-mirror-action@v1.2
+        uses: Yikun/hub-mirror-action@v1.3
         with:
           src: github/ljw1412
           dst: gitee/ljw1412
