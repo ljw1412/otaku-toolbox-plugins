@@ -1,17 +1,17 @@
 {
   "name": "动漫之家",
   "namespace": "dmzj",
-  "icon": "http://manhua.dmzj.com/favicon.ico",
-  "url": "http://manhua.dmzj.com",
+  "icon": "https://manhua.idmzj.com/favicon.ico",
+  "url": "https://manhua.idmzj.com",
   "type": "comic-book",
-  "version": 0,
+  "version": 1,
   "pages": [
     {
       "name": "漫画更新",
-      "url": "http://manhua.dmzj.com/update_{:page}.shtml",
+      "url": "https://manhua.idmzj.com/update_{:page}.shtml",
       "mode": "html",
-      "data": { "pageTotal": ".pages .pselected:last|@href|match#\\d+" },
-      "items": ".newpic_content .boxdiv1",
+      "data": { "pageTotal": ".el-pagination .number:last|text" },
+      "items": ".update_con .boxdiv1",
       "itemData": {
         "id": ".pictext .pictextst|@href",
         "path": ".pictext .pictextst|@href",
@@ -26,8 +26,21 @@
     },
     { "name": "全部分类" }
   ],
+  "search": {
+    "url": "http://sacg.dmzj.com/comicsum/search.php?s=${keyword}",
+    "mode": "js",
+    "itemData": "",
+    "items": {
+      "id": "id",
+      "path": "comic_url",
+      "title": "comic_name",
+      "cover": "comic_cover",
+      "author": "comic_author",
+      "status": "status"
+    }
+  },
   "details": {
-    "url": "http://manhua.dmzj.com/{:path}",
+    "url": "https://manhua.idmzj.com/{:path}",
     "mode": "html",
     "data": {
       "title": ".anim_title_text|text",
@@ -41,7 +54,7 @@
     "itemData": { "name": "a|text", "path": "a|@href" }
   },
   "chapter": {
-    "url": "http://manhua.dmzj.com/{:path}",
+    "url": "https://manhua.idmzj.com/{:path}",
     "mode": "html",
     "data": {
       "imageOrigin": "=http://images.dmzj.com/",

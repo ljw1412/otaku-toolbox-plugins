@@ -32,6 +32,7 @@
       language: '',
       targetLanguageList: [],
       targetLanguage: '',
+      tryTime: 0,
     },
     baidu: {
       default: false,
@@ -461,7 +462,6 @@
     methods: {
       async handleYouDaoDomReady() {
         // await this.youdao.openDevTools()
-
         const clicked = await this.youdao.executeJavaScript(
           `
             var fromel = document.querySelector('.lanFrom-container');
@@ -510,6 +510,12 @@
 
           store.loaded.youdao = true
           console.log('YouDao is Ready')
+        } else if (store.youdao.tryTime < 3) {
+          store.youdao.tryTime++
+          setTimeout(() => {
+            this.handleYouDaoDomReady()
+          }, 1500)
+          console.log(`handleYouDaoDomReady ${store.youdao.tryTime}`, '重试')
         }
       },
 
@@ -559,7 +565,7 @@
           store.youdao.targetLanguage = targetLanguage
         }
 
-        setTimeout(this.getTransTargetYoudao, 1000)
+        setTimeout(this.getTransTargetYoudao, 1500)
       },
 
       async handleBaiduLanguageChange(who, lang) {
@@ -872,7 +878,7 @@
             document.body.click();
           }`
         )
-        setTimeout(this.getTransTargetYoudao, 1500)
+        setTimeout(this.getTransTargetYoudao, 1000)
       },
 
       async translateBaidu(text) {

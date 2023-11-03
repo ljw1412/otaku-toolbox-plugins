@@ -2,13 +2,13 @@
   "name": "switch520",
   "namespace": "switch520",
   "icon": "https://css99tel.cdndm5.com/v202111301550/dm5/images/dm5.ico",
-  "url": "https://switch520.com/",
+  "url": "https://www.gamer520.com/",
   "type": "game-resource",
-  "version": 0,
+  "version": 1,
   "pages": [
     {
       "name": "首页",
-      "url": "https://switch520.com/page/{:page}",
+      "url": "https://www.gamer520.com/page/{:page}",
       "mode": "html",
       "data": {
         "pageTotal": ".numeric-pagination > ul .page-numbers:last-child|text"
