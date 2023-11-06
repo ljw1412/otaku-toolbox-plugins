@@ -26,6 +26,9 @@
     text: '',
     translateText: '',
     youdao: {
+      isLoaded: false,
+      isError: false,
+      isTranslating: false,
       default: false,
       targetText: '',
       languageList: [],
@@ -33,20 +36,21 @@
       targetLanguageList: [],
       targetLanguage: '',
       tryTime: 0,
+      delay: 1800,
     },
     baidu: {
+      isLoaded: false,
+      isError: false,
+      isTranslating: false,
       default: false,
       targetText: '',
       languageList: baiduLanguageList,
       language: '',
       targetLanguageList: baiduLanguageList.slice(1),
       targetLanguage: '',
+      delay: 1800,
     },
     list: [],
-    loaded: {
-      youdao: false,
-      baidu: false,
-    },
     cur: {
       id: 0,
       text: '',
@@ -172,7 +176,12 @@
             <div class="title mb-4 layout-lr">
               <div>
                 <a-tag size="medium" 
-                :color="store.loaded.youdao?'green':'red'">有道翻译</a-tag>
+                :color="store.youdao.isLoaded?'green':'red'">
+                  <icon-close v-if="store.youdao.isError"/>
+                  <icon-loading v-else-if="!store.youdao.isLoaded"/>
+                  <span style="padding: 0 2px;">有道翻译</span>
+                  <icon-loading v-if="store.youdao.isTranslating"/>
+                </a-tag>
                 <a-divider direction="vertical" />
                 <a-tag checkable 
                   size="small"
@@ -217,13 +226,18 @@
             <div class="title mb-4 layout-lr">
               <div>
                 <a-tag size="medium" 
-                  :color="store.loaded.baidu?'green':'red'">百度翻译</a-tag>
-                  <a-divider direction="vertical" />
-                  <a-tag checkable 
-                    size="small"
-                    color="arcoblue"
-                    :checked="store.baidu.default"
-                    @check="hadnleChangeDefaultUse('baidu')">默认采用</a-tag>
+                  :color="store.baidu.isLoaded?'green':'red'">
+                  <icon-close v-if="store.baidu.isError"/>
+                  <icon-loading v-else-if="!store.baidu.isLoaded"/>
+                  <span style="padding: 0 2px;">百度翻译</span>
+                  <icon-loading v-if="store.baidu.isTranslating"/>
+                </a-tag>
+                <a-divider direction="vertical" />
+                <a-tag checkable 
+                  size="small"
+                  color="arcoblue"
+                  :checked="store.baidu.default"
+                  @check="hadnleChangeDefaultUse('baidu')">默认采用</a-tag>
               </div>
               <a-space size="mini">
                 <a-button size="mini" @click="getTransTargetBaidu">获取</a-button>
@@ -508,7 +522,7 @@
           store.youdao.targetLanguage = targetLanguage
           store.youdao.targetLanguageList = languageList
 
-          store.loaded.youdao = true
+          store.youdao.isLoaded = true
           console.log('YouDao is Ready')
         } else if (store.youdao.tryTime < 3) {
           store.youdao.tryTime++
@@ -516,11 +530,13 @@
             this.handleYouDaoDomReady()
           }, 1500)
           console.log(`handleYouDaoDomReady ${store.youdao.tryTime}`, '重试')
+        } else {
+          store.youdao.isError = true
         }
       },
 
       async handleBaiduDomReady() {
-        store.loaded.baidu = true
+        store.baidu.isLoaded = true
         const { language, targetLanguage } = await this.baidu
           .executeJavaScript(`
           var form = document.querySelector('.select-from-language .language-selected'); 
@@ -565,7 +581,7 @@
           store.youdao.targetLanguage = targetLanguage
         }
 
-        setTimeout(this.getTransTargetYoudao, 1500)
+        setTimeout(this.getTransTargetYoudao, store.youdao.delay)
       },
 
       async handleBaiduLanguageChange(who, lang) {
@@ -584,7 +600,7 @@
             langItem && (langItem.click());
           },300);`
         )
-        setTimeout(this.getTransTargetBaidu, 1300)
+        setTimeout(this.getTransTargetBaidu, store.baidu.delay)
       },
 
       appendItemByText(text) {
@@ -868,7 +884,8 @@
       },
 
       async translateYoudao(text) {
-        if (!store.loaded.youdao) return
+        if (!store.youdao.isLoaded) return
+        store.youdao.isTranslating = true
         await this.youdao.executeJavaScript(
           `var input = document.querySelector('#js_fanyi_input');
           if(input){
@@ -878,11 +895,12 @@
             document.body.click();
           }`
         )
-        setTimeout(this.getTransTargetYoudao, 1000)
+        setTimeout(this.getTransTargetYoudao, store.youdao.delay)
       },
 
       async translateBaidu(text) {
-        if (!store.loaded.baidu) return
+        if (!store.baidu.isLoaded) return
+        store.baidu.isTranslating = true
         await this.baidu.executeJavaScript(
           `var input = document.querySelector('#baidu_translate_input');
           var btn = document.querySelector('#translate-button');
@@ -891,11 +909,11 @@
           btn.click();
         }`
         )
-        setTimeout(this.getTransTargetBaidu, 1000)
+        setTimeout(this.getTransTargetBaidu, store.baidu.delay)
       },
 
       async getTransTargetYoudao() {
-        if (store.loaded.youdao) {
+        if (store.youdao.isLoaded) {
           const result = await this.youdao.executeJavaScript(
             `Array.from(document.querySelectorAll('#js_fanyi_output_resultOutput p')).map(item=>item.innerText).join('')`
           )
@@ -907,11 +925,12 @@
           if (store.youdao.default && !store.translateText) {
             store.translateText = store.youdao.targetText
           }
+          store.youdao.isTranslating = false
         }
       },
 
       async getTransTargetBaidu() {
-        if (store.loaded.baidu) {
+        if (store.baidu.isLoaded) {
           const result = await this.baidu.executeJavaScript(
             `Array.from(document.querySelectorAll('.trans-right .target-output')).map(item=>item.innerText).join('\\n')`
           )
@@ -924,6 +943,7 @@
           if (store.baidu.default && !store.translateText) {
             store.translateText = store.baidu.targetText
           }
+          store.baidu.isTranslating = false
         }
       },
 
