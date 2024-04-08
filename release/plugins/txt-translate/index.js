@@ -48,6 +48,7 @@
       language: '',
       targetLanguageList: baiduLanguageList.slice(1),
       targetLanguage: '',
+      tryTime: 0,
       delay: 1800,
     },
     list: [],
@@ -536,20 +537,44 @@
       },
 
       async handleBaiduDomReady() {
-        store.baidu.isLoaded = true
-        const { language, targetLanguage } = await this.baidu
+        const isBackOld = await this.baidu.executeJavaScript(`
+          var backOldEl = $('span:contains("返回旧版")');
+          if(backOldEl.length) backOldEl.click();
+          !backOldEl.length
+        `)
+        console.log(
+          'handleBaiduDomReady',
+          isBackOld ? '切换回旧版' : '未找到旧版按钮'
+        )
+
+        const { langMap, error, language, targetLanguage } = await this.baidu
           .executeJavaScript(`
+          var langMap = window.langMap;
           var form = document.querySelector('.select-from-language .language-selected'); 
           var to = document.querySelector('.select-to-language .language-selected');
           ({
+            langMap,
+            error: !form||!to,
             language: form ? form.dataset.lang : '',
             targetLanguage: to ? to.dataset.lang : ''
           })
         `)
 
-        store.baidu.language = language
-        store.baidu.targetLanguage = targetLanguage
-        console.log('Baidu is Ready')
+        if (!error) {
+          store.baidu.language = language
+          store.baidu.targetLanguage = targetLanguage
+          console.log('Baidu is Ready', { langMap, language, targetLanguage })
+          store.baidu.isLoaded = true
+        } else if (store.baidu.tryTime < 3) {
+          store.baidu.tryTime++
+          setTimeout(() => {
+            this.handleBaiduDomReady()
+          }, 1500)
+          console.log(`handleBaiduDomReady ${store.baidu.tryTime}`, '重试')
+        } else {
+          store.baidu.isError = true
+        }
+
         // this.baidu.openDevTools()
       },
 
